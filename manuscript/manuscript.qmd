@@ -2,18 +2,18 @@
 title: "Statistical Inconsistencies in Experimental Linguistics"
 shorttitle: "Statistical Inconsistencies"
 author:
-  - name: Timo B. Roettger
-    corresponding: true
-    orcid: 0000-0000-0000-0001
-    email: timo.roettger@gmail.com
+  - name: Dara Leonard Jenssen Etemady
+    corresponding: false
+    email: daraetemady@gmail.com
     affiliations:
       - name: University of Oslo
         department: Department of Linguistics & Scandinavian Studies
         city: Oslo
         country: Norway
-  - name: Dara Leonard Jenssen Etemady
-    corresponding: false
-    email: daraetemady@gmail.com
+  - name: Timo B. Roettger
+    corresponding: true
+    orcid: 0000-0000-0000-0001
+    email: timo.roettger@gmail.com
     affiliations:
       - name: University of Oslo
         department: Department of Linguistics & Scandinavian Studies
@@ -50,7 +50,6 @@ editor:
 ---
 
 # 1. Introduction
-
 What we know about human language and its cognitive underpinnings is often informed by experimental data, data based on which researchers draw theoretically relevant inferences using common statistical frameworks.
 This inference should be transparent in order for other researchers to critically evaluate the inference process and potentially detect and correct human errors.
 In the recent years, the quantitative sciences have seen repeated calls to become more transparent and reproducible by sharing data and statistical protocols [@roettger2019researcher; @arvan2022reproducibility; @laurinavichyute2022share], sharing of statistical protocols is still rare across the language sciences [@bochynska2023reproducible].
