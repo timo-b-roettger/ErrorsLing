@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.553">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Timo Roettger">
+<meta name="keywords" content="keyword1, keyword2, keyword3">
+
+<title>Statistical Inconsistencies in Experimental Linguistics</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="manuscript_files/libs/clipboard/clipboard.min.js"></script>
+<script src="manuscript_files/libs/quarto-html/quarto.js"></script>
+<script src="manuscript_files/libs/quarto-html/popper.min.js"></script>
+<script src="manuscript_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="manuscript_files/libs/quarto-html/anchor.min.js"></script>
+<link href="manuscript_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="manuscript_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="manuscript_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="manuscript_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="manuscript_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="manuscript.docx"><i class="bi bi-file-word"></i>MS Word (apaquarto)</a></li><li><a href="manuscript.pdf"><i class="bi bi-file-pdf"></i>PDF (apaquarto)</a></li></ul></div></div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Statistical Inconsistencies in Experimental Linguistics</h1>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Timo Roettger <a href="mailto:timo.roettger@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0000-0000-0001" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            University of Oslo
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+  
+    
+  </div>
+  
+<div>
+  <div class="abstract">
+    <div class="block-title">Abstract</div>
+    This document is a template.
+  </div>
+</div>
+
+<div>
+  <div class="keywords">
+    <div class="block-title">Keywords</div>
+    <p>keyword1, keyword2, keyword3</p>
+  </div>
+</div>
+
+</header>
+
+
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<p>What we know about human language and its cognitive underpinnings is often informed by quantitative experimental data, data based on which we draw theoretically relevant inferences using common statistical frameworks. This inference should be transparent in order for us to critically evaluate the inference process and potentially spot and correct human errors. While in the recent years the quantitative sciences have seen repeated calls to become more transparent and reproducible by sharing their data and statistical protocols (Roettger 2019, etc.), such reproducible practices are still rare in the language sciences (Bochynska et al.&nbsp;2023). This can lead to a accumulation of human errors that are left undetected and uncorrected. In the worst case scenario, these errors might lead to -at best- overconfident, -at worst- false theoretical conclusions. The present paper will present evidence that the published literature in experimental linguistics contains a concerning amount of statistical errors which warrant more rigorous data sharing practices.</p>
+<p>The null-hypothesis significance testing (NHST) framework is, to date, the most dominant statistical framework that researchers use to test hypotheses in the language sciences (Sonderegger &amp; Soskuthy 2024). These statistical tests are reported in specific formats which usually contain a test statistic, the degrees of freedom of that test, and the p value, representing the probability of observing the data (or more extreme data) given the null hypothesis (i.e.&nbsp;given that the test statistic is actually zero):</p>
+<ol type="1">
+<li>F(1, 66) = 3.88, p &lt; .05</li>
+</ol>
+<p>Usually, researchers only have access to these reported indices in published research. In absence of access to the data, we are left with trusting the authors and these reported values. Whether that trust is warranted can be assessed, however. The three sets of indices in (1) have a clearly defined mathematical relationship and can thus be checked for consistency. An F test with the specified degrees of freedom and a test-statistic of 3.88 should in fact result in a p value of 0.053 which is larger, not smaller, than 0.5. Thus, (1) is in fact inconsistent. Possible reasons for this inconsistency are manifold: It could be a typo, i.e.&nbsp;the authors meant to use <code>=</code> or <code>&gt;</code> rather than <code>&lt;</code>. Or any of the numbers could be a typo. Sometimes an error might indicate erroneous rounding (e.g.&nbsp;0.057 being round down to 0.05). Other times, there might be a more severe mistake in any step of the analytical pipeline. Without access to data and scripts, it remains unclear to the reader, what causes the inconsistency, but at the very least, our confidence in the statistical analysis should be decreased. Such inconsistencies can be particularly concerning if the calculated p value and the reported p values are not on the same side of the alpha threshold. In NHST, p values below a conventionalized alpha threshold of 0.05 are considered sufficiently inconsistent with the null hypothesis (significant). P values above that threshold are considered consistent with the null hypothesis and practically lead to rejecting the alternative hypothesis (not significant). In (1) above, the reported p value suggest a significant result, the p value derived from the degrees of freedom and the test statistic suggest a non significant result. In the following we refer to these inconsistencies as “decision inconsistency”. This form of inconsistency assessment can be automatically assessed if statistical tests are reported in an unambiguous format. Recently, a series of studies used such a automatic assessments to evaluate the prevalence of inconsistent statistical reporting in published psychological research (e.g. <span class="citation" data-cites="nuijten2016prevalence">Nuijten et al. (<a href="#ref-nuijten2016prevalence" role="doc-biblioref">2016</a>)</span>, <span class="citation" data-cites="nuijten2020statcheck">Nuijten and Polanin (<a href="#ref-nuijten2020statcheck" role="doc-biblioref">2020</a>)</span>, <span class="citation" data-cites="green2018statcheck">Green et al. (<a href="#ref-green2018statcheck" role="doc-biblioref">2018</a>)</span>, <span class="citation" data-cites="gross2021fidelity">Groß (<a href="#ref-gross2021fidelity" role="doc-biblioref">2021</a>)</span>). <span class="citation" data-cites="nuijten2016prevalence">Nuijten et al. (<a href="#ref-nuijten2016prevalence" role="doc-biblioref">2016</a>)</span> found that around 50% of the articles with statistical results contained at least one inconsistencies and around 12.5% contained at least one “decision inconsistency”.</p>
+<p>To assess the prevalence of statistical-reporting inconsistencies in experimental linguistics, the present paper conceptually replicates <span class="citation" data-cites="nuijten2016prevalence">Nuijten et al. (<a href="#ref-nuijten2016prevalence" role="doc-biblioref">2016</a>)</span> and assesses over 5000 articles published in 8 experimental linguistic journals published between 2000 and 2023.<br>
+We further assess whether the number of inconsistency differs across journals, whether it has changed over the course of the last 20 years and whether there is evidence for bias in these statistical-reporting inconsistencies.</p>
+</section>
+<section id="method" class="level1">
+<h1>Method</h1>
+<section id="statcheck" class="level2">
+<h2 class="anchored" data-anchor-id="statcheck">Statcheck</h2>
+<p>We used the R package statcheck (Version 1.4.1-beta.2; Nuijten &amp; Epskamp, 2023) to automatically detect statistical-reporting inconsistencies. Statcheck works as follows: After converting pdf or html articles to plain text, statcheck searches for specific strings that correspond to a NHST result, using “regular expressions”. That way, statcheck can detect results of t tests, F tests, Z tests, χ2 tests, correlation tests, and Q tests as long as the test result fulfills three conditions: (a) the test result is reported completely including the test statistic, degrees of freedom (if applicable), and the p value; (b) the test result is in the body of the text, i.e.&nbsp;it usually misses results reported in tables; and (c) the test result is reported in American Psychological Association style (APA, 2019). Given these constraints, statcheck is estimated to detect roughly 60% of all reported NHST results (Nuijten et al., 2016) Statcheck uses the reported test statistic and degrees of freedom to recalculate the p value, compares the reported and recalculated p values and, if there is a mismatch, reports a comparison as an “inconsistency.” The algorithm takes into account that tests might have been performed as one-tailed by identifying the search strings “one-tailed,” “one-sided,” or “directional”. Moreover, statcheck counts p = .000 and p &lt; .000 as inconsistent as p values of exactly zero are mathematically impossible and the APA manual (APA, 2019) advises to report very small p values as p &lt; .001. Validity checks suggest that inter rater reliability between manual coding and statcheck is high, i.e.&nbsp;0.76 for inconsistencies and 0.89 for decision inconsistencies (Nuijten et al., 2016). The overall accuracy of statcheck is estimated between 96.2% to 99.9% (Nuijten et al., 2017). We thus consider statcheck a valid, but rough proxy of statistical reporting inconsistencies.</p>
+</section>
+<section id="sample" class="level2">
+<h2 class="anchored" data-anchor-id="sample">Sample</h2>
+<p>As experimental linguistic research tends to statistically test hypotheses, we made a short-list of possible linguistic journals that are characterized by a large amount of experimental research. Using <span class="citation" data-cites="kobrock2023assessing">Kobrock and Roettger (<a href="#ref-kobrock2023assessing" role="doc-biblioref">2023</a>)</span> as a point of departure, we selected all linguistic journals with at least 10% of articles containing the search string “experiment*“. Out of these 37 journals, we selected only journals that urged APA formatting either in the main body of the text or specifically regarding statistics in the author guidelines, resulting in nine journals. Moreover, to download the pdfs, the articles had to be either accessible to us through the our library license, or open access, resulting in a final list of eight journals: Applied Psycholinguistics (APS), Bilingualism: Language and Cognition (BLC), Linguistic Approaches to Bilingualism (LAB), Language and Speech (LaS), Language Learning and Techology (LLT), Journal of Language and Social Psychology (LSP), Journal of Child Language (JCL), and Studies in Second Language Acquisition (SLA).</p>
+<p>We included only original research articles within the publication years of 2000-2023, excluding any book reviews, response articles, commentaries, editorials, corrigenda, errata, cover files, advertisements, etc. Articles from LAB spanned 2011-2023, while the rest spanned 2000-2023. This procedure resulted in 5961 research articles. All 5961 articles were submitted to analysis, using Statcheck v1.5.0. 157 articles were not analyzable, and thus had to be removed from the pool, likely related to issues with rendering the Chi-Squared symbol being erroneously converted from .pdf to .txt.</p>
+</section>
+<section id="open-data-statement" class="level2">
+<h2 class="anchored" data-anchor-id="open-data-statement">Open data statement</h2>
+<p>All derived data and corresponding R scripts are available here: LINK. The original articles cannot be bulk shared due to distribution restrictions by the publishers. NEED TO FIGURE OUT A WAY</p>
+</section>
+</section>
+<section id="results" class="level1">
+<h1>Results</h1>
+<p>Out of 5804 articles, 3059 contained statistical reporting that statcheck could assess (53%), containing 39532 assessible tests. 5166 were flagged as an inconsistency (13%) and 655 of which were considered decisions inconsistencies (1.7%) (see Table #). The proportion of inconsistencies ranged from 10 to 22% across journals (1 to 7% for decisions inconsistencies) (see Fig. 1) These rates appear to be stable across year of publication (see Fig. 2). On average, 53% of assessible articles contained one or more inconsistencies (journals range 43-56%) and 15% contained one or more decisions inconsistencies (journals range 11-15%).</p>
+<p>When examining reported against their recalculated p values (see Fig. 3a), we can identify certain spatial patterns. First, the center of density of points lies toward the bottom left corner with more values reported closer to the alpha level. This makes sense since there is a documented publication bias in published quantitative articles, with hypotheses being much more often confirmed than not (REFERENCES). Of all inconsistencies that have been flagged as decisions inconsistencies (655), 57% represent cases in which a reported significant result (p &lt; 0.05) is inconsistent with a non significant recalculated p value above 0.05.<br>
+Second, there is a group of points along the diagonal which corresponds to numerical smaller inconsistencies, some of which might be related to simple rounding errors or minor human error. However, comparing the diagonal to the black line, which represents a linear model predicting recalculated by reported p values, we can see a clear divergence of what is expected if inconsistencies are equally likely in both directions. The regression line has a flatter slope which means that on average, reported p values are lower than their recalculated counter parts. Looking closer at the range between 0 and 0.1, we can see even more structure (see Fig. 3b). There are notable “stripes” in the point distribution, corresponding to rounded values such as 0.001, 0.01, 0.02 etc. These errors might be due to either rounding errors or typos regarding the comparison sign. E.g. a p value that is reported as p = 0.05 with a recalculated value of 0.0561, might indicate erroneous rounding down or was intended to be reported as p &gt; 0.05.</p>
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-sm table-striped small">
+<colgroup>
+<col style="width: 7%">
+<col style="width: 16%">
+<col style="width: 18%">
+<col style="width: 17%">
+<col style="width: 15%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Journal</th>
+<th style="text-align: right;">eligible articles</th>
+<th style="text-align: right;">assessible articles</th>
+<th style="text-align: right;">assessible results</th>
+<th style="text-align: right;">inconsistencies</th>
+<th style="text-align: right;">decision inconsistencies</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">APS</td>
+<td style="text-align: right;">953</td>
+<td style="text-align: right;">690</td>
+<td style="text-align: right;">9570</td>
+<td style="text-align: right;">1368</td>
+<td style="text-align: right;">170</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">BLC</td>
+<td style="text-align: right;">964</td>
+<td style="text-align: right;">610</td>
+<td style="text-align: right;">9093</td>
+<td style="text-align: right;">1161</td>
+<td style="text-align: right;">120</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">JCL</td>
+<td style="text-align: right;">1109</td>
+<td style="text-align: right;">529</td>
+<td style="text-align: right;">6240</td>
+<td style="text-align: right;">750</td>
+<td style="text-align: right;">69</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">LAB</td>
+<td style="text-align: right;">471</td>
+<td style="text-align: right;">133</td>
+<td style="text-align: right;">1719</td>
+<td style="text-align: right;">234</td>
+<td style="text-align: right;">25</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">LLT</td>
+<td style="text-align: right;">421</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">919</td>
+<td style="text-align: right;">201</td>
+<td style="text-align: right;">61</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">LSP</td>
+<td style="text-align: right;">695</td>
+<td style="text-align: right;">376</td>
+<td style="text-align: right;">4320</td>
+<td style="text-align: right;">429</td>
+<td style="text-align: right;">60</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">LaS</td>
+<td style="text-align: right;">598</td>
+<td style="text-align: right;">363</td>
+<td style="text-align: right;">4717</td>
+<td style="text-align: right;">552</td>
+<td style="text-align: right;">86</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">SLA</td>
+<td style="text-align: right;">593</td>
+<td style="text-align: right;">247</td>
+<td style="text-align: right;">2954</td>
+<td style="text-align: right;">471</td>
+<td style="text-align: right;">64</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Total</td>
+<td style="text-align: right;">5804</td>
+<td style="text-align: right;">3059</td>
+<td style="text-align: right;">39532</td>
+<td style="text-align: right;">5166</td>
+<td style="text-align: right;">655</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="manuscript_files/figure-html/prop_journals-1.svg" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="manuscript_files/figure-html/year_prop-1.svg" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="discussion-and-recommendations" class="level1">
+<h1>Discussion and Recommendations</h1>
+</section>
+<section id="references" class="level1">
+<h1>References</h1>
+<!-- References will auto-populate in the refs div below -->
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-green2018statcheck" class="csl-entry" role="listitem">
+Green, Christopher D, Sahir Abbas, Arlie Belliveau, Nataly Beribisky, Ian J Davidson, Julian DiGiovanni, Crystal Heidari, Shane M Martin, Eric Oosenbrug, and Linda M Wainewright. 2018. <span>“Statcheck in Canada: What Proportion of CPA Journal Articles Contain Errors in the Reporting of p-Values?”</span> <em>Canadian Psychology/Psychologie Canadienne</em> 59 (3): 203.
+</div>
+<div id="ref-gross2021fidelity" class="csl-entry" role="listitem">
+Groß, Thomas. 2021. <span>“Fidelity of Statistical Reporting in 10 Years of Cyber Security User Studies.”</span> In <em>Socio-Technical Aspects in Security and Trust: 9th International Workshop, STAST 2019, Luxembourg City, Luxembourg, September 26, 2019, Revised Selected Papers 9</em>, 3–26. Springer.
+</div>
+<div id="ref-kobrock2023assessing" class="csl-entry" role="listitem">
+Kobrock, Kristina, and Timo Roettger. 2023. <span>“Assessing the Replication Landscape in Experimental Linguistics.”</span> <em>Glossa Psycholinguistics</em> 2 (1): 1–28.
+</div>
+<div id="ref-nuijten2016prevalence" class="csl-entry" role="listitem">
+Nuijten, Michèle B, Chris HJ Hartgerink, Marcel ALM Van Assen, Sacha Epskamp, and Jelte M Wicherts. 2016. <span>“The Prevalence of Statistical Reporting Errors in Psychology (1985–2013).”</span> <em>Behavior Research Methods</em> 48: 1205–26.
+</div>
+<div id="ref-nuijten2020statcheck" class="csl-entry" role="listitem">
+Nuijten, Michèle B, and Joshua R Polanin. 2020. <span>“<span>‘Statcheck’</span>: Automatically Detect Statistical Reporting Inconsistencies to Increase Reproducibility of Meta-Analyses.”</span> <em>Research Synthesis Methods</em> 11 (5): 574–79.
+</div>
+</div>
+</section>
+<section id="appendix" class="level1">
+<h1>Appendix</h1>
+</section>
+<section id="title-for-appendix" class="level1">
+<h1>Title for Appendix</h1>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

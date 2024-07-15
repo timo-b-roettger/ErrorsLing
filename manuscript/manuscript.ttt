@@ -1,0 +1,35 @@
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.0755}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1698}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1887}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1792}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1509}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.2358}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Journal
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+eligible articles
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+assessible articles
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+assessible results
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+inconsistencies
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+decision inconsistencies
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+APS & 953 & 690 & 9570 & 1368 & 170 \\
+BLC & 964 & 610 & 9093 & 1161 & 120 \\
+JCL & 1109 & 529 & 6240 & 750 & 69 \\
+LAB & 471 & 133 & 1719 & 234 & 25 \\
+LLT & 421 & 111 & 919 & 201 & 61 \\
+LSP & 695 & 376 & 4320 & 429 & 60 \\
+LaS & 598 & 363 & 4717 & 552 & 86 \\
+SLA & 593 & 247 & 2954 & 471 & 64 \\
+Total & 5804 & 3059 & 39532 & 5166 & 655 \\
+\end{longtable}

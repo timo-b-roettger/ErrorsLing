@@ -1,0 +1,7 @@
+project:
+  title: "many_stats"
+
+render:
+  - ./scripts/02_tidy_assessment.qmd
+  - ./manuscript/manuscript.qmd
+
