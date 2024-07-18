@@ -22,7 +22,6 @@
 library(rstudioapi)
 library(tidyverse)
 library(ggpubr)
-library(broom)
 library(statcheck)
 library(janitor)
 library(patchwork)
@@ -32,9 +31,10 @@ library(ggstream)
 ## data ########################################################################                        
 
 
-## load in data from location of script (uncomment if you run script outside of manuscript.qmd)
-#current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-#setwd(current_working_dir)
+## load in data from location of script 
+## (uncomment if you run script outside of sourcing it through manuscript.qmd)
+# current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+# setwd(current_working_dir)
 
 ## list all journal units
 files <- list.files("../Journals", recursive = TRUE, pattern = "\\.pdf")
@@ -98,8 +98,12 @@ journal_summary_counts <- xdata %>%
   adorn_totals(name = "Total") %>% 
   select(journal, n.art, checked_articles, checked_results, errors, gross_errors)
 
-colnames(journal_summary_counts) <- c("Journal", "eligible articles", "assessible articles",
+colnames(journal_summary_counts) <- c("Journal", "eligible articles", "assessable articles",
                                       "assessible results", "inconsistencies", "decision inconsistencies")
+
+# prevalence of errors for different comparison signs
+sign_distribution <- xtabs(~error + p_comp, xdata)
+sign_distribution_decision <- xtabs(~decision_error + p_comp, xdata)
 
 
 ## summary table proportions
@@ -155,7 +159,6 @@ per_article_long <- per_article %>%
 
 
 ## Figure 1 ####################################################################                       
-
 
 ## plot as stacked barplot (figure 1)
 stacked_bar <- 
@@ -323,7 +326,7 @@ xdata <- xdata %>%
 
 xdata_sub <- xdata %>% 
   filter(error == T,
-         test_comp == "=")
+         p_comp == "=")
 
 reportedVcomputed <- ggplot(xdata_sub) + 
   geom_point(data = xdata_sub %>% filter(decision_error == F),
@@ -400,8 +403,92 @@ ggplot(xdata_sub) +
   theme_minimal() 
 
 
-xdata_sub <- xdata %>% 
-  filter(error == T,
-         test_comp == "=")
-
-
+## liberal analysis ###############################################################                    
+# 
+# ## all errors
+# xdata_errors <- xdata %>% 
+#   summarise(errors = sum(error == T),
+#             decision_errors = sum(decision_error == T))
+# 
+# # errors excluding p = 0
+# xdata_errors_withou0 <- xdata %>% 
+#   filter(!reported_p == 0 & p_comp %in% c("=", "<")) %>% 
+#   summarise(errors = sum(error == T),
+#             decision_errors = sum(decision_error == T))
+# 
+# # errors excluding p differences under e-03
+# xdata_errors_nearenough <- xdata %>% 
+#   mutate(close_enough = near(reported_p, computed_p, tol = 1e-2)) %>% 
+#   filter(close_enough == F) %>% 
+#   summarise(errors = sum(error == T),
+#             decision_errors = sum(decision_error == T))
+# 
+# # errors excluding p = 0 AND p differences under e-03
+# xdata_errors_withou0_nearenough <- xdata %>% 
+#   mutate(close_enough = near(reported_p, computed_p, tol = 1e-2)) %>% 
+#   filter(!reported_p == 0 & p_comp %in% c("=", "<"),
+#          close_enough == F) %>% 
+#   summarise(errors = sum(error == T),
+#         decision_errors = sum(decision_error == T))
+# 
+# # bind to table
+# error_type_tbl <- rbind(xdata_errors,
+#                         xdata_errors_withou0,
+#                         xdata_errors_nearenough,
+#                         xdata_errors_withou0_nearenough)
+# 
+# ## wrangle to table
+# error_type_tbl <- error_type_tbl %>% 
+#   mutate(subset = c("all", "exclude p =/< 0", 
+#                     "exclude differences <e-03", 
+#                     "exclude p = 0 and differences <e-03"),
+#          error_rate = errors/journal_summary_counts[9,4][[1]],
+#          decision_error_rate = decision_errors/journal_summary_counts[9,4][[1]]) %>% 
+#   select(subset, errors, decision_errors, error_rate, decision_error_rate)
+# 
+# ## recalculate proportion of checkable articles that contain 1 or more errors and 1 or more decision errors
+# liberal_per_article_gross <- xdata %>% 
+#   group_by(source) %>% 
+#   summarise(checked_results = n()) 
+# 
+# liberal_per_article_errors <- xdata %>% 
+#   group_by(source) %>% 
+#   filter(!reported_p == 0 & p_comp %in% c("=", "<"),
+#          close_enough == F) %>% 
+#   summarise(errors = sum(error),
+#             gross_errors = sum(decision_error),
+#             has_error = ifelse(errors > 0, 1, 0),
+#             has_gross = ifelse(gross_errors > 0, 1, 0)
+#   ) %>% 
+#   count(has_error)
+# 
+#   ungroup() %>% 
+#   summarise(prop_has_error = mean(has_error),
+#             prop_has_gross = mean(has_gross)
+#   )
+# 
+# 
+#   
+# ## closer look at errors
+# # evidence for sign switch
+# xdata %>% 
+#     filter(error == T,
+#            p_comp == ">") %>% 
+#     summarise(all = n(),
+#               bias = sum(reported_p>computed_p))
+# 
+# # 56/57
+# xdata %>% 
+#   filter(error == T,
+#          p_comp == "<") %>% 
+#   summarise(all = n(),
+#             bias = sum(reported_p>computed_p))
+# 
+# 
+#     
+#     
+#   ggplot(aes(x=reported_p, y = computed_p)) +
+#   geom_point(alpha = 0.3) +
+#   scale_x_continuous(limits=c(0,0.1))
+  
+  

@@ -1,7 +1,7 @@
 project:
-  title: "many_stats"
+  title: "Errors in xlng"
 
 render:
-  - ./scripts/02_tidy_assessment.qmd
+  - ./scripts/01_Analysis.R
   - ./manuscript/manuscript.qmd
 
