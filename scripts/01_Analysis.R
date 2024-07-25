@@ -1,22 +1,21 @@
 ## title: Statistical reporting inconsistencies in Ling
-## author: Timo B. Roettger
-## contact: timo.b.roettger@gmail.com   
+## author: anonymous
+## contact: anonymous   
 ## date created: 2024-07-11
-## date last edited:2024-07-11
+## date last edited: 2024-07-25
 
 
 ## packages ####################################################################                        
- 
 
 # load in relevant libraries, install if not installed
 # if (!require("pacman")) install.packages("pacman")
 # pacman::p_load(rstudioapi, 
 #                tidyverse, 
 #                ggpubr, 
-#                broom, 
 #                statcheck,
 #                janitor,
-#                patchwork
+#                patchwork,
+#                ggstream
 # )
 
 library(rstudioapi)
@@ -37,6 +36,7 @@ library(ggstream)
 # setwd(current_working_dir)
 
 ## list all journal units
+## only works with access to all article pdfs, skip if you don't have access
 files <- list.files("../Journals", recursive = TRUE, pattern = "\\.pdf")
 
 ## how many articles?
@@ -60,7 +60,6 @@ n_articles = length(files)
 
 ## statcheck ###################################################################                      
 
-
 ## read pdfs in /Journals with statcheck, checks for one tailed tests
 ## can only be run with access to original articles, bulk sharing is not prohibited by the journals
 #stat <- checkPDFdir("Journals", OneTailedTxt = TRUE)
@@ -70,7 +69,6 @@ n_articles = length(files)
 
 
 ## data ########################################################################                        
-
 
 ## load in data
 xdata <- read.csv("../data/statcheck_data.csv")
@@ -104,7 +102,6 @@ colnames(journal_summary_counts) <- c("Journal", "eligible articles", "assessabl
 # prevalence of errors for different comparison signs
 sign_distribution <- xtabs(~error + p_comp, xdata)
 sign_distribution_decision <- xtabs(~decision_error + p_comp, xdata)
-
 
 ## summary table proportions
 journal_summary_prop <- xdata %>% 
@@ -215,7 +212,6 @@ ggsave(filename = "../plots/figure1.png",
 
 ## figure 2 ####################################################################                        
 
-
 ## aggregate for proportion over year
 year_summary_prop <- xdata %>% 
   group_by(year) %>% 
@@ -236,7 +232,6 @@ year_summary_prop_long <- year_summary_prop %>%
   select(year, prop_errors, prop_gross, all) %>% 
   pivot_longer(!year, names_to = "error", values_to = "proportion")
   
- 
 ## aggregate for proportion over year per journal
 year_journal_prop <- xdata %>% 
   group_by(year, journal) %>% 
@@ -377,6 +372,7 @@ ggsave(filename = "../plots/figure3.png",
        units = "mm", 
        dpi = 300) 
 
+## not in paper, closer look at scatter plot in critical region
 ggplot(xdata_sub) + 
   geom_point(data = xdata_sub %>% filter(decision_error == F),
              aes(x = reported_p, y = computed_p),
@@ -401,94 +397,5 @@ ggplot(xdata_sub) +
   scale_y_continuous(limits = c(0,0.1),
                      breaks = c(0.001, 0.01, 0.02, 0.03, 0.04, 0.05, 0.1)) +
   theme_minimal() 
-
-
-## liberal analysis ###############################################################                    
-# 
-# ## all errors
-# xdata_errors <- xdata %>% 
-#   summarise(errors = sum(error == T),
-#             decision_errors = sum(decision_error == T))
-# 
-# # errors excluding p = 0
-# xdata_errors_withou0 <- xdata %>% 
-#   filter(!reported_p == 0 & p_comp %in% c("=", "<")) %>% 
-#   summarise(errors = sum(error == T),
-#             decision_errors = sum(decision_error == T))
-# 
-# # errors excluding p differences under e-03
-# xdata_errors_nearenough <- xdata %>% 
-#   mutate(close_enough = near(reported_p, computed_p, tol = 1e-2)) %>% 
-#   filter(close_enough == F) %>% 
-#   summarise(errors = sum(error == T),
-#             decision_errors = sum(decision_error == T))
-# 
-# # errors excluding p = 0 AND p differences under e-03
-# xdata_errors_withou0_nearenough <- xdata %>% 
-#   mutate(close_enough = near(reported_p, computed_p, tol = 1e-2)) %>% 
-#   filter(!reported_p == 0 & p_comp %in% c("=", "<"),
-#          close_enough == F) %>% 
-#   summarise(errors = sum(error == T),
-#         decision_errors = sum(decision_error == T))
-# 
-# # bind to table
-# error_type_tbl <- rbind(xdata_errors,
-#                         xdata_errors_withou0,
-#                         xdata_errors_nearenough,
-#                         xdata_errors_withou0_nearenough)
-# 
-# ## wrangle to table
-# error_type_tbl <- error_type_tbl %>% 
-#   mutate(subset = c("all", "exclude p =/< 0", 
-#                     "exclude differences <e-03", 
-#                     "exclude p = 0 and differences <e-03"),
-#          error_rate = errors/journal_summary_counts[9,4][[1]],
-#          decision_error_rate = decision_errors/journal_summary_counts[9,4][[1]]) %>% 
-#   select(subset, errors, decision_errors, error_rate, decision_error_rate)
-# 
-# ## recalculate proportion of checkable articles that contain 1 or more errors and 1 or more decision errors
-# liberal_per_article_gross <- xdata %>% 
-#   group_by(source) %>% 
-#   summarise(checked_results = n()) 
-# 
-# liberal_per_article_errors <- xdata %>% 
-#   group_by(source) %>% 
-#   filter(!reported_p == 0 & p_comp %in% c("=", "<"),
-#          close_enough == F) %>% 
-#   summarise(errors = sum(error),
-#             gross_errors = sum(decision_error),
-#             has_error = ifelse(errors > 0, 1, 0),
-#             has_gross = ifelse(gross_errors > 0, 1, 0)
-#   ) %>% 
-#   count(has_error)
-# 
-#   ungroup() %>% 
-#   summarise(prop_has_error = mean(has_error),
-#             prop_has_gross = mean(has_gross)
-#   )
-# 
-# 
-#   
-# ## closer look at errors
-# # evidence for sign switch
-# xdata %>% 
-#     filter(error == T,
-#            p_comp == ">") %>% 
-#     summarise(all = n(),
-#               bias = sum(reported_p>computed_p))
-# 
-# # 56/57
-# xdata %>% 
-#   filter(error == T,
-#          p_comp == "<") %>% 
-#   summarise(all = n(),
-#             bias = sum(reported_p>computed_p))
-# 
-# 
-#     
-#     
-#   ggplot(aes(x=reported_p, y = computed_p)) +
-#   geom_point(alpha = 0.3) +
-#   scale_x_continuous(limits=c(0,0.1))
   
   
