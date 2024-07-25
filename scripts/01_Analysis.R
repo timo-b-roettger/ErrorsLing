@@ -99,7 +99,7 @@ journal_summary_counts <- xdata %>%
   select(journal, n.art, checked_articles, checked_results, errors, gross_errors)
 
 colnames(journal_summary_counts) <- c("Journal", "eligible articles", "assessable articles",
-                                      "assessible results", "inconsistencies", "decision inconsistencies")
+                                      "assessable results", "inconsistencies", "decision inconsistencies")
 
 # prevalence of errors for different comparison signs
 sign_distribution <- xtabs(~error + p_comp, xdata)

@@ -1,5 +1,5 @@
 ---
-title: "The (mis)reporting of statistical results in experimental linguistics"
+title: "Statistical Reporting Inconsistencies in Experimental Linguistics"
 shorttitle: "Statistical Inconsistencies"
 author:
   - name: Dara Leonard Jenssen Etemady
@@ -27,10 +27,10 @@ author-note:
     study-registration: null
     data-sharing: null
     related-report: null
-    conflict-of-interest: null
+    conflict-of-interest: The authors have no conflict of interest to declare.
     financial-support: null
     gratitude: null
-    authorship-agreements: null
+    authorship-agreements: Conceptionalization, Methodology, Validation, Formal Analysis, Review & Editing of Manuscript, Data Curation - T.B.R. & D.L.J.E.; Software, Investigation - D.L.J.E.; Writing of Original Draft, Visualization, Supervision - T.B.R.
 abstract: "The present paper investigates the prevalence of statistical reporting consistencies across articles in eight experimental linguistics journals, published between 2000 and 2023. Using the R package “Statcheck”, we retrieved 39532 statistical test and assessed whether p-values were inconsistent with their test statistic and degrees of freedom. Half of all articles that used null hypothesis signficance testing contained at least one inconsistent p-value. One in eight articles contained an inconsistency that may have affected the statistical conclusion. The inconsistency rates were stable across journals and publication years. We offer actionable steps for authors, reviewers, and editors to remmedy this state-of-affairs."
 keywords: [statistics, statcheck, reproducibility]
 bibliography: bibliography.bib
@@ -96,7 +96,7 @@ Possible reasons for this inconsistency are manifold: It could be a typo of the 
 Any of the numbers could contain a typo.
 Sometimes an error might indicate erroneous rounding (e.g. 0.057 being rounded down to 0.05).
 Without access to data and scripts, it remains unclear to the reader what has caused this inconsistency.
-Such inconsistencies can be particularly concerning if the calculated p-value (here 0.057) and the reported p-values (here >0.05) are not on the same side of the alpha threshold.
+Such inconsistencies can be particularly concerning if the calculated p-value (here 0.057) and the reported p-values (here <0.05) are not on the same side of the alpha threshold.
 In NHST, p-values below a conventionalized alpha threshold, most commonly 0.05, are interpreted as evidence that the data are sufficiently inconsistent with the null hypothesis ("significant").
 P-values above that threshold are considered consistent with the null hypothesis and practically lead to rejecting the alternative hypothesis ("non-significant").
 In (1) above, the reported p-value suggest a significant result, the p-value derived from the degrees of freedom and the test statistic suggest a non-significant result.
@@ -134,7 +134,7 @@ knitr::opts_chunk$set(dpi = 300)
 All quantitative analyses were conducted using @rmanual and the r packages \[LIST ALL PACKAGES from 01_Analysis.R and add to references\]
 
 ## 3.1. Statcheck
-We used the R package wtatcheck [Version 1.4.1-beta.2, @nuijten2023statcheck] to automatically detect statistical-reporting inconsistencies.
+We used the R package Statcheck [Version 1.4.1-beta.2, @nuijten2023statcheck] to automatically detect statistical-reporting inconsistencies.
 Statcheck works as follows: After converting articles in pdf or html format to plain text, Statcheck searches for specific strings that correspond to a NHST result using “regular expressions”.
 That way, statcheck can detect results of t-tests, F-tests, Z-tests, χ2-tests, correlation tests, and Q tests as long as the test result fulfills three conditions: (a) the test result is reported completely including the test statistic, the degrees of freedom (if applicable), and the p-value; (b) the test result is in the body of the text, i.e. Statcheck usually misses reported in tables; and (c) the test result is reported in American Psychological Association style [@APA2020].
 Given these constraints, Statcheck is estimated to detect roughly 60% of all reported NHST results [@nuijten2016prevalence]. 
@@ -146,14 +146,15 @@ The overall accuracy of Statcheck is estimated to be between 96.2% to 99.9% [@nu
 We thus consider Statcheck a valid proxy of the prevalence of statistical reporting inconsistencies.
 
 ## 3.2. Sample
-Focusing on experimental linguistic research, we used @kobrock2023assessing as a point of departure who list 100 linguistic journals that had at least a hundred articles published at the time of assessment (2021) and a high ratio of articles containing the term “experiment\* in title, abstract and/or keywords.
+Focusing on experimental linguistic research, we used @kobrock2023assessing as a point of departure who list 100 linguistic journals that had at least a hundred articles published at the time of assessment (2021) and a high ratio of articles containing the search string "experiment\*" in title, abstract and/or keywords.
 Out of these 100 journals, we selected all journals with at least 10% of articles containing the search string "experiment\*".
 Out of the remaining 37 journals, we selected those journals that urged APA formatting either in the main body of the text or specifically regarding statistics in the author guidelines, resulting in nine remaining journals.
 Moreover, to access the articles in .pdf format, the articles had to be either accessible to us through our library license, or open access, resulting in a final list of eight journals: Applied Psycholinguistics (APS), Bilingualism: Language and Cognition (BLC), Linguistic Approaches to Bilingualism (LAB), Language and Speech (LaS), Language Learning and Techology (LLT), Journal of Language and Social Psychology (LSP), Journal of Child Language (JCL), and Studies in Second Language Acquisition (SLA).
 
 We included only original research articles within the publication years of 2000-2023, excluding any book reviews, response articles, commentaries, editorials, corrigenda, errata, advertisements, etc.
 Articles from LAB spanned 2011-2023, while the other journals spanned 2000-2023.
-Statcheck could not parse 157 articles, likely related to issues with rendering the Chi-Squared symbol being erroneously converted from .pdf to .txt.
+Statcheck could not parse 157 articles, likely related to issues with rendering the Chi-Squared symbol being erroneously converted from .pdf to .txt. 
+No assessable statistics were found by Statcheck in JCL articles from 2000 to 2002 and in SLA articles from 2004 to 2008.
 This procedure resulted in `{r} length(files)` research articles which were submitted to analysis.
 
 
@@ -176,9 +177,9 @@ knitr::kable(journal_summary_counts)
 
 ```
 
-The proportion of inconsistencies ranged from `{r} round(min(journal_summary_prop[,2]),0)` to `{r} round(max(journal_summary_prop[,2]),0)`% across journals (`{r} round(min(journal_summary_prop[,3]),0)` to `{r} round(max(journal_summary_prop[,3]),0)`% for decisions inconsistencies) (see @fig-stacked-bar).
+The proportion of inconsistencies ranged from `{r} round(min(journal_summary_prop[,2]),0)` to `{r} round(max(journal_summary_prop[,2]),0)`% across journals (`{r} round(min(journal_summary_prop[,3]),0)` to `{r} round(max(journal_summary_prop[,3]),0)`% for decision inconsistencies) (see @fig-stacked-bar).
 These rates appear to be stable across year of publication (see @fig-year-prop).
-On average, `{r} 100*round(gross_per_article[[1]],2)`% of assessable articles contained one or more inconsistencies (journals range from `{r} 100*round(min(per_article[,2]),2)` to `{r} 100*round(max(per_article[,2]),2)`%) and `{r} 100*round(gross_per_article[[2]],2)`% contained one or more decisions inconsistencies (journals range from `{r} 100*round(min(per_article[,3]),2)` to `{r} 100*round(max(per_article[,3]),2)`%).
+On average, `{r} 100*round(gross_per_article[[1]],2)`% of assessable articles contained one or more inconsistencies (journals range from `{r} 100*round(min(per_article[,2]),2)` to `{r} 100*round(max(per_article[,2]),2)`%) and `{r} 100*round(gross_per_article[[2]],2)`% contained one or more decision inconsistencies (journals range from `{r} 100*round(min(per_article[,3]),2)` to `{r} 100*round(max(per_article[,3]),2)`%).
 
 ```{r}
 #| label: fig-stacked-bar
@@ -203,13 +204,13 @@ When examining reported against recalculated p-values for all inconsistencies (s
 First, the center of density of points is located in the bottom left corner with more p-values reported closer to the standard alpha level of 0.05.
 This is not surprising, since the quantitative sciences exhibit a documented publication bias, with hypotheses being more often confirmed (and thus p \< .05) than not [@franco2014publication; @sterling1959publication].
 Second, there is a linear density of points along the diagonal axis which corresponds to numerically small inconsistencies, some of which might be related to simple rounding errors.
-However, comparing the diagonal to the black line, which represents a linear model predicting recalculated by reported p-values, we can see a clear divergence of what is expected if inconsistencies were equally likely in both directions (i.e. recalculated p-values were as likely to be smaller than the reported p-value as larger).
+However, comparing the diagonal to the black line, which represents a linear model predicting recalculated by reported p-values, we can see a clear divergence of what is expected if inconsistencies were equally likely in both directions.
 The slope of the regression line is flatter than the diagonal axis which means that, on average, inconsistencies have a tendency to exhibit smaller reported p-values than their recalculated counterparts.
 Similarly, inconsistencies that report the p-value as being larger or smaller than a reference value (e.g. p > 0.05 or p < 0.05 ) are not equally prevalent. 
 There were `{r} 100*round(sign_distribution[6]/sign_distribution[5], 3)`% of inconsistencies with p being reported as larger than a reference but `{r} 100*round(sign_distribution[2]/sign_distribution[1], 3)`% inconsistencies with p being reported as smaller than a reference (e.g. p < 0.05). 
 So even if we assumed these inconsistencies were merely typos of the comparison sign, inconsistencies that erroneously report the p-value to be smaller than a reference value are more frequent than inconsistencies that erroneously report the p-value to be larger than a reference value.
-These biases are also reflected in decisions inconsistencies.
-Of all decisions inconsistencies (n = `{r} nrow(xdata[xdata$decision_error == TRUE,])`), `{r} 100 * round(nrow(xdata[xdata$decision_error == TRUE & xdata$computed_p >= .05,]) / nrow(xdata[xdata$decision_error == TRUE,]),2)`% represent cases in which a reported significant result (p \< 0.05) is recalculated as non-significant (p \> 0.05).
+These biases are also reflected in decision inconsistencies.
+Of all decision inconsistencies (n = `{r} nrow(xdata[xdata$decision_error == TRUE,])`), `{r} 100 * round(nrow(xdata[xdata$decision_error == TRUE & xdata$computed_p >= .05,]) / nrow(xdata[xdata$decision_error == TRUE,]),2)`% represent cases in which a reported significant result (p \< 0.05) is recalculated as non-significant (p \> 0.05).
 
 
 ```{r}
@@ -229,12 +230,12 @@ The present study found a large amount of statistical reporting inconsistencies 
 On average, `{r} 100*round(gross_per_article[[1]],2)`% of assessable articles contained at least one inconsistency and `{r} 100*round(gross_per_article[[2]],2)`% contained at least one decision inconsistency.
 
 The present study can be considered a conceptual replication of previous studies investigating statistical-reporting inconsistency across different disciplines [@bakker2011mis; @bakker2014outlier; @caperos2013consistency; @veldkamp2014statistical; @wicherts2011willingness] and most recent such assessment using Statcheck [@nuijten2016prevalence; @buckley2023estimating; @colombo2018statistical; @gross2021fidelity]. 
-Previous studies report on inconsistency rates between 4% and 14%, with between 10% and 63% of articles containing at least one inconsistency and between 3% and 21% contain at least one decision consistencies.
+Previous studies report on inconsistency rates between 4% and 14%, with between 10% and 63% of articles containing at least one inconsistency and between 3% and 21% contain at least one decision consistency.
 
 Even if the prevalence of these inconsistencies could be largely attributed to inconsequential typos or rounding errors (an assumption we cannot test without access to the data), the sheer amount of these inconsistencies that have made it through peer-review should concern us.
 They are human errors.
 If such a substantial amount of errors is found in plain site, the question naturally arises as to how many errors during the data analysis itself remain undetected.
-If the tip of the iceberg above water is already so large, how large is the body of the iceberg underneath the surface?
+If the tip of the iceberg is already so large, what is the volume of the submerged iceberg?
 
 The present examination assessment did not indicate any noticeable trend over the last 23 years of publications nor did the data suggest large differences between journals.
 
@@ -307,7 +308,3 @@ Being aware of this fact and how it might affect research might help us to make 
 
 ::: {#refs}
 :::
-
-# Appendix
-
-# Title for Appendix

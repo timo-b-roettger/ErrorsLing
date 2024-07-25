@@ -140,8 +140,8 @@
 
 
 
-\title{The (mis)reporting of statistical results in experimental
-linguistics}
+\title{Statistical Reporting Inconsistencies in Experimental
+Linguistics}
 
 
 \shorttitle{Statistical Inconsistencies}
@@ -188,7 +188,11 @@ reviewers, and editors to remmedy this state-of-affairs.}
 
 \authornote{\par{\addORCIDlink{Timo B. Roettger}{0000-0000-0000-0001}} 
 \par{ }
-\par{       }
+\par{   The authors have no conflict of interest to
+declare.   Conceptionalization, Methodology, Validation, Formal
+Analysis, Review \& Editing of Manuscript, Data Curation - T.B.R. \&
+D.L.J.E.; Software, Investigation - D.L.J.E.; Writing of Original Draft,
+Visualization, Supervision - T.B.R. }
 \par{Correspondence concerning this article should be addressed to Timo
 B. Roettger, Email: timo.roettger@gmail.com}
 }
@@ -347,7 +351,7 @@ erroneous rounding (e.g.~0.057 being rounded down to 0.05). Without
 access to data and scripts, it remains unclear to the reader what has
 caused this inconsistency. Such inconsistencies can be particularly
 concerning if the calculated p-value (here 0.057) and the reported
-p-values (here \textgreater0.05) are not on the same side of the alpha
+p-values (here \textless0.05) are not on the same side of the alpha
 threshold. In NHST, p-values below a conventionalized alpha threshold,
 most commonly 0.05, are interpreted as evidence that the data are
 sufficiently inconsistent with the null hypothesis (``significant'').
@@ -406,7 +410,7 @@ from 01\_Analysis.R and add to references{]}
 
 \subsection{3.1. Statcheck}\label{statcheck}
 
-We used the R package wtatcheck (Version 1.4.1-beta.2,
+We used the R package Statcheck (Version 1.4.1-beta.2,
 \citeproc{ref-nuijten2023statcheck}{Nuijten \& Epskamp, 2023}) to
 automatically detect statistical-reporting inconsistencies. Statcheck
 works as follows: After converting articles in pdf or html format to
@@ -447,20 +451,20 @@ Focusing on experimental linguistic research, we used Kobrock and
 Roettger (\citeproc{ref-kobrock2023assessing}{2023}) as a point of
 departure who list 100 linguistic journals that had at least a hundred
 articles published at the time of assessment (2021) and a high ratio of
-articles containing the term ``experiment* in title, abstract and/or
-keywords. Out of these 100 journals, we selected all journals with at
-least 10\% of articles containing the search string''experiment*``. Out
-of the remaining 37 journals, we selected those journals that urged APA
-formatting either in the main body of the text or specifically regarding
-statistics in the author guidelines, resulting in nine remaining
-journals. Moreover, to access the articles in .pdf format, the articles
-had to be either accessible to us through our library license, or open
-access, resulting in a final list of eight journals: Applied
-Psycholinguistics (APS), Bilingualism: Language and Cognition (BLC),
-Linguistic Approaches to Bilingualism (LAB), Language and Speech (LaS),
-Language Learning and Techology (LLT), Journal of Language and Social
-Psychology (LSP), Journal of Child Language (JCL), and Studies in Second
-Language Acquisition (SLA).
+articles containing the search string ``experiment*'' in title, abstract
+and/or keywords. Out of these 100 journals, we selected all journals
+with at least 10\% of articles containing the search string
+``experiment*''. Out of the remaining 37 journals, we selected those
+journals that urged APA formatting either in the main body of the text
+or specifically regarding statistics in the author guidelines, resulting
+in nine remaining journals. Moreover, to access the articles in .pdf
+format, the articles had to be either accessible to us through our
+library license, or open access, resulting in a final list of eight
+journals: Applied Psycholinguistics (APS), Bilingualism: Language and
+Cognition (BLC), Linguistic Approaches to Bilingualism (LAB), Language
+and Speech (LaS), Language Learning and Techology (LLT), Journal of
+Language and Social Psychology (LSP), Journal of Child Language (JCL),
+and Studies in Second Language Acquisition (SLA).
 
 We included only original research articles within the publication years
 of 2000-2023, excluding any book reviews, response articles,
@@ -468,8 +472,10 @@ commentaries, editorials, corrigenda, errata, advertisements, etc.
 Articles from LAB spanned 2011-2023, while the other journals spanned
 2000-2023. Statcheck could not parse 157 articles, likely related to
 issues with rendering the Chi-Squared symbol being erroneously converted
-from .pdf to .txt. This procedure resulted in 5804 research articles
-which were submitted to analysis.
+from .pdf to .txt. No assessable statistics were found by Statcheck in
+JCL articles from 2000 to 2002 and in SLA articles from 2004 to 2008.
+This procedure resulted in 5804 research articles which were submitted
+to analysis.
 
 \subsection{3.3. Data availability
 statement}\label{data-availability-statement}
@@ -513,7 +519,7 @@ eligible articles
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
 assessable articles
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
-assessible results
+assessable results
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
 inconsistencies
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
@@ -537,11 +543,11 @@ Total & 5804 & 3059 & 39532 & 5166 & 655 \\
 \end{table}
 
 The proportion of inconsistencies ranged from 10 to 22\% across journals
-(1 to 7\% for decisions inconsistencies) (see
+(1 to 7\% for decision inconsistencies) (see
 Figure~\ref{fig-stacked-bar}). These rates appear to be stable across
 year of publication (see Figure~\ref{fig-year-prop}). On average, 50\%
 of assessable articles contained one or more inconsistencies (journals
-range from 43 to 56\%) and 13\% contained one or more decisions
+range from 43 to 56\%) and 13\% contained one or more decision
 inconsistencies (journals range from 11 to 15\%).
 
 \begin{figure}[H]
@@ -597,24 +603,22 @@ to numerically small inconsistencies, some of which might be related to
 simple rounding errors. However, comparing the diagonal to the black
 line, which represents a linear model predicting recalculated by
 reported p-values, we can see a clear divergence of what is expected if
-inconsistencies were equally likely in both directions
-(i.e.~recalculated p-values were as likely to be smaller than the
-reported p-value as larger). The slope of the regression line is flatter
-than the diagonal axis which means that, on average, inconsistencies
-have a tendency to exhibit smaller reported p-values than their
-recalculated counterparts. Similarly, inconsistencies that report the
-p-value as being larger or smaller than a reference value (e.g.~p
-\textgreater{} 0.05 or p \textless{} 0.05 ) are not equally prevalent.
-There were 4.4\% of inconsistencies with p being reported as larger than
-a reference but 7.4\% inconsistencies with p being reported as smaller
-than a reference (e.g.~p \textless{} 0.05). So even if we assumed these
-inconsistencies were merely typos of the comparison sign,
-inconsistencies that erroneously report the p-value to be smaller than a
-reference value are more frequent than inconsistencies that erroneously
-report the p-value to be larger than a reference value. These biases are
-also reflected in decisions inconsistencies. Of all decisions
-inconsistencies (n = 655), 71\% represent cases in which a reported
-significant result (p \textless{} 0.05) is recalculated as
+inconsistencies were equally likely in both directions. The slope of the
+regression line is flatter than the diagonal axis which means that, on
+average, inconsistencies have a tendency to exhibit smaller reported
+p-values than their recalculated counterparts. Similarly,
+inconsistencies that report the p-value as being larger or smaller than
+a reference value (e.g.~p \textgreater{} 0.05 or p \textless{} 0.05 )
+are not equally prevalent. There were 4.4\% of inconsistencies with p
+being reported as larger than a reference but 7.4\% inconsistencies with
+p being reported as smaller than a reference (e.g.~p \textless{} 0.05).
+So even if we assumed these inconsistencies were merely typos of the
+comparison sign, inconsistencies that erroneously report the p-value to
+be smaller than a reference value are more frequent than inconsistencies
+that erroneously report the p-value to be larger than a reference value.
+These biases are also reflected in decision inconsistencies. Of all
+decision inconsistencies (n = 655), 71\% represent cases in which a
+reported significant result (p \textless{} 0.05) is recalculated as
 non-significant (p \textgreater{} 0.05).
 
 \begin{figure}
@@ -661,7 +665,7 @@ recent such assessment using Statcheck
 \citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}). Previous
 studies report on inconsistency rates between 4\% and 14\%, with between
 10\% and 63\% of articles containing at least one inconsistency and
-between 3\% and 21\% contain at least one decision consistencies.
+between 3\% and 21\% contain at least one decision consistency.
 
 Even if the prevalence of these inconsistencies could be largely
 attributed to inconsequential typos or rounding errors (an assumption we
@@ -670,8 +674,8 @@ inconsistencies that have made it through peer-review should concern us.
 They are human errors. If such a substantial amount of errors is found
 in plain site, the question naturally arises as to how many errors
 during the data analysis itself remain undetected. If the tip of the
-iceberg above water is already so large, how large is the body of the
-iceberg underneath the surface?
+iceberg is already so large, what is the volume of the submerged
+iceberg?
 
 The present examination assessment did not indicate any noticeable trend
 over the last 23 years of publications nor did the data suggest large
@@ -848,72 +852,81 @@ Arvan, M., Pina, L., \& Parde, N. (2022). Reproducibility in
 computational linguistics: Is source code enough? \emph{Proceedings of
 the 2022 Conference on Empirical Methods in Natural Language
 Processing}, 2350--2361.
+\url{https://doi.org/10.18653/v1/2022.emnlp-main.150}
 
 \bibitem[\citeproctext]{ref-bakker2011mis}
 Bakker, M., \& Wicherts, J. M. (2011). The (mis) reporting of
 statistical results in psychology journals. \emph{Behavior Research
 Methods}, \emph{43}, 666--678.
+\url{https://doi.org/10.3758/s13428-011-0089-5}
 
 \bibitem[\citeproctext]{ref-bakker2014outlier}
 Bakker, M., \& Wicherts, J. M. (2014). Outlier removal and the relation
 with reporting errors and quality of psychological research. \emph{PloS
 One}, \emph{9}(7), e103360.
+\url{https://doi.org/10.1371/journal.pone.0103360}
 
 \bibitem[\citeproctext]{ref-barber2017meticulous}
 Barber, L. K. (2017). Meticulous manuscripts, messy results: Working
 together for robust science reporting. \emph{Stress \& Health},
-\emph{33}(2), 89--91.
+\emph{33}(2), 89--91. \url{https://doi.org/10.1002/smi.2756}
 
 \bibitem[\citeproctext]{ref-berle2007inconsistencies}
 Berle, D., \& Starcevic, V. (2007). Inconsistencies between reported
 test statistics and p-values in two psychiatry journals.
 \emph{International Journal of Methods in Psychiatric Research},
-\emph{16}(4), 202--207.
+\emph{16}(4), 202--207. \url{https://doi.org/10.1002/mpr.225}
 
 \bibitem[\citeproctext]{ref-bochynska2023reproducible}
 Bochynska, A., Keeble, L., Halfacre, C., Casillas, J. V., Champagne,
 I.-A., Chen, K., Röthlisberger, M., Buchanan, E. M., \& Roettger, T.
 (2023). Reproducible research practices and transparency across
 linguistics. \emph{Glossa Psycholinguistics}, \emph{2}(1).
+\url{https://doi.org/10.5070/G6011239}
 
 \bibitem[\citeproctext]{ref-boland2017ten}
 Boland, M. R., Karczewski, K. J., \& Tatonetti, N. P. (2017). Ten simple
 rules to enable multi-site collaborations through data sharing. In
 \emph{PLoS computational biology} (1; Vol. 13, p. e1005278). Public
 Library of Science San Francisco, CA USA.
+\url{https://doi.org/10.1371/journal.pcbi.1005278}
 
 \bibitem[\citeproctext]{ref-buckley2023estimating}
 Buckley, J., Hyland, T., \& Seery, N. (2023). Estimating the
 replicability of technology education research. \emph{International
 Journal of Technology and Design Education}, \emph{33}(4), 1243--1264.
+\url{https://doi.org/10.1007/s10798-022-09787-6}
 
 \bibitem[\citeproctext]{ref-caperos2013consistency}
 Caperos, J. M., \& Pardo, A. (2013). Consistency errors in p-values
 reported in spanish psychology journals. \emph{Psicothema},
-\emph{25}(3), 408--414.
+\emph{25}(3), 408--414. \url{https://doi.org/10.7334/psicothema2012.207}
 
 \bibitem[\citeproctext]{ref-casillas2023opening}
 Casillas, J. V., Constantin-Dureci, G., Rascón, I. A., Shao, J.,
 Rodrı́guez, S. A., Gadamsetty, A., Minetti, A., Laungani, K., Thatcher,
 J., Gardere, R.-T., et al. (2023). \emph{Opening open science to all:
 Demystifying reproducibility and transparency practices in linguistic
-research}.
+research}. \url{https://doi.org/10.31234/osf.io/spz4w}
 
 \bibitem[\citeproctext]{ref-claesen2023data}
 Claesen, A., Vanpaemel, W., Maerten, A.-S., Verliefde, T., Tuerlinckx,
 F., \& Heyman, T. (2023). Data sharing upon request and statistical
 consistency errors in psychology: A replication of wicherts, bakker and
 molenaar (2011). \emph{Plos One}, \emph{18}(4), e0284243.
+\url{https://doi.org/10.1371/journal.pone.0284243}
 
 \bibitem[\citeproctext]{ref-colavizza2020citation}
 Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., \&
 McGillivray, B. (2020). The citation advantage of linking publications
 to research data. \emph{PloS One}, \emph{15}(4), e0230416.
+\url{https://doi.org/10.1371/journal.pone.0230416}
 
 \bibitem[\citeproctext]{ref-colombo2018statistical}
 Colombo, M., Duev, G., Nuijten, M. B., \& Sprenger, J. (2018).
 Statistical reporting inconsistencies in experimental philosophy.
 \emph{PloS One}, \emph{13}(4), e0194360.
+\url{https://doi.org/10.1371/journal.pone.0194360}
 
 \bibitem[\citeproctext]{ref-coretta_multidimensional_2023}
 Coretta, S., Casillas, J. V., Roessig, S., Franke, M., Ahn, B.,
@@ -930,6 +943,7 @@ Methods and Practices in Psychological Science}, \emph{6}(3),
 Franco, A., Malhotra, N., \& Simonovits, G. (2014). Publication bias in
 the social sciences: Unlocking the file drawer. \emph{Science},
 \emph{345}(6203), 1502--1505.
+\url{https://doi.org/10.1126/science.1255484}
 
 \bibitem[\citeproctext]{ref-fugelsang2004theory}
 Fugelsang, J. A., Stein, C. B., Green, A. E., \& Dunbar, K. N. (2004).
@@ -937,11 +951,13 @@ Theory and data interactions of the scientific mind: Evidence from the
 molecular and the cognitive laboratory. \emph{Canadian Journal of
 Experimental Psychology/Revue Canadienne de Psychologie
 Exp{é}rimentale}, \emph{58}(2), 86.
+\url{https://doi.org/10.1037/h0085799}
 
 \bibitem[\citeproctext]{ref-garcia2004incongruence}
 Garcı́a-Berthou, E., \& Alcaraz, C. (2004). Incongruence between test
 statistics and p values in medical papers. \emph{BMC Medical Research
 Methodology}, \emph{4}, 1--5.
+\url{https://doi.org/10.1186/1471-2288-4-13}
 
 \bibitem[\citeproctext]{ref-green2018statcheck}
 Green, C. D., Abbas, S., Belliveau, A., Beribisky, N., Davidson, I. J.,
@@ -949,12 +965,14 @@ DiGiovanni, J., Heidari, C., Martin, S. M., Oosenbrug, E., \&
 Wainewright, L. M. (2018). Statcheck in canada: What proportion of CPA
 journal articles contain errors in the reporting of p-values?
 \emph{Canadian Psychology/Psychologie Canadienne}, \emph{59}(3), 203.
+\url{https://doi.org/10.1037/cap0000139}
 
 \bibitem[\citeproctext]{ref-gross2021fidelity}
 Groß, T. (2021). Fidelity of statistical reporting in 10 years of cyber
 security user studies. \emph{Socio-Technical Aspects in Security and
 Trust: 9th International Workshop, STAST 2019, Luxembourg City,
 Luxembourg, September 26, 2019, Revised Selected Papers 9}, 3--26.
+\url{https://doi.org/10.1007/978-3-030-55958-8_1}
 
 \bibitem[\citeproctext]{ref-hardwicke2018data}
 Hardwicke, T. E., Mathur, M. B., MacDonald, K., Nilsonne, G., Banks, G.
@@ -962,7 +980,7 @@ C., Kidwell, M. C., Hofelich Mohr, A., Clayton, E., Yoon, E. J., Henry
 Tessler, M., et al. (2018). Data availability, reusability, and analytic
 reproducibility: Evaluating the impact of a mandatory open data policy
 at the journal cognition. \emph{Royal Society Open Science},
-\emph{5}(8), 180448.
+\emph{5}(8), 180448. \url{https://doi.org/10.1098/rsos.180448}
 
 \bibitem[\citeproctext]{ref-isbell2022misconduct}
 Isbell, D. R., Brown, D., Chen, M., Derrick, D. J., Ghanem, R., Arvizu,
@@ -970,17 +988,20 @@ M. N. G., Schnur, E., Zhang, M., \& Plonsky, L. (2022). Misconduct and
 questionable research practices: The ethics of quantitative data
 handling and reporting in applied linguistics. \emph{The Modern Language
 Journal}, \emph{106}(1), 172--195.
+\url{https://doi.org/10.1111/modl.12760}
 
 \bibitem[\citeproctext]{ref-john2012measuring}
 John, L. K., Loewenstein, G., \& Prelec, D. (2012). Measuring the
 prevalence of questionable research practices with incentives for truth
 telling. \emph{Psychological Science}, \emph{23}(5), 524--532.
+\url{https://doi.org/10.1177/0956797611430953}
 
 \bibitem[\citeproctext]{ref-kalmbach2023rule}
 Kalmbach, T., Hoffmann, M., Lell, N., \& Scherp, A. (2023). On the
 rule-based extraction of statistics reported in scientific papers.
 \emph{International Conference on Applications of Natural Language to
 Information Systems}, 326--338.
+\url{https://doi.org/10.1007/978-3-031-35320-8_23}
 
 \bibitem[\citeproctext]{ref-knuth1984literate}
 Knuth, D. E. (1984). Literate programming. \emph{The Computer Journal},
@@ -989,28 +1010,32 @@ Knuth, D. E. (1984). Literate programming. \emph{The Computer Journal},
 \bibitem[\citeproctext]{ref-kobrock2023assessing}
 Kobrock, K., \& Roettger, T. (2023). Assessing the replication landscape
 in experimental linguistics. \emph{Glossa Psycholinguistics},
-\emph{2}(1), 1--28.
+\emph{2}(1), 1--28. \url{https://doi.org/10.5070/G6011135}
 
 \bibitem[\citeproctext]{ref-laurinavichyute2022share}
 Laurinavichyute, A., Yadav, H., \& Vasishth, S. (2022). Share the code,
 not just the data: A case study of the reproducibility of articles
 published in the journal of memory and language under the open data
 policy. \emph{Journal of Memory and Language}, \emph{125}, 104332.
+\url{https://doi.org/10.1016/j.jml.2022.104332}
 
 \bibitem[\citeproctext]{ref-lowndes2017our}
 Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C.,
 Frazier, M. R., O'Hara, C. C., Jiang, N., \& Halpern, B. S. (2017). Our
 path to better science in less time using open data science tools.
 \emph{Nature Ecology \& Evolution}, \emph{1}(6), 0160.
+\url{https://doi.org/10.1038/s41559-017-0160}
 
 \bibitem[\citeproctext]{ref-nickerson1998confirmation}
 Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in
 many guises. \emph{Review of General Psychology}, \emph{2}(2), 175--220.
+\url{https://doi.org/10.1037/1089-2680.2.2.175}
 
 \bibitem[\citeproctext]{ref-nuijten2017validity}
 Nuijten, M. B., Assen, M. A. van, Hartgerink, C., Epskamp, S., \&
 Wicherts, J. M. (2017). \emph{The validity of the tool {``statcheck''}
 in discovering statistical reporting inconsistencies}.
+\url{https://doi.org/10.31234/osf.io/tcxaj}
 
 \bibitem[\citeproctext]{ref-nuijten2023statcheck}
 Nuijten, M. B., \& Epskamp, S. (2023). \emph{Statcheck: Extract
@@ -1020,7 +1045,7 @@ statistics from articles and recompute p-values(1.4. 1-beta. 2){[}r{]}}.
 Nuijten, M. B., Hartgerink, C. H., Van Assen, M. A., Epskamp, S., \&
 Wicherts, J. M. (2016). The prevalence of statistical reporting errors
 in psychology (1985--2013). \emph{Behavior Research Methods}, \emph{48},
-1205--1226.
+1205--1226. \url{https://doi.org/10.5070/G6011135}
 
 \bibitem[\citeproctext]{ref-nuijten2020statcheck}
 Nuijten, M. B., \& Polanin, J. R. (2020). {``Statcheck''}: Automatically
@@ -1036,16 +1061,18 @@ computing}. R Foundation for Statistical Computing.
 \bibitem[\citeproctext]{ref-roettger2019researcher}
 Roettger, T. B. (2019). Researcher degrees of freedom in phonetic
 research. \emph{Laboratory Phonology}, \emph{10}(1).
+\url{https://doi.org/10.5334/labphon.147}
 
 \bibitem[\citeproctext]{ref-sakaluk2014analytic}
 Sakaluk, J., Williams, A., \& Biernat, M. (2014). Analytic review as a
 solution to the misreporting of statistical results in psychological
 science. \emph{Perspectives on Psychological Science}, \emph{9}(6),
-652--660.
+652--660. \url{https://doi.org/10.1177/1745691614549257}
 
 \bibitem[\citeproctext]{ref-schmidt2017statcheck}
 Schmidt, T. (2017). \emph{Statcheck does not work: All the numbers.
 Reply to nuijten et al.(2017)}.
+\url{https://doi.org/10.31234/osf.io/hr6qy}
 
 \bibitem[\citeproctext]{ref-schonbrodt2015p}
 Schönbrodt, F. D. (2015). \emph{P-checker: One-for-all p-value
@@ -1054,12 +1081,13 @@ analyzer}. \url{http://shinyapps.org/apps/p-checker/}.
 \bibitem[\citeproctext]{ref-sondereggera2024advancements}
 Sonderegger, M., \& Sóskuthy, M. (2024). \emph{Advancements of phonetics
 in the 21st century: Quantitative data analysis}.
+\url{https://doi.org/10.31234/osf.io/mc6a9}
 
 \bibitem[\citeproctext]{ref-sterling1959publication}
 Sterling, T. D. (1959). Publication decisions and their possible effects
 on inferences drawn from tests of significance---or vice versa.
 \emph{Journal of the American Statistical Association}, \emph{54}(285),
-30--34.
+30--34. \url{https://doi.org/10.2307/2282137}
 
 \bibitem[\citeproctext]{ref-van2023comparing}
 Van Aert, R. C., Nuijten, M. B., Olsson-Collentine, A., Stoevenbelt, A.
@@ -1067,28 +1095,27 @@ H., Van Den Akker, O. R., Klein, R. A., \& Wicherts, J. M. (2023).
 Comparing the prevalence of statistical reporting inconsistencies in
 COVID-19 preprints and matched controls: A registered report.
 \emph{Royal Society Open Science}, \emph{10}(8), 202326.
+\url{https://doi.org/10.1098/rsos.202326}
 
 \bibitem[\citeproctext]{ref-vasishth2023some}
 Vasishth, S. (2023). Some right ways to analyze (psycho) linguistic
 data. \emph{Annual Review of Linguistics}, \emph{9}(1), 273--291.
+\url{https://doi.org/10.1146/annurev-linguistics-031220-010345}
 
 \bibitem[\citeproctext]{ref-veldkamp2014statistical}
 Veldkamp, C. L., Nuijten, M. B., Dominguez-Alvarez, L., Van Assen, M.
 A., \& Wicherts, J. M. (2014). Statistical reporting errors and
 collaboration on statistical analyses in psychological science.
 \emph{PloS One}, \emph{9}(12), e114876.
+\url{https://doi.org/10.1371/journal.pone.0114876}
 
 \bibitem[\citeproctext]{ref-wicherts2011willingness}
 Wicherts, J. M., Bakker, M., \& Molenaar, D. (2011). Willingness to
 share research data is related to the strength of the evidence and the
 quality of reporting of statistical results. \emph{PloS One},
-\emph{6}(11), e26828.
+\emph{6}(11), e26828. \url{https://doi.org/10.1371/journal.pone.0026828}
 
 \end{CSLReferences}
-
-\appendix
-
-\section{Title for Appendix}\label{title-for-appendix}
 
 
 
