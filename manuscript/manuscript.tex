@@ -177,7 +177,7 @@ reporting consistencies across articles in eight experimental
 linguistics journals published between 2000 and 2023. Using the R
 package ``Statcheck'', we retrieved 39532 statistical test and assessed
 whether p-values were consistent with their test statistic and degrees
-of freedom. Half of all articles that used null hypothesis signficance
+of freedom. Half of all articles that used null hypothesis significance
 testing contained at least one inconsistent p-value. One in eight
 articles contained an inconsistency that may have affected the
 statistical conclusion. The inconsistency rates were comparable across
@@ -595,10 +595,10 @@ inconsistencies (see Figure~\ref{fig-scatter}), we can identify certain
 spatial patterns (only inconsistencies that are based on `=' comparisons
 were included to make them easier to interpret, n = 3779 out of 5166).
 First, the center of density of points is located in the bottom left
-corner with more p-values reported closer to the standard alpha level of
-0.05. This is not surprising, since the quantitative sciences exhibit a
-documented publication bias, with hypotheses being more often confirmed
-(and thus p \textless{} .05) than not
+corner with more p-values reported closer to the most common alpha level
+of 0.05. This is not surprising, since the quantitative sciences exhibit
+a documented publication bias, with hypotheses being more often
+confirmed (and thus p \textless{} .05) than not
 (\citeproc{ref-franco2014publication}{Franco et al., 2014};
 \citeproc{ref-sterling1959publication}{Sterling, 1959}). Second, there
 is a linear density of points along the diagonal axis which corresponds
@@ -647,7 +647,7 @@ prevalent}\label{statistical-reporting-inconsistencies-are-prevalent}
 
 The present study found a large amount of statistical reporting
 inconsistencies across a sample of 5804 experimental linguistic
-articles, containing 3059 assessable p-values. 13.1\% of all p-values
+articles, containing 39532 assessable p-values. 13.1\% of all p-values
 were flagged as inconsistent and 1.7\% were flagged as decision
 inconsistencies, i.e.~the reported p-value is on the opposite side of
 the alpha threshold than the recalculated p-value. On average, 50\% of
@@ -665,10 +665,10 @@ recent such assessment using Statcheck
 (\citeproc{ref-buckley2023estimating}{Buckley et al., 2023};
 \citeproc{ref-colombo2018statistical}{Colombo et al., 2018};
 \citeproc{ref-gross2021fidelity}{Groß, 2021};
-\citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}). Previous
-studies report on inconsistency rates between 4\% and 14\%, with between
-10\% and 63\% of articles containing at least one inconsistency and
-between 3\% and 21\% contain at least one decision consistency.
+\citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}). The
+discovered rates fall in line with these studies who report on
+inconsistency rates between 4\% and 14\%, with between 10\% and 63\% of
+articles containing at least one inconsistency.
 
 Even if the prevalence of these inconsistencies could be largely
 attributed to inconsequential typos or rounding errors (an assumption we
@@ -676,31 +676,32 @@ cannot test without access to the data), the sheer amount of these
 inconsistencies that have made it through peer-review should concern us.
 They are human errors. If such a substantial amount of errors is found
 in plain site, the question naturally arises as to how many errors
-during the data analysis itself remain undetected. If the tip of the
-iceberg is already so large, what is the volume of the submerged
-iceberg?
+during the data analysis itself remain undetected. We should ask
+ourselves, if the tip of the iceberg is already so large, what is the
+volume of the submerged iceberg?
 
-The present examination assessment did not indicate any noticeable trend
-over the last 23 years of publications nor did the data suggest large
-differences between journals.
-
-Observed inconsistencies were characterized by reported p-values being
-on average lower than their recalculated counterparts and the prevalence
-of decision inconsistencies was higher for p-values reported as
-significant than for those reported as non-significant. These patterns
-could indicate a systematic bias in favor of lower p-values in general
-and a bias towards significant results in particular. Our data do not
-speak to the causes of these biases, but possible reasons include the
-following: Researchers might intentionally round down p-values because
-they think a lower p-value is more convincing to reviewers and/or
-readers. This practice has been admitted to by 1 in 5 surveyed
-psychological researchers (\citeproc{ref-john2012measuring}{John et al.,
-2012}). Given that a non-trivial amount of quantitative linguists have
-admitted to commit questionable research practices (and even fraud)
+The present examination did not indicate any noticeable trend over the
+last 23 years of publications. Observed inconsistencies were
+characterized by reported p-values being on average lower than their
+recalculated counterparts and the prevalence of decision inconsistencies
+was higher for p-values reported as significant than for those reported
+as non-significant. These biases have been reported on for other
+disciplines as well (\citeproc{ref-bakker2011mis}{Bakker \& Wicherts,
+2011}; \citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}).
+These skewed patterns could indicate a systematic bias in favor of lower
+p-values in general and a bias towards significant results in
+particular. Our data do not speak to the causes of these biases, but
+possible reasons include the following: Researchers might intentionally
+round down p-values because they think lower p-values are more
+convincing to reviewers and readers. This practice has been admitted to
+by 1 in 5 surveyed psychological researchers
+(\citeproc{ref-john2012measuring}{John et al., 2012}). Given that a
+non-trivial amount of quantitative linguists have admitted to commit
+questionable research practices (and even fraud)
 (\citeproc{ref-isbell2022misconduct}{Isbell et al., 2022}), we cannot
-exclude the possibility that some of the inconsistencies were
-intentional. It is our strong belief, however, that the majority of
-inconsistencies are unintentional.
+exclude the possibility that some of the inconsistencies in our sample
+were indeed intentional. It is our strong belief, however, that the
+majority of inconsistencies are unintentional.
 
 Researchers might scrutinize non-significant results more than
 significant results or are less likely to double check significant
@@ -710,10 +711,10 @@ hypothesis feed into their confirmation bias
 example, Fugelsang et al. (\citeproc{ref-fugelsang2004theory}{2004}) let
 researchers evaluate data that are either consistent or inconsistent
 with their prior expectations. They showed that when researchers
-encounter results that disconfirm their expectations, they are likely to
-blame the methodology while results that confirmed their expectations
-were rarely critically scrutinized. Alternatively, the observed bias
-might be a reflection of publication bias
+encounter results that are not in line with their expectations, they are
+likely to blame the methodology while results that confirmed their
+expectations were rarely critically scrutinized. Alternatively, the
+observed bias might merely be a reflection of publication bias
 (\citeproc{ref-franco2014publication}{Franco et al., 2014};
 \citeproc{ref-sterling1959publication}{Sterling, 1959}) with
 (erroneously) reported significant p-values being more likely to be
@@ -723,20 +724,20 @@ published than non-significant ones.
 study}\label{limitations-of-our-study}
 
 While we believe our work offers an important contribution to improving
-statistical reporting practices in experimental linguistics, there are,
-of course, a number of limitations. The present assessment and the
-conclusions we can draw from them are limited. First, our sample is
-limited to only a subset of experimental linguistic journals. Our sample
-is based on a crude criterion of what constitutes an experimental
-linguistic journal (see \citeproc{ref-kobrock2023assessing}{Kobrock \&
-Roettger, 2023}) and we restricted ourselves further to (for us)
-accessible journals which explicitly require APA statistical formatting
-in the author guidelines. Thus it is possible that a different selection
-of journals would have resulted in different results. However, given
-that the inconsistency rates of our study are comparable to similar
-studies from other disciplines and that those rates are relatively
-stable across journals and time, our findings should be considered
-relevant for experimental linguistics at large.
+statistical reporting practices in experimental linguistics, the present
+assessment and the conclusions we can draw from them are limited: First,
+our sample is limited to only a subset of experimental linguistic
+journals. Our sample is based on a crude criterion of what constitutes
+an experimental linguistic journal (see
+\citeproc{ref-kobrock2023assessing}{Kobrock \& Roettger, 2023}) and we
+restricted ourselves further to (for us) accessible journals which
+explicitly require APA statistical formatting in the author guidelines.
+Thus it is possible that a different selection of journals would have
+resulted in different results. However, given that the inconsistency
+rates of our study are comparable to similar studies from other
+disciplines and that those rates are relatively stable across journals
+and time, our findings should be considered relevant for experimental
+linguistics at large.
 
 Second, given the constraints on automatically detecting test
 statistics, Statcheck misses reported values that either diverge from
@@ -771,7 +772,7 @@ reflected upon.
 field}\label{recommendations-for-the-field}
 
 There are concrete actionable steps the field of experimental
-linguistics can make to reduce statistical reporting inconsistencies. In
+linguistics can take to reduce statistical reporting inconsistencies. In
 order to avoid simple copy-and-paste errors related to working in two
 separate programs for writing the manuscript and conducting the
 statistical analysis, authors should consider `literate programming',
@@ -823,7 +824,7 @@ more thorough evaluations of how researchers arrive at their statistical
 conclusions might elevate their analytical robustness.
 
 Journal editors could explicitly recommend consistency checks with
-algorhythms such as statcheck during peer review, a practice that has
+algorhythms such as Statcheck during peer review, a practice that has
 been taken up on by several journals from neighboring disciplines
 (Psychological Science\footnote{http://www.psychologicalscience.org/publications/psychological\_science/ps-submissions;
   accessed on July 15, 2024.}, Advances in Methods and Practices in
