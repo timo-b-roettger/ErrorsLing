@@ -32,16 +32,16 @@ library(ggstream)
 
 ## load in data from location of script 
 ## (uncomment if you run script outside of sourcing it through manuscript.qmd)
-# current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-# setwd(current_working_dir)
+#current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+#setwd(current_working_dir)
 
 ## list all journal units
 ## only works with access to all article pdfs, skip if you don't have access
-files <- list.files("../Journals", recursive = TRUE, pattern = "\\.pdf")
+files <- list.files("../Journals", recursive = TRUE, pattern = "\\.txt")
 
 ## how many articles?
 length(files)
-# 5804
+# 13065
 
 ## summary table
 files_wrangled <- as.data.frame(files) %>%
@@ -65,13 +65,13 @@ n_articles = length(files)
 #stat <- checkPDFdir("Journals", OneTailedTxt = TRUE)
 
 ## write statcheck data to csv
-#write.csv(stat, "../data/statcheck_data.csv", row.names = FALSE)
+#write.csv(stat, "../data/statcheck_data_second_round.csv", row.names = FALSE)
 
 
 ## data ########################################################################                        
 
 ## load in data
-xdata <- read.csv("../data/statcheck_data.csv")
+xdata <- read_csv("../data/statcheck_revised_sample.csv")
 
 ## split strings into year and journal, drop NAs
 xdata <- xdata %>% 
@@ -80,6 +80,11 @@ xdata <- xdata %>%
   drop_na(reported_p) %>%
   drop_na(computed_p) %>%
   filter(year != 2024)
+
+## remove LCN before before 2015 
+xdata <- xdata |> 
+  filter(! (journal == "LCN" & year < 2015))
+
 
 ## summary tables ##############################################################                       
 
@@ -98,6 +103,14 @@ journal_summary_counts <- xdata %>%
 
 colnames(journal_summary_counts) <- c("Journal", "eligible articles", "assessable articles",
                                       "assessable results", "inconsistencies", "decision inconsistencies")
+
+# less accessibility in journals without explicit APA guidelines?
+journal_summary_counts |> 
+  mutate(sample = ifelse(Journal %in% c("JML", "LCN", "JPR", "SLH", "BAL"), "new", "old"),
+         accessibility = `assessable articles` / `eligible articles`) |> 
+  group_by(sample) |> 
+  summarise(mean_assess = mean(accessibility))
+# virtually identical
 
 # prevalence of errors for different comparison signs
 sign_distribution <- xtabs(~error + p_comp, xdata)
@@ -159,37 +172,29 @@ per_article_long <- per_article %>%
 
 ## plot as stacked barplot (figure 1)
 stacked_bar <- 
-  ggplot(per_article_long) +
-  geom_bar(data = per_article_long,
-           aes(x = journal, 
-               y = 50,
-               fill = type),
+  ggplot(per_article) +
+  geom_bar(aes(x = reorder(journal, prop_has_error), 
+               y = 100),
            stat = "identity")  +
-  geom_bar(data = per_article_long,
-           aes(x = journal, 
-               y = 50),
+  geom_bar(aes(x = journal, 
+               y = 100),
            fill = "lightgrey",
            stat = "identity")  + 
-  geom_bar(data = per_article_long %>% filter(type == "prop_has_error"),
-           aes(x = journal, 
-               y = proportion * 100,
-               fill = type),
+  geom_bar(aes(x = reorder(journal, prop_has_error), 
+               y = prop_has_error * 100),
            fill = "#6002ee",
            stat = "identity") +  
-  geom_text(data = per_article_long %>% filter(type == "prop_has_error"),
-            aes(x = journal, 
+  geom_text(aes(x = reorder(journal, prop_has_error), 
                 y = 30,
-                label = paste0(round(proportion * 100, 0), "%")),
+                label = paste0(round(prop_has_error * 100, 0), "%")),
             color = "white") +
-  geom_bar(data = per_article_long %>% filter(type == "prop_has_gross"),
-           aes(x = journal, 
-               y = proportion * 100),
+  geom_bar(aes(x = reorder(journal, prop_has_error), 
+               y = prop_has_gross * 100),
            fill = "#ee6002",
            stat = "identity") +
-  geom_text(data = per_article_long %>% filter(type == "prop_has_gross"),
-            aes(x = journal, 
+  geom_text(aes(x = reorder(journal, prop_has_error), 
                 y = 5,
-                label = paste0(round(proportion * 100, 0), "%")),
+                label = paste0(round(prop_has_gross * 100, 0), "%")),
             vjust = 0,
             color = "white") +
   scale_fill_manual(name = "",
@@ -209,8 +214,7 @@ ggsave(filename = "../plots/figure1.png",
        units = "mm", 
        dpi = 300) 
 
-
-## figure 2 ####################################################################                        
+## Figure 2 ####################################################################                        
 
 ## aggregate for proportion over year
 year_summary_prop <- xdata %>% 
@@ -288,7 +292,7 @@ year_journal_plot <-
               type = "proportion")  +
   scale_fill_manual(values = c("lightgrey","#6002ee","#ee6002"),
                     name = "") +
-  facet_wrap(~ journal, ncol = 2) +
+  facet_wrap(~ journal, ncol = 3) +
   labs(x = "\nyear of publication",
        y = "") +
    scale_y_continuous(breaks = c(0,.5,1),
@@ -313,57 +317,74 @@ ggsave(filename = "../plots/figure2.png",
        dpi = 300) 
 
 
-## bias analysis ###############################################################                    
+## Figure 3 ####################################################################                        
 
-# calculate delta between reported and computed p
-xdata <- xdata %>% 
-  mutate(p_delta = (reported_p - computed_p))
+# gross inconsistencies direction
+xdata_sub <- xdata  |> 
+  mutate(direction = ifelse(reported_p <= 0.05 & computed_p > 0.05, 
+                                               "falsely reported significance", 
+                                               ifelse(reported_p > 0.05 & computed_p <= 0.05,
+                                               "falsely reported non-significance", "NA")
+                            )) 
 
-xdata_sub <- xdata %>% 
-  filter(error == T,
-         p_comp == "=")
+# overall prevalence of decision errors across years
+xdata_sub_agg <- 
+  xdata_sub |> 
+  group_by(year) |> 
+  mutate(checked_results = n(),
+         significant = ifelse(reported_p < 0.05, TRUE, FALSE)) |> 
+  group_by(year, direction) |> 
+  reframe( 
+    gross_errors = sum(decision_error),
+    sign_results = sum(significant),
+    prop_gross = (gross_errors / checked_results) *100)
 
-reportedVcomputed <- ggplot(xdata_sub) + 
-  geom_point(data = xdata_sub %>% filter(decision_error == F),
-             aes(x = reported_p, y = computed_p),
-             alpha = 0.3,
-             color = "#6002ee") +
-  geom_point(data = xdata_sub %>% filter(decision_error == T),
-             aes(x = reported_p, y = computed_p),
-             alpha = 0.3,
-             color = "#ee6002") +
-  geom_smooth(data = xdata_sub,
-              aes(x = reported_p, y = computed_p),
-              method = "lm",
-              se = F,
-              color = "white",
-              size = 1.5) +
-  geom_smooth(data = xdata_sub,
-              aes(x = reported_p, y = computed_p),
-              method = "lm",
-              se = F,
-              color = "black",
-              size = 1) +
-  annotate("segment", 
-           x = 0, xend = 1,
-           y = 0.05, yend = 0.05,
-           lty = "dashed") +
-  annotate("segment", 
-           x = 0.05, xend = 0.05,
-           y = 0, yend = 1,
-           lty = "dashed") +
-  annotate("segment", 
-           x = 0, xend = 1,
-           y = 0.05, yend = 0.05,
-           lty = "dashed") +
-  scale_x_continuous(limits = c(0,1),
-                     breaks = c(0,0.05, 0.5, 1)) + 
-  scale_y_continuous(limits = c(0,1),
-                     breaks = c(0,0.05, 0.5, 1)) +
-  labs(x = "\nreported p value",
-       y = "recalculated p value\n") +
-  theme_minimal() 
-
+# plot inconsistencies rates
+ggplot(xdata_sub_agg |> filter(direction != "NA"),
+       aes(x = year, 
+           y = prop_gross,
+           shape = direction)) + 
+  geom_path(aes(group = direction, color = direction),
+            linewidth = 3,
+            lineend = "round") +
+  # legend
+  annotate("point", 
+           x = 2015,
+           y = 3.5,
+           size = 5,
+           fill = "black",
+           pch = 21) +
+  annotate("point", 
+           x = 2015,
+           y = 3.25,
+           size = 5,
+           color = "white",
+           fill = "#ee6002",
+           pch = 21) +
+  annotate("text", 
+           x = 2016,
+           y = 3.5,
+           hjust = 0,
+           color = "black",
+           label = "falsely reported as significant") +
+  annotate("text", 
+           x = 2016,
+           y = 3.25,
+           hjust = 0,
+           color = "black",
+           label = "falsely reported as not significant") +
+  scale_color_manual(values = c("#ee6002", "black")) +
+  scale_y_continuous(breaks = c(0,0.5,1,2,3),
+                     labels = c("0%", "0.5%", "1%", "2%", "3%")
+  ) +
+  scale_x_continuous(limits = c(2000,2024),
+                     breaks =  c(2000, 2005, 2010, 2015, 2020, 2023)) +
+  labs(x = "\nyear of publication",
+       y = "percentage of decision errors\n") +
+  theme_minimal() + 
+  theme(legend.position = "none",
+        panel.spacing.x = unit(1, "lines"))
+  
 ggsave(filename = "../plots/figure3.png",
        device = "png",
        bg = "white",
@@ -371,31 +392,4 @@ ggsave(filename = "../plots/figure3.png",
        height = 120,
        units = "mm", 
        dpi = 300) 
-
-## not in paper, closer look at scatter plot in critical region
-ggplot(xdata_sub) + 
-  geom_point(data = xdata_sub %>% filter(decision_error == F),
-             aes(x = reported_p, y = computed_p),
-             alpha = 0.3,
-             color = "#6002ee") +
-  geom_point(data = xdata_sub %>% filter(decision_error == T),
-             aes(x = reported_p, y = computed_p),
-             alpha = 0.3,
-             color = "#ee6002") +
-  annotate("segment", 
-           x = 0.05, xend = 0.05,
-           y = 0, yend = 0.1,
-           lty = "dashed") +
-  annotate("segment", 
-           x = 0, xend = 0.1,
-           y = 0.05, yend = 0.05,
-           lty = "dashed") +
-  labs(x = "\nreported p value",
-       y = "recalculated p value\n") +
-  scale_x_continuous(limits = c(0,0.1),
-                     breaks = c(0.001, 0.01, 0.02, 0.03, 0.04, 0.05, 0.1)) + 
-  scale_y_continuous(limits = c(0,0.1),
-                     breaks = c(0.001, 0.01, 0.02, 0.03, 0.04, 0.05, 0.1)) +
-  theme_minimal() 
-  
-  
+ 
