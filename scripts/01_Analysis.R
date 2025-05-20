@@ -298,7 +298,8 @@ year_journal_plot <-
    scale_y_continuous(breaks = c(0,.5,1),
                       labels = c("0%", "25%", "50%")
                       ) +
-  scale_x_continuous(breaks =  c(2000, 2023)) +
+  scale_x_continuous(breaks =  c(2000, 2023),
+                     labels = c("'00", "'23")) +
   theme_minimal() + 
     theme(legend.position = "none",
           panel.spacing.x = unit(1, "lines"))
@@ -345,42 +346,44 @@ ggplot(xdata_sub_agg |> filter(direction != "NA"),
            y = prop_gross,
            shape = direction)) + 
   geom_path(aes(group = direction, color = direction),
-            linewidth = 3,
+            linewidth = 2,
             lineend = "round") +
   # legend
   annotate("point", 
            x = 2015,
-           y = 3.5,
+           y = 4.5,
            size = 5,
+           color = "white",
            fill = "black",
            pch = 21) +
   annotate("point", 
            x = 2015,
-           y = 3.25,
+           y = 4.0,
            size = 5,
            color = "white",
            fill = "#ee6002",
            pch = 21) +
   annotate("text", 
            x = 2016,
-           y = 3.5,
+           y = 4.5,
            hjust = 0,
            color = "black",
            label = "falsely reported as significant") +
   annotate("text", 
            x = 2016,
-           y = 3.25,
+           y = 4.0,
            hjust = 0,
            color = "black",
            label = "falsely reported as not significant") +
   scale_color_manual(values = c("#ee6002", "black")) +
-  scale_y_continuous(breaks = c(0,0.5,1,2,3),
-                     labels = c("0%", "0.5%", "1%", "2%", "3%")
+  scale_y_continuous(limits = c(0,5),
+                     breaks = c(0,0.5,1,2,3,4,5),
+                     labels = c("0%", "0.5%", "1%", "2%", "3%", "4%", "5%")
   ) +
   scale_x_continuous(limits = c(2000,2024),
                      breaks =  c(2000, 2005, 2010, 2015, 2020, 2023)) +
   labs(x = "\nyear of publication",
-       y = "percentage of decision errors\n") +
+       y = "percentage of decision inconsistencies\n") +
   theme_minimal() + 
   theme(legend.position = "none",
         panel.spacing.x = unit(1, "lines"))
@@ -388,8 +391,8 @@ ggplot(xdata_sub_agg |> filter(direction != "NA"),
 ggsave(filename = "../plots/figure3.png",
        device = "png",
        bg = "white",
-       width = 180, 
-       height = 120,
+       width = 160, 
+       height = 96,
        units = "mm", 
        dpi = 300) 
  

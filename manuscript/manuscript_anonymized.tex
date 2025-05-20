@@ -154,7 +154,11 @@ Linguistics}
 
 
 
-\author{anonymous}
+
+
+\authorsnames{anonymous,anonymous}
+
+
 
 
 
@@ -164,12 +168,12 @@ Linguistics}
 
 
 
-\leftheader{anonymous}
+\leftheader{anonymous and anonymous}
 
 
 
 \abstract{The present paper investigates the prevalence of statistical
-reporting consistencies across articles in eight experimental
+reporting inconsistencies across articles in thirteen experimental
 linguistics journals published between 2000 and 2023. Using the R
 package ``Statcheck'', we retrieved 85,442 statistical test from 13,065
 articles and assessed whether p-values were consistent with their test
@@ -182,12 +186,12 @@ publication years. We discuss possible reasons for this high rate and
 offer actionable steps for authors, reviewers, and editors to remedy
 this state-of-affairs.}
 
-\keywords{statistics, statcheck, reproducibility, null hypothesis
+\keywords{statistics, Statcheck, reproducibility, null hypothesis
 significance testing}
 
 \authornote{ 
-\par{ }
-\par{   The authors have no conflict of interest to declare.    }
+
+\par{       }
 \par{Correspondence concerning this article should be addressed to }
 }
 
@@ -261,12 +265,12 @@ significance testing}
 \maketitle
 
 
-\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\setcounter{secnumdepth}{5}
 
 \setlength\LTleft{0pt}
 
 
-\section{1. Introduction}\label{introduction}
+\section{Introduction}\label{introduction}
 
 What we know about human language and its cognitive underpinnings is
 often informed by experimental data. Researchers test theoretical
@@ -275,11 +279,12 @@ results of their tests, researchers make claims for or against
 theoretical assumptions.\\
 Since these tests play such an integral part in the argumentation
 process of experimentalists, both the data these tests are based on and
-the computational procedure of the tests itself should be transparent in
-order for other researchers to critically evaluate them. But more than
-that, things can go wrong. Humans are fallible; they make mistakes.
-Transparent sharing allows others to detect and correct human error. In
-recent years, quantitative linguistics have seen repeated calls to
+the computational procedure of the tests itself should be error-free.
+But humans are fallible; they make mistakes. We cannot avoid making
+errors, but we can make them at least detectable. Transparent sharing
+allows others to detect and correct human error.
+
+In recent years, quantitative linguistics have seen repeated calls to
 become more transparent and reproducible by sharing data and statistical
 protocols, often under the banner of ``open science''
 (\citeproc{ref-arvan2022reproducibility}{Arvan et al., 2022};
@@ -294,10 +299,10 @@ procedure of the analysis, i.e.~whether a hypothesis is rejected or
 accepted, these errors might lead to -at best- overconfident, -at worst-
 false theoretical conclusions. The present paper will present evidence
 that the published literature in experimental linguistics contains a
-concerning amount of such statistical errors, a state of affairs which
-warrants more rigorous data sharing practices.
+concerning amount of such statistical inconsitencies, a state of affairs
+which warrants more rigorous data sharing practices.
 
-\section{2. Statistal reporting
+\section{Statistal reporting
 inconsistencies}\label{statistal-reporting-inconsistencies}
 
 The null-hypothesis significance testing (NHST) framework is, to date,
@@ -389,20 +394,20 @@ concerning and have led to a constructive dialog, resulting in
 recommendations for best practice to either avoid inconsistencies or
 make them more detectable.
 
-To assess the prevalence of statistical-reporting inconsistencies in
+To assess the prevalence of statistical reporting inconsistencies in
 experimental linguistics, the present paper conceptually replicates
 Nuijten et al. (\citeproc{ref-nuijten2016prevalence}{2016}) and assesses
 p-values reported in thirteen experimental linguistic journals published
-between 2000 and 2023. We explore whether the rate of inconsistency
-differs across journals, whether their rate has changed over the course
-of the last 23 years and whether there is evidence for bias in these
-statistical-reporting inconsistencies. We discuss the results and offer
-concrete recommendations for authors, reviewers, and editors to tackle
-this problem.
+between 2000 and 2023. We explore whether the inconsistency rates differ
+across journals, whether they have changed over the course of the last
+23 years and whether there is evidence for bias in these
+inconsistencies. We discuss the results and offer concrete
+recommendations for authors, reviewers, and editors to tackle this
+problem.
 
-\section{3. Method}\label{method}
+\section{Method}\label{method}
 
-\subsection{3.1. Data availability
+\subsection{Data availability
 statement}\label{data-availability-statement}
 
 All quantitative analyses were conducted using R Core Team
@@ -410,7 +415,7 @@ All quantitative analyses were conducted using R Core Team
 scripts are available
 \href{https://osf.io/gx3ub/?view_only=25957e06b5f449d6820b529eb0ae1937}{here}.
 
-\subsection{3.2. Sample}\label{sample}
+\subsection{Sample}\label{sample}
 
 Focusing on experimental linguistic research, we used Kobrock and
 Roettger (\citeproc{ref-kobrock2023assessing}{2023}) as a point of
@@ -433,10 +438,11 @@ and Studies in Second Language Acquisition (SLA). An anonymous reviewer
 raised the justified concern that the resulting sample might not
 represent the vast majority of work in experimental linguistics. To
 address this concern, we additionally included those five journals that
-have published the highest absolute number of experimental articles,
-regardless of whether they explicitly urge APA formatting or not,
-resulting in the inclusion of the following psycholinguistic outlets:
-Journal of Memory and Language (JML), Language Cognition and
+have published the highest absolute number of experimental articles
+(according to \citeproc{ref-kobrock2023assessing}{Kobrock \& Roettger,
+2023}), regardless of whether they explicitly urge APA formatting or
+not, resulting in the inclusion of the following psycholinguistic
+outlets: Journal of Memory and Language (JML), Language, Cognition and
 Neuroscience (LCN, former Language and Cognitive Processes), Journal of
 Psycholinguistic Research (JPR), Journal Of Speech Language And Hearing
 Research (SLH), and Brain and Language (BAL).
@@ -445,19 +451,19 @@ We included only original research articles within the publication years
 of 2000-2023, excluding any book reviews, response articles,
 commentaries, editorials, corrigenda, errata, advertisements, etc.
 
-\subsection{3.3. Statcheck}\label{statcheck}
+\subsection{Statcheck}\label{statcheck}
 
 We used the R package Statcheck (Version 1.5.0,
 \citeproc{ref-nuijten2023statcheck}{Nuijten \& Epskamp, 2024}) to
-automatically detect statistical-reporting inconsistencies. Statcheck
+automatically detect statistical reporting inconsistencies. Statcheck
 works as follows: After converting articles in pdf or html format to
 plain text, Statcheck searches for specific strings that correspond to a
 NHST result using regular expressions. That way, Statcheck can detect
-results of t-tests, F-tests, Z-tests, χ2-tests, correlation tests, and Q
-tests as long as the test result fulfills three conditions: (a) the test
-result is reported completely including the test statistic, the degrees
-of freedom (if applicable), and the p-value; (b) the test result is in
-the body of the text, i.e. Statcheck usually misses information in
+results of t-tests, F-tests, Z-tests, χ2-tests, correlation tests, and
+Q-tests as long as the test result fulfills three conditions: (a) the
+test result is reported completely including the test statistic, the
+degrees of freedom (if applicable), and the p-value; (b) the test result
+is in the body of the text, i.e. Statcheck usually misses information in
 tables; and (c) the test result is reported in American Psychological
 Association style (\citeproc{ref-APA2020}{American Psychological
 Association, 2020}). Given these constraints, Statcheck is estimated to
@@ -482,13 +488,14 @@ overall accuracy of Statcheck is estimated to be between 96.2\% to
 thus consider Statcheck a valid proxy of the prevalence of statistical
 reporting inconsistencies.
 
-Articles from LAB spanned 2011-2023; LCN spanned 2015-2023. Statcheck
-could not parse 291 articles, likely related to issues with rendering
-the Chi-Squared symbol being erroneously converted from .pdf to .txt,
-resulting in some gaps in the coverage. This procedure resulted in 13065
-research articles which were submitted to analysis.
+Articles from Linguistic Approaches to Bilingualism spanned 2011-2023;
+articles from Language, Cognition and Neuroscience spanned 2015-2023.
+Statcheck could not parse 291 articles, likely related to issues with
+rendering the Chi-Squared symbol being erroneously converted from .pdf
+to .txt, resulting in some gaps in the coverage. This procedure resulted
+in 13065 research articles which were submitted to analysis.
 
-\subsection{3.4. Analysis and research
+\subsection{Analysis and research
 questions}\label{analysis-and-research-questions}
 
 The aims of this study were explicitly exploratory and hypothesis
@@ -496,15 +503,15 @@ generating, thus analyses remain merely descriptive by reporting on the
 proportion of articles/tests that are statistically (in)consistent. Our
 investigation was set out to explore the following research questions:
 (1) How prevalent are statistical inconsistencies (and decision
-inconsistencies) in our sample? (2) Do inconsistency rates vary across
-journals and/or their publication year? And (3) is there evidence for
-bias, i.e.~are processes that result in inconsistencies more likely to
-produce lower p-values?
+inconsistencies) in our sample? (see Section~\ref{sec-prevalent}) (2) Do
+inconsistency rates vary across journals and/or their publication year?
+(see Section~\ref{sec-stable}) And (3) is there evidence for bias,
+i.e.~are processes that result in inconsistencies more likely to produce
+lower p-values? (see Section~\ref{sec-bias})
 
-\section{4. Results}\label{results}
+\section{Results}\label{results}
 
-\subsection{4.1 Inconsistencies are highly
-prevalent}\label{inconsistencies-are-highly-prevalent}
+\subsection{Inconsistencies are highly prevalent}\label{sec-prevalent}
 
 The results are summarized in Table~\ref{tbl-summary}. Out of 13065
 articles, 6484 articles contained statistical tests that Statcheck could
@@ -572,9 +579,8 @@ Total & 13065 & 6484 & 85442 & 11279 & 1442 \\
 
 \end{table}
 
-\subsection{4.2 Inconsistencies are stable across journals and
-publication
-year}\label{inconsistencies-are-stable-across-journals-and-publication-year}
+\subsection{Inconsistencies are stable across journals and publication
+year}\label{sec-stable}
 
 The proportion of inconsistencies ranged from 8 to 23\% across journals
 (1 to 7\% for decision inconsistencies) (see
@@ -628,9 +634,11 @@ And Hearing Research (SLH))}
 
 \end{figure}%
 
-\subsection{4.3 Inconsistencies are
-biased}\label{inconsistencies-are-biased}
+\subsection{Inconsistencies appear biased but bias decreases over
+time}\label{sec-bias}
 
+If inconsistencies were bias-free, we would expect different types of
+inconsistencies to be equally frequent. However, this is not the case.
 Inconsistencies that report the p-value as being larger or smaller than
 a reference value (e.g.~p \textgreater{} 0.05 or p \textless{} 0.05,
 respectively) are not equally prevalent in the sample: There were 4.4\%
@@ -647,8 +655,8 @@ decision inconsistencies (n = 1442), 72\% represent cases in which a
 reported significant result (p \textless{} 0.05) is recalculated as
 non-significant (p \textgreater{} 0.05), i.e.~non-significant results
 are more than twice as likely to be erroneously reported as significant
-than the other way around. The latter pattern, however, seems to be a
-bias of the past. Reproducing Nuijten et al.
+than the other way around. The latter pattern, however, seems to have
+decreased over time. Reproducing Nuijten et al.
 (\citeproc{ref-nuijten2016prevalence}{2016}), Figure~\ref{fig-scatter}
 plots the development of the bias observed for decision inconsistencies
 over time. The prevalence of decision inconsistencies in significant
@@ -664,16 +672,16 @@ plotted across publication years.}
 
 \centering{
 
-\includegraphics[width=1\textwidth,height=\textheight]{../plots/figure3.png}
+\includegraphics[width=0.8\textwidth,height=\textheight]{../plots/figure3.png}
 
 }
 
 \end{figure}%
 
-\section{5. Discussion and
+\section{Discussion and
 Recommendations}\label{discussion-and-recommendations}
 
-\subsection{5.1. Statistical reporting inconsistencies are
+\subsection{Statistical reporting inconsistencies are
 prevalent}\label{statistical-reporting-inconsistencies-are-prevalent}
 
 The present study found a large amount of statistical reporting
@@ -683,23 +691,29 @@ were flagged as inconsistent and 1.7\% were flagged as decision
 inconsistencies, i.e.~the reported p-value is on the opposite side of
 the alpha threshold than the recalculated p-value. On average, 50\% of
 assessable articles contained at least one inconsistency and 13\%
-contained at least one decision inconsistency.
+contained at least one decision inconsistency. The present examination
+did not indicate any noticeable trend for inconsistency rates across
+journals or publication year.
 
 The present study can be considered a conceptual replication of previous
-studies investigating statistical-reporting inconsistency across
+studies investigating statistical reporting inconsistency across
 different disciplines (\citeproc{ref-bakker2011mis}{Bakker \& Wicherts,
 2011}, \citeproc{ref-bakker2014outlier}{2014};
 \citeproc{ref-caperos2013consistency}{Caperos \& Pardo, 2013};
 \citeproc{ref-veldkamp2014statistical}{Veldkamp et al., 2014};
 \citeproc{ref-wicherts2011willingness}{Wicherts et al., 2011}) and most
-recent assessments using Statcheck
+recent assessments using the automatic tool Statcheck
 (\citeproc{ref-buckley2023estimating}{Buckley et al., 2023};
 \citeproc{ref-colombo2018statistical}{Colombo et al., 2018};
 \citeproc{ref-gross2021fidelity}{Groß, 2021};
 \citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}). The
 discovered inconsistency rates fall in line with these studies that
 report on rates between 4\% and 14\%, with between 10\% and 63\% of
-articles containing at least one inconsistency.
+articles containing at least one inconsistency. Moreover, the observed
+rates of inconsistencies and decision inconsistencies are virtually
+identical to rates reported on by Nuijten et al.
+(\citeproc{ref-nuijten2016prevalence}{2016}) on the psychological
+science literature.
 
 Even if the prevalence of these inconsistencies could be largely
 attributed to inconsequential typos or rounding errors (an assumption we
@@ -711,16 +725,13 @@ during the data analysis itself remain undetected. We should ask
 ourselves, if the tip of the iceberg is already so large, what is the
 volume of the submerged iceberg?
 
-The present examination did not indicate any noticeable trend over a
-period of 23 years of publications. Observed inconsistencies were
-characterized by reported p-values being on average lower than their
-recalculated counterparts and the prevalence of decision inconsistencies
-was higher for p-values reported as significant than for those reported
-as non-significant. These biases have been reported on for other
-disciplines as well (\citeproc{ref-bakker2011mis}{Bakker \& Wicherts,
-2011}; \citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}).
-These skewed patterns could indicate a systematic bias in favor of lower
-p-values in general and a bias towards significant results in
+Our results suggest biases as well. The prevalence of decision
+inconsistencies was higher for p-values reported as significant than for
+those reported as non-significant. These biases have been reported on
+for other disciplines as well (\citeproc{ref-bakker2011mis}{Bakker \&
+Wicherts, 2011}; \citeproc{ref-nuijten2016prevalence}{Nuijten et al.,
+2016}). These skewed patterns could indicate a systematic bias in favor
+of lower p-values in general and a bias towards significant results in
 particular. Our data do not speak to the causes of these biases, but
 possible reasons include the following:
 
@@ -751,9 +762,9 @@ Third, the observed bias might merely be a reflection of publication
 bias (\citeproc{ref-franco2014publication}{Franco et al., 2014};
 \citeproc{ref-sterling1959publication}{Sterling, 1959}) with
 (erroneously) reported significant p-values being more likely to be
-published than non-significant ones. Publication bias is a well
-established pattern in experimental linguistic research with many recent
-meta analyses discussing possible evidence for it
+published than (erroneously) reported non-significant ones. Publication
+bias is a well established pattern in experimental linguistic research
+with many recent meta analyses discussing possible evidence for it
 (\citeproc{ref-isbilen2022statistical}{Isbilen \& Christiansen, 2022};
 \citeproc{ref-lehtonen2018bilingualism}{Lehtonen et al., 2018};
 \citeproc{ref-lu2024meta}{Lu et al., 2024}) For example, De Bruin et al.
@@ -762,12 +773,12 @@ supporting the bilingual-advantage theory were most likely to be
 published, while studies with results challenging the theory were
 significantly less likely to be published.
 
-Regardless of possible causes for bias in the processes that generate
-inconsistencies, the data also suggest that some of these biases has
-decreased over time, pointing to a positive development.
+Regardless of what possibly causes biases in the processes that generate
+inconsistencies, our data also suggest a positive development. The over
+proportional occurrence of decision inconsistencies for p-values
+reported as significant has decreased over time.
 
-\subsection{5.2. Limitations of our
-study}\label{limitations-of-our-study}
+\subsection{Limitations of our study}\label{limitations-of-our-study}
 
 While we believe our work offers an important contribution to improving
 statistical reporting practices in experimental linguistics, the present
@@ -808,7 +819,7 @@ rates in the published literature and we hope the reader agrees that the
 prevalence of inconsistencies is a state of affairs that should be
 reflected upon.
 
-\subsection{5.3. Recommendations for the
+\subsection{Recommendations for the
 field}\label{recommendations-for-the-field}
 
 There are concrete actionable steps the field of experimental
@@ -886,9 +897,10 @@ and a number of linguistic journals have already implemented such
 policies, including journals within our sample. Having said that, open
 data policies which for example the Journal of Memory and Language
 introduced in 2018 did not seem to have affected the proportion of
-statistical inconsistencies. The inconsistency rates for JML (and other
-journals) were rather stable across time, so open data alone might not
-resolve the issue without further changes to the research eco-system.
+statistical inconsistencies after their introduction. The inconsistency
+rates for JML (and other journals) were rather stable across time, so
+open data alone might not resolve the issue without further changes to
+the research eco-system.
 
 Researchers make errors. Researchers have biases. This is who we are as
 humans and there is not much we can do about our nature. Being aware of
