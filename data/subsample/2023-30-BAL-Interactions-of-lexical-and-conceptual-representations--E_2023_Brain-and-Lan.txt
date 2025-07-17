@@ -1,0 +1,877 @@
+Brain & Language 243 (2023) 105302
+
+Contents lists available at ScienceDirect
+
+Brain and Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Interactions of lexical and conceptual representations: Evidence from EEG
+Zohar Eviatar a, b, c, *, Nahal Binur c, Orna Peleg d
+a
+
+Institute for Information Processing and Decision Making, University of Haifa, Israel
+School of Psychological Science, University of Haifa, Israel
+c
+The Edmond J. Safra Brain Research Center for the Study of Learning Disabilities, University of Haifa, Israel
+d
+The Program of Cognitive Studies of Language and Its Uses, and Sagol School of Neuroscience, Tel-Aviv University, Israel
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Conceptual and Lexical representations
+N400
+Lexical ambiguity
+Semantic decisions
+
+We examined whether meanings automatically activate linguistic forms, and whether these forms affect semantic
+decisions. Participants were presented sequentially with pairs of pictures and decided whether the objects in the
+pictures were related. At no point did they name the pictures. The object names of the experimental stimuli were
+ambiguous either in orthography (homographs), phonology (homophones), or both (homonyms), or unambig
+uous. We show that the lexical characteristics of the name of the objects affect a semantic decision about real
+world relations, in an online measure (N400), in addition to offline behavioral measures. We show a dissociation
+between conceptual and lexical recognition, where an earlier component (N230), was affected by relatedness,
+but was not sensitive to the lexical characteristics. We interpret this as supporting the hypothesis that semantic
+recognition occurs before the automatic lexical activation of the object name, but that once linguistic repre
+sentations are activated, they affect semantic integration.
+
+1. Introduction
+There is intense debate in the literature about the nature of the
+relationship between conceptual and lexical representations. One of the
+major issues has to do with whether representations of linguistic and
+nonlinguistic knowledge are closely related, develop together, and have
+the same underlying structure (e.g., Gentner & Christie, 2010; Lupyan &
+Bergen, 2016), or whether linguistic knowledge is independent and
+secondary to other world knowledge (e.g., Gleitman and Papafragou,
+2005). The last 70 years have seen large changes in attitudes towards the
+hypothesis of linguistic relativity as proposed by Whorf (e.g., Whorf,
+1956). Depending on who is reporting about it, the hypothesis ranges
+from the idea that lexical concepts determine and limit conceptual
+representations (e.g., Athanasopoulos, Wiggett, Dering, Kuipers, &
+Thierry, 2009), to the idea that lexical and conceptual representations
+are closely intertwined and affect each other (e.g., Boroditsky, Schmidt,
+& Phillips 2003). The rise of the cognitive revolution emphasized the
+universality of cognitive and linguistic structures, and for a long time,
+linguistic knowledge was thought to be independent of other world
+knowledge, as presented clearly by Gleitman and Papafragou (2012).
+The last 20 years have seen another revolution, with the emergence
+of models that do not posit that semantic knowledge is represented as
+
+amodal symbols, but rather that cognition is grounded, or embodied (e.
+g., Anderson, 2003, Barsalou et al. 2008 for a review). According to
+these models, language and concepts are grounded in our sensorimotor
+experience (e.g., Zwaan & Madden, 2005; Pulvermuller, 1999, 2005).
+Barsalou and his colleagues (e.g., Barsalou, Santos, Simmons, & Wilson,
+2008) have extended this view, proposing the linguistic and situated
+simulation theory (LASS) as a model for the representation of knowledge
+in the mind and the brain. They posit that meanings of words are rep
+resented in two separate systems - the simulation system (SS), which is
+comprised of modal simulations that underlie cognition in general, and a
+linguistic system (LS), which they characterize as encoding associations
+between words, which function as pointers to concepts encoded in the
+simulation system. Although this is an integrative model in which both
+linguistic and nonlinguistic representations comprise knowledge about
+the world, the role of lexical knowledge is underspecified and may be
+underemphasized. The debate about the nature of mental representa
+tions, whether they are amodal symbolic, or embodied as simulations, is
+still ensuing (e.g., Mahon, 2015; Glenberg, 2015), while hybrid models
+have also been suggested (Zwaan, 2016). The present research focuses
+on the relationship between words and concepts, irrespective of the
+nature of the lexical and conceptual representations.
+
+* Corresponding author at: Zohar Eviatar, Psychology Dept, University of Haifa, Haifa, Israel.
+E-mail address: zohare@research.haifa.ac.il (Z. Eviatar).
+https://doi.org/10.1016/j.bandl.2023.105302
+Received 21 February 2023; Received in revised form 24 May 2023; Accepted 30 June 2023
+Available online 10 July 2023
+0093-934X/(c) 2023 Elsevier Inc. All rights reserved.
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+1.1. EEG studies
+
+Edelist, Eviatar, and Bergerbest (2016), in which the names of some of
+the items were homonyms (sound the same and are spelled the same, e.
+g., bank), some were homophones (sound the same but are spelled
+differently e.g., plane/plain), and some were homographs (sound
+differently but are spelled the same, e.g., tear). All of the ambiguous
+stimulus pairs in which there was some lexical similarity (either
+phonologically (homophones) orthographically (homographs) or both
+(homonyms)), were semantically unrelated. In a purely behavioral study
+(Peleg et al., 2016), we showed that it took participants longer to say
+`no' to the picture pairs that included objects whose labels were
+ambiguous in terms of phonology or orthography, than to pairs in which
+the labels of both pictures were unambiguous. In addition, this effect
+was stronger for the homonyms than for the labels in which there was
+only one source of ambiguity (phonological (homophones) or ortho
+graphic (homographs)). Importantly, the names of the objects in the
+pictures were irrelevant to the semantic decision - this is emphasized by
+the fact that English speakers, in whose language none of the ambigu
+ities occurred, showed no such lexical effects, supporting the conclusion
+that the results in Hebrew speakers were based only on the lexical
+characteristics of the labels of the pictures.
+In the present study we examine these lexical-semantic relations by
+using ongoing electrophysiological measures while participants per
+formed the semantic relatedness task, which requires no overt linguistic
+process, and included only pictorial stimuli. We focus on the N400
+component, which has been interpreted to index access and integration
+of meaning (see Kutas & Federmeier 2000; 2011, for review). The
+manipulation was the relationship between the names of the objects.
+Specifically, we are interested in seeing whether there will be differen
+tial N400 effects for pairs of pictures whose names include different
+types of lexical ambiguities, even before the semantic decision is made.
+In addition, our design allows us to examine the relative timing of
+conceptual and lexical effects. There is an ongoing debate about the
+separability of early (N300) and later (N400) components of semantic
+processing. Some authors (e.g., Barrett & Rugg, 1990; Hamm, Johnson,
+& Kirk, 2002; Ma et al., 2016) have suggested that the two components
+are generated by distinct cortical networks, where the early component
+indexes semantic features and categorization (what we defined as con
+ceptual), and the later component indexes semantic integration (which
+we defined as including lexical labels). On the other hand, other studies
+(e.g., Federmeier & Kutas, 2001; Draschkow, Heikel, Vo, Fiebach, &
+Sassenhagen, 2018) have found continuity between these components.
+We examined an earlier negative component that is temporally separate
+from the N400, \with a peak at 230 ms. Similar time windows have been
+shown to be sensitive to semantic relatedness (e,g, Cherng et al. 2016;
+Szucs et al., 2007). We asked when the effects of lexical ambiguity affect
+semantic processing.
+
+Among other methodologies, the relationship between lexical and
+semantic information has been examined using electrophysiological
+(EEG) measures. Since the early 1990s, there has been a line of research
+that explored the effects of lexical form on semantic judgements about
+pictures (e.g., Barrett & Rugg 1990a; 1990b; Ganis et al., 1996; Feder
+merier & Kutas, 2002; Kutas & Federmeier, 2011). These studies have
+used the EEG component N400, which has been defined as an index of
+the integration of linguistic and semantic knowledge (Kutas & Hillyard,
+1980), because this component is larger when two stimuli are seman
+tically incongruent. The studies mentioned above, and others, have
+explored the manner in which the amplitude of the N400 changes as a
+result of phonological dimensions (e.g., rhyming) of the names of the
+objects in the pictures, or of semantic incongruity with context. The
+general conclusion is that the phonological similarities of object names
+affect the judgements of congruity, lessening the amplitude of the N400.
+An additional reason for testing the effects of lexical ambiguity on se
+mantic decisions on pictures, comes from suggestions that the N400
+found for incongruent pictures and words have highly correlated topo
+graphical maps (with Khateb, Pegna, Landis, Mouthon and Annoni,
+(2010), showing a peak slightly earlier for pictures than for words, and
+Willems, Ozyurek, and Hagoort (2008) showing more frontal activation
+for pictures than for words). The authors of both of these studies suggest
+that the same cortical network gives rise to the N400 for both types of
+stimuli.
+We took advantage of the specific characteristics of written Hebrew
+to examine how orthographic, phonological, and semantic representa
+tions interact. Because Hebrew uses an abjad writing system, where
+letters mainly represent consonants, and vowels are mostly missing, it
+includes many ambiguous words that can be identical either in orthog
+raphy (but not phonology such as `tear'), or in phonology (but not
+orthography, such as `plain/plane'). These types of ambiguity are
+described in more detail below. Crucially, rather than asking how lin
+guistic forms are mapped onto meanings, we ask whether meanings
+automatically activate modal linguistic forms, and whether these lin
+guistic representations affect semantic decisions. These questions arise
+also from our previous studies, in which we focused on hemispheric
+differences in the putative relationships between orthography,
+phonology, and semantics (see Peleg & Eviatar 2012 for a review of
+behavioral studies, and Bitan et al., 2017 for imaging data). In those
+studies, we used lateralized presentations of ambiguous words as stimuli
+for lexical decision tasks, and suggested that the different patterns
+arising from stimuli presented to the two visual fields resulted from
+different functional architecture in the two hemispheres. Specifically,
+we suggested that orthographic, phonological, and semantic represen
+tations are fully interconnected in the left hemisphere (LH), whereas
+there are no direct connections between orthography and phonology in
+the right hemisphere (RH). In their studies using picture stimuli, Fed
+ermeier and Kutas (e.g., Federmeier & Kutas, 2002; Kutas & Federmeier,
+2011), report that both hemispheres reveal sensitivity to semantic
+congruity between two stimuli, as shown by the N400 effect. They
+further suggested that the LH is more sensitive to manipulations, or
+gradations, of congruity than the RH, because it uses context, or topdown processes more than the RH. The novelty of the present study is
+that all of the experimental stimuli were incongruent semantically to the
+same degree, rather, we manipulated the congruity of the stimuli purely
+in terms of lexical form, which was automatically self-generated by the
+participants.
+
+2. Method
+2.1. Participants
+Thirty students from the University of Haifa participated in the
+current study (19 females, mean age 27.1 (3.7)). All participants were
+right handed skilled readers (measured by the Edinburgh Question
+naire), with normal or corrected-to-normal vision, and no reported
+learning disabilities, or neurological or psychiatric disorders. All par
+ticipants signed informed consent and were financially compensated for
+participation (50 NIS). The experiment was approved by the University
+of Haifa ethics committee for human research (approval number 302/
+13).
+
+1.2. The present study
+
+2.2. Design and materials
+
+We showed participants two pictures in sequence, and asked them to
+decide whether the objects in the pictures were semantically related to
+each other in the real world. At no point were participants asked to name
+the objects in the pictures. We used stimuli similar to those used in Peleg,
+
+We manipulated two factors: the relationship between the names of
+the objects in the pictures (Picture Names), and the relationship between
+the objects in the pictures (Picture Relation). Examples of the full design
+2
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+This resulted in the design shown in Fig. 1, with 9 experimental
+conditions, and 2 control conditions. There were 21 picture pairs in each
+of the conditions, resulting in 189 experimental pairs, and 42 control
+pairs. Sixty pairs of unambiguous related pairs were added as fillers in
+order to equate the number of related and unrelated pairs in the whole
+experiment. Results from these were not analyzed. Thus, there were 291
+unique picture pairs in the complete experiment. Importantly, the sec
+ond (target) picture was the same in the 3 Picture Relation conditions
+(Ambiguous-Unrelated, Unambiguous Unrelated, UnambiguousRelated). This controlled for visual differences among the target pic
+tures across conditions.
+The picture-pairs were adapted from the set used by Peleg et al.
+(2016). The experimental and control pictures were chosen to be
+equated on visual complexity, frequency of the object names, length of
+the object names, and ease of naming. This was done by a pretest, in
+which 21 participants saw a series of pictures and named them, assessed
+the frequency of the name and the visual complexity of the picture.
+
+are shown in Fig. 1.
+There were 4 types of Picture Names:
+Homophonic homographs - a single orthographic and phonological
+representation associated with multiple meanings (such as bank, in
+Hebrew: mapa (geographical map and tablecloth)). From now on these
+will be referred to as homonyms.
+Homophonic heterographs - a single phonological representation
+associated with multiple orthographic codes, each associated with a
+different meaning (such as plain/plane, in Hebrew: et ((( pen and ((
+shovel). From now on these will be referred to as homophones.
+Heterophonic homographs - a single orthographic representation
+associated with multiple phonological codes each associated with a
+different meaning (such as tear, in Hebrew:  sefer/sapar (book,
+barber)). From now on these will be referred to as homographs.
+Control stimuli - Hebrew words that are not ambiguous in any way.
+In the case of homonyms both phonology and orthography are
+associated between the pairs. In the case of homographs only orthog
+raphy is associated, whereas in the case of homophones only phonology
+is associated between the pairs. Recall that the stimuli are non-linguistic,
+but we expect to evoke the lexical form of the word from the picture.
+There were 3 types of Picture Relations:
+Ambiguous-unrelated: in which pictures of objects which are
+semantically unrelated are paired, but the names of the objects are either
+homonyms, homographs, or homophones (such as picture of a
+geographical map and a picture of a tablecloth).
+Unambiguous-unrelated: in which the objects are semantically un
+related, and there is no relationship between their names. Here the first
+picture was related to one meaning of the ambiguous word (such as
+compass is related to geographical map), and it was paired with a picture
+of a tablecloth.
+Unambiguous-related: in which the pictures are of objects which are
+semantically related. Here the first picture was related to the depicted
+meaning of the ambiguous word (such as curtains are related to
+tablecloth).
+For the control condition, half of the picture pairs were semantically
+related and half were unrelated.
+
+2.3. Procedure
+Participants were seated in a sound-attenuated room in front of a
+computer screen (approximately 80 cm distance). After customizing the
+EEG cap, participants were given instructions about the semantic deci
+sion task. For each picture-pair, they had to respond as quickly as
+possible after the appearance of the second picture by pressing `1 for
+semantically related pairs, and `2 for semantically unrelated pairs. The
+sequence of events on each trial is shown in Fig. 2. After the second
+picture, a blank screen appeared until a response was made (for at least
+500 ms and no longer than 2500 ms). After every 40 trials, a break
+screen occurred for rest.
+The experimental procedure was divided into 3 blocks, with 97 trials
+per block: 63 experimental pairs and 34 control or filler pairs. The
+Picture Relation conditions were counterbalanced across the 3 blocks
+across participants. The whole procedure was repeated twice, in order to
+fulfill ERP requirements for number of items per condition for sufficient
+signal-to-noise ratio (resulting in 42 trials in each sub-condition instead
+
+Fig. 1. The full design of the study, with one example of picture-pair for each sub-condition. Each row represents the Relatedness variable, and each column
+represents the Picture Name Type variable. Beneath each picture-pair, orthography and phonology are written in Hebrew, and semantics is translated to English.
+3
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+segmented data (gradient criterion: 40 V, difference criterion: 100 V
+per 100 ms, amplitude criterion: - 70.00 - 70.00 V, low activity cri
+terion: 0.50 V per 100 ms). The individual average for each condition
+was adjusted to the pre-stimulus baseline. Only trials in which partici
+pants responded correctly were used. A grand average was calculated
+across conditions and was used to define the time window for both the
+N230 and the N400 components.
+The N400 effect was computed by subtracting the related condition
+from the unrelated conditions of the N400 component (difference wave).
+The time window for analysis of the N400 component was defined be
+tween 300 and 500 ms post-stimulus, based on the best convergence of
+changes at the grand average and the topographic scalp distribution of
+the difference maps. The individual mean ERP amplitude of this time
+window was exported to SPSS software (IBM, version 21) for statistical
+analysis.
+The N230 was computed as the mean amplitude between 160 and
+260 ms post-stimulus (no difference wave was calculated), with caution
+not to insert the transition time into the N400 component and exported
+as described above. We named this component due to its negative peak
+around 230 ms and avoid the definition of whether it is part of the N2 or
+N300 family.
+For the statistical analyses 9 regions of interest (ROIs) were defined:
+Anterior Left (AF3, F1, F3), Anterior Midline (AFz, Fz), Anterior Right
+(AF4, F2, F4), Central Left (FC1, FC3, C1, C3), Central Midline (FCz, Cz),
+Central Right (FC2, FC4, C2, C4), Posterior Left (CP1, CP3, P1, P3),
+Posterior Midline (CPz, Pz), Posterior Right (CP2, CP4, P2, P4), ac
+cording to the scalp distribution of the component. The value of each
+ROI calculated as the average mean amplitude of its electrodes. These
+are shown in Fig. 3.
+
+Fig. 2. The sequence of events on each trial. Participants were requested to
+judge the relatedness of the picture-pair after the appearance of the second
+picture by pressing `1 for semantically related pairs, and `2 for semantically
+unrelated pairs ("are the two pictures related in the real world").
+
+of 21). A preliminary analysis showed that there were no significant
+differences in the N400 effect between the performance in the 1st and
+2nd half of the task, (F(1,29) = 0.13, p >.72). There was a weak inter
+action with hemisphere and ambiguity, F(1,29) = 4.16, p <.02, 2p =.12,
+but when analyzing each hemisphere separately, the interaction was
+only a trend over the right hemisphere ROIs (F(1,29) = 3.06, p =.091),
+indicating that unambiguous stimuli resulted in a slightly larger N400
+effect in the second half than in the first half. No other interactions
+involving the factor Half were found (all Fs < 1.3). We consider this a
+negligible effect and therefore report the results for the complete stim
+ulus set (summed over both halves).
+
+3. Results
+The research question in this study was whether meanings activate
+phonological and orthographic linguistic representations, and whether
+these representations affect our perception of semantic relatedness.
+Perception of semantic relatedness was examined both behaviorally
+
+2.4. Data acquisition & analysis
+Ongoing EEG was recorded at 2048 Hz sampling, using a 64 channel
+BioSemi ActiveTwo system (BioSemi, Amsterdam, The Netherlands) and
+the ActiveView recording software. Signals were amplified and digitized
+with a 24 bit AD converter, and electrode offset was kept below 50 V.
+The anti-aliasing filter was Biosemi default - a fixed first order analog
+filter (-3dB at 3.6 kHz),), and ongoing data was recorded with a band
+pass filter of 0.1-100 Hz. According to the extended 10-20 system, 64
+pin-type electrodes were customized to the participants' head, using
+BioSemi head-caps. All electrodes were referenced during the recording
+to an active common-mode signal electrode (CMS), which together with
+a passive driven right leg electrode (DRL) formed a feedback loop rep
+resenting the ground (located beside POZ).
+Three additional flat electrodes were used to monitor vertical and
+horizontal eye-movement, placed underneath the left eye and on the
+side of both eyes.
+We used Brain Vision Analyzer software (Brain-Products) for offline
+data processing, which included the following steps for each file:
+bandpass filter (0.10 Hz-30 Hz, notch filter at 50 Hz); manual rejection
+of extreme artifacts; blinks and eye movements correction using ICA
+method; and re-reference of the electrodes to the average-reference
+(following Khateb et al., 2010; and Dudschig Kaup, Leuthold, & Mack
+enzie, 2021). After the initial processing, the ongoing EEG data were
+segmented separately for each condition (from - 100 ms pre-stimulus to
+1000 ms post-stimulus). Artifacts were automatically rejected from the
+
+Fig. 3. Distribution of the electrodes on scalp. Midline electrodes are in gray
+scale. On the left hemisphere, Anterior electrodes are colored in dark purple,
+Central in medium purple, and posterior in bright purple. On the right hemi
+sphere, Anterior electrodes are colored in dark green, Central in medium green,
+and posterior in bright green. (For interpretation of the references to colour in
+this figure legend, the reader is referred to the web version of this article.)
+4
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+using reaction time and accuracy, and with an ERP measure - the N400.
+The N400 measure is considered an index of relatedness in semantic
+decisions (Kutas and Federmeier, 2009; 2011), where the N400 ampli
+tude size is inversely correlated with the extent to which stimuli are
+rated as related.
+The hypothesis in the current study was that phonological and
+orthographic aspects of the names of the pictured objects affect semantic
+judgement of the relatedness of these pictorial stimuli. Therefore, we
+expected to see that stimuli that were characterized with either
+phonological or orthographical (or both) ambiguity but were actually
+unrelated, would elicit elevated behavioral measures of semantic relat
+edness, as well as a diminished N400 effect compared to stimuli that are
+unambiguous and also unrelated.
+
+semantic relatedness of the picture pairs. For this purpose, 3x2 repeated
+measures ANOVAs were computed using the factors: Picture Name
+Type (Homonyms, Homophones, Homographs) and Ambiguity
+(Ambiguous, Unambiguous).
+Reaction Times. The ANOVA revealed a significant interaction be
+tween Picture Name Type and Ambiguity (F(2,28) = 4.45, p <.02, 2p
+=.13), and a significant main effect of Picture Name Type (F(2,28) = 5.47,
+p <.007, 2p =.16). As can be seen in Fig. 4, the overall effect of Picture
+Name Type resulted only from the ambiguous homonymous pairs.
+Importantly, the interaction indicated that the effect of Ambiguity
+occurred only for Homonyms (t(29) = 2.66, p <.014, using Bonferroni
+adjustment), but not for Homophones (t(29) = -1.46, p >.15, Bayes factor
+= 0.08) and Homographs (t(29) = -0.07, p >.94, Bayes factor = 0.19)
+picture name pairs.
+The effect of Ambiguity reflects that ambiguous picture pairs resul
+ted in longer reaction times as compared to unambiguous pairs for
+Homonymous picture pairs (Mean Difference = 36.51, SE = 13.7), but
+not for Homophonic (Mean Difference = -15.41, SE = 10.6) and Homo
+graphic (Mean Difference = 1.11, SE = 15.4) picture pairs. These pat
+terns are shown in the left panel of Fig. 4.
+Error Rates. The ANOVA revealed a significant interaction between
+Picture Name Type and Ambiguity (F(2,28) = 10.22, p <.001, 2p =.26); a
+significant main effect of Ambiguity (F(1,29) = 29.50, p <.001, 2p =.50);
+and a significant main effect of Picture Name Type (F(2,28) = 14.81, p
+<.001, 2p =.34). Thus, the overall effect of ambiguity indicated higher
+error rates for ambiguous as compared to unambiguous picture pairs,
+while the interaction indicated it was stronger for homonyms (t(29) =
+4.79, p <.001; Mean Difference = 11.98, SE = 2.50), then for homo
+graphs (t(29) = 4.06, p <.001; Mean Difference = 4.52, SE = 1.11), and
+homophones (t(29) = 2.63, p <.02; Mean Difference = 3.02, SE = 1.15).
+Thus, even though there were less errors for unambiguous homophones,
+the difference between ambiguous and unambiguous picture pairs was
+larger for homonyms than for the other types of pairs.
+The effect of Picture Name Type indicated that Homonymous picture
+pairs resulted in significantly higher error rates than Homophonic (Mean
+Difference = 12.06, SE = 2.6, p <.001) and Homographic pairs (Mean
+Difference = 7.94, SE = 2.5, p <.02). In addition, Homophonic picture
+pairs resulted in lower error rates than Homographic picture pairs
+(Mean Difference = 4.13, SE = 1.2, p <.01). These patterns are shown in
+the right panel of Fig. 4.
+
+3.1. Behavioral results
+3.1.1. Unambiguous pairs - Test of equivalence
+In order to verify there were no initial differences between the Un
+ambiguous picture pairs in the 3 experimental Picture Name Types and
+the control, repeated measures ANOVAs were applied to the participant's
+behavioral measures (reaction times to correct responses and error
+rates) with the factor Picture Name Type (Homonyms, Homophones,
+Homographs, Control). That is, the different picture name types in the
+middle row of Fig. 1.
+Reaction Times. The ANOVA revealed no effect of Picture Name
+Type (F(3,27) = 1.02, p >.38), indicating no initial significant difference
+between Unambiguous pairs in reaction times.
+Error Rates. The ANOVA revealed a significant main effect of Picture
+Name Type (F(3,27) = 5.35, p <.002, 2p =.16), indicating that Unam
+biguous Homophonic picture pairs received lower Error Rates than Un
+ambiguous Homonymous (Mean Difference = 3.10, SE = 1.1, p =.051)
+and Control (Mean Difference = 3.97, SE = 0.9, p <.001) picture pairs.
+This can be seen in the right panel of Fig. 4, in the pattern of the black
+bars indicating error rates for unambiguous pairs. As shown below, the
+effects of picture name ambiguity were not dependent on this difference.
+3.1.2. Effects of picture name ambiguity
+In order to examine the effects of picture name ambiguity, we
+compared the behavioral measures of ambiguous versus unambiguous
+unrelated picture pairs in the 3 picture name types - namely, only the
+occurrences in which participants had to reply "no" regarding the
+
+Fig. 4. Behavioral Measures of the semantic decision task. Left Panel: Response times were significantly longer for ambiguous compared to unambiguous picturepairs only for homonyms. Right Panel: Percent Errors were higher for ambiguous compared to unambiguous picture-pairs in all picture name types, with higher
+difference for homonyms. Error bars indicate standard errors.
+5
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+3.2. ERP results4.2.1 unambiguous pairs - Test of equivalence
+
+ambiguity).
+See Fig. 5 for the scalp distribution maps and Figs. 6a, 6b and 6c for
+the ERPs difference wave forms for homonymic, homophonic, and ho
+mographic picture names types, respectively.
+Regarding the main hypothesis of the study, the ANOVA revealed a
+significant main effect of Ambiguity, F(1,29) = 17.75, p <.001, 2p =.38,
+indicating overall, as hypothesized, that ambiguous-unrelated picturepairs resulted in weaker N400 effect than unambiguous-unrelated pic
+ture-pairs, implying that lexical similarity affects the perceived semantic
+relatedness. Crucially, the effect of ambiguity was qualified by a sig
+nificant 2-way interaction with Picture name type, F(2,29) = 5.30, p
+<.008, 2p =.16, indicating that the type of the lexical similarity
+(phonologic, orthographic, or both) dictated the perceived semantic
+relatedness.
+Regarding the distribution of the N400 effect, the ANOVA revealed a
+significant effect of site, F(1,29) = 46.20, p <.001, 2p =.61, indicating
+stronger activity above central sites compared to anterior sites (mean
+diff. = 0.990, SE = 0.146); a significant effect of hemisphere, F(1,29) =
+20.54, p <.001, 2p =.42, indicating a right bias of the N400 effect (mean
+diff. = 0.381, SE = 0.097, p <.002), as often reported in the literature (e.
+g., Kutas & Federmeier, 2009) despite the fact that we used an average
+reference and not mastoid reference, as in many previous studies, and
+stronger activity above the midline ROIs compared to the left ROIs
+
+In order to focus on the effects of ambiguity on the N400, it is initially
+necessary to validate that the N400 effect in all of the unambiguous
+conditions does not differ from each other and from the control condi
+tion. To do so, we computed a 3x3x4 repeated measures ANOVA using
+the factors: Site (Anterior, Central, Posterior), Hemisphere (Left,
+Midline, Right) and Picture Name Type (Homonyms, Homophones,
+Homographs, Control). The dependent variable was the mean amplitude
+of the N400 difference wave (300 ms-500 ms post stimuli). This ANOVA
+confirmed no significant main effect of Picture Names Type (F(3,29) =
+1.26, p >.29), or any interaction involving this factor (Fs < 1.08).
+3.2.1. Effects of picture name ambiguity
+In order to examine the effects of picture name ambiguity, we
+compared the mean amplitude of the N400 effect of ambiguous versus
+unambiguous picture pairs in the three picture name types, using a
+2x3x3x2 repeated measures ANOVA with the factors: Site (Anterior,
+Central), Hemisphere (Left, Midline, Right) Picture Name Type
+(Homonyms, Homophones, Homographs), and Ambiguity (Ambiguous,
+Unambiguous). Note that for simplification, posterior sites were omitted
+from analyses as preliminary exploration resulted in no effect or inter
+action involving ambiguity at those sites (all Fs < 1; BF(0, 0.11) = 0.18 for
+
+Fig. 5. Scalp distribution maps for the N400 effects. In the first two rows the maps represent the effect of relatedness, as it presents the difference between the
+related condition and the unrelated conditions - unambiguous and ambiguous, respectively. The maps in the last row presents the difference between the rows above
+- the ambiguous and unambiguous relatedness effects - and thus represent the effect of ambiguity. Each column represents one the three picture name types.
+6
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+Fig. 6a. ERPs difference waveforms (unrelated - related) for the homonymous ambiguous picture name type (in red) and their unambiguous controls (in black) in
+the 6 midline electrodes and the 6 lateral ROIs. Ranges defined from 100 ms pre- to 700 ms post stimuli onset, the N400 effect time window is framed. (For
+interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+(mean diff. = 0.615, SE = 0.095, p <.001) and marginally the right ROIs
+(mean diff. = 0.234, SE = 0.098, p =.072), after Bonferroni adjustment
+for multiple comparisons.
+The interaction of interest, between Ambiguity and Picture name
+type was qualified by a 3-way interaction with hemisphere, F(4,29) =
+2.59, p <.04, 2p =.08, and a 4-way interaction with hemisphere and site,
+F(4,29) = 2.46, p <.05, 2p =.08. To explore the interactions, separate
+ANOVAs were conducted for each of the picture name types.
+For homonymous picture pairs, the effect of ambiguity, F(1,29) =
+31.72, p <.001, 2p =.52, was most prominent across ROIs, with only
+marginal interaction with hemisphere, F(1,29) = 2.85, p =.066, 2p =.09,
+indicating a stronger ambiguity effect in midline (2p =.48) and left (2p
+=.45) ROIs than in the right ROIs (2p =.23).
+For homophonic picture pairs, the effect of ambiguity was marginal
+overall, F(1,29) = 4.02, p =.054, 2p =.12, and was qualified by a signif
+icant 2-way interaction with hemisphere, F(4,29) = 4.48, p <.02, 2p =.13,
+and 3-way interaction with hemisphere and site, F(4,29) = 4.72, p <.02,
+2p =.14. Thus, the distribution of the effect of ambiguity for homo
+phones was significant over Right ROIs, F(1,29) = 12.04, p <.002, 2p
+=.29, marginal over Midline ROIs, F(1,29) = 3.57, p =.069, 2p =.11, an
+insignificant over Left ROIs, F(1,29) = 0.15, p >.70, 2p =.005 (the
+insignificant trend towards interaction with site can be seen in the left
+
+panel of Fig. 7, but it did not reach significant, F(1,29) = 2.83, p >.10).
+For homographic picture pairs, no effect of ambiguity was found,
+F(1,29) = 0.62, p >.43, BF(0, 0.1) = 0.37, and ambiguity did not interact
+with any of the other factors (all Fs < 1.55).
+3.3. Early effects of Relatedness: N230
+To examine whether the effect of ambiguity and relatedness may be
+found earlier in the processing stages of the picture pairs, we compared
+the mean amplitude of the N230 component in the 3 Relatedness con
+ditions (Related, Ambiguous (unrelated), Unrelated (unambiguous)),
+separately in the three picture name types, within the same ROIs as
+described for the N400, resulting in a 2x3x3 ANOVAs. Fig. 8 shows a
+representative waveform from the FCz electrode - ERPs from the wider
+distribution of electrodes are included in the appendix.
+Regarding the main question, the effect of Relatedness was significant
+for all picture name types (Homonyms: F(2,29) = 15.76, p <.001, 2p =.35;
+Homophones: F(2,29) = 14.43, p <.001, 2p =.33; Homographs: F(2,29) =
+14.19, p <.001, 2p =.34). Pairwise comparisons (with Bonferroni
+adjustment) indicated the effect of semantic relatedness, as Related
+picture pairs had weaker negativity compared to both types of Unrelated
+pairs - Ambiguous (Homonyms: mean diff. = 0.59, SE = 0.14, p <.001;
+7
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+Fig. 6b. ERPs difference waveforms (unrelated - related) for the homophonic ambiguous picture name type (in red) and their unambiguous controls (in black) in
+the 6 midline electrodes and the 6 lateral ROIs. Ranges defined from 100 ms pre- to 700 ms post stimuli onset, the N400 effect time window is framed.
+
+Homophones: mean diff. = 0.52, SE = 0.11, p <.001; Homographs: mean
+diff. = 0.60, SE = 0.14, p <.001) and Unambiguous (Homonyms: mean
+diff. = 0.88, SE = 0.19, p <.001; Homophones: mean diff. = 0.67, SE =
+0.14, p <.001; Homographs: mean diff. = 0.74, SE = 0.16, p <.001); but
+did not support the effect of lexical relatedness, as Ambiguous unrelated
+pairs did not differ significantly from Unambiguous unrelated ones
+(Homonyms: mean diff. = 0.29, SE = 0.14, p >.15; Homophones: mean
+diff. = 0.15, SE = 0.14, p >.82; Homographs: mean diff. = 0.14, SE =
+0.14, p >.98). These patterns are shown in Fig. 9.
+Regarding the distribution of the N230, further analyses are pre
+sented in the appendix.
+
+semantic decision. It took longer for participants to say that two objects
+with homonymous labels are not related to each other, and participants
+made more errors on pairs of unrelated objects whose labels were
+identical phonologically, orthographically, or in both aspects (see
+Fig. 4). These findings show the behavioral effect of lexical factors on the
+semantic judgement.
+The online electrophysiological findings are relevant to the debate
+about the relationship between conceptual and lexical representations.
+The patterns of the N230 show that there were no effects of the lexical
+manipulation in our stimuli on the recognition of relatedness. When we
+look at the wave forms (Fig. 8 and the appendix), we see that there is an
+effect of relatedness, but that this is not affected by the lexical charac
+teristics of the labels of the objects in the pictures, as also shown in
+Fig. 9. These results suggest that the semantic processes that compute
+relatedness in the real world, occurred before the effects of the lexical
+ambiguity of the labels of the objects. Although our time windows are a
+bit different from previous studies, these results support the hypothesis
+that there are separate underlying processes for semantic categorization
+and semantic integration (Hamm, Johnson & Kirk, 2002; Ma et al.,
+2016). Our results suggest that semantic categorization that occurs
+early, does not include the lexical label of the object, whereas semantic
+integration, that occurs later, does include this information and is
+affected by it. Once the ambiguity is processed, it does affect the se
+mantic representation of the relatedness of the objects (and this peaks at
+
+4. Discussion
+The goal of the present experiment was to examine the effect of
+lexical ambiguity (phonological and orthographic aspects of the names
+of objects) on semantic decisions: are two objects related in the real
+world? That is, we asked whether lexical aspects of words that are
+automatically self-generated as participants recognize the objects in the
+pictures, affect the semantic decision about their relatedness. We varied
+the type of lexical aspects that were ambiguous: phonological, ortho
+graphic, or both.
+The behavioral results replicated the findings of Peleg et al (2016)
+overall, showing that lexical ambiguity slowed and added errors to the
+8
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+Fig. 6c. ERPs difference waveforms (unrelated - related) for the homographic ambiguous picture name type (in red) and their unambiguous controls (in black) in
+the 6 midline electrodes and the 6 lateral ROIs. Ranges defined from 100 ms pre- to 700 ms post stimuli onset, the N400 effect time window is framed. (For
+interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+Fig. 7. N400 effect - the effect of ambiguity by picture name types at lateral ROIs. As can be seen, the effect of ambiguity (in V) was stronger for homonymous
+picture pairs (gray bars) and absent for homographic picture pairs (black bars). Interestingly, for homophonic picture pairs (white bars), the effect of ambiguity was
+significant at central ROIs, and at the anterior right ROI, but was absent at the anterior left ROI,
+
+9
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+Fig. 8. The N230 component at frontal-central representative electrode, showed significant effect of relatedness but no effect of ambiguity. Depicted are the
+waveforms for the related (blue line), ambiguous unrelated (red line), and unambiguous unrelated (black line) conditions for the homonymous (left panel), ho
+mophonic (middle panel) and homographic (right panel) picture name types in FCz electrode. Ranges defined from 100 ms pre- to 700 ms post stimuli onset, the
+N230 and N400 components time windows are framed. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of
+this article.)
+
+Fig. 9. The effect of Relatedness, as can be seen, N230 amplitude (in V) was weaker for Related picture pairs (white bars) compared to unrelated pairs, both
+Unambiguous (black bars) and Ambiguous (gray bars) in all picture name types.
+
+around 400 ms). Our results suggest that conceptual and lexical access
+are not simultaneous, but that as soon as lexical access occurs, which it
+does quickly and automatically, it affects decisions about the conceptual
+representations. Thus, our findings suggest that the representations about
+the semantic characteristics of objects, and the lexical characteristics of
+the label of the objects, are accessed separately. However, as soon as
+lexical representations are activated, they affect the further processing
+of the concepts.
+The electrophysiological findings reveal differences in the N400 ef
+fect between lexically ambiguous and unambiguous labels of the objects
+that were our picture stimuli. Recall that the N400 is largest when two
+stimuli do not belong together. Our results show that it is significantly
+smaller when the names of the objects are ambiguous than when they
+are not (see Fig. 5). In addition, even though we used a different refer
+ence (average reference vs. mastoid reference) than many earlier
+studies, we replicated the overall topographical distribution of the
+effect.
+Although topographic distributions cannot be informative about
+underlying localization of the cortical networks that give rise to them,
+we speculate that our findings may be compatible with those reported by
+Federmeier and Kutas (e.g., 2002), where the gradations of semantic
+similarity affected the N400 for stimuli presented in the right visual field
+(RVF, directly to the LH) but not for pictures presented to the LVF
+(directly to the RH). Although it is probable that both hemispheres
+contributed to the processes indexed by the N400 in our study, we do see
+
+a somewhat different distribution of effects over the two hemispheres: If
+the labels of the objects in the pictures were identical in both phonology
+and orthography (homonyms), then the effect size for the N400 wave
+was larger over the LH (0.45) than over the RH (0.23). However, if the
+ambiguity was only in phonology, as in the homophones, the effect size
+was larger over the RH (0.29) and absent over the LH (0.005). Thus, over
+the LH, there was a large effect size when ambiguity included both
+phonology and orthography, but not when only one of them was present.
+On the other hand, over the RH, phonological ambiguity, whether it
+came with orthographic ambiguity (as in the homonyms) or without (as
+in the homophones) was enough to result in smaller but equivalent N400
+effects (0.23 for homonyms and 0.29 for homophones). Thus, responses
+over the RH were not affected by the degree of ambiguity, but only if the
+phonology was identical.
+To summarize, we show that the lexical characteristics of the name of
+the objects being judged, affect a semantic decision which is unrelated to
+the names of the objects in an online measure. We also showed the
+timeline of this effect, where relatedness affects the waveform inde
+pendently of lexical characteristics at 200 ms, and that it takes
+approximately 200 ms more for the lexical effects to become apparent.
+Note
+This research was funded by the Israel Academy of Science, grant no:
+624/12 to ZE and OP.
+
+10
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+Declaration of Competing Interest
+
+Acknowledgement
+
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper.
+
+We thank Naama Zur for much help in setting up and running the
+study. This research was funded by the Israel Academy of Science grant
+number 624/12 to ZE and OP
+
+Data availability
+Data will be made available on request.
+
+Appendix A
+1. Distribution Analyses of the N230.
+Analyses of the distribution patterns of the N230 component were done for each picture type usinga 2 x 3 x 2 repeated measures ANOVA with the
+factors: Site (Anterior, Central), Hemisphere (Left, Midline, Right) and Ambiguity (Ambiguous, Unambiguous). The analyses revealed a main effect
+of site, indicating stronger negativity over Anterior compared to Central sites in all the picture name types (Homonyms: F(1,29) = 5.97, p <.03, 2p =.17;
+Homophones: F(1,29) = 6.40, p <.02, 2p =.18; Homographs: F(1,29) = 5.68, p <.03, 2p =.16); The main effect of Hemisphere (Homonyms: F(2,29) = 16.54,
+p <.001, 2p =.36; Homophones: F(2,29) = 13.65, p <.001, 2p =.32; Homographs: F(2,29) = 14.94, p <.001, 2p =.34), indicated stronger negativity over
+Midline ROIs - compared to Right ROIs (Homonyms: mean diff. = 0.62, SE =.11p <.001; Homophones: mean diff. = 0.68, SE = 0.14, p <.001; Ho
+mographs: mean diff. = 0.69, SE = 0.12, p <.001) and compared to left ROIs (Homonyms: mean diff. = 0.19, SE = 0.08, p =.063; Homophones: mean
+diff. = 0.28, SE = 0.10, p <.03; Homographs: mean diff. = 0.39, SE = 0.10, p <.002), after adjusting for multiple comparisons using Bonferroni
+correction. Although the interaction between relatedness and hemisphere was significant for all picture name types (Homonyms: F(1,29) = 3.00, p <.03,
+2p =.09; Homophones: F(1,29) = 3.16, p <.02, 2p =.10; Homographs: F(1,29) = 4.97, p <.001, 2p =.15), separate pairwise comparison for the ROIs above
+each hemisphere did not reveal any meaningful difference in the pattern of the effect of relatedness, namely the interaction indicated only differences
+in statistical power, while the principle pattern remain stable. This was the case also for the 3-way interaction between relatedness, site and hemi
+sphere found for Homographs (F(4,29) = 2.77, p <.03, 2p =.09). Thus, those interactions are not detailed.
+2. Additional figures
+Full figures for N230 analysis, also stands for N400 waveforms before computing the difference waves, separately for each picture name type. Red
+lines represent Ambiguous (unrelated) picture pairs, black lines represent Unambiguous (unrelated) picture pairs and blue lines represent Related
+(unambiguous) picture pairs.
+
+11
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+12
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+References
+
+Gentner, D., & Christie, S. (2010). Mutual bootstrapping between language and
+analogical processing. Language and Cognition, 2(2), 261-283.
+Glenberg, A. M. (2015). Few believe the world is flat: How embodiment is changing the
+scientific understanding of cognition. Canadian Journal of Experimental Psychology/
+Revue canadienne de psychologie experimentale, 69(2), 165.
+Gleitman, L., & Papafragou, A. (2005). Language and thought. Cambridge University Press.
+Gleitman, L., & Papafragou, A. (2012). New perspectives on language and thought.
+psycnet.apa.org.
+Hamm, J. P., Johnson, B. W., & Kirk, I. J. (2002). Comparison of the N300 and N400
+ERPs to picture stimuli in congruent and incongruent contexts. Clinical
+Neurophysiology, 113(8), 1339-1350.
+Khateb, A., Pegna, A. J., Landis, T., Mouthon, M. S., & Annoni, J. M. (2010). On the
+origin of the N400 effects: An ERP waveform and source localization analysis in
+three matching tasks. Brain Topography, 23, 311-320.
+Kutas, M., & Federmeier, K. D. (2009). N400. Scholarpedia, 4(10), 7790.
+Kutas, M., & Federmeier, K. D. (2011). Thirty years and counting: Finding meaning in the
+N400 component of the event related brain potential (ERP). Annual Review of
+Psychology, 62, 621.
+Kutas, M., & Hillyard, S. A. (1980). Reading senseless sentences: Brain potentials reflect
+semantic incongruity. Science, 207(4427), 203-205.
+Lupyan, G., & Bergen, B. (2016). How language programs the mind. Topics in Cognitive
+Science, 8(2), 408-424.
+Ma, Q., Hu, L., Xiao, C., Bian, J., Jin, J., & Wang, Q. (2016). Neural correlates of
+multimodal metaphor comprehension: Evidence from event-related potentials and
+time-frequency decompositions. International Journal of Psychophysiology, 109,
+81-91.
+Mahon, B. Z. (2015). Response to Glenberg: Conceptual content does not constrain the
+representational format of concepts.
+Peleg, O., & Eviatar, Z. (2012). Understanding written words: Phonological, lexical and
+contextual effects in the cerebral hemispheres. Handbook of the Neuropsychology of
+Language, 59-76.
+Peleg, O., Edelist, L., Eviatar, Z., & Bergerbest, D. (2016). Lexical factors in conceptual
+processes: The relationship between semantic representations and their
+corresponding phonological and orthographic lexical forms. Memory & Cognition, 44
+(4), 519-537.
+
+Anderson, M. L. (2003). Embodied cognition: A field guide. Artificial Intelligence, 149(1),
+91-130.
+Athanasopoulos, P., Wiggett, A., Dering, B., Kuipers, J. R., & Thierry, G. (2009). The
+Whorfian mind: Electrophysiological evidence that language shapes perception.
+Communicative & Integrative Biology, 2(4), 332-334.
+Barsalou, L. W., Santos, A., Simmons, W. K., & Wilson, C. D. (2008). Language and
+simulation in conceptual processing. Symbols, Embodiment, and Meaning, 245-283.
+Barrett, S. E., & Rugg, M. D. (1990a). Event-related potentials and the semantic matching
+of pictures. Brain and Cognition, 14(2), 201-212.
+Barrett, S. E., & Rugg, M. D. (1990b). Event-related potentials and the phonological
+matching of picture names. Brain and Language, 38(3), 424-437.
+Bitan, T., Kaftory, A., Meiri-Leib, A., Eviatar, Z., & Peleg, O. (2017). Phonological
+ambiguity modulates resolution of semantic ambiguity during reading: An fMRI
+study of Hebrew. Neuropsychology, 31(7), 759.
+Boroditsky, L., Schmidt, L. A., & Phillips, W. (2003). Sex, syntax, and semantics. Language
+in Mind: Advances in the Study of Language and thought, 22, 61-79.
+Cherng, F. Y., Lin, W. C., King, J. T., & Lee, Y. C. (2016). An EEG-based approach for
+evaluating graphic icons from the perspective of semantic distance. In In Proceedings
+of the 2016 CHI conference on human factors in computing systems (pp. 4378-4389).
+Draschkow, D., Heikel, E., Vo, M. L. H., Fiebach, C. J., & Sassenhagen, J. (2018). No
+evidence from MVPA for different processes underlying the N300 and N400
+incongruity effects in object-scene processing. Neuropsychologia, 120, 9-17.
+Dudschig, C., Kaup, B., Leuthold, H., & Mackenzie, I. G. (2021). Conceptual
+representation of real-world surface material: Early integration with linguistic-labels
+indicated in the N400-component. Psychophysiology, 58(12), e13916.
+Federmeier, K. D., & Kutas, M. (2001). Meaning and modality: Influences of context,
+semantic memory organization, and perceptual predictability on picture processing.
+Journal of Experimental Psychology: Learning, Memory, and Cognition, 27(1), 202.
+Federmeier, K. D., & Kutas, M. (2002). Picture the difference: Electrophysiological
+investigations of picture processing in the two cerebral hemispheres.
+Neuropsychologia, 40(7), 730-747.
+Ganis, G., Kutas, M., & Sereno, M. I. (1996). The search for "common sense": An
+electrophysiological study of the comprehension of words and pictures in reading.
+Journal of Cognitive Neuroscience, 8(2), 89-106.
+
+13
+
+Z. Eviatar et al.
+
+Brain and Language 243 (2023) 105302
+
+Pulvermuller, F. (1999). Words in the brain's language. Behavioral and Brain Sciences, 22
+(2), 253-279.
+Pulvermuller, F. (2005). Brain mechanisms linking language and action. Nature Reviews
+Neuroscience, 6(7), 576-582.
+Szucs, D., Soltesz, F., Czigler, I., & Csepe, V. (2007). Electroencephalography effects to
+semantic and non-semantic mismatch in properties of visually presented singlecharacters: The N2b and the N400. Neuroscience Letters, 412(1), 18-23.
+
+Willems, R. M., Ozyurek, A., & Hagoort, P. (2008). Seeing and hearing meaning: ERP and
+fMRI evidence of word versus picture integration into a sentence context. Journal of
+Cognitive Neuroscience, 20(7), 1235-1249.
+Whorf, B. L. (1956). Language, thought, and reality: selected writings of....(Edited by
+John B. Carroll.).
+
+14
+
+

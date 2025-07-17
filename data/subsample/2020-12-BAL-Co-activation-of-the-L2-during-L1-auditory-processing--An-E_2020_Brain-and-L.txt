@@ -1,0 +1,1805 @@
+Brain and Language 203 (2020) 104739
+
+Contents lists available at ScienceDirect
+
+Brain and Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Co-activation of the L2 during L1 auditory processing: An ERP cross-modal
+priming study
+
+T
+
+Susan C. Bobba,c, , Katie Von Holzenb,c, Julien Mayord, Nivedita Manic,h, Manuel Carreirase,f,g
+
+
+a
+
+Department of Psychology, Gordon College, 255 Grapevine Road, Wenham, MA, 01984, USA
+Lehrstuhl Linguistik des Deutschen, Faculty for Cultural Studies, Technical University of Dortmund, Emil-Figge-Str. 50, 44227 Dortmund, Germany
+c
+Psychology of Language Research Group, Georg-Elias-Muller-Institut for Psychology, University of Gottingen, Golerstrae 14, 37073 Gottingen, Germany
+d
+Department of Psychology, University of Oslo, Forskningsveien 3A, 0373 Oslo, Norway
+e
+Basque Center on Cognition, Brain and Language, Mikeletegi Pasealekua, 69, 20009 Donostia, Gipuzkoa, Spain
+f
+Ikerbasque. Basque Foundation for Science, Maria Diaz de Haro 3, 6 solairua, 48013 Bilbao, Bizkaia, Spain
+g
+Departamento de Lengua Vasca y Comunicacion, UPV/EHU, University of the Basque Country, Barrio Sarriena s/n, 48940 Leioa, Bizkaia, Spain
+h
+Leibniz Science Campus "Primate Cognition", Kellnerweg 4, 37077 Gottingen, Germany
+b
+
+ARTICLE INFO
+
+ABSTRACT
+
+Keywords:
+Language co-activation
+Priming
+Bilingualism
+Basque
+Spanish
+Event-related potentials
+
+Several studies have shown that unbalanced bilinguals activate both of their languages simultaneously during L2
+processing; however, evidence for L2 activation while participants are tested exclusively in their L1 has been
+more tenuous. Here, we investigate whether bilingual participants implicitly activate the label for a picture in
+their two languages, and whether labels activated in L2 can prime activation of cross-linguistically related L1
+lexical targets. We tested highly proficient early Spanish-Basque bilinguals on an ERP cross-modal priming task
+conducted only in their L1, Spanish. Participants activated prime picture labels in both Spanish and Basque.
+More importantly, participants activated Basque translations of Spanish auditory targets, even in a Spanish
+experimental environment with no reference to Basque. Results provide strong evidence for non-selective bilingual lexical access, showing co-activation extending to lexical levels beyond phonological overlap. Our results
+add to the growing body of evidence for the interconnective nature of bilingual language activation.
+
+1. Introduction
+A central question in the study of bilingualism has been whether
+there is co-activation of a bilingual's languages when hearing, reading,
+or speaking in one language alone. So, when a Spanish-Basque bilingual
+hears the Spanish word perro "dog," will the Basque word for dog,
+txakur, also be activated? Early accounts of bilingualism proposed the
+equivalent of a mental switch that allowed the bilingual to turn off the
+irrelevant language during speech processing or production (Penfield &
+Roberts, 1959). It is by now a recognized phenomenon, however, that
+bilinguals display concurrent activation of both languages, regardless of
+whether they are reading, speaking, or listening to one language alone
+(e.g., Colome, 2001; Costa, Miozzo, & Caramazza, 1999; Hermans,
+2000; Macizo, Bajo, & Martin, 2010; Martin, Macizo, & Bajo, 2010;
+Spivey & Marian, 1999).
+Based on these results, recent accounts of bilingualism argue that
+the cognitive architecture of the bilingual is fundamentally nonselective, but under certain circumstances operates selectively (Kroll,
+Bobb, & Wodniecka, 2006; Martin, Molnar, & Carreiras, 2016; Molnar,
+
+
+Ibanez-Molina, & Carreiras, 2015). The question now is no longer
+whether co-activation can occur, but under what (experimental and
+language) conditions it does or does not, and what levels of language
+processing are typically affected. In the current study, we present evidence from an ERP experiment with highly proficient Spanish-Basque
+bilinguals for language co-activation at the phono-lexical level. We
+show that Basque language representations are co-activated at both the
+phonological and the lexical level in a Spanish-only experimental environment, especially with regard to Basque translations and rhyme
+words.
+Recent calls in the literature (e.g., Wu & Thierry, 2010a) have emphasized that new work must pay particular attention to the context of
+language processing, and especially situations that may inadvertently
+engage both languages due to experimental requirements or broader
+social context. In particular, one criticism of studies showing coactivation to the lexical level is that the methodological paradigm frequently requires the use of both languages (Costa et al., 1999; Guo &
+Peng, 2006; Hermans, Bongaerts, de Bot, & Schreuder, 1998). Recent
+studies have addressed this concern through experimental designs using
+
+Corresponding author at: Department of Psychology, Gordon College, 255 Grapevine Road, Wenham, MA 01984, USA.
+E-mail address: susan.bobb@gordon.edu (S.C. Bobb).
+
+https://doi.org/10.1016/j.bandl.2019.104739
+Received 23 March 2019; Received in revised form 16 December 2019; Accepted 20 December 2019
+Available online 21 January 2020
+0093-934X/ (c) 2020 Elsevier Inc. All rights reserved.
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+
+Fig. 1. Stimuli Examples. This figure illustrates examples for each of the five experimental conditions: "Identity," "L1prime-L2translation," "L2prime-L1target,"
+"L2prime-L2translation," and "Unrelated"
+
+one language alone (e.g., Thierry & Wu, 2007; Wu & Thierry, 2010b),
+but even these studies are open to criticism, as they have often tested
+participants in their non-dominant language, which is thought to be
+mediated through the dominant language until high levels of proficiency have been reached (Kroll & Stewart, 1994). In other words, it is
+less surprising that the L1 would be active during L2 language use if the
+L2 requires the L1 for processing in the first place. We argue that a
+stronger case for language coactivation at the lexical level would be to
+show coactivation of the L2 in highly proficient bilinguals in a situation
+that only requires the L1 to be used.
+Indeed, several past studies suggest that the non-dominant language
+may be active in an L1-only context (e.g., Marian & Spivey, 2003a;
+Spivey & Marian, 1999; Von Holzen & Mani, 2014), but crucially only
+
+under conditions that induce bottom-up activation of the L2 (but see
+Villameriel, Dias, Costello, & Carreiras, 2016, for evidence from hearing
+bimodal bilinguals). Specifically, these previous experimental paradigms still required overt auditory input from the L1 to overlap with the
+non-target L2 phonology. In the visual-world paradigm studies by
+Marian and colleagues, participants saw four objects and heard instructions to pick up one of the objects. The spoken L1 name of the
+target object (e.g., marka, Russian for "stamp") overlapped in phonology with the L2 label of one of the four objects presented in the
+display (e.g., English "marker"). In Von Holzen and Mani (2014), participants saw a picture prime, followed by an auditorily presented
+target word in the L1. In the critical condition, the auditory L1 label
+(e.g., Kleid, German for "dress") rhymed with the L2 label of the picture
+2
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+
+prime (e.g., English "slide"). In both of these paradigms that showed
+activation of the non-dominant L2, participants physically heard an L1
+target word that overlapped in phonology with the L2 picture label. It is
+possible that activation of the non-dominant L2 label for the picture
+prime is triggered by the overt presentation of the phonologically related L1 auditory target. These findings, therefore, limit the scope of
+language co-activation to bottom-up acoustic/phonetic input from the
+L1 target word and cannot speak to the automaticity of L2 activation in
+the absence of overt L1 phonological overlap, as is the case in most realworld situations of L1 language processing (see Von Holzen & Mani,
+2012, for similar investigations in children). Connectionist models such
+as the Bilingual Language Interaction Network for Comprehension of
+Speech (BLINCS; Shook & Marian, 2013) allow for extensive crosslanguage interactions within the bilingual lexicon, and yet experimental evidence to-date has not been able to substantiate the extent of
+these possibilities (see also the Bilingual Interactive Activation Model of
+Lexical Access, BIMOLA, Lewy & Grosjean, 2008, which allows for both
+bottom-up and top-down spreading activation).
+To address this question, we expand the scope of inquiry to further
+investigate lexical-level L2 co-activation in the absence of overt phonological overlap between L1 and L2. In the present experiment, we use the
+intermodal priming paradigm (Desroches, Newman, & Joanisse, 2009;
+Von Holzen & Mani, 2014) to further test the limits of cross-language
+activation and cascaded activation in a balanced bilingual population.
+Similar to other recent EEG studies, we exploit a rhyming relationship
+between primes and targets to investigate language co-activation (cf.,
+Wu & Thierry, 2011; Desroches et al., 2009; Von Holzen & Mani, 2014).
+However, to examine whether both languages are active at the lexical
+level, we ask whether there is bilingual language co-activation in a
+condition where there is no overt phonological overlap between prime
+and target.
+
+phonological overlap with the auditory presented Spanish target. If the
+Basque prime image label influences the recognition of the target, we
+anticipated a reduced mean N400 amplitude for this cross-language
+prime-target rhyme pair relative to the unrelated prime-target pair.
+2. Materials and methods
+2.1. Participants
+28 Spanish-Basque bilingual participants from the Basque region of
+Spain (7 male, 21 female) participated in the study (M = 23.55 years,
+SD = 5.04, Range = 19-36). Four additional participants were tested,
+but were removed from analysis because they had too much noise in the
+signal. All participants were right-handed and had no history of hearing
+loss or neurological impairments. We were careful to recruit participants without referring to their bilingual status (e.g., Marian & Spivey,
+2003b). Thus, participants were recruited through a central database
+without mentioning their bilingual status or knowledge of Basque. To
+be included in the database, participants had previously filled out a
+short language history questionnaire adapted from other questionnaires
+commonly used in the literature (e.g., Li, Sepanski, & Zhao, 2006;
+Marian, Blumenfeld, & Kaushanskaya, 2007). Bilinguals were selected
+by including their language profile in the search criteria. When potential participants were contacted to participate in the study, they
+were only contacted in their L1 (Spanish), and no mention was made of
+their L2 (Basque) or that the study was a bilingual language study. Prior
+to the study, participants completed a picture naming task (BEST; De
+Bruin, Carreiras, & Dunabeitia, 2017) and were interviewed by a native
+Speaker of Spanish and Basque. Table 1 summarizes their language
+background. Although highly proficient in both languages, participants
+were clearly dominant in Spanish across the language background
+measures. While they learned both languages before the age of three,
+they learned their L1 Spanish earlier than their L2 Basque and also had
+more daily exposure to Spanish than to Basque. They rated their L1 as
+more proficient than their L2. They were also more accurate at naming
+pictures in Spanish and were rated more proficient in Spanish interviews.
+
+1.1. Predictions
+In the present study, participants were presented with unlabeled
+prime pictures, followed by an auditory target in the L1 Spanish while
+they completed an unrelated picture matching task. We recorded participants' ERP response time-locked to the onset of the L1 Spanish auditory word targets. To investigate the level of language co-activation,
+we manipulated the phonological overlap between the picture prime
+label and the auditory target. Specifically, we created rhyming relationships between the prime label in Spanish (L1) or Basque (L2) and
+the auditory Spanish target or its Basque translation. The relationship
+between primes and targets was manipulated in five critical conditions
+(see Fig. 1 for an illustration). To determine whether participants were
+sensitive to the phonological overlap between prime label and auditory
+target, we focused on the N400 component. The N400 is a negative
+deflection in the ERP peaking 400 ms after the onset of a stimulus
+sensitive to context or reduced processing of the stimulus. We anticipated that if participants were sensitive to our manipulations of the
+relationship between primes and targets, the N400 component would
+be reduced, indicating facilitated auditory recognition. Indeed, previous monolingual and bilingual studies have shown a reduced N400
+for rhyme words in reading, picture naming, and cross-modal pictureauditory word paradigms (Barrett & Rugg, 1990; Desroches et al., 2009;
+Grossi, Coch, Coffey-Corina, Holcomb, & Neville, 2001; Praamstra &
+Stegeman, 1993; Von Holzen & Mani, 2014).
+Of particular interest to us was the condition in which the Basque
+label for the silently presented prime image rhymed with the Basque
+translation of the Spanish auditory target. In other words, after seeing a
+picture prime of a needle (Basque orratz), when balanced bilinguals
+hear the Spanish auditory target lapiz ("pencil"), do they co-activate its
+L2 Basque translation arkatz? We believed this condition would provide
+the strongest test of the hypothesis that the L2 Basque was co-activated
+during L1 Spanish processing as it would require co-activation of the L2
+label for the silently presented picture prime in the absence of any overt
+
+2.2. Stimuli and procedure
+Stimuli consisted of 150 visual primes and 150 auditory targets.
+Visual primes were familiar, imageable, nouns. Auditory targets were
+always Spanish. A female native speaker of Spanish recorded all targets
+(M length = 698 ms, Median length = 683 ms, Range = 436-1172).
+Digital files were recorded at a sampling rate of 44.1 kHz and edited
+post recording using Praat (Boersma, 2002) to remove clicks and silent
+periods at onset and GoldWave digital audio editing software (GoldWave, Inc.) to reduce hiss and match volume. The prime-target pairs
+were divided into five groups, 30 items in each group, to form five
+conditions, described below. Note that the picture prime was always
+Table 1
+Participant Characteristics for their L1 (Spanish) and L2 (Basque).
+Measure
+
+L1 (Spanish)
+
+L2 (Basque)
+
+Comparison
+
+AoA (years)
+Composite Self-rating (10 pt scale):
+Speaking
+Understanding
+Writing
+Reading
+% Exposure
+Picture Naming (% Correct)
+Interview Score (out of 5 points)
+
+0.18 (0.48)
+9.87 (0.36)
+9.89 (0.31)
+9.89 (0.31)
+9.81 (0.48)
+9.89 (0.42)
+57.41 (10.95)
+99.58 (1.00)
+5.00 (0.00)
+
+1.67 (1.92)
+8.92 (1.03)
+8.41 (1.23)
+9.30 (1.09)
+8.70 (1.24)
+9.26 (1.08)
+29.26 (9.58)
+86.15 (9.50)
+4.48 (0.79)
+
+***
+***
+***
+**
+***
+**
+***
+***
+**
+
+Note. SDs are in parentheses. Comparisons denote paired t-tests for numerical
+variables and Wilcoxon tests for ordinal variables with *p < .05, **p < .01,
+and ***p < .001.
+3
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+
+presented as a silent picture prime and was never overtly labeled. To
+illustrate relationships between picture primes and auditory targets, in
+the examples that follow, SPANISH/BASQUE picture prime labels are
+respectively presented in capital letters; Spanish auditory targets/
+Basque translations are presented in lower case; rhyme relations, when
+present, are underlined: (1) Identity: the Spanish label of the picture
+prime was identical to the auditory target, (AJO/BARATXURI-ajo/
+baratxuri) (2) L1prime-L2translation: the L1 Spanish label of the picture
+prime rhymed with the L2 Basque translation of the auditory target,
+(MANO/ESKU-aguila/arrano) (3) L2prime-L1target: the L2 Basque
+label of the picture prime rhymed with the L1 Spanish auditory target,
+(COCHE/BEREBIL-barril/upel) (4) L2prime-L2translation: the L2
+Basque label of the picture prime rhymed with the L2 Basque translation of the auditory target, (AGUJA/ORRATZ-lapiz/arkatz) or (5) Unrelated: there was no relationship between the prime label in either
+language and the auditory target (ALCACHOFA/ORBUTU-horno/labe).
+Fig. 1 contains example stimuli from each condition. To control for
+lexical properties of the stimuli, we compared log frequency, number of
+letters, and number of syllables across conditions, languages, and presentation type (prime vs. target) and found no significant interactions
+that could have potentially influenced our results (presentation
+type * condition, presentation type * language, condition * language,
+presentation type * condition * language, all Fs < 2, all ps > 0.3).
+Separate univariate ANOVAs within each prime and target type
+(Spanish labels of primes, Basque labels of primes, Spanish auditory
+target, Basque translation of auditory target) showed no significant
+differences in lexical properties across conditions (all Fs < 2, all
+ps > 0.2). The auditory length of Spanish target words also did not
+differ across conditions (F < 2, p > .2). We recorded ERPs to the
+onset of Spanish auditory targets. Each participant was presented with
+all 150 nouns.
+
+Fig. 2. Sample trial. This figure illustrates an experimental trial from trial onset
+at 0 ms to trial offset. EEG recording was time-locked to the onset of the auditory target.
+
+convention. The EEG data were digitally re-referenced to an averaged
+mastoid activity. Impedances were kept < 5 k, and EEG activity was
+filtered on-line with a band pass between 0.01 Hz and 1000 Hz and refiltered off-line with a 20 Hz low-pass, 0.1 high-pass digital filter. Eyeblink and movement artifacts were automatically rejected using a
+100 V amplitude cut-off across mastoid and eye electrodes. Epochs
+ranged from -200 to 1000 ms after the onset of the auditory target
+presentation. Baseline correction was performed in reference to prestimulus activity (-200 to 0 ms). Data were examined visually and
+analyzed in 10 ms time windows from 0 to 1000 ms to establish the
+locus of significant differences between conditions. Visual inspection of
+the components revealed a general pattern of an initial negative peak
+around 100 ms, followed by a positivity maximally peaking just before
+200 ms, consistent with an N1-P2 complex. These components were
+followed by a sustained negativity, although consistent with other
+studies using a cross-modal paradigm, there was no clear delineation of
+the components in the N400 complex (e.g., Desroches et al., 2009; Von
+Holzen & Mani, 2014). Based on these observations and the known
+onset of the N400 (Kutas & Hillyard, 1984), we focused on two time
+windows, an earlier time window between 250 ms and 400 ms and a
+later time window between 400 ms and 700 ms.
+First, for purposes of data reduction, a selection of electrode locations was entered into data analysis, 18 electrodes divided into two
+hemispheres and four regions: left frontal (F7, F3, FP1), left frontocentral (FC5, C3, FC1), left centro-parietal (T7, CP5, CP1), left parietaloccipital (P7, P3, O1), right frontal (FP2, F4, F8), right fronto-central
+(FC2, C4, FC6), right centro-parietal (CP2, CP6, T8), and right parietaloccipital (O2, P4, P8). A repeated measures ANOVA was conducted on
+mean amplitudes with the factors hemisphere (2; left, right), region (4;
+frontal, fronto-central, centro-parietal, parietal-occipital), and condition (5; Identity, L1prime-L2translation, L2prime-L1target, L2primeL2translation, Unrelated). See Fig. 3 for the electrode groupings. A
+second repeated measures ANOVA was conducted on mean amplitudes
+from the midline with the factors electrodes (Fz, Cz, Pz) by condition (5;
+Identity, L1prime-L2translation, L2prime-L1target, L2prime-L2translation, Unrelated). For both ANOVA analyses, only main effects of condition, and interactions with condition are reported and further investigated. Only significant t-test results for the four condition
+comparisons are reported (identity vs. unrelated/L2prime-L1target vs.
+unrelated/L1prime-L2translation vs. unrelated/L2prime-L2translation
+vs. unrelated) following Von Holzen and Mani (2014). GreenhouseGeisser corrected p-values are reported where appropriate. Because of
+the non-linguistic nature of the task, behavioral results are not reported
+(e.g., Von Holzen & Mani, 2014).
+
+2.3. Main experiment
+During testing, we were careful not to focus participants' attention
+on the linguistic nature of the experiment, and more specifically the
+phonological overlap between words (see Von Holzen & Mani, 2014 for
+a similar approach). Studies such as Wu and Thierry (2011) explicitly
+asked participants to make rhyme judgments on word-pairs in one
+language. In the present study, participants performed a non-linguistic
+picture-matching task in order to mask the phonological relationship
+between prime and target. By not biasing participant attention toward
+the linguistic relationships between stimuli, we provide, yet again, a
+more stringent measure of language co-activation.
+Participants were seated in a quiet, dimly lit experimental room
+facing a computer screen. All instructions, visual and verbal, were given
+in Spanish. Stimuli were presented using Presentation Software
+(Neurobehavioral Systems). A fixation sign began each trial, displayed
+in the center of the screen for 1000 ms. Participants then saw the prime
+image in the center of the screen for 500 ms. 50 ms after offset of the
+prime image, participants heard the auditory target word. 1500 ms
+after onset of the target word, participants saw a second image that was
+either identical to or different from the prime image. The image was
+displayed for 500 ms, followed by a blank screen for 1000 ms, during
+which participants indicated via button press on a game controller
+whether the second image was the same or different from the first
+image. Fig. 2 shows a sample trial.
+2.4. Electrophysiological recording and data analysis
+Electrophysiological data were recorded using the BrainAmp DC
+(Brain Products GmbH) system with Brain Recorder software. Data
+were recorded with reference to the left mastoid at a sampling rate of
+500 Hz from 32 Ag/AgCl electrodes placed according to the 10-20
+
+4
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+
+time windows. In the 250-400 ms time window, a repeated measures
+ANOVA with the factors hemisphere, region, and condition revealed
+significant interactions between condition and hemisphere, F
+(4,108) = 8.97, p < .001, np2 = 0.25, condition and region, F
+(12,324) = 3.35, p = .009, np2 = 0.11, and condition, hemisphere,
+and region, F(12,324) = 2.97, p = .014, np2 = 0.10. Following up on
+this 3-way interaction, for the left hemisphere, there was a significant
+condition by region interaction, F(12,324) = 2.92, p = .016,
+np2 = 0.10. For the right hemisphere, there was a significant condition
+by region interaction in the right hemisphere, F(12,324) = 3.69,
+p = .006, np2 = 0.12. A repeated measures ANOVA over the midline
+electrodes revealed no significant effect of condition, F(4,108) = 1.37,
+p = .249, np2 = 0.05, or interaction between electrodes and condition,
+F(8,216) = 2.13, p = .078, np2 = 0.07, precluding further analyses on
+the midline in the early time window.
+In the 400-700 ms time window, a repeated measures ANOVA with
+the factors hemisphere, region, and condition revealed a significant
+main effect of condition, F(4,108) = 3.01, p = .021, np2 = 0.10. The
+interactions condition by region, F(12,324) = 4.83, p = .001,
+np2 = 0.15, and condition by region by hemisphere, F(12,324) = 3.11,
+p = .009, np2 = 0.10, were also significant. Following up on this 3-way
+interaction, for the left hemisphere, there was a main effect for condition (F(4,108) = 2.52, p = .045, np2 = 0.09) and a significant condition by region interaction, F(12,324) = 6.07, p < .001, np2 = 0.18).
+For the right hemisphere, there was a main effect for condition (F
+(4,108) = 3.36, p = .012, np2 = 0.11) and a significant condition by
+region interaction in the right hemisphere, F(12,324) = 3.41, p = .007,
+np2 = 0.11. A repeated measures ANOVA over the midline electrodes
+revealed a significant effect of condition, F(4,108) = 5.10, p = .002,
+np2 = 0.16, and a significant interaction between electrodes and condition, F(8,216) = 4.49, p = .002, np2 = 0.14.
+
+Fig. 3. Electrode groupings used for the analysis. 18 electrodes were divided
+into two hemispheres and four regions: left frontal (F7, F3, FP1), left frontocentral (FC5, C3, FC1), left centro-parietal (T7, CP5, CP1), left parietal-occipital
+(P7, P3, O1), right frontal (FP2, F4, F8), right fronto-central (FC2, C4, FC6),
+right centro-parietal (CP2, CP6, T8), and right parietal-occipital (O2, P4, P8).
+We also analyzed Fz, Cz, and Pz.
+
+3. Results
+
+3.2. Identity/unrelated
+
+3.1. Omnibus ANOVA
+
+Fig. 5 plots the ERP waveforms for the Identity and Unrelated
+conditions aggregated across Hemisphere and Region. In the early time
+window, from 250 to 400 ms, the amplitude in the Identity condition
+was significantly more negative than the Unrelated condition in the left
+
+Fig. 4 plots the mean distribution of differences for the condition
+comparisons for both the early (250-400 ms) and late (400-700 ms)
+
+Fig. 4. Condition Comparisons. The figure illustrates the mean distribution of the differences for the condition comparisons for both the early (250-400 ms; left
+panel) and late (400-700 ms; right panel) time windows.
+5
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+
+Fig. 5. Event-related potential (ERP) waveforms for the Identity and Unrelated conditions. Graphs present averaged data from -200 to 1000 ms from the onset of the
+L1 target word. Significant effects revealed by planned comparisons are highlighted in light grey for the early time window (250-400 ms) and dark gray for the late
+time window (400-700 ms).
+
+fronto-central region, t(27) = -3.38, p = .002, d = -0.90, and left
+centro-parietal region, t(27) = -2.39, p = .024, d = -0.64. In the
+later time window, from 400 to 700 ms, the direction of effects switched to a significantly more negative amplitude for the Unrelated
+condition compared to the Identity condition in the left centro-parietal
+region, t(27) = 2.47, p = .020, d = 0.66, left parietal-occipital, t
+(27) = 5.02, p < .001, d = 1.34, right centro-parietal, t(27) = 2.17,
+p = .039, d = 0.58, and right parietal-occipital regions, t(27) = 4.41,
+p < .001, d = 1.18. Over midline electrodes, the Identity condition
+was significantly more positive than the Unrelated condition, t
+(27) = 2.64, p = .014, d = 0.71. Comparisons on individual midline
+electrodes confirmed this pattern on both Cz, t(27) = 2.56, p = .016,
+d = 0.68, and Pz, t(27) = 3.80, p = .001, d = 1.02.
+
+parietal-occipital region, t(27) = 2.09, p = .046, d = 0.56. Over
+midline electrodes, there were no significant differences between the
+L1prime-L2 translation and unrelated conditions.
+3.4. L2prime-L1target/unrelated
+Fig. 7 plots the ERP waveforms for the L2prime-L1target and Unrelated conditions aggregated across Hemisphere and Region. In the
+early time window (250-400 ms) amplitude in the L2prime-L1target
+condition was significantly more negative than the unrelated condition
+in the left fronto-central, t(27) = -3.83, p = .001, d = -1.02, right
+fronto-central, t(27) = -3.64, p = .001, d = -0.97, left centro-parietal, t(27) = -2.40, p = .023, d = -0.64, and right centro-parietal
+regions, t(27) = -2.49, p = .019, d = -0.66. This negativity continued into the later time window (400-700 ms) in the left frontocentral t(27) = -2.68, p = .012, d = -0.72, and right fronto-central
+regions, t(27) = -2.50, p = .019, d = -0.67. Over midline electrodes, although the overall difference between L2prime-L1target and
+Unrelated conditions was not significant, t(27) = -2.03, p = .052,
+d = -0.54, the L2prime-L1target condition was significantly more
+negative than the Unrelated condition on both Fz, t(27) = -2.43,
+p = .022, d = -0.65, and Cz, t(27) = -2.19, p = .037, d = -0.59.
+
+3.3. L1prime-L2translation/unrelated
+Fig. 6 plots the ERP waveforms for the L1prime-L2translation and
+Unrelated conditions aggregated across Hemisphere and Region. An
+analysis of the earlier time window, from 250 to 400 ms, revealed no
+significant differences between the L1prime-L2translation and unrelated conditions. In the later time window, from 400 to 700 ms,
+however, the amplitude in the L1prime-L2translation condition was
+significantly less negative than the unrelated condition in the right
+6
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+
+Fig. 6. Event-related potential (ERP) waveforms for the L1prime-L2translation and Unrelated conditions. Graphs present averaged data from -200 to 1000 ms from
+the onset of the L1 target word. Significant effects revealed by planned comparisons are highlighted in dark gray for the late time window (400-700 ms).
+
+3.5. L2prime-L2translation/Unrelated
+
+and auditory target or target translation. Consistent with the idea that
+the target is processed easier when there is a complete match between
+the label of the prime image and the heard target word, we found that
+the amplitude in the Identity condition was significantly less negative
+than the Unrelated condition during the 400-700 ms time window.
+Furthermore, we found a similar difference between waveforms in the
+L1prime-L2translation condition and the Unrelated condition limited to
+the right parietal-occipital region, suggesting that the Basque translation of the Spanish auditory target was also activated during processing
+of the Spanish auditory target.
+In both the L2prime-L1target and L2prime-L2translation conditions,
+we found significant differences in amplitude compared to the unrelated condition, but in the opposite direction and with a different
+topographical distribution: Mean amplitudes in both the 250-400 and
+400-700 ms time windows increased in these conditions compared to
+the Unrelated condition (for other reversal effects in a similar time
+window and distribution, see Chauncey, Holcomb, & Grainger, 2009;
+De Cat, Klepousniotou, & Baayen, 2015; Midgley, Holcomb, & Grainger,
+2009). We interpret these results as indicative of the fact that the
+Basque label of the prime picture was co-activated along with the
+Spanish label. The results for the L2prime-L2translation condition, the
+condition of particular interest in our study, extends the findings from
+the L2prime-L1target condition and suggests that the Basque translation
+of the Spanish auditory target was also activated.
+
+Fig. 8 plots the ERP waveforms for the L2prime-L2translation and
+Unrelated conditions aggregated across Hemisphere and Region. In the
+early time window (250-400 ms), the amplitude in the L2primeL2translation condition was significantly more negative than the unrelated condition in both the right fronto-central, t(27) = -2.59,
+p = .015, d = -0.69, and right centro-parietal regions, t
+(27) = -2.37, p = .025, d = -0.63. In the later time window
+(400-700 ms), the amplitude in the L2prime-L2translation condition
+significantly increased in negativity compared to the Unrelated condition in the right frontal, t(27) = -2.27, p = .031, d = -0.61, right
+fronto-central, t(27) = -2.36, p = .026, d = -0.63, and right centroparietal regions, t(27) = -2.25, p = .033, d = -0.60. Over midline
+electrodes, there were no significant differences between the L2primeL2 translation and unrelated conditions.
+4. Discussion
+In the present study, we considered the extent to which the nondominant language is active while processing the dominant language
+alone. Using an intermodal priming paradigm, participants saw picture
+primes followed by an auditory target in their L1 Spanish. We manipulated the extent of phonological overlap between the prime labels
+7
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+
+Fig. 7. Event-related potential (ERP) waveforms for the L2prime-L1target and Unrelated conditions. Graphs present averaged data from -200 to 1000 ms from the
+onset of the L1 target word. Significant effects revealed by planned comparisons are highlighted in light grey for the early time window (250-400 ms) and dark gray
+for the late time window (400-700 ms).
+
+Our results add to the growing body of evidence for the interconnective nature of bilingual language activation. Significantly, the
+present results provide - for the first time - ERP evidence of co-activation of the L2 translation of the L1 auditory target word in the absence of overt phonological overlap between L1 and L2 targets. This is
+an effect that has not been previously found when participants have
+been tested in their L1 environment. We therefore provide the strongest
+evidence yet for the non-selectivity of bilingual lexical access.
+Our conclusion is driven by the results found in the L2primeL1target and L2prime-L2translation conditions in the N400 time
+window. In particular, the L2prime-L1target results provide evidence of
+bilinguals activating both Spanish and Basque labels for the silent
+picture prime, especially when the subsequently presented Spanish
+auditory target overlaps phonologically with the Basque label for the
+picture prime. This finding supports other research suggesting that bilinguals activate the non-dominant L2 in an L1-only environment (e.g.,
+Von Holzen & Mani, 2014). A potential caveat to this interpretation is
+the possibility that activation of the Basque label for the picture prime
+could have been primed by the subsequent presentation of the Spanish
+auditory target (which rhymed with the Basque label). In other words,
+would the Basque label of the picture prime have been activated in the
+absence of such an overt phonological cue from the auditory target?
+Given this possibility, the L2prime-L2translation results extend the
+
+findings of the L2prime-L1target condition in a critical dimension.
+Here, not only was there no overt presentation of the Basque label for
+the picture prime (as in all other conditions) but there was also no overt
+phonological overlap between the subsequently presented Spanish auditory target and the Basque label for the silently presented picture
+prime. The selective modulation of ERP waveforms in this condition
+relative to the unrelated condition, therefore, presents strong evidence
+in support of the claim that bilinguals activated both the Basque label
+for the silent picture prime and the Basque translation of the Spanish
+auditory target, despite the Spanish dominant environment in which
+testing took place and the absence of any cues as to the underlying
+Basque overlap in the items presented. This finding speaks, therefore, to
+the automaticity of co-activation of the other language during processing in one language.
+Previous studies arguing for similar conclusions cannot rule out that
+findings of co-activation were phonologically driven (i.e., required
+bottom-up acoustic-phonetic input). The results of Ju and Luce (2004)
+found effects of the L2 on L1 only when they manipulated L2 pronunciation to be more L1-like, in essence increasing phonological
+overlap between the L2 and the L1, which would argue for phonological
+effects of co-activation. Similarly, the results of Marian and Spivey
+(2003; see also Spivey & Marian, 1999) and Von Holzen and Mani
+showed activation of the L2 only when there was overt phonological
+8
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+
+Fig. 8. Event-related potential (ERP) waveforms for the L2prime-L2translation and Unrelated conditions. Graphs present averaged data from -200 to 1000 ms from
+the onset of the L1 target word. Significant effects revealed by planned comparisons are highlighted in light grey for the early time window (250-400 ms) and dark
+gray for the late time window (400-700 ms).
+
+overlap between the L1 and the L2. In support of this possibility, we
+note that Von Holzen and Mani (2014) found facilitatory priming effects, i.e., increased positivity to related primes relative to unrelated
+primes, which are typically indicative of phonological effects, but not
+lexical effects, at least in the behavioral literature (cf. Marslen-Wilson &
+Zwitserlood, 1989). In contrast, by showing effects of language co-activation in the absence of overt phonological overlap, the present results strongly suggest that effects of co-activation extend to lexical levels and are not due to phonological overlap alone.
+The idea that activation cascades from the phonological input to the
+lexical item would be consistent with connectionist models such as the
+Bilingual Language Interaction Network for Comprehension of Speech
+(BLINCS; Shook & Marian, 2013). Indeed, our results provide the hereto
+missing empirical support for the extensive interconnected nature of the
+bilingual architecture as proposed by BLINCS. One of the few models to
+specifically address auditory speech comprehension and bilingualism,
+BLINCS comprises four interconnected self-organizing maps representing phonological, phono-lexical, ortho-lexical, and semantic
+processing levels. The goal of BLINCS is to trace activation within the
+lexicon over time. What makes this model so well suited to explaining
+co-activation in the present study is that it does not require incremental
+phonological activation focusing on word onset, but can also accommodate cross-language rhyme activation on the auditory target as in
+
+our experiment (for monolingual contexts, see TRACE, McClelland &
+Elman, 1986). The model also allows for the influence of visual stimuli
+on auditory processing. This was incorporated to account for the Visual
+World Paradigm, but can also accommodate cross-modal priming. In
+essence, the model "increase[s] the resting activation of semantic representations for items that ... are currently visible" (Shook & Marian,
+2013, p. 308). Their simulations show co-activation not just for phonologically overlapping words, but also for semantically related words:
+The word road activated phonologically related ropa "clothes" in
+Spanish, as well as the semantically related car in English. The results of
+Shook and Marian (2013) argue for strong cross-language interactions
+within the bilingual lexicon (and see Shook, 2014, for further evidence
+of L2 language co-activation in an L1 setting using eye-tracking). In-line
+with these findings, our study demonstrates the strength of cascaded
+activation across languages (see also Chabal & Marian, 2015; Marian &
+Spivey, 2003a, 2003b) and supports the view of a broad influence of the
+L2 on the native language (e.g., Dussias, Perrotti, Brown, & Morales,
+2014; Dussias & Sagarra, 2007; Kroll, Bobb, & Hoshino, 2014).
+While our results provide striking evidence for language co-activation, they also demonstrate constraints to the extent of co-activation:
+We found only limited effects in the N400 window for the L1primeL2translation condition. Why do we find a broader distribution of effects across target translations in the L2prime-L2translation condition
+9
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+
+While the above explanation is tentative, this additional processing
+step may also be causing a delay or continuation of earlier effects. Our
+baseline comparison between the Identity and Unrelated condition also
+showed a greater negativity for the Identity condition in the earlier time
+window between 250 and 400 ms. Note that delays in the N400 for
+bilinguals have been observed for semantic processing (e.g., Ardal,
+Donald, Meuter, Muldrew, & Luce, 1990; Weber-Fox & Neville, 1996),
+indicative of slower semantic integration. In view of the fact that participants completed a picture-matching task, the nature of our task is
+arguably conceptually driven and may be vulnerable to these delays,
+particularly in conditions where there is increased cross-language activation. The effect we document here then, especially for the Basque
+prime label conditions, may not be a traditional N400 effect but may
+rather reflect differences in L1 and L2 co-activation. This interpretation
+would be consistent with findings that the scalp distribution of the effect varies across condition comparisons - found at frontal as well as
+posterior sites and sometimes in one, sometimes in both, hemispheres
+and not consistently along the mid-line. On the other hand, while the
+overall effect sizes in the present study are relatively small, this could
+be due to the experimental design. In contrast to the paradigm used by
+Thierry and Wu, the participants in our study were intentionally directed away from the linguistic nature of the experiment by using a
+picture judgement task. This may have reduced priming effects across
+all conditions, leading to smaller effects.
+In conclusion, our results provide strong evidence that bilinguals
+momentarily activate both languages while immersed in their L1. The
+results of previous research indicated that the dominant language is
+sufficiently automatic to obscure activation of the L2 during L1 processing. Here, using a more fine-grained measure of language processing, we show implicit access of the L2 translation, both at the prime
+and the target, and even when the L2 is the language not in use and in
+the absence of any overt phonological cues to L2 lexical activation. Our
+results indicate that parallel language activation is pervasive, including
+to the phono-lexical level, and future work will need to further clarify
+the scope and contexts under which it manifests.
+
+than in the L1prime-L2translation condition? We initially predicted that
+an N400 effect would be more likely for the L1prime-L2translation
+condition given that the experimental environment is Spanish, which
+may provide more support for the activation of Spanish. One possible
+explanation for the pattern of findings reported speaks to the strength of
+connections within and across languages. In particular, given the
+dominance of Spanish (L1), it is possible that the level of activation of
+the Basque translation of the Spanish target from the Spanish prime is
+reduced in the L1prime-L2translation condition. While there may be
+similarly reduced activation to the Basque translation of the Spanish
+target from the Spanish prime in the L2prime-L2translation condition,
+activation in this condition is further influenced by the overlap within
+one language (Basque) in this condition. In other words, the effect in
+the L1prime-L2translation condition relies on cross-language overlap,
+while this effect may be boosted by within-language overlap in the
+L2prime-L2translation condition.
+In instances where there is cross-language overlap, there may also
+be increased competition between lexical items across languages, which
+may also explain a reversal in the N400 effect that we find in the present study. The conditions most influenced by the L1 Spanish prime
+label, the Identity and the L1prime-L2translation conditions, show the
+anticipated reduction in the N400 effect compared to the Unrelated
+condition during the later time window, consistent with lexical priming
+paradigms (e.g., Kutas & Van Petten, 1988). However, for the two
+conditions most influenced by the L2 Basque prime label, L2primeL2translation and L2prime-L1target conditions, we found an increase in
+the N400 at both early and late time windows. Reversals have been
+documented elsewhere in the bilingual literature, including priming
+paradigms that require language translation. De Cat et al. (2015) found
+a P400 effect in a primed visual lexical decision task at right frontal
+sites for a group of German-English bilinguals. In another bilingual
+study, Chauncey et al. (2009) also report a reversed priming effect
+around 300 ms using masked priming and picture naming, which they
+attribute to an interaction of effects between masked priming and
+processing conflicts arising from translating the L2 prime into the L1
+(see also Midgley et al., 2009). In our own case, it is the conditions
+mediated by the Basque prime label (L2prime-L2translation and
+L2prime-L1target), which show this reversal. While one possible explanation for the reversal targets the lexical competition that is incurred
+in this case, due to the co-activation of the Spanish and Basque rhyming
+words, an alternative possibility may be that the reversal may have to
+do with how the auditory target activates the non-dominant language
+(Basque) of the prime in an L1-only context (Spanish). Thus, rather than
+the prime image automatically co-activating the labels in both languages, the possibility remains that the Basque label may only be coactivated in a second step, after the Spanish auditory target has been
+heard and co-activated its Basque translation and/or rhyme.
+
+Acknowledgments
+We thank Eri Takahashi, Clara Furio, Xabier Urizar, Oihana Vadillo,
+Rebecca Mattli, and Nicole Altvater-Mackensen. Funding: SCB, KV, and
+NM were supported by the German Excellence Initiative Award to
+Georg-August-Universitat Gottingen (Third funding line: Institutional
+Strategy). MC was supported by the Spanish Ministry of Economy and
+Competitiveness (MINECO) [RTI2018-093547-B-I00], the European
+Research Council [ERC-2011-ADG-295362], and the award "Centro de
+Excelencia Severo Ochoa SEV-2015-0490".
+
+Appendix A
+Condition
+
+Image
+
+Sp_label
+
+B_label
+
+Sp_auditory
+
+B_transl
+
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+
+Garlic
+Ring
+Beret
+House
+Waterfall
+Onion
+Brain
+Cross
+Knife
+Devil
+Star
+Fig
+Ham
+Brick
+Owl
+Moon
+
+Ajo
+Anillo
+Boina
+Casa
+Cascada
+Cebolla
+Cerebro
+Cruz
+Cuchillo
+Diablo
+Estrella
+Higo
+Jamon
+Ladrillo
+Lechuza
+Luna
+
+Baratxuri
+Eraztun
+Txapela
+Etxe
+Urjauzi
+Tipula
+Burmuin
+Gurutze
+Laban
+Deabru
+Izar
+Piku
+Urdai
+Adreilu
+Hontz
+Ilargi
+
+Ajo
+Anillo
+Boina
+Casa
+Cascada
+Cebolla
+Cerebro
+Cruz
+Cuchillo
+Diablo
+Estrella
+Higo
+Jamon
+Ladrillo
+Lechuza
+Luna
+
+Baratxuri
+Eraztun
+Txapela
+Etxe
+Urjauzi
+Tipula
+Burmuin
+Gurutze
+Laban
+Deabru
+Izar
+Piku
+Urdai
+Adreilu
+Hontz
+Ilargi
+
+10
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Identity
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+Unrelated
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L2prime_L1target
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+
+Mandarine (fruit)
+Bat
+Eye
+Bear
+Bread
+Comb
+Leg
+Radio
+Mouse
+Wheel
+Salmon
+Grasshopper
+Dryer
+Fence
+Artichoke
+Angel
+Spider
+Coffin
+Hazelnut
+Ostrich
+Bed
+Shell
+rattle/bell
+Gum
+Chest (of Jewelry)
+Fang/Tusk
+Rabbit
+Freezer
+Cot
+broom
+Scorpio
+Crane
+Ice cream
+Lavender
+Lion
+Slug
+Wolf
+Apple
+Medal
+Otter
+Toothpick
+Clock
+Chair
+Nail
+Pillow
+Anchor
+Rainbow
+Donkey
+Crab
+Toothbrush
+Beer
+Belt
+Car
+Rope
+Scarecrow
+Skirt
+Flute
+Chickpea
+Gull
+Church
+Corn
+Coin
+Navel
+Chicken
+Gate
+Lung
+Octopus
+Cheese
+Sleigh
+Cider
+Market
+Braid
+Udder
+Carrot
+Chess
+Wing
+Acorn
+Dungeon
+Cherry
+Carnation
+
+Mandarina
+Murcielago
+Ojo
+Oso
+Pan
+Peine
+Pierna
+Radio
+Raton
+Rueda
+Salmon
+Saltamontes
+Secador
+Valla
+Alcachofa
+Angel
+Arana
+Ataud
+Avellana
+Avestruz
+Cama
+Caparazon
+Cascabel
+Chicle
+Cofre
+Colmillo
+Conejo
+Congelador
+Cuna
+escoba
+Escorpion
+Grua
+Helado
+Labanda
+Leon
+Limaco
+Lobo
+manzana
+Medalla
+Nutria
+Palillo
+Reloj
+Sillon
+Una
+Almohada
+Ancla
+Arco Iris
+Burro
+Cangrejo
+Cepillo
+Cerveza
+Cinturon
+Coche
+Cuerda
+Espantapajaros
+Falda
+Flauta
+Garbanzo
+Gaviota
+Iglesia
+Maiz
+Moneda
+Ombligo
+Pollo
+Puerta
+Pulmon
+Pulpo
+Queso
+Trineo
+Sidra
+Mercado
+Trenza
+Ubre
+Zanahoria
+Ajedrez
+Ala
+Bellota
+Calabozo
+Cereza
+Clavel
+
+Madari
+Saguzar
+Begi
+Hartz
+Ogi
+Orrazi
+Hanka
+Irrati
+Sagu
+Gurpil
+Izokin
+Matxinsalto
+Lehorgailu
+Hesi
+Orburu
+Aingeru
+Armiarma
+Hilkutxa
+Hur
+Ostruka
+Ohe
+Oskol
+Kriskitin
+Txingoma
+Kutxa
+Letagin
+Untxi
+Izozkailu
+Sehaska
+erratza
+Lupu
+Garabi
+Izozki
+Ispiliku
+Lehoi
+Bare
+Otso
+sagar
+Domina
+Igaraba
+Zotz
+Erloju
+Besaulki
+Azazkal
+Buruko
+Aingura
+Ortzadar
+Asto
+Karramarro
+Eskuila
+Garagardo
+Gerriko
+Berebil
+Soka
+Txorimalo
+Gona
+Txirula
+Txitxirio
+Kaio
+Eliz
+Arto
+Txanpon
+Zilbor
+Oilasko
+Ate
+Birika
+Olagarro
+Gazta
+Lera
+Sagardo
+Azoka
+Txirikorda
+Errape
+Azenario
+Xake
+Hego
+Hur
+Ziega
+Gerezi
+Krabelin
+
+11
+
+Mandarina
+Murcielago
+Ojo
+Oso
+Pan
+Peine
+Pierna
+Radio
+Raton
+Rueda
+Salmon
+Saltamontes
+Secador
+Valla
+Horno
+Baldosa
+Auricular
+Cabra
+Castanuela
+Ascensor
+Guante
+Badajo
+Frio
+Rojo
+Rocio
+Fila
+Manana
+Sonrisa
+Lagrima
+Discurso
+Panuelo
+Bocadillo
+Ciruela
+Cursi
+Fresa
+Nido
+Nuez
+Pantalon
+Piso
+Calor
+Joya
+Sarten
+Pagina
+Borracho
+Eunuco
+Figura
+Paladar
+Pasto
+Tarro
+Grulla
+Pardo
+Borrico
+Barril
+Toca (Monja)
+Palo
+Mona
+Insula
+Delirio
+Rayo
+Feliz
+Cuarto
+Armazon
+Favor
+Vasco (Parlante)
+Petate
+Rica
+Barro
+Canasta
+Pera
+Bardo
+Loca
+Gorda
+Rape
+Obituario
+I.v.a.
+Grieta
+Tipo
+Dulce
+Cura
+Moraton
+
+Madari
+Saguzar
+Begi
+Hartz
+Ogi
+Orrazi
+Hanka
+Irrati
+Sagu
+Gurpil
+Izokin
+Matxinsalto
+Lehorgailu
+Hesi
+Labe
+Lauza
+Entzungailu
+Ahuntz
+Kriskitin
+Igogailu
+Eskularru
+Gingil
+Hotz
+Gorri
+Ihintz
+Ilara
+Goiz
+Irribarre
+Malko
+Hitzaldi
+Zapi
+Ogitarteko
+Okaran
+Pinpirin
+Marrubi
+Kabi
+Intxaur
+Galtza
+Solairu
+Bero
+Bitxi
+Zartagi
+Orri
+Mozkor
+Zikiratu (Gizona)
+Irudi
+Aho sabai
+Bazka
+Poto
+Kurrillo
+Nabar
+Astakume
+Upel
+Buruko (moja)
+Makil
+Tximino (emea)
+Irla
+Eldarnio
+Tximista
+Zoriontsu
+Gela
+Egitura
+Mesede
+Euskaldun
+zaku
+Aberats (Femeninoa)
+Lokatz
+Saski
+Udare
+Koblakari
+Ero
+Lodi (Femenino)
+Itsas-zapo
+Hileta-liburu
+B.e.z.
+Arrakala
+Mota
+Gozo
+Apeza
+Ubel
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+
+Hive
+Lamb
+Dragon
+Elf
+Lighthouse
+
+Colmena
+Cordero
+Dragon
+Duende
+Faro
+
+Erlauntz
+Arkume
+Herensuge
+Ipotx
+Itsasargi
+
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L1prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+L2prime-L2translation
+
+Barn Swallow
+Hump
+Key
+Hand
+Wave
+Dove
+Dance
+shepherd
+Duck
+Chest
+Chin-beard
+Latch
+Beach
+Frog
+Sun
+Bra
+Green bean
+Glass
+Fox
+Coat
+Needle
+fish hook
+Plow
+Plane
+Wasp
+Witch
+Ladle
+Cowbell
+Lock
+Deer
+Elbow
+Heart
+Rib
+Raven
+Beetle
+Shield
+clothes hook
+Ant
+Lizard
+Lettuce
+Cloud
+Ear
+Bow tie
+Newspaper
+Dog
+Colt
+Net
+Tile
+Grape
+
+Golondrina
+Joroba
+Llave
+Mano
+Ola
+Paloma
+Baile
+Pastor
+Pato
+Pecho
+Perilla
+Pestillo
+Playa
+Rana
+Sol
+Sujetador
+Vaina
+Vaso
+Zorro
+Abrigo
+Aguja
+Anzuelo
+Arado
+Avion
+Avispa
+Bruja
+Cazo
+Cencerro
+Cerradura
+Ciervo
+Codo
+Corazon
+Costilla
+Cuervo
+Escarabajo
+Escudo
+Gancho
+Hormiga
+Lagartija
+Lechuga
+Nube
+Oreja
+Pajarita
+Periodico
+Perro
+Potro
+Red
+Teja
+Uva
+
+Enara
+Konkor
+Giltza
+Esku
+Olatu
+Uso
+Dantza
+Artzain
+Ahate
+Bular
+Kokospeko
+Kisketa
+Hondartza
+Igel
+Eguzki
+Bularretako
+Leka
+Edalontzi
+Azeri
+Beroki
+Orratz
+Amu
+Golde
+Hegazkin
+Liztor
+Sorgin
+Burruntzali
+Zintzarri
+Sarraila
+Orein
+Ukondo
+Bihotz
+Sahiets
+Erroi
+Kakalardo
+Armarri
+Kako
+Inurri
+Sugandila
+Uraza
+Hodei
+Belarri
+Tximeleta
+Egunkari
+Txakur
+Zaldiko
+Sare
+Ostraka
+Mahats
+
+Todo
+Loco
+Buenas noches
+Gente
+Estacion
+(Del ano)
+Atencion
+Nieto
+Pocima
+Aguila
+Cinta
+Tirachinas
+Pelo
+Camisa
+Muchacha
+Mosquito
+Habil
+Nudo
+Hermano
+Pina
+Paraguas
+Cresta
+Lengua
+Ataque
+Rugido
+Frente
+Lapiz
+Lamento
+Inundacion
+Carbonero
+Topo
+Carpintero
+Esconder
+Imponer
+Nivel
+Sembrar
+Bien
+Excremento
+Sueno
+Gigante
+Sidra
+Cagalera
+Tortazo
+Fuente
+Campana
+Respiracion
+Vaca
+Sed
+Tozudez
+Piedra
+Simbolo
+Olla
+Dedal
+Portezuela
+Tarde
+
+Dena
+Ero
+Gabon
+Jende
+Urtaro
+Grina
+Iloba
+Edabe
+Arrano
+Xingola
+Tiragoma
+ile
+Ator
+Neskato
+Eltxo
+Abila
+Korapilo
+Anaia
+Anana
+Goardasol
+Gandor
+Mingaina
+Eraso
+Orro
+Bekoki
+Arkatz
+Damu
+Uholde
+Ikazkin
+Sator
+Zurgin
+Estali
+Ezarri
+Maila
+Erein
+Ondo
+Gorotz
+Amets
+Erraldoi
+Sagardo
+Kakalarri
+Zartako
+Iturri
+Ezkila
+Arnasa
+Behi
+Egarri
+Seta
+Harri
+Ikur
+Lapiko
+Titare
+Ataka
+Arrats
+
+41, 365-397. https://doi.org/10.1006/jmla.1999.2651.
+De Bruin, A., Carreiras, M., & Dunabeitia, J. A. (2017). The BEST dataset of language
+proficiency. Frontiers in Psychology, 8, 522. https://doi.org/10.3389/fpsyg.2017.
+00522.
+De Cat, C., Klepousniotou, E., & Baayen, R. H. (2015). Representational deficit or processing effect? An electrophysiological study of noun-noun compound processing by
+very advanced L2 speakers of English. Frontiers in Psychology, 6, 77. https://doi.org/
+10.3389/fpsyg.2015.00077.
+Desroches, A. S., Newman, R. L., & Joanisse, M. F. (2009). Investigating the time course of
+spoken word recognition: Electrophysiological evidence for the influences of phonological similarity. Journal of Cognitive Neuroscience, 21, 1893-1906. https://doi.
+org/10.1162/jocn.2008.21142.
+Dussias, P. E., Perrotti, L., Brown, M., & Morales, L. (2014). Re-learning to parse a first
+language: The role of experience in sentence comprehension. Proceedings of the 27th CUNY
+conference on human sentence processing. Sentence Processing.
+Dussias, P. E., & Sagarra, N. (2007). The effect of exposure on syntactic parsing in
+Spanish-English bilinguals. Bilingualism: Language and Cognition, 10, 101-116.
+https://doi.org/10.1017/S1366728906002847.
+Grossi, G., Coch, D., Coffey-Corina, S., Holcomb, P. J., & Neville, H. J. (2001).
+Phonological processing in visual rhyming: A developmental ERP study. Journal of
+Cognitive Neuroscience, 13, 610-625. https://doi.org/10.1162/
+089892901750363190.
+Guo, T., & Peng, D. (2006). Event-related potential evidence for parallel activation of two
+
+References
+Ardal, S., Donald, M. W., Meuter, R., Muldrew, S., & Luce, M. (1990). Brain responses to
+semantic incongruity in bilinguals. Brain and Language, 39, 187-205. https://doi.org/
+10.1016/0093-934X(90)90011-5.
+Barrett, S. E., & Rugg, M. D. (1990). Event-related potentials and the phonological
+matching of picture names. Brain and Language, 38, 424-437. https://doi.org/10.
+1016/0093-934X(90)90125-Z.
+Boersma, P. (2002). Praat, a system for doing phonetics by computer. Glot International,
+5(9/10), 341-345.
+Chabal, S., & Marian, V. (2015). In the mind's eye: Eye-tracking and multi-modal integration during bilingual spoken-language processing. Attention and vision in language processing (pp. 147-164). New Delhi: Springer. https://doi.org/10.1007/97881-322-2443-3_9.
+Chauncey, K., Holcomb, P. J., & Grainger, J. (2009). Primed picture naming within and
+across languages: An ERP investigation. Cognitive, Affective, & Behavioral Neuroscience,
+9, 286-303. https://doi.org/10.3758/CABN.9.3.286.
+Colome, A. (2001). Lexical activation in bilinguals' speech production: Language-specific
+or language-independent? Journal of Memory and Language, 45, 721-736. https://doi.
+org/10.1006/jmla.2001.2793.
+Costa, A., Miozzo, M., & Caramazza, A. (1999). Lexical selection in bilinguals: Do words
+in the bilingual's two lexicons compete for selection? Journal of Memory and Language,
+
+12
+
+Brain and Language 203 (2020) 104739
+
+S.C. Bobb, et al.
+languages in bilingual speech production. NeuroReport, 17, 1757-1760. https://doi.
+org/10.1097/01.wnr.0000246327.89308.a5.
+Hermans, D. (2000). Word production in a foreign language. The Netherlands: Unpublished
+doctoral dissertation. Nijmegen, University of Nijmegen.
+Hermans, D., Bongaerts, T., de Bot, K., & Schreuder, R. (1998). Producing words in a
+foreign language: Can speakers prevent interference from their first language?
+Bilingualism: Language and Cognition, 1, 213-230. https://doi.org/10.1017/
+S1366728998000364.
+Ju, M., & Luce, P. A. (2004). Falling on sensitive ears: Constraints on bilingual lexical
+activation. Psychological Science, 15(5), 314-318. https://doi.org/10.1111/j.09567976.2004.00675.x.
+Kroll, J. F., Bobb, S. C., & Hoshino, N. (2014). Two languages in mind: Bilingualism as a
+tool to investigate language, cognition, and the brain. Current Directions in
+Psychological Science, 23, 159-163. https://doi.org/10.1177/0963721414528511.
+Kroll, J. F., Bobb, S. C., & Wodniecka, Z. (2006). Language selectivity is the exception, not
+the rule: Arguments against a fixed locus of language selection in bilingual speech.
+Bilingualism: Language and Cognition, 9, 119-135. https://doi.org/10.1017/
+S1366728906002483.
+Kroll, J. F., & Stewart, E. (1994). Category interference in translation and picture naming:
+Evidence for asymmetric connections between bilingual memory representations.
+Journal of Memory and Language, 33, 149-174. https://doi.org/10.1006/jmla.1994.
+1008.
+Kutas, M., & Hillyard, S. A. (1984). Brain potentials during reading reflect word expectancy and semantic association. Nature, 307, 161-163. https://doi.org/10.1038/
+307161a0.
+Kutas, M., & Van Petten, C. (1988). Event-related brain potential studies of language.
+Advances in Psychophysiology, 3, 139-187.
+Lewy, N., & Grosjean, F. (2008). The Lewy and Grosjean BIMOLA model. In F. Grosjean
+(Ed.). Studying Bilinguals (pp. 201-210). Oxford: Oxford University Press.
+Li, P., Sepanski, S., & Zhao, X. (2006). Language history questionnaire: A web-based interface for bilingual research. Behavior Research Methods, 38, 202-210. https://doi.
+org/10.3758/BF03192770.
+Macizo, P., Bajo, T., & Martin, M. C. (2010). Inhibitory processes in bilingual language
+comprehension: Evidence from Spanish-English interlexical homographs. Journal of
+Memory and Language, 63, 232-244. https://doi.org/10.1016/j.jml.2010.04.002.
+Marian, V., & Spivey, M. (2003a). Bilingual and monolingual processing of competing
+lexical items. Applied Psycholinguistics, 24, 173-193. https://doi.org/10.1017/
+S0142716403000092.
+Marian, V., & Spivey, M. (2003b). Competing activation in bilingual language processing:
+Within-and between-language competition. Bilingualism: Language and Cognition, 6,
+97-115. https://doi.org/10.1017/S1366728903001068.
+Marian, V., Blumenfeld, H. K., & Kaushanskaya, M. (2007). The Language Experience and
+Proficiency Questionnaire (LEAP-Q): Assessing language profiles in bilinguals and
+multilinguals. Journal of Speech, Language, and Hearing Research, 50, 940-967.
+https://doi.org/10.1044/1092-4388(2007/067).
+Marslen-Wilson, W., & Zwitserlood, P. (1989). Accessing spoken words: The importance
+of word onsets. Journal of Experimental Psychology: Human Perception and Performance,
+15, 576. https://doi.org/10.1037/0096-1523.15.3.576.
+Martin, C. D., Molnar, M., & Carreiras, M. (2016). The proactive bilingual brain: Using
+interlocutor identity to generate predictions for language processing. Scientific
+Reports, 6, 26171. https://doi.org/10.1038/srep26171.
+
+Martin, M. C., Macizo, P., & Bajo, T. (2010). Time course of inhibitory processes in bilingual language processing. British Journal of Psychology (London, England : 1953),
+101(Pt 4), 679-693. https://doi.org/10.1348/000712609X480571.
+McClelland, J. L., & Elman, J. L. (1986). The TRACE model of speech perception. Cognitive
+Psychology, 18, 1-86. https://doi.org/10.1016/0010-0285(86)90015-0.
+Midgley, K. J., Holcomb, P. J., & Grainger, J. (2009). Masked repetition and translation
+priming in second language learners: A window on the time-course of form and
+meaning activation using ERPs. Psychophysiology, 46, 551-565. https://doi.org/10.
+1111/j.1469-8986.2009.00784.x.
+Molnar, M., Ibanez-Molina, A., & Carreiras, M. (2015). Interlocutor identity affects language activation in bilinguals. Journal of Memory and Language, 81, 91-104. https://
+doi.org/10.1016/j.jml.2015.01.002.
+Penfield, W., & Roberts, L. (1959). Speech and brain-mechanisms. Princeton, N.J: Princeton
+Univ. Press https://doi.org/10.1515/9781400854677.
+Praamstra, P., & Stegeman, D. F. (1993). Phonological effects on the auditory N400 eventrelated brain potential. Cognitive Brain Research, 1, 73-86. https://doi.org/10.1016/
+0926-6410(93)90013-U.
+Shook, A. (2014). Bilingual Spoken Language Comprehension - A Computational and
+Empirical Study of Lexical Semantic Processing in Bilinguals. Unpublished
+dissertationEvanston, IL, USA: Northwestern University.
+Shook, A., & Marian, V. (2013). The bilingual language interaction network for comprehension of speech. Bilingualism: Language and Cognition, 16, 304-324. https://doi.
+org/10.1017/S1366728912000466.
+Spivey, M. J., & Marian, V. (1999). Cross talk between native and second languages:
+Partial activation of an irrelevant lexicon. Psychological Science, 10, 281-284. https://
+doi.org/10.1111/1467-9280.00151.
+Thierry, G., & Wu, Y. J. (2007). Brain potentials reveal unconscious translation during
+foreign-language comprehension. Proceedings of the National Academy of Sciences,
+104, 12530-12535. https://doi.org/10.1073/pnas.0609927104.
+Villameriel, S., Dias, P., Costello, B., & Carreiras, M. (2016). Cross-language and crossmodal activation in hearing bimodal bilinguals. Journal of Memory and Language, 87,
+59-70. https://doi.org/10.1016/j.jml.2015.11.005.
+Von Holzen, K., & Mani, N. (2012). Language nonselective lexical access in bilingual
+toddlers. Journal of Experimental Child Psychology, 113, 569-586. https://doi.org/10.
+1016/j.jecp.2012.08.001.
+Von Holzen, K., & Mani, N. (2014). Bilinguals implicitly name objects in both their languages: An ERP study. Frontiers in Psychology, 5, 1415. https://doi.org/10.3389/
+fpsyg.2014.01415.
+Weber-Fox, C. M., & Neville, H. J. (1996). Maturational constraints on functional specializations for language processing: ERP and behavioral evidence in bilingual
+speakers. Journal of Cognitive Neuroscience, 8, 231-256. https://doi.org/10.1162/
+jocn.1996.8.3.231.
+Wu, Y. J., & Thierry, G. (2010a). Investigating bilingual processing: The neglected role of
+language processing contexts. Frontiers in Psychology, 1, 178. https://doi.org/10.
+3389/fpsyg.2010.00178.
+Wu, Y. J., & Thierry, G. (2010b). Chinese-English bilinguals reading English hear
+Chinese. Journal of Neuroscience, 30, 7646-7651. https://doi.org/10.1523/
+JNEUROSCI.1602-10.2010.
+Wu, Y. J., & Thierry, G. (2011). Event-related brain potential investigation of preparation
+for speech production in late bilinguals. Frontiers in Psychology, 2, 3389. https://doi.
+org/10.3389/fpsyg.2011.00114.
+
+13
+
+

@@ -1,0 +1,1908 @@
+Brain & Language 231 (2022) 105149
+
+Contents lists available at ScienceDirect
+
+Brain and Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Developmental differences of large-scale functional brain networks for
+spoken word processing
+Xin Liu a, Yin He a, Yue Gao a, James R. Booth b, Lihuan Zhang a, Shudong Zhang c,
+Chunming Lu a, Li Liu a, *
+a
+b
+c
+
+State Key Laboratory of Cognitive Neuroscience and Learning & IDG/ McGovern, Institute for Brain Research, Beijing Normal University, Beijing 100875, China
+Department of Psychology and Human Development, Vanderbilt University, Nashville, TN 37203, USA
+Faculty of Education, Beijing Normal University, Beijing 100875, China
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Functional connectivity
+Functional magnetic resonance imaging (fMRI)
+Graph theory
+Spoken word processing
+Word processing development
+
+A dual-stream dissociation for separate phonological and semantic processing has been implicated in adults'
+language processing, but it is unclear how this dissociation emerges with development. By employing a graphtheory based brain network analysis, we compared functional interaction architecture during a rhyming and
+meaning judgment task of children (aged 8-12) with adults (aged 19-26). We found adults had stronger func
+tional connectivity strength than children between bilateral inferior frontal gyri and left inferior parietal lobule
+in the rhyming task, between middle frontal gyrus and angular gyrus, and within occipital areas in the meaning
+task. Meanwhile, adults but not children manifested between-task differences in these properties. In contrast,
+children had stronger functional connectivity strength or nodal degree in Heschl's gyrus, superior temporal
+gyrus, and subcortical areas. Our findings indicated spoken word processing development is characterized by
+increased functional specialization, relying on the dorsal and ventral pathways for phonological and semantic
+processing respectively.
+
+1. Introduction
+Understanding spoken language is a hallmark of child development.
+Spoken language comprehension is a process of extracting meaningful
+information from acoustic stimuli. It involves not only the perception
+and recognition of acoustic cues, but also the mapping between recog
+nized phonological and semantic concepts. Therefore, spoken language
+processing integrates both bottom-up acoustic processing and top-down
+processing based on knowledge.
+Spoken language processing involves the interaction of a network of
+brain regions (Hickok & Poeppel, 2004; Price, 2012), including inferior
+frontal gyrus (Alho et al., 2016; Murakami et al., 2015), premotor cortex
+(Osnes et al., 2012), superior temporal cortex (Murakami et al., 2015),
+and inferior parietal cortex (Obleser & Kotz, 2010). These regions are
+often conceptually divided into two general streams: dorsal and ventral.
+According to the dual-stream model of the functional anatomy of lan
+guage proposed by Hickok and Poeppel, the dorsal stream of involves
+the opercular part of inferior frontal gyrus, the anterior parts of insula,
+
+and the inferior parietal region. This stream is responsible for auditor
+y-motor integration, linking the acoustic cues of speech with the artic
+ulation representations. As for the ventral stream, this mainly includes
+the middle and inferior temporal cortex, and the triangular part of the
+inferior frontal gyrus. This stream is responsible for the sound to
+meaning integration, mapping sensory or phonological representations
+onto lexical conceptual representations (Hickok & Poeppel, 2004; 2007;
+Rauschecker, 2011). Currently, this framework has been supported by
+both functional (Saur et al., 2008) and structural evidence from nontonal language studies (Brauer, Anwander, & Friederici, 2011; Brauer,
+Anwander, Perani, & Friederici, 2013). Moreover, a recent study
+comparing the neural network subserving spoken word processing in
+Chinese (a tonal language) and English speakers, indicated that although
+Chinese word comprehension was characterized by involvement of right
+anterior temporal cortex, word processing across both languages was
+largely carried out in the common left hemisphere network including
+inferior frontal gyrus, superior temporal gyrus and anterior temporal
+cortex (Ge et al., 2015). This suggests that Chinese spoken word
+
+* Corresponding author at: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, No. 19 Xin-Wai St., Hai-Dian District, Beijing
+100875, China.
+E-mail addresses: liuxin_bnu@163.com (X. Liu), lilyliu@bnu.edu.cn (L. Liu).
+https://doi.org/10.1016/j.bandl.2022.105149
+Received 17 September 2021; Received in revised form 3 June 2022; Accepted 13 June 2022
+Available online 28 June 2022
+0093-934X/(c) 2022 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/bync-nd/4.0/).
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+processing generally follows this dual-stream framework. However, it
+should be noted that, this dual-stream framework is proposed based on
+adult data, so we do not know whether spoken language processing in
+children adheres to this dual-stream model.
+As proposed by Interactive Specialization theory, the onset of a new
+cognitive ability is due to changes in the interactive pattern between
+multiple brain regions, and this interaction results in greater task
+specialization with increased skill proficiency and development (John
+son, 2011). In a recent work on reading development, Liu et al. (2018)
+demonstrated that only adults showed between-task differences in interregional functional interaction patterns, whereas children failed to show
+any task differences, suggesting adults' reading network is more
+specialized (Liu et al., 2018). However, previous studies concerning the
+development of spoken word processing examined only local activation
+or seed region connectivity, the latter of which represents functional
+connectivity between a pre-defined region and the rest of the brain.
+Although activation analysis of particular local brain regions and func
+tional connectivity of seed regions are informative, a whole-brain con
+nectivity approach is needed to understand how the network for spoken
+language processing changes with development. Graph theory-based
+network analysis methods provide an informative way to study func
+tional connectivity architecture from a large-scale perspective (Bullmore
+& Sporns, 2009; 2012). However, the majority of graph theory-based
+studies on functional brain development have examined taskindependent resting-state functional networks, which might have
+missed the topological properties and connectivity profiles modulated
+by task demands. Therefore, graph theoretical analysis under specific
+tasks can provide a targeted method for investigating the architecture
+supporting cognitive development.
+Many of previous studies of spoken language processing develop
+ment have used rhyming judgment to tap into auditory-motor integra
+tion (Booth et al., 2001; 2004; Cao et al., 2011). In this task, participants
+were instructed to determine whether the stimuli in a word pair rhymed
+or not. These studies have demonstrated that the dorsal auditory-motor
+processing pathway tends to increase in activation with age in phono
+logical tasks. For example, Booth et al. (2001; 2004) adopted an audi
+tory English rhyming judgment task, which required participants to
+determine whether the final word rhymed with the first word (e.g., seat
+rhymed with heat, wish did not rhyme with wall). They found that
+adults had more activation in bilateral superior temporal gyrus, left
+angular gyrus, superior parietal lobule, opercular part of inferior frontal
+gyrus and superior temporal gyrus, compared with children (Booth
+et al., 2001; 2004). In another study with the auditory word rhyming
+judgment task in Chinese, it was found that adults had significantly
+higher activation in the opercular part of bilateral inferior frontal gyri
+than children (Cao et al., 2011). In addition, studies by Everts (2001)
+and Holland (2009) showed that the activation of the left inferior frontal
+gyrus (pars opercularis) and middle frontal gyrus increased with age in a
+vowel detection task (Everts et al., 2009; Holland et al., 2001), and that
+activation in right frontal cortex decreased with age in a speech
+perception task (Holland et al., 2001), suggesting a left lateralized
+developmental trend in the dorsal pathway. Moreover, the functional
+connectivity between dorsal regions (e.g. between left superior temporal
+gyrus/sulcus and left dorsal inferior frontal cortex) in the resting state
+was also found to increase with age (from 5 to 6 years old) and language
+comprehension ability (Xiao, Friederici, Margulies, & Brauer, 2016).
+Different from the traditional point of view that spoken language
+processing is mainly located in the left hemisphere, the dual-stream
+framework argues that the ventral pathway involves both hemi
+spheres, whereas the dorsal pathway mainly involves the left hemi
+sphere (Hickok & Poeppel, 2007). A study on developmental differences
+in English story listening comprehension showed that there was more
+focal activation with age in bilateral superior temporal gyri and no
+significant increase in lateralization with age, so the neural basis of
+speech comprehension seems to be established in a bilateral network by
+late childhood (Lidzba, Schwilling, Grodd, Krageloh-Mann, & Wilke,
+
+2011). In contrast to the dorsal pathway, the current understanding of
+the developmental pattern in the ventral pathway is limited.
+Spoken language processing is a complicated process involving
+cooperation of multiple brain regions, not only the dual-stream
+pathway. For example, subcortical regions, such as the basal ganglia
+and the thalamus, have been reported to play a crucial role in speech and
+language processing (Copland & Angwin, 2019; David, Maess, Eckstein,
+& Friederici, 2011; Kotz, Schwartze, & Schmidt-Kassow, 2009;
+Krishnan, Watkins, & Bishop, 2016; Lim, Fiez, & Holt, 2014), including
+speech perception and speech category learning (Lim, Fiez, & Holt,
+2014), prosodic processing (David et al., 2011), and language produc
+tion (Kotz, Schwartze, & Schmidt-Kassow, 2009). Some studies have
+suggested that subcortical activity serves as an articulatory mechanism
+to facilitate sound awareness in phonological processing (Hancock,
+Richlan, & Hoeft, 2017), consistent with previous work which demon
+strated that reading development was characterized by a shift from
+reliance on subcortical to cortical mechanisms (Liu et al., 2018).
+Taken together, in the current study, we adopted a graph theorybased network analysis method to investigate developmental changes
+in the whole-brain connectivity profile in spoken word processing. We
+measured inter regional functional connectivity and nodal degree, with
+the former indicating the interaction strength between two brain areas,
+and the latter estimating the number of other regions that directly
+connect to a particular region (Liu et al., 2018; Qi et al., 2016; Xia, Foxe,
+Sroubek, Branch, & Li, 2014). We aimed to examine whether children's
+spoken word processing was characterized by a dual-stream dissocia
+tion, as shown in adults. Spoken word processing requires the use of
+phonological cues to access semantics, and includes auditory-motor and
+sound-meaning mapping. Accordingly, we adopted a rhyming judgment
+task tapping into phonological processing and a meaning judgment task
+tapping into semantic processing to examine developmental differences
+in the functional network during spoken word processing. Based on
+Interactive Specialization Theory (Johnson, 2001), we expected
+specialization of the dual streams to emerge over development, that is,
+adults will manifest rhyming vs. meaning task differences in their
+functional connectivity profile, while these between-task differences
+will not be shown or will be smaller in children. In addition, according to
+the developmental evidence on dual-stream model (Booth et al., 2001;
+2004; Cao et al., 2011; Xiao, Friederici, Margulies, & Brauer, 2016), we
+expected adults to have stronger functional connections and higher
+nodal degree than children in the dorsal pathway (e.g., the inferior pa
+rietal and dorsal inferior frontal regions) during the rhyming judgment
+task. In the meaning judgment task, adults should have stronger func
+tional connections and higher nodal degree than children in the ventral
+pathway (e.g., left angular gyrus and ventral inferior/middle frontal
+regions). Finally, we expected children should rely more on connections
+with subcortical regions, consistent with a general mechanism of
+subcortical-to-cortical shift in the development of cognitive functions
+(Liu et al., 2018).
+2. Material and methods
+2.1. Participants
+Twenty-three young adults and 19 children participated in this
+study, three adults and three children were excluded from further ana
+lyses due to their extensive head motion, resulting in 20 young adults
+between 19 and 26 years old (M = 22.0  1.9, 13 females) and 16
+children between 8 and 12 years old (M = 10.5  1.4, 10 females). We
+carried out a power analysis, and the results indicated that the total
+sample size of 36 participants has a statistical power above 0.69 under
+effect size from 0.8 to 1.6, which is shown in detail in Fig. S1. All par
+ticipants met the following criteria: 1. No neurological disease or psy
+chiatric disorders; 2. Native Chinese speaker; 3. Right-handed; 4.
+Normal hearing and normal or corrected to normal vision; 5. Not taking
+medication affecting nervous system. All adult participants and the
+2
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+the right middle finger for unrhymed or semantically unrelated trials.
+We adopted an event-related (ER) design with two 9 m 38 s runs, 1 run
+per task.
+
+parent or legal guardian of each child participant gave written informed
+consent before the experiment. The study was approved by the Institu
+tional Review Board at Beijing Normal University. The demographic
+characteristics of the participants and the effect size of behavioral per
+formance are shown in Table 1. The two groups were matched in gender
+but showed significant differences in IQ and word in noise performance.
+Adults also had better performance than children on the rhyming and
+meaning judgment tasks.
+
+2.4. Stimulus characteristics
+There were 90 pairs of word task stimuli and 30 baseline stimuli
+(fixation) randomly presented in each task. In the rhyming task, half of
+the pairs rhymed ("yan2 se4" and "men1 re4") and half did not rhyme
+("pao3 bu4" and "da2 an4"). In the meaning task, half were semantically
+related ("nan2 ji2" (the South Pole) and "qi3 e2" (penguin)) and half were
+semantically unrelated ("shu4 zhi1" (tree branch) and "wei2 nan2"
+(embarrassment)). All stimuli can be found in Tables S6 and S7. These
+word stimuli were selected from Chinese language textbooks for primary
+school and were matched for frequency, acquisition term, and number of
+strokes across the rhyming and meaning tasks. Semantic association
+strength between the two-word stimuli in a pair was assessed using a 7point scale. Thirty-five adults in Beijing were asked to judge to what
+extent a pair of words were semantically related. An average score
+across subjects below 2.5 was considered unrelated, whereas an average
+score over 5.5 was considered related. A red "+" fixation in 2000 ms
+duration was used as the baseline stimulus and the participants were
+required to do nothing during this period.
+
+2.2. Behavioral tests
+2.2.1. Intelligence test
+IQ of the two age groups was assessed by the Chinese version
+Wechsler Intelligence Scale for Children (WISC-CR) (Wechsler, 1974)
+and the Wechsler Adult Intelligence Scale (WAIS-RC) (Wechsler, 1955).
+2.2.2. Word in noise test
+MRI scanning creates loud noises which may influence an in
+dividual's rhyming and meaning judgment. To control for individual
+differences in basic auditory perception, the participants completed a
+word in noise test before scanning, and their scores in this test were used
+as a covariate in the analyses. The test consisted of 60 trials. Participants
+were asked to repeat what they heard. The pronunciations had different
+initial phonemes, rhymes and tones, such as "ba4", "dou1", "fang3" and so
+on. Each word was 65 dB, and 350 ms in duration, under four levels of
+signal-noise ratio (SNR) (- 6, - 2, +2, +6 dB). Before the test, all par
+ticipants performed a practice consisting of 20 trails to familiarize
+themselves with the test procedure.
+
+2.5. Image acquisition
+Data were collected using a Siemens Trio 3 T magnetic scanner at the
+Brain Imaging Center in Beijing Normal University. The functional im
+aging data were collected with a susceptibility weighted single-shot
+echo planar imaging (EPI) sequence with blood oxygenation leveldependent (BOLD) signal recording. Functional scanning parameters
+are as follows: TR = 2,000 ms; TE = 20 ms; flip angle = 80 ; slice
+thickness = 3 mm; gap = 0.48 mm; number of slices = 32; FOV = 220 x
+206 mm; matrix = 128 x 120 x 32; and voxel size = 1.72 x 1.72 x 3.48
+mm3. In addition, a high resolution T1 weighted 3D image (MPRAGE)
+was acquired with the following parameters: number of axial slices =
+160; slice thickness = 1 mm; FOV = 256 mm x 256 mm; matrix = 256 x
+256 x 160; voxel size = 1 x 1 x 1 mm3; TR = 2,300 ms; and TE = 3.36
+ms.
+Participants performed a practice for each task before scanning to
+make them familiar with the experimental tasks. The practice contained
+20 trials (15 task trials and 5 baseline trials) for rhyming and meaning
+judgment task. Participants were provided instructions before the
+practice and feedback after the practice to make sure they fully under
+stood the tasks. Additionally, child participants were exposed to a
+simulated MRI scanner prior to data collection to help them adapt to the
+experimental equipment and minimize head motion.
+
+2.3. Experimental design
+In the experiment, participants were required to make a rhyming
+judgment or a meaning judgment to each pair of Chinese word stimuli
+presented auditorily to tap into sound-phonology and sound-meaning
+mapping during spoken word processing.
+A description appeared on the screen before each run to remind the
+participant whether the task was a rhyming or a meaning judgment.
+After that, there was an 8 s equilibration time to ensure the stability of
+the fMRI signal. Then a white "+" fixation with 300 ms duration
+appeared on the screen, indicating the participants that the task would
+come soon and that they should concentrate. All Chinese word stimuli
+were 800 ms in duration with a 500 ms interval between the two words
+in a pair. A red "+" fixation appeared on the screen after the second
+stimulus disappeared to indicate to the participants that they should
+make a response as quickly and accurately as possible. The response
+interval was set as 3,000, 3,250, or 3,500 ms with equal probability.
+Participants were required to judge whether the two stimuli in a pair
+rhymed (rhyming judgment task) or were semantically related (meaning
+judgment task) by pressing yes button for rhyming (or semantically
+related) trials using their right index finger or pressing a no button with
+
+2.6. Data pre-processing
+The fMRI data were pre-processed using DPARSF (https://rfmri.
+org/DPARSF) (Yan & Zang, 2010). Images were pre-processed for the
+following steps: First four volumes were deleted to ensure the signal
+stability; slice acquisition timing correction was then performed by
+interpolating the voxel time series using slice interpolation, and the
+middle slice in time was used as a reference slice. Then, subjects with
+head movement parameters greater than 3 mm of displacement or 3
+degrees of rotation in any direction were excluded from further analyses.
+The resulting images were then spatially normalized to the Montreal
+Neurological Institute (MNI) template, resampled to 3 x 3 x 3 mm3
+voxel size. Next, all images were smoothed with a 4-mm Gaussian kernel
+to decrease spatial noise, and were removed of linear trends. There have
+been studies suggesting that brain development is associated with
+strengthening of long-range connections and weakening of short-range
+connections, but these have been shown to be markedly inflated by
+the presence of motion artifact in younger children (Ciric et al., 2017,
+
+Table 1
+Demographics and task performance of adults and children.
+
+Age
+Gender
+IQ
+ACC(word in
+noise)
+ACC(RJT)
+RT(RJT)
+ACC(MJT)
+RT(MJT)
+
+A (Mean/
+SD)
+
+C (Mean/
+SD)
+
+21.9(1.9)
+7(M)/13(F)
+123(9)
+38.0(11.0)
+
+10.5(1.4)
+6(M)/10(F)
+114(13)
+25.3(6.9)
+
+89.9(4.9)
+1902
+336
+91.9(6.2)
+1799(279)
+
+69.4(13.5)
+2161
+280
+82.1(14.9)
+1991(201)
+
+T(34)
+
+p
+
+Cohen's
+d
+
+0.15
+2.54
+4.03
+
+0.881
+0.016
+<0.001
+
+6.29
+- 2.47
+
+<0.001
+0.019
+
+2.01
+- 0.83
+
+2.74
+- 2.33
+
+0.010
+0.026
+
+0.86
+- 0.79
+
+Note: ACC, response accuracy (%); RT, reaction time (ms); A, adult group; C,
+child group; RJT, rhyming judgment task; MJT, meaning judgment task.
+3
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+2018). Therefore, we regressed out six head motion parameters, white
+matter signal, cerebrospinal fluid (CSF) signal, and global signal in
+subsequent network analysis (Ciric et al., 2017, 2018; Power, Schlaggar,
+& Petersen, 2015).
+
+2.8.2. Edge definition
+For each participant, edges in the functional brain network were
+defined as the Pearson's correlational coefficient across each pair of
+nodal task-related time series.
+The time series for each node was obtained by averaging the time
+series of all the voxels within the node. We only examined the taskrelated time series (Fig. 1B), which were extracted from the onset of
+the first word in a pair to 2 TRs after the second word in a pair and
+concatenated over trials for each region of interest (ROI) and each
+subject to take into account the delay of the signal and participant
+response time (Ekman, Derrfuss, Tittgemeyer, & Fiebach, 2012; Liang,
+Zou, He, & Yang, 2016; Liu et al., 2018). After this, ninety percent of the
+raw time points were available to calculate the regional pair-wise
+correlations.
+
+2.7. Univariate analysis
+We carried out two univariate analyses to compare group and task
+differences in whole-brain activity based on the contrast lexical trials vs.
+baseline. Specifically, at the first-level model, the preprocessed func
+tional volumes were submitted to a general linear modal (GLM) with
+three experimental conditions (correct trials of the task, incorrect trials
+of the task and the baseline). The BOLD response for each condition was
+modeled with the canonical hemodynamic response function along with
+the temporal derivative. Six parameter estimates of head motion were
+entered as confounding regressors to correct for potential movement
+artifacts. A two-sample or paired sample T-test was applied at the
+second-level analysis to generate statistical inferences of group or task
+comparisons, respectively. As children performed significantly worse
+than adults on the intelligence and word in noise tests, we controlled for
+the IQ and word in noise scores in the group comparison. Group by task
+interaction was examined using ANOVA. Only results passing the FDR
+correction (p  0.05) are reported.
+
+2.8.3. Network construction
+The time series of the 90 nodes for each subject under the rhyming
+judgment and the meaning judgment task were correlated with each
+other (Pearson correlation) to obtain the functional network under each
+task for each subject (90 x 90 matrix) (Fig. 1C). We used a surrogate
+data permutation test to examine the statistical significance of each edge
+(the functional connectivity strength of each pair of brain regions) in the
+matrix. First, 1000 surrogate time series were constructed for each
+original time series (e.g., node 1) by randomizing the phase of the time
+series. Second, the 1000 surrogate time series were related to the orig
+inal time series of other nodes in the network (e.g., node 2). Thus, the
+correlation between surrogate time series and original time series of
+other nodes would form a correlation coefficient distribution. Finally, if
+the observed correlation coefficient of two nodes (e.g., node 1 and node
+2) was above the 95th percentile of the distribution, we considered that
+the observed correlation coefficient was statistically significant (Ebisu
+zaki, 1997) (Fig. 1D). This statistical test accounts for time series that are
+serially correlated, and circumvents the need to match groups on
+network sparsity (Ebisuzaki, 1997).
+
+2.8. Network construction
+2.8.1. Node definition
+For each participant, nodes in the functional brain network were
+defined by partitioning the whole brain (excluding the cerebellum) into
+90 regions according to the AAL (Automated Anatomical Labeling)
+template (Tzourio-Mazoyer et al., 2002). The whole brain (excluding the
+cerebellum) was divided into 90 brain regions. Each brain region rep
+resents a node (Fig. 1A).
+
+Fig. 1. Schematic of functional network construction. (A) The whole brain (excluding cerebellum) was divided in to 90 nodes by averaging all voxel time series
+within each node using the Automated Anatomical Labeling (AAL) template; (B) Time courses of Chinese lexical condition of the rhyming and meaning judgment
+tasks were extracted for each node, which are illustrated by different colors. The left pair of stimuli is an example for the auditory rhyming task, "" is pronounced
+as "yan2 se4", while "" is pronounced as "men1 re4", hence the two words ("" and "") rhyme; the right pair of stimuli is an example for the auditory
+meaning task, "" means "the south pole" while "" means "penguins", hence the two words ("" and "") are semantically related; (C) The task-related
+network was constructed by correlating task-related time courses to calculate pairwise 90 x 90 matrices for each subject and task; (D) A surrogate time course
+analysis was used to estimate the statistical significance for each edge of the task-related network. (E) A union of statistically significant edge maps of both age
+groups. (F) Two sample T-test or paired sample T-test was used to evaluate between-group or between-task differences. (G) Visualization of the task-related func
+tional network showing group or task differences.
+4
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+2.9. Graph theoretical analysis
+
+score were regressed out in the group comparisons using an ANCOVA.
+Multiple comparison corrections were performed using the FDR
+correction method at an alpha level of 0.05 (Fig. 1G). We used a similar
+method to determine task differences in the functional connectivity by
+performing a paired sample T-test to determine edges with significant
+task differences for each group. To further test whether one group had
+larger task differences than the other group, we carried out a two-way
+ANOVA to examine group by task interaction effects.
+We examined the FCV differences based on regions identified to
+show significant group and task difference respectively, similar as in
+aforementioned large-scale functional connectivity analysis.
+
+The graph theoretical analysis was performed in GRETNA
+(https://www.nitrc.org/projects/gretna/) (Wang et al., 2015). Specif
+ically, binary matrices were generated from the task-related connectiv
+ity matrix described above for each participant using different sparsity
+threshold values. If the observed correlation coefficient was greater than
+a given threshold, it was set to 1, otherwise it was set to 0. In order to
+control the influence of sparsity on network properties, a sparsity range
+(0.06-0.5, with 0.01 step) was chosen and a series of thresholded binary
+networks were constructed. We chose this range because the lowest
+bound of the threshold range (0.06) guaranteed full connectivity of the
+network and the highest bound (0.50) maintained small-world proper
+ties of the network according to previous studies (Bassett, MeyerLindenberg, Achard, Duke, & Bullmore, 2006; Liang et al., 2016).
+We used this analysis method to evaluate the importance of a specific
+node in the network. For this aim, nodal degree and hub were chosen as
+two measures as these two have been widely used in previous studies
+(Liu et al., 2018; Qi et al., 2016; Sporns, Honey, & Kotter, 2007). The
+degree of each node measures the number of edges of the node,
+revealing the importance of a particular node in the network. The
+greater the degree, the more nodes connected to this node. Hubs are
+nodes with high degree (Bullmore & Sporns, 2009). We defined a node
+as a hub in the network if the normalized degree of this node was 1.5 SD
+greater than the mean degree across all nodes in the network
+respectively.
+
+2.11.2. Group and task differences in nodal degree
+We calculated the AUC (area under curve) for each node for a range
+of sparsity thresholds (Bassett, Nelson, Mueller, Camchong, & Lim,
+2012), and then used two sample T-tests (group differences) or paired
+sample T-tests (task differences) to find out the nodes showing signifi
+cant group or task differences. IQ and the word in noise test were used as
+covariates in between-group analysis. Finally, an FDR correction at an
+alpha level of 0.05 was conducted to correct for multiple comparisons.
+Similarly, a two-way ANOVA analysis was used to examine the group by
+task interaction effects to further test whether one group had larger task
+differences than the other group.
+2.11.3. Test-retest reliability assessment
+To assess test-retest reliability of the functional connectivity and
+nodal degree measurements, we calculated intra-class correlation co
+efficients (ICC) between even and odd trials within each task sequence
+(Birn et al., 2013; Zhang, Baum, Adduru, Biswal, & Michael, 2018; Zuo
+& Xing, 2014). Here, ICC values close to 1 indicate perfect agreement,
+while ICC values close to 0 (or negative) indicate poor or no agreement,
+with an ICC value from 0 to 0.25 indicating poor reliability, 0.25 to 0.40
+indicating low reliability, 0.40 to 0.60 indicating fair reliability, 0.60 to
+0.75 indicating good reliability and 0.75 to 1.00 indicating excellent
+reliability (Xiang et al., 2019). We kept measurements whose agreement
+between odd and even trials are above 0.60 to regard them as relatively
+reliable results.
+
+2.10. Dynamic functional connectivity analysis
+To further investigate time-varied characteristics in the aforemen
+tioned task-related network construction, we carried out a dynamic
+functional connectivity analysis. Specifically, time-varying functional
+networks was estimated by computing correlations across 90 ROI time
+courses using a series of sliding windows (window size: 57 time points;
+window step: 3 time points). The choice of the window size has long
+been a matter of debate, especially in resting-state analysis. There ap
+pears to be a tradeoff between specificity and sensitivity (Preti, Bolton,
+& Van De Ville, 2017), specifically, a small window size yields improved
+sensitivity to temporal changes but at the cost of introducing spurious
+fluctuations and sacrificing reliability because of too few samples, while
+a larger window size is less sensitive to detect the temporal variation
+(Preti et al., 2017; Savva, Mitsis, & Matsopoulos, 2019). In task-based
+fMRI, the sensitivity issue is better than resting state because in
+dividuals are involved during scanning. Therefore, we adopted a rela
+tively larger window size to guarantee the reliability of temporal
+variation. There were 285 time points in each task sequence, and we
+chose a window size as 57 time points (around 19 task trials), with a
+window step of 3 time points (about one task trial), with 95 percent
+overlapping rate. Finally, we obtained 77 networks for each participant
+in each task, and then evaluated the degree of functional connectivity
+variability (FCV) to identify more variable (or flexible) edges during task
+processing.
+
+2.11.4. Group difference in hub overlapping rate
+We calculated how much the hub distribution overlapped across the
+two tasks for the adults and children. If one node appeared as a hub in
+the networks of both tasks, then it was regarded as an overlapping hub.
+The number of overlapping hubs was divided by the total number of
+hubs, to estimate the overlap rate of each participant in two tasks. A twosample T-test was used to determine group differences in the overlap
+rate across tasks in order to compare task specificity of the functional
+networks in the adult versus child groups.
+3. Results
+3.1. Behavioral performance
+Table 1 illustrates demographic information, IQ, in-scanner behav
+ioral performance for the rhyming and meaning judgment tasks, outscanner word in noise scores for the adults and children. Two-sample
+T-test and paired sample T-test were used to estimate group and task
+differences respectively. For the group difference, adults showed faster
+reaction time (Rhyming Task = 1902 ms; Meaning Task = 1799 ms) and
+higher response accuracy (Rhyming Task = 89.9%; Meaning Task =
+91.9%) than children (reaction time: Rhyming Task = 2161 ms, Mean
+ing Task = 1991 ms; response accuracy: Rhyming Task = 69.4%,
+Meaning Task = 82.1%) in both tasks. As shown in Table 1, adults also
+had higher IQ and word in noise scores than children. We carried out an
+ANCOVA analysis by controlling for IQ and word in noise scores for
+group comparisons of response accuracy and reaction time in both tasks,
+and the results indicated that adults still performed better than children
+
+2.11. Statistical analysis
+2.11.1. Group and task differences in large-scale functional connectivity
+and FCV
+We compared the differences in group and task only on the signifi
+cant edges of the task-related network. In addition, because the physi
+ological significance of negative connections is still unclear, this study
+only focused on positive correlations (Fox, Zhang, Snyder, & Raichle,
+2009; Murphy, Birn, Handwerker, Jones, & Bandettini, 2009). For group
+comparisons, we first identified the significant edges either in the adult
+group or in the child group, that is, the union of significant edges of both
+groups (Fig. 1E). Then, a two-sample T-test was performed to determine
+the between-group difference (Fig. 1F). IQ and the word in noise test
+5
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+found to pass p  0.05 (FDR correction).
+
+(rhyming judgment task accuracy: F(1,34) = 27.18, p < 0.001, reaction
+time: F(1,34) = 5.48, p = 0.025; meaning judgment task accuracy: F
+(1,34) = 4.81, p = 0.028, reaction time: F(1,34) = 3.39, p = 0.041).
+No task differences were found on in-scanner behavioral perfor
+mance of adults (reaction time: T (19) = 1.67; p = 0.110, response ac
+curacy: T(19) = - 1.22; p = 0.240). However, children showed a
+significant between task difference in response accuracy (T(15) =
+- 4.28; p < 0.001), i.e., the accuracy of the meaning judgment task
+(82.1%) was significantly higher than that of the rhyming judgment task
+(69.4%). There was a marginally significant task difference in the re
+action time for the children (T (15) = 2.07; p = 0.060).
+
+3.3. Group and task differences in large-scale functional connectivity
+The significant functional connections under each task of the adult
+and child groups are shown in Fig. S2. Follow-up large-scale functional
+connectivity analysis was based on the significant connections in a
+combination of either group or task. We carried out two sample T-tests
+to compare between-groups in functional connectivity for the rhyming
+and meaning judgment tasks, and regressed out IQ and word in noise test
+scores. A multiple comparison correction was performed using the FDR
+correction (p  0.05). We only kept functional connections in which ICC
+was above 0.60 to be regarded as relatively reliable results, which are
+shown in Table 2 and Fig. 2. The effect size (Cohen's d) of group on
+functional connectivity strength are above 0.90.
+In the rhyming judgment task, the strength of the functional con
+nectivity of the adults in the dorsal stream was significantly higher than
+that of the children, including the connections between left inferior
+parietal lobule (IPL) and bilateral inferior frontal gyri (IFG), and within
+the left IFG (between triangularis part and opercular part). In addition,
+adults had stronger functional connectivity between right para
+hippocampal gyrus (PHG) and right temporal pole of the middle tem
+poral gyrus (TPOmid), and between right superior frontal gyrus (SFG)
+and posterior cingulate gyrus (PCG). In contrast, children showed higher
+functional connectivity between the right Rolandic operculum (ROL)
+and bilateral primary auditory cortex (Heschl's gyrus, HES), and within
+temporal pole (between superior and middle temporal pole). Further
+more, FCV analysis showed that the functional connectivity strength
+between triangularis and opercular part of the left IFG in the child group
+had more variation than in adult group (FCV of Children = 0.010, FCV of
+Adults = 0.003, p = 0.009), suggesting that children's connectivity be
+tween these two regions was more inconsistent and unstable over task
+performance. Altogether, the adults had greater and more consistent
+connectivity than did the children between the triangularis and oper
+cular parts of the left IFG.
+In the meaning judgment task, the adult group showed stronger
+functional connectivity than the child group between the bilateral
+angular gyri (ANG) and orbital part of the bilateral middle frontal gyri
+(ORBmid), within bilateral SFG, and between right middle occipital
+
+3.2. Group and task differences in univariate regional activity
+The group comparison results are shown in Table S1. In both tasks,
+adults showed greater activity than children in occipito-temporal cortex
+(e.g., fusiform gyrus in the rhyming judgment task; superior occipital
+gyrus and fusiform gyrus in the meaning judgment task). In contrast,
+children had greater activity than adults in subcortical regions (i.e.,
+putamen) in the rhyming judgment task, and in some motor represen
+tation areas (e.g., precentral gyrus and supplementary motor area) in the
+meaning judgment task.
+Table S2 illustrates the task comparison results for both age groups.
+In the adult group, the rhyming task triggered greater activity in middle
+frontal gyrus and temporal pole of middle temporal gyrus, as well as
+putamen, while the meaning judgment task triggered greater activity in
+occipito-temporal areas (inferior temporal gyrus and lingual gyrus). In
+the child group, the rhyming task triggered greater activity on insula and
+subcortical areas (i.e., putamen), while no meaning greater than
+rhyming effect was observed.
+There were four clusters manifesting significant group by task
+interaction effects (p < 0.001, voxel size > 10), as shown in Table S3. We
+carried out further post hoc tests, and found that the right postcentral
+gyrus showed a meaning greater than rhyming effect in the adult group,
+but a rhyming greater than meaning effect in the child group. The
+remaining three clusters (the bilateral putamen and the left superior
+frontal gyrus) showed a reverse pattern: the adult group had a rhyming
+greater than meaning effect, whereas the child group had a meaning
+greater than rhyming effect. However, none of these above results was
+Table 2
+Pairs of regions showing significant group differences in inter-regional correlations.
+
+RJT
+
+A>
+C
+
+C>
+A
+MJT
+
+A>
+C
+
+C>
+A
+
+Region 1
+
+Region 2
+
+Mean
+(A)
+
+SD
+(A)
+
+ICC
+(A)
+
+Mean
+(C)
+
+SD
+(C)
+
+ICC
+(C)
+
+p
+
+Cohen's
+d
+
+Inferior frontal gyrus, opercular part.
+L
+Superior frontal gyrus, medial.R
+Inferior frontal gyrus, opercular part.
+L
+Inferior frontal gyrus, opercular part.
+R
+Parahippocampal gyrus.R
+
+Inferior frontal gyrus, triangular
+part.L
+Posterior cingulate gyrus.L
+Inferior parietal lobule.L
+
+0.87
+
+0.07
+
+0.76
+
+0.79
+
+0.07
+
+0.6
+
+0.030
+
+1.14
+
+0.52
+0.57
+
+0.15
+0.15
+
+0.73
+0.72
+
+0.23
+0.41
+
+0.21
+0.13
+
+0.66
+0.69
+
+0.002
+0.020
+
+1.59
+1.14
+
+Inferior parietal lobule.L
+
+0.46
+
+0.16
+
+0.78
+
+0.28
+
+0.2
+
+0.64
+
+0.009
+
+0.99
+
+Temporal pole: middle temporal
+gyrus.R
+Heschl's gyrus.L
+Heschl's gyrus.R
+Temporal pole: middle temporal
+gyrus.L
+Superior frontal gyrus, medial
+orbital.R
+Fusiform gyrus.R
+Angular gyrus.L
+Angular gyrus.R
+Heschl's gyrus.R
+Superior temporal gyrus.L
+Superior temporal gyrus.R
+
+0.45
+
+0.11
+
+0.6
+
+0.27
+
+0.23
+
+0.76
+
+0.002
+
+1
+
+0.48
+0.56
+0.26
+
+0.13
+0.11
+0.15
+
+0.7
+0.77
+0.75
+
+0.64
+0.68
+0.43
+
+0.1
+0.11
+0.14
+
+0.62
+0.67
+0.66
+
+0.009
+0.033
+0.033
+
+- 1.38
+- 1.09
+- 1.17
+
+0.85
+
+0.06
+
+0.77
+
+0.75
+
+0.09
+
+0.63
+
+0.043
+
+1.31
+
+0.61
+0.55
+0.54
+0.25
+0.44
+0.53
+
+0.12
+0.17
+0.16
+0.17
+0.14
+0.1
+
+0.61
+0.63
+0.69
+0.64
+0.6
+0.61
+
+0.41
+0.33
+0.38
+0.41
+0.57
+0.62
+
+0.29
+0.17
+0.18
+0.12
+0.14
+0.09
+
+0.96
+0.64
+0.78
+0.64
+0.65
+0.63
+
+0.018
+0.002
+0.010
+0.027
+0.018
+0.020
+
+0.9
+1.29
+0.94
+- 1.09
+- 0.93
+- 0.95
+
+Rolandic operculum.R
+Rolandic operculum.R
+Temporal pole: superior temporal
+gyrus.L
+Superior frontal gyrus, medial
+orbital.L
+Middle occipital gyrus.R
+Middle frontal gyrus, orbital part.L
+Middle frontal gyrus, orbital part.R
+Lenticular nucleus, putamen.R
+Rolandic operculum.R
+Rolandic operculum.R
+
+Note: Pairs of regions with significant group differences in the rhyming judgment and meaning judgment tasks obtained by two sample T-tests (regressing out IQ and
+word in noise test scores; FDR-corrected, p < 0.05). RJT, rhyming judgment task; MJT: meaning judgment task; A, adult group; C, child group; L, left; R, right; ICC(A),
+intra-class correlation coefficients between even and odd trials of the adult group; ICC(C), intra-class correlation coefficients between even and odd trials of the child
+group.
+6
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+Fig. 2. Between-group differences in functional connectivity in the rhyming and meaning judgment tasks. The alpha level for significant between-group differences
+was set at p < 0.05 (FDR-corrected). Red nodes and edges refer to the functional connectivity of which the strength is stronger in adults than children, blue nodes and
+edges refer to the functional connectivity of which the strength is stronger in children than adults. A, adults; C, children; RJT, rhyming judgment task; MJT, meaning
+judgment task; L, left; R, right. SFGmed, the medial part of superior frontal gyrus; IFGtriang, the triangular part of inferior frontal gyrus; IFGoperc, the opercular part
+of inferior frontal gyrus; IPL, inferior parietal lobule; TPOmid, temporal pole of middle temporal gyrus; PHG; parahippocampal gyrus; PCG, posterior cingulate gyrus;
+HES, Heschl's gyrus; ROL, Rolandic operculum; TPOsup, temporal pole of superior temporal gyrus; ORBsupmed, the medial orbital part of superior frontal gyrus;
+ORBmid, the orbital part of middle frontal gyrus; ANG, angular gyrus; FFG, fusiform gyrus; MOG, middle occipital gyrus; STG, superior temporal gyrus; PUT, pu
+tamen. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+gyrus (MOG) and right fusiform gyrus (FFG). In contrast, the child group
+had stronger functional connections than the adult group between
+auditory phonological cortex (bilateral superior temporal gyri, STG) and
+the articulatory control region (right ROL), between right HES and
+
+putamen (PUT). Furthermore, FCV analysis showed the functional
+connectivity strength between the left ORBmid and ANG in the child
+group had more variation than in the adult group (left ORBmid - left
+ANG, FCV of Children = 0.052, FCV of Adults = 0.026, p = 0.003).
+
+Table 3
+Pairs of regions showing significant task differences in inter-regional correlations in the adult group.
+RJT > MJT
+
+MJT > RJT
+
+Region 1
+
+Region 2
+
+RJT
+
+ICC(RJT)
+
+MJT
+
+ICC(MJT)
+
+p
+
+Gyrus rectus.L
+Inferior frontal gyrus, opercular part.L
+Inferior frontal gyrus, opercular part.R
+Inferior frontal gyrus, triangular part.L
+Inferior frontal gyrus, opercular part.R
+Inferior frontal gyrus, opercular part.L
+Superior occipital gyrus.L
+Inferior frontal gyrus, orbital part.L
+
+Gyrus rectus.R
+Inferior parietal lobule.L
+Inferior parietal lobule.L
+Inferior parietal lobule.L
+Inferior parietal lobule.R
+Inferior frontal gyrus, orbital part.L
+Middle occipital gyrus.L
+Temporal pole: superior temporal gyrus.L
+
+0.88
+0.57
+0.46
+0.59
+0.59
+0.55
+0.50
+0.54
+
+0.64
+0.76
+0.78
+0.60
+0.83
+0.66
+0.70
+0.68
+
+0.83
+0.31
+0.30
+0.39
+0.47
+0.63
+0.59
+0.63
+
+0.84
+0.78
+0.73
+0.81
+0.74
+0.74
+0.80
+0.61
+
+0.030
+<0.001
+0.014
+0.001
+0.024
+0.042
+0.042
+0.005
+
+Note: Pairs of regions with significant task differences in the adult group obtained by paired sample T-tests (FDR-corrected, p < 0.05). RJT, mean of functional
+connectivity strength in rhyming judgment task; MJT, mean of functional connectivity strength in meaning judgment task; L, left; R, right; ICC(RJT), intra-class
+correlation coefficients between even and odd trials in the rhyming judgment task; ICC(MJT), intra-class correlation coefficients between even and odd trials in
+the meaning judgment task.
+7
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+Taken together, the strength of this functional connectivity was weaker
+in the children than in the adults, however, fluctuation of this connec
+tivity in the children was greater than in the adults. In other words, the
+adults had greater and consistent connectivity between the left ORBmid
+and ANG than the children did in the meaning judgment task.
+We also calculated between task differences in the functional con
+nectivity in the adults and children separately (p  0.05, FDR-corrected,
+ICC > 0.60). Only the adult group showed between task differences. As
+shown in Table 3 and Fig. 3, compared with the meaning judgment task,
+the rhyming judgment task was more dependent on the dorsal pathway.
+Specifically, stronger connections were found in the rhyming than the
+meaning task between bilateral IFG (the opercular and triangular parts)
+and IPL, and between the bilateral rectus gyri (REC). In contrast, the
+meaning judgment task was more dependent on the ventral pathway.
+Specifically, stronger connections were found in the meaning than the
+rhyming task between the orbital part of the left IFG and TPOsup, and
+between opercular and orbital part of the IFG. Additionally, the meaning
+task showed stronger connections than the rhyming task between the
+two left occipital visual areas, i.e. between superior occipital gyrus
+(SOG) and MOG.
+As shown in Fig. 4, four pairs of regions manifested significant group
+by task interaction effects (FDR-corrected, p  0.05). The task differ
+ences in the adult group were significantly larger than in the child group
+(for connectivity between the left opercular part of IFG and IPL: F(1,60)
+
+= 1.92, p = 0.049; for connectivity between the left triangular part of
+IFG and IPL: F(1,60) = 2.1, p = 0.031; for connectivity between left SOG
+and MOG: F(1,60) = 1.91, p = 0.050; for connectivity between left
+orbital part of IFG and TPOsup: F(1,60) = 2.15, p = 0.027).
+3.4. Group and task differences in nodal degree
+The results of the group differences in nodal degree are shown in
+Table 4 and Fig. 5, similar as the functional connectivity analysis, we
+regarded ICCs above 0.60 as reliable results. In the rhyming judgment
+task, adults had higher nodal degree than children in the right PHG and
+left postcentral gyrus (PoCG), while children showed greater nodal de
+gree in bilateral anterior cingulum and subcortical areas (putamen and
+pallidum). In the meaning judgment task, adults had higher nodal de
+gree in left TPOmid; in contrast, children showed greater nodal degree in
+right anterior cingulum and subcortical pallidum.
+Similar to task differences in the functional connectivity analysis,
+only adults showed significant task differences in the nodal degree, as
+shown in Table 5 and Fig. 6. Specifically, the rhyming judgment task had
+higher nodal degree than the meaning task in the left SFG, while the
+meaning judgment task had higher nodal degree than the rhyming task
+in the right ANG. However, the two-way ANOVA analysis indicated that
+the group by task interaction effects of these two regions were not sig
+nificant (left superior frontal gyrus, medial orbital part: F(1,60) = 0.57,
+
+Fig. 3. Between-task differences in functional connectivity in adult group. The alpha level for significant task differences was set at p < 0.05 (FDR-corrected). Orange
+nodes and edges refer to the functional connectivity of which the strength is stronger in the rhyming than meaning task, purple nodes and edges refer to the
+functional connectivity of which the strength is stronger in the meaning than rhyming task. RJT, rhyming judgment task; MJT, meaning judgment task; L, left; R,
+right. REC, gyrus rectus; IFGoperc, the opercular part of inferior frontal gyrus; IPL, inferior parietal lobule; IFGtriang, the triangular part of inferior frontal gyrus;
+SOG, superior occipital gyrus; MOG, middle occipital gyrus; ORBinf, the orbital part of inferior frontal gyrus; TPOsup, temporal pole of superior temporal gyrus. (For
+interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+8
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+Fig. 4. Pairs of regions showing significant group by task interaction effects. Functional connectivity strength between left IFGtriang and left IPL, between left
+IFGoperc and left IPL (orange nodes and edges in the upper left conner) were greater in the rhyming task (orange line) than in the meaning task (purple line) in the
+adult group, but showed a reversed pattern in the child group. Functional connectivity strength between left SOG and MOG, between left ORBinf and TPOmid (purple
+nodes and edges in the lower left conner) were greater in the meaning task than in the rhyming task in the adult group, but not in the child group. RJT, rhyming
+judgment task; MJT, meaning judgment task; L, left; R, right. IFGoperc, the opercular part of inferior frontal gyrus; IPL, inferior parietal lobule; IFGtriang, the
+triangular part of inferior frontal gyrus; SOG, superior occipital gyrus; MOG, middle occipital gyrus; ORBinf, the orbital part of inferior frontal gyrus; TPOsup,
+temporal pole of superior temporal gyrus. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+Table 4
+Regions showing significant group differences in nodal degree.
+RJT
+
+A>C
+C>A
+
+MJT
+
+A>C
+C>A
+
+Region
+
+Mean(A)
+
+SD(A)
+
+ICC(A)
+
+Mean(C)
+
+SD(C)
+
+ICC(C)
+
+p
+
+Parahippocampal gyrus.R
+Postcentral gyrus.L
+Anterior cingulate and paracingulate gyri.L
+Anterior cingulate and paracingulate gyri.R
+Lenticular nucleus, putamen.R
+Lenticular nucleus, pallidum.L
+Temporal pole: middle temporal gyrus.L
+Lenticular nucleus, pallidum.R
+Anterior cingulate and paracingulate gyri.R
+
+12.95
+11.89
+11.39
+10.51
+12.24
+10.84
+12.60
+11.15
+11.45
+
+1.88
+2.33
+1.94
+2.06
+1.82
+1.97
+1.82
+1.71
+1.82
+
+0.65
+0.75
+0.68
+0.80
+0.68
+0.88
+0.70
+0.64
+0.73
+
+10.69
+9.65
+13.07
+13.00
+14.13
+13.64
+10.67
+13.99
+13.33
+
+1.89
+2.14
+1.99
+2.02
+1.47
+1.26
+1.59
+1.85
+1.54
+
+0.67
+0.76
+0.60
+0.63
+0.61
+0.60
+0.77
+0.62
+0.70
+
+0.002
+0.001
+0.015
+0.001
+0.032
+0.012
+0.001
+0.001
+0.009
+
+Cohen's d
+
+-
+-
+-
+-
+-
+-
+
+1.20
+1.00
+0.85
+1.22
+1.14
+1.69
+1.13
+1.59
+1.12
+
+Note:Regions with significant group differences in nodal degree in both tasks obtained by two sample T-tests of AUC where curve is degree vs sparsity threshold
+(regressing out IQ and word in noise test scores; FDR-corrected, p < 0.05). RJT, rhyming judgment task; MJT, meaning judgment task; A, adult group; C, child group;
+A_Degree, nodal degree of adults; C_Degree, nodal degree of children; L, left; R, right; ICC(A), intra-class correlation coefficients between even and odd trials of the
+adult group; ICC(C), intra-class correlation coefficients between even and odd trials of the child group.
+
+p = 0.893; right angular gyrus: F(1,60) = 0.83, p = 0.650).
+
+than the mean degree across all nodes in the network) in the functional
+network, as shown in Fig. 7 and Table S4. In these hubs, cortical regions
+occupy the majority of nodes (66.7%). In children, eight regions were
+identified as the hubs in the network, all of them were located either in
+subcortical areas or in insular cortex. In the meaning judgment task,
+there were three hubs in the adult group, with all of them located in
+
+3.5. Group differences in hub distribution
+In the rhyming judgment task, six regions in the adults were iden
+tified as hubs (normalized degree of these nodes were 1.5 SD greater
+9
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+Fig. 5. Between-group differences in nodal degree in the rhyming and meaning judgment tasks. The alpha level for significant group differences was set at p < 0.05
+(FDR-corrected). Red regions refer to the region of which the degree of adults is greater than that of children in both tasks, blue regions refer to the region in which
+degree of children is greater than that of adults in both tasks. RJT, rhyming judgment task; MJT, meaning judgment task; L, left; R, right. PoCG, postcentral gyrus;
+PHG, parahippocampal gyrus; TPOmid, temporal pole of middle temporal gyrus; ACG, anterior cingulate and paracingulate gyri; PAL, pallidum; PUT, putamen. (For
+interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+subcortical regions in children. There was a similar trend in the meaning
+judgment task, that is, 78.9% of hubs in adults were located in cortical
+areas, whereas 57.1% hubs in children were located in subcortical areas.
+We calculated the overlap rates of the hubs across the two tasks for
+adults and children. We found that the overlap rate of hubs in children
+across two tasks (53.4%) was higher than that in adults (48.3%),
+although this difference was not significant (T(34) = - 0.962, p =
+0.343).
+
+Table 5
+Regions showing significant task differences in nodal degree in the adult group.
+
+RJT >
+MJT
+MJT >
+RJT
+
+Region
+
+RJT
+
+ICC
+(RJT)
+
+MJT
+
+ICC
+(MJT)
+
+p
+
+Superior frontal
+gyrus, medial orbital.
+L
+Angular gyrus.R
+
+13.95
+
+0.62
+
+12.82
+
+0.62
+
+0.045
+
+10.04
+
+0.66
+
+10.98
+
+0.61
+
+0.043
+
+4. Discussion
+
+Note:Task differences of nodal degree in the adult group obtained by paired
+sample T-tests (FDR-corrected, p < 0.05). RJT, rhyming judgment task; MJT,
+meaning judgment task; L, left; R, right. ICC(RJT), intra-class correlation co
+efficients between even and odd trials in the rhyming judgment task; ICC(MJT),
+intra-class correlation coefficients between even and odd trials in the meaning
+judgment task.
+
+In this study, we examined the differences in large scale brain
+functional networks between adults and children during two Chinese
+spoken word processing tasks. Specifically, we used rhyming judgment
+and meaning judgment tasks to examine the developmental differences
+in sound-phonology mapping and sound-semantic mapping respec
+tively. The main findings are as follows. First, compared with children,
+phonological processing in adults relied more on the dorsal pathway
+including inferior frontal gyrus and the parietal-temporal area, whereas
+semantic processing in adults relied more on the ventral pathway of
+inferior temporal cortex and occipital areas. Children failed to show this
+dorsal versus ventral dissociation by showing no task difference in both
+functional connectivity and nodal degree, as well as high hub overlap
+rate across the two tasks, suggesting the dual streams for spoken word
+processing becomes more specialized over development. Second,
+compared with adults, both phonological and semantic processing of
+children relied more on Heschl's gyrus and superior temporal gyrus
+involved in basic auditory processing and Rolandic operculum
+
+cortical regions. Children had seven hubs, all of them located either in
+subcortical areas or in insular cortex.
+In the adults, left REC and right PHG are common hubs across the
+two tasks. In contrast, in the children, almost all the hubs of the two
+tasks were overlapping. We calculated an overlap rate of the hubs across
+the two tasks for adults and children. We found that the overlap rate of
+children across two tasks (42.0%) was significantly higher than that of
+adults (26.2%) (T(34) = - 2.065, p = 0.047).
+These results were verified by defining hubs as 1 SD greater than the
+mean degree across all nodes in the network, as shown in Table S5. In
+the rhyming judgment task, cortical regions occupied the majority
+(70.6%) of the hubs in adults, whereas 50% of hubs were located in
+10
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+Fig. 6. Between-task differences in nodal
+degree in the adult group. The alpha level for
+significant task differences was set at p <
+0.05 (FDR-corrected). The orange region re
+fers to the region in which degree in the
+rhyming task is greater than in the meaning
+task, the purple region refers to the region in
+which degree in the meaning task is greater
+than in the rhyming task. RJT, rhyming
+judgment task; MJT, meaning judgment task;
+L, left; R, right. ORBsupmed, superior frontal
+gyrus, medial orbital; ANG, angular gyrus.
+(For interpretation of the references to colour
+in this figure legend, the reader is referred to
+the web version of this article.)
+
+Fig. 7. Hub distribution of the adult and child groups in the rhyming and meaning judgment tasks. The size of nodes represents value of degree. Orange nodes refer
+to rhyming task specific hubs, purple nodes refer to meaning task specific hubs (PoCG.R in the meaning task of the adult group, at the right upper corner), and green
+nodes refer to common hubs in both tasks. A, adults; C, children; RJT, rhyming judgment task; MJT, meaning judgment task; L, left; R, right. ORBsupmed, medial
+orbital part of the superior frontal gyrus; REC, gyrus rectus; INS, insula; PHG, parahippocampal gyrus; PoCG, postcentral gyrus; PAL, lenticular nucleus, pallidum;
+AMY, amygdala; PUT, lenticular nucleus, putamen. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of
+this article.)
+
+implicated in articulation. Finally, children's phonological and semantic
+processing relied more on subcortical regions compared with adults.
+
+phonetic classification (Alho et al., 2016; Osnes et al., 2012), whereas
+the inferior parietal lobule is related to the sensorimotor integration in
+speech production (Hickok & Poeppel, 2007). Both of these regions
+belong to the dorsal pathway in the dual-stream model (Hickok &
+Poeppel, 2004; 2007; Hickok et al., 2011), which is responsible for
+auditory-motor integration. Our finding is consistent with previous
+developmental research on auditory phonological processing, that is, the
+involvement of dorsal pathway in phonological processing increased
+with age, which is not only reflected in the activation of these dorsal
+regions (Booth et al., 2004; Cao et al., 2011), but also reflected in
+
+4.1. Spoken word processing development is characterized by increased
+dissociation between dorsal and ventral pathways
+Adults manifested stronger functional connectivity strength than
+children in the rhyming judgment task between bilateral inferior frontal
+gyri and left inferior parietal lobule. In the process of spoken word
+processing, the inferior frontal gyrus is considered to be related to
+11
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+resting-state functional connectivity strength between these regions
+(Xiao et al., 2016). Moreover, we provided further evidence showing
+that adults had more consistent functional connectivity than children
+between the triangularis and opercular part of the left IFG, indicating
+they had more reliable and less varied phonetic processing.
+As for the meaning judgment task, functional connectivity strength
+between bilateral orbital part of middle frontal gyrus and angular gyrus,
+as well as between right middle occipital gyrus and fusiform gyrus, in
+adults was greater than in children. Additionally, adults depended more
+on the left middle temporal cortex (temporal pole) revealed by age
+differences in nodal degree. Angular gyrus is an important region in
+semantic system and plays a critical role in complex information inte
+gration and knowledge retrieval (Binder et al., 2009). As proposed in
+dual-stream model, the ventral stream mainly includes the middle and
+inferior temporal cortex extending into the angular gyrus, which is
+responsible for the sound to meaning integration (Hickok & Poeppel,
+2004; 2007). Moreover, FCV analysis showed that the functional con
+nectivity strength between the orbital part of left middle frontal gyrus
+and angular gyrus in children was more varied than in adults, indicating
+adults had not only greater but also more consistent connectivity be
+tween the left ORBmid and ANG. It should be noted that we found the
+adult group, compared to the child group, relied more on occipital
+cortex (e.g. greater connectivity strength between middle occipital gyrus
+and fusiform gyrus) in the meaning judgment task. This is consistent
+with previous evidence indicating that the development of processing
+the meaning of Chinese is characterized by increasing reliance on visualspatial processing in the occipital regions (Cao et al., 2009). This might
+reflect experience in reading Chinese. Written Chinese is a logographic
+system, and its orthography indicates meaning systematically. Hence,
+adults with richer written Chinese experience may be able to recruit the
+visual orthographic representation areas to facilitate meaning judgment
+to spoken words (Cao, Brennan, & Booth, 2015).
+We also found that only the adult group showed between-task dif
+ferences in large-scale functional connectivity and nodal degree,
+whereas children did not show a dorsal versus ventral dissociation under
+different task demands. Our data suggest that the development of the
+spoken word processing network is characterized by emergence of the
+specialization of the ventral and dorsal streams. More generally, our
+findings support the interactive specialization perspective of cognitive
+development (Johnson, 2011). The development of a cognitive skill is
+supported by the interaction pattern among multiple brain regions,
+which results in the emergence of specialized brain regions for meeting
+task requirements.
+In general, our results for the adult group are consistent with Hickok
+and Poeppel's model (2007; 2011; 2020). Specifically, in the rhyming
+compared to the meaning judgment task, adults showed greater activity
+in right middle frontal gyrus, and greater connectivity strength between
+bilateral inferior frontal gyri and inferior parietal lobule. Middle and
+inferior frontal gyri, as well as the inferior parietal lobule act as artic
+ulatory hubs in the dorsal stream proposed by Hickok and Poeppel
+(Hickok & Poeppel, 2007; Hickok et al., 2011). However, in the meaning
+compared to the rhyming judgment task, adults manifested greater ac
+tivity in left inferior temporal gyrus and right lingual gyrus, and greater
+connectivity strength between left inferior frontal gyrus and the tem
+poral pole (i.e. superior temporal gyrus). They also showed greater de
+gree in the right angular gyrus. The inferior temporal cortex, temporal
+pole, and angular gyrus are described as regions located in the ventral
+pathway involved in lexical conceptual representations (Hickok &
+Poeppel, 2007; Hickok et al., 2011; Matchin & Hickok, 2020).
+Despite the similarity, there are some differences between our results
+and Hickock and Poeppel's model (2007, 2011, 2020). Our results
+demonstrated that adults showed a greater reliance on occipital regions
+(e.g., greater functional connectivity strength between left middle and
+superior occipital gyri) in the meaning compared to the rhyming judg
+ment task. As indicated earlier, this might due to the characteristics of
+the Chinese writing system, that is, the orthography to semantic
+
+mapping is more systematic than the orthography to phonology map
+ping. Spoken Chinese is also highly homophonic, and therefore, Chinese
+comprehension requires the establishment of mappings between the
+spoken syllables and orthographic word forms (Cao, Brennan, & Booth,
+2015). Of note, Hickok and Poeppel's model is based on brain activation
+indices, while our results are mainly based on functional connectivity.
+Therefore, the slight differences can also be explained by the method
+ological differences, apart from the language heterogeneity.
+4.2. Spoken word processing development is characterized by decreased
+reliance on sensory-motor pathways
+Our findings indicate that spoken word processing in children relied
+more on sensory-motor cortical processing as compared to adults.
+Children had stronger functional connections between left Heschl's
+gyrus and right Rolandic operculum in the rhyming judgment task.
+Similarly, in the meaning judgment task, children had stronger func
+tional connections between bilateral superior temporal gyri and right
+Rolandic operculum. Heschl's gyrus is an important basic acoustic
+processing area (Altarelli et al., 2014; Cardin et al., 2016; Warrier et al.,
+2009), and is involved in prelexical processing of auditory speech (Price,
+2010). The Rolandic operculum is primarily related to the tongue and
+muscle movements involved in oral speech processing and initiation of
+articulation (Brown et al., 2009). Taken together, our findings suggest
+that compared with adults, children relied more on basic auditory pro
+cessing and representations of motor articulation. Dependence on
+frontal motor articulation representations may be a mechanism adopted
+by aging individuals (Du, Buchsbaum, Grady, & Alain, 2016; Tremblay,
+2017), and stutterers (Biermann-Ruben, Salmelin, & Schnitzler, 2005),
+so our results suggest that children adopt a less efficient mechanism for
+spoken word processing.
+Our findings also showed that children's spoken word processing
+relied more on the subcortical articulation pathway as compared to
+adults. For example, all hubs in the children were located in subcortical
+areas in both tasks, and children manifested greater nodal degree than
+adults in putamen and pallidum in both tasks. In addition, children
+compared to adults had greater connectivity strength between right
+putamen and Heschl's gyrus in the meaning judgment task. There is
+growing fMRI evidence showing that the subcortical circuit is involved
+in language processing and learning (Copland & Angwin, 2019; Han
+cock, Richlan, & Hoeft, 2017; Krishnan, Watkins, & Bishop, 2016; Liu
+et al., 2018). Krishnan et al (2016) proposed that the cortico-striatal
+system is responsive to motor and sequential demands in word
+learning, suggesting that striatal activity may be a compensatory
+mechanism in phonological and semantic processing (see Krishnan
+et al., 2016, for a review). This view is supported by a meta-analysis
+reviewing the role of fronto-striatal circuits in reading disorder, which
+proposed that subcortical regions (i.e., putamen, thalamus, and caudate)
+serve as an articulatory compensation to facilitate sound awareness as
+children learn to read. However, by adulthood, the reliance on articu
+latory processing may be diminished by experience (Hancock et al.,
+2017). According to the TRACE model, speech processing involves both
+top-down and bottom-up processing (McClelland & Elman, 1986). There
+is convincing evidence for top-down effects, with studies showing that
+lexical information facilitates speech perception (McClelland et al.,
+2006). This top-down effects seem to increase with age, as children have
+been shown to be less proficient in using top-down processing strategies
+in consonant-vowel syllable perception (Andersson et al., 2008). In line
+with these studies, we argue that the greater reliance on inferior frontal
+and parietal areas in the adult group indicates greater top-down pro
+cessing. However, the reliance on basic auditory and motor processing
+areas in the child group may indicate a bottom-up compensation. Other
+studies have suggested that the sensorimotor system may aid in chil
+dren's word processing (Cychosz et al., 2021). Greater dependency on
+subcortical regions in children than adults has also been reported in
+task-free resting-state studies (Cao et al., 2014; Jolles et al., 2011),
+12
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+
+suggesting this trend may also possibly reflect a domain general devel
+opmental mechanism.
+
+Appendix A. Supplementary material
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.bandl.2022.105149.
+
+5. Conclusions
+
+References
+
+Our study showed that the development of spoken word processing is
+characterized by increased reliance on the dorsal pathway for phono
+logical processing, and increased reliance on the ventral pathway for
+semantic processing, supporting the dual-stream framework (Hickok &
+Poeppel, 2004; 2007), while children failed to show a dorsal versus
+ventral dissociation in the phonological versus semantic task compari
+son. Instead, the children manifested greater involvement of sensorymotor regions than the adults in both tasks, suggesting the develop
+ment of functional neural underpinnings in spoken word processing is
+characterized by increased specialization.
+Limitations and future directions
+There are some limitations in our study. Firstly, the sample size of the
+current study is relatively small, especially in the child group. To reduce
+the impact of this limitation on the replication of the results, we carried
+out a test-retest reliability analysis on the functional connectivity and
+nodal degree measurements. We also demonstrated that the achieved
+statistical power was acceptable (more than 0.70) under the current
+effect size. However, future research should examine whether our re
+sults are robust in a larger sample size. Secondly, to ensure a sufficient
+number of trials, we used correct and incorrect trials to construct the
+functional network. Future work should separate these trial types to
+examine error-related processes for the incorrect trials. Thirdly, our
+cross-sectional study may be affected by cohort effects and did not
+compare children of different ages, so longitudinal studies are needed to
+better characterize the developmental trends in the functional brain
+network of spoken language processing.
+
+Alho, J., Green, B. M., May, P. J. C., Sams, M., Tiitinen, H., Rauschecker, J. P., &
+Jaaskelainen, I. P. (2016). Early-latency categorical speech sound representations in
+the left inferior frontal gyrus. NeuroImage, 129, 214-223. https://doi.org/10.1016/j.
+neuroimage.2016.01.016
+Altarelli, I., Leroy, F., Monzalvo, K., Fluss, J., Billard, C., Dehaene-Lambertz, G.,
+Galaburda, A. M., & Ramus, F. (2014). Planum temporale asymmetry in
+developmental dyslexia: Revisiting an old question. Human Brain Mapping, 35(12),
+5717-5735. https://doi.org/10.1002/hbm.22579
+Andersson, M., Llera, J. E., Rimol, L. M., & Hugdahl, K. (2008). Using dichotic listening
+to study bottom-up and top-down processing in children and adults. Child
+Neuropsychology, 14(5), 470-479. https://doi.org/10.1080/09297040701756925
+Bassett, D. S., Meyer-Lindenberg, A., Achard, S., Duke, T., & Bullmore, E. (2006).
+Adaptive reconfiguration of fractal small-world human brain functional networks.
+Proceedings of the National Academy of Sciences of the United States of America, 103
+(51), 19518-19523. https://doi.org/10.1073/pnas.0606005103
+Bassett, D. S., Nelson, B. G., Mueller, B. A., Camchong, J., & Lim, K. O. (2012). Altered
+resting state complexity in schizophrenia. NeuroImage, 59(3), 2196-2207. https://
+doi.org/10.1016/j.neuroimage.2011.10.002
+Biermann-Ruben, K., Salmelin, R., & Schnitzler, A. (2005). Right rolandic activation
+during speech perception in stutterers: A MEG study. NeuroImage, 25(3), 793-801.
+https://doi.org/10.1016/j.neuroimage.2004.11.024
+Binder, J. R., Desai, R. H., Graves, W. W., & Conant, L. L. (2009). Where is the semantic
+system? A critical review and meta-analysis of 120 functional neuroimaging studies.
+Cerebral Cortex, 19(12), 2767-2796. https://doi.org/10.1093/cercor/bhp055
+Birn, R. M., Molloy, E. K., Patriat, R., Parker, T., Meier, T. B., Kirk, G. R., ...
+Prabhakaran, V. (2013). The effect of scan length on the reliability of resting-state
+fMRI connectivity estimates. NeuroImage, 83, 550-558. https://doi.org/10.1016/j.
+neuroimage.2013.05.099
+Booth, J. R., Burman, D. D., Meyer, J. R., Gitelman, D. R., Parrish, T. B., &
+Mesulam, M. M. (2004). Development of brain mechanisms for processing
+orthographic and phonologic representations. Journal of Cognitive Neuroscience, 16
+(7), 1234-1249. https://doi.org/10.1162/0898929041920496
+Booth, J. R., Burman, D. D., Van Santen, F. W., Harasaki, Y., Gitelman, D. R.,
+Parrish, T. B., & Marsel Mesulam, M. M. (2001). The development of specialized
+brain systems in reading and oral-language. Child Neuropsychology : A Journal on
+Normal and Abnormal Development in Childhood and Adolescence, 7(3), 119-141.
+https://doi.org/10.1076/chin.7.3.119.8740
+Brauer, J., Anwander, A., & Friederici, A. D. (2011). Neuroanatomical prerequisites for
+language functions in the maturing brain. Cerebral Cortex, 21(2), 459-466. https://
+doi.org/10.1093/cercor/bhq108
+Brauer, J., Anwander, A., Perani, D., & Friederici, A. D. (2013). Dorsal and ventral
+pathways in language development. Brain and Language, 127(2), 289-295. https://
+doi.org/10.1016/j.bandl.2013.03.001
+Brown, S., Laird, A. R., Pfordresher, P. Q., Thelen, S. M., Turkeltaub, P., & Liotti, M.
+(2009). The somatotopy of speech : Phonation and articulation in the human motor
+cortex. Brain and Cognition, 70(1), 31-41. https://doi.org/10.1016/j.
+bandc.2008.12.006
+Bullmore, E. T., & Sporns, O. (2012). The economy of brain network organization. Nature
+Reviews. Neuroscience, 13(5), 336-349. https://doi.org/10.1038/nrn3214
+Bullmore, E, T., & Sporns, O. (2009). Complex brain networks: graph theoretical analysis
+of structural and functional systems. Nature Review Neuroscience, 10(3), 186-198.
+https://doi.org/10.1038/nrn2575.
+Cao, F., Khalid, K., Lee, R., Brennan, C., Yang, Y., Li, K., ... Booth, J. R. (2011).
+Development of brain networks involved in spoken word processing of Mandarin
+Chinese. Neuroimage, 57(3), 750-759. https://doi.org/10.1016/j.
+neuroimage.2010.09.047
+Cao, F., Brennan, C., & Booth, J. R. (2015). The brain adapts to orthography with
+experience: Evidence from English and Chinese. Developmental Science, 18(5),
+785-798. https://doi.org/10.1111/desc.12245
+Cao, F., Peng, D., Liu, L., Jin, Z., Fan, N., Deng, Y., & Booth, J. R. (2009). Developmental
+differences of neurocognitive networks for phonological and semantic processing in
+Chinese word reading. Human Brain Mapping, 30(3), 797-809. https://doi.org/
+10.1002/hbm.20546
+Cao, M., Wang, J. H., Dai, Z. J., Cao, X. Y., Jiang, L. L., Fan, F. M., ... He, Y. (2014).
+Topological organization of the human brain functional connectome across the
+lifespan. Developmental Cognitive Neuroscience, 7(16), 76-93. https://doi.org/
+10.1016/j.dcn.2013.11.004
+Cardin, V., Smittenaar, R. C., Orfanidou, E., Ronnberg, J., Capek, C. M., Rudner, M., &
+Woll, B. (2016). Differential activity in Heschl' s gyrus between deaf and hearing
+individuals is due to auditory deprivation rather than language modality.
+NeuroImage, 124, 96-106. https://doi.org/10.1016/j.neuroimage.2015.08.073
+Ciric, R., Rosen, A. F., Erus, G., Cieslak, M., Adebimpe, A., Cook, P. A., &
+Satterthwaite, T. D. (2018). Mitigating head motion artifact in functional
+connectivity MRI. Nature protocols, 13(12), 2801-2826. https://doi.org/10.1038/
+s41596-018-0065-y
+Ciric, R., Wolf, D. H., Power, J. D., Roalf, D. R., Baum, G. L., Ruparel, K., ... Bassett, D. S.
+(2017). Benchmarking of participant-level confound regression strategies for the
+
+CRediT authorship contribution statement
+Xin Liu: Conceptualization, Methodology, Formal analysis, Data
+curation, Visualization, Writing - original draft. Yin He: Data curation.
+Yue Gao: Data curation. James R. Booth: Writing - review & editing.
+Lihuan Zhang: Data curation. Shudong Zhang: Writing - review &
+editing. Chunming Lu: Writing - review & editing. Li Liu: Conceptu
+alization, Supervision, Writing - review & editing.
+Declaration of Competing Interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper.
+Acknowledgments
+This research was funded by the National Natural Science Founda
+tion of China [grant numbers 31970977 and 31571155]; the Beijing
+Brain Initiative of Beijing Municipal Science & Technology Commission
+[grant numbers Z181100001518003]; the 973 Program [grant numbers
+2014CB846103]; the Interdisciplinary Research Funds of Beijing
+Normal University; the Fundamental Research Funds for the Central
+Universities [grant numbers 2015KJJCB28]. This work was also sup
+ported by the National Institute of Child Health and Human Develop
+ment [grant numbers R01 HD042049]. The authors thank Yuan Gao and
+Xiang Gao for programing support.
+Data availability statement
+The data that support the findings of the current study are available
+from the corresponding author upon request.
+13
+
+X. Liu et al.
+
+Brain and Language 231 (2022) 105149
+McClelland, J. L., Mirman, D., & Holt, L. L. (2006). Are there interactive processes in
+speech perception? Trends in Cognitive Sciences, 10(8), 363-369. https://doi.org/
+10.1016/j.tics.2006.06.007
+Murakami, T., Kell, C. A., Restle, J., Ugawa, Y., & Ziemann, U. (2015). Left dorsal speech
+stream components and their contribution to phonological processing. Journal of
+Neuroscience, 35(4), 1411-1422. https://doi.org/10.1523/JNEUROSCI.024614.2015
+Murphy, K., Birn, R. M., Handwerker, D. A., Jones, T. B., & Bandettini, P. A. (2009). The
+impact of global signal regression on resting state correlations: Are anti-correlated
+networks introduced? NeuroImage, 44(3), 893-905. https://doi.org/10.1016/j.
+neuroimage.2008.09.036
+Obleser, J., & Kotz, S. A. (2010). Expectancy constraints in degraded speech modulate the
+language comprehension network. Cerebral Cortex, 20(3), 633-640. https://doi.org/
+10.1093/cercor/bhp128
+Osnes, B., Hugdahl, K., Hjelmervik, H., & Specht, K. (2012). Stimulus expectancy
+modulates inferior frontal gyrus and premotor cortex activity in auditory perception.
+Brain and Language, 121(1), 65-69. https://doi.org/10.1016/j.bandl.2012.02.002
+Power, J. D., Schlaggar, B. L., & Petersen, S. E. (2015). Recent progress and outstanding
+issues in motion correction in resting state fMRI. NeuroImage, 105, 536-551. https://
+doi.org/10.1016/j.neuroimage.2014.10.044
+Preti, M. G., Bolton, T. A., & Van De Ville, D. (2017). The dynamic functional
+connectome: State-of-the-art and perspectives. NeuroImage, 160, 41-54. https://doi.
+org/10.1016/j.neuroimage.2016.12.061
+Price, C. J. (2010). The anatomy of language : a review of 100 fMRI studies published in
+2009. Annals of the New York Academy of Sciences, 1191, 62-88. https://doi.org/
+10.1111/j.1749-6632.2010.05444.x
+Price, C. J. (2012). A review and synthesis of the first 20years of PET and fMRI studies of
+heard speech, spoken language and reading. NeuroImage, 62(2), 816-847. https://
+doi.org/10.1016/j.neuroimage.2012.04.062
+Qi, T., Gu, B., Ding, G., Gong, G., Lu, C., Peng, D., ... Liu, L. (2016). More bilateral, more
+anterior: Alterations of brain organization in the large-scale structural network in
+Chinese dyslexia. NeuroImage, 124, 63-74. https://doi.org/10.1016/j.
+neuroimage.2015.09.011
+Rauschecker, J. P. (2011). An expanded role for the dorsal auditory pathway in
+sensorimotor control and integration. Hearing Research, 271(1-2), 16-25. https://
+doi.org/10.1016/j.heares.2010.09.001
+Saur, D., Kreher, B. W., Schnell, S., Kummerer, D., Kellmeyer, P., Vry, M. S., ... Abel, S.
+(2008). Ventral and dorsal pathways for language. Proceedings of the National
+Academy of Sciences of the United States of America, 105(46), 18035.
+Savva, A. D., Mitsis, G. D., & Matsopoulos, G. K. (2019). Assessment of dynamic
+functional connectivity in resting-state fMRI using the sliding window technique.
+Brain and Behavior, 9(4), 1-29. https://doi.org/10.1002/brb3.1255
+Sporns, O., Honey, C. J., & Kotter, R. (2007). Identification and classification of hubs in
+brain networks. PLoS ONE, 2(10). https://doi.org/10.1371/journal.pone.0001049
+Tremblay, P., Sato, M., & Deschamps, I. (2017). Age differences in the motor control of
+speech: An fMRI study of healthy aging. Human Brain Mapping, 38(5), 2751-2771.
+https://doi.org/10.1002/hbm.23558
+Tzourio-Mazoyer, N., Landeau, B., Papathanassiou, D., Crivello, F., Etard, O.,
+Delcroix, N., ... Joliot, M. (2002). Automated anatomical labeling of activations in
+SPM using a macroscopic anatomical parcellation of the MNI MRI single-subject
+brain. NeuroImage, 15(1), 273-289. https://doi.org/10.1006/nimg.2001.0978
+Wang, J., Wang, X., Xia, M., Liao, X., Evans, A., & He, Y. (2015). GRETNA: a graph
+theoretical. network analysis toolbox for imaging connectomics. Frontiers in Human
+Neuroscience, 9, 386. https://doi.org/10.3389/fnhum.2015.00458
+Warrier, C., Wong, P., Penhune, V., Zatorre, R., Parrish, T., & Abrams, D. (2009).
+Relating structure to function : Heschl' s gyrus and acoustic processing. Journal of
+Neuroscience, 29(1), 61-69. https://doi.org/10.1523/JNEUROSCI.3489-08.2009
+Wechsler, D. (1955). Manual for the Wechsler Adult Intelligence Scale. Psychological
+Corp.
+Wechsler, D. (1974). WISC-R, manual for the Wechsler intelligence scale for childrenrevised. Psychological Corp.
+Xia, S., Foxe, J. J., Sroubek, A. E., Branch, C., & Li, X. (2014). Topological organization of
+the "small-world" visual attention network in children with attention deficit/
+hyperactivity disorder (ADHD). Frontiers in Human Neuroscience, 8, 162. https://doi.
+org/10.3389/fnhum.2014.00162
+Xiang, J., Xue, J., Guo, H., Li, D., Cui, X., Niu, Y., ... Wang, B. (2019). Graph-based
+network analysis of resting-state fMRI: test-retest reliability of binarized and
+weighted networks. Brain Imaging and Behavior, 14(5), 1361-1372. https://doi.org/
+10.1007/s11682-019-00042-6
+Xiao, Y., Friederici, A. D., Margulies, D. S., & Brauer, J. (2016). Longitudinal changes in
+resting-state fMRI from age 5 to age 6years covary with language development.
+NeuroImage, 128, 116-124. https://doi.org/10.1016/j.neuroimage.2015.12.008
+Yan, C., & Zang, Y. (2010). DPARSF: a MATLAB toolbox for "pipeline" data analysis of.
+resting-state fMRI. Frontiers in Systems Neuroscience, 4, 13. https://doi.org/ 10.3389/
+fnsys.2010.00013.
+Zhang, C., Baum, S. A., Adduru, V. R., Biswal, B. B., & Michael, A. M. (2018). Test-retest
+reliability. of dynamic functional connectivity in resting state fMRI. NeuroImage,
+183, 907-918. https://doi.org/10.1016/j.neuroimage.2018.08.021
+Zuo, X. N., & Xing, X. X. (2014). Test-retest reliabilities of resting-state fMRI
+measurements in human brain functional connectomics: A systems neuroscience
+perspective. Neuroscience and Biobehavioral Reviews, 45, 100-118. https://doi.org/
+10.1016/j.neubiorev.2014.05.009
+
+control of motion artifact in studies of functional connectivity. NeuroImage, 154,
+174-187. https://doi.org/10.1016/j.neuroimage.2017.03.020
+Copland, D. A., & Angwin, A. J. (2019). Subcortical contributions to language. In Greig I.
+de Zubicaray, & Niels O. Schiller (Eds.), The Oxford Handbook of Neurolinguistics, (pp.
+850-876). https://doi.org/10.1093/oxfordhb/9780190672027.013.33.
+Ebisuzaki, W. (1997). A method to estimate the statistical significance of a correlation
+when the data are serially correlated. Journal of Climate, 10(9), 2147-2153. https://
+journals.ametsoc.org/view/journals/clim/10/9/1520-0442_1997_010_2147_amtets_
+2.0.co_2.xml.
+Cychosz, M., Munson, B., & Edwards, J. R. (2021). Practice and experience predict
+coarticulation in child speech. Language Learning and Development, 17(4), 366-396.
+https://doi.org/10.1080/15475441.2021.1890080
+David, O., Maess, B., Eckstein, K., & Friederici, A. D. (2011). Dynamic causal modeling of
+subcortical connectivity of language. Journal of Neuroscience, 31(7), 2712-2717.
+https://doi.org/10.1523/JNEUROSCI.3433-10.2011
+Du, Y., Buchsbaum, B. R., Grady, C. L., & Alain, C. (2016). Increased activity in frontal
+motor cortex compensates impaired speech perception in older adults. Nature
+Communications, 7, 1-12. https://doi.org/10.1038/ncomms12241
+Ekman, M., Derrfuss, J., Tittgemeyer, M., & Fiebach, C. J. (2012). Predicting errors from
+recon fi guration patterns in human brain networks. Proceedings of the National
+Academy of Sciences of the United States of America, 109(41), 16714-16719. https://
+doi.org/10.1073/pnas.1207523109
+Everts, R., Lidzba, K., Wilke, M., Kiefer, C., Mordasini, M., Schroth, G., ... Steinlin, M.
+(2009). Strengthening of laterality of verbal and visuospatial functions during
+childhood and adolescence. Human Brain Mapping, 30(2), 473-483. https://doi.org/
+10.1002/hbm.20523
+Fox, M. D., Zhang, D., Snyder, A. Z., & Raichle, M. E. (2009). The global signal and
+observed anticorrelated resting state brain networks. Journal of Neurophysiology, 101
+(6), 3270-3283. https://doi.org/10.1152/jn.90777.2008
+Ge, J., Peng, G., Lyu, B., Wang, Y., Zhuo, Y., Niu, Z., & Hai, L. (2015). Cross-language
+differences in the brain network subserving intelligible speech. Proceedings of the
+National Academy of Sciences of the United States of America, 112(10), 2972-2977.
+https://doi.org/10.1073/pnas.1416000112
+Hancock, R., Richlan, F., & Hoeft, F. (2017). Possible roles for fronto-striatal circuits in
+reading disorder. Neuroscience and Biobehavioral Reviews, 72, 243-260. https://doi.
+org/10.1016/j.neubiorev.2016.10.025
+Hickok, G., & Poeppel, D. (2007). The cortical organization of speech processing. Nature
+Reviews Neuroscience, 8(5), 393. https://doi.org/10.1038/nrn2113
+Hickok, G., Houde, J., & Rong, F. (2011). Sensorimotor integration in speech processing:
+Computational basis and neural organization. Neuron, 69(3), 407-422. https://doi.
+org/10.1016/j.neuron.2011.01.019
+Hickok, G., & Poeppel, D. (2004). Dorsal and ventral streams: A framework for
+understanding aspects of the functional anatomy of language. Cognition, 92(1-2),
+67-99. https://doi.org/10.1016/j.cognition.2003.10.011
+Holland, S. K., Plante, E., Weber Byars, A., Strawsburg, R. H., Schmithorst, V. J., &
+Ball, W. S. (2001). Normal fMRI brain activation patterns in children performing a
+verb generation task. NeuroImage, 14(4), 837-843. https://doi.org/10.1006/
+nimg.2001.0875
+Johnson, M. H. (2001). Functional brain development in humans. Nature Reviews
+Neuroscience, 2(7), 475-483. https://doi.org/10.1038/35081509
+Johnson, M. H. (2011). Interactive specialization: A domain-general framework for
+human functional brain development? Developmental Cognitive Neuroscience, 1(1),
+7-21. https://doi.org/10.1016/j.dcn.2010.07.003
+Jolles, D. D., Van Buchem, M. A., Crone, E. A., & Rombouts, S. A. R. B. (2011).
+A comprehensive study of whole-brain functional connectivity in children and young
+adults. Cerebral Cortex, 21(2), 385-391. https://doi.org/10.1093/cercor/bhq104
+Kotz, S. A., Schwartze, M., & Schmidt-Kassow, M. (2009). Non-motor basal ganglia
+functions: A review and proposal for a model of sensory predictability in auditory
+language perception. Cortex, 45(8), 982-990. https://doi.org/10.1016/j.
+cortex.2009.02.010
+Krishnan, S., Watkins, K. E., & Bishop, D. V. M. (2016). Neurobiological basis of language
+learning difficulties. Trends in Cognitive Sciences, 20(9), 701-714. https://doi.org/
+10.1016/j.tics.2016.06.012
+Liang, X., Zou, Q., He, Y., & Yang, Y. (2016). Topologically reorganized connectivity
+architecture of default-mode, executive-control, and salience networks across
+working memory task loads. Cerebral Cortex, 26(4), 1501-1511. https://doi.org/
+10.1093/cercor/bhu316
+Lidzba, K., Schwilling, E., Grodd, W., Krageloh-Mann, I., & Wilke, M. (2011). Language
+comprehension vs. language production: Age effects on fMRI activation. Brain and
+Language, 119(1), 6-15. https://doi.org/10.1016/j.bandl.2011.02.003
+Lim, S. J., Fiez, J. A., & Holt, L. L. (2014). How may the basal ganglia contribute to
+auditory categorization and speech perception? Frontiers in Neuroscience, 8, 230.
+https://doi.org/10.3389/fnins.2014.00230
+Liu, X., Gao, Y., Di, Q., Hu, J., Lu, C., Nan, Y., ... Liu, L. (2018). Differences between child
+and adult large-scale functional brain networks for reading tasks. Human Brain
+Mapping, 39(2), 662-679. https://doi.org/10.1002/hbm.23871
+Matchin, W., & Hickok, G. (2020). The cortical organization of syntax. Cerebral Cortex, 30
+(3), 1481-1498. https://doi.org/10.1093/cercor/bhz180
+McClelland, J. L., & Elman, J. L. (1986). The TRACE model of speech perception.
+Cognitive Psychology, 18(1), 1-86. https://doi.org/10.1016/0010-0285(86)90015-0
+
+14
+
+

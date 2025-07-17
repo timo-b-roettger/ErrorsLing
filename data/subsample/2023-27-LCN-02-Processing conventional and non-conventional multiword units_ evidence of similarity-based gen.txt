@@ -1,0 +1,1889 @@
+Language, Cognition and Neuroscience
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/plcp21
+
+Processing conventional and non-conventional multiword
+units: evidence of similarity-based generalisation from
+judgements and brain potentials
+Manuel F. Pulido
+To cite this article: Manuel F. Pulido (2023) Processing conventional and non-conventional
+multiword units: evidence of similarity-based generalisation from judgements
+and brain potentials, Language, Cognition and Neuroscience, 38:5, 651-671, DOI:
+10.1080/23273798.2022.2157028
+To link to this article: https://doi.org/10.1080/23273798.2022.2157028
+
+View supplementary material
+
+Published online: 21 Dec 2022.
+
+Submit your article to this journal
+
+Article views: 461
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=plcp21
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+2023, VOL. 38, NO. 5, 651-671
+https://doi.org/10.1080/23273798.2022.2157028
+
+REGULAR ARTICLE
+
+Processing conventional and non-conventional multiword units: evidence of
+similarity-based generalisation from judgements and brain potentials
+Manuel F. Pulido
+Department of Spanish, Italian and Portuguese, Pennsylvania State University, University Park, PA, USA
+ABSTRACT
+
+ARTICLE HISTORY
+
+Language is constantly evolving through speakers' natural innovations. However, our
+understanding of how subtle linguistic innovations are processed is still surprisingly limited. To
+date, most studies investigating processing of non-conventional language have focused on
+metaphors. Using both brain event-related potentials (ERPs) and offline judgements, the present
+study investigated the acceptability, as well as the temporal dynamics, associated with
+processing novel and conventional multiword units. By manipulating both the degree of
+similarity and degree of conventionality, the results revealed that the acceptability of novel
+items hinges on their similarity to known multiword units. ERPs revealed that similarity
+modulated a late positive component (LPC) 550-750 ms after stimulus presentation; this LPC
+was significantly correlated with acceptability. Additionally, processing of novel multiword units
+was not modulated by exposure to related multiword units, indicating that similarity-based
+processing was not dependent on recent prior exposure.
+
+Received 25 July 2021
+Accepted 21 November 2022
+
+1. Introduction
+One important aspect of the architecture of human cognition is that novel information is not only stored but, critically, integrated within a network of existing
+representations (Backus et al., 2016; Bjork & Bjork,
+1992; Gisquet-Verrier & Riccio, 2018; Lindsay & Gaskell,
+2013; Schlichting & Preston, 2015; Tamminen et al.,
+2010; Tulving & Thomson, 1973). Previous research on
+the processing of creative language indicates that
+incoming information is evaluated in real time as
+related (or not) to existing memories, allowing to interpret even input that is novel and unfamiliar (e.g.
+Coulson & Van Petten, 2007; Gentner, 1983, 1988;
+Schlichting & Preston, 2015).
+Production and comprehension of similarity-based
+linguistic generalisation has been proposed to be a key
+mechanism that allows speakers to expand their linguistic knowledge based on relational thinking, in which
+novel and known information become integrated
+(Baayen, 2003; Boas, 2003; Eddington, 2000; Lieven
+et al., 1997). Linguistic innovations are believed to be
+anchored in prior related experience (e.g. Bybee, 2010;
+Goldberg, 2006, 2009), as is their comprehension. For
+example, once familiar with the sentence "they eat the
+cake", a speaker encountering "they eat the ..." will
+expect an edible referent that shares some of the
+
+KEYWORDS
+
+Processing; multiword units;
+collocations; ERPs; analogy;
+similarity; generalisation/
+generalization
+
+semantic properties of related familiar exemplars
+(Altmann & Kamide, 1999). That is, based on knowledge
+of concrete multiword units ("eat the cake") cumulative
+exposure to related exemplars ("eat the cookie"; "eat
+her dinner") gradually gives rise to more abstract representations, (eat + [edible referent]) and, ultimately,
+schematic constructions (verb + direct object) (Ellis &
+Ferreira-Junior, 2009; Goldberg, 2006; Theakston et al.,
+2015). Similarly, knowledge of familiar multiword units
+(e.g. "to order a hamburger") would be thought to
+enable the comprehension of novel utterances, even if
+these are non-conventional and somewhat unexpected
+(e.g. "order the leftovers") by virtue of their semantic
+similarity; in contrast, a non-conventional phrase such
+as "order the concern" is not relatable to any familiar representations, and cannot be immediately interpreted on
+its own. Therefore, it has been proposed that "the probability and acceptability of a novel item is gradient and
+based on the extent of similarity to prior uses of the construction" (Bybee, 2010, p. 57), and specifically "based on
+similarity to frequent, conventionalized sequences"
+(Bybee, 2010, p. 59).
+Nonetheless, the mechanisms that allow for generalisation remain largely unaddressed by empirical studies.
+For example, despite the proposed association between
+novel and familiar representations, it is not clear to what
+
+CONTACT Manuel F. Pulido
+mpulido@psu.edu
+Department of Spanish, Italian and Portuguese, Pennsylvania State University, 442 Burrowes Building,
+16802 University Park, PA, USA
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/23273798.2022.2157028.
+(c) 2022 Informa UK Limited, trading as Taylor & Francis Group
+
+652
+
+M. F. PULIDO
+
+extent the plausibility of novel phrases is modulated by
+the degree of semantic relatedness to known multiword
+units; or whether, e.g. recent exposure to related conventional items is necessary.
+Moreover, our understanding of the temporal dynamics
+of the processing of non-conventional multiword units is
+surprisingly limited, and is only informed indirectly by previous research. For example, a large body of corpus-based
+studies has examined the consequences of linguistic innovation, but this strand of the literature is most concerned
+with the consequences of change long after it has been
+initiated (e.g. Brown & Cortes-Torres, 2012; Eddington,
+2000; Baayen, 2003; Boas, 2003; Bybee & Eddington,
+2006). At the same time, experimental research in cognitive
+neuroscience has explored the temporal dynamics of
+online novel language processing, but this body of work
+has focused on creative language, such as metaphors
+and similes, which are not interpretable in a literal sense
+(in metaphors, e.g. "that lawyer is a shark", "brainwaves
+are stethoscopes"). While potentially relevant, it is not yet
+clear whether the same mechanisms involved in processing metaphorical language underlie the comprehension
+of the type of innovations that are common in everyday
+language usage.
+Understanding the mechanisms that allow to process
+novel input in connection with stored representations in
+real time is of high theoretical importance, as it represents
+the first step of a process in which novel input is transformed into part of the knowledge network. The
+present work seeks to, first, address a gap in the current
+literature by examining the processing of novel multiword expressions that are conventional or not based on
+usage (as indexed by corpus data) (RQ 1). Secondly,
+using behavioural data as well as brain event-related
+potentials, this study seeks to provide insights into the
+time course of processing of novel utterances and generalisation in comprehension (RQ 2). By analysing judgements of multiword expressions and simultaneously
+recorded neurophysiological data, it will examine the
+association between ERPs and behavioural judgements.
+Finally, an additional goal is to explore whether processing of novel phrases is dependent on the recent activation of the related conventional representations (RQ 3).
+The background section that follows will first provide
+a brief overview of the role of similarity and analogybased processing in the comprehension of linguistic
+innovations; and will also summarise relevant previous
+findings on the real-time processing of novel language.
+
+1.1. The role of similarity in linguistic innovation
+Previous research on corpus data has indicated that,
+even by conservative estimates, a large proportion of
+
+word choices are not made spontaneously but are
+instead based on conventionalised multiword units
+(ranging from 30% to 80% depending on the method
+used and type of corpus analysed; Biber et al., 1999;
+Erman & Warren, 2000; Conklin & Schmitt, 2012). This
+highlights two important facts about language usage.
+On the one hand, speakers rely heavily on previous
+experience of conventional language; at the same
+time, there is a large proportion of usage that is nonconventional (i.e. it is "novel") from a quantitative perspective. However, considerable previous work indicates
+that novel language is still not entirely removed from
+prior experience. Rather, evidence indicates that productivity at multiple levels of representation is achieved
+by gradually building upon prior experience through
+"analogy" (Eddington, 2000; Baayen, 2003; Boas, 2003;
+Krott et al., 2001; Bybee & Eddington, 2006).
+An important finding of previous corpus work is that
+the distributional trends in prior usage may account for
+innovative and non-conventional combinations (Boas,
+2003; Brown & Cortes-Torres, 2012; Bybee & Eddington,
+2006). For example, when an infrequent adjective must
+be used, corpus data shows that speakers select one
+verb or the other based on the semantic similarity
+between the known and novel combinations (Boas,
+2003; Brown & Cortes-Torres, 2012; Bybee & Eddington,
+2006; Vergara Wilson, 2014). Semantic similarity has
+been proposed both to enable generalisations as well
+as to constrain them, so that based on older phrases
+such as "to drive someone crazy", variations such as
+"to drive someone insane/up the wall" are possible,
+but "to drive someone intelligent" is not (Boas, 2003).
+This basic analogical mechanism has proven to provide
+a powerful account for generalisation. Such evidence is
+the basis of increasingly influential usage-based
+approaches proposing that knowledge of more schematic, abstract representations (i.e. linguistic "constructions") emerges gradually based on generalisations
+made on initially limited knowledge of concrete exemplars (Bybee & Eddington, 2006; Goldberg, 2003; Kidd
+et al., 2010; Theakston et al., 2015; Tomasello & Brooks,
+1999).
+
+1.2. Online processing of novel language
+The processing of novel language and meaning composition has also received attention from neuroscience
+studies. Much evidence on the time course of meaning
+composition has come from MEG experiments, that
+examined how words combine to form unique meanings (e.g. red + boat) (Bemis & Pylkkanen, 2011; BlancoElorrieta & Pylkkanen, 2016; Ziegler & Pylkkanen, 2016).
+Previous MEG studies have characterised early stages
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+of semantic combination as originating in the left
+anterior temporal lobe within a few milliseconds after
+stimulus exposure (by the first 400 ms, Bemis & Pylkkanen, 2011). However, as noted by Fritz and Baggio
+(2020), there are difficulties in comparing data from
+MEG directly with other neurophysiological methods
+such as EEG, even when the same paradigm is used.
+In an ERP study a paradigm based on previous MEG
+research, Fritz and Baggio (2020) investigated meaning
+composition in adjective-noun phrases, where the
+type of adjective was manipulated. Of relevance to the
+questions explored here was the comparison between
+semantic (i.e. interpretable) phrases vis-a-vis non-semantic phrases containing nonce-adjectives. The results
+showed a composition effect, by which ERPs revealed
+a larger positivity after the noun in interpretable trials
+(such as "current president" or "former president") relative to non-interpretable trials, which contained either
+nonword ("xqprngk president") or non-existing pseudoword adjectives ("tradisk predisent"). The authors
+suggested that the posterior positivity, described as a
+P600 effect, was indicative of semantic composition in
+a post-N400 frame. This proposal seems to fit well with
+views of the N400 as an index semantic access, in
+which access is modulated based on the preceding
+context (Kutas & Federmeier, 2011; Kutas & Hillyard,
+1980, 1984), followed by semantic integration in the
+post-N400 time window (although for views of the
+N400 as indexing integration see, e.g. Hagoort & van
+Berkum, 1481; Van Berkum et al., 1999). The findings of
+the study provided insight into the temporal dynamics
+of semantic composition in ERP data. One limitation of
+this ERP data, however, was the fact that the lack of
+interpretability was based on a comparison with
+nonce-words, instead of implausible combinations with
+real adjectives.
+In an ERP study that examined meaning composition
+employing only real words, Molinaro and colleagues
+(2012) manipulated the likelihood of Spanish noun-
+adjective combinations. In their manipulation, they compared "neutral" plausible adjectives (e.g. monstruo solitario "lonely monster") with "anomalous" implausible
+combinations (monstruo geografico "geographical
+monster"), with the latter eliciting the expected N400
+effect; a third condition contained interpretable lowtypicality adjectives (monstruo hermoso "beautiful
+monster"). Importantly, while the anomalous adjectives
+were implausible, low-typicality adjectives were interpretable, allowing for semantic composition. The
+results revealed a late positive component (LPC, 550-
+750 ms) over frontal electrodes, which was elicited by
+all but the anomalous phrases. The authors suggested
+that the LPC reflected successful semantic
+
+653
+
+combinatorics, and indexed meaning combination of
+non-anomalous noun-adjective pairs.
+One limitation of Molinaro et al.'s (2012) study was
+that the materials were not manipulated based on
+their degree of conventionality in usage (i.e. corpus
+data), nor on the similarity of novel items to conventional phrases. Therefore, the findings cannot speak
+directly to the question of how, and to what extent, processing of novel items was facilitated by knowledge of
+previous representations, or what other mechanisms
+might have played a role. That is, it is yet unclear to
+what degree the processing of novel but non-figurative
+multiword units relies on similarity to previously
+known conventional representations. Examining similarity-based generalisation in literal, rather than metaphorical, language bears important theoretical import
+to linguists, as well as cognitive scientists, concerned
+with the nature of linguistic generalisations and their
+reception in interlocutors who speak the same language.
+While the research on novel language processing
+using ERPs is still scarce, the extant data is also consistent with findings from another body of literature,
+namely, on the processing of non-literal metaphors
+(e.g. Coulson & Van Petten, 2002; Jankowiak et al.,
+2017, 2021; Lai & Curran, 2013; Regel et al., 2010;
+Rutter et al., 2012; Tang et al., 2017a, 2017b; Weiland
+et al., 2014).
+Studies that examined analogical thinking in metaphor comprehension - while different from the focus
+on non-figurative multiword units here - are relevant
+to inform the predictions and methods of the present
+study. Similar to the findings from adjective-noun
+phrases, studies on metaphor processing have reported
+an LPC, often observed within 600-800, that has similarly
+been suggested to be an important index of semantic
+composition during processing of novel language. In
+an early study that investigated metaphor processing,
+Coulson and Van Petten (2002) found that, relative to
+literal items, metaphors elicited an N400 effect (i.e.
+indexing costlier word-level semantic access) as well as
+a late positive component (LPC) over posterior sites,
+which changed polarity (became more negative) over
+frontal electrodes. Relevant to the present study is the
+fact that the LPC was associated with semantic composition in the novel items ("power is a strong intoxicant"),
+relative to literal multiword units ("whiskey is a strong
+intoxicant").
+Subsequent studies on metaphors that employed
+different experimental manipulations have helped
+further characterise the functionality of the LPC (e.g. Jankowiak et al., 2017, 2021; Tang et al., 2017a, 2017b;
+Weiland et al., 2014). For instance, studies have found
+that a LPC is elicited during processing of novel
+
+654
+
+M. F. PULIDO
+
+metaphors (These lobbyists are hyenas) relative to literal
+controls (These carnivores are hyenas) (Bambini et al.
+2016; Weiland et al., 2014). Importantly, the LPC has
+been elicited both in the presence or absence of an
+N400, showing that the two components are independent (Bambini et al., 2016). Using source localisation,
+Bambini et al. (2016) suggested that the LPC effect was
+generated in the right inferior temporal gyrus, which
+has been associated with figurative language processing
+and the interpretation of alternative meanings (Zempleni et al., 2007).
+Taken together, the converging evidence from the
+research on semantic composition in literal and nonliteral (i.e. metaphorical) language points at the LPC as
+a likely correlate of meaning integration in non-conventional expressions. However, previous work did not
+directly investigate the role that the degree of similarity
+between novel and conventional expressions plays on
+the processing of innovative language. This is the
+focus of the experiment reported here.
+
+2. The present study
+The goal of the present research is to investigate the role
+that prior knowledge of conventional multiword units
+plays on the processing of novel language. To do so,
+this study employed ERPs to examine the online processing of verb-noun multiword units in which the noun is
+either related or unrelated to the noun of conventional
+verb-noun collocations. To manipulate the degree of
+relatedness between novel and conventional items, a
+selected set of verbs in multiword units was employed,
+while the nouns in the phrases were selected based on
+their (dis)similarity to the familiar verb-noun collocations. For example, given a conventional sentence in
+Spanish such as pedir una hamburguesa ("order a hamburguer") or lavar el dinero ("launder the money"),
+items containing a semantically related (pedir los carbohidratos "order the carbohydrates"; lavar las ganacias
+"launder the profits") or unrelated noun (pedir el
+dominio "order the domain"; lavar la concentracion
+"launder the concentration") are presented for participants to rate as either acceptable or unacceptable
+phrases in their native language; the novel items (e.g.
+pedir los carbohidratos, pedir el dominio) differ only in
+relatedness, but are matched in their non-conventionality and unpredictability based on corpus statistics (as is
+detailed in Section 3.2). A critical aspect of this design
+is that, while the degree of relatedness of novel items
+will be manipulated, all novel items will be equally
+unconventional, based on frequencies from corpus
+data. By collecting acceptability ratings concurrently
+with EEG data from the same participants, this study
+
+examines the association between neurophysiological
+responses and comprehension of novel multiword
+units.1.
+Furthermore, an additional question of interest, as
+mentioned above, is whether the processing of novel
+phrases is dependent on the recent activation of the
+known base referents to which some novel phrases are
+connected. In particular, while there is some evidence
+of similarity-based analogy in offline judgements
+(Bybee & Eddington, 2006), the claim that novel
+language is facilitated by knowledge of related conventional referents has not been directly tested during
+online processing. To test this assumption, the experimental design will employ a three-block design, consisting of a first block with novel multiword units (e.g. "order
+the carbohydrates"), a second block with related conventional collocations of reference ("order a hamburger"), and a third block in which additional novel
+multiword units will be presented after the related collocations appeared in the previous block (e.g. "order the
+gluten"; the block order of the items - "order the
+gluten/carbohydrates" - will be counterbalanced
+across participants). This design will allow to examine
+whether online processing of novel multiword units is
+facilitated by seeing the related conventional phrase
+that serves as a reference ("order a hamburger") relative
+to the first block, in which they will be presented in the
+absence of a previously activated identifiable referent.
+Grounded in the literature reviewed above, the following research questions were formulated, regarding
+processing in what concerns both online (ERPs) and
+offline measures (acceptability judgements):
+RQ 1: How are plausibility judgements of multiword
+phrases affected by their status as conventional (i.e. "collocational") or unconventional, based on corpus data?
+RQ 2: How is the plausibility of novel phrases affected by
+their degree of semantic relatedness to known conventional collocations?
+RQ 3: How are plausibility judgements of novel phrases
+affected by recent exposure to related phrases?
+
+2.1. Predictions
+RQ 1: How are plausibility judgements of multiword
+phrases accepted by their status as conventional (i.e. "collocational") or unconventional, based on corpus data? In
+behavioural data, there is a clear prediction that collocations should be rated as highly acceptable, given their
+conventional status in the language. Additionally,
+grounded in previous data from corpus-based studies,
+there is a strong prediction that novel related multiword
+units will also be judged as acceptable at a significantly
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+higher rate than novel unrelated multiword units.
+However, it is not entirely clear to what extent related
+but non-conventional items will differ from the conventional items in terms of their acceptability.
+In ERPs, the N400 component is expected to be
+modulated by the conventional status of collocations.
+In familiar collocations (in which the individual words
+in the phrase are statistically associated), the verb facilitates (i.e. primes) the processing of the following noun,
+modulating the N400 component (Pulido & Dussias,
+2020; Pulido, 2021a). Consequently, during processing
+of conventional verb-noun collocations (e.g. "order a
+hamburger"1) the noun should elicit a reduced N400,
+relative to novel items in which the verb cannot facilitate
+processing of an unexpected noun that follows (e.g.
+"order the leftovers", "order the domain"). Importantly,
+because novel related and unrelated items will be
+equally unconventional, no modulation of the N400
+due to priming is expected (i.e. non-conventional
+nouns are by definition unexpected, and will not be
+primed by the preceding verb).
+RQ 2: How is the plausibility of novel phrases affected by
+their degree of semantic relatedness to known conventional collocations?
+In behavioural judgements, the degree of similarity
+between novel and conventional items is expected to
+significantly predict the acceptability rates of individual
+items. To address this question, a dedicated analysis
+will be performed on behavioural judgements for
+novel related and unrelated phrases, to examine the predictive value of semantic relatedness.
+Taking direction from previous ERP studies on
+meaning composition, it is expected that the LPC component (550-750 ms) will be modulated by the degree
+of interpretability of items (Fritz & Baggio, 2020; Molinaro et al., 2012). If the LPC indeed reflects semantic
+integration, as has been previously proposed, it should
+be elicited by interpretable phrases (Molinaro et al.,
+2012); specifically, both conventional collocations and
+novel targets (both of which are plausible) should
+present the LPC, but no LPC should be found in noninterpretable controls.
+Control phrases, which are both unconventional and
+uninterpretable, will provide a critical baseline. That is,
+relative to collocational targets, an anomalous phrase
+such as "control the coffee" should elicit processing
+costs associated with two independent sources: (i) it is
+unconventional and, therefore, unexpected (eliciting
+an N400); (ii) it is implausible, which prevents the semantic integration of the noun following the verb (failing to
+elicit an LPC). To summarise, conventional collocations
+are expected to present a reduced N400 relative to controls, while all novel phrases and their controls are
+
+655
+
+expected to elicit an N400. Target interpretable
+phrases (but not controls) are expected to elicit an LPC
+(Fritz & Baggio, 2020; Molinaro et al., 2012)
+RQ 3: How are plausibility judgements of novel phrases
+affected by recent exposure to related phrases?
+Given the lack of data examining this question
+directly, it is not clear to what extent the related linguistic representations that facilitate semantic processing of
+a novel multiword unit need to be activated, or how
+explicit the connection between the novel and known
+multiword units needs to be.
+Based on previous evidence from studies on longterm semantic priming (Becker et al., 1997; Francken
+et al., 2011; Hughes & Whittlesea, 2003; Was et al.,
+2019), it was hypothesised that cumulative exposure to
+related conventional items in the second block might
+modulate processing in the final block. In this scenario,
+between-block semantic priming would be in line with
+evidence and proposals that greater initial semantic processing demands result in persistent, rather than transient, semantic priming (Becker et al., 1997; Joordens &
+Becker, 1997).
+Seeing the same or related words in a recent time
+lapse is expected to facilitate (i.e. to prime) access to
+the meaning of individual words. Based on this, a
+reduced N400 to the nouns of novel-related phrases
+may be expected in block 3, indexing easier processing
+of the individual words, after processing of semantically
+related phrases. More important to the question at hand
+are potential modulations in later time windows where,
+based on the research reviewed, semantic integration is
+predicted to occur. If an LPC reflecting semantic integration in novel phrases is elicited, this component
+might be modulated in block 3 relative to block 1, indicating greater ease in semantic integration. Alternatively, if semantic integration is effective already in the
+initial block, no significant differences in the LPC will
+be found between blocks 1 and 3. In any event, the
+outcome of ERPs would be expected to mirror the patterns in behavioural data.
+
+3. Materials and methods
+3.1. Participants
+Twenty-three native speakers of Spanish participated in
+the study (13 female, 10 male).2 All participants were
+right-handed, reported normal or corrected-to-normal
+vision, and had no history of neurological disorders.
+The experimental protocol was approved by the university's Internal Review Board. Participants gave informed
+consent prior to beginning the study, and were paid
+
+656
+
+M. F. PULIDO
+
+10 USD per hour of participation or per the corresponding fraction of an hour.
+
+3.2. Materials
+Three types of materials were created: one base list of
+conventional verb-noun phrases (40 items); lists that
+contained acceptable verb-noun phrases, consisting of
+80 novel-related phrases derived off the first list (referred
+to as "targets"); and a final set of 120 novel-unrelated
+control items ("control" items).
+To create the materials, first, (a) a list of 40 target collocations was created. These were developed based on
+twenty initial collocations that were identified, consisting of conventional verb-noun phrases ("pedir una hamburguesa" "order a hamburger"), to which twenty
+additional "sister" collocations were added, consisting
+of the same verb and a semantically related noun
+("pedir una pizza" "order [a] pizza"). Phrases were
+defined as collocations based on t-scores  2.0
+(Hunston, 2002) calculated with data from the Corpus
+del Espanol (Davies, 2016). T-scores were used as they
+have been found to avoid inflation in lower-frequency
+(i.e. less conventional) collocations, relative to mutual
+information scores (for details on these measures see,
+e.g. Evert, 2009); t-scores also allowed for comparability
+to previous recent work on processing of collocations
+behaviourally (e.g. Pulido & Dussias, 2020; Wolter & Gyllstad, 2011, 2013) and with ERPs (Pulido, 2021a). In
+addition to the quantitative (corpus-based) approach
+implemented here, in terms of their semantics, collocations were phrases containing largely non-figurative
+nouns (this is in contrast with idioms, in which referents
+are figurative, i.e. in "spill the beans" no beans are spilt,
+but a secret is revealed; Howarth, 1998). However, while
+the collocations in the materials were selected to have
+non-figurative referents, as noted by an anonymous
+reviewer, some of the resulting items could be construed
+as not being entirely literal; for example, the phrases
+such as "lavar el dinero" ("launder the money"), or
+"pedir los carbohidratos" ("order the carbohydrates')
+would be considered to be less literal than phrases
+such as "pedir los restos" ("order the leftovers') or "publicar una frase" ("publish a phrase"). To control for the
+potential role of literality on acceptability, materials
+were split into four lists and normed by 40 native speakers of Spanish recruited via Prolific (each list was completed by 10 speakers), who were asked to rate the
+literality of each phrase in a scale from 1 to 7, while
+ignoring other aspects such as familiarity, naturality,
+etc. Literality was found to only have a weak-to-moderate correlation with similarity (r = .38, p < .0001); a literality factor is considered in the analysis reported below.
+
+Based on this first list of 40 collocations (a), the rest of
+the materials were created, consisting of (b) two sets of
+novel target phrases (40 items in each set) and (c)
+matched control items for the target collocations and
+target novel phrases in the preceding lists (three
+control lists of 40 items each). Importantly, unlike the
+collocations, novel items and controls were all selected
+to have negative t-scores, indicating that they were
+unconventional word pairs.
+The novel related phrases were formed using the
+same verbs as the target collocations (e.g. "pedir" from
+"pedir una hamburguesa" "order a hamburger") and
+novel nouns that were semantically related to the collocation noun (e.g. based on "hamburger", "leftovers" and
+"gluten" were selected for novel list A, and "carbohydrates" and "protein" for novel list B). These formed
+novel phrases, which were semantically related to the
+base collocation (e.g. "order a hamburger"), but which
+were non-conventional phrases, i.e. had negative collocational (t-score) values. Because target and control
+lists were based on the same individual words recombined, the individual words of control lists were inherently matched on word properties (frequency and
+orthographic length).
+Importantly, target novel-related and unrelated controls were matched in that they were all equally unconventional (all had negative collocational strength) but
+were designed to systematically differ in the degree of
+relatedness of nouns to the base collocations. That is,
+they were selected to be equally unconventional -
+both in terms of usage (log-transformed phrase frequency) and collocational strength (log-transformed tscores) - while manipulating their semantic relatedness.
+This serves the hypothesis that novel phrases with nouns
+related to familiar collocations will be acceptable
+(despite their novelty), while previous knowledge will
+not be generalisable to those with unrelated nouns.
+To create control items, the verbs from the target lists
+were re-combined with a new noun from the same list
+to form unconventional V + NP combinations that were
+semantically unrelated to the base collocations. For
+example, for the target novel phrase "pedir los restos"
+("order the leftovers"), the unrelated control "pedir el
+dominio" ("order the domain") was created, in which
+"hamburger"-"domain" are unrelated. This way, for each
+unconventional but semantically related phrase, a control
+V-det-N sequence was created that was both unconventional and semantically unrelated to the base collocation.
+The semantic relatedness between the nouns in multiword units was measured through Pointwise Mutual
+Information (PMI) scores (Budiu et al., 2007; Bullinaria &
+Levy, 2007; Recchia & Jones, 2009). PMI has been shown
+to be a valid index of semantic relatedness, and to be
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+even more highly correlated to human judgments than
+more computationally intensive measures such as
+Latent Semantic Analysis, when based on large corpora
+(in a corpus of >400 million words correlations with
+human ratings reached up to r = .85; Recchia & Jones,
+2009). PMI scores were calculated based on data from
+the web-based section of Corpus del Espanol (Davies,
+2016), containing over two billion words, allowing to
+derive an index of semantic relatedness between the
+nouns across lists. PMI scores showed that target items
+were semantically similar to the base collocation items,
+while unrelated controls were not (mean similarity score
+for unrelated items: -2.13; SD: 2.11; mean for related
+items: 2.22, SD: 1.62; t(148.14) = -14.66, p < .0001).
+Paired sample materials are shown in Table 1; the full
+set is available in the Supplementary Materials. Descriptive statistics and p-values for similarity (PMI), collocational strength (t-scores), literality, and log-transformed
+V-N phrase frequency are presented in Table S1 of the
+Appendix.
+
+3.3. Procedure
+Participants gave informed consent after arriving in the
+lab. Their linguistic background information was collected through the LEAP-Q (Marian et al., 2007). Participants were set up with an EEG cap and completed a
+plausibility judgement task. Completing this procedure
+took approximately 1 hour.
+The task instructions indicated that participants would
+be presented with a series of phrases that would vary with
+regard to their familiarity, and it was made clear that familiarity was not the focus of the task. Rather, they should
+use a button box to indicate whether they considered
+the phrases to be acceptable (right button) or not (left
+button). For example, a phrase like "read a poem"
+expresses a plausible action and is therefore acceptable,
+while a phrase like "compose a sock" would be considered non-sensical and therefore unacceptable. They
+were told that many items would fall somewhere in
+between these two extremes, and that it was up to
+them to judge whether phrases expressed plausible
+actions or not. None of the example or practice items
+were part of the experimental items.
+During the task, phrases were presented one word at
+a time in a rapid serial visual presentation paradigm
+(RSVP). ERPs were time-locked to the presentation of
+the nouns. In each trial, first, a fixation cross was displayed for 700 ms; it was followed by the verb (400
+ms), which functioned as the prime for the following
+noun (target), and a determiner (250 ms). The target
+noun was displayed for 400 ms, followed by a response
+screen that was presented up to 6,000 ms or until a
+
+657
+
+response was detected, whichever came first. Participants were instructed to blink during a "blinking
+screen" which followed each trial; this served as a
+1,100 ms ITI before the beginning of the next trial, in
+addition to the following fixation cross screen (700
+ms). A sample trial is illustrated in Figure 1.
+The task was divided into three blocks which, based
+on the research questions and the goals described
+above, were made so that Block 1 contained half of
+the novel items (before participants saw any of the
+related collocations); Block 2 contained the conventional
+collocations; finally, in Block 3, participants saw the other
+half of the novel items related to the collocations in
+Block 2.
+To avoid any potential effects of specific novel items
+displayed in Blocks 1 and 3, two versions of the materials
+were used. Novel list A, containing half of the novel
+items, was presented in Block 1 for about half of the participants (11/23, 48%), with the other half appearing in
+Block 3; and Novel list B was presented first in the
+other half (12/23, 52%). This ensured that grand ERP
+averages contained the same novel items before and
+after the collocations were seen (Block 1 vs Block 3).
+Within each block, for target items that shared the
+same verb (recall that each verb appeared twice within
+each list, e.g. "order the leftovers / order the gluten"),
+the second item was not repeated until all other verbs
+had appeared in that block; which of the two items
+appeared first in the block was also counterbalanced
+across participants. Finally, in order to minimise repetition effects between nouns that appeared in both
+targets and controls, the control items were randomised
+across all three blocks of the experiment, so that the
+controls for novel items in a given block (e.g. the first
+block) were distributed across the three experimental
+blocks.
+
+3.4. Analysis
+3.4.1. Behavioural data
+Acceptability judgements from behavioural responses
+were analysed using generalised linear mixed-effects
+modelling, implemented through the lme4 package
+(version 1.1.26; Bates et al., 2007) in R (v. 4.0.2, R Core
+Team). To address research questions 1-2, two separate
+analyses were performed: a model including all items, to
+address question 1; and a dedicated model including the
+effect of similarity in all novel items and their controls, to
+address question 2.
+In a first analysis that followed a factorial approach,
+models were created to consider the effects of fixed
+terms: experimental Block (1: novel items; 2: collocations;
+3: novel items) and item Type (targets vs controls), and
+
+658
+
+M. F. PULIDO
+
+Table 1. Sample base collocations along with related novel multiword units and unrelated controls.
+Targets
+
+Collocational
+strength
+
+Similarity
+
+Controls
+
+Collocational
+strength
+
+Similarity
+
+Base
+pedir una hamburguesa "order
+20.45
+-
+pedir el estres "order the stress"
+-28.65
+-6.68
+collocation
+the hamburger"
+Novel-related
+pedir los restos
+-39.34
+1.55
+pedir el dominio "order the
+-17.37
+-2.98
+list A
+"order the leftovers"
+domain"
+Novel related
+pedir los carbohidratos "order
+-11.01
+4.15
+pedir la preocupacion "order the
+-27.09
+-2.05
+list B
+the carbohidrates"
+concern"
+2 Base
+perder un avion
+4.25
+-
+perder un dano
+-31.49
+-0.63
+collocation
+"miss a plane"
+"miss a damage"
+Novel related
+perder un helicoptero
+-8.56
+7.39
+perder un malentendido
+-4.06
+-0.53
+list A
+"miss a helicopter"
+"miss a misunderstanding"
+Novel related
+perder un viaje
+-11.61
+3.50
+perder un error
+-11.12
+-0.49
+list B
+"miss a journey"
+"miss an error"
+23.33
+-
+controlar el cafe
+-11.13
+-0.96
+3 Base
+controlar el estres
+"control the stress"
+"control the coffee"
+collocation
+Novel related
+controlar la preocupacion
+-8.73
+3.82
+controlar la esencia
+-11.47
+-1.79
+list A
+"control the concern"
+"control the essence"
+Novel related
+controlar la tristeza
+-5.84
+3.57
+controlar la bibliografia
+-6.84
+-1.71
+list B
+"control the sadness"
+"control the bibliography"
+Note. Sample items matched for the base collocation "pedir la hamburguesa" "order the hamburger". Collocational strength is measured in t-scores. Similarity
+scores reflect noun-noun relatedness based on PMI.
+1
+
+their interaction, as well as Collocational strength and
+Trial number. This allowed to examine the effect of collocation status of targets (novel phrases in blocks 1 and
+3, collocations in block 2), as well as the effect of performing judgements before or after being exposed to
+the familiar collocations. Random effects structures
+
+were maximally specified initially (Barr et al., 2013) but
+following attempts that led to overfitting they were simplified. The full final models selected are reported in the
+Supplementary Materials. The initial maximal randomeffects structure included by-subject random slopes for
+Block and Type, and by-item random slopes for Trial
+
+Figure 1. Illustration of the experimental design. The top figure shows the sequencing and timing for a sample trial. The bottom table
+presents the blocked structure of the experiment; the same novel items were assigned to either block 1 or 3, counterbalanced across
+participants.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+number. Because the semantic similarity measure only
+applied to the novel items and controls, but not to the
+collocations, this variable was included in a dedicated
+analysis. Additionally, a literality factor was also
+included,3 as well as an interaction between similarity
+and literality, to control for the possibility that similarity
+might differently affect phrases rated as literal and nonliteral. A backward step-by-step selection procedure was
+followed, in which one variable was removed at a time
+and kept only if it significantly improved the model fit
+(likelihood ratio test p < .05). Continuous predictors
+were centred, and discrete variables were sum-to-zero
+contrast coded. Pairwise comparisons for the fixed
+terms in the selected fit model were performed using
+the emmeans package in R (v. 1.5.0; Lenth & Lenth,
+2018). When reporting the output of the pairwise comparisons,  estimate values reflect log odds ratios,
+rather than the scaled response measure.
+To address research question 2, the second dedicated
+analysis was performed using the same model selection
+procedure, including the novel collocational items and
+their controls, while excluding the collocations. This
+second model tested for the effects of the critical variable of Similarity between the novel items and the collocations, while controlling for Collocational strength and
+Literality. For this second dedicated analysis, the initial
+random effects structure considered by-subject slopes
+for Block, Similarity and Collocational strength, and byitem slopes for item Order.
+The analysis of RTs was conducted employing linear
+mixed-effects modelling on the whole dataset, following
+the same procedure as described for the generalised
+linear mixed-effects model on judgements. Final
+models are provided in the Supplementary Materials.
+
+3.4.2. EEG recording and analysis
+The continuous electroencephalogram signal (EEG) was
+acquired from 32 electrodes mounted in an elastic cap
+(EasyCap; Brain Products, GmbH) and using an ActiChamp amplifier (Brain Products, GmbH) with a 24-bit
+analogue to digital conversion (online sampling rate:
+500 Hz; 0.01-100 Hz band-pass filter). Impedances
+were kept below 5 K. Grounding electrodes were
+mounted on the forehead and beneath the right eye,
+and electrodes were referenced to the right mastoid
+online and re-referenced offline to the average of both
+mastoids. Data pre-processing steps were implemented
+using ERPLAB (Lopez-Calderon & Luck, 2014). Data were
+filtered offline with a 25 Hz low pass and 0.1 Hz high pass
+noncausal IIR Butterworth digital filter. During pre-processing, manual rejection of excessive muscular artefacts
+(EMG) was performed through visual inspection of the
+continuous EEG data, while being blind to the
+
+659
+
+experimental conditions; these included sudden
+voltage deflections consistent with EMG or of
+unknown origin, which could not be attributed to
+blinks, saccades or slow-drift skin potentials. Independent component analysis (ICA) was then performed to
+correct remaining ocular artefacts (Jung et al., 2000).
+The number of components rejected averaged 2.21
+(range: 1-3). Epochs with activity exceeding 100 V
+at any electrode site were automatically removed
+using a peak-to-peak moving window. This resulted in
+loss of 4.45% of the data. Epochs ranging from -200
+to 1000 ms after onset of the noun were extracted. Baseline correction was done relative to pre-stimulus activity.
+Based on the predictions discussed above, the analysis of the EEG data focused on the canonical N400
+window (300-500 ms), and the LPC window (550-750
+ms) identified in studies on novel phrase processing
+review above. Average RTs for button presses did not
+overlap with these time windows (mean RT: 1327 ms;
+SD: 752); in fact, responses were made after the time
+windows of interest in the vast majority of trials (with
+only 12% of responses recorded before 750 ms; over
+99% of responses were made after 500 ms).
+Repeated measures ANOVA were performed for the
+regions of interest, with mean amplitudes as dependent
+variables, and Block (block 1, 2, 3) and item Type (target,
+control) as independent variables. To examine the effect
+of the experimental conditions on the dorsal electrodes
+(Fz, Cz and Pz) Midline ANOVAs were performed including
+Frontality as a predictor (frontal, central, parietal). Lateralised ANOVAs were performed to consider potential differences in ERP activity across groups of electrodes; these and
+included Frontality and Hemisphere (left, right) as predictors, and were conducted on F3, F4, F7, F8, FC1, FC2,
+FC5, FC6, C3, C4, CP1, CP2, CP5, CP6, P3, P4, P7, P8. This
+approach allowed for a topographic description of the
+effects (see similar analytical procedures in e.g. Molinaro
+et al., 2012). Where sphericity violations were found, Greenhouse-Geisser-corrected values are reported. With the goal
+of better characterising the topography of the effects, posthoc pairwise t-tests were performed on each scalp region
+(right frontal: F4, F8, FC2, FC6; left frontal: F3, F7, FC1,
+FC5; right posterior: CP2, CP6, P4, P8; left posterior: CP1,
+CP5, P3, P7); the resulting p-values are FDR-corrected.
+
+4. Results
+4.1. Behavioural data: acceptability judgements
+To remind the reader, the first RQ asked how plausibility
+judgements of multiword phrases would be accepted
+based on their status as conventional (i.e. "collocational")
+or unconventional, as determined by corpus data (see
+
+660
+
+M. F. PULIDO
+
+Methods). It was predicted that collocations should be
+rated as highly acceptable, based on their conventional
+status in the language. As for novel items, it was
+expected that the degree of similarity between novel
+and conventional items would predict the acceptability
+rates. The results of the generalised linear mixedeffects regression revealed main effects of Collocational
+strength, such that an increase in t-scores led to higher
+acceptability (: 0.32, SE: 0.15, p < .05), in line with the
+first prediction; and Type of item, such that targets
+were significantly more acceptable than controls (:
+1.62, SE: 0.13, p < .0001), as predicted for novel items.
+Furthermore, RQ 3 asked whether the plausibility judgements of novel phrases would be affected by recent
+exposure to related phrases. To test this idea, recall
+that novel multiword units were presented before
+(Block 1) or after (Block 3) the related conventional collocations (Block 2). The results revealed also a significant
+interaction of Type and Block. Pairwise comparisons
+computed with the emmeans package indicated that
+novel related multiword units presented in Block 1
+were rated as acceptable at a significantly lower rate
+than the conventional collocations (Block 2) (: -2.27,
+SE: 0.42, p < .0001); similarly, the novel related items in
+Block 3 had lower rating than the collocations (:
+-2.30, SE: 0.42, p < .0001). However, being exposed to
+the semantically related collocation did not significantly
+affect the behavioural responses, as acceptability rates
+were not different for novel items in Block 1 and Block
+3 (: -0.04, SE: 0.12, p = .99). At the same time, novel
+multiword units were rated as acceptable more often
+than their respective controls (Block 1: : 2.55, SE: 0.29,
+p < .0001; Block 3: : 2.52, SE: 0.29, p < .0001). The baseline control items for the different lists did not significantly differ from each other (all ps > .40). The mean
+
+acceptability rates for each condition and block are
+shown in Figure 2. Additional details are provided in
+Table S2 of the Appendix.
+In the dedicated analysis - which was performed on
+novel multiword units and their controls to further examined the effect of similarity - the effect of similarity to
+conventional collocations emerged as highly significant
+(: 0.50, SE: 0.13, p < .0001). There was also a significant
+effect of literality (: 1.09, SE: 0.13, p < .0001). Importantly, no interaction between similarity and literality
+was found, indicating that the effect of similarity did
+not differ for high- and low-literality items. The effect
+of Block was non-significant for novel items in the dedicated analysis (in line with the lack of differences
+between Blocks 1 and 3 in the general analysis), and
+was not selected in the best-fitting model. Other variables considered were non-significant. Figure 3 illustrates the effect of similarity on the average
+acceptability for each item. Items with more extreme
+similarity scores (z-scores greater than  2.5) were
+checked and found to not be overly influential; the
+difference in fits was calculated (i.e. the scaled difference
+between the ith fitted value obtained from the full data
+and the corresponding fitted value obtained by deleting
+the ith observation; Welsch & Kuh, 1977) and all values
+were found to be < .20. Altogether, the pattern of
+results from acceptability judgements aligned with the
+hypotheses at the behavioural level.
+
+4.2. RT data
+The results of linear mixed-effects analysis indicated a
+main effect of Trial on RTs, with faster responses as the
+experiment advanced (: 105.53, SE: 26.98, p < .001).
+There was a main effect of Block, such that the target
+
+Figure 2. Mean acceptability rates for target items in each block and their respective controls. Error bars indicate 95% CIs.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+661
+
+Figure 3. Mean acceptability rates for novel items (targets and controls) as a function of noun similarity to conventional collocations.
+
+collocations presented in Block 2 had faster RTs than the
+novel items in both Blocks 1 (: 68.39, SE: 15.17, p
+< .0001) and 3 (: 71.91, SE: 15.24, p < .0001). There was
+also a significant effect of Type (: 52.84, SE: 17.61, p
+< .01) and an interaction of Type x Block (: 78.95, SE:
+15.15, p < .0001). Follow-up comparisons were performed with the emmeans package to further examine
+this interaction. Similar to the acceptability results, comparisons showed that, while novel items differed from
+collocations presented in Block 2, novel targets presented in Block 1 and Block 3 did not differ from each
+other (: 60.82, SE: 40.3, p = .66), suggesting that processing of novel items was not significantly impacted by
+recent exposure to the related conventional collocations. Further, pairwise comparisons revealed that only
+RTs for collocations differed from their controls (:
+204.87, SE: 49.5, p < .0001) but, importantly, target
+novel items in Blocks 1 and Block 3 did not differ from
+their respective controls (Block 1: : -64.37, SE: 46.6, p
+= .74; Block 3: : 52.22, SE: 46.2, p = .87). In short, collocations elicited faster RTs than all other item categories,
+while the other categories did not differ from one
+another. Importantly, there was no significant difference
+between the novel controls and novel targets that are
+the basis for the LPC effect reported here.
+
+4.3. ERP results
+4.3.1. N400 time window (300-500 ms)
+As discussed in the introduction, N400 modulations
+were expected based on the conventional status of
+
+collocations relative to controls. The results of the
+midline repeated measures ANOVA revealed significant
+effects of Block (F (2, 44) = 3.26, p < .05,  2 = .009), item
+Type (F (1, 22) = 29.07, p < .0001,  2 = .03) and Frontality
+(F (1.31, 28.88) = 21.49, p < .0001,  2 = .11), as well as significant interactions between Block x Type (F (2, 44) =
+6.02, p < .01,  2 = .02), Block x Frontality (F (2.24, 49.17)
+= 4.29, p < .05,  2 = .002), Type x Frontality (F (1.17,
+25.67) = 4.29, p < .05,  2 = .0006), and a three way interaction of Block x Type x Frontality (F (2.59, 57) = 3.19,
+p < .05,  2 = .001).
+The results of the lateralised ANOVA revealed significant effects of item Type (F (1, 22) = 26.24, p < .0001,
+ 2 = .028) and Frontality (F (1.27, 27.93) = 20.4, p
+< .0001,  2 = .09). There were also significant two-way
+interactions between Block and Type (F (2, 44) = 5.57,
+p < .01,  2 = .019), Block and Frontality (F (2.2, 48.37) =
+4.75, p < .05,  2 = .002), Type and Hemisphere (F (1, 22)
+= 15.47, p < .001,  2 = .0008); as well as a three-way interaction between Block, Hemisphere and Frontality (F (4,
+88) = 5.73, p < .0001,  2 = .0002).
+Recall that, for target novel items, no modulation of
+the N400 was expected relative to unrelated controls,
+given that both novel target and control items will be
+equally unconventional (i.e. unpredictable based on
+the preceding word); however, novel targets in Block 3
+might exhibit a reduced N400, indexing easier processing after processing of semantically related phrases in
+Block 2. Post-hoc pairwise comparisons indicated no significant differences between target novel collocations in
+Block 1 and their controls; in contrast, there were
+
+662
+
+M. F. PULIDO
+
+significant differences between target collocations and
+their controls, as well as between novel collocations presented in Block 3 and their respective controls, for all
+midline electrodes and electrode regions, maximal at
+posterior sites (p-values < .001).
+Additionally, there were significant differences
+between novel targets presented in Block 1 and collocations, maximal at posterior electrodes (all p-values < .01).
+In contrast, the comparison between novel items in
+Block 3 and collocations was non-significant at frontal
+sites (p-values > .40) but was significant at Pz over the
+midline (t (22) = -2.97, p < .05), and over left-posterior
+(t (91) = -5.15, p < .0001) than right-posterior electrodes
+(t (91) = -3.53, p < .01).
+Finally, novel multiword units presented in Blocks 1
+and 3 (i.e. before and after seeing the related collocations)
+did not differ at the frontal midline (t(22) = -1.58, p = .24)
+
+but showed significant differences in both hemispheres
+at posterior electrodes (all ps < .01). The significant
+differences between targets and their controls are illustrated in Figure 4, and Figure 5 illustrates the significant
+differences between the different types of target items.
+
+4.3.2. LPC time-window (550-750 ms)
+Based on the literature reviewed above, it was
+hypothesised that effective semantic integration of
+novel multiword units might occur either in the
+absence of priming (Block 1) and/or after recent
+exposure to related collocations (Block 3). The analysis
+of the LPC time-window allowed to address this question by examining modulations of the LPC (or their
+absence) across blocks. In the time-window spanning
+from 550 to 750 ms, the midline ANOVA indicated significant effects of Block (F (2, 44) = 6.76, p < .01,
+
+Figure 4. Grand averages for control and target items divided by block. Scalp plots show the amplitude difference (control - target)
+for the 300-500 ms (N400 effect) and the 550-750 ms (LPC effect) time-windows. Negativity is plotted up.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+663
+
+Figure 5. Grand-average ERPs for all conditions at the midline electrodes and at the right frontal cluster, which is representative of the
+LPC effect. Scalp plots show the amplitude difference for novel items in Blocks 1 and 3 minus collocations (Block 2), for each corresponding time-window (300-500 ms, 550-750 ms). Negativity is plotted up.
+
+ 2 = .023) and item Type (F (1, 22) = 31.36, p < .0001,
+ 2 = .065), as well as significant interactions between
+Block and Frontality (F (2.14, 47.17) = 14.27, p < .0001,
+ 2 = .007), Type and Frontality (F (1.2, 26.4) = 5.2, p
+< .05,  2 = .001), and Block, Type and Frontality (F (2.30,
+50.61) = 12.37, p < .0001,  2 = .006).
+In the lateralised ANOVA, significant effects emerged
+for Block (F (2, 44) = 6.68, p < .01,  2 = .02) and Type (F (1,
+22) = 29.81, p < .0001,  2 = .057); as well as two-way
+interactions for Type x Hemisphere (F (1, 22) = 73.08, p
+< .0001,  2 = .008), Block x Frontality (F (2.07, 45.5) =
+15.02, p < .0001,  2 = .006), Type x Frontality (F = (1.19,
+26.22) = 4.11, p < .05,  2 = .001) and Hemisphere x Frontality (F (2, 44) = 21.73, p < .0001,  2 = .009); three-way
+interactions for Block x Type x Frontality (F (2.22,
+48.93) = 11.64, p < .0001,  2 = .005), Block x Hemisphere
+x Frontality (F (4, 88) = 5.93, p < .001,  2 = .0002); Type x
+Hemisphere x Frontality (F (2, 44) = 22.99, p < .0001,
+ 2 = .001); and a four-way interaction between Block x
+Type x Hemisphere x Frontality (F (2.89, 63.54) = 9.55,
+p < .0001,  2 = .0004).
+Follow-up post-hoc comparisons indicated that novel
+multiword units presented in Block 1 differed from controls at frontal regions (all p-values < .001) but only marginally at Cz (p = .06) and did not significantly differ at
+right and midline posterior sites (all ps > .73). However,
+novel items presented in Block 3 differed from their controls at all sites (all ps < .001). As for collocations, differences with their respective controls were broadly
+
+distributed (all ps < .001) but marginal at Fz (t (22) =
+2.11, p = .07) and absent at left frontal electrodes (t
+(91) = 0.59, p = .60).
+Beyond controls, comparisons of target items showed
+differences between Block 1 novel items and collocations at central and posterior electrodes (ps < .01), but
+not over frontal electrodes (ps > .19). Similarly, novel
+items presented in Block 3 were significantly different
+from collocations at parietal electrodes as well as over
+left frontal electrodes (all ps < .05), but not at the
+midline and right frontal regions. Novel multiword
+units presented during Block 1 and Block 3 significantly
+differed only at posterior electrodes (all ps < .01) and not
+over frontal electrodes.
+
+4.3.3. Dedicated analysis on the effect of time on
+target items
+While novel items were presented to participants in
+Blocks 1 and 3 in a counterbalanced fashion, a simple
+between-block comparison does not control for the
+effect of time within the experiment. Therefore, a
+linear mixed-effects regression was performed on the
+target items to assess whether differences in the N400
+amplitude of novel targets in Block 3 (relative to Block
+1) were due to (a) exposure to related collocations in
+Block 2; or (b) whether the attenuated N400 in Block 3
+might just reflect an effect of "time", reflecting cumulative semantic priming on individual words, rather than an
+effect on processing novel multiword units.4 The
+
+664
+
+M. F. PULIDO
+
+dependent variable was the N400 amplitude at the posterior electrodes that revealed between-block differences (i.e. the left and right posterior regions and Pz).
+The model allowed to examine the effect of time (i.e.
+Trial Order) as a continuous predictor based on the
+order of presentation of items for each participant, in
+addition to the effect of Block (1, 2 or 3); random intercepts for subjects and items were included. The results
+indicated a significant effect of Trial Order ( = 0.19, SE
+= 0.041, p < .0001). Relative to the first block, there was
+a significant effect for collocations in Block 2 ( = 0.75,
+SE = 0.18, p < .0001) but, importantly, there was no significant difference for novel items in Block 3 ( = 0.17,
+SE = 0.10, p = .11), indicating that variability in the
+N400 of Block 3 was accounted for by the effect of
+Trial Order alone.
+
+4.3.4. Correlational analysis between behavioural
+judgements and ERPs
+Finally, after performing the analyses related to the
+research questions, an exploratory correlational analysis
+was conducted with the aim of investigating the connection between neurophysiological responses and behaviour. The assumption in examining ERP effects is that
+the modulations in brain waves reflect the effect of processing interpretable novel phrases, relative to controls,
+within each individual. While a critical assumption, no
+previous ERP studies examining processing of non-conventional language seemed to have investigated the
+association of acceptability rates and ERP modulations.
+Evidence of this correlation would provide further
+support to an interpretation of a given component as
+reflective of analogy-based generalisation. Importantly,
+because processing of conventional collocations is also
+known to be affected by familiarity, the correlational
+analysis focuses on novel targets and controls, which
+were matched on their phrase frequency and (non)conventionality.
+To investigate this idea, two steps were taken. First,
+the neural correlates of behaviour should, of course,
+exhibit at least the same significant differences (or
+absence thereof) as the results of acceptability judgements, as illustrated in Figure 2. That is, plausible electrode regions of interest might show a pattern in ERPs
+that matches the behavioural pattern: (i) Target items
+should differ from controls; at the same time, (ii) target
+items in Blocks 1 and 3 should not differ among each
+other. Based on the results of the ERP analysis reported
+in the previous section, this pattern was only matched
+by the LPC during the 550-750 ms, and particularly at
+right frontal electrodes.
+Secondly, once the target component and electrode
+region were identified, the correlational analysis was
+
+conducted based on each participant's average mean
+ERP amplitude in the 550-750 time-window and individual participants' acceptability ratings per condition.
+Given that the correlation included repeated measures
+(i.e. it included each participant's mean for targets in a
+given block as well as their mean for controls), a
+repeated measures correlational analysis was performed
+with the rmcorr package (Bakdash & Marusich, 2017)5;
+while common correlation techniques (e.g. Pearson,
+Kendall, Spearman) assume independent observations,
+repeated measures correlation (Bland & Altman, 1995a,
+1995b) evaluates the intra-individual association
+between two measures, and provides the best linear fit
+for each participant. While the prediction was stronger
+for the right frontal region, comparisons were also considered for amplitudes from the left frontal region, as
+well as right and left posterior regions. The resulting
+FDR-corrected p-values revealed a significant positive
+correlation between the mean amplitudes in the right
+frontal region (550-750 ms) and behavioural judgements for both the first block (rrm = .70, p < .001) and
+the last block (rrm = .76, p < .0001), as illustrated in
+Figure 6; over left frontal electrodes, the correlation
+reached significance (block 1: rrm = .46, p < .05; block 3:
+rrm = .44, p < .05). Over parietal electrodes, results were
+non-significant for block 1 (all p values > .09); they
+were significant for block 3 for the other electrode
+regions (right posterior rrm = .73, p < .001; left posterior:
+rrm = .58 p < .01).
+In summary, the correlational analyses showed that
+only voltages in the right frontal region were consistently correlated with behavioural responses across the
+experiment. This finding helps define the topography
+of the neural correlates of analogy-based generalisation,
+suggesting that the right frontal effect observed in the
+550-750 ms window (LPC) plays a role in the integration
+of novel representations.
+
+4.3.5. Post-hoc analysis of early time window
+While the hypotheses formulated above were guided by
+previous work in this area that examined modulations of
+the N400 and LPC components, these components analyzed here reflect relatively late processes. Other ERP
+work has indicated that the semantic context may
+influence linguistic processes already within the first
+200 ms following the onset of the critical word stimulus
+(e.g. Penolazzi et al., 2007), and at least one study found
+evidence of early modulations during processing of multiword units (by 250 ms; Tremblay & Baayen, 2010). To
+examine this possibility, an exploratory post-hoc analysis
+of timepoint-by-timepoint modulations between 100
+and 250 ms was conducted for each of the three
+blocks. A mass-univariate analysis was performed with
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+665
+
+Figure 6. Correlation of right-frontal ERP amplitudes (550-750 ms) and novel phrase acceptability ratings. Each datapoint represents
+the mean voltage for Block 1 and Block 3 novel target items, and their respective controls. The dashed grey line represents the overall
+correlational slope; thinner solid lines connect the two data points (means of targets and controls) of each individual participant.
+
+the MUT toolbox (Groppe et al., 2011) on ERP data downsampled to 4 ms bins. The Benjamini & Yekutieli (2001)
+procedure for control of the false discovery rate (FDR)
+was applied to assess the significance of each test
+using an FDR level of 5%. However, no significant differences between targets and controls were detected at
+any time point, indicating no modulations before 300-
+500 ms.
+
+5. Discussion
+Previous work has provided compelling evidence for a
+role of analogy in linguistic innovation (e.g. Boas, 2003;
+Brown & Cortes-Torres, 2012; Bybee & Eddington, 2006;
+Goldberg, 2006). However, there is a lack of psycholinguistic research examining how novel language is processed by native speakers (with the exception of work
+on metaphors, e.g. Arzouan et al., 2007; Coulson & Van
+Petten, 2002; Tang et al., 2017). The present study investigated the processing of novel multiword units that
+differed systematically in their relatedness to previous
+linguistic representations. By systematically manipulating the relatedness and conventionality of multiword
+units based on corpus data, the experiment reported
+produced a number of novel results derived from behavioural and ERP data. These are discussed in turn.
+
+5.1. Acceptability judgements (behavioural data)
+The design employed here, in which novel multiword
+units were presented before or after a block containing
+related conventional collocations, allowed to address
+the first three research questions based on behavioural
+data. Research question 1 asked how plausibility judgements of multiword phrases were affected by their
+
+collocational status. Based on previous work, there was
+a strong expectation that the conventionality (i.e. "collocational status") of multiword units would elicit high
+acceptability rates relative to non-conventional multiword units. This was indeed the case, with conventional
+multiword units averaging 93% acceptability, while
+related non-conventional units averaged 63% acceptability (mean acceptability for controls was 25%). While
+this result was expected, a key question concerned to
+what extent the plausibility of novel phrases was predicted by their degree of semantic relatedness to
+known conventional collocations (RQ 2). The results
+revealed a highly significant effect of similarity, indicating that the acceptability rates of novel multiword
+units were in fact predicted by the degree of semantic
+relatedness of novel items with familiar (i.e. collocational) multiword units. Additionally, literality did help
+account for additional variation, with higher literality
+predicting higher acceptability rates. But, importantly,
+literality did not interact with similarity, indicating that
+there were no differences in the effect of similarity
+among more and less literal items. In short, the behavioural results of the judgement task revealed that nonconventional multiword units are acceptable to speakers
+to the extent to which units are semantically related to a
+previously known (i.e. conventional) collocation, revealing a gradient effect of the similarity between old and
+novel units (illustrated in Figure 3).
+Further, a question addressed by the behavioural
+data was how the plausibility judgements of novel
+phrases would be affected by recent exposure to
+related familiar phrases. Recall that novel items were
+counterbalanced across participants, in order to
+examine how the processing of novel items was
+affected by being previously exposed (or not) to a
+
+666
+
+M. F. PULIDO
+
+related conventional collocation. The results of the initial
+block showed that, even in the absence of other facilitatory cues - such as the related collocation - novel items
+related to collocations were recognised as largely acceptable (63%), while unrelated controls were not (reaching
+only 25% acceptability on average). The data from the
+third block allowed to address this question directly.
+The results of judgements in a final block showed that
+acceptability rates did not differ - and were in fact
+remarkably stable - even after participants had been
+exposed to the associated conventional collocations
+during the preceding block. That is, the comparison of
+judgements in the first and third block provided compelling evidence that, while the relatedness of novel multiword units to known collocations was an important
+condition for the acceptability of novel items, this association did not need to be made explicit or facilitated in
+any way. In fact, seeing the related collocations in
+Block 2 produced no effect in participants' judgements
+during Block 3. Based on this, the behavioural data
+would thus seem to suggest that similarity might
+operate at an implicit level, without the need for participants to be explicitly aware of the connection between
+novel multiword units and prior linguistic
+representations.
+
+5.2. Online processing of novel and conventional
+items
+The results of the ERP analysis provided additional
+insights into the time course of processing of novel multiword units. One overarching question concerns how
+the processing of conventional items differs from the
+processing of novel items. Based on previous studies,
+the ERP analysis focused on the N400 component, as a
+correlate of semantic access/integration; and the LPC,
+believed to index post-lexical integration. In the
+present paradigm, a clear prediction was made by
+which effects of individual words - i.e. priming effects -
+would result in modulations of the N400; while integration costs associated with the meaning of the
+whole multiword unit would modulate the LPC. That is,
+because a noun becomes more expected when it is
+part of a conventional phrase, the collocations presented in Block 2 were predicted to elicit an attenuated
+N400 relative to controls. This is in line with previous ERP
+studies on collocational priming, where the first word in
+the phrase (e.g. the verb) acts as a prime, facilitating processing of the following word (Pulido & Dussias, 2019;
+Pulido, 2021a; Siyanova-Chanturia et al., 2017). As predicted, the ERPs showed that relative to non-conventional multiword units, which elicited an increased
+N400, conventional collocations produced a reduced
+
+negativity component within the same time window.
+That is, the N400 was sensitive to the expectedness of
+the nouns in conventional phrases based on the experimental manipulation.
+When considering the data from the initial block,
+which contained novel related and unrelated multiword
+units, no N400 modulation was observed. Importantly, in
+Block 1 novel targets and controls were equally unexpected, but nouns in novel targets were easier to integrate relative to implausible controls, as indicated by
+behavioural data. That is, consistent with the view that
+the N400 reflects predictability based on the preceding
+context (Kutas & Federmeier, 2011; Kutas & Hillyard,
+1980, 1984), no differences should emerge between
+the two sets of equally unexpected multiword units
+(i.e. novel targets and novel controls). This prediction
+was supported by the data.
+On the other hand, couched within the view of the
+LPC as an indicator of ease of integration (Brouwer
+et al., 2012; Juottonen et al., 1996; Neville et al., 1993),
+differences should subsequently be observed between
+novel related and controls. This was indeed the case.
+The present pattern of results therefore characterised
+the time-course of novel multiword processing in a
+manner consistent with previous findings. The ERP
+data suggests that there is an initial cost in lexical
+access upon first encountering a novel multiword unit
+(N400 time window), regardless of its plausibility.
+During subsequent post-lexical processing (LPC time
+window) novel expressions are evaluated against the
+existing lexical networks (which includes familiar multiword units). As the results showed, higher similarity
+between known and novel expressions resulted in an
+enhanced LPC effect.5.
+Altogether, the results support a two-step view of
+multiword processing, in which first the N400 is modulated by context expectancy based on prior lexical representations (at the word and multiword level), which
+facilitate (or not) lexical access (Kutas & Federmeier,
+2011; Kutas & Hillyard, 1980, 1984); the data add to
+prior evidence that, following the N400 time window,
+semantic integration of phrasal meanings is reflected
+in the LPC window (Fritz & Baggio, 2020; Molinaro
+et al., 2012).
+
+5.2.1. The LPC indexes semantic integration of
+novel input "on the fly"
+An important research goal was to examine how the
+real-time processing of novel phrases was affected by
+their relatedness to familiar collocations, as reflected in
+neurophysiological responses (RQ 2). This idea was
+grounded in the proposal of usage-based approaches
+that similarity between novel and previously known
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+multiword units drives acceptability (e.g. Bybee, 2010;
+Bybee & Eddington, 2006). Recall that, in contrast with
+previous studies on metaphor processing, in which conditions differed both in their conventionality and ease of
+interpretation, the design employed here matched all
+novel items (targets and controls) in unconventionality,
+while manipulating their degree of relatedness to familiar representations. This way, the design allowed to
+examine modulations in components related to semantic integration only. The results of the ERP analysis identified this component as an isolated LPC, which emerged
+in the absence of an N400 (Block 1); that is, relative to
+controls, processing of the novel multiword units presented in Block 1 elicited an isolated LPC over rightfrontal electrodes. This way, the results replicate previous data showing that the LPC can be elicited independently from the N400 (i.e. in the results of Block 1). The
+LPC and its scalp distribution is also congruent with
+the results reported by Molinaro and colleagues (2012),
+in perhaps the most directly comparable previous study.
+Was similarity, then, responsible for modulations in
+the online processing of novel phrases, beyond behavioural responses of acceptability? The finding that the
+relatedness manipulation elicited an isolated LPC indicated that similarity did in fact modulate online processing. The modulations in the LPC, which was significantly
+more negative only in uninterpretable controls (e.g.
+"order the domain") that were rated as implausible,
+allowed to establish a correspondence between ERPs
+and acceptability ratings. Importantly, this interpretation
+was corroborated by the follow-up correlational analysis.
+The repeated measures correlation tested the idea that
+more positive LPC amplitudes would be associated
+with greater acceptability rates for an individual participant, while more negative waves would be correlated
+with lower ratings. The results showed a moderate-tostrong, highly significant positive correlation, indicating
+a direct association between individual participants' LPC
+amplitudes and their individual acceptability of novel
+items. The finding provided clear evidence of the LPC
+as a correlate of processing costs associated with
+forming meaning representations that require integration of the elements in a multiword unit. The association between the LPC component and acceptability in
+ratings seems to provide neurophysiological evidence
+for a semantic integration mechanism "on the fly".
+This pattern of results fits well within usage-based
+accounts that posit a preeminent role of prior linguistic
+experience in how incoming input is processed and integrated (or not) within existing lexico-semantic representations. The finding that novel but similar phrases
+elicited both an enhanced LPC and higher acceptability
+provides strong support to the role of similarity posited
+
+667
+
+by usage-based linguists. In these accounts, similarity
+provides a mechanism for the system to grow and to
+incorporate novel input based on pre-existing representations. The present study provides a first step in the
+empirical exploration of the idea that semantic integration of novel phrases impacts processing in the
+short-term. Additionally, the findings provide a potential
+gateway for the integration of novel input in long-term
+representations, which would allow the linguistic
+system to grow, one phrase at a time, through the
+exploitation of the two aspects manipulated here:
+partial lexico-syntactic overlap (through the shared
+verb in known and novel units) and similarity of the
+non-overlapping material to previous representations.
+It should be noted that there are some differences
+among previous ERP studies that examined the processing of novel language, and also with the present
+study. For example, Jankowiak et al. (2021) reported an
+LPC during processing of metaphors in short sentences
+(e.g. "Love is a monastery") that included a finite verb
+form, whereas the present study employed non-finite
+phrases ("order the carbohydrates"). As a reviewer
+noted, the LPC is typically reported during sentence
+reading, and the proposed interpretation of the LPC in
+the present results should be further validated. At least
+one other ERP study that examined semantic composition employed determiner-adjective-noun phrases
+with no verbs (Fritz & Baggio, 2020). The authors found
+a slightly earlier effect (450-700 ms) with a posterior distribution, which was interpreted as a P600 elicited by the
+processing of verb-less phrases. Given the novelty of the
+present results, further data will be needed to better
+understand the sources of variability in timing and
+scalp topography of the functionally related neurophysiological responses reported to date.
+
+5.2.2. The effect of prior exposure to conventional
+collocations
+The data from Block 3 allowed to address an additional
+research question: How is the real-time processing of
+novel phrases affected by the recency in activation of
+familiar collocations? (RQ 3).
+First, the results of the ERP analysis revealed an attenuated N400 in Block 3; however, this reduced amplitude was accounted for by the effect of time (i.e. trial
+order). Importantly, the N400 in Block 3 was still significantly more negative than for the conventional collocations in Block 2, indicating no significant differences
+between Block 3 and Block 1, after accounting for the
+effect of time.
+More relevant to the question of semantic integration
+was the finding that the LPC amplitudes in the final
+block did not significantly differ from those in the first
+
+668
+
+M. F. PULIDO
+
+block; in other words, while the N400 was modulated in
+processing novel items in Block 3 relative to Block 1, the
+LPC did not show significant differences. This lack of
+differences in the LPC would seem to indicate that
+exposure to the conventional collocations in the prior
+block did not affect how well the novel-related items
+could be comprehended in the final block. Remarkably,
+this pattern mirrored the ratings for acceptability,
+which indicated that novel-related items were not considered more acceptable even after participants were
+exposed to related items that likely made them more
+predictable. Therefore, to conclude, based on the
+pattern of results reported, a tentative answer to this
+question is that prior exposure to the related conventional collocations was not necessary, nor did appear
+to influence, processing of the novel target items at
+the behavioural nor at the neurophysiological level.
+Because the present data allow to address this question
+for the first time, to the best of the author's knowledge,
+additional research will be needed to further test this
+interpretation.
+
+5.2.3. Future directions and limitations
+The current work presents one of the first attempts to
+investigate processing of non-conventional multiword
+units (although see e.g. Bybee & Eddington, 2006, for
+evidence from acceptability judgements) and to investigate generalisation based on similarity. Future work may
+explore alternative empirical operationalisations of similarity, as well as consider other types of semantic association (such as hypernymy, hyponymy, metonymy, etc.)
+and language-specific semantic categories.
+The results reported shed light on the question of
+generalisation of multiword units, but some questions
+remain. For instance, even though the present data
+revealed a highly significant effect of similarity (and literality), there was still unexplained variation in the
+behavioural and ERP responses to the items tested, as
+would be expected. Future work will be needed to identify additional factors that may have modulated processing in the present data. A possible source of variation
+in the data may be related to other associations within
+the lexicon. In the present approach, novel items were
+assessed in terms of their similarity to one familiar collocation. It is certainly possible that a novel item may have
+been dissimilar to the base collocation used as reference,
+but perhaps similar to other collocations. Although there
+is no simple solution to this issue, more computationally
+intensive approaches may allow to compare a novel
+item to a broader network of collocations, situating it
+within a larger multiword inventory. While these ideas
+go beyond the goals and the present work, they open
+up interesting avenues to be explored in future studies.
+
+6. Conclusion
+The present study shed light on processing of non-conventional multiword units, which were manipulated with
+regards to their similarity to conventional collocations.
+The results of behavioural judgements and ERPs
+showed that, even in the absence of any overt cues, processing of novel multiword units was automatically
+facilitated through implicit intra-lexical associations to
+prior representations. Following exposure to a block
+containing familiar collocations, the results showed not
+modulation in acceptability ratings or ERPs; i.e. results
+did not differ between Blocks 1 and 3, indicating that
+novel multiword units are accepted based on similarity
+to previously known units, even in the absence of a facilitatory context. The ERP results identified the LPC (elicited between 550 and 750 ms) as a
+neurophysiological correlate of semantic integration in
+multiword units. The LPC was not only modulated by
+similarity to previously known collocations but, importantly, was shown to be significantly correlated with
+acceptability rates. Altogether, the findings help
+expand our the currently limited understanding of
+how prior linguistic experience influences the temporal
+dynamics of processing novel multiword units.
+
+Notes
+1. As one of the first approximations to the processing of
+novel multiword units, the present study examined processing when novel phrases are presented in isolation.
+This type of decontextualization is a common approach
+in the psycholinguistic literature, which has often begun
+to examine effects of target lexical items in isolation, to
+then examine them in context; see for example work on
+cognates in isolation (e.g., Gerard & Scarborough, 1989;
+Sanchez-Casas et al., 1992) and only subsequently in
+sentences (Bultena et al., 2014; Van Assche et al.,
+2013); or of second-language collocations in isolation
+(e.g., Wolter & Gyllstad, 2011) and then in context (e.g.,
+Vilkait & Schmitt, 2019; Pulido, 2021b).
+2. This sample yielded 920 trials per condition and block in
+the present study, which is comparable to (and exceeds
+several) previous ERP studies that examined semantic
+integration (ranging from 375 to 990 trials per condition
+in e.g., Arzouan et al., 2007; Coulson & van Petten, 2002;
+Molinaro et al., 2011; Rutter et al., 2012; Tang et al.,
+2017).
+3. Phrases with average literal ratings greater or smaller
+than the scale midpoint (3.5 out of 7) were categorized
+as literal and non-literal, respectively.
+4. The author is grateful to an anonymous reviewer and the
+handling editor for suggesting this. The trial numberbased analysis was possible because unique trigger
+numbers were coded for targets at the time of creating
+the experiment (but not for individual control items).
+5. Because individual ERP triggers were not available for
+each individual item in the experiment, the correlational
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+analysis had to be performed on per-participant
+averages. This allowed to test the direct association
+between individual ERP amplitudes and individual judgement rates for subsets of multiword units. Rmcorr is
+ideal for this type of analysis, as it "is used to determine
+the relationship between the two continuous variables,
+while controlling for the effect of the categorical variable, which in this case is the between-participants variance" (ibid: 3). An interesting alternative for future
+studies will be to investigate the association between
+properties of individual multiword units and the EEG
+responses.
+5. Since the effect of block still persisted even after including trial order in the analysis, this provides increased
+confidence on the effect of block on the N400. Notwithstanding this, the present study may have been limited
+in its ability to fully disentangle the effect of block from
+the effect of exposure; this is an aspect that should be
+addressed and replicated in further research.
+
+Acknowledgements
+The author is grateful to Dr. Olaf Hauk as the action editor and
+to three anonymous reviewers for helpful comments. Thanks
+to Anna Northcott, Tanya Wang, Katrina Connell and Laura
+Rodrigo for help with data collection; to Christian NavarroTorres for comments on an earlier version of this manuscript;
+and special thanks to Giuli Dussias for her feedback and
+support.
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+Funding
+This work was supported by NSF under grant BCS-1844188 and
+by a RGSO grant from the Liberal Arts College at Penn State.
+
+Supplemental materials
+The materials and data associated with this article are
+available
+at
+https://osf.io/zq5rn/?view_only=
+6bf878b0e4b749c38cd783a6b82420a2
+
+ORCID
+Manuel F. Pulido
+
+http://orcid.org/0000-0002-8179-2593
+
+References
+Altmann, G T, & Kamide, Y. (1999). Incremental interpretation at
+verbs: Restricting the domain of subsequent reference.
+Cognition, 73(3), 247-264.
+Arzouan, Y., Goldstein, A., & Faust, M. (2007). Brainwaves are
+stethoscopes: ERP correlates of novel metaphor comprehension. Brain Research, 1160, 69-81. https://doi.org/10.1016/j.
+brainres.2007.05.034
+
+669
+
+Baayen, H. (2003). Probabilistic approaches to morphology. In
+R. Bod, J. Hay, & S. Jannedy (Eds.), Probability theory in linguistics (pp. 229-287). MIT Press.
+Backus, A. R., Schoffelen, J. M., Szebenyi, S., Hanslmayr, S., &
+Doeller, C. F. (2016). Hippocampal-prefrontal theta oscillations support memory integration. Current Biology, 26(4),
+450-457. https://doi.org/10.1016/j.cub.2015.12.048
+Bakdash, J. Z., & Marusich, L. R. (2017). Repeated measures correlation. Frontiers in Psychology, 8, 456. https://doi.org/10.
+3389/fpsyg.2017.00456
+Bambini, V, Bertini, C, Schaeken, W, Stella, A, Russo, Di. (2016).
+Disentangling metaphor from context: An ERP study.
+Frontiers in psychology, 7.
+Barr, D. J., Levy, R., Scheepers, C., & Tily, H. J. (2013). Random
+effects structure for confirmatory hypothesis testing: keep
+it maximal. Journal of Memory and Language, 68(3), 255-
+278. https://doi.org/10.1016/j.jml.2012.11.001
+Bates, D., Sarkar, D., Bates, M. D., & Matrix, L. (2007). The lme4
+package. R Package Version, 2(1), 74.
+Becker, S., Moscovitch, M., Behrmann, M., & Joordens, S. (1997).
+Long-term semantic priming: A computational account and
+empirical evidence. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 23(5), 1059-1082. https://
+doi.org/10.1037/0278-7393.23.5.1059
+Bemis, D. K., & Pylkkanen, L. (2011). Simple composition: A magnetoencephalography investigation into the comprehension
+of minimal linguistic phrases. Journal of Neuroscience, 31(8),
+2801-2814. https://doi.org/10.1523/JNEUROSCI.5003-10.2011
+Benjamini, Y, & Yekutieli, D. (2001). The control of the false discovery rate in multiple testing under dependency. Annals of
+statistics, 1165-1188.
+Berkum, J J V, Hagoort, P, & Brown, C M. (1999). Semantic integration in sentences and discourse: Evidence from the N400.
+Journal of cognitive neuroscience, 11(6), 657-671.
+Biber, D., Johansson, S., Leech, G., Conrad, S., & Finegan, E. (1999).
+Longman grammar of spoken and written English. Longman.
+Bjork, R. A., & Bjork, E. L. (1992). A new theory of disuse and an old
+theory of stimulus fluctuation. From learning processes to cognitive processes: Essays in honor of William K. Estes, 2, 35-67.
+Blanco-Elorrieta, E., & Pylkkanen, L. (2016). Composition of
+complex numbers: Delineating the computational role of
+the left anterior temporal lobe. NeuroImage, 124, 194-203.
+https://doi.org/10.1016/j.neuroimage.2015.08.049
+Bland, J. M., & Altman, D. G. (1995a). Statistics notes: Calculating
+correlation coefficients with repeated observations: Part 1-correlation within subjects. BMJ, 310-446. https://doi.org/
+10.1136/bmj.310.6977.446
+Bland, J. M., & Altman, D. G. (1995b). Statistics notes:
+Calculating correlation coefficients with repeated observations: Part 2--correlation between subjects. BMJ, 447-
+633. https://doi.org/10.1136/bmj.310.6980.633
+Boas, H. C. (2003). A constructional approach to resultatives. CSLI
+Publications.
+Brouwer, H., Fitz, H., & Hoeks, J. (2012). Getting real about
+semantic illusions: Rethinking the functional role of the
+P600 in language comprehension. Brain Research, 1446,
+127-143. https://doi.org/10.1016/j.brainres.2012.01.055
+Brown, E., & Cortes-Torres, M. (2012). Syntactic and pragmatic
+usage of the [estar+ adjective] construction in Puerto
+Rican Spanish: Esta brutal. In selected proceedings of the
+14th Hispanic linguistics symposium (pp. 61-74). Cascadilla
+Proceedings Project.
+
+670
+
+M. F. PULIDO
+
+Budiu, R., Royer, C., & Pirolli, P. L. (2007). Modeling information
+scent: a comparison of LSA, PMI and GLSA similarity measures
+on common tests and corpora. In R. Neumayer & A. Rauber
+(Eds.), Proceedings of the 8th annual conference of the
+Recherche d'Information Assist e par Ordinateur (RIAO). Centre
+des Hautes etudes Internationales d'Informatique Documentaire.
+Bullinaria, J. A., & Levy, J. P. (2007). Extracting semantic representations from word co-occurrence statistics: a computational study. Behavior Research Methods, 39(3), 510-526.
+https://doi.org/10.3758/BF03193020
+Bultena, S., Dijkstra, T., & Van Hell, J. G. (2014). Cognate effects in
+sentence context depend on word class, L2 proficiency, and
+task. Quarterly Journal of Experimental Psychology, 67(6),
+1214-1241. https://doi.org/10.1080/17470218.2013.853090
+Bybee, J. (2010). Language, usage and cognition. Cambridge
+University Press.
+Bybee, J., & Eddington, D. (2006). Linguistic Society of America A
+Usage-Based Approach to Spanish Verbs of 'Becoming'.
+Language, 82(2), 323-355. https://doi.org/10.1353/lan.2006.0081
+Conklin, K., & Schmitt, N. (2012). The processing of formulaic
+language. Annual Review of Applied Linguistics, 32, 45-61.
+https://doi.org/10.1017/S0267190512000074
+Coulson, S., & Van Petten, C. (2007). A special role for the right
+hemisphere in metaphor comprehension? Brain Research,
+1146, 128-145. https://doi.org/10.1016/j.brainres.2007.03.008
+Coulson, S., & Van Petten, V. (2002). Conceptual integration and
+metaphor: An event-related potential study. Memory &
+Cognition, 30(6), 958-968. https://doi.org/10.3758/BF03195780
+Davies, M. (2016). Corpus del Espanol: Two billion words, 21
+countries. http://www.corpusdelespanol.org/web-dial/
+Eddington, D. (2000). Stress assignment in Spanish within the
+analogical modeling of language. Language, 76(1), 92-109.
+https://doi.org/10.1353/lan.2000.0022
+Ellis, N. C., & Ferreira-Junior, F. (2009). Constructions and their
+acquisition: Islands and the distinctiveness of their occupancy. Annual Review of Cognitive Linguistics, 7(1), 188-
+221. https://doi.org/10.1075/arcl.7.08ell
+Erman, B., & Warren, B. (2000). The idiom principle and the
+open choice principle. Text, 20, 29-62.
+Evert, S. (2009). Corpora and collocations. In A. Ludeling & M.
+Kyto (Eds.), Corpus linguistics: An international handbook
+(pp. 1212-1248). Walter de Gruyter.
+Francken, J. C., van Gaal, S., & de Lange, F. P. (2011). Immediate
+and long-term priming effects are independent of prime
+awareness. Consciousness and Cognition, 20(4), 1793-1800.
+https://doi.org/10.1016/j.concog.2011.04.005
+Fritz, I., & Baggio, G. (2020). Meaning composition in minimal
+phrasal contexts: distinct ERP effects of intensionality
+and denotation. Language, Cognition and Neuroscience,
+35(10), 1295-1313. https://doi.org/10.1080/23273798.2020.
+1749678
+Gentner, D. (1983). Structure-mapping: a theoretical framework for analogy. Cognitive Science, 7(2), 155-170. https://
+doi.org/10.1207/s15516709cog0702_3
+Gentner, D. (1988). Metaphor as structure mapping: The relational shift. Child development, 59(1), 47-59.
+Gerard, L. D., & Scarborough, D. L. (1989). Language-specific
+lexical access of homographs by bilinguals. Journal of
+Experimental Psychology: Learning, Memory, and Cognition,
+15(2), 305. https://doi.org/10.1037/0278-7393.15.2.305
+Gisquet-Verrier, P., & Riccio, D. C. (2018). Memory integration:
+An alternative to the consolidation/reconsolidation
+
+hypothesis. Progress in Neurobiology, 171, 15-31. https://
+doi.org/10.1016/j.pneurobio.2018.10.002
+Goldberg, A. E. (2003). Constructions: A new theoretical
+approach to language. Trends in Cognitive Sciences, 7(5),
+219-224. https://doi.org/10.1016/S1364-6613(03)00080-9
+Goldberg, A. E. (2006). Constructions at work: The nature of generalization in language. Oxford University Press.
+Goldberg, A. E. (2009). The nature of generalization in
+language. Cognitive Linguistics, 20(1), 93-127.
+Groppe, D. M., Urbach, T. P., & Kutas, M. (2011). Mass univariate
+analysis of event-related brain potentials/fields I: A critical
+tutorial review. Psychophysiology, 48(12), 1711-1725.
+https://doi.org/10.1111/j.1469-8986.2011.01273.x
+Hagoort, P, & Van Berkum, J. (1481). Beyond the sentence
+given. Philosophical Transactions of the Royal Society B:
+Biological Sciences, 362, 801-811.
+Hughes, A. D., & Whittlesea, B. W. A. (2003). Long-term semantic
+transfer: An overlapping-operations account. Memory &
+Cognition, 31(3), 401-411. https://doi.org/10.3758/BF03194398
+Hunston, S. (2002). Corpora in applied linguistics. Cambridge
+University Press.
+Jankowiak, K., Naranowicz, M., & Rataj, K. (2021). Metaphors are like
+lenses: Electrophysiological correlates of novel meaning processing in bilingualism. International Journal of Bilingualism,
+136700692199682. https://doi.org/10.1177/1367006921996820
+Jankowiak, K., Rataj, K., & Naskrcki, R. (2017). To electrify bilingualism: Electrophysiological insights into bilingual metaphor comprehension. PloS One, 12(4), e0175578. https://
+doi.org/10.1371/journal.pone.0175578
+Jung, T. P., Makeig, S., Westerfield, M., Townsend, J., Courchesne,
+E., & Sejnowski, T. J. (2000). Removal of eye activity artifacts
+from visual event-related potentials in normal and clinical subjects. Clinical Neurophysiology, 111(10), 1745-1758. https://doi.
+org/10.1016/S1388-2457(00)00386-2
+Juottonen, K., Revonsuo, A., & Lang, H. (1996). Dissimilar age
+influences on two ERP waveforms (LPC and N400) reflecting
+semantic context effect. Cognitive Brain Research, 4(2), 99-
+107. https://doi.org/10.1016/0926-6410(96)00022-5
+Kidd, E, Lieven, E V, & Tomasello, M. (2010). Lexical frequency
+and exemplar-based learning effects in language acquisition: Evidence from sentential complements. Language
+Sciences, 32(1), 132-142.
+Kutas, M, & Federmeier, K D. (2011). Thirty years and counting:
+Finding meaning in the N400 component of the event
+related brain potential (ERP), 62.
+Kutas, M, & Hillyard, S A. (1984). Brain potentials during reading
+reflect word expectancy and semantic association. Nature,
+307(5947), 161-163.
+Lai, V T, & Curran, T. (2013). ERP evidence for conceptual mappings and comparison processes during the comprehension
+of conventional and novel metaphors. Brain and Language,
+127(3), 484-496.
+Lenth, R., & Lenth, M. R. (2018). Package `lsmeans'. The
+American Statistician, 34(4), 216-221.
+Lieven, E. V., Pine, J. M., & Baldwin, G. (1997). Lexically-based
+learning and early grammatical development. Journal of
+Child Language, 24(1), 187-219. https://doi.org/10.1017/
+S0305000996002930
+Lindsay, S., & Gaskell, M. G. (2013). Lexical integration of novel words
+without sleep. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 39(2), 608. https://doi.org/10.1037/
+a0029243
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+Lopez-Calderon, J., & Luck, S. J. (2014). ERPLAB: an open-source
+toolbox for the analysis of event-related potentials. Frontiers
+in Human Neuroscience, 8, 213. https://doi.org/10.3389/
+fnhum.2014.00213
+Marian, V., Blumenfeld, H. K., & Kaushanskaya, M. (2007). The
+Language Experience and Proficiency Questionnaire (LEAPQ): Assessing language profiles in bilinguals and multilinguals. Journal of Speech, Language, and Hearing Research,
+50(4), 940-967. https://doi.org/10.1044/1092-4388(2007/067)
+Molinaro, N., Carreiras, M., & Dunabeitia, J. A. (2012). Semantic
+combinatorial processing of non-anomalous expressions.
+Neuroimage, 59(4), 3488-3501. https://doi.org/10.1016/j.
+neuroimage.2011.11.009
+Neville, H. J., Coffey, S. A., Holcomb, P. J., & Tallal, P. (1993). The neurobiology of sensory and language processing in languageimpaired children. Journal of Cognitive Neuroscience, 5(2), 235-
+253. https://doi.org/10.1162/jocn.1993.5.2.235
+Penolazzi, B., Hauk, O., & Pulvermuller, F. (2007). Early semantic
+context integration and lexical access as revealed by eventrelated brain potentials. Biological Psychology, 74(3), 374-
+388. https://doi.org/10.1016/j.biopsycho.2006.09.008
+Pulido, M. F. (2021a). Native language inhibition predicts more successful second language learning: evidence of two ERP pathways during learning. Neuropsychologia, 152, Article 107732.
+https://doi.org/10.1016/j.neuropsychologia.2020.107732
+Pulido, M. F. (2021b). Individual chunking ability predicts efficient
+or shallow L2 processing: Eye-tracking evidence from multiword units in relative clauses. Frontiers in Psychology, 11,
+Article 4004. https://doi.org/10.3389/fpsyg.2020.607621
+Pulido, M. F., & Dussias, P. E. (2020). Desirable difficulties while
+learning collocations in a second language: Conditions that
+induce L1 interference improve learning. Bilingualism:
+Language and Cognition, 23(3), 652-667. https://doi.org/10.
+1017/S1366728919000622
+Recchia, G., & Jones, M. N. (2009). More data trumps smarter
+algorithms: comparing pointwise mutual information with
+latent semantic analysis. Behavior Research Methods, 41(3),
+647-656. https://doi.org/10.3758/BRM.41.3.647
+Regel, S., Gunter, T. C., & Friederici, A. D. (2010). Isn't It Ironic?
+An Electrophysiological Exploration of Figurative Language
+Processing. Journal of Cognitive Neuroscience, 23(2), 277-
+293. https://doi.org/10.1162/jocn.2010.21411
+Rutter, B, Kroger, S, Hill, H, Windmann, S, Hermann, C. (2012).
+Can clouds dance? Part 2: An ERP investigation of passive
+conceptual expansion. Brain and Cognition, 80(3), 301-310.
+Sanchez-Casas, R. M., Garcia-Albea, J. E., & Davis, C. W. (1992).
+Bilingual lexical processing: Exploring the cognate/noncognate distinction. European Journal of Cognitive Psychology,
+4(4), 293-310. https://doi.org/10.1080/09541449208406189
+Schlichting, M. L., & Preston, A. R. (2015). Memory integration:
+neural mechanisms and implications for behavior. Current
+Opinion in Behavioral Sciences, 1, 1-8. https://doi.org/10.
+1016/j.cobeha.2014.07.005
+Siyanova-Chanturia, A., Conklin, K., Caffarra, S., Kaan, E., & van
+Heuven, W. J. (2017). Representation and processing of
+multi-word expressions in the brain. Brain and Language,
+175, 111-122. https://doi.org/10.1016/j.bandl.2017.10.004
+Tamminen, J., Payne, J. D., Stickgold, R., Wamsley, E. J., &
+Gaskell, M. G. (2010). Sleep spindle activity is associated
+with the integration of new memories and existing knowledge. Journal of Neuroscience, 30(43), 14356-14360.
+https://doi.org/10.1523/JNEUROSCI.3028-10.2010
+
+671
+
+Tang, X., Qi, S., Jia, X., Wang, B., & Ren, W. (2017a).
+Comprehension of scientific metaphors: Complementary
+processes revealed by ERP. Journal of Neurolinguistics, 42,
+12-22. https://doi.org/10.1016/j.jneuroling.2016.11.003
+Tang, X., Qi, S., Wang, B., Jia, X., & Ren, W. (2017b). The temporal
+dynamics underlying the comprehension of scientific metaphors and poetic metaphors. Brain Research, 1655, 33-40.
+https://doi.org/10.1016/j.brainres.2016.11.005
+Theakston, A. L., Ibbotson, P., Freudenthal, D., Lieven, E. V. M., &
+Tomasello, M. (2015). Productivity of noun slots in verb
+frames. Cognitive Science, 39(6), 1369-1395. https://doi.org/
+10.1111/cogs.12216
+Tomasello, M., & Brooks, P. (1999). Young children learn to produce
+passives with nonce verbs. Developmental Psychology, 35(1),
+29-44. https://doi.org/10.1037/0012-1649.35.1.29
+Tremblay, A, & Baayen, R H. (2010). Holistic processing of
+regular four-word sequences: A behavioral and ERP study
+of the effects of structure, frequency, and probability on
+immediate free recall. Perspectives on formulaic language:
+Acquisition and communication, 151-173.
+Tulving, E., & Thomson, D. M. (1973). Encoding specificity and
+retrieval processes in episodic memory. Psychological
+Review, 80(5), 352-373. https://doi.org/10.1037/h0020071
+Van Assche, E., Duyck, W., & Brysbaert, M. (2013). Verb
+processing by bilinguals in sentence contexts: The effect
+of cognate status and verb tense. Studies in Second
+Language Acquisition, 35(2), 237-259. https://doi.org/10.1017/
+S0272263112000873
+Vilkait, L., & Schmitt, N. (2019). Reading collocations in an L2:
+Do collocation processing benefits extend to non-adjacent
+collocations? Applied Linguistics, 40(2), 329-354. https://doi.
+org/10.1093/applin/amx030
+Was, C., Woltz, D., & Hirsch, D. (2019). Memory processes
+underlying long-term semantic priming. Memory & Cognition,
+47(2), 313-325. https://doi.org/10.3758/s13421-018-0867-8
+Weiland, H., Bambini, V., & Schumacher, P. B. (2014). The role
+of literal meaning in figurative language comprehension:
+Evidence from masked priming ERP. Frontiers in Human
+Neuroscience, 8, 1-17. https://doi.org/10.3389/fnhum.2014.
+00583
+Welsch, R. E., & Kuh, E. (1977). Linear regression diagnostics.
+National Bureau of Economic Research.
+Wilson, D V. (2014). Categorization and Constructional Change
+in Spanish Expressions of 'becoming. Brill.
+Wilson, D V. (2014). Categorization and Constructional Change
+in Spanish Expressions of 'becoming. Brill.
+Wolter, B., & Gyllstad, H. (2011). Collocational links in the L2
+mental lexicon and the influence of l1 intralexical knowledge. Applied Linguistics, 32(4), 430-449. https://doi.org/10.
+1093/applin/amr011
+Wolter, B., & Gyllstad, H. (2013). Frequency of input and L2 collocational processing. Studies in Second Language Acquisition, 35
+(3), 451-482. https://doi.org/10.1017/S0272263113000107
+Zempleni, M. Z., Renken, R., Hoeks, J. C., Hoogduin, J. M., &
+Stowe, L. A. (2007). Semantic ambiguity processing in sentence context: Evidence from event-related fMRI.
+Neuroimage, 34(3), 1270-1279. https://doi.org/10.1016/j.
+neuroimage.2006.09.048
+Ziegler, J., & Pylkkanen, L. (2016). Scalar adjectives and the temporal unfolding of semantic composition: An MEG investigation. Neuropsychologia, 89, 161-171. doi:10.1016/j.
+neuropsychologia.2016.06.010
+
+

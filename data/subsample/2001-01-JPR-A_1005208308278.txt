@@ -1,0 +1,1186 @@
+Journal of Psycholinguistic Research, Vol. 30, No. 1, 2001
+
+Semantic Factors in the Production of Number
+Agreement
+Jason Barker1,3, Janet Nicol,1,2 and Merrill Garrett1
+This paper examines the role of semantic factors in the production of subject-verb number
+agreement. As an ostensibly grammatical process, number agreement provides an interesting
+case for examining the flow and interaction of semantic and syntactic information through the
+language-production system. Using a sentence-completion task, agreement errors can be elicited
+from subjects by presenting them with sentence fragments containing a complex noun-phrase, in
+which the nonhead noun is plural (e.g., The key to the cabinets . . . WERE missing.). Previous
+research has demonstrated that the probability of making an error can be affected by varying the
+properties of the nouns in the complex noun phrase. By investigating which variables do and do
+not affect error rates, constraints on the flow of information through the production system can
+be inferred. In three experiments, we investigated the possible effects of three different semantic
+manipulations of the nouns in the complex NP: animacy, semantic overlap, and plausibility of
+modification by the sentence predicate. We found that both animacy and semantic relatedness
+had reliable effects on error rates, indicating that the mechanism involved in implementing
+agreement cannot be blind to semantic information. However, the plausibility with which each
+noun could serve as the subject of the sentence predicate had no effect on error rates. Taken
+together, these results suggest that while semantic information is visible to the agreement mechanism, there are still constraints on when this information can affect the process. Specifically, it
+may be the case that only information contained within the complex NP is considered for the purposes of implementing agreement.
+KEY WORDS: language production; agreement; speech errors.
+
+This research was supported in part by National Multipurpose Research and Training Center
+Grant #DC-01409 from the National Institute on Deafness and Other Communication
+Disorders and by the Cognitive Science Program and Department of Psychology at the
+University of Arizona.
+1
+Department of Psychology, University of Arizona, Tacson, Arizona 85721-0068.
+2
+Department of Linguistics, University of Arizona, Tuscon, Arizona 85721-0068.
+3
+To whom all correspondence should be addressed. e-mail: jbarker@u.arizona.edu.
+91
+0090-6905/01/0100-0091$19.50/0 (c) 2001 Plenum Publishing Corporation
+
+92
+
+Barker, Nicol, and Garrett
+
+INTRODUCTION
+In the tradition of looking at the distributions of speech errors as a window
+into the architecture of the language-production system (e.g. Garrett, 1975;
+Cutler, 1988; Levelt, 1983), experimental investigations of subject-verb agreement errors have provided a useful paradigm for gathering production data
+(e.g. Bock & Miller, 1991; Bock & Eberhard, 1993; see Bock, 1995 for a
+review). Agreement is a particularly worthwhile aspect of speech production to
+investigate since it is an excellent example of one of the main computational
+problems the production system must tackle, namely, specifying and maintaining the structural relationships between lexical items, which may be substantially temporally separated from one another.
+In a typical experiment, subjects are provided with sentence fragments
+containing a complex noun phrase (e.g. The key to the cabinets . . .), which
+they are then to repeat, and provide completions for (e.g., The key to the
+cabinets was lost). Manipulations of the properties of the complex NP provide the independent variables, while the number of agreement errors produced provides the dependent variable. These errors are often termed
+"errors of attraction," based on the view that the nonhead noun "attracts"
+agreement away from the true head of the phrase.
+The most basic finding in this literature is an asymmetry in the prevalence of errors: they are much more common when the head noun is singular
+and the nonhead (hereafter called the "distractor" noun) is plural (e.g., The
+key to the cabinets WERE missing) than in the reverse case (e.g., The keys to
+the cabinet WAS missing) (Bock & Miller, 1991; Bock & Eberhard, 1993;
+Eberhard 1997). The proposed explanation for this asymmetry is that nouns
+are singular by default and must be specifically marked as plural by the addition of a plural feature (Bock & Miller, 1991; Bock & Eberhard, 1993;
+Eberhard, 1997). Preambles in which the head noun is singular, and hence
+unmarked, are vulnerable to interference from any plural feature, which may
+exist on other nouns within the complex NP. Sentences in which the head
+noun is plural are less prone to interference for two reasons: the head noun is
+already marked, and a singular distractor noun, being in its default unmarked
+state, would not possess a disagreeing "singular" feature.
+The exact mechanism by which normal agreement, and by extension,
+errors, occurs has not yet been fully fleshed out. Vigliocco and colleagues
+(Vigliocco, Butterworth, & Semenza, 1995; Vigliocco & Nicol, 1998) have
+put forward a "feature-percolation" model, which proposes that the number of
+the verb is specified by a check of the features that exist at the highest node
+of the complex NP. Normally, a plural subject transmits (or "percolates") its
+plural feature up to the highest node, where it is then copied to the verb. In
+
+Semantics and Agreement
+
+93
+
+the case of errors, the plural feature on the distractor noun is mistakenly transmitted up to highest NP node, which then leads the system to mistakenly generate a plural verb. Eberhard (1997) extended this proposal by casting the
+process within an activation framework, helping to determine an explanation
+of why the plural feature on the distractor noun can be mistakenly associated
+with the head N-P node. Two aspects of Eberhard's proposal are important
+here. First, features associated with the heads of noun phrases are assumed to
+be more highly activated than those associated with nonheads. Second, any
+relevant features associated with nonheads are assumed to create noise in the
+system, which increases the probability that the agreement mechanism will
+make an error when trying to assess the existence of activated features on the
+head NP node. This leaves us with a probablistic view of the occurrence of
+agreement errors, where various lexical, structural, or conceptual factors may
+act to increase or decrease the amount of noise created by plural features
+associated with nonheads, and thus increase or decrease error probabilities.
+The exact architecture of and flow of information through the production system will dictate which kinds of information can and cannot create interference
+and thus by investigating the factors which affect error rates. inferences can
+be made about how the system must be organized.
+Several such factors have been investigated, although not always within
+the activation framework outlined above. Early work in this area (Bock &
+Miller, 1991; Bock & Cutting, 1992; Beck & Eberhard, 1993) suggested
+that agreement in English was almost exclusively governed by syntactic factors, with semantic and phonological factors being invisible to the process.
+This was taken as evidence for quite constrained interactions between different types of information within the production system (Bock & Miller,
+1991). For instance, the use of "pseudoplural" words (words ending with
+an/s/ or /z/ sound) in the distractor noun position failed to elicit any agreement errors at all (e.g., The player on the course . . ., indicating that lowlevel phonological cues were not driving the agreement process (Bock &
+Miller, 1991). In another experiment, Bock and Miller (1991) investigated
+the possible effects of conceptual factors in agreement by comparing single
+vs. distributed referent noun phrases, as in (1) and (2):
+(1) Single referent
+The key to the cabinets . . .
+(2) Distributed referent
+The label on the bottles . . .
+In both (1) and (2), the head NP is syntactically singular, since the head
+noun is unmarked. However, (2) is conceptually plural, in that it most plausibly refers to the same type of label on many bottles. This is in contrast to
+
+94
+
+Barker, Nicol, and Garrett
+
+(1), which clearly refers to one key that opens numerous cabinets. No difference in error rates was found between the two sentence types and this
+was taken as evidence that semantic information was not accessible to the
+agreement mechanism.
+In contrast, syntactic manipulations exert a marked effect on the agreement process. For instance, Bock and Cutting (1992) found that if the distractor noun is separated from the head noun by a clause boundary (e.g., The
+message that they expelled the students . . .) error rates decline substantially.
+Further, Nicol and Barker (1996) demonstrated that even without crossing a
+clause boundary, error rates are reduced if the distractor noun does not have
+a close syntactic link with the head noun (e.g., The pilot at the airbase near
+the hangars . . .). Taken together, these findings suggest that agreement in
+English is primarily a syntactic process, which can be affected by syntactic
+variables but is largely blind to nonsyntactic ones (e.g., conceptual number,
+phonology).
+However, as often happens, further research complicated the picture
+and in this domain has made the case for agreement as a "syntax only"
+process difficult to maintain. Bock and Cutting (1992) found that conceptual factors could indeed affect the agreement process under certain conditions. They found that error rates were higher for sentences such as (3),
+which contained singular collective head nouns, than for those such as (4),
+which contained singular count nouns:
+(3) The jury for the trials . . .
+(4) The judge for the trials . . .
+This was taken as evidence that conceptual factors can indeed sometimes
+govern the agreement process. Further, using the items from the Bock and
+Miller's (1991) singular vs. distributed referent manipulation, Vigliocco and
+colleagues were successful in demonstrating a conceptual effect in Italian
+(Vigliocco, Butterworth & Semenza, 1995), Spanish (Vigliocco, Butterworth,
+& Garrett, 1996), and Dutch (Vigliocco, Hartsuiker, Jamera, & Kolk, 1996b).
+Eberhard (1999) was able to demonstrate the effect in English and explains
+the prior difficulty in demonstrating this effect in English as being related
+to the concreteness and imagibility of the distributed referent NPs (cf.
+Nicol, Teller, & Greth, 2000).
+What do these findings indicate about the production system? Eberhard
+(1997) argues that the fact that both grammatical and conceptual number
+can affect agreement places the agreement process at the functional level of
+processing (Garrett, 1988; Bock & Levelt, 1994). At the functional level,
+the utterance-to-be is represented as lemmas--abstract word representations
+that contain semantic information and basic syntactic category information,
+and markers delineating roles such as subject, object, etc. Importantly, ele-
+
+Semantics and Agreement
+
+95
+
+ments at the functional level are not yet ordered in any linear sense; this
+takes place at the next level of processing, the positional level.
+On balance, research to date supports the proposal that agreement can be
+governed both by syntactically and conceptually specified number information and this argues against claims that the interaction between syntactic and
+semantic information within the production system is highly limited. Note,
+however, that the type of semantic effect, which has been demonstrated, is
+still critically tied to information about the plurality of the head noun phrase.
+That is, the question has been whether a phrase, which is grammatically
+marked as singular, can still be construed for the purposes of agreement as
+plural if the phrase as a whole implies plurality (e.g., as in "The picture on
+the postcards . . ." or "The jury at the trial . . .").
+A separate question, and one that is of specific interest if one assumes an
+activation based framework for agreement (such as that put forward by
+Eberhard, 1997), is whether semantic factors not involving number per se can
+attract agreement errors away from the head noun in the same way that syntactic factors can. As was discussed above, simply having a plural feature on
+the distractor noun will cause a certain percentage of errors (e.g. Bock &
+Miller, 1991). This percentage can be reduced if the distractor noun is placed
+in a position that makes it syntactically more distant from the head (e.g. Bock
+& Miller, 1991, Nicol, 1995; Nicol & Barker, 1996. However, can the semantic properties of the sentence affect error rates in this way? This is quite a separate issue from the question of "conceptually mediated agreement" as it has
+typically been addressed in the relevant research, because it is not concerned
+with the contributions of other sources of information about number (e.g. conceptual), but rather with what kinds of factors can cause the system to give
+undue weight to number features present on the distractor noun. In other
+words: what types of factors can increase the likelihood that the agreement
+mechanism will select its number properties from the wrong noun in the
+complex noun phrase? This is the specific question that will be addressed in
+this paper.
+One previous study that did address this question was Bock and Miller's
+(1991) second experiment, in which they examined the role of animacy in the
+agreement process. Their reasoning was as follows: animacy is highly correlated with subjecthood (Clark, 1965; MacWhinney, 1977); therefore, animacy
+can be considered a good "cue" for subjecthood. If the agreement process
+identifies sentence subjects, at least in part, by reference to the kinds of
+"primitive" semantic features they possess, rather than solely by reference to
+the role they have been assigned at the functional level of processing, then it
+should be the case that distractor nouns that possess semantic features (such
+as animacy) that are highly correlated with subjecthood should be more likely
+to lead to agreement errors than those that do not. Bock and Miller (1991)
+
+96
+
+Barker, Nicol, and Garrett
+
+investigated this possibility by comparing sentences with animate head or distractor nouns, as in (5) and (6):
+(5) AI: (animate head-inanimate distractor)
+The author of the speeches . . .
+(6) IA: (inanimate head-animate distractor)
+The speech by the authors . . .
+They found no difference in error rates between these two/types of preamble and concluded that the agreement process does not make reference to
+semantics, but rather only operates on the basis of the syntactic role (e.g.,
+subject, object) that has been specified at the functional level of processing.
+However, it is possible that there are, in fact, effects of animacy that
+the Bock and Miller (1991) study may have missed. This is because that study
+only looked at a subset of the possible combinations of animacy (animate-
+inanimate; inanimate-animate). Since animacy is so intricately linked with
+subjecthood, it is possible that the baseline conditions for each of these two
+conditions are different; that is, sentences in which both nouns are animate
+may differ from those in which both are inanimate. This data would be necessary in order to fully interpret the animacy-mismatch conditions presented in
+Bock and Miller (1991). Further, since animacy is so highly correlated with
+subjecthood, it could be the case that most of its effects will be centered not
+on the animacy of the distractor noun per se, but rather of the subject noun
+itself. Bock and Cutting (1992) found a result somewhat similar to this when
+they demonstrated that singular collective nouns did not serve well as errorinducing distractor nouns (e.g., The trial by the jury . . .), but when the same
+singular collective noun was used as the subject, in conjunction with a syntactically plural distractor noun, error rates do increase relative to sentences using
+a simple count noun as the subject, as in (7) and (8), respectively
+(7) Collective noun subject
+The jury at the trials . . .
+(8) Count noun subject
+The judge at the trials . . .
+Our main goal in this study was to test a set of items containing a full counterbalancing of the animacy variable across the subject and distractor nouns
+in the complex NP.
+
+EXPERIMENT 1
+The purpose of the first experiment was to investigate the role of animacy in agreement, by using a set of items, which consisted of all possible
+
+Semantics and Agreement
+
+97
+
+combinations of animacy. There are three core predictions for these results.
+First, following the logic in Bock and Miller (1991), it is possible that items
+with animate distractor nouns will have higher error rates than those with
+inanimate distractors. On the other hand, it could be that it is the animacy of
+the subject noun that is of most importance, predicting that preambles with
+animate subject nouns would be less prone to error than those with inanimate
+subject nouns because, due to the correlation between animacy and subjecthood, animates make better subjects. In other words, it is not that animate
+nouns prefer to be subjects, but rather that subjects prefer to be animate.
+Finally, it could be that there exists an interaction between these two factors,
+whereby the animacy of both nouns is relevant to error rates. For instance,
+while Bock and Miller (1991) found that IA and AI items were equivalent, it
+could still be the case that IA items have higher error rates than II items, and
+that AI items have fewer errors than AA items.
+Method
+Participants
+Sixty-four University of Arizona undergraduates participated in the
+study for course credit.
+Materials
+Twenty-four sentence preamble octuplets were constructed in which
+the subject noun was singular, the distractor noun was either singular or
+plural, the subject noun was either animate or inanimate, and the distractor
+noun was either animate or inanimate. Each octuplet was assigned two target predicate words, one for the animate-headed items and one for the inanimate-headed items. This was necessary due to the difficulty of finding
+predicates that work equally well with both animate and inanimate nouns.
+An example octuplet can be seen in (9). The sentence codes are as follows:
+(AA) = animate subject; animate distractor; (AI) = animate subject, inanimate distractor; (II) = inanimate head, inanimate distractor, (IA) = inanimate head, animate distractor, (ss) = singular subject, singular distractor;
+(sp) = singular subject, plural distractor).
+(9a) AA-ss
+(9b) AA-sp
+(9c) AI-ss
+(9d) AI-sp
+(9e) II-ss
+(9f) II-sp
+
+The
+The
+The
+The
+The
+The
+
+girl behind the teacher . . .
+girl behind the teachers . . .
+girl behind the desk . . .
+girl behind the desks . . .
+blackboard behind the desk . . .
+blackboard behind the desks . . .
+
+smart
+smart
+smart
+smart
+erased
+erased
+
+98
+
+Barker, Nicol, and Garrett
+
+(9g) IA-ss
+(9h) IA-sp
+
+The blackboard behind the teacher . . .
+The blackboard behind the teachers . . .
+
+erased
+erased
+
+These items were counterbalanced across eight presentation lists, such that
+each variant appeared on a different list. Due to the large number of items
+and conditions in this study, the counterbalancing was done in such a way
+that head noun animacy was a between subjects variable and this allowed
+us to only conduct items analyses on the data. For reasons we will discuss
+below, we do not believe that this factor influenced our results. In addition
+to the experimental items, there were also 64 other items that comprised a
+separate experiment (not reported on herein) and a number of filler items to
+equalize certain counterbalancing factors.
+Procedure
+All items were displayed visually in the following manner: a fixation
+cross was first presented in the center of the screen for 300 msec. This was
+then replaced by the target predicate word, which remained on the screen
+for 600 msec. Finally, this was replaced by the sentence fragment, which
+remained on the screen for 1200 msec. A blank screen was displayed for
+roughly 100 msec in between each change in the visual display. Subjects were
+instructed to read the target predicate word and sentence fragment silently to
+themselves and to then speak aloud a complete sentence, beginning with the
+sentence fragment and including the predicate word somewhere within the
+completion. Subjects moved on to the next item by pressing the space bar of
+an ordinary keyboard and no constraints were placed upon the length of their
+responses or the speed at which they proceeded to the next item. The items
+were presented on a computer-controlled display using the DMDX system
+(developed by J. I. Forster & K. I. Forster at the University of Arizona).
+Subject responses were recorded on audio cassette tape.
+Scoring
+Subject responses were transcribed by research assistants, who were
+unaware of the specific manipulations involved in the study. Responses
+were then scored by placement into four categories: Correct (C) the subject
+repeated the sentence fragment accurately, included the target predicate in
+their completion, and used a correctly inflected verb; agreement error (AG),
+as above, except that the subject used a verb, which did not agree in number with the subject; uninflected (U), As above, except that the subject used
+a verb, which was uninflected for number; other (Oth), this category encompassed fragment repetition errors and other miscellaneous types of errors,
+which made the item uncodable within the three other categories.
+
+Semantics and Agreement
+
+99
+
+Table I. Subject Responses for Experiment 1.a
+
+AA-ss
+AA-sp
+AI-ss
+AI-sp
+II-ss
+II-sp
+IA-ss
+IA-sp
+a
+
+The girl behind the teacher . . .
+The girl behind the teachers . . .
+The girl behind the desks . . .
+The girl behind the desk . . .
+The blackboard the desk . . .
+The blackboard the desks . . .
+The blackboard behind the teacher . . .
+The blackboard behind the teachers . . .
+
+AG
+
+C
+
+U
+
+Oth
+
+1
+14
+0
+8
+0
+25
+0
+14
+
+156
+133
+153
+138
+151
+121
+154
+124
+
+7
+9
+8
+7
+8
+6
+11
+6
+
+28
+36
+31
+39
+33
+40
+27
+48
+
+Scoring codes at are as follows: (C) correct; (AG) agreement error; (U) uninflected; (Oth)
+other; (ss) singular subject, singular distractor; (sp) singular subject, plural distractor.
+
+Results
+The results can be seen in Table I. A two (head noun animacy, animate
+vs. inanimate) by two (distractor noun animacy, animate vs. inanimate) by two
+(distractor noun number, singular vs. plural) ANOVA was conducted on each
+of the four response categories.
+For (AG), there was a main effect of distractor noun number [F(1,46) =
+59.22, p < .001], an interaction of distractor noun number and subject noun
+animacy [F(1,46) = 5.33, p < .03], and an interaction of subject and distractor noun animacy [F(1,46) = 3.84, p < .05]. There was also a near significant
+main effect of subject noun animacy [F(1,46) = 3.69, p < .06] and a near significant three-way interaction of all variables [F(1,46) = 3.51, p < .06].4 For
+the (C) responses, there was only a main effect of distractor noun number
+[F(1,46) = 37.43, p < .001]. No significant differences existed for the (U)
+responses, and only a main effect of distractor noun number was found for
+(Oth) responses [F(1,46) = 12.83, p < .01]. This latter effect is due mostly to
+the fact that speakers are much more likely to omit a plural ending on a noun,
+than they are to add one.
+Discussion
+The main effects in our data seem to indicate clearly that the agreement
+process is sensitive to animacy variables. However, the interaction of subject
+4
+
+Due to the fact that there was only one error in the SS (singular subject noun, singular distractor noun) across the entire experiment, it is simpler to deal with the two-way interaction
+that omits distractor noun number from the equation. Since the baseline in all four animacy
+conditions is essentially zero, it seems unnecessary to consider the SS conditions in the interactions and therefore, these will not be dealt with further.
+
+100
+
+Barker, Nicol, and Garrett
+
+and distractor noun animacy is not easily explained within the predictions
+we laid out for the experiment. We will take each of these findings in turn.
+First, it is clear that the animacy of the distractor noun, in and of itself, does
+not affect error rates. In line with Bock and Miller's (1991) original findings, animate distractor nouns were no more likely to cause errors than
+inanimate ones, as evidenced by the complete lack of a main effect for
+distractor noun animacy (if we collapse across conditions, we see that items
+with animate distractor nouns led to 28 errors, while those with inanimates
+led to 33). On the other hand, the animacy of the subject noun does appear
+to play a role, as there was a marginal main effect of head noun animacy,
+and a significant interaction with distractor noun animacy (collapsing across
+conditions, we see that items with animate subjects led to 22 errors while
+those with inanimate subjects led to 39 errors). Having an animate noun in
+subject position appears to provide some insulation against the possibility of
+making an error. Regarding the counterbalancing of head noun animacy, we
+do not believe this affected our results for two reasons. First, there are no
+effects of animacy for either the (U) or (OTH) response categories. If the
+two groups of subjects were behaving differently, it is unclear why this difference would manifest itself only in the number of agreement errors made,
+and not in other response categories. Second, the filler items were identical
+on all lists and there were no differences in performance on these items
+across the two groups of subjects.
+The interaction between subject and distractor noun animacy is more
+difficult to account for, since the pattern of results does not fit the kind of
+interaction that we would have predicted based on our initial assumptions
+about the role animacy could be playing. For instance, an interaction in
+which animate distractor nouns caused more errors only for sentences with
+inanimate subjects would be easily explainable, since this follows from our
+predictions about the role animacy might be playing in each noun position.
+The pattern of results we obtained paints a very different picture though, in
+that it is the (II) condition that leads to, by far, the most errors. None of our
+initial assumptions would predict that this condition should be the most
+problematic for subjects and this caused us to take a second look at these
+assumptions.
+By using a fully counterbalanced set of animacy items, we introduced a
+possibly confounding factor into the manipulation. Animacy is but one semantic feature and it is likely that pairs of animate or inanimate nouns may
+have considerable overlap of other semantic features as well. Of specific
+importance here is that, on average, pairs of animate or inanimate nouns will
+have substantially more overlap than pairs containing one animate and one
+inanimate noun. It is possible that the degree of semantic overlap between the
+subject and distractor nouns may be an independent source of variance in
+
+Semantics and Agreement
+
+101
+
+error rates. The argument for animacy as a potential variable in agreement
+(put forward by Bock & Miller, 1991) suggests that the production system
+may identify subjects, at least partly, by reference to a statistical record of
+what kinds of semantic features are usually associated with subjecthood. An
+additional question is whether, in any specific sentence, subject identification
+can be made more difficult when the subject noun shares many semantic features with the distractor noun. This question gets at the issue of the type and
+degree of interaction between lexical representations at the functional level,
+rather than the issue of statistical biases in the way the system functions as a
+whole. If the degree of semantic overlap between nouns in the complex noun
+phrase, indeed, plays a role in the agreement process, then this factor will
+likely have contributed variance to the present experiment and may help to
+explain the present pattern of results. Therefore, in Experiment 2, we specifically investigate the role of semantic overlap in the agreement process.
+
+EXPERIMENT 2
+The purpose of this experiment was to investigate whether the degree
+of semantic overlap between subject and distractor nouns in a complex NP
+would have an effect on the likelihood of an agreement error during sentence production. If the agreement process is sensitive to this factor, this
+will be relevant to our interpretation of the results of Experiment 1.
+Method
+Participants
+Forty-eight University of Arizona undergraduates participated in this
+study for course credit.
+Materials
+Thirty-two sentence fragment quadruplets were constructed in which
+the subject noun was singular, the distractor noun was either singular or
+plural, and the subject and distractor nouns had either high- or low-semantic
+overlap. High-overlap nouns were those which had substantial overlap of
+semantic features (e.g., sailboat/canoe). These ranged from synonyms to
+simply superordinate or subordinate category relations. Each quadruplet was
+also assigned an adjective or past-tense verb, which would serve as the target predicate for the sentence completion the subjects would be asked to
+provide. An example quadruplet is shown in (10). The new sentence codes
+
+102
+
+Barker, Nicol, and Garrett
+
+are as follows: high = high degree of semantic overlap; low = low degree
+of semantic overlap).
+(10a) ss - high
+(10b) sp - high
+(10c) ss - low
+(10d) sp - low
+
+The
+The
+The
+The
+
+canoe
+canoe
+canoe
+canoe
+
+by
+by
+by
+by
+
+the
+the
+the
+the
+
+sailboat. . . .
+sailboats . . .
+cabin . . .
+cabins . . .
+
+damaged
+damaged
+damaged
+damaged
+
+The plausibility with which each noun could be related to the target predicate
+was kept roughly equal across all the items and nearly all of the items contained nouns that were either both animate or both inanimate. These items
+were counterbalanced across four presentation lists such that each variant
+appeared on a different list and equal tokens of each sentence type appeared
+on each list. In addition, there were 48 other items, which were part of a separate experiment (not reported herein), and 10 filler items, which were used
+to equalize our counterbalancing across the entire experiment.
+Procedure and Scoring
+Both were equivalent to Experiment 1.
+Results
+The results can be seen in Table II. Two analyses of variance were conducted, one with subjects (F1) and one with items (F2) as the random variable.
+A 2 (distractor noun number, singular vs. plural) x 2 (degree of semantic overlap, high vs. low) ANOVA conducted on the (AG) class of responses revealed
+a significant main effect of distractor noun number [F1(1,45) = 47.57, p <.001;
+F2(1,31) = 64.88, p < .001), semantic overlap [F1(1,45) = 14.03, p <.001;
+F2(1,31) = 10.19, p < .003], and an interaction of the two [F1(1,45) = 9.24,
+p < .004; F2(1,31) = 12.02, p < .002). A similar analysis on (C) responses
+revealed essentially identical results; a significant main effect of distractor
+
+Table II. Subject Responses for Experiment 2a
+
+ss-high
+sp-high
+ss-low
+sp-low
+a
+
+The canoe by the sailboat . . .
+The canoe by the sailboats . . .
+The canoe by the cabin . . .
+The canoe by the cabins . . .
+
+AG
+
+C
+
+U
+
+Oth
+
+11
+84
+10
+48
+
+326
+223
+328
+264
+
+1
+0
+1
+0
+
+46
+77
+45
+72
+
+Scoring codes are equivalent to Experiment 1 with the addition of: (high) = high semantic
+overlap; (low) = low semantic overlap.
+
+Semantics and Agreement
+
+103
+
+noun number [F1(1,45) = 63.74, p < .001; F2(1,31) = 58.9, p < .001), semantic overlap [F1(1,45) = 10.53 p < .002; F2(1,31) = 9.02, p < .005], and an interaction of the two [F1(1,45) = 5.27, p < .03; F2(1,31) = 4.89, p < .05]. There
+were too few (U) responses to warrant an analysis. Analysis of the (Oth)
+responses revealed only a main effect of distractor noun number [F1(1,45) =
+25.31, p < 001; [F2(1,31) = 27.02, p < .001], with all other F's < 1.3. This
+effect is again due simply to the fact that subjects are much more likely to omit
+an existing plural feature on the distractor noun than they are to add a plural
+feature, which was not present in the preamble.
+Discussion
+These results clearly support the notion that the degree of semantic overlap between nouns within the complex noun phrase can affect error rates.
+Subjects were nearly twice as likely to make an agreement error when the
+nouns had a high degree of semantic overlap than when they had a low
+degree of overlap. One possible alternative explanation for this finding is that
+the difference in error rates had nothing to do with the effects of semantics on
+the agreement process per se, but rather was due simply to a general increase
+in difficulty or memory load caused by the ease of confusability of the two
+nouns. However, if this were true, one would expect that all types of errors
+(e.g., repetition errors, nonsensical sentence completions) should be more
+common for the high semantic overlap items, rather than being restricted to
+only agreement errors. However, we found no effect of semantic overlap for
+(OTH) responses. Increased difficulty was demonstrated only with regard to
+(AG). The strong effect of semantic overlap demonstrated here necessitates a
+reconsideration of the results of Experiment 1 and we believe that this finding, in fact, makes the results of Experiment 1 much clearer.
+
+REEVALUATION OF EXPERIMENT 1
+Recall that Experiment 1 left us with an interaction of subject and distractor noun animacy that was not easily explainable within our existing
+assumptions about the possible role that animacy might play in agreement.
+Most striking was the unexpected finding that the (II) condition led to the
+most agreement errors (see Table I for the overall results). While the interaction was difficult to explain, we were left with two clear main effects: (1) the
+animacy of the distractor noun was not, in and of itself, predictive of error
+rates and (2) the animacy of the subject noun was predictive, with sentence
+preambles with inanimate subjects leading to significantly more errors than
+those with animate subjects. Together with the results of Experiment 2, this
+
+104
+
+Barker, Nicol, and Garrett
+
+suggests that our characterization of the independent variables was incorrect.
+Rather than simply noting whether the subject and distractor nouns are animate or not, what is relevant is (1) whether the subject noun is animate, and
+(2) whether the distractor noun matches or mismatches the subject in animacy.
+Two nouns which match in animacy are on average going to have more
+semantic overlap than two nouns which do not, and therefore, following from
+the results of Experiment 2, we should expect preambles containing nouns,
+which match in animacy (II, AA), to lead to more errors than those with nouns
+that mismatch in animacy (IA, AI).
+To investigate this possibility, we recategorized the conditions from
+Experiment 1 as outlined above. A 2 (head noun animacy, animate vs. inanimate) by two (animacy match, head and distractor nouns match vs. mismatch
+in animacy) 1 x 2 (distractor noun number, singular vs. plural) ANOVA on
+the data from Experiment 1 revealed a near significant main effect of subject
+noun animacy [F(1,46) = 3.68, p < .06]; a main effect of animacy match
+[F(1,46) = 3.83, p < .05); and, of course, a main effect of distractor noun
+number [F(1,46) = 59.27, p < 001]. There was no interaction of head noun
+animacy and animacy match at all (F < .49).
+Interpreted in this way, the results of Experiment 1 are much more clear.
+Two additive factors appear to be at play in this experiment. First, items with
+nouns that match in animacy (we call these "+ match") have higher error rates
+than those that do not. Second, it is also true that items, which have inanimate
+subject nouns ("+ inanimate subject") are, overall, more likely to produce
+errors than those that have animate subject nouns. These two factors can additively affect error rates, such that an item with the characteristics +match and
++inanimate subject will be the most susceptible to errors, while an item which
+is -match and -inanimate subject will be the least. Items which have either
+characteristic will likely fall somewhere in between. This is in fact the pattern
+of errors here and a recoded example of the data can be seen in Table III. Note
+that the II condition has the most errors, the AI the least, while the other two
+conditions fall in between. On-way analyses of variance confirmed that the II
+(+, +) condition had significantly more errors than the AI (-, -) condition
+[F(1,46) = 6.55, p < .02). As would be predicted, the AA and IA conditions
+fell somewhere in between and did not differ significantly from either the II
+or AI conditions: the II condition had marginally more errors than either the
+AA (-+) condition [F(1,46) = 2.43, p < .11] or IA (+-) condition [F(1,46) =
+2.52, p < .12] and the AI condition did not differ significantly from either the
+IA or AA conditions (F's < 1.2)
+Taken together, these results suggest that both semantic overlap and
+head noun animacy additively affect agreement error rates. This argues
+strongly that semantic features associated with lexical items are in compe-
+
+Semantics and Agreement
+
+105
+
+Table III. Subject Responses for Experiment 1 with Alternate Item Codinga
+Anim
+Match
+
+Subject
+Inamin
+
+AG
+
+-
+
+-
+
+AI-ss
+
+-
+
+-
+
+AI-sp
+
+-
+
++
+
+IA-ss
+
+-
+
++
+
+IA-sp
+
++
+
+-
+
+AA-ss
+
++
+
+-
+
+AA-sp
+
++
++
+
++
++
+
+II-ss
+II-sp
+
+a
+
+The girl behind
+the blackboard. . .
+The girl behind
+the blackboards. . .
+The blackboard behind
+the teacher. . .
+The blackboard behind
+the teachers. . .
+The girl behind
+the teacher. . .
+The girl behind
+the teachers. . .
+The blackboard the desk. . .
+The blackboard the desks. . .
+
+C
+
+U
+
+Oth
+
+0
+
+153
+
+8
+
+31
+
+8
+
+138
+
+7
+
+39
+
+0
+
+154
+
+11
+
+27
+
+14
+
+124
+
+6
+
+48
+
+1
+
+156
+
+7
+
+28
+
+14
+
+133
+
+9
+
+36
+
+0
+25
+
+151
+121
+
+8
+6
+
+33
+40
+
+Additional codes are as follows: (Anim Match +) = the two nouns match in animacy; (Anim
+Match -) = the two nouns mismatch in animacy; (Subject Inanim +) = sentence subject is
+inanimate; (Subject Inanim -) = sentence subject is animate.
+
+tition at the stage at which agreement is computed and that the agreement
+mechanism is sensitive to this competition.
+Although it seems clear that the agreement process is sensitive to lexical semantics (or at least semantic similarity of lexical items), an obvious
+follow up question is whether "sentence-level" semantic information can
+also affect the agreement process. What we mean by "sentence level" is the
+type of semantic relationship that is expressed through the relations between
+lexical items, rather than in the lexical entries themselves. Our question is
+whether semantic information of this type can have an impact on processes
+involved in grammatical encoding, such as agreement. One specific test of
+this is whether the degree to which both nouns in the complex noun phrase
+bear plausible relations to the sentence predicate may also be predictive of
+errors. If so, this would indicate that the agreement mechanism can receive
+input from high-level semantic representations of the entire utterance, rather
+than being simply prone to interference by various lexical level semantic
+factors (e.g., animacy and semantic overlap). In addition to addressing a
+potentially interesting question about the production system in general, it is
+possible that this very factor had an effect on the results of Experiment 1:
+since we provided target predicates for each of our sentence preambles, subjects were constrained to form a sentence on the basis of that predicate. It
+is possible that subjects would be more likely to make an error on items
+
+106
+
+Barker, Nicol, and Garrett
+
+where both nouns in the complex noun phrase could plausibly be related to
+the predicate. Consider the examples in (11) and (12):
+(11) Both nouns plausible
+The boy near the dogs was running away.
+(12) Subject only plausible
+The boy near the trees was running away.
+In (11), both nouns could plausibly act as subjects for the sentence predicate, while in (12) only the subject noun could. If the extent of interaction
+within the production system extends beyond simple lexical level effects
+and, in fact, allows the overall conceptual sentential representation to exert
+control over the agreement process, then this plausibility variable should
+affect agreement rates such that sentences like (11) should have higher error
+rates than sentences like (12). Thornton and MacDonald (1999) have reported
+preliminary data suggesting just such an effect; however, the preliminary
+work on these results are difficult to interpret at present. In addition, Greenslit
+and Badecker (2000) found a similar effect in comprehension, but it is not
+clear whether these results would also be obtained in production. We turn to
+an examination of this variable in Experiment 3.
+
+EXPERIMENT 3
+The purpose of this experiment was to investigate whether the agreement process is affected by the degree to which each of the nouns in the
+complex noun phrase bears a plausible relation to the sentence predicate.
+This is of immediate importance because this factor could have affected the
+results of Experiment 1 and is of more general importance for demonstrating
+that sentence level semantic representations can interact with the grammatical encoding operations such as agreement. Because we were specifically
+interested in whether this variable affected the results of Experiment 1, we
+chose to run this study as a posthoc examination of the items in that experiment. Although it is probably true that plausibility covaries with semantic
+overlap and animacy (e.g., two nouns with a high degree of semantic overlap are more likely to be able to take the same predicate than two nouns with
+strongly disparate semantic features), this covariance is not at all absolute.
+High semantic overlap nouns can often differ strongly in terms of how plausibly they relate to a predicate (e.g., The woman near the girl was teaching.
+and low semantic overlap nouns can often be equally plausibly related to the
+predicate (e.g., The boy near the tree was tall.) Because of this, our items
+from Experiment 1 afforded a wide range of items across this plausibility
+scale.
+
+Semantics and Agreement
+
+107
+
+In this experiment, we had independent raters judge the plausibility with
+which each noun in our sentence preambles from Experiment 1 fit with the
+provided target predicates and then used these ratings to reevaluate the results.
+Method
+Participants
+Twenty-five University of Arizona undergraduates participated for
+course credit.
+Method
+The nouns and target predicates from the items in Experiment 1 were
+extracted from their sentence contexts and presented as simple word pairs on
+a questionnaire sheet. The first word in the pair was always a noun and the
+second was always the target predicate. Subjects were asked to rate how well
+they felt the first word in the pair "went with" the second word on a fivepoint scale where (1) meant "they don't go together at all" and (5) meant
+"they go perfectly well together." In order to make it clear to the subjects
+what kind of judgment we were asking them to make, they were given specific examples of how we wanted them to approach the task. As an example,
+they were given the word pairs "dog/hungry" and "car/hungry" and told that
+they were to ask themselves, "Can a dog be hungry?", "Can a car be hungry?" and to rate how plausibly they felt they could answer YES to those
+questions. For these examples, the ratings should be (5) and (1), respectively.
+Ratings for each noun were then averaged across all 25 subjects.
+Once all of the nouns were assigned a rating, we could then calculate
+a plausibility index for each item in Experiment 1. By subtracting the average plausibility rating of the distractor noun from the average plausibility
+rating of the subject noun, we arrived at a "plausibility difference" score,
+which expressed the degree to which both nouns in the sentence bore plausible relations to the target predicate. An example pair of sentences with
+plausibility ratings is provided in Figure 1.
+This creates a plausibility difference scale, which can theoretically range
+from -4 to +4, with positive scores indicating the head is most plausible and
+negative scores indicating the distractor noun is most plausible. In practice,
+the actual range is from about -1 to +4, since our items were, of course, all
+constructed such that the predicate bore at least a moderately plausible relation to the head. Items with scores close to zero represent those in which both
+nouns are plausibly related to the predicate, while items closer to +4 represent
+those items in which only the subject noun bears a plausible relation to the
+predicate. If this plausibility variable is relevant to agreement, then items with
+
+108
+
+Barker, Nicol, and Garrett
+
+Fig. 1. Sample sentences for Experiment 3 showing plausibility ratings for each noun and the
+composite plausibility difference score for each sentence.
+
+scores closer to zero should be more prone to error than items with scores
+closer to +4. After assigning each item its plausibility rating, we could then
+correlate this with the proportion of errors made on each item.
+Results
+A scatterplot of the data can be seen in Figure 2. Because there were
+essentially zero errors in the ss (singular head, singular distractor noun) sentence conditions, we restricted our analysis to the sp items only. As can be
+seen, our items provided a wide range of plausibility values, with a fairly
+equal distribution of ratings across the scale. Overall, 10% of the items had
+a score between -1 and 0; 34% fell between .1 and 1, 13% fell between 1.1
+and 2, 22% fell between 2.1 and 3, and 21% fell between 3.1 and 4. As can
+be seen in the figure, there was almost no relationship between the plausibility difference score and the percentage of agreement errors on a given
+item. A correlation analysis revealed a near zero relationship between the
+two variables (Spearman r = -.052).
+Discussion
+It does not appear then that "sentence-level" semantic information affects
+the agreement process. While semantic features at the lexical level demonstrated an impact in both Experiments 1 and 2, the plausibility of the NPpredicate relation did not. We can certainly be confident that this variable did
+not affect our positive results in Experiment 1 and, based on the near zero
+correlation found here, it is likely that this type of information is simply not
+available to the agreement mechanism.
+
+GENERAL DISCUSSION
+First let us recap the results of the three experiments presented here.
+Experiment 1 demonstrated that animacy can, indeed, play a role in the agree-
+
+Semantics and Agreement
+
+109
+
+Fig. 2. Scatterplot for data in Experiment 3. Data shown for sp condition only.
+
+ment process in at least two ways. First, sentence preambles with animate subject nouns were less prone to agreement errors than sentences with inanimate
+subjects. Second, sentence preambles in which the head and distractor nouns
+match in animacy are more prone to errors than those in which the nouns do
+not match in animacy. Experiment 2 demonstrated that the latter finding was
+a specific example of a more general effect of semantic overlap: sentence preambles in which the subject and distractor nouns have a large amount of overlap of semantic features are more prone to error than preambles with more
+semantically distinct nouns. Pairs of animate or inanimate nouns will, on
+average, have more semantic overlap than pairs of nouns that mismatch in
+animacy. Taken together, these results support past research which has indicated that the agreement process is sensitive to semantic factors and is not a
+"syntax-only" process (e.g. Eberhard, 1997; Vigliocco et al., 1995) and places
+the agreement process at the functional level of processing. Further, these
+results extend past research in demonstrating that semantic factors, which do
+not actually involve number per se (e.g., conceptual number), can affect the
+process. The results of Experiment 3 indicate that there are constraints on the
+types of semantic factors that the agreement process is sensitive to. While lexical level semantic features on and between nouns in the complex NP had
+reliable effects on error rates, the degree to which each noun in the NP bore
+a plausible semantic relationship to the sentence predicate did not. This could
+indicate either that this type of "sentence-level" semantic information is not
+visible to the agreement mechanism, or it could indicate that the time course
+of the flow of information through the production system precludes this
+
+110
+
+Barker, Nicol, and Garrett
+
+information from affecting the agreement process. These possibilities will be
+discussed in more detail below.
+The results of Experiments 1 and 2 fit well within the activation framework for agreement proposed by Eberhard (1997). Recall that the two most
+relevant parts of that proposal here are (1) that features associated with heads
+are assumed to be more highly activated than those associated with nonheads
+and (2) that any features associated with nonheads are assumed to create some
+degree of noise in the system. Any factor which serves to increase the activation of features on the distractor noun and, hence, the amount of noise present
+in the system, should work to increase error rates. If the head and distractor
+nouns in the complex NP have substantial overlap of semantic features, it
+could be the case that any number features that may be present on the distractor noun could be given undue weight. Similarly, if the head noun in the
+phrase is animate, then this may help to decrease error rates because of the
+increased activation of the head noun relative to the distractor noun. If heads
+are typically more highly activated to begin with, the addition of a feature
+such as animacy, which is highly correlated with subjecthood, may work to
+boost activation rates. Note that, like the original Bock and Miller (1991)
+study, we did not find an effect of distractor noun animacy per se. Having an
+animate noun in the distractor position did not increase error rates, as might
+be predicted if the system relies, at least in part, on correlational cues to determine subjecthood. Simply being animate does not bias a noun toward being a
+subject, however, if a noun has been assigned the syntactic role of "subject"
+and it is also animate, it may be more highly activated than a subject that is
+inanimate. In other words, as stated in the introduction, it is not that animate
+nouns prefer to be subjects, but that subject nouns prefer to be animate. This
+interpretation is supported by the results of Experiment 3 in the original Bock
+and Miller (1991) study. They found that in sentence preambles that contained
+two actual subject nouns (e.g., The king that the islands . . .; The song that
+the composers . . .), error rates were higher when the noun that should not
+govern the first verb was animate, indicating that when faced with two subject
+nouns, subjects were inclined to give more weight to the one that was animate.
+While this interpretation fits the present data well, it is problematic
+when viewed alongside certain other results in the language production
+error literature. If the account offered above is correct, one might also predict that word exchange errors should be more common between nouns that
+share substantial overlap of semantic features than between nouns that are
+more semantically distinct. If the system can become confused as to which
+noun should be governing the number-agreement process when the nouns
+are semantically similar, it may also be more likely to confuse the positions
+of those two nouns within the utterance. However, the data on naturally
+
+Semantics and Agreement
+
+111
+
+occurring speech errors does not support this prediction. While word exchange
+errors are highly constrained by syntactic category (e.g., nouns exchange with
+nouns; verbs exchange with verbs) they are not constrained by semantics
+(e.g., highly dissimilar nouns are as likely to exchange as highly similar
+ones) (e.g., Garrett, 1975, 1984; Bock & Levelt, 1994).
+There are a number of ways to possibly reconcile this discrepancy.
+First, it is possible that the effects reported here are somewhat dependent on
+the task involved. Experimental subjects are provided with partial sentences
+and asked to complete them, rather than constructing sentences from scratch
+as they would normally, and this may bias the task toward creating or exaggerating lexical effects, which may be more relevant to language comprehension than language production. It is probably important to corroborate
+these results with corpus analyses or other more naturalistic methods to
+determine the robustness of this effect, considering the wealth of naturally
+occurring speech error data that exists for word exchanges.
+Second, it is possible that word-exchange errors and agreement errors
+are different enough phenomenon that they are not governed by exactly the
+same factors. When implementing number agreement, the system is looking to
+the subject noun of the head NP to govern the number marking on the verb.
+On occasion, for a variety of reasons, the system allows the number of the verb
+to be governed by the nonsubject noun (the distractor noun). It does not appear
+that the system has actually misidentified the subject, since sentences in which
+speakers make an agreement error are rarely completed in such a way that they
+are actually treating the distractor noun as the true subject of the sentence (that
+is, people rarely say things, such as "The key to the cabinets are being refinished"). In the case of exchange errors, the system is not looking to one word
+to govern the properties of another, but rather, it is simply trying to order the
+constituents of the sentence properly. It could be the case that the process of
+juggling features between lexical items required by agreement is susceptible
+to different kinds of interference than the process of ordering lexical items
+within an utterance. The studies reported here do not allow us to explore this
+question fully, but it will be important to reconcile this possible discrepancy
+between experimentally elicited and naturally occurring speech errors.
+Experiment 3 also fits well with existing research, and serves to demonstrate that there are constraints on the ways in which semantic information
+can effect the agreement process. While strictly lexical semantic overlap
+between nouns in the complex NP affected error rates in Experiments 1 and 2,
+the degree to which both nouns bore plausible relations to the sentence predicate did not. There could be at least two possible reasons for this. First, it
+could be the case that this type of "sentence-level" semantic information is
+not visible to the agreement process. The type of semantic overlap involved
+
+112
+
+Barker, Nicol, and Garrett
+
+in Experiments 1 and 2 can be quantified solely by reference to the semantic
+features of the lexical items involved. In Experiment 3, this is not the case, as
+our "plausibility difference score" relied on some reference to the overall sentence, and not simply to the lexical items themselves. For example, the same
+two nouns may or may not bear similar relations to the predicate in different sentence contexts, as in "The boy near the tree was tall" and "The boy
+near the tree was smart." While competition or interference may arise due
+to simple semantic feature overlap, predicate plausibility may require reference to information that is unavailable to the agreement mechanism.
+Another possibility is that it is the time course of information through the
+system that is important and not the type of semantic information involved
+per se. If the flow of information through the production system is incremental, such that as soon as any given piece of an utterance has completed processing at one level it is sent on to the next (e.g., Kempen & Hoenkamp,
+1987; Kempen & Vosse, 1989), and if the agreement process is begun as soon
+as the subject noun reaches the functional level of processing, then it could be
+the case that a factor such as plausibility simply does not typically become
+available during the window of time in which agreement is computed. Studies
+by Nicol (1995) and Nicol and Barker (1996) provide support for this proposal. Both studies demonstrated that the likelihood of a plural feature on a
+distractor noun interfering with the correct implementation of agreement was
+dependent on it being encoded closely following the head. Distractor nouns
+which were distant from the head were less likely to cause errors. For instance,
+Nicol and Barker (1996) found that sentence . preambles such as (13) were
+significantly more prone to error than those such as (14):
+(13) The pilot near the hangars . . .
+(14) The pilot at the airport near the hangars . . .
+By this view, any information arriving at the functional level significantly
+after the head noun will be too late to interfere with the agreement process
+and the plausibility manipulation of Experiment 3 may be one such type of
+information. It is worth noting that, if anything, our experimental procedure
+actually encouraged the use of this plausibility information, since partial
+predicates were specifically provided to the subjects before they even saw
+the sentence preamble. It is quite striking, then, that speakers did not appear
+to make any use of this information in terms of computing agreement.
+
+CONCLUSION
+Overall, these results support previous research that has indicated that
+the agreement process is sensitive to semantic factors and that agreement is
+
+Semantics and Agreement
+
+113
+
+likely carried out at the functional level of processing. We extend these
+results in demonstrating that even semantic information that does not involve
+number information per se can affect agreement. The degree of semantic
+feature overlap of nouns within the complex NP, in general, and the specific
+semantic feature of animacy were both shown to affect error rates in a number agreement error elicitation task. These results also support the proposal
+that sentence production occurs incrementally and that interfering information must be available in close proximity to the subject noun in order for it
+to affect the agreement process, as evidenced by the lack of a plausibility
+effect in Experiment 3. These studies may also highlight the need to integrate the wealth of data now available on experimentally elicited agreement
+errors with the existing data on naturally occurring speech errors.
+
+REFERENCES
+Bock, K. (1995). Producing Agreement. Current Directions in Psychological Science, 4, 56-61.
+Bock, K., & Cutting, J. C. (1992). Regulating mental energy: Performance units in language
+production. Journal of Memory and Language, 31, 99-127.
+Bock, K., & Eberhard, K. M. (1993) The meaning, sound, and syntax of English number agreement. Language and Cognitive Processes, 8, 57-99.
+Bock, K., & Levelt, W. J. (1994). Language production: Grammatical encoding. In M. A.
+Gernsbacher (Ed.), Handbook of Psycholinguistics (pp. 945-984). San Diego, California:
+Academic Press.
+Bock, K., & Miller, C. A. (1991). Broken agreement. Cognitive Psychology, 23, 45-93.
+Clark, H. H. (1965). Some structural properties of simple active and passive sentences. Journal
+of Verbal Learning and Verbal Behavior, pp. 365-370.
+Cutler, A. (1988). The perfect speech error. In L. M. Hyman & C. S. Li (Eds.), Language,
+speech and mind: Studies in honor of Victoria A. Fromkin (pp. 209-223). London:
+Routledge.
+Eberhard, K. M. (1997). The marked effect of number on subject-verb agreement. Journal of
+Memory and Language, 36, 147-164.
+Eberhard, K. M. (1999). The accessibility of conceptual number to the processes of subjectverb agreement in English. Journal of Memory and Language, 41, 560-578; Journal of
+Memory and Language, 88, 375-407.
+Garrett, M. F. (1975). The analysis of sentence production. In G. H. Bower (Ed.), The psychology of learning and motivation (pp. 133-177). New York: Academic Press.
+Garrett, M. F. (1984). Levels of processing in sentence production. In B. Butterworth (Ed.),
+Language Production (Vol. 1, pp. 177-220). London: Academic Press.
+Garrett, M. F. (1988). Processes in language production. In F. J. Newmeyer (Ed.), Linguistics:
+The Cambridge survey, III: Language: Pyschological and biological aspects (pp. 69-96).
+Cambridge: Cambridge University Press.
+Greenslit, N., & Badecker, W. (2000). The role of the lexical item in the comprehension of
+subject-verb agreement. Poster presented at the 13th Annual CUNY Conference on Human
+Sentence Processing, San Diego, California.
+Kempen, G., & Hoenkamp, E. (1987). An incremental procedural grammar for sentence formulation. Cognitive Science, 11, 201-258.
+
+114
+
+Barker, Nicol, and Garrett
+
+Kempen, G., & Vosse, T. (1989). Incremental syntactic tree formation in human sentence processing: A cognitive architecture based on activation decay and simulated annealing.
+Connection Science, 1, 275-292.
+Levelt, W. J. M. (1983). Monitoring and self-repair in speech. Cognition, 14, 41-104.
+Levelt, W. J. M. (1989). Speaking: From intention to articulation. Cambridge, Massachusetts:
+MIT Press.
+MacWhinney, B. (1977). Starting points. Language, 53, 152-168.
+Nicol, J. L. (1995). Effects of clausal structure on subject-verb agreement errors. Journal of
+Psycholinguistic Research, 24, 507-516.
+Nicol, J. L., & Barker, J. (1996). Units of processing in language production. Poster Presented
+at the 10th Annual CUNY conference on Human Sentence Processing. Santa Monica,
+California.
+Nicol, J., Teller, M., Greth, D. (2000) The production of verb agreement in monolingual, bilingual, and second language speakers. In J. Nicol (Ed.), One mind, two languages:
+Language processing in the bilingual Oxford: Blackwell Press.
+Thornton, R., & MacDonald, M. (1999). Plausibility effects on subject-verb agreement errors
+in English. Poster presented at the 12th Annual CUNY Conference on Human Sentence
+Processing, New York, NY.
+Vigliocco, G., Butterworth, B., & Semenza, C. (1995). Constructing subject-verb agreement in
+speech: The role of semantic and morphological factors. Journal of Memory and
+Language, 34, 186-215.
+Vigliocco, G., Butterworth, B., & Garrett, M. F. (1996). Subject-verb agreement in Spanish
+and English: Differences in the role of conceptual constraints. Cognition, 61, 261-298.
+Vigliocco, G., Hartsuiker, R. J., Jarema, G., & Kolk, H. H. J. (1996b). One or more labels on
+the bottles? Notional concord in Dutch and French. Language and Cognitive Processes,
+11, 407-442.
+Vigliocco, G., & Nicol, J. (1998). Separating hierarchical relations and word order in language
+production: Is proximity concord syntactic or linear? Cognition, 68, 13-29.
+
+

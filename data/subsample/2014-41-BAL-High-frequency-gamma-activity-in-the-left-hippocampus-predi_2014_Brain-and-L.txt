@@ -1,0 +1,1242 @@
+Brain & Language 135 (2014) 104-114
+
+Contents lists available at ScienceDirect
+
+Brain & Language
+journal homepage: www.elsevier.com/locate/b&l
+
+High frequency gamma activity in the left hippocampus predicts visual
+object naming performance
+Carlos M. Hamame a,, F.-Xavier Alario a, Anais Llorens a,b, Catherine Liegeois-Chauvel b,
+Agnes Trebuchon-Da Fonseca b,c
+a
+b
+c
+
+Aix-Marseille Universite, CNRS, LPC UMR 7290, Marseille 13001, France
+Aix-Marseille Universite, Inserm, INS UMR_S 1106, Marseille 13005, France
+APHM, Centre Hospitalier de la Timone, Marseille 13005, France
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 26 May 2014
+Available online 11 July 2014
+Keywords:
+Language production
+Lexicon
+Picture naming
+Intracranial EEG (iEEG)
+Tip-of-the-tongue state
+Electrocorticogram (EcoG)
+High-frequency gamma activity
+Hippocampus
+Medial temporal lobe (MTL)
+Ventral stream
+
+a b s t r a c t
+Access to an object's name requires the retrieval of an arbitrary association between it's identity and a
+word-label. The hippocampus is essential in retrieving arbitrary associations, and thus could be involved
+in retrieving the link between an object and its name. To test this hypothesis we recorded the iEEG signal
+from epileptic patients, directly implanted in the hippocampus, while they performed a picture naming
+task. High-frequency broadband gamma (50-150 Hz) responses were computed as an index of population-level spiking activity. Our results show, for the first time, single-trial hippocampal dynamics
+between visual confrontation and naming. Remarkably, the latency of the hippocampal response predicts
+naming latency, while inefficient hippocampal activation is associated with ``tip-of-the-tongue'' states
+(a failure to retrieve the name of a recognized object) suggesting that the hippocampus is an active
+component of the naming network and that its dynamics are closely related to efficient word production.
+O 2014 Elsevier Inc. All rights reserved.
+
+1. Introduction
+A core aspect of our ability to speak lies in the process of word
+retrieval, during which our brain establishes a link between an idea
+or a concept (``a particular fragrant flower from a prickly bush'')
+and the corresponding linguistic form (``rose''). Usually, there is
+no natural motivation why a particular word form has been
+attached to a particular concept, and hence this link has been
+described as arbitrary (de Saussure, 1916; see also Shakespeare,
+1599; some limits to the arbitrariness of the sign are discussed
+by Marchand, 2010). For a speaker that knows a given word, the
+arbitrary link is presumably stored in memory and retrieved when
+the word is to be produced (for example, during visual object naming: Glaser, 1992).
+In models of memory and language production, the retrieval of
+arbitrary links is construed rather differently. In memory models,
+some have proposed that formation and retrieval of arbitrary
+ Corresponding author. Address: Laboratoire de Psychologie Cognitive, Federation
+de Recherche 3C, Brain and Language Research Institute, Aix-Marseille Universite &
+CNRS, Centre St Charles, 3 Place Victor Hugo (Batiment 9, Case D), 13331 Marseille
+Cedex 3, France. Fax: +33 (0)4 13 55 09 65.
+E-mail address: carlos-miguel.hamame@univ-amu.fr (C.M. Hamame).
+http://dx.doi.org/10.1016/j.bandl.2014.05.007
+0093-934X/O 2014 Elsevier Inc. All rights reserved.
+
+associations, also known as relational memory, is a critical function
+of the hippocampus (Diana, Yonelinas, & Ranganath, 2007;
+Eichenbaum, 2004; Konkel & Cohen, 2009; Mayes, Montaldi, &
+Migo, 2007; Moses & Ryan, 2006), and one of the basic mechanisms
+that could account for its involvement in a variety of mnesic
+processes (Ludowig et al., 2008; Manning, Sperling, Sharan,
+Rosenberg, & Kahana, 2012; Rutishauser, Schuman, & Mamelak,
+2008; Sederberg et al., 2007; Zeineh, Engel, Thompson, &
+Bookheimer, 2003). For instance, hippocampal activity subserves
+the successful association between an item and its paired-associate
+or between an item and its context (Brasted, Bussey, Murray, &
+Wise, 2003; Henke, Weber, Kneifel, Wieser, & Buck, 1999;
+Petrides, 1985; Preston, Shrager, Dudkovic, & Gabrieli, 2004;
+Ranganath, Cohen, Dam, & D'Esposito, 2004; Wirth et al., 2003).
+In models of word production, the arbitrary link between meanings
+and word forms is captured by the distinction between the semantic and the lexical levels of representation (Caramazza, 1997; Dell,
+Schwartz, Martin, Saffran, & Gagnon, 1997; Levelt, Roelofs, &
+Meyer, 1999). In the neurocognitive versions of these models, such
+levels of processing have been tied to a distributed large scale
+`language network' comprising frontal and temporal cortices. In
+particular, semantic processes engage the temporal pole, the
+medial temporal gyrus, the angular gyrus, and the superior and
+
+C.M. Hamame et al. / Brain & Language 135 (2014) 104-114
+
+inferior frontal gyri, while word retrieval primarily engages the
+inferior frontal gyrus, middle temporal gyrus, and posterior/lateral
+and ventral inferior temporal gyrus (e.g. DeLeon et al., 2007; Vidal
+et al., 2012, for reviews see: Binder, Desai, Graves, & Conant, 2009;
+Indefrey, 2011; Price, 2012). In contrast to memory models, the
+description of word retrieval processes do not usually consider
+the hippocampal formation as an important node of the network,
+at least not beyond semantics. For instance, the speech production
+section of the most recent neuroimaging meta-analysis states:
+``When word retrieval became more semantically demanding
+(. . .) activation (. . .) was also reported in (. . .) the left hippocampus.
+However, these anatomically distributed brain areas are likely to
+reflect silent conceptual processing (see Speech comprehension
+section) rather than word retrieval per se'' (Price, 2012, p. 829).
+Indeed, only a handful of neuroimaging studies have reported
+significant hippocampal activity during language production tasks
+(Bonelli et al., 2011; Hocking, McMahon, & Zubicaray, 2008;
+Pihlajamaki et al., 2000; Whitney et al., 2009).
+The absence of the hippocampus in the language production
+models described above might stem from two sources. On one hand,
+imaging studies, which are able to accurately measure spatial
+patterns of activation, lack the temporal resolution to describe its
+fast dynamics. This means that a possible link between temporal
+aspects of the hippocampal activity (e.g. latency) and behavior
+(e.g. successful object naming), would be missed by conventional
+imaging techniques. On the other hand, the clinical evidence
+regarding a potential link between hippocampal damage and word
+finding difficulties is somewhat mixed. First, patient HM, whose
+prototypical medial temporal lobe (MTL) resection comprised both
+hippocampi, had massive memory problems and a normal score in
+most language comprehension and production tests (note however
+that slight naming difficulties were also reported; Corkin, 1984).1
+Second, more recent neuropsychological studies suggest that naming
+capabilities can be compromised in hippocampal sclerosis (Bonelli
+et al., 2011; Davies et al., 1998; Hamberger et al., 2007; Sawrie et al.,
+2000) and after anteromedial resective surgery, but not in all cases.
+The variable impact of MTL resection on naming performance has been
+linked to the presence of pre-surgical sclerosis (Hamberger, Seidel,
+Goodman, & McKhann, 2010; Seidenberg, Geary, & Hermann, 2005),
+to different degrees of plasticity from spared structures (Sabsevitz
+et al., 2003; Swanson, Sabsevitz, Hammeke, & Binder, 2007), and to
+differences in neuropsychological assessment (Trebuchon-Da
+Fonseca et al., 2009). Overall, the strongest predictor of naming decline
+after MTL resection appears to be the absence of structural hippocampal pathology before surgery; post-operative naming difficulties are
+likely if the resected hippocampus was structurally healthy before
+surgery (see Ives-Deliperi & Butler, 2012, for a review). Together, this
+evidence suggests a possible role for structurally healthy hippocampus in naming, but it does not specify at which level of word
+production it may participate (perceptual, semantic or lexical).
+Here we report evidence that the left hippocampus is involved
+in overt visual object naming, a task that is highly relevant for both
+1
+Language function in patient HM is a long-lived debate. Neuropsychological
+testing showed mostly normal scores in both comprehension and production, with
+the notable exception of verbal fluency, an impairment attributed to extra-surgical
+factors (e.g. education level; Corkin, 1984). Interestingly, clinical examination and
+more demanding language production tests (DeRenzi & Ferrari, 1978) showed slight
+(yet significant) naming difficulties. Additionally, more detailed examination of H.M.'s
+language production revealed a higher frequency of different types of errors,
+particularly omission errors (Mackay, James, Hadley, & Fogler, 2011). Other aspects
+of language such as the retrieval and production of verbal material (Mackay, Burke, &
+Stewart, 1998) together with grammatical and figurative features of speech were also
+found to be impaired (Mackay, Stewart, & Burke, 1998; MacKay, James, & Hadley,
+2007; MacKay, James, Taylor, & Marian, 2007). However, since H.M. resection
+comprised an important part of the medial and anterior temporal lobe (i.e. not only
+the hippocampus), the link that can be established between hippocampal function
+and language on the basis of this patient's performance remains unclear.
+
+105
+
+clinicians and researchers who want to test word production. We
+took as a working model the current consensual view in which
+word production can be divided in several sub-components
+(Caramazza, 1997; Dell et al., 1997; Levelt et al., 1999): conceptual
+processing, lexical retrieval, and response encoding processes (the
+latter variably ranging from phonological and phonetic encoding to
+articulatory programming and triggering). On the basis of memory
+models, where hippocampal function is to establish and retrieve
+arbitrary associations, (Diana et al., 2007; Eichenbaum, 2004;
+Konkel & Cohen, 2009; Mayes et al., 2007; Moses & Ryan, 2006),
+we expected that hippocampal activity should be involved in
+retrieving the link between semantic and lexico-phonological
+knowledge (i.e. between a concept and its name).
+Picture naming, which we used as the main experimental protocol, is arguably the most commonly used task to elicit word production processes in healthy and neurological populations (cf.
+DeLeon et al., 2007; Glaser, 1992; Salmelin, Hari, & Lounasmaa,
+1994). Here we analyzed behavioral measures of performance in
+conjunction with neurophysiological activity recorded directly
+from hippocampus. The behavioral measures of performance
+included naming latencies, which are indicative of the whole production process (Alario et al., 2004), as well as certain errors that
+are known to signal failures at specific stages of the naming process. In particular, we focused on those errors in which participants
+correctly identify the presented object, but fail to retrieve its name,
+a common situation known as `tip-of-the-tongue' (TOT) state
+(Brown, 1991). This subjective state occurs frequently among
+healthy (Brown, 2012) and neurological populations (TrebuchonDa Fonseca et al., 2009). It reflects a difficulty in accessing
+linguistic information (Brown, 2012 p. 169), whereby successful
+perceptual and semantic processing (recognizing an object) does
+not lead to successful lexico-phonological access (retrieving its
+name). This is a capital distinction in theories of word production
+at least since Badecker, Miozzo, and Zanuttini (1995).
+Neurophysiological activity was obtained with intracranial EEG
+(iEEG) recordings, performed as pre-surgical investigation of
+drug-resistant partial epilepsy. These recordings lack the full spatial
+coverage of fMRI, but they benefit from high temporal and spatial
+resolution. Therefore, they allow measuring electrophysiological
+activity from a targeted neural structure in a time-scale meaningful
+for single word production. Moreover, high-frequency components
+of the iEEG signal (50-150 Hz) can be regarded as an index of
+multi-unit spiking activity (Le Van Quyen et al., 2010; Manning,
+Jacobs, Fried, & Kahana, 2009; Ray & Maunsell, 2011), providing a
+robust tool for functional mapping (Crone, Sinai, & Korzeniewska,
+2006; Jerbi et al., 2009; Lachaux, Axmacher, Mormann, Halgren, &
+Crone, 2012), in real time (Hamame et al., 2012), and with no risks
+of contamination from articulatory artifacts. Intracranial EEG
+research has already advanced our understanding of languageproduction networks by clarifying the functional role of specific
+brain areas depending on their temporal course of activity (Sahin,
+Pinker, Cash, Schomer, & Halgren, 2009; Edwards et al., 2010;
+Flinker et al., 2010; Wu et al., 2012; Perrone-Bertolotti et al., 2012;
+for review see: Llorens, Trebuchon-Da Fonseca, Lliegeois-Chauvel,
+& Alario, 2011). Nevertheless, none of the cited iEEG studies included
+patients with recording sites (depth-electrodes) directly implanted
+in the hippocampus.
+2. Materials and methods
+2.1. Participants
+A total of 28 pharmaco-resistant epilepsy patients, implanted
+with multi-lead depth-electrodes and candidates for resective
+neurosurgical treatment (La Timone Hospital, Marseille, France),
+were asked to participate in the protocol. They had been
+
+7
+7
+7
+29
+32
+20
+97
+n/a
+n/a
+84
+82
+81
+2
+
+13
+11
+10
+11
+29
+25
+128
+127
+110
+110
+124
+118
+3
+
+7
+13
+7
+13
+10
+9
+11
+15
+18
+35
+17
+15
+73
+113
+72
+127
+84
+104
+84
+104
+79
+129
+80
+116
+3
+3
+
+FILME VOCABULARY, and all missing cells actually.
+
+R and L TLE
+m
+L
+33
+P6
+
+R
+
+m
+L
+31
+P5
+
+R
+
+m
+f
+L*
+L
+22
+37
+P3
+P4
+
+R
+R
+
+L TLE
+
+n
+Hypothalamus
+hamartoma
+Cavernoma
+pITG
+n
+
+7
+11
+11
+11
+12
+14
+1
+10
+20
+24
+2
+2
+101
+125
+118
+121
+93
+123
+87
+93
+80
+108
+87
+100
+1
+1
+n
+n
+f
+m
+R
+R
+
+L*
+L*
+
+L Pre frontal
+L
+temporoparietal
+posterior
+R TLE
+R and L TLE
+
+Working
+memory
+Vocabulary
+Verbal
+fluency
+(letter P)
+Verbal
+fluency
+(animal)
+Age at
+seizure
+onset
+Global
+MQ
+Visual
+MQ
+Auditory
+MQ
+IQ
+v
+IQ
+p
+IQ
+Education
+level
+MRI
+Epileptogenic
+zone
+Sex
+Hemispheric
+dominance
+
+15
+17
+
+Naming latency was defined as the time elapsed between stimulus presentation and the onset of the voice-key recorded by the
+
+P1
+P2
+
+2.3. Behavioral analyses
+
+Handness
+
+The picture naming task involved a total of 230 different black
+and white pictures of common objects, drawn from normalized
+collections (Alario & Ferrand, 1999; Bonin, Peereman, Malardier,
+Meot, & Chalard, 2003). Not all participants were tested with the
+same number of pictures. Participants P2, P3, P4 performed a version of the naming task in which 108 pictures were presented in
+three blocks comprising 36 different items each. P1 was tested
+with the same protocol, but performed two additional (repeated)
+blocks. Finally, participants P5 and P6 went through a later version
+of the protocol with two blocks comprising 50 trials each (the same
+50 pictures were presented twice; all other conditions remained
+constant relative to the previous version of the protocol).
+The stimuli were presented in the center of a computer screen
+(6  6 size and 1000 ms duration) with a variable inter-stimulus
+interval (1400-2100 ms). Participants were required to name each
+picture fast and accurately. Voice responses were recorded with a
+microphone (Audio Technica ATR20) positioned close to the participant's mouth.
+A control task requiring visual processing but no linguistic
+retrieval was also used with one patient (P1). In this standard face
+categorization task, the stimuli consisted of 50 gray-scale photographs of human faces (6  6 size; 25 male, 25 female). They
+were presented in the center of a computer screen for 400 ms with
+a variable inter-stimulus interval of 3000-4700 ms. The participant
+was required to classify the faces as male or female by pressing
+manually one of two buttons. For all tasks, stimuli presentation
+and response recording were controlled using E-Prime (Psychology
+Software Tools, Pittsburgh, USA). All the tasks and recordings were
+performed in a stable inter-ictal period, following a period of
+twelve or more hours without seizures.
+
+Age
+
+2.2. Stimuli and experimental procedures
+
+Patient
+
+stereotactically implanted with 5-11 multi-lead linear-array depthelectrodes comprising 10-15 contact sites (3 mm spaced, .8 mm
+diameter; Alcis, Besancon, France), which allow recording the local
+field potential (LFP) with millimetric spatial resolution. The targeted
+structures had been selected strictly according to clinical criteria,
+with no reference to the present study.
+Among these patients, eight had electrodes implanted in the
+head of left hippocampus. From those eight ``hippocampal''
+patients, one had to be discarded due to poor task performance
+(out of 108 trials, there were 40 correct responses, 5 incorrect
+responses, and 63 omissions; mean latency was 1418 ms), and
+another due to strong epileptiform activity. The remaining 6
+patients were right-handed (Oldfield Questionnaire) native French
+speakers (for clinical and neuropsychological data see Table 1). All
+patients were left dominant for language. Hemispheric dominance
+was assessed with (1) verb generation combined with fMRI;
+(2) stimulation on recording sites during invasive recording and
+(3) with the electro clinical correlation during seizure.
+No hippocampal sclerosis or other structural abnormality
+(tumors, vascular malformations or cerebral dysgenesis) was
+observed in/from their MRIs. The absence of hippocampal sclerosis
+was evaluated as follows: (1) no visual atrophy, (2) no signal
+change neither in 3D fluid-attenuated inversion-recovery
+sequences nor in T2-weighted sequence, and (3) no loss of hippocampal head digitations. Participants and their parents (required
+for the two minor patients) provided written informed consent.
+All procedures were performed in accordance with the University
+Hospital of Marseille Institutional Review Board recommendations.
+
+Digit
+span
+
+C.M. Hamame et al. / Brain & Language 135 (2014) 104-114
+Table 1
+Patients demographics. Education level: 1 = no high school graduate; 2 = high school graduate; 3 = college undergraduate or more. IQ measures were obtained using the Wechsler Adult Intelligence Scale (WAIS IV). Hemispheric
+dominance was determined by direct electrical stimulation and *fMRI aquisition during verb generation. TLE: temporal lobe epilepsy; pITG: posterior inferior temporal gyrus; IQ: intellectual coefficient; MQ: memory coefficient; n/a: not
+available.
+
+106
+
+C.M. Hamame et al. / Brain & Language 135 (2014) 104-114
+
+microphone. A response was considered to be correct when it
+coincided with the name of the picture as established by normative
+data (e.g., Alario & Ferrand, 1999). Omissions, i.e. trials where the
+participant failed to provide a verbal answer during the response
+period, were further investigated in order to distinguish recognition failures from instances where the participant recognized the
+object, but failed to link it with a word-label (i.e. tip-of-the-tongue
+states, or TOT). The distinction was based on the semantic and/or
+linguistic information that the participant could provide regarding
+the target (Miozzo & Caramazza, 1997; Vigliocco, Antonini, &
+Garrett, 1997). After each block, the experimenter explored if
+omissions corresponded to object identification failures or TOTs
+by asking the following questions: (i) `Do you recognize object?';
+(ii) `Can you explain the use of the object?'; (iii) `What is the
+grammatical gender of the object's name?'; (iv) Could you provide
+the beginning (first letter/phoneme) of the word?' Only trials in
+which the participant could provide at least partially accurate
+answers were considered as TOTs. The remaining omissions were
+classified as `no recognition/unfamiliar object' and excluded from
+further analysis.2 Note that this approach does not reveal neither
+onset nor resolution of the TOT, but it serves to identify trials in which
+it occurred and what was the corresponding hippocampal activity.
+In the face-categorization protocol, response-time (RT) was
+calculated from stimulus onset to button press. Only trials
+including a correct response were considered in the behavioral
+and neurophysiological analysis.
+2.4. Intracranial EEG recordings
+The iEEG signal was recorded with a 256 channel BrainAmp
+amplifier system (Brain Products GmbH, Munich, Germany),
+sampled at 1000 Hz and band-passed filtered between 0.16 and
+200 Hz. During acquisition, recordings were referenced to a single
+scalp-electrode located at Fz. For offline analyses, a bipolar montage (closest neighbor electrode reference) was chosen to increase
+spatial resolution and to remove contamination common to
+adjacent recording sites, such as the power-supply artifact. The
+anatomical position of the electrodes was identified on the basis
+of image-fusion using MedINRIA Software of (i) an axial scanner
+image acquired before the removal of electrodes, and (ii) an MRI
+scan performed after the removal of electrodes (Liegeois-Chauvel,
+Musolino, Badier, Marquis, & Chauvel, 1994). MRIs were obtained
+using a Siemens imaging system (1.5 Tesla). Contiguous serial
+sections (N = 128; 1.3 mm thick) were recorded with a threedimensional gradient echo T1 (TE = 4 ms; TR = 10 ms) allowing
+3D reconstruction (sagittal, horizontal, and coronal).
+2.5. Time-frequency analysis
+Time-frequency maps were computed using a standard Morlet
+wavelet decomposition with a f0/sigmaf of 7 (Tallon-Baudry,
+Bertrand, Delpuech, & Pernier, 1996), which helped us identify
+which frequency components exhibited clear amplitude modulations (frequency range was from 2 to 160 Hz in steps of 5 Hz).
+Time curves of band-limited power in high-frequency gamma
+(50-150 Hz) were constructed as follows. Continuous data were
+band-pass filtered between 50 and 150 Hz in steps of 10 Hz to
+obtain 10 consecutive frequency bands. The envelope of each of
+2
+The standard definition of the TOT state is based on two facets : the absence of the
+expected verbal response (omission) accompanied by the report of the actual
+subjective experience (``I know what it is, but I cannot recollect its name''). An
+alternative procedure would have been to interview the patient immediately after an
+omission-trial rather than at the end of the block. However, this would have only
+meant the interruption of the task at every omission, only a few minutes before the
+end of the block, which would have given little additional certainty on the actual
+occurrence of the TOT.
+
+107
+
+those band-pass filtered signals was calculated using the standard
+Hilbert transform (Le Van Quyen et al., 2001). The amplitude from
+each 10 Hz frequency-band was normalized as a percentage
+change relative to the mean of a 400 to 100 ms pre-stimulus
+baseline. The 10 envelopes were finally averaged across frequency-bands resulting in a single time-series for high-frequency
+gamma (50-150 Hz). Performing 10 narrow-band baseline corrections instead of a single broadband one provides access to highfrequency dynamics otherwise obscured due to the power law
+distribution followed by the frequency components of the iEEG
+signal (Freeman & Zhai, 2009; Miller, 2010). Event-related modulations of gamma envelope were obtained by averaging its amplitude
+across trials. In single trial data, an index of hippocampal activity
+latency, the time-to-peak delay or peak latency, was defined as
+the first time-point where the envelope of high-frequency gamma
+reached its maximum value (peak) during the first 2000 ms after
+stimulus presentation. Time-frequency maps were constructed
+using ELAN-pack (Aguera, Jerbi, Caclin, & Bertrand, 2011). All other
+spectral analyses, display and related statistical tests were performed using Matlab (Mathworks, Natick, MA, USA) custom routines.
+2.6. Statistical analysis
+Statistical significance of hippocampal high-frequency gamma
+responses was evaluated using Wilcoxon signed-ranked tests. For
+stimulus-related activity, we compared across trials mean amplitude (computed between 100 and 1000 ms post-stimulus) against
+the average amplitude of a pre-stimulus baseline ( 500 to
+100 ms). The same was done for response-related activity
+(500 ms to response against baseline). To evaluate if naming
+latencies were dependent on hippocampal activity, the data of each
+participant were sorted according to response time and then
+binned and averaged in groups of five. Individual Pearson correlation coefficients were calculated between hippocampus response
+latency and naming speed across bins for each participant.
+In the case of P1, the patient's motivation and the clinical setting made it possible to collect a larger amount of picture naming
+trials (N = 180). From among those, we were able to confirm that
+20 out of 34 omissions corresponded to TOT states. Since signalto-noise ratio of the high-frequency gamma activity is sufficiently
+high to readily observe single-trial responses, we reasoned that 20
+TOT trails could be sufficient for statistical hypothesis testing. In
+order to correct for the largely unbalanced number of trials in
+the two conditions (correct responses = 134; TOT = 20), we used
+the jack-knife method for resampling the available data, and then
+tested if there was an amplitude difference in the hippocampal
+response. We randomly selected 999,000 data subsets of 20 correct
+trials (from a total of 134) and ran 999,000 comparisons (Wilcoxon
+signed-ranked test) between each of the resampled correctresponse subsets and the entire set of TOT-trials.
+Finally, a single statistical model was conducted to examine the
+cross-task differences observed in patient P1. We performed a
+linear regression of high-frequency gamma peak-latency on RT
+and task (picture naming vs semantic categorization).
+3. Results
+Single trial analysis of the iEEG signal revealed a sustained
+stimulus-to-response hippocampal activity that was tightly related
+to behavioral indexes, predicting both naming latency and TOT
+occurrence. The details are as follows.
+3.1. Behavior
+All participants understood the picture naming task and were
+able to follow the instructions properly. Incorrect responses were
+
+108
+
+C.M. Hamame et al. / Brain & Language 135 (2014) 104-114
+
+relatively infrequent (Mean = 6.8%, SD = 7.2%, Table 2) and were
+not considered for behavioral nor electrophysiological analysis.
+Mean naming latency was 910 ms, SD = 122 ms (Table 2), which
+falls in the range of healthy speakers for never-seen-before
+pictures (cf. Bonin et al., 2003). After each block, the experimenters
+interviewed the participant specifically about omissions, to clarify
+whether they were due to a failure in recognizing the depicted
+object or in retrieving its name, the latter were recorded as TOTs.
+Since the task was relatively easy to perform, we recorded a small
+number of omissions (Mean = 15, SD = 12) and an even smaller
+number of TOTs for most patients (Table 2). Note that P1 went
+through two extra blocks of the task and that variability in TOT rate
+is normal among different patients (Trebuchon-Da Fonseca et al.,
+2009). In order to ascertain that the results were reliably related
+to naming and did not merely depend on perceptual or semantic
+processing, we also analyzed data available from P1 performing a
+categorization task (face gender). The participant understood the
+task and did it properly with 2.1% of incorrect responses, 5 omissions,
+and a mean RT of 701 ms (SD = 185 ms).
+
+between picture presentation and naming is not specifically timelocked to the stimulus nor to the behavioral response (Mainy et al.,
+2008; Ries, Janssen, Burle, & Alario, 2013). We could further confirm
+this finding by assessing single-trial activity sorted by naming
+latency. Fig. 2 shows how hippocampal activity increases after stimulus presentation and variably returns to baseline according to naming latency in all participants. In order to quantify the temporal
+relationship between hippocampal response and behavior, we calculated individual correlation coefficients between naming latency and
+hippocampal response peak-latency. Fig. 3 depicts scatter plots
+obtained from hippocampal response latency in function of naming
+latency. Correlations revealed a strong relationship of the two measures across all participants. In the case of P3, who had hippocampal
+electrodes implanted bilaterally, we found no correlation between
+naming latency and hippocampal response latency for the right
+hemisphere (Supplementary Fig. 1), suggesting that hippocampal
+involvement in picture naming might be lateralized.
+
+3.2. Hippocampal activity and picture naming
+
+3.3. Failure to activate the hippocampus and the tip-of-the-tongue
+phenomenon
+
+There was an increase in hippocampal high-frequency gamma
+activity (50-150 Hz) in the period between picture presentation
+and word production. In all participants, the increase in hippocampal
+activity was clearly visible in the temporal profile of the envelope
+(Fig. 1B) when averaging relative to stimulus presentation (P1:
+z = 8, p < .0001; P2: z = 6.79, p < .0001; P3: z = 6.3, p < .0001; P4:
+z = 4.2, p < .001; P5: z = 5.02, p < .0001; P6: z = 8.51, p < .0001). This
+stimulus-related high-frequency response peaked around 500 ms
+post-stimulus in all six subjects, however, it was followed by
+decreases of slightly different slopes. This difference among participants could be attributed to differences in naming latencies. To
+investigate if activity was also dependent on naming latency, and
+not only on stimulus presentation, we computed the temporal profile of the high-frequency gamma envelope locked to the voice-key
+response (Fig. 1C). Response-related activity was also significantly
+higher than pre-stimulus baseline in all six participants (P1: z = 8.9,
+p < .0001; P2: z = 7.26, p < .0001; P3: z = 5.83, p < .0001; P4:
+z = 3.49, p < .005; P5: z = 4.66, p < .001; P6: z = 6.28, p < .0001),
+suggesting that, indeed, hippocampal high-frequency activity
+
+All six participants experienced TOT states in at least one trial
+(Table 2), however only P1 (who went through 2 extra blocks of
+the task) had a sample large enough to grant further analysis.
+There, we found a significant difference in the amplitude of the
+neural activity for correct responses compared to TOTs (z = 3.47,
+p < .05) (Fig. 4). In fact, we could not observe any significant
+response when comparing post-stimulus activity against pre-stimulus baseline during TOT trials (z = 1, p = .31). Notably, we found a
+different pattern at another recording site of the same electrode,
+located in the left collateral sulcus, in Perirhinal cortex, a region
+toward the end of the ventral stream of visual object processing
+(Goodale & Milner, 1992; Ungerleider & Mishkin, 1982). There,
+activity has been related to high-level aspects of visual object perception and recognition (Buckley & Gaffan, 2006). Analysis of highfrequency activity and that perirhinal site, revealed comparable
+response amplitudes in correct and TOT trials (z = 1.47, p = .21)
+(Fig. 4). Contrary to the observed left hippocampal activity, we
+found no significant correlation between naming latency and
+latency of the perirhinal response (Fig. 5).
+
+Table 2
+Behavioral results by participant. Note that the number of TOTs is drawn from the total number of omissions.
+
+P1
+P2
+P3
+P4
+P5
+P6
+
+Number of trials
+
+Correct responses
+
+Incorrect responses
+
+Omissions
+
+Of which ToTs
+
+Naming latency (ms)
+
+180
+108
+108
+108
+100
+100
+
+130 (72%)
+93 (86%)
+93 (86%)
+82 (76%)
+99 (99%)
+70 (70%)
+
+16 (9%)
+10 (9%)
+5 (5%)
+5 (5%)
+0 (0%)
+8 (8%)
+
+34 (19%)
+5 (5%)
+10 (9%)
+21 (19%)
+1 (1%)
+22 (22%)
+
+20
+5
+10
+4
+1
+2
+
+1042 (SD = 300)
+1057 (SD = 249)
+859 (SD = 146)
+899 (SD = 252)
+736 (SD = 254)
+864 (SD = 229)
+
+Fig. 1. Grand-averaged left hippocampal activity during picture naming. (A) Coronal view of structural MRI from P1 depicting an example of the anatomical localization of
+hippocampal contact sites. (B) Envelopes of high-frequency activity (50-150 Hz) averaged across participants relative to stimulus presentation and (C) voice key onset.
+
+C.M. Hamame et al. / Brain & Language 135 (2014) 104-114
+
+109
+
+Fig. 2. Single-trial plots of hippocampal high-frequency activity (50-150 Hz) sorted by naming latency. Each row represents one trial, amplitude of neural activity is coded by
+color an black markers represent naming latency. Color scale fixed for comparison purposes. (For interpretation of the references to color in this figure legend, the reader is
+referred to the web version of this article.)
+
+The above findings suggest that left hippocampus activity
+during naming is not solely related to visual object identification
+processes, but also to linguistic (lexico-phonological) processes.
+Further arguments for this interpretation come from the face categorization task performed by P1, in which gender recognition was
+required but no naming was possible because the faces were
+unknown. Although we found a small but significant hippocampal
+response to faces (z = 1.93, p < .05), the time-course of single trial
+hippocampal activity during the categorization task did not suggest
+any relationship to behavior (Fig. 5); the hippocampal response
+latency was not correlated with RTs (Pearson R = .12, p = .55).
+The contrast between naming and categorization tasks in highfrequency activity dynamics was examined with a linear regression
+of high-frequency gamma (peak) latency on RT and task. This
+revealed a main effect of task (t = 2.54, p = .016) and an interaction
+between task and RT (t = 2.80, p < .01). The interaction confirms a
+significant difference between the correlations across tasks, where
+the effect of RT is present in naming, but absent in categorization.
+
+4. Discussion
+Our experiment revealed, for the first time, the trial-by-trial
+dynamics of hippocampal activity during visual object naming. In
+
+all 6 participants, the left hippocampus showed a significant activity that was sustained between shortly after the stimulus presentation until the onset of overt word production. In addition, there
+was a functional relationship between this hippocampal activity
+and picture naming performance. Peak-latency of hippocampal
+response consistently predicted naming latency, and failure to activate the hippocampus was associated with TOT states (object recognition with no lexical access). Contrasting with these findings in
+naming, the hippocampal response detected in semantic categorization (gender classification of unknown faces) was not functionally related to behavioral performance.
+According to the models of word production and memory
+presented in the Introduction, visual and semantic processes are
+engaged in the course of successful visual object naming, in
+stumbling upon a TOT state in a naming task, and in semantic
+categorization of a face. During naming, visual-semantic processes
+are responsible for object identification which in turn leads into
+lexical retrieval processes (Indefrey, 2011). During TOT states,
+participants are able to activate the concept they want to
+communicate, but fail to retrieve the corresponding word-form
+(Brown, 1991). There are discussions about the exact nature of
+the knowledge that fails to be retrieved (lexical vs phonological;
+Badecker et al., 1995; Brown, 1991; Miozzo & Caramazza, 1997;
+Vigliocco et al., 1997), but it is mostly admitted that TOT states
+
+110
+
+C.M. Hamame et al. / Brain & Language 135 (2014) 104-114
+
+Fig. 3. Scatter plots of naming latency vs peak of high-frequency gamma activity (50-150 Hz) recorded from the left hippocampus of all six participants. Individual Pearson
+coefficients and associated p-values are indicated for each participant. Fitted lines were obtained by linear regression. Note that trials were binned in groups of five to reduce
+the noise usually observed in single-trial peaks of activity.
+
+provide a strong argument for separating conceptual from linguistic processing (what the object is vs. what its name is).3 Finally,
+during face categorization, visual-semantic processes allow identification of the presented stimulus as a human face with a particular
+gender, even if the faces are unknown. In this context, the question
+arises whether the hippocampal activation we report solely reflects
+the engagement of such visual and semantic processes or whether
+it also reflects linguistic (e.g. lexical-access) processing.
+Below, we first discuss the evidence gathered from patient P1,
+in the comparison of correct and TOT trials, as well as naming
+and semantic categorization. We then discuss the functional relationship between hippocampal activity and naming performance
+consistently observed across the six patients.
+The patterns of hippocampal activity were quite distinct during
+successful object naming compared to TOT and face categorization.
+During successful naming, hippocampal activity was sustained
+until around the behavioral response and its peak-latency was correlated with naming latency. During TOTs and face categorization,
+the response was significantly smaller and, when present, it did not
+correlate with response time (RT). This empirical distinction
+between no word retrieval and successful word retrieval suggests
+3
+In his recent review, Brown (2012) favors this interpretation over the ``inferential
+interpretation'', according to which TOT is thought to stem from a meta-memory
+evaluation of the accessibility of information (see Chapter 9 for a detailed discussion
+on this matter).
+
+that the pattern of hippocampal activity during successful naming
+is not solely related to visual object identification processes. Linguistic processes (e.g. at the lexico-phonological stage) must be
+associated with this neural response.
+From a neural perspective, is important to underline the perirhinal activity recorded during TOTs. The perirhinal cortex is a
+brain area connecting the ventral stream of visual processing with
+the MTL (Wixted & Squire, 2011) and is proposed to play a critical
+role in higher-order crossmodal object perception and memory
+(Saksida & Bussey, 2010; Taylor, Moss, Stamatakis, & Tyler,
+2006). Contrary to what we observed in the hippocampus, the perirhinal response was not significantly different between TOT and
+correct trials (Fig. 4). This comforts the view that TOTs were not
+due to an attentional failure. In contrast, activity in perirhinal cortex strongly suggests that stimuli were processed to a considerable
+extent into the ventral stream of visual processing, presumably up
+to semantic identification (Chan et al., 2011).
+From a processing perspective, the canonical description that
+TOT reflects access to a concept and failure in accessing its name
+would seem to be somewhat static. It is likely that, once they
+notice their state, speakers engage into active word-finding strategies which differ from those engaged in standard efficient naming
+(for an early proposal along those lines see Goodglass, Theurkauf,
+& Wingfield, 1984). Those strategies might very well engage brain
+networks different from those usually involved in efficient, errorless language production and long-term memory retrieval. Future
+
+C.M. Hamame et al. / Brain & Language 135 (2014) 104-114
+
+111
+
+Fig. 4. Absence of significant hippocampal response results in TOT states. Time-frequency map showing the average high-frequency gamma (50-150 Hz) response from the
+left hippocampus of P1 in (A) correct and (B) TOT trials. (C) Coronal view of the structural MRI of P1 depicting the anatomical localization of hippocampal and perirhinal
+recording sites. Stimulus-related envelope of (D) perirhinal and (E) hippocampal high-frequency gamma activity averaged across 20 correct and 20 TOT trials separately. Note
+that envelopes have been smoothed with a 250 ms moving average for visualization purposes.
+
+Fig. 5. Perirhinal activity during picture naming (upper) and left hippocampal activity during face categorization (lower). (A) Coronal view of the structural MRI from P1
+showing the anatomical localization of the recording site. (B) Single-trial plots of high-frequency activity (50-150 Hz). Each row represents a single trial, amplitude of the
+signal is coded by color and the black markers represent naming latency. (C) Envelope of high-frequency activity (50-150 Hz) averaged across correct trials relative to
+stimulus presentation. (D) Scatter plot of naming latency vs peak of high-frequency activity (50-150 Hz). Individual Pearson coefficients and associated p-values are indicated
+for each contact. Fitted lines were obtained by linear regression. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of
+this article.)
+
+studies should further investigate the onset and/or resolution of
+TOT states (as in Diaz, Lindin, Galdo-Alvarez, Facal, & Onesimo,
+2007; Kikyo, Ohki, & Sekihara, 2001; Zuckerman, Levy, Tibon,
+
+Reggev, & Maril, 2012), particularly whether it involves a latter
+hippocampal activation and/or the recruitment of other neural circuits (as is probably the case in hippocampal sclerosis).
+
+112
+
+C.M. Hamame et al. / Brain & Language 135 (2014) 104-114
+
+While these observations come from a single patient (we come
+back to this point at the end of the Discussion), they do suggest
+that the hippocampal activity observed during object naming
+involves linguistic processes that occur beyond visuo-semantic
+identification. This interpretation is further supported by the consistent functional link observed between hippocampal activity and
+naming performance in all six patients. The peak-latency of the
+hippocampal response is tightly correlated, on a trial to trial basis,
+with naming latency (Fig. 2), yet we failed to find any such correlation regarding RT (button-press) for face categorization (Fig. 5).
+The correlation was also absent in the one right hippocampus that
+we could record from, in keeping with the general observation that
+the structures in left hemisphere (of right-handers) play a more
+prominent role in language processing than their right counterparts. Together, this pattern of significant vs absent correlations
+strengthens the link between the hippocampal response in naming
+and linguistic processes.
+The interpretation of the hippocampal activity in visual object
+naming as reflecting linguistic processing begs the question of its
+functional significance. We recall at this point that the main experimental task (standard picture naming) did not require participants to memorize the items, only that they come up with the
+most appropriate and correct name as fast as possible. As noted
+in the Introduction, the hippocampus is relatively absent from
+language production models, but it plays an important functional
+role in memory models. The latter emphasize its role in establishing and retrieving arbitrary associations, particularly when linking
+an item to its spatial and/or episodic context (Brasted et al., 2003;
+Diana et al., 2007; Henke et al., 1999; Mayes et al., 2007; Petrides,
+1985; Preston et al., 2004; Ranganath, Cohen, Dam, & D'Esposito,
+2004; Wirth et al., 2003). Drawing on this model of hippocampal
+function, we propose that binding an object with its name may
+constitute an instance of associative memory. In addition to linking
+two paired associates, or an item with its context, we propose
+that the hippocampal response in picture naming helps establishing or retrieving the arbitrary association between an object and its
+name (c.f. Badecker et al., 1995; de Saussure, 1916). In short,
+hippocampal activity may link a particular item not only to its
+spatial context (Polyn & Kahana, 2008; Polyn, Natu, Cohen, &
+Norman, 2005; Sederberg et al., 2007), but also to a lexicophonological space, relating semantic and lexical aspects of the
+processed visual object.
+The associative function proposed for the hippocampus finds an
+structural support in its pattern of widespread connectivity
+through the neighboring MTL cortices. For example, in the case
+of picture naming, where an object first needs to be visually
+processed, hippocampal response is modulated by afferences from
+entorhinal cortex receiving activity related to object information,
+processed by the perirhinal cortex, at the tip of the ventral
+(``what?'') stream and their spatio-temporal context processed by
+the parahippocampal cortex, located toward the end of the dorsal
+(``where?'') stream (Saksida & Bussey, 2010). The perirhinal cortex,
+at the tip of the ventral stream, and the parahippocampal cortex
+project to the entorhinal cortex which in turn projects directly onto
+the hippocampus (cf. Wixted & Squire, 2011). Moreover, fMRI
+graph analysis have revealed hippocampal functional connections
+with the `associative-semantic network' and with cortical regions
+of the ventral visual stream (Vandenberghe et al., 2012). Indeed
+the two subsystems, the perisylvian network containing temporal
+posterior and inferior frontal structures, and the ventral stream
+network containing fusiform gyrus, perirhinal cortex and hippocampus, are connected through a unique link between left fusiform
+gyrus and the posterior third of left middle temporal gyrus
+(Vandenberghe et al., 2012). Interestingly those two `nodes' are
+well-known to participate in lexical-access (Deleon et al., 2007;
+Trebuchon-Da Fonseca et al., 2009).
+
+Before concluding, we acknowledge that the main limitation of
+our study is sample size and number of TOTs (six epilepsy patients
+and only one with sufficient TOTs). Note however, that direct electrophysiological recordings of the left hippocampus in humans are
+scarce. To the date, epilepsy patients are the only opportunity
+researchers have to examine hippocampal electrophysiological
+activity during cognitively motivated tasks such as picture naming.
+Indeed, from a total sample of 28 recorded patients, only eight had
+electrodes implanted in structurally healthy hippocampi (no signal
+abnormality on MRI). From those eight, one was discarded due to
+excessive epileptiform activity and another one due to poor task
+performance. Moreover, since humans are experts in naming visual
+objects, the picture naming task is relatively easy to perform; trials
+where the participants recognized the object, but failed to retrieve
+its name (TOT) were infrequent. Nevertheless, the functional relationship found between hippocampal response latency and naming
+latency was strong and consistent among the six participants. In
+the case of P1, where we could identify 20 TOTs, the contrast
+between hippocampal activity in correct trials vs. TOT was very
+clear, and converged with the observations made in the face categorization task on the basis of many more trials (100).
+
+5. Conclusions
+The data we report show that the left hippocampus is involved
+in picture naming to the point that its response latency predicts
+naming latency, and failure to activate it is associated with TOT
+states. In contrast, we found no functional relationship between
+hippocampal response and non-verbal categorization performance.
+Overall, our results demonstrate a close link between left hippocampus activity and the association of a visual object to its name,
+presumably involving linguistic processes (e.g. from the lexical or
+later processing levels in language production models). We conclude that a critical hippocampal function during visual object
+naming is to link visuo-semantic and lexical properties of a recognized visual object.
+Clearly, the scope of the above conclusion is tightly related to
+the main experimental task on which it is based, namely picture
+naming. Note however that picture naming has arguably been,
+and remains, the primary protocol to investigate basic process of
+word production in healthy and neurological patients. It remains
+to be tested in future research whether and how the hippocampus
+plays a functional role in other word production situations, such as
+spontaneous language production where the word to be uttered is
+not prompted by a visual stimulus.
+Acknowledgments
+We thank the Brain and Language Research Institute (Aix-Marseille Universite) and the Federation de Recherche 3C (CNRS) for
+institutional support, Prs. P. Chauvel, F. Bartolomei, Drs. Mc Gonigal , Gavaret, Villeneuve, Scavarda, Carron for providing access to
+patients and clinical data, and M.B. Intartaglia and P. Marquis for
+his dedicated help in data acquisition. Funding was provided by
+the European Research Council under the European Community's
+Seventh Framework Program (FP7/2007-2013 Grant agreement
+n 263575) to F.X.A., C.M.H., and by CPER 2007-2013 Telius-INRIA/
+INSERM to C.L.C.
+
+Appendix A. Supplementary material
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.bandl.2014.05.
+007.
+
+C.M. Hamame et al. / Brain & Language 135 (2014) 104-114
+
+References
+Aguera, P. E., Jerbi, K., Caclin, A., & Bertrand, O. (2011). ELAN: A software package for
+analysis and visualization of MEG, EEG, and LFP signals. Computational
+Intelligence and Neuroscience, 2011, 158970.
+Alario, F. X., & Ferrand, L. (1999). A set of 400 pictures standardized for French:
+Norms for name agreement, image agreement, familiarity, visual complexity,
+image variability, and age of acquisition. Behavior Research Methods,
+Instruments, & Computers, 31, 531-552.
+Alario, F. X., Ferrand, L., Laganaro, M., New, B., Frauenfelder, U. H., & Segui, J. (2004).
+Predictors of picture naming speed. Behavior Research Methods, Instruments, &
+Computers, 36, 140-155.
+Badecker, W., Miozzo, M., & Zanuttini, R. (1995). The two-stage model of lexical
+retrieval: Evidence from a case of anomia with selective preservation of
+grammatical gender. Cognition, 57, 193-216.
+Binder, J. R., Desai, R. H., Graves, W. W., & Conant, L. L. (2009). Where is the semantic
+system? A critical review and meta-analysis of 120 functional neuroimaging
+studies. Cerebral Cortex, 19, 2767-2796.
+Bonelli, S. B., Powell, R., Thompson, P. J., Yogarajah, M., Focke, N. K., Stretton, J., et al.
+(2011). Hippocampal activation correlates with visual confrontation naming:
+fMRI findings in controls and patients with temporal lobe epilepsy. Epilepsy
+Research, 95, 246-254.
+Bonin, P., Peereman, R., Malardier, N., Meot, A., & Chalard, M. (2003). A new set of
+299 pictures for psycholinguistic studies: French norms for name agreement,
+image agreement, conceptual familiarity, visual complexity, image variability,
+age of acquisition, and naming latencies. Behavior Research Methods,
+Instruments, & Computers, 35, 158-167.
+Brasted, P. J., Bussey, T. J., Murray, E. A., & Wise, S. P. (2003). Role of the hippocampal
+system in associative learning beyond the spatial domain. Brain, 126,
+1202-1223.
+Brown, A. S. (1991). A review of the tip-of-the-tongue experience. Psychological
+Bulletin, 109, 204-223.
+Brown, A. S. (2012). The tip of the tongue state. New York: Psychology Press.
+Buckley, M. J., & Gaffan, D. (2006). Perirhinal cortical contributions to object
+perception. Trends in Cognitive Sciences, 10, 100-107.
+Caramazza, A. (1997). How many levels of processing are there in lexical access?
+Cognitive Neuropsychology, 14, 177-208.
+Chan, A. M., Baker, J. M., Eskandar, E., Schomer, D., Ulbert, I., Marinkovic, K., et al.
+(2011). First-pass selectivity for semantic categories in human anteroventral
+temporal lobe. Journal of Neuroscience, 31, 18119-18129.
+Corkin, S. (1984). Lasting consequences of bilateral medial temporal lobectomy:
+Clinical curse and experimental findings in HM. Seminars in Neurology, 4,
+249-259.
+Crone, N. E., Sinai, A., & Korzeniewska, A. (2006). High-frequency gamma
+oscillations and human brain mapping with electrocorticography. Progress in
+Brain Research, 159, 275-295.
+Davies, K. G., Bell, B. D., Bush, A. J., Hermann, B. P., Dohan, F. C., & Jaap, A. S. (1998).
+Naming decline after left anterior temporal lobectomy correlates with
+pathological status of resected hippocampus. Epilepsia, 39, 407-419.
+de Saussure, F. (1916). In C. Bally & A. Sechehaye (Eds.), Cours de linguistique
+generale. Paris: Editorielle Payot.
+DeLeon, J., Gottesman, R. F., Kleinman, J. T., Newhart, M., Davis, C., Heidler-Gary, J.,
+et al. (2007). Neural regions essential for distinct cognitive processes underlying
+picture naming. Brain, 130, 1408-1422.
+Dell, G. D., Schwartz, M. F., Martin, M., Saffran, E. M., & Gagnon, D. A. (1997). Lexical
+access in aphasic and nonaphasic speakers. Psychological Review, 104, 801-838.
+DeRenzi, E., & Ferrari, C. (1978). The reporter's test: A sensitive test to detect
+expressive disturbances in aphasics. Cortex, 14, 279-293.
+Diana, R. A., Yonelinas, A. P., & Ranganath, C. (2007). Imaging recollection and
+familiarity in the medial temporal lobe: A three-component model. Trends in
+Cognitive Sciences, 11, 379-386.
+Diaz, F., Lindin, M., Galdo-Alvarez, S., Facal, D., & Onesimo, J. R. (2007). An eventrelated potentials study of face identification and naming: The tip-of-thetongue state. Psychophysiology, 44, 50-68.
+Edwards, E., Nagarajan, S. S., Dalal, S. S., Canolty, R. T., Kirsch, H. E., Barbaro, N. M.,
+et al. (2010). Spatiotemporal imaging of cortical activation during verb
+generation and picture naming. Neuroimage, 50, 291-301.
+Eichenbaum, H. (2004). Hippocampus: cognitive processes and neural
+representations that underlie declarative memory. Neuron, 44, 109-120.
+Flinker, A., Chang, E. F., Kirsch, E. H., Barbaro, N. M., Crone, N. E., & Knight, R. T.
+(2010). Single-trial speach suppression of auditory cortex activity in humans.
+Journal of Neuroscience, 30, 16643-16650.
+Freeman, W., & Zhai, J. (2009). Simulated power spectral density (PSD) of
+background electrocorticogram (EcoG). Cognitive Neurodynamics, 3, 97-103.
+Glaser, W. R. (1992). Picture naming. Cognition, 42, 61-105.
+Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception and
+action. Trends in Neurosciences, 15, 20-25.
+Goodglass, H., Theurkauf, J. C., & Wingfield, A. (1984). Naming latencies as evidence
+for two modes of lexical retrieval. Applied Psycholinguistics, 5, 135-146.
+Hamame, C. M., Vidal, J. R., Ossandon, T., Jerbi, K., Dalal, S. S., Minotti, L., et al. (2012).
+Reading the mind's eye: Online detection of visuospatial working memory and
+visual imagery in the inferior temporal lobe. Neuroimage, 59, 872-879.
+Hamberger, M. J., Seidel, W. T., Goodman, R. R., & McKhann, G. M. (2010). Does
+cortical mapping protect naming if surgery includes hippocampal resection?
+Annals of Neurology, 67, 345-352.
+
+113
+
+Hamberger, M. J., Seidel, W. T., Goodman, R. R., Williams, A., Perrine, K., Devinsky, O.,
+et al. (2007). Evidence for cortical reorganization of language in patients with
+hippocampal sclerosis. Brain, 130, 2942-2950.
+Henke, K., Weber, B., Kneifel, S., Wieser, H. G., & Buck, A. (1999). Human
+hippocampus associates information in memory. Proceedings of the National
+academy of Sciences of the United States of America, 96, 5884-5889.
+Hocking, J., McMahon, K. L., & Zubicaray, G. I. (2008). Semantic context and visual
+feature effects in object naming: An fMRI study using arterial spin labeling.
+Journal of Cognitive Neuroscience, 21, 1571-1583.
+Indefrey, P. (2011). The spatial and temporal signatures of word production
+components: A critical update. Frontiers in Psychology, 2, 255.
+Ives-Deliperi, V. L., & Butler, J. T. (2012). Naming outcomes of anterior temporal
+lobectomy in epilepsy patients: A systematic review of the literature. Epilepsy &
+Behavior, 24, 194-198.
+Jerbi, K., Ossandon, T., Hamame, C. M., Senova, S., Dalal, S. S., Jung, J., et al. (2009).
+Task-related gamma-band dynamics from an intracerebral perspective: Review
+and implications for surface EEG and MEG. Human Brain Mapping, 30,
+1758-1771.
+Kikyo, H., Ohki, K., & Sekihara, K. (2001). Temporal characterization of memory
+retrieval processes: An fMRI study of the `tip of the tongue' phenomenon.
+European Journal of Neuroscience, 14, 887-892.
+Konkel, A., & Cohen, N. J. (2009). Relational memory and the hippocampus:
+Representations and methods. Frontiers in Neuroscience, 3, 166.
+Lachaux, J. P., Axmacher, N., Mormann, F., Halgren, E., & Crone, N. E. (2012). Highfrequency neural activity and human cognition: Past, present and possible
+future of intracranial EEG research. Progress in Neurobiology, 98, 279-301.
+Le Van Quyen, M., Foucher, J., Lachaux, J. P., Rodriguez, E., Lutz, A., Martinerie, J.,
+et al. (2001). Comparison of Hilbert transform and wavelet methods for the
+analysis of neuronal synchrony. Journal of Neuroscience Methods, 111, 83-98.
+Le Van Quyen, M., Staba, R., Bragin, A., Dickson, C., Valderrama, M., Fried, I., et al.
+(2010). Large-scale microelectrodes recordings of high-frequency gamma
+oscillations in human cortex during sleep. Journal of Neuroscience, 30,
+7770-7782.
+Levelt, W. J. M., Roelofs, A., & Meyer, A. S. (1999). A theory of lexical access in speech
+production. Behavioral and Brain Sciences, 22, 1-75.
+Liegeois-Chauvel, C., Musolino, A., Badier, J. M., Marquis, P., & Chauvel, P. (1994).
+Evoked potentials recorded from the auditory cortex in man: Evaluation and
+topography of the middle latency components. Electroencephalography and
+Clinical Neurophysiology, 92, 204-214.
+Llorens, A., Trebuchon-Da Fonseca, A., Lliegeois-Chauvel, C., & Alario, F. X. (2011).
+Intra-cranial recordings of brain activity during language production. Frontiers
+in Psychology, 2(375), 2011.
+Ludowig, E., Trautner, P., Kurthen, M., Schaller, C., Bien, C. G., Elger, C. E., et al.
+(2008). Intracranially recorded memory-related potentials reveal higher
+posterior than anterior hippocampal involvement in verbal encoding and
+retrieval. Journal of Cognitive Neuroscience, 20, 841-851.
+Mackay, D. G., Burke, D. M., & Stewart, R. (1998). H.M'.s language production
+deficits: Implications for relations between memory, semantic binding, and the
+hippocampal system. Journal of Memory and Language, 38, 28-69.
+MacKay, D. G., James, L. E., & Hadley, C. B. (2007). Amnesic H.M.'s performance on
+the language competence test: parallel deficits in memory and sentence
+production. Journal of Clinical and Experimental Neuropsychology, 1-21.
+Mackay, D. G., James, L. E., Hadley, C. B., & Fogler, K. A. (2011). Speech errors of
+amnesic H.M.: Unlike everyday slips-of-the-tongue. Cortex, 47, 377-408.
+MacKay, D. G., James, L. E., Taylor, J. K., & Marian, D. E. (2007). Amnesic H.M. Exhibits
+parallel deficits and sparing in language and memory: Systems vs binding
+theory accounts. Language and Cognitive Processes, 22, 377-452.
+Mackay, D. G., Stewart, R., & Burke, D. M. (1998). H.M. Revisited: Relations between
+language comprehension, memory, and the hippocampal system. Journal of
+Cognitive Neuroscience, 10, 377-394.
+Mainy, N., Jung, J., Baciu, M., Kahane, P., Schoendorff, B., Minotti, L., et al. (2008).
+Cortical dynamics of word recognition. Human Brain Mapping, 29,
+1215-1230.
+Manning, J. R., Jacobs, J., Fried, I., & Kahana, M. J. (2009). Broadband shifts in local
+field potential power spectra are correlated with single-neuron spiking in
+humans. Journal of Neuroscience, 29, 13613-13620.
+Manning, J. R., Sperling, M. R., Sharan, A., Rosenberg, E. A., & Kahana, M. L. (2012).
+Spontaneously reactivated patterns in frontal and temporal lobe predict
+semantic clustering during memory search. Journal of Neuroscience, 32,
+8871-8878.
+Marchand, H. (2010). Phonetic symbolism in English word-formation. Indoger
+Forschindoger, 64, 146-168.
+Mayes, A., Montaldi, D., & Migo, E. (2007). Associative memory and the medial
+temporal lobes. Trends in Cognitive Sciences, 11, 126-135.
+Miller, K. (2010). Broadband spectral change: Evidence for a macroscale correlate of
+population firing rate? Journal of Neuroscience, 30, 6477-6479.
+Miozzo, M., & Caramazza, A. (1997). Retrieval of lexical-syntactic features in tip-ofthe-tongue states. Journal of Experimental Psychology. Learning, Memory, and
+Cognition, 23, 1410-1423.
+Moses, S. N., & Ryan, J. D. (2006). A comparison and evaluation of the predictions of
+relational and conjunctive accounts of hippocampal function. Hippocampus, 16,
+43-65.
+Perrone-Bertolotti, M., Kujala, J., Vidal, J. R., Hamame, C. M., Ossandon, T., Bertrand,
+O., et al. (2012). How silent is silent reading? Intracerebral evidence for topdown activation of temporal voice areas during reading. Journal of Neuroscience,
+32, 17554-17562.
+
+114
+
+C.M. Hamame et al. / Brain & Language 135 (2014) 104-114
+
+Petrides, M. (1985). Deficits on conditional associative-learning tasks after frontaland temporal-lobe lesions in man. Neuropsychologia, 23, 601-614.
+Pihlajamaki, M., Tanila, H., Kononen, M., Laakso, M., Partanen, K., Soininen, H.,
+et al. (2000). Verbal fluency activates the left medial temporal lobe: A
+functional magnetic resonance imaging study. Annals of Neurology, 47,
+470-476.
+Polyn, S. M., & Kahana, M. J. (2008). Memory search and the neural representation of
+context. Trends in Cognitive Sciences, 12, 24-30.
+Polyn, S. M., Natu, V. S., Cohen, J. D., & Norman, K. A. (2005). Category-specific
+cortical activity precedes retrieval during memory search. Science, 310,
+1963-1966.
+Preston, A. R., Shrager, Y., Dudkovic, N. M., & Gabrieli, J. D. (2004). Hippocampal
+contribution to the novel use of relational information in declarative memory.
+Hippocampus, 14, 148-152.
+Price, C. J. (2012). A review and synthesis of the first 20 years of PET and fMRI
+studies of heard speech, spoken language and reading. Neuroimage, 62,
+816-847.
+Ranganath, C., Cohen, M. X., Dam, C., & D'Esposito, M. (2004). Inferior temporal,
+prefrontal, and hippocampal contributions to visual working memory
+maintenance and associative memory retrieval. Journal of Neuroscience, 24,
+3917-3925.
+Ray, S., & Maunsell, J. H. (2011). Different origins of gamma rhythm and high
+gamma activity in macaque visual cortex. PLoS Biology, 9, e1000610.
+Ries, S., Janssen, N., Burle, B., & Alario, F. X. (2013). Response-locked brain dynamics
+of word production. PLoS ONE, e58197.
+Rutishauser, U., Schuman, E., & Mamelak, A. N. (2008). Activity of human
+hippocampal and amygdala neurons during retrieval of declarative memories.
+Proceedings of the National academy of Sciences of the United States of America,
+105, 329-334.
+Sabsevitz, D. S., Swanson, S. J., Hammeke, T. A., Spanaki, M. V., Possing, E. T., Morris,
+G. L., et al. (2003). Use of preoperative functional neuroimaging to predict
+language deficits from epilepsy surgery. Neurology, 60, 1788-1792.
+Sahin, N. T., Pinker, S., Cash, S. S., Schomer, D., & Halgren, E. (2009). Sequential
+processing of lexical, grammatical, and phonological information within Broca's
+Area. Science, 326, 445-449.
+Saksida, L. M., & Bussey, T. J. (2010). The representational-hierarchical view of
+amnesia: Translation from animal to human. Neuropsychologia, 48, 2370-2384.
+Salmelin, R., Hari, R., & Lounasmaa, O. (1994). Dynamics of brain activation during
+picture naming. Nature, 368, 463-465.
+Sawrie, S. M., Martin, R. C., Gilliam, F. G., Faught, R. E., Maton, B., Hugg, J. W., et al.
+(2000). Visual confrontation naming and hippocampal function: A neural
+network study using quantitative (1): H magnetic resonance spectroscopy.
+Brain, 123, 770-780.
+Sederberg, P. B., Schulze-Bonhage, A., Madsen, J. R., Bromfield, E. B., Litt, B., Brandt,
+A., et al. (2007). Gamma oscillations distinguish true from false memories.
+Psychological Science, 18, 927-932.
+
+Seidenberg, M., Geary, E., & Hermann, B. (2005). Investigating temporal lobe
+contribution to confrontation naming using MRI quantitative volumetrics.
+Journal of the International Neuropsychological Society, 11, 358-366.
+Shakespeare, W. (1599). Romeo and Juliet. London: Thomas Creede & Curthbert
+Burby.
+Swanson, S. J., Sabsevitz, D. S., Hammeke, T. A., & Binder, J. R. (2007). Functional
+magnetic resonance imaging of language in epilepsy. Neuropsychology Review,
+17, 491-504.
+Tallon-Baudry, C., Bertrand, O., Delpuech, C., & Pernier, J. (1996). Stimulus specificity
+of phase-locked and non-phase-locked 40 Hz visual responses in human.
+Journal of Neuroscience, 16, 4240-4249.
+Taylor, K. I., Moss, H. E., Stamatakis, E. A., & Tyler, L. K. (2006). Binding crossmodal
+object features in perirhinal cortex. Proceedings of the National academy of
+Sciences of the United States of America, 103, 8239-8244.
+Trebuchon-Da Fonseca, A., Guedj, E., Alario, F. X., Laguitton, V., Mundler, O., Chauvel,
+P., et al. (2009). Brain regions underlying word finding difficulties in temporal
+lobe epilepsy. Brain, 132, 2772-2784.
+Ungerleider, L. G., & Mishkin, M. (1982). Two cortical visual systems. In D. J. Ingle,
+M. A. Goodale, & R. J. W. Mansfield (Eds.), Analysis of visual behavior
+(pp. 549-586). Cambridge, MA: MIT Press.
+Vandenberghe, R., Wang, Y., Nelissen, N., Vandenbulcke, M., Dhollander, T., Sunaert,
+S., et al. (2012). The associative-semantic network for words and pictures: Effective
+connectivity and graph analysis. Brain Lang in Press.
+Vidal, J. R., Freyermuth, S., Jerbi, K., Hamame, C. M., Ossandon, T., Bertrand, O., et al.
+(2012). Long-distance amplitude correlations in the high gamma-band reveal
+segregation and integration within the reading network. Journal of Neuroscience,
+32, 6421-6434.
+Vigliocco, G., Antonini, T., & Garrett, M. F. (1997). Grammatical gender is on the tip
+of Italian tongues. Psychological Science, 8, 314-317.
+Whitney, C., Weis, S., Krings, T., Huber, W., Grossman, M., & Kircher, T. (2009). Taskdependent modulations of prefrontal and hippocampal activity during intrinsic
+word production. Journal of Cognitive Neuroscience, 21, 697-712.
+Wirth, S., Yanike, M., Frank, L. M., Smith, A. C., Brown, E. N., & Suzuki, W. A. (2003).
+Single neurons in the monkey hippocampus and learning of new associations.
+Science, 300, 1578-1581.
+Wixted, J. T., & Squire, L. R. (2011). The medial temporal lobe and the attributes of
+memory. Trends in Cognitive Sciences, 15, 210-217.
+Wu, H. C., Nagasawa, T., Brown, E. C., Juhasz, C., Rothermel, R., Hoechstetter, K., et al.
+(2012). Gamma-oscillations modulated by picture naming and word reading:
+Intracranial recording in epileptic patients. Clinical Neurophysiology, 122, 1929-1942.
+Zeineh, M. M., Engel, S. A., Thompson, P. M., & Bookheimer, S. Y. (2003). Dynamics of
+the hippocampus during encoding and retrieval of face-name pairs. Science, 299,
+577-580.
+Zuckerman, M., Levy, D. A., Tibon, R., Reggev, N., & Maril, A. (2012). Does this ring a
+bell? Music-cued retrieval of semantic knowledge and metamemory
+judgments. Journal of Cognitive Neuroscience, 24, 2155-2170.
+
+

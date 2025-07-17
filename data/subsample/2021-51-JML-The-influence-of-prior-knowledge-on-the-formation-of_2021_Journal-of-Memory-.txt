@@ -1,0 +1,2192 @@
+Journal of Memory and Language 121 (2021) 104264
+
+Contents lists available at ScienceDirect
+
+Journal of Memory and Language
+journal homepage: www.elsevier.com/locate/jml
+
+The influence of prior knowledge on the formation of detailed and
+durable memories
+B. Bellana a, c, *, R. Mansour b, N. Ladyka-Wojcik c, C.L. Grady c, d, e, *, M. Moscovitch c, d, *
+a
+
+Department of Psychological & Brain Sciences, Johns Hopkins University, United States
+Perelman School of Medicine, University of Pennsylvania, United States
+c
+Department of Psychology, University of Toronto, Canada
+d
+Rotman Research Institute, Baycrest, Canada
+e
+Department of Psychiatry, University of Toronto, Canada
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Knowledge
+Learning
+Memory
+Episodic
+Semantics
+Schema
+
+Prior knowledge often improves recognition, but its relationship to the retrieval of memory detail is unclear.
+Resource-based accounts of recognition suggest that familiar stimuli are more efficiently encoded into memory,
+thus freeing attentional resources to encode additional details from a study episode. However, schema-based
+theories would predict that activating prior knowledge can lead to the formation of more generalized repre
+sentations in memory. Across a series of four experiments, we examined the relationship between prior
+knowledge and memory for extrinsic context (i.e., extra-item details from the surrounding study episode) and
+intrinsic context (i.e., memory for the precise intra-item features of the studied target itself). Familiar stimuli
+(famous faces and popular foods/beverages) were associated with better memory for extrinsic context, oper
+ationalized as Remember responses and objective source memory accuracy. Self-reported degree of prior
+knowledge associated with a given image was also predictive of this effect. Prior knowledge improved recog
+nition memory during a surprise delayed recognition test, even under conditions in which study was uninten
+tional, supporting the idea of efficient encoding. Critically, in a paradigm in which recognition required the
+correct rejection of highly perceptually similar lures, prior knowledge was associated with more false alarms. Our
+results suggest that stimuli associated with prior knowledge are indeed efficiently encoded into memory, freeing
+more attentional resources to encode extrinsic context. This benefit, however, may come at the cost of memory
+precision for the item itself. By examining extrinsic and intrinsic context separately, we demonstrate that
+resource and schema-based theories provide complementary accounts of how prior knowledge influences
+memory detail.
+
+Introduction
+Prior knowledge supports our ability to form new memories. For
+example, item memory is markedly better for familiar as compared to
+unfamiliar faces (Backman, 1991; Bird, Davies, Ward, & Burgess, 2011;
+Klatzky & Forrest, 1984; Yarmey, 1971). In many of these experiments,
+the presence of prior knowledge was incidental to the recognition
+memory decision and yet studied faces were much more likely to be
+accurately recognized if they were of individuals that were already
+familiar to the participants (e.g., famous actors). This benefit of prior
+knowledge on item memory is by no means limited to faces. Studies of
+expertise have used a wide range of stimuli to demonstrate a positive
+relationship between knowledge and item recognition (e.g., chess:
+
+Goldin, 1979; baseball: Chiesi, Spilich, & Voss, 1979; medical images:
+Evans et al., 2011; Myles-Worsley, Johnston, & Simons, 1988; own-race
+effects: Goldstein & Chance, 1980; mountain scenes: Kawamura, Suzuki,
+& Morikawa, 2007). Functional neuroimaging experiments also have
+demonstrated clear differences in the brain when prior knowledge is
+available as opposed to when it is not (Bar, Aminoff, & Ishai, 2008; Bein,
+Reggev, & Maril, 2020; Brod, Lindenberger, & Shing, 2017; Brod,
+Werkle-Bergner, & Shing, 2013; Chen et al., 2016; Gobbini & Haxby,
+2007; Liu, Grady, & Moscovitch, 2016; Poppenk, Moscovitch, & McIn
+tosh, 2016; van Kesteren, Ruiter, Fernandez, & Henson, 2012; van
+Kesteren, Rijpkema, Ruiter, Morris, & Fernandez, 2014; van Kesteren,
+Rijpkema, & Ruiter, 2010). Overall, prior knowledge appears to be an
+important determinant of learning and memory.
+
+* Corresponding authors at: Department of Psychology, University of Toronto, Canada.
+E-mail addresses: bbellana@jhu.edu (B. Bellana), cgrady@research.baycrest.org (C.L. Grady), momos@psych.utoronto.ca (M. Moscovitch).
+https://doi.org/10.1016/j.jml.2021.104264
+Received 27 April 2020; Received in revised form 25 May 2021; Accepted 26 May 2021
+Available online 9 June 2021
+0749-596X/(c) 2021 Elsevier Inc. All rights reserved.
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+Despite a pronounced item memory benefit, it remains unclear
+whether prior knowledge is associated with the formation of more
+detailed memory representations. To operationalize memory detail, we
+turn to the distinction between intrinsic and extrinsic context described
+by Ecker, Zimmer, and Groh-Bordin (2007a) and Mulligan (2011).
+Extrinsic context refers to memory for extra-item details from the
+encoding context (i.e., source memory), such as the background on
+which a stimulus was presented, which stimuli were spatially or
+temporally adjacent to the target item, or even what the individual's
+thoughts and mental states were at encoding. Intrinsic context refers to
+the granularity of intra-item details in memory, or the level of grain at
+which we are able to encode the physical properties of the stimulus it
+self, ranging from detail-impoverished to high-fidelity perceptually-rich
+memory representations. These two dimensions of memory detail have
+been posited to rely on separable types of representations in memory
+(Ecker et al., 2007a; Ecker, Zimmer, & Groh-Bordin, 2007b), are
+differentially impacted by certain encoding manipulations (e.g., gener
+ation effect; Mulligan, 2011; Mulligan, Lozito, & Rosner, 2006), are
+associated with different patterns of performance in old age (Spencer &
+Raz, 1995; Troyer, Winocur, Craik, & Moscovitch, 1999) and, therefore,
+provide a concrete operationalization of memory detail for our pur
+poses. Though memory detail certainly contributes to the item recog
+nition benefits associated with prior knowledge (e.g., via memory
+strength; Wixted, 2007), item recognition often employs binary old-new
+decisions that fail to measure either type of detail directly. Therefore, it
+remains an open question to what extent prior knowledge boosts
+memory source and detail in addition to overall recognition.
+Should prior knowledge afford the formation of more detailed
+memories? Resource-based accounts contend that prior knowledge
+benefits memory as familiar stimuli are easier to chunk and thus less
+demanding on limited attentional resources at encoding (DeWitt,
+Knight, Hicks, & Ball, 2012; Diana & Reder, 2006; Popov & Reder, 2020;
+Reder et al., 2013). If familiar stimuli require less attentional resources
+than unfamiliar stimuli, more resources should also be available to
+encode additional details from the study episode. Studies of associative
+and source memory are consistent with this hypothesis, demonstrating
+that the more familiar we are with a stimulus, whether via preexperimental knowledge (Brandt, Cooper, & Dewhurst, 2005; DeWitt
+et al., 2012; Horry, Wright, & Tredoux, 2010; Liu et al., 2016; Long, Prat,
+Johns, Morris, & Jonathan, 2008; Long & Prat, 2002; Reder et al., 2013)
+or repeated exposure within an experiment (Reder, Liu, Keinath, &
+Popov, 2016), the more likely we are to bind the studied target to its
+context or form new associations. Studies of visual working memory also
+show that we are better able to hold perceptual details in mind for
+stimuli that are familiar (e.g., upright faces) as compared to unfamiliar
+ones (e.g., inverted faces) (Curby & Gauthier, 2007; Curby, Glazek, &
+Gauthier, 2009; Jackson & Raymond, 2008; Scolari, Vogel, & Awh,
+2008). Also, familiar stimuli are broadly less demanding on working
+memory resources (Brady, Stormer, & Alvarez, 2016), again consistent
+with predictions from resource-based accounts (see also, Shen, Popov,
+Delahay, & Reder, 2018).
+The memory benefits of prior knowledge also have been attributed to
+schemas. According to schema theory, stimuli associated with prior
+knowledge activate related knowledge structures into which new
+learning can be assimilated (Alba & Hasher, 1983; Bein, Trzewik, &
+Maril, 2019; Bransford & Johnson, 1972; Ghosh & Gilboa, 2014; Gilboa
+& Marlatte, 2017). Activating existing knowledge structures can support
+new learning, but this benefit tends to be specific to information that is
+consistent with existing knowledge. Information that is inconsistent
+with schemas, on the other hand, can cause interference and is more
+difficult to learn (McClelland, 2013; McClelland, McNaughton, &
+O'Reilly, 1995). Neural models of schema-based learning further posit
+that the activation of existing knowledge structures can down-regulate
+hippocampal activity and make it less likely that we encode new de
+tails (van Kesteren et al., 2012). Inconsistent information, on the other
+hand, elicits a prediction error which upregulates hippocampal
+
+encoding of details from our surroundings (Bein, Duncan, & Davachi,
+2020; Kumaran & Maguire, 2007; van Kesteren et al., 2012). Such a
+mechanism should also have general consequences for learning of
+arbitrary details from a study episode. For example, when studying a
+familiar stimulus in a recognition memory paradigm, one should expect
+it to evoke prior knowledge while simultaneously failing to elicit a
+prediction error, amounting to a more generalized and detailimpoverished memory. A similar generalization effect can be observed
+when participants have some way of labelling a target item during study
+(e.g., a name), again resulting in learned representations that are less
+context-specific than when they are studied without a label (Armann,
+Jenkins, & Burton, 2016; Schwartz & Yovel, 2016). This kind of
+abstraction process is central to many schema-based accounts of
+learning and memory, in which activating a knowledge framework al
+lows for the robust encoding of the central elements of an episode while
+simultaneously reducing the saliency of idiosyncratic details that are less
+likely to occur again (Alba & Hasher, 1983; Gilboa & Marlatte, 2017;
+Sekeres et al., 2016).
+Resource-based and schema theories differ in their predictions about
+how prior knowledge should affect memory detail. The two theories,
+however, may complement one another if we consider the constituent
+elements of extrinsic and intrinsic context separately. Specifically, the
+generalizing effect associated with schemas may be specific to intrinsic
+context. Take the example of studying a famous face in the context of a
+recognition memory experiment. At encoding, a famous face may evoke
+general schematic associations (e.g., its name, its typical appearance, its
+semantic or autobiographical associations, etc.). By activating these
+associations, the study episode may be easily recoded as a meaningful
+chunk of experience - requiring fewer resources to encode and, in turn,
+leaving more attentional resources available to encode extrinsic context
+from the study episode (e.g, DeWitt et al., 2012; Diana & Reder, 2006;
+Popov & Reder, 2020; Reder et al., 2013). This efficient encoding pro
+cess, however, may lead to a loss of intrinsic context in memory. For
+example, if famous faces trigger existing representations of the appear
+ance of a given person, this schematic information may interfere with
+the encoding of their particular appearance in a new study episode (e.g.,
+McClelland, 2013; van Kesteren et al., 2012). In a related idea to
+interference, the process of chunking itself may be associated with in
+formation loss depending on how it is operationalized. Chunking is the
+process of recoding multiple features (e.g., a study episode) into a single
+unit in memory (de Groot, 1965; Gobet et al., 2001; Gobet & Simon,
+1998; Miller, 1956) and consequently can be thought of as an example of
+data compression. Data compression schemes are commonly divided
+into two classes: lossless vs. lossy compression. Lossless compression
+allows for the perfect reconstruction of the original data from its com
+pressed form, while lossy compression permits information loss to allow
+for more substantial compression (Sayood, 2003; see also Nassar,
+Helmers, & Frank, 2018; Norris & Kalm, 2018). Compression exploits
+the redundancy in an input stream. Simple, structured, low-dimensional
+inputs can be easily compressed and reconstructed from memory (e.g.,
+Mathy & Feldman, 2012), while complex multifeatured stimuli like faces
+may be difficult to compress without losing some stimulus information.
+Therefore, the efficient chunking of familiar faces, for example, may
+come at the cost of a more generalized representation of the face itself (i.
+e., loss of intrinsic context) despite facilitating the encoding of extrinsic
+context from the study episode. Unfamiliar faces, which lack associa
+tions with prior knowledge, will instead be more difficult to chunk and
+thus may maintain their intra-item fidelity without leaving enough re
+sources available to encode extra-item details. Considering the constit
+uent elements of memory detail separately allows for the possibility that
+prior knowledge simultaneously facilitates the encoding of extrinsic
+context while impairing the encoding of intrinsic context, thus acting as
+a potential bridge across resource and schema-based accounts. To our
+knowledge, no work has yet compared the influence of prior knowledge
+on these separable aspects of memory detail.
+In a series of 4 experiments, we tested this possibility by examining
+2
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+how prior knowledge related to extrinsic and intrinsic context during
+recognition. Experiments 1-3 focus on extrinsic context and Experiment
+4 tests intrinsic context. In Experiment 1, participants encoded a series
+of famous and non-famous faces. Memory for extrinsic context was
+assessed using subjective and objective measures of source memory. To
+provide a point of comparison for prior knowledge, we also included a
+manipulation of how long the faces were onscreen during encoding (1 or
+4s). Experiment 2 examined whether participants' self-reported degree
+of familiarity with famous faces was able to predict benefits in extrinsic
+context. Experiment 3 generalized our findings to another class of
+stimuli: branded foods and beverages. Finally, Experiment 4 examined
+intrinsic context to directly test whether prior knowledge was associated
+with the formation of higher (or lower)-grain representations of the
+studied stimulus itself. To this end, we modified our paradigm based on
+the mnemonic similarity task (MST) (Kirwan & Stark, 2007; Stark,
+Yassa, Lacy, & Stark, 2013), to test whether prior knowledge would
+continue to support accurate recognition even when it required the
+correct rejection of highly-similar lures.
+In addition to improving performance on an immediate memory test,
+encoding information into pre-existing knowledge structures can facil
+itate neocortical learning and consolidation. Prior knowledge facilitates
+the formation of durable memories more quickly than expected by
+standard hippocampal learning of novel information (McClelland, 2013;
+Sharon, Moscovitch, & Gilboa, 2011; Tse et al., 2007; for related dis
+cussions, see Antony, Ferreira, Norman, & Wimber, 2017; Gilboa &
+Marlatte, 2017). Benefits of prior knowledge on memory consolidation
+have also been reported to extend beyond intentional learning, carrying
+into incidental learning (e.g., Wattenmaker, 1999). Therefore, we also
+examined the role of prior knowledge on the formation of durable
+memories in Experiment 2 and 3 via a surprise delayed recognition test.
+To preview our results, we observed a reliable benefit of prior
+knowledge on the formation of detailed memories, using both subjective
+and objective measures of extra-item detail. This effect was greater than
+that of encoding duration and generalized across both stimulus classes.
+The degree of prior knowledge associated with a stimulus predicted the
+likelihood of recollecting extrinsic context and the benefit of prior
+knowledge persisted into delayed recognition, even under conditions of
+incidental encoding. Prior knowledge, however, was associated with
+more false alarms to highly perceptually similar lures - suggesting a loss
+of intrinsic context when encoding familiar stimuli. Overall, our results
+show that the availability of prior knowledge at encoding supports
+extrinsic context at the cost of intrinsic context - providing novel evi
+dence for an important link between resource and schema-based ac
+counts of knowledge-driven learning.
+
+based on previous studies of prior knowledge and memory (Bird et al.,
+2011; Brandt et al., 2005; Liu et al., 2016; Poppenk, Kohler, & Mosco
+vitch, 2010). Seven participants did not meet our inclusion criteria for
+the final sample and were excluded from subsequent analyses [i.e., they
+did not recognize at least 60% of famous faces/correctly reject at least
+60% of non-famous faces (n = 2), or limited use (<5) of either the
+Remember or Know responses (n = 5)]. Our final sample included 24
+participants (years of age: M = 22.7, SD = 2.6; years of education: M =
+15.8, SD = 1.2; nfemale = 19). Sample sizes for subsequent experiments
+were chosen based on power analyses performed using effect sizes from
+Experiment 1. All studies were approved by the Research Ethics Board at
+the University of Toronto and informed consent was given by each
+participant before participating.
+Stimuli
+Images were obtained from the Internet using Google image search
+to create a pool of 400 stimuli. Two-hundred images were of famous
+celebrities and 200 were of non-famous people. Both famous and nonfamous pools were balanced for sex, with 100 male and 100 female
+images each. Faces were neutral to slightly positive in expression. Nonfamous faces were each manually matched for age, race, and other
+distinctive features with a corresponding famous face to ensure no
+overall differences across stimulus pools. Furthermore, images of nonfamous people were selected to be "famous-like", such that they were
+often found on various modelling agency websites and their image
+quality was comparable to those of the famous celebrities. The faces
+were manually centered and cropped from the full image using an oval
+frame in Adobe Photoshop and resized to 475x595 pixels. Images were
+set to black and white and their luminance was matched using SHINE
+toolbox (Willenbockel et al., 2010) and custom scripts in Matlab
+(MathWorks, Natick, MA, USA). A scrambled version of each face was
+also generated using custom scripts in Matlab (MathWorks, Natick, MA,
+USA), such that each image was divided into 5-pixel clusters and then
+randomly shuffled. These scrambled images were used for null trials.
+An online pilot study was conducted to collect normative subjective
+ratings on the stimuli. All 400 face stimuli were incorporated into a
+survey via Qualtrics (Qualtrics, Provo, Utah, USA), and 7 separate rat
+ings were collected for each face. The 7 rating tasks included in the
+survey were as follows: 1) recognition and nameability, and 5-point
+ratings of 2) fame, 3) facts known about the person pictured, 4) per
+sonal memories associated with the person pictured, 5) emotionality, 6)
+facial expression, and 7) attractiveness (for details, see Supplementary
+Material: Section 1). The survey was administered in-lab and online
+using Amazon's Mechanical Turk (Amazon, Seattle, WA, USA), and
+included a total of 225 participants between the ages of 19 and 28.
+Participants were all either in Canada or the USA when completing the
+survey and gave their consent before participating. Each participant was
+presented with a randomly selected subset of 100 faces, 50 famous and
+50 non-famous, and was required to perform all seven ratings per face.
+One catch trial per rating task was included instructing participants to
+make a specific rating, serving as a quality-check to ensure all partici
+pants were following instructions. Data from participants with an
+incorrect catch trial in any of the seven rating tasks were excluded
+entirely from all subsequent analyses. Ratings from 190 participants
+survived this strict exclusion criterion, which amounted to ratings from
+47 to 58 participants per face.
+Only famous faces that were reliably recognized across participants
+were included in the stimulus pool for the main recognition experi
+ments. To isolate the most reliably recognized faces, recognition was
+operationalized as: (% of participants who recognized a given face) - (%
+of participants who did not recognize a given face). Positive values
+indicate that the majority of participants recognized the face, while
+negative values indicate that the majority of participants did not. The
+final stimulus pool consisted of 128 faces that were the most recogniz
+able (M = 68%, SD = 20%) and their age and race matched non-famous
+
+Experiment 1
+In Experiment 1, we sought to replicate the relationship between
+prior knowledge and memory for extrinsic context. To this end, we
+presented participants with famous and non-famous faces in the context
+of a recognition memory experiment using the Remember-Know para
+digm (Tulving, 1985). Extrinsic context was operationalized as
+Remember hits and objective source memory accuracy (i.e., memory for
+the colour of a border presented around the face at study). We also
+manipulated encoding duration (1 vs 4 s) for famous and non-famous
+faces alike, allowing us to examine how prior knowledge influences
+memory detail as compared to prolonged exposure.
+Methods
+Participants
+Thirty-one young adults between 19 and 30 years of age participated
+in the experiment. Participants were recruited from the University of
+Toronto and surrounding areas and were compensated at a rate of $10/
+hour with an average testing session lasting 2 h. Sample size was chosen
+3
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+counterparts (M = - 78%, SD = 12%) for a total of 256 faces. Both
+famous and non-famous stimulus pools used for recognition were
+balanced in terms of sex (nmale = 64, nfemale = 64, for both famous and
+non-famous pools). Independent samples t-tests were used to compare
+average ratings across the final famous and non-famous stimulus pools,
+with Bonferroni adjusted p-values for multiple comparisons by multi
+plying the uncorrected p-values by the total number of comparisons (i.e.,
+6). The famous and non-famous faces were comparable in terms of
+attractiveness (Mfamous = 2.8, Mnon-famous = 2.7; t(254) = 2.25, p > .1,
+Cohen's d = .28), but robustly differed in terms of fame (Mfamous = 3.8,
+Mnon-famous = 1.4; t(254) = 39.9, p < .0001, Cohen's d = 4.99), facts
+known (Mfamous = 3.3, Mnon-famous = 1.3; t(254) = 44.69, p < .0001,
+Cohen's d = 5.59), personal memories (Mfamous = 2.6, Mnon-famous = 1.2; t
+(254) = 28.23, p < .0001, Cohen's d = 5.59), and emotionality (Mfamous
+= 2.7, Mnon-famous = 1.7; t(254) = 36.71, p < .0001, Cohen's d = 3.53).
+These robust differences were by design, as the measures with large
+differences were on rating scales that tapped into aspects of prior
+knowledge. Relative to prior knowledge, a modest difference was also
+found in facial expression (Mfamous = 2.6, Mnon-famous = 2.3; t(254) =
+3.85, p = .0009, Cohen's d = .48), suggesting the famous faces were
+perceived to be slightly more expressive.
+
+recognition in the absence of any recall of additional contextual infor
+mation. The degree to which these two signals are separate remains
+debated (Diana, Reder, Arndt, & Park, 2006; Moran & Goshen-Gottstein,
+2015; Slotnick, 2010; Slotnick, Jeye, & Dodson, 2016; Wixted & Stretch,
+2004; Yonelinas, 2002; Yonelinas, Aly, Wang, & Koen, 2010), however,
+the Remember responses provide a useful subjective index of the extent
+to which recognition is accompanied by the re-experiencing of source
+details from the study episode.
+In order to probe overall recognition memory performance, we
+calculated d , or the standardized difference between the proportion of
+accurately recognized old trials (hits) and the proportion of new trials
+that were incorrectly recognized (false alarms; FA). Note that the new
+trials in our experiment could be either famous or non-famous faces, and
+thus our design crossed prior knowledge for both the studied and un
+studied faces, allowing for an estimate of recognition accuracy that is
+unbiased by prior knowledge. As a general note, we do not believe the
+Remember response is a process-pure measure of recollection, but by
+using a combination of the Remember-Know procedure and source
+memory accuracy, we argue that we can accurately capture extra-item
+source details in memory and thus can quantify the relationship be
+tween prior knowledge and detailed memory formation.
+The procedure in this particular paradigm consisted of 8 blocks, each
+of which contained a study and recognition phase. Prior knowledge was
+manipulated at the block level such that 4 of the blocks were entirely
+composed of famous stimuli and the remaining 4 blocks, of non-famous
+stimuli, in a fixed interleaved order which was counterbalanced across
+participants. During each encoding phase, participants explicitly studied
+a pseudorandom sequence of 24 face trials. Each trial began with a green
+fixation cross presented for 500 ms, followed by a face stimulus pre
+sented centrally on screen within a red- or blue-coloured rectangle. Half
+of the face stimuli were presented for 1 s and half for 4 s to provide a
+manipulation of encoding duration, followed by an inter-trial interval
+ranging between 1500 and 2750 ms (M = ~2s). Participants were asked
+to study each face in as much detail as possible as their memory would
+be tested immediately after each study phase. No explicit response was
+required during study. Participants were also instructed that each block
+was independent from the others and contained unique face stimuli.
+In addition to the target face trials, 12 additional null trials were also
+interspersed during the study phase. Null trials consisted of a scrambled
+
+Procedure
+For a schematic overview of Experiment 1, see Fig. 1. Participants
+made Remember-Know recognition judgements (Tulving, 1985) to a
+total of 128 famous and 128 non-famous faces (96 targets, 32 foils each).
+Participants select the "Remember" option (R) if their recognition is
+accompanied by recall of contextual information (i.e., source memory)
+from the study episode. "Know" (K) is selected if recognition is not
+accompanied by any contextual information from study. The specific
+instructions used for this experiment can be found in the Supplementary
+Material: Section 2, as per the suggestions of Migo, Mayes, and Montaldi
+(2012). Dual-process models conceptualize recognition as a composition
+of two signals: recollection and familiarity (Mickes, Wais, & Wixted,
+2009; Wixted & Stretch, 2004; see also Tulving, 1985). Recollection
+reflects the likelihood that recognition is accompanied by additional
+recall of idiosyncratic details from the encoding context. Familiarity
+instead reflects an item-specific memory signal, contributing to
+
+Fig. 1. A schematic example of one study-test block from Experiment 1. Immediate recognition in Experiment 2 was almost identical to the above depiction, except
+thought probes were excluded. In this example, bold font indicates the correct response. For details, see Procedure.
+4
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+face stimulus from the experiment, 6 of which were presented for 1 s and
+6 for 4 s. Null trials were not to be encoded and were used to make the
+paradigm comparable to a separate experiment conducted with func
+tional magnetic resonance imaging (fMRI). These trials were not rele
+vant to the behavioural paradigm and will not be discussed further.
+The first recognition trial was presented 20 s after the termination of
+the last study trial. During each recognition phase, participants were
+presented with a pseudorandom sequence of 32 faces. 24 of the faces
+were from the previous study list and 8 were novel foils (i.e., old/new
+ratio of 75/25). Again, each trial began with a green fixation cross
+presented for 500 ms, followed by the face stimulus presented centrally
+onscreen within a grey-coloured rectangle. Each face was presented for
+2.5 s during which time participants were required to make a Remember
+(R), Know (K), or New (N) response using the keyboard. Participants
+used both hands to make responses; the index and middle finger of one
+hand were used to respond R or K and the index finger of the other to
+respond N. The mapping of hand to response option was counter
+balanced across participants. Note that participants were given the la
+bels "re-experienced" and "familiar" in lieu of Remember and Know
+across all experiments (see Fig. 1). This was done to more clearly map
+the subjective experience of each response to their label, which we have
+anecdotally found to improve our participants ability to comprehend
+this meta-cognitive distinction. If the participant indicated the image
+was from the previous study list (i.e., R or K), it immediately prompted
+the completion of two additional self-paced memory judgements. The
+first was a source memory judgement in which participants indicated the
+colour of the rectangular border presented with the face during study
+from the onscreen options: "Red", "Blue", or "Don't Know". Source
+memory provided a crucial objective estimate to accompany our sub
+jective Remember responses by testing whether a specific dimension of
+contextual information from the study episode (i.e., border colour)
+accompanied recognition. The second was a subjective thought-probe
+that sought to provide supplementary insight into the kinds of
+thoughts that accompanied recognition. A detailed description of the
+thought probes and their results can be found in Supplementary Mate
+rial: Section 3-4. Note: both source memory and thought probes only
+followed trials in which the participant indicated the face was indeed
+studied. If a participant pressed "New" in response to a face, it imme
+diately prompted the next recognition memory trial.
+In addition to the studied target and novel foil recognition trials, 12
+additional null scramble trials were also interspersed during the recog
+nition phase. Participants were asked to press the new response key for
+these trials; null trials were not relevant to the behavioural paradigm
+and will not be discussed further.
+After the 8 blocks of the task were completed, participants were
+briefly interviewed for ~5 min regarding their memory strategies.
+Lastly, participants were asked to perform a series of post-test fame
+ratings on the stimuli from the completed experiment. All 256 faces from
+the previous 8 blocks of the experiment (i.e., both studied targets and
+novel foils) were used for this rating task. Trials were self-paced and
+participants responded with the index fingers of each hand using the
+buttons Q or P on the keyboard with response mapping counterbalanced
+across participants. Each trial began with a 500 ms green fixation cross,
+followed by the presentation of a face in the centre of the screen. Par
+ticipants were first required to indicate whether they believed the face
+was of a famous or non-famous individual, based on their personal
+experience. For faces judged as famous, participants were then required
+to indicate whether or not they could name the famous individual. On
+average, participants correctly classified 89% (SD = 12%) of the famous
+faces and 93% (SD = 10%) of the non-famous faces. These data suggest
+that the famous faces used in this experiment were highly recognizable,
+consistent with online norming. Final analyses were restricted to only
+include faces that were correctly recognized as either famous or nonfamous in the post-test.
+Participants were provided with detailed instructions regarding the
+experimental procedure before beginning the task to ensure optimal
+
+comprehension and compliance. Experimenters provided a detailed
+scripted explanation of the task procedure, definitions of "Remember"
+and "Know", and also a description of the thought-probe labels (see
+Supplementary Material: Section 2). Participants were required to pro
+vide the experimenter with an adequate explanation of the R-K
+distinction and the thought-probe categories, in their own words, before
+they were permitted to continue. Participants also performed a practice
+run of the experiment, which consisted of studying a reduced list of 12
+non-famous faces, half of which were presented for 1 s and half for 4 s.
+Recognition trials consisted of 16 faces, 12 from the study list and 4
+novel foils. Participants were given feedback for recognition and source
+memory during the practice phase. No faces from the practice run were
+included in the final experiment.
+Analyses
+All statistical analyses were conducted using R (R Core Team, 2020).
+Repeated measures ANOVAs were implemented using the ez package
+(Lawrence, 2016). Effect sizes were reported using generalized 2 or
+Cohen's d where appropriate.
+Results
+All data are publicly available on the Open Science Framework (htt
+ps://osf.io/fqrhj/).
+Prior knowledge improves overall recognition
+Overall recognition accuracy was operationalized using d , or the
+standardized proportion of accurately recognized studied targets minus
+the standardized proportion of false alarms to novel foils (i.e., z(hits) - z
+(false alarms)), per participant. This characterized discriminability in
+overall recognition while collapsing over subjective distinctions in
+recognition quality (i.e., Remember or Know). The effect of prior
+knowledge and encoding duration on recognition d was measured using
+a 2 (prior knowledge: famous, non-famous) x 2 (encoding duration: 1 s,
+4 s) repeated-measures ANOVA (see Fig. 2A). Significant main effects of
+prior knowledge [F(1,23) = 39.78, p < 0.0001, 2G(Generalized) = .25] and
+encoding duration [F(1,23) = 30.02, p < 0.0001, 2G = .018] were
+observed. Presence of prior knowledge and a longer encoding opportu
+nity during study both improved subsequent recognition accuracy, but
+prior knowledge produced the larger accuracy benefit. The interaction
+between prior knowledge and encoding duration was not statistically
+significant [F < 1].
+Prior knowledge facilitates recognition via Remember hits
+To determine whether the benefit in overall recognition was driven
+by a subjective measure of extrinsic context (i.e., Remember responses),
+we examined Remember and Know response rates for old (i.e., hits) and
+new trials (i.e., false alarms) separately. First, hit rates were examined
+using a 2 (prior knowledge: famous, non-famous) x 2 (encoding dura
+tion: 1 s, 4 s) x 2 (response type: Remember, Know) repeated-measures
+ANOVA (see Fig. 2B). Interactions between prior knowledge and
+encoding duration [F(1,23) = 5.05, p = 0.034, 2G = .001], prior
+knowledge and response type [F(1,23) = 7.41, p = 0.012, 2G = .067],
+and encoding duration and response type [F(1,23) = 13.54, p = 0.0012,
+2G = .005] reached significance. Interactions were unpacked using
+paired t-tests. The interaction between prior knowledge and encoding
+duration was driven by a larger effect of fame in the 1 s [t(23) = 7.6, p <
+.0001, Cohen's d = 0.71] as compared to the 4 s condition [t(23) = 5.5, p
+< .0001, Cohen's d = 0.58] when averaging across Remember and Know
+trials. The interaction between prior knowledge and response type
+revealed that the effect of prior knowledge on recognition accuracy was
+driven by Remember [t(23) = 3.98, p = .0006, Cohen's d = 0.50] as
+opposed to Know trials [t(23) = - 1.06, p = .30, Cohen's d = - 0.13].
+5
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+Fig. 2. Results from Experiment 1: Prior knowl
+edge benefits overall recognition and memory for
+extrinsic context, more so than extended study
+opportunity. Memory for extra item detail was
+operationalized using subjective (Remember) and
+objective source memory accuracy. (A) Effect of
+prior knowledge (i.e., famous, non-famous) and
+encoding duration (1 s, 4 s) on overall recogni
+tion accuracy [i.e., d = z(hits) - z(false alarms)].
+(B) Overall recognition expressed as proportion
+of hits and false alarms for Remember and Know
+responses, separately. Better recognition for
+famous faces is driven by a boost in Remember
+hits. (C) Effect of prior knowledge a encoding
+duration on source memory accuracy [i.e., d = z
+(source hits) - z(source false alarms)]. (D) Source
+memory accuracy broken down into hits (accu
+rate source), false alarms (source misattribution),
+and misses (forgotten source). Proportion in the
+case of source memory is based on the total of
+trials with correct item recognition only. Error
+bars represent standard error of the mean.
+
+0.0001, 2G = .059]. Paired t-tests highlight that prior knowledge was
+associated with an increase in source hits [t(23) = 4.54, p = 0.0002,
+Cohen's d = 0.41], no effect on source false alarms [t(23) = 1.33, p =
+0.20, Cohen's d = 0.03], and a reduction in source misses [t(23) = - 4.41,
+p = 0.0002, Cohen's d = - 0.19]. Overall, prior knowledge appears to
+boost source memory accuracy via hits as opposed to false alarms, in
+addition to a reduction in source forgetting.
+
+Finally, the interaction between encoding duration and response type
+revealed that encoding duration also modestly benefitted Remember [t
+(23) = 5.26, p < .0001, Cohen's d = .04] as opposed to Know trials [t(23)
+= - 0.27, p = .79, Cohen's d = - 0.002].
+False alarm rates were also examined using a 2 (prior knowledge:
+famous, non-famous) x 2 (response type: Remember, Know) repeatedmeasures ANOVA (see Fig. 2B). There was a marginal main effect of
+prior knowledge [F(1,23) = 3.28, p = 0.083, 2G = .015], as famous faces
+were associated with fewer false alarms. All other effects failed to reach
+significance [F < 1]. Overall, the benefit of prior knowledge on recog
+nition appeared to be driven by a boost in Remember hits, consistent
+with the idea that prior knowledge supports the encoding of extrinsic
+context.
+
+Interim summary
+Experiment 1 replicates previous work indicating that prior knowl
+edge benefits item recognition (Backman, 1991; Bird et al., 2011;
+Klatzky & Forrest, 1984; Yarmey, 1971). Consistent with the resource
+hypothesis, we also found clear evidence that recognition is accompa
+nied by better memory for extra item details, operationalized as
+Remember hits and objective source memory (Brandt et al., 2005;
+DeWitt et al., 2012; Horry et al., 2010; Long et al., 2008; Long & Prat,
+2002; Reder et al., 2013). Longer encoding duration (4 vs 1 s) benefitted
+item recognition and Remember hits as well, though to a lesser degree
+than prior knowledge. Interestingly, encoding duration did not appear to
+benefit objective source memory accuracy, suggesting that preexperimental familiarity is a more robust determinant of extrinsic
+context in memory as compared to study opportunity. This discrepancy
+between prior knowledge and encoding duration on extrinsic context is
+reminiscent of the effect of deep processing on recollection. Attending to
+the semantic meaning associated with a stimulus is more likely to pro
+duce recollection, as measured by Remember responses or objective
+source memory, as compared to attending to its surface-level perceptual
+features (Bower & Karlin, 1974; Craik, 2002; Craik & Lockhart, 1972;
+Yonelinas, 2002). Together, these results highlight the importance of
+semantic associations during encoding. When prior knowledge is
+available, the study episode can be readily parsed into meaningful
+chunks, leaving more resources available to encode extra-item details.
+However, when a stimulus is unfamiliar, chunking is more difficult (e.g.,
+DeWitt et al., 2012; Diana & Reder, 2006; Reder et al., 2013) and longer
+study opportunity alone may be unable to compensate for the height
+ened demands on encoding resources.
+
+Prior knowledge boosts source memory hits
+We next examined an objective estimate of extrinsic context: the
+likelihood a participant could successfully recall the colour of the border
+surrounding the face at study. Subject-specific estimates of source
+memory were submitted to a 2 (prior knowledge: famous, non-famous)
+x 2 (encoding duration: 1 s, 4 s) repeated-measures ANOVA. First,
+source memory accuracy was calculated using d , or the standardized
+proportion of accurately recognized trials in which border colour was
+correctly recalled minus the standardized proportion of accurately
+recognized trials in which border colour was incorrectly recalled (i.e., z
+(source hits) - z(source false alarms)). Note that chance was not 50% for
+these trials, as participants had 3 response options: "Red", "Blue" or
+"Don't Know", and were instructed to choose "Don't Know" if they were
+not sure. All "Don't Know" trials were considered misses and thus do not
+contribute to this analysis. A significant main effect of prior knowledge
+was observed [F(1,23) = 8.47, p = 0.008, 2G = .064], as recognition of
+famous faces was more likely to accompany accurate source memory for
+the border colour from study, consistent with the boost in subjective
+Remember responses (Fig. 2). No main effect or interaction with
+encoding duration was observed [F < 1].
+For a more detailed sense of how prior knowledge affects memory for
+extrinsic context, source memory response rates were submitted to a 2
+(prior knowledge: famous, non-famous) x 3 (response type: hit, false
+alarm, miss) repeated measures ANOVA. Note: a source false alarm is
+when a participant indicates the border colour is blue when it was red, or
+vice versa, while a miss is when participants fail to recall the border
+colour and select "Don't Know". A significant interaction between prior
+knowledge and response type was observed [F(1,23) = 18.54, p <
+
+Experiment 2
+In Experiment 2, we sought to extend the previous results in two
+ways. First, if prior knowledge leaves more resources available to encode
+additional details from a study episode (Experiment 1), then it would
+6
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+follow that the amount of prior knowledge associated with a given
+stimulus should predict the likelihood of encoding additional extrinsic
+contextual details into memory. To this end, we collected subjective
+ratings of the degree of prior knowledge participants had, per stimulus,
+on a 5-point scale. With this measure, we were directly able to test our
+hypothesis that the degree of prior knowledge associated with a stimulus
+should predict the likelihood of recalling extrinsic context.
+Second, we also sought to determine whether prior knowledge
+facilitated the formation of durable memories, persisting beyond im
+mediate recognition. In the current paradigm, participants were exposed
+to 8 separate study-test blocks during which they learned 24 faces each,
+over the span of an hour, amounting to a total of 256 faces when
+including both targets and novel foils. If prior knowledge allows for
+better encoding, it follows that memory for the target itself may also
+prove durable and able to persist beyond immediate recognition. Neural
+evidence in line with this hypothesis suggests that prior knowledge fa
+cilitates neocortical learning and consolidation (McClelland, 2013;
+Sharon et al., 2011; Tse et al., 2007) affording the rapid formation of
+durable memories (for discussion, see Antony et al., 2017; Gilboa &
+Marlatte, 2017).
+To explore these possibilities, we included a surprise delayed
+recognition test, in which all 256 faces (128 famous, 128 non-famous)
+from the previous 8 study-test blocks were presented alongside a small
+subset of entirely novel foils (16 famous, 16 non-famous). Included in
+the 256 target faces were both faces presented at study and faces pre
+sented as foils during immediate recognition, allowing us to measure
+delayed recognition performance of famous and non-famous faces under
+both intentional (viz. studied targets from immediate test) and inci
+dental (viz. correctly rejected foils from immediate test) encoding
+conditions.
+
+facial expression (Mfamous = 2.5, Mnon-famous = 2.3; t(30) < 1), but
+robustly different in terms of fame (Mfamous = 2.9, Mnon-famous = 1.4; t
+(30) = 18.40, p < 0.0001, Cohen's d = 6.5), facts known (Mfamous = 2.8,
+Mnon-famous = 1.3; t(30) = 15.46, p < 0.0001, Cohen's d = 5.5), personal
+memories (Mfamous = 2.2, Mnon-famous = 1.2; t(30) = 15.46, p < 0.0001,
+Cohen's d = 5.5), and emotionality (Mfamous = 2.4, Mnon-famous = 1.7; t
+(30) = 12.65, p < 0.0001, Cohen's d = 4.5).
+Procedure
+Participants made Remember-Know judgements on 128 famous and
+128 non-famous faces (96 targets, 32 foils each) in a nearly identical
+procedure to Experiment 1. The differences between the two paradigms
+will be highlighted below. For both encoding and retrieval phases within
+each of the 8 blocks, Experiment 2 used fully randomized trial orders as
+opposed to the pseudorandom sequences used in Experiment 1. This
+randomization removed any possibility that participants were able to
+notice potential structure in the trial order. Also, Experiment 2 manip
+ulated prior knowledge using either a mixed (i.e., famous and nonfamous stimuli presented in each block) or blocked design (i.e.,
+famous and non-famous stimuli presented in separate blocks), across
+participants. Like Experiment 1, participants encoded a sequence of 24
+faces in each block, but in the mixed design 12 of these faces were
+famous and 12 were non-famous. In addition, we included the encoding
+duration manipulation, such that 6 of the famous and non-famous faces
+were studied for 1 s and 6 for 4 s. Similarly, the recognition phase again
+consisted of 32 faces in each block. 24 of the faces were from the pre
+vious study list and 8 were novel foils (i.e., old/new ratio of 75/25), in
+which half of the faces from both categories were famous or non-famous.
+The blocked design in Experiment 2 was identical to that of Experiment
+1, except for the use of a fully randomized trial order. During recogni
+tion, each face was presented for 2.5 s during which time they were
+required to make a remember (R), know (K), or new (N) response using
+the left, down or right computer keys. If the participant indicated the
+image was from the previous study list (i.e., R or K), they were required
+to complete one additional memory judgement testing source memory.
+The source memory judgement required participants to indicate the
+colour of the rectangular border presented with the face during study
+from the onscreen options: "Red", "Blue", or "Don't Know". Thought
+probes were not included in Experiment 2 to simplify the procedure.
+After the 8 study-test blocks of task were completed, participants
+were briefly interviewed for ~5 min regarding their memory strategies.
+Afterwards, participants were given a surprise delayed recognition
+memory test. All 256 faces from the previous 8 blocks of the experiment
+(i.e., both studied targets and novel foils) in addition to 32 entirely novel
+unstudied faces (16 famous and 16 non-famous) were included in a fully
+randomized order for the delayed test. Trials were self-paced, and par
+ticipants responded with the index finger of both hands using the but
+tons Q or P on the keyboard with response mapping counterbalanced
+across participants. Each trial began with a 500 ms green fixation cross,
+followed by the presentation of a face in the centre of the screen. Par
+ticipants were first required to indicate whether the face was old (i.e., a
+target or foil previously seen in the experiment) or new (i.e., entirely
+novel, not seen in the experiment). Next, participants were asked to
+indicate whether they believed the face was of a famous or non-famous
+individual, based on their personal experience. For faces judged as
+famous, participants were then required to indicate how much they
+knew about the individual on a scale of 1 (very little) to 5 (a lot) using
+the number pad on the keyboard. Participants then indicated whether or
+not they could name the famous individual. On average, participants
+recognized 88% (SD = 10%) of famous faces while failing to recognize
+91% (SD = 10%) of the non-famous faces. Accurately recognized famous
+faces were associated with an average prior knowledge rating of 3.19
+(SD = 0.66) across all participants. Famous faces used in this experiment
+were highly recognizable, again consistent with online norming and
+Experiment 1. Final analyses were restricted to only include faces that
+
+Methods
+Participants
+GPower v. 3.1 (Faul, Erdfelder, Lang, & Buchner, 2007) was used to
+conduct a power analysis based on the main effect of prior knowledge on
+Remember hits in Experiment 1 (2G = .14). The results of the power
+analysis indicated that a sample size of 19 would be required for find a
+significant effect with alpha = 0.05 and power = 0.9. To maintain a
+comparable sample size to Experiment 1, we aimed for a sample size of
+48 participants, with 24 participants in each of the mixed and blocked
+conditions (see Procedure). Fifty-six young adults between 19 and 30
+years of age participated in the experiment. Participants were recruited
+from the University of Toronto and surrounding areas and were
+compensated $10/hour. An average testing session lasted 2 h. Eight
+participants did not meet our inclusion criteria for the final sample and
+were excluded from subsequent analyses [i.e., did not recognize at least
+60% of famous faces/correctly reject 60% of non-famous faces (n = 7),
+or limited use (<5) of the Remember or Know responses (n = 1)]. Our
+final sample consisted of 48 participants (years of age: M = 22.1, SD =
+2.1; years of education: M = 15.7, SD = 1.6; nfemale = 41).
+Stimuli
+Two-hundred and fifty-six faces (128 famous, 128 non-famous) from
+the final stimulus pool in Experiment 1 were used again in Experiment 2
+(for details, see Methods for Experiment 1). 32 additional novel faces (16
+famous, 16 non-famous; both balanced for sex: nfemales = 8), from the
+overall 400 face stimulus pool, were included as novel foils in a surprise
+delayed recognition test, unique to Experiment 2. Based on the norma
+tive ratings collected online in our pilot study, the additional famous
+faces were more recognizable (M = 45%, SD = 7%) than the non-famous
+faces (M = - 76%, SD = 12%), as expected. Also, the additional famous
+and non-famous faces were comparable in terms of average normative
+ratings of attractiveness (Mfamous = 2.8, Mnon-famous = 2.8; t(30) < 1) and
+7
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+were correctly recognized as either famous or non-famous in the posttest.
+
+Prior knowledge facilitates recognition via Remember hits
+Overall recognition was unpacked into Remember and Know
+response rates for hits and false alarms separately. First, hit rates were
+examined using a 2 (prior knowledge: famous, non-famous) x 2
+(encoding duration: 1 s, 4 s) x 2 (response type: Remember, Know) x 2
+(design: mixed, blocked) mixed factorial ANOVA, where design was
+included as a between-subjects factor (see Fig. 3B). A three-way inter
+action between prior knowledge and encoding duration and response
+type was observed [F(1,46) = 5.86, p = 0.019, 2G = .003]. Simple effects
+were conducted by examining Remember and Know hits separately. For
+Remember hits, a significant interaction was observed between prior
+knowledge and encoding duration [F(1,46) = 9.28, p = 0.0038, 2G =
+.005], driven by a larger benefit of prior knowledge for 1 s [t(47) =
+10.77, p < 0.0001, Cohen's d = 1.03] as opposed to 4 s encoding [t(47) =
+8.48, p < 0.0001, Cohen's d = 0.86]. For Know hits, significant main
+effects of prior knowledge [F(1,46) = 42.11, p < 0.0001, 2G = .169] and
+encoding duration were observed [F(1,46) = 22.69, p < 0.0001, 2G =
+.012] with no interaction. Unlike Remember hits, Know hits were more
+frequent for non-famous faces and for 1 s encoding. Note that this
+opposing pattern is reasonable considering Remember and Know are not
+independent: more Remember responses implies fewer Know responses.
+Finally, false alarm rates were submitted to a 2 (prior knowledge:
+famous, non-famous) x 2 (response type: Remember, Know) x 2
+(design: mixed, blocked) mixed factorial ANOVA (see Fig. 3B). A sig
+nificant interaction was observed between prior knowledge and
+response type [F(1,46) = 18.26, p < 0.0001, 2G = .027], driven by fewer
+false alarms for famous Know trials [t(47) = - 4.06, p = 0.00019,
+Cohen's d = - 0.34], with no difference in Remember trials [t(47) = 0.39,
+p = 0.70, Cohen's d = 0.04].
+
+Analyses
+All statistical analyses were conducted using R (R Core Team 2020).
+For this experiment and all subsequent experiments, repeated measures
+ANOVAs were implemented using the ez package (Lawrence, 2016) and
+mixed effect logistic regressions were implemented using glmer from the
+lme4 package (Bates, Machler, Bolker, & Walker, 2015). Effect sizes
+were reported using generalized 2 or Cohen's d where appropriate.
+Results
+Analyses from Experiment 1 were replicated in Experiment 2. The
+results are consistent across both experiments, indicating a reliable
+benefit of prior knowledge and encoding duration on overall recognition
+accuracy. Extrinsic context operationalized via Remember hits and
+objective source memory accuracy, was again better recalled for famous
+faces. Improved source memory accuracy for famous faces was again
+largely driven by a boost in source hits. The details of these analyses are
+reported below.
+Prior knowledge improves overall recognition
+The effect of prior knowledge and encoding duration on recognition
+d was measured using a 2 (prior knowledge: famous, non-famous) x 2
+(encoding duration: 1 s, 4 s) x 2 (design: mixed, blocked) mixed
+factorial ANOVA, where design was included as a between-subjects
+factor (see Fig. 3A). Significant main effects of prior knowledge [F
+(1,46) = 88.37, p < 0.0001, 2G = .226] and encoding duration [F(1,46)
+= 32.18, p < 0.0001, 2G = .009] were observed. The presence of prior
+knowledge and a longer encoding opportunity during study both
+improved subsequent recognition accuracy, but again, prior knowledge
+produced the larger accuracy benefit. The only other effect to reach
+significance was an interaction between design and encoding duration
+[F(1,46) = 5.30, p = 0.03, 2G = .001], which was driven by a larger
+benefit of longer encoding durations in the blocked [t(23) = 6.06, p <
+0.0001, Cohen's d = 0.06] as compared to mixed design [t(23) = 2.24, p
+= 0.035, Cohen's d = 0.02].
+
+Prior knowledge boosts source memory hits
+Next, objective source memory accuracy from all accurately recog
+nized trials were submitted to a 2 (prior knowledge: famous, nonfamous) x 2 (encoding duration: 1 s, 4 s) x 2 (design: mixed, blocked)
+mixed factorial ANOVA (see Fig. 3D). A significant main effect of prior
+knowledge [F(1,46) = 70.02, p < 0.0001, 2G = .185] was observed.
+Encoding duration had a marginal impact on source memory but was not
+statistically significant [F(1,46) = 3.13, p = 0.083, 2G = 0.005]. No other
+effects were statistically significant (F < 1). Although Experiment 2 re
+veals a marginal improvement in source memory accompanying a longer
+
+Fig. 3. Results from Experiment 2: Replica
+tion of the prior knowledge benefit on over
+all recognition and memory for extrinsic
+context. (A) Effect of prior knowledge (i.e.,
+famous, non-famous) and encoding duration
+(1 s, 4 s) on overall recognition accuracy [i.
+e., d = z(hits) - z(false alarms)]. (B) Overall
+recognition unpacked into proportion of hits
+and false alarms for Remember and Know
+responses, separately. Better recognition for
+famous faces is driven by a boost in
+Remember hits. (C) Results of mixed effects
+logistic regression predicting the likelihood
+of a Remember hit for famous faces based on
+degree of prior knowledge. Grey envelope
+represents 95% confidence intervals esti
+mated around the regression parameter using
+500 bootstraps. Black histogram reflects the
+distribution of prior knowledge ratings for all Remember hit trials. Grey histogram reflects prior knowledge ratings for all other trials. Dashed lines represent the
+mean of each distribution, respectively. (D) Effect of prior knowledge and encoding duration on source memory accuracy [i.e., d = z(source hits) - z(source false
+alarms)]. (E) Source memory accuracy unpacked into hits (accurate source), false alarms (source misattribution), and misses (forgotten source). Proportion in the
+case of source memory is based on the total of trials with correct item recognition only. (F) Results of mixed effects model predicting the likelihood of a source
+memory hit based on degree of prior knowledge. Histograms, medians and confidence intervals were derived identically to Fig. 3C, except using source hits vs. other
+source trials (i.e., false alarms, misses). Error bars for all bar plots represent standard error of the mean.
+8
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+study opportunity, prior knowledge again produced the more robust
+benefit to source memory accuracy, thus replicating Experiment 1.
+To unpack overall source accuracy, source memory response rates
+were submitted to a 2 (prior knowledge: famous, non-famous) x 3
+(response type: hit, false alarm, miss) x 2 (design: mixed, blocked)
+mixed factorial ANOVA (see Fig. 3E). A significant 3-way interaction
+between prior knowledge and response type and design was observed [F
+(2,92) = 5.56, p = 0.0053, 2G = .012]. To unpack this interaction, mixed
+and blocked designs were analyzed separately. For the mixed design, the
+interaction between prior knowledge and response type persisted [F
+(2,46) = 50.70, p < 0.0001, 2G = .199]. Prior knowledge was associated
+with more source hits [t(23) = 9.38, p < 0.0001, Cohen's d = 0.48], no
+effect on source false alarms [t(23) = - 0.30, p = 0.76, Cohen's d =
+- 0.04], and a reduction in source misses [t(23) = - 6.91, p < 0.0001,
+Cohen's d = - 0.39]. For the blocked design, a significant interaction
+between prior knowledge and response type was again observed [F
+(2,46) = 24.19, p < 0.0001, 2G = .095]. Prior knowledge was again
+associated with more source hits [t(23) = 6,18, p < 0.0001, Cohen's d =
+0.48], a significant reduction in source false alarms [t(23) = - 2.83, p =
+0.009, Cohen's d = - 0.37], and a reduction in source misses [t(23) =
+- 4.41, p = 0.0002, Cohen's d = - 0.16].
+
+delayed recognition memory analyses. This ensured that any bias from
+immediate recognition would not persist into the delayed recognition
+results. The lasting effects of prior knowledge and encoding duration on
+delayed recognition accuracy were measured using a 2 (prior knowl
+edge: famous, non-famous) x 2 (encoding duration: 1 s, 4 s) x 2 (design:
+mixed, blocked) mixed factorial ANOVA (see Fig. 4). A significant main
+effect of prior knowledge [F(1,46) = 104.43, p < 0.0001, 2G = .276] was
+observed, as famous faces were better recognized in the surprise delayed
+test. A marginal effect of encoding duration was observed [F(1,46) =
+3.31, p = 0.08, 2G = .001], however no other effects were significant (all
+Fs < 1.3). Overall, these data demonstrate that prior knowledge
+benefitted the formation of durable memories over and beyond any ef
+fect of encoding duration.
+As all correctly recognized targets and foils from immediate recog
+nition were defined as targets during the delayed recognition memory
+test, we were able to additionally test delayed recognition for both
+accurately recognized targets and correctly rejected foils from immedi
+ate recognition. Foils from immediate recognition were not explicitly
+studied, and thus delayed recognition of these faces provides a measure
+of the effect of prior knowledge on incidental encoding. Note that a
+given face stimulus may have been an intentionally encoded target for
+one participant or an incidentally encoded foil for another, thus making
+it unlikely that stimulus selection effects can explain any potential dif
+ferences of encoding type. Also, encoding duration was not included in
+this model as the incidentally encoded faces were not presented during
+the study period. The effects of prior knowledge and encoding type on
+delayed recognition accuracy were measured using a 2 (prior knowl
+edge: famous, non-famous) x 2 (encoding type: intentional, incidental)
+x 2 (design: mixed, blocked) mixed factorial ANOVA. Significant main
+effects of prior knowledge [F(1,46) = 95.30, p < 0.0001, 2G = .318] and
+encoding type [F(1,46) = 230.19, p < 0.0001, 2G = .150] were observed.
+As expected, intentional encoding benefitted delayed recognition
+memory accuracy as compared to incidental encoding (see Fig. 4).
+Interestingly, prior knowledge enhanced delayed recognition for both
+intentional and incidental encoding conditions, highlighting the benefit
+of prior knowledge on the formation of durable memories even in the
+absence of explicit encoding instructions.
+
+A graded effect of prior knowledge on memory for extrinsic context
+The presence of prior knowledge at encoding was associated with
+better memory for extrinsic context from the study episode, both in
+terms of the Remember hits and source memory accuracy. If prior
+knowledge indeed affords more available attentional resources at
+encoding, then it would follow that the degree of prior knowledge
+associated with a specific stimulus should predict memory for extrinsic
+context from the study episode. To this end, we conducted a multilevel
+logistic regression model to test whether a dichotomous measures of
+extra-item detail per studied trial, defined separately using Remember
+or source memory accuracy, could be predicted by the degree of prior
+knowledge reported for a given famous face (see Fig. 3C, F). When using
+Remember responses, a studied trial was considered accurate only if it
+received a Remember response. All other studied trials received a 0.
+When using source memory, a studied trial was accurate only if a
+participant correctly recalled the border colour from study. All other
+studied trials received a 0. Degree of prior knowledge associated with a
+given stimulus was operationalized as its subjective 1 (low) - 5 (high)
+rating of fame, and z-scored within participant. Only famous face trials
+that were accurately recognized, both at immediate test and in the posttest fame judgement, were entered into this model, thus isolating degree
+of prior knowledge. Subject and face stimulus were treated as random
+effects. Ninety-five percent confidence intervals were then generated
+around our model estimates via a bootstrapping procedure (sampling
+with replacement, 500 repetitions).
+For Remember accuracy, a Wald test demonstrated that degree of
+prior knowledge was indeed predictive of Remember accuracy (X2(1) =
+214.83,  = 0.44,  95% CI = [0.39, 0.50], p < .0001). This positive
+relationship between prior knowledge and Remember hits extended to
+objective source memory accuracy (X2(1) = 145.68,  = 0.38,  95% CI
+= [0.32, 0.44], p < .0001), further confirming a positive relationship
+between the availability of prior knowledge and memory for extrinsic
+context.
+
+Interim summary
+Experiment 2 replicated and extended the results of Experiment 1,
+demonstrating that a participant's degree of prior knowledge for a given
+stimulus was indeed predictive of memory for extrinsic context, oper
+ationalized as Remember hits and source memory accuracy. This graded
+relationship between prior knowledge and memory detail is consistent
+with resource-based models, as the amount of attentional resources
+expended on encoding should be directly related to how easily a given
+stimulus can be parsed into a meaningful chunk (e.g., Popov & Reder,
+
+Prior knowledge facilitates the intentional and incidental formation of
+durable memories
+To characterize any lasting effects of prior knowledge on recognition
+memory, we analyzed performance on a surprise delayed recognition
+memory test presented after the completion of the 8 study-test blocks.
+First, delayed recognition for intentionally studied targets was exam
+ined. Delayed recognition accuracy was defined as d . Only trials that
+were accurately recognized at immediate recognition contributed to
+
+Fig. 4. Delayed recognition from Experiment 2: Prior knowledge benefited
+recognition accuracy for a surprise delayed recognition test for all 256 faces
+from the experiment. Famous faces were better remembered whether they were
+studied targets (Intentional) or correctly rejected foils during the immediate
+test, highlighting the efficiency of the process when prior knowledge is avail
+able. Longer encoding duration failed to produce a comparable benefit.
+9
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+2020). In Experiment 2, longer encoding duration was also associated
+with an increase in both Remember and source hits, although to a lesser
+extent than prior knowledge, again emphasizing the importance of se
+mantic associations during encoding.
+Furthermore, performance on a surprise delayed recognition mem
+ory test was greater for faces with prior knowledge, while encoding
+duration had no discernable impact. The benefit of prior knowledge on
+delayed recognition was observed for intentionally (viz., studied targets
+from immediate test) and incidentally studied faces alike (viz., correctly
+rejected foils from immediate test), consistent with the idea that stimuli
+associated with prior knowledge are more easily encoded. Similar re
+sults have been reported using depth of processing manipulations with
+word stimuli, such that participants performed better on a surprise
+recognition test when they were oriented towards a words semantic
+meaning during study (e.g., does this word fit in this sentence?) as
+compared to its surface level features (e.g., is this word printed in capital
+letters?) (Craik & Tulving, 1975). Again, the lack of benefit of encoding
+duration on delayed recognition highlights the importance attending to
+semantic associations, above extended exposure alone, on the formation
+of lasting memories.
+In addition to the overall replication, we observed subtle differences
+in the extent to which prior knowledge affected memory for extrinsic
+context depending on whether the study and test contained both famous
+and non-famous (mixed) or either famous or non-famous faces
+(blocked). Famous faces were associated with fewer source false alarms
+and less source forgetting in the blocked as compared to the mixed
+design, indicating that the benefit of prior knowledge on memory for
+extra-item detail is better in blocked as compared to mixed designs. This
+interpretation is consistent with resource-based accounts, as unfamiliar
+stimuli may benefit from the attentional resources made available from
+the efficient encoding of neighbouring familiar stimuli (for related dis
+cussion, see Popov & Reder, 2020).
+In Experiment 1 and 2, we used famous faces to demonstrate a clear
+and robust effect of prior knowledge on memory for extrinsic context.
+Though famous faces are an effective way to evoke prior knowledge, we
+cannot exclude the possibility that the effects reported above may be
+restricted to face stimuli. To examine this possibility, we ran an addi
+tional experiment in which the memoranda were replaced with images
+of common and uncommon brands of food and beverages.
+
+in the experiment. Participants were recruited from the University of
+Toronto and surrounding areas and were compensated $10/hour. An
+average testing session lasted 2 h. Seven participants did not meet our
+inclusion criteria for the final sample and were excluded from subse
+quent analyses [i.e., did not recognize at least 70% of common or
+correctly reject at least 70% of uncommon food and beverage stimuli (n
+= 5), or issues with the experiment software (n = 2)]. Our final sample
+consisted of 48 participants (years of age: M = 22.3, SD = 3.5; years of
+education: M = 15.4, SD = 2.0; nfemale = 35), identical to that used in
+Experiment 2.
+Stimuli
+Images were obtained from the Internet using Google image search,
+amounting to a total pool of 400 images. Two-hundred images were of
+common North American foods/beverages and 200 were of uncommon
+international foods/beverages. All images were selected to have prom
+inent and recognizable logos, while ensuring all lettering was restricted
+to alphabets based in Latin script. Both common and uncommon pools
+were matched for the number of stimuli of a specific type (e.g., chocolate
+bars, chips, candies, carbonated beverages, etc.) to ensure they had
+comparable compositions. The images had their backgrounds removed
+and were manually centered and resized to fit within a 475x595 pixel
+frame. Unlike faces, images remained in original colour to facilitate their
+identification and association with prior experience. An in-lab pilot
+study was conducted to collect normative subjective ratings on our
+stimuli. Nine raters were presented with a list of all brand names for the
+400 food and beverage stimuli and were asked to provide a rating on a 3point scale regarding their personal familiarity with each item. The scale
+ranged from 0 (no knowledge of this item) to 2 (considerable knowledge
+of this item). No images were provided, and ratings were provided based
+entirely on brand names only. Stimuli were then manually selected to
+create two stimulus pools that were either highly familiar (i.e., common)
+or highly unfamiliar (i.e., uncommon) to our raters, while again
+ensuring that the two pools were matched in terms of their composition
+(e.g., chocolate bars, chips, candies, carbonated beverages, etc.).
+Two-hundred and fifty-six food and beverage items (128 common,
+128 uncommon) formed the final stimulus pool for Experiment 3. Im
+ages of 32 additional novel foods and beverages (16 common, 16 un
+common), from the overall 400 item stimulus pool, were included as
+novel foils in a surprise delayed recognition test, as described in
+Experiment 2.
+
+Experiment 3
+In Experiment 3, we replicate our previous design using common and
+uncommon brands of foods and beverages instead of famous and nonfamous faces. Akin to famous faces, some foods and beverages are
+highly prevalent in a North American context, and thus should be
+associated with more prior knowledge in North American participants as
+compared to their unfamiliar, international counterparts. Broadly, we
+hypothesized that prior knowledge may operate in a domain general
+manner, predicting memory for extrinsic context similarly for food items
+as we previously demonstrated with faces. We also expect the benefit of
+prior knowledge on extrinsic context to exceed any benefit of encoding
+duration. It is important to note that our food and beverage stimuli were
+necessarily more heterogeneous than faces as they were drawn from
+numerous identifiable categories (e.g., chocolate bars, chips, candies,
+carbonated beverages, etc.). As such, participants could make use of
+such category-level information to support the recognition of uncom
+mon stimuli which would be less salient for non-famous faces. There
+fore, we expected less of a benefit of prior knowledge on overall
+recognition as compared to Experiments 1 and 2.
+
+Procedure
+Participants made Remember-Know judgements on 128 common
+and 128 uncommon food and beverage items (96 targets, 32 foils each)
+using an identical procedure to Experiment 2 s mixed design. First,
+participants performed 8 study-test blocks for the immediate test, fol
+lowed by a brief interview regarding their memory strategies. After
+wards, participants were given a surprise delayed recognition memory
+test, as in Experiment 2. All 256 images from the previous 8 blocks of the
+experiment (i.e., both studied targets and novel foils) in addition to 32
+entirely novel unstudied foils (16 common and 16 uncommon) were
+included in a fully randomized order for the delayed test. The surprise
+delayed recognition test followed an identical procedure to Experiment
+2, including an additional question asking participants how much they
+would want to consume the food or beverage on a 5-point scale.
+On average, participants recognized 91% (SD = 6%) of common
+foods and beverages, while failing to recognize 91% (SD = 6%) of the
+uncommon foods and beverages. Common food and beverages were
+associated with an average prior knowledge rating of 3.47 (SD = 0.64)
+across all participants. Overall, these data suggest that the common
+stimuli used in this experiment reliably evoked prior knowledge in our
+participants. Final analyses were restricted to only include stimuli that
+were correctly recognized as either common or uncommon in the post-
+
+Methods
+Participants
+Fifty-five young adults between 19 and 30 years of age participated
+10
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+test. It is possible that participants recognized uncommon food and
+beverages, but excluding these trials more closely followed the pro
+cedures from the previous experiments.
+
+between prior knowledge and encoding duration was driven by a larger
+benefit of longer study for uncommon [t(47) = 6.97, p < .0001, Cohen's
+d = 0.35] as compared to common foods and beverages [t(47) = 3.85, p
+= .0004, Cohen's d = 0.19]. Finally, the interaction between encoding
+duration and response type revealed that encoding duration also
+benefitted Remember [t(47) = 7.21, p < .0001, Cohen's d = .14] as
+opposed to Know hits [t(47) = - 1.65, p = 0.10, Cohen's d = - 0.05].
+False alarm rates were also submitted to a 2 (prior knowledge:
+famous, non-famous) x 2 (response type: Remember, Know) repeated
+measures ANOVA (see Fig. 5B). A main effect of response type reached
+significance [F(1,47) = 12.2, p = 0.001, 2G = .055], driven by fewer
+Remember false alarms as compared to Know. No effects involving prior
+knowledge reached significance [F =< 1].
+
+Results
+Prior knowledge does not improve overall recognition
+The effect of prior knowledge and encoding duration on recognition
+d was measured using a 2 (prior knowledge: common, uncommon) x 2
+(encoding duration: 1 s, 4 s) repeated measures ANOVA (see Fig. 5A). A
+significant main effect of encoding duration was observed [F(1,47) =
+59.87, p < 0.0001, 2G = .02], as longer exposure during study was
+associated with better memory. The main effect of prior knowledge was
+not statistically significant [F(1,47) = 0.14, p = 0.71, 2G = .001]. An
+interaction between prior knowledge and encoding duration [F(1,47) =
+7.47, p = 0.009, 2G = .002] was also observed, driven by a larger benefit
+of encoding duration on recognition for uncommon [t(47) = 7.54, p <
+0.0001, Cohen's d = 0.34] as compared to common foods and beverages
+[t(47) = 3.71, p = 0.0005, Cohen's d = 0.20].
+
+Prior knowledge boosts source memory hits
+Next, objective source memory accuracy from all accurately recog
+nized trials were submitted to a 2 (prior knowledge: common, uncom
+mon) x 2 (encoding duration: 1 s, 4 s) repeated measures ANOVA (see
+Fig. 5D). A main effect of prior knowledge was significant [F(1,47) =
+18.38, p < 0.0001, 2G = .053], as common foods and beverages were
+associated with better source memory accuracy than their uncommon
+counterparts. A marginal effect of encoding duration was also observed
+[F(1,47) = 3.08, p = 0.086, 2G = .004], providing some evidence that
+longer encoding durations may have benefitted objective source
+memory.
+To unpack the effect of prior knowledge on source memory accuracy,
+source memory response rates were submitted to a 2 (prior knowledge:
+famous, non-famous) x 3 (response type: hit, false alarm, miss) repeated
+measures ANOVA (see Fig. 5E). A significant interaction between prior
+knowledge and response type was observed [F(2,94) = 33.51, p <
+0.0001, 2G = .055]. Common foods and beverages were associated with
+more source hits [t(47) = 6.72, p < 0.0001, Cohen's d = 0.30], fewer
+source false alarms [t(47) = - 2.09, p = 0.042, Cohen's d = - 0.06], and a
+fewer source misses [t(47) = - 5.65, p < 0.0001, Cohen's d = - 0.15].
+
+Prior knowledge leads to more Remember hits
+Although prior knowledge did not boost overall recognition with
+food and beverages, it remains possible that it can differentially support
+Remember as opposed to Know responses, providing subjective evidence
+for more detailed memory. To this end, Remember and Know response
+rates were analyzed separately for hits and false alarms. First, hit rates
+were examined using a 2 (prior knowledge: common, uncommon) x 2
+(encoding duration: 1 s, 4 s) x 2 (response type: Remember, Know)
+repeated measures ANOVA (see Fig. 5B). Significant interactions be
+tween prior knowledge and encoding duration [F(1,47) = 8.11, p =
+0.007, 2G = .001], prior knowledge and response type [F(1,47) = 82.00,
+p < 0.0001, 2G = .34], and encoding duration and response type [F
+(1,47) = 20.76, p < 0.0001, 2G = .016] were observed. To examine the
+relationship between prior knowledge and memory detail, we first
+unpacked the interaction between prior knowledge and response type.
+Paired t-tests revealed that, indeed, common foods and beverages were
+associated with a steep increase in Remember hits [t(47) = 9.37, p <
+.0001, Cohen's d = 1.20] and a comparably sharp drop in Know hits [t
+(47) = - 8.46, p < 0.0001, Cohen's d = - 1.15]. Next, the interaction
+
+A graded effect of prior knowledge on memory for extrinsic context
+The relation between degree of prior knowledge and estimates of
+extrinsic context (i.e., Remember and source memory) were tested using
+an identical multilevel logistic regression procedure as employed in
+
+Fig. 5. Results from Experiment 3: General
+replication of the prior knowledge benefit on
+overall recognition and memory for extrinsic
+context using food and beverage stimuli. (A)
+Effect of prior knowledge (i.e., common,
+uncommon) and encoding duration (1 s, 4 s)
+on overall recognition accuracy [i.e., d = z
+(hits) - z(false alarms)]. (B) Overall recog
+nition unpacked into proportion of hits and
+false alarms for Remember and Know re
+sponses, separately. Note that common food
+items were associated with a boost in
+Remember hits. (C) Results of mixed effects
+logistic regression predicting the likelihood
+of a Remember hit for common food/bever
+ages based on degree of prior knowledge.
+Grey envelope represents 95% confidence
+intervals estimated around the regression
+parameter using 500 bootstraps. Black histogram reflects the distribution of prior knowledge ratings for all Remember hit trials. Grey histogram reflects prior
+knowledge ratings for all other trials. Dashed lines represent the mean of each distribution, respectively. (D) Effect of prior knowledge and encoding duration on
+source memory accuracy [i.e., d = z(source hits) - z(source false alarms)]. (E) Source memory accuracy unpacked into hits (accurate source), false alarms (source
+misattribution), and misses (forgotten source). Proportion in the case of source memory is based on the total of trials with correct item recognition only. (F) Results of
+mixed effects model predicting the likelihood of a source memory hit based on degree of prior knowledge. Histograms, medians and confidence intervals were
+derived identically to Fig. 5C, except using source hits vs. other source trials (i.e., false alarms, misses). Error bars for all bar plots represent standard error of the
+mean.
+11
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+Experiment 2. Logistic regression models are plotted in Fig. 5C and F.
+Wald tests again revealed that degree of prior knowledge predicted
+Remember responses (X2(1) = 71.23,  = 0.25,  95% CI = [0.19, 0.30],
+p < .0001). The relationship between prior knowledge and objective
+source memory accuracy was also statistically significant, though weak
+(X2(1) = 11.97,  = 0.10,  95% CI = [0.04, 0.15], p = .0005). Overall,
+these results extend the positive relation between degree of prior
+knowledge and memory for extrinsic context beyond face stimuli.
+
+under incidental encoding. We did not observe a benefit of prior
+knowledge on overall recognition or delayed recognition under inten
+tional encoding. One plausible explanation for this discrepancy is the
+heterogeneity associated with food and beverages as compared to faces.
+The food and beverage stimuli used in this experiment were highly
+discriminable at the category-level (e.g., type of food/beverage) and
+associated visual features (e.g., shape, colour). Furthermore, all stimuli
+were clearly branded, and verbal labels are known to be powerful de
+terminants of memory performance for novel stimuli (Lupyan, Rakison,
+& McClelland, 2007; Schwartz & Yovel, 2016). Unlike with unfamiliar
+faces, that are an especially homogeneous stimulus class, participants
+could make use of the distinctive attributes of uncommon food and
+beverages to support memory performance even in the absence of prior
+knowledge. Another difference between food and beverage stimuli as
+compared to faces is that they were more likely to elicit accurate Know
+responses as compared to faces, where correct recognition tends to be
+driven by Remember responses (see Figs. 3B and 5B). The precise rea
+sons why this occur remain an open question. One possibility is that the
+availability of category level information (e.g., chocolate bar, cereal,
+soda) and visible brand names may have elicited recognition strategies
+that were not available for faces, which in turn had downstream con
+sequences on the relative frequency of Remember and Know hits.
+Across three experiments, we demonstrate that prior knowledge in
+creases the likelihood of recalling extrinsic contextual details from a
+study episode. These findings are consistent with resource-based ac
+counts of memory (e.g., DeWitt et al., 2012; Diana & Reder, 2006; Popov
+& Reder, 2020; Reder et al., 2013), but inconsistent with schema-based
+accounts that posit an inverse relationship between the activation of preexisting knowledge and the encoding of episodic details from a study
+episode (e.g., van Kesteren et al., 2012). Evidence for schema-based
+generalization, however, may be restricted to memory for the percep
+tual details that make up the studied target itself. In other words, the
+process of chunking information in a study episode may be lossy rather
+than lossless (Sayood, 2003; see also Mathy & Feldman, 2012; Nassar
+et al., 2018; Norris & Kalm, 2018), leading to a specific loss of precision
+for the chunked information itself, while simultaneously freeing re
+sources for the encoding of extrinsic context. Alternatively, a pure
+resource-based account would predict a general boost in memory detail
+for familiar stimuli, given they require fewer resources to encode,
+leaving more attentional resources to available to encode intrinsic and
+extrinsic context alike. We examine these possibilities in Experiment 4.
+
+Prior knowledge facilitates the incidental formation of durable memories
+To test the lasting effects of prior knowledge on recognition memory,
+we analyzed performance on a surprise delayed recognition memory test
+presented after the completion of the 8 study-test blocks. The lasting
+effects of prior knowledge and encoding duration on delayed recogni
+tion accuracy (d ) of intentionally studied targets were measured using a
+2 (prior knowledge: common, uncommon) x 2 (encoding duration: 1 s,
+4 s) repeated-measures ANOVA (see Fig. 6). A significant main effect of
+encoding duration was observed [F(1,47) = 4.20, p = 0.046, 2G = .002].
+Interestingly, the main effect prior knowledge [F(1,47) = 1.05, p = 0.31,
+2G = .004] and the interaction between with prior knowledge and
+encoding duration [F(1,47) = 1.86, p = 0.18, 2G = .001] were not sta
+tistically significant.
+Lastly, we examined whether we could replicate the benefit of prior
+knowledge on the incidental formation of durable memories. Therefore,
+the effects of prior knowledge and encoding type on delayed recognition
+accuracy (d ) were measured using a 2 (prior knowledge: common,
+uncommon) x 2 (encoding type: intentional, incidental) repeatedmeasures ANOVA (see Fig. 6). A significant interaction between prior
+knowledge x encoding type was observed [F(1,47) = 33.07, p < 0.0001,
+2G = .013]. Tests of simple effects were conducted using pairwise t-tests
+comparing the effect of prior knowledge on delayed recognition for
+intentional and incidental targets separately. As reported above, the
+benefit of prior knowledge on delayed recognition accuracy was not
+statistically significant for intentional encoding [t(47) = 1.03, p = 0.31,
+Cohen's d = 0.08], whereas this effect was robust for incidental encoding
+[t(47) = 4.32, p < 0.001, Cohen's d = 0.51]. This finding partially rep
+licates our previous results with faces, in which prior knowledge facil
+itated the incidental formation of durable memories.
+Interim summary
+Experiment 3 generally replicated the results of Experiments 1 and 2
+using food and beverage stimuli. Common images were associated with
+a shift towards Remember hits and improved source memory accuracy,
+providing strong evidence for a domain-general benefit of prior
+knowledge on memory for extrinsic context, consistent with resourcebased accounts. Prior knowledge also benefitted delayed recognition
+
+Experiment 4
+To adjudicate between a resource-based and schema-based account
+of how prior knowledge should influence memory for intrinsic context,
+we conducted a final experiment based on the mnemonic similarity task
+(MST) (Kirwan & Stark, 2007; Stark et al., 2013). In the MST, accurate
+recognition requires the correct rejection of highly perceptually similar
+lures. Therefore, if the benefit of prior knowledge extends to the precise,
+perceptual details that make up the studied target itself, then partici
+pants should be able to use these representations to accurately
+discriminate between studied targets and highly similar lures.
+Methods
+Participants
+Seventy-five young adults between 19 and 30 years of age partici
+pated in the experiment. Participants were recruited from the University
+of Toronto and surrounding areas and were compensated $10/hour. An
+average testing session lasted 2 h. Fifteen participants did not meet our
+inclusion criteria for the final sample and were excluded from subse
+quent analyses [i.e., did not recognize at least 70% of famous or
+correctly reject at least 70% of non-famous faces (n = 14), or issues with
+the experiment software (n = 1)]. Our final sample consisted of 60
+
+Fig. 6. Delayed recognition from Experiment 3: Prior knowledge benefited
+recognition accuracy for a surprise delayed recognition test for all 256 food and
+beverage images from the experiment. Common food and beverages were better
+remembered when they were studied incidentally as correctly rejected foils
+during the immediate test (Incidental), highlighting the efficiency of the process
+when prior knowledge is available. Longer encoding duration failed to produce
+a comparable benefit on delayed recognition.
+12
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+participants (years of age: M = 22.5, SD = 3.3; years of education: M =
+15.8, SD = 2.4; nfemale = 45), and was comparable in size to previous
+publications using this paradigm (e.g., Stark et al., 2013).
+
+subject, on a scale of 1 (very little) to 5 (a lot). On average, participants
+recognized 87% (SD = 12%) of famous faces, while failing to recognize
+89% (SD = 8%) of the non-famous faces. Famous faces were associated
+with an average prior knowledge rating of 3.39 (SD = 1.33) across all
+participants. Overall, these data suggest that the famous faces used in
+this experiment reliably evoked prior knowledge in our participants.
+Note: except for objective source memory, which was not collected,
+all results from Experiment 2 were replicated in Experiment 4 (for de
+tails, see Supplementary Material: Section 6).
+
+Stimuli
+Identical face images from Experiment 1 and 2 were used in Exper
+iment 4. Unlike the previous experiments, each image was flipped hor
+izontally to produce mirror images of the original stimuli. Therefore, by
+capitalizing on the slight variations between original and flipped im
+ages, we were able to test whether the observed benefits of prior
+knowledge on recollection would also extend to more fine-grained
+perceptual discriminations during recognition (i.e., recognition of face
+identity and orientation), while holding the low-level visual properties
+of the stimuli constant. To confirm that faces were comparably sym
+metrical, we correlated the pixel intensities of the two image halves.
+Pearson correlations were then compared using an independent samples
+t-test, confirming that famous and non-famous faces comparably sym
+metrical (Mfamous = 0.87, Mnon-famous = 0.85; t(254) = 1.47, p = 0.14).
+One remaining concern with this paradigm is the possibility that famous
+faces are more likely to be recognized as flipped during encoding, which
+could then lead to a difference in encoding strategies. However, a con
+trol experiment on a separate group of participants indicated that they
+could not reliably detect which of the two images was the original or
+flipped, for famous and non-famous faces alike (see Supplementary
+Material: Section 5).
+
+Results
+A prior knowledge-dependent bias towards failing to detect changes in
+intrinsic context
+We were interested in examining the effect of prior knowledge on
+memory for intrinsic context and not simple discrimination between
+targets and foils. Therefore, recognition was defined as the degree to
+which participants could accurately recall the studied orientation of a
+given face, over and above its identity. For old trials, d was calculated as
+the standardized likelihood of responding old to and old trial, minus the
+likelihood of responding old to a similar trial (i.e., z(old hit) - z(old false
+alarm)). For similar trials, d was calculated as the standardized likeli
+hood of responding similar to a similar trial, minus the likelihood of
+responding similar to an old trial (i.e., z(similar hit) - z(similar false
+alarm)).
+The effect of prior knowledge and trial type on recognition accuracy
+was measured using a 2 (prior knowledge: famous, non-famous) x 2
+(response type: old, similar) repeated measures ANOVA (see Fig. 7A). A
+significant main effect of prior knowledge was observed [F(1,59) =
+16.68, p = 0.0001, 2G = .041], indicating that the overall likelihood of
+recalling the studied orientation of a given face, beyond recognizing its
+identity, was higher for famous as compared to non-famous faces. The
+interaction between prior knowledge and trial type was also statistically
+significant [F(1,59) = 6.71, p = 0.003, 2G = .003], driven by a larger
+benefit of prior knowledge for similar trials [t(59) = 4.63, p < 0.0001,
+Cohen's d = 0.49] as compared to old trials [t(59) = 2.84, p = 0.006,
+Cohen's d = 0.32].
+The above results suggest that overall discriminability is better for
+famous as compared to non-famous faces. For a more nuanced exami
+nation of memory performance, we further unpacked recognition into
+hits, false alarms and misses. Hits refer to studied trials in which studied
+orientation is correctly recognized; false alarms refer to studied trials in
+which a participant endorses the incorrect orientation; misses refer to
+studied trials that a participant endorses as new. Response rates were
+submitted to a 2 (prior knowledge: famous, non-famous) x 2 (trial type:
+old, similar) x 3 (response type: hits, false alarm, miss) repeated mea
+sures ANOVA (see Fig. 7B). A significant 3-way interaction was observed
+[F(2,118) = 48.31, p < 0.0001, 2G = .084]. Simple effects were con
+ducted by examining old and similar trials separately. For old trials, the
+interaction between prior knowledge and response type was significant
+[F(2,118) = 61.97, p < 0.0001, 2G = .191]. Famous faces were associ
+ated with the standard pattern of better memory for old trials: more hits
+[t(59) = 9.96, p < 0.0001, Cohen's d = 0.82], fewer false alarms [t(59) =
+- 4.09, p = 0.0001, Cohen's d = - 0.45], and fewer misses [t(59) =
+- 7.80, p < 0.0001, Cohen's d = - 0.47].
+Interestingly, a different pattern emerged for similar trials. For
+similar trials, the interaction between prior knowledge and response
+type was significant [F(2,118) = 44.56, p < 0.0001, 2G = .145], but
+famous faces showed no benefit for hits [t(59) = - 0.54, p = 0.59,
+Cohen's d = - 0.04], a sizeable increase in false alarms [t(59) = 7.83, p <
+0.0001, Cohen's d = 0.90], and fewer misses [t(59) = - 9.31, p < 0.0001,
+Cohen's d = - 0.50].
+The observed increase in false alarms on similar trials is consistent
+with a prior knowledge-dependent shift in the response criterion par
+ticipants use: irrespective of a face's actual studied orientation, prior
+
+Procedure
+In Experiment 4, we used a procedure based on the MST (Kirwan &
+Stark, 2007; Stark et al., 2013). This paradigm incorporates similar lures
+into the standard recognition memory paradigm of targets and foils, thus
+affording a test of more precise stimulus representations in memory. The
+details of our paradigm were largely consistent with our previous ex
+periments, with some important distinctions. I) As we were primarily
+interested in prior knowledge, we held encoding duration constant at 3
+s. II) In place of manipulating encoding duration, we manipulated
+whether or not a studied face was presented in the same orientation
+across encoding and retrieval (i.e., old) or flipped (i.e., similar), within
+participants. Therefore, just like the manipulation of encoding duration
+in Experiments 1-3, half of the studied faces were old trials and half
+were similar trials, and this was true for both famous and non-famous
+faces. Also, half of the old and similar trials were initially encoded in
+the original orientation and half in the flipped orientation to further
+ensure pre-experimental familiarity with a face would not affect the
+likelihood of noticing a change in orientation. III) During test, partici
+pants were required to decide whether the target face was presented in
+the same orientation as at encoding (i.e., old), presented in a flipped
+orientation as compared to encoding (i.e., similar), or was not studied at
+all (i.e., new). If participants responded either old or similar, an addi
+tional prompt appeared asking them to categorize the subjective expe
+rience of recognition using Remember and Know, in line with our
+previous experiments.
+After 8 study-test blocks of task were completed, participants were
+briefly interviewed for ~5 min regarding their memory strategies. Like
+Experiments 2 and 3, participants then underwent the surprise delayed
+recognition memory procedure. All 256 face pairs from the previous 8
+blocks of the experiment (i.e., both studied targets and novel foils) in
+addition to 32 entirely novel unstudied pairs (16 famous and 16 nonfamous) were included in a fully randomized order. For each trial, the
+original and flipped versions of a face were presented on either the left
+or right side of the screen, with position randomly shuffled per trial. In
+addition to measuring delayed recognition memory and degree of prior
+knowledge for each face (see Procedure for Experiments 2 and 3), the
+surprise delayed recognition memory task for Experiment 4 also elicited
+a rating of how perceptually different the faces in pair appeared to each
+13
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+Fig. 7. Results from Experiment 4: Prior knowledge is associated with a loss of intrinsic context in memory. Recognition in this experiment was based on the
+mnemonic similarity task (MST), in which faces could either be presented in the same orientation from study to test (Old) or horizontally flipped from study to test
+(Similar). Recognition was defined as the likelihood of correctly endorsing identical faces as old (same orientation from study to test) [i.e., d = z(hits for old trials) - z
+(false alarms for similar trials)] or correctly endorsing a flipped face as similar (different orientation from study to test) [i.e., d = z(hits for similar trials) - z(false
+alarms to old trials)]. (A) Effect of prior knowledge (i.e., famous, non-famous) and encoding duration (1 s, 4 s) on recognition accuracy in the MST, revealing an
+overall accuracy benefit. (B) Recognition accuracy unpacked in this hits (correctly remembering orientation), false alarms (misremembering orientation) and misses
+(forgetting orientation) for Old and Similar trials separately. Proportion is relative to all trials on which general item recognition was accurate, as opposed to all
+studied trials. In addition to an increase in old hits, prior knowledge was also associated with an increase in falsely endorsing similar faces as old. (C) Effect of prior
+knowledge on relative response criterion [i.e., c = -1/2 [z(hits) + z(false alarms)]/d ]. Prior knowledge was associated with a shift towards a more liberal response
+criterion for making old responses. (i.e., unchanged from study to test). Error bars represent standard error of the mean.
+
+knowledge was associated with an overall increased likelihood of clas
+sifying a face as old, or unchanged from study. To better quantify this
+apparent response bias, we calculated the relative response criterion
+(c'). c' is defined as the criterion c (where c = -1/2 [z(hits) + z(false
+alarms)]) divided by discriminability d (where d = z(hits) - z(false
+alarms)) (Macmillan & Creelman, 1990). A c' of 0 would indicate un
+biased signal detection, while a positive value would indicate a bias
+towards failing to detect the signal irrespective of its presence (i.e., a
+conservative response criterion), and a negative value would indicate a
+bias towards detecting the signal irrespective of its presence (i.e., a
+liberal response criterion). c was calculated separately for famous and
+non-famous faces, and for old and similar responses.
+The effect of prior knowledge and response type on c' was measured
+using a 2 (prior knowledge: famous, non-famous) x 2 (response type:
+old, similar) repeated measures ANOVA. Critically, we observed a sig
+nificant interaction between prior knowledge and response type [F
+(1,59) = 5.10, p = 0.03, 2G = .01] (see Fig. 7C). As expected, paired ttests indicated that famous faces were indeed associated with a signifi
+cantly lower c' (i.e., more liberal response criterion) than non-famous
+faces specifically when classifying a face as old [t(59) = - 2.80, p =
+0.007, Cohen's d = - 0.47]. Prior knowledge had no such impact on c' for
+similar responses [t(59) = - 0.73, p = 0.47, Cohen's d = - 0.14].
+Therefore, participants were indeed more likely to endorse a famous
+face as old (i.e., presented in the same orientation as study) irrespective
+of its actual studied orientation. This shift in response criterion resulted
+in a higher likelihood of failing to detect a change in intrinsic context
+when present, particularly when prior knowledge was available.
+Furthermore, we replicated this increase in false alarms for similar trials
+in a separate sample of younger adults (see Supplementary Material:
+Section 7).
+
+General discussion
+Across a series of four experiments, we provide evidence for a robust
+benefit of prior knowledge on our ability to remember the extrinsic
+context from a study episode. For face and food stimuli alike, prior
+knowledge facilitated accurate Remember responses and objective
+source memory accuracy. Participants' self-reported degree of prior
+knowledge for a given stimulus predicted its likelihood of being recalled
+with additional contextual details from the study episode. Despite
+quadrupling the length of study, encoding duration did not benefit
+memory for extrinsic context to the same extent. Critically, prior
+knowledge did not benefit memory for intrinsic context. Although
+famous faces were associated with better recognition, participants were
+less likely to notice when their orientation was reversed between study
+and test as compared to non-famous faces. This finding points to a loss of
+memory for intrinsic context when prior knowledge is available, despite
+a facilitatory effect on the encoding of extrinsic context. Overall, these
+data provide important insight into how a combination of resource and
+schema-based accounts provides a better explanation for the data on
+memory detail than either model alone.
+Prior knowledge and memory detail
+A benefit of prior knowledge on memory for extrinsic context is
+consistent with previous studies on associative memory and source
+memory (Brandt et al., 2005; DeWitt et al., 2012; Horry et al., 2010; Liu
+et al., 2016; Long et al., 2008; Long & Prat, 2002; Poppenk et al., 2010;
+Reder et al., 2013), and further corroborate the few studies that report a
+positive relationship between source memory and degree of prior
+knowledge (DeWitt et al., 2012; Long et al., 2008). These results are also
+consistent with the effect of deep processing on recollection. Attending
+to the semantic meaning associated with a stimulus is more likely to
+produce recollection than attending to its surface-level perceptual fea
+tures (Bower & Karlin, 1974; Craik, 2002; Craik & Lockhart, 1972;
+Yonelinas, 2002). One possible explanation for these results may be that
+attending to semantic meaning facilitates the parsing of incoming
+experience into memorable chunks. For example, Mathy and Feldman
+(2012) report better memory for sequences of digits that contained runs
+of increasing or decreasing values as compared to more erratic se
+quences. They argued that this finding supports a chunking account, in
+which any available structure in an input stream can be compressed,
+which leads to better encoding. Similar findings have been reported in
+studies in which participants are experimentally familiarized with novel
+memoranda. In Reder et al. (2016), participants were exposed to pre
+viously unfamiliar Chinese characters over the course of a month and
+
+Interim summary
+Famous faces were associated with better overall discriminability in
+the MST paradigm, but examining hit and false alarm rates separately
+revealed a general bias towards endorsing famous faces as old (i.e., same
+orientation as study). This led to a high hit rate for famous trials that
+were presented in the same orientation as study, but also sizeable false
+alarm rates when the face orientation was flipped. These data provide
+initial evidence that famous faces may be better remembered overall,
+however this benefit may come at the cost of memory for fine-grained
+intrinsic details.
+
+14
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+measures of associative memory increased as participants became more
+familiar with the characters, despite the associations themselves being
+novel. Therefore, stimuli whose semantic associations are accessible, via
+pre-experimental familiarity or an experimental manipulation like deep
+processing or when a stimulus gains significance over multiple expo
+sures, may be encoded more efficiently into memory than unfamiliar
+stimuli. In line with this account, DeWitt et al. (2012) demonstrate that
+the benefit of prior knowledge on source memory is lost when attention
+is divided at encoding, but not at retrieval. These results are inconsistent
+with schema-based accounts that propose an inverse relationship be
+tween the activation of prior knowledge and the encoding of episodic
+details (e.g., van Kesteren et al., 2012).
+However, an exclusively resource-based explanation cannot account
+for the subtle yet reliable decrease in memory for intrinsic context
+observed for familiar stimuli. Using the MST paradigm, we demonstrate
+that famous faces were associated with higher false alarm rates to
+similar trials (see Fig. 7B). In other words, participants were more likely
+to consider famous faces to be presented in the same orientation from
+study to test and consequently failed to notice when a famous face was
+horizontally flipped. Therefore, the benefit of prior knowledge on
+memory for extrinsic context may come at the cost of the precision with
+which the stimulus itself is represented (i.e., intrinsic context). This
+finding is consistent with the idea that famous faces may evoke a general
+impression of what the individual looks like, which in turn interferes
+with the encoding of the particularities of their appearance in a given
+study episode. Recent work with faces suggests that attending to con
+ceptual information when studying an unfamiliar face improves recog
+nition across different lightings and viewpoints (Schwartz & Yovel,
+2019), suggesting attending to conceptual information supports the
+formation of memory representations that are less tethered to the spe
+cific image from study (also see Armann et al., 2016; Schwartz & Yovel,
+2016). Another compelling account is that the process of parsing our
+experience into meaningful chunks may rely on lossy, rather than loss
+less, compression (Sayood, 2003; see also Nassar et al., 2018; Norris &
+Kalm, 2018). Our memory is far from a direct recapitulation of our
+experience, and evidence for information loss in episodic memory can be
+found in studies of memory errors (Schacter, Guerin, & St Jacques,
+2011). In his classic work, Bartlett reported systematic errors in par
+ticipants' recall of stories, in which unfamiliar terms were forgotten and
+replaced with more familiar concepts (Bartlett, 1932, see also, Rojahn &
+Pettigrew, 1992; Stangor & Mcmillan, 1992). Another common example
+of schema-based memory errors comes from the `Deese-RoedigerMcDermott (DRM) paradigm', in which studying conceptually related
+words (e.g., bed, night, pillow, tired, etc.) elicits false memory for an
+unstudied lure (e.g., sleep) (Roediger & McDermott, 1995). These errors,
+however, are not observed in patients with schema processing deficits
+associated with ventromedial frontal lesions (Melo, Winocur, & Mos
+covitch, 1999; Warren, Jones, Duff, & Tranel, 2014).
+If our capacity to encode details from a study episode were limitless,
+we should not observe these kinds of memory distortions. Instead, our
+memory system systematically exploits our prior knowledge to over
+come our limited encoding resources. We rely on our existing long-term
+memory representations and schema instead of encoding all the features
+from our surroundings anew. This kind of data compression or
+knowledge-based inference may be computationally efficient (e.g.
+Mathy & Feldman, 2012), but it appears to come at the cost of memory
+for intra-item details. This may be especially the case when using
+complex stimuli, like images of faces, as opposed to lower dimensional
+stimuli, like words or digits, which may be more easily compressed
+without information loss. Broadly, our results provide evidence for a loss
+of memory detail specific to the item itself when prior knowledge is
+available, highlighting a potential role of schema-based generalization
+mechanisms in the context of forming detailed memories.
+It is important to note, that the data compression metaphor has
+limitations in its ability to describe human memory. For example,
+compression algorithms can perfectly decompress (or, reconstruct)
+
+compressed data, recreating the encoded representation exactly every
+time. In other words, even if information were to be lost during
+encoding, the retrieval mechanism is perfect. Human memory is
+constructive process and cannot accomplish this perfect mapping be
+tween compressed and decompressed representations (e.g., Schacter,
+Guerin, & St Jacques, 2011). Therefore, we contend that a data
+compression framework may be useful for conceptualizing how we
+chunk incoming experience (i.e., encoding). Specifically, it highlights
+that the specific way in which the chunking process is operationalized
+will have consequences on the fidelity of the encoded representation.
+Another caveat regarding the data compression metaphor is that it
+implies that intrinsic context is lost during encoding. Alternatively, the
+intrinsic context may be initially encoded for familiar stimuli only to
+become inaccessible during later retrieval. Another possibility may be
+that the intrinsic context is both encoded and retrieved but the strong
+item memory signal associated with famous faces nonetheless leads to a
+general shift towards a more liberal response criterion for "old" trials.
+The present experiment cannot adjudicate between these possible ex
+planations. Nonetheless, our data provide depict a subtle yet reliable
+impairment in memory performance when assessing the intrinsic
+context of a studied stimulus, particularly when prior knowledge is
+available.
+Prior knowledge and the incidental formation of durable memories
+Prior knowledge also supports the formation of durable memories.
+Studied famous faces were more likely to be recognized during a surprise
+delayed recognition test than studied non-famous faces. This finding is
+in line with previous behavioural work showing better memory for
+familiar stimuli after a delay (Scapinello & Yarmey, 1970). Also previous
+studies on expertise have reported expertise-related performance bene
+fits on surprise memory tests for the positions of pieces on a chess board
+(Goldin, 1979) or cards that make up a hand in a game of bridge (Engle
+& Bukstel, 1978). Improved delayed recognition is also consistent with
+neural evidence suggesting that prior knowledge is critical for rapid
+neocortical learning (McClelland, 2013; Sharon et al., 2011; Tse et al.,
+2007), acting as a "fast route" to memory consolidation (Antony et al.,
+2017; Gilboa & Marlatte, 2017). Newly learned information becomes
+stable through consolidation, a process that occurs gradually over time,
+allowing newly formed memories represented via the hippocampus to
+integrate with existing knowledge in the neocortex (Kitamura et al.,
+2017; Liu et al., 2016; Liu, Grady, & Moscovitch, 2018; McClelland,
+2013; McClelland et al., 1995). The gradual aspect is necessary for
+successful consolidation as existing knowledge structures are prone to
+interference if integration occurs too quickly, particularly when the new
+learning is inconsistent with prior knowledge (McClelland, McNaugh
+ton, O'Reilly, 1995; McClelland, 2013). Information that is already
+consistent with prior knowledge actually facilitates learning, allowing
+for more rapid acquisition of durable memory traces represented in the
+neocortex. The present data do not allow for adequate time between
+initial study and delayed test for a complete consolidation-based
+explanation, but they do highlight robust learning in a highly
+interference-prone context, which may reflect the early stages of an
+efficient consolidation process (Dudai, Karni, & Born, 2015, see also Li,
+Hu, & Yang, 2020).
+Furthermore, we observed a benefit of prior knowledge on delayed
+recognition for both intentional (faces) and incidental (faces and food/
+beverages) encoding conditions, suggesting that explicit study is not
+necessary to produce this benefit. Similar effects have been observed
+with depth of encoding manipulations for both studied targets (Craik &
+Tulving, 1975; Masson & McDaniel, 1981) and incidentally learned foils
+(Craik & Lockhart, 1972; Jacoby, Shimizu, Daniels, & Rhodes, 2005).
+Jacoby et al. (2005) presented participants with two lists of words, one
+learned deeply (pleasantness judgement) and another learned more
+shallowly (judge whether each word had the vowel O or U). During test,
+participants were again presented with two lists, one containing deeply
+15
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+
+processed targets and novel foils and another containing shallowly
+processed targets and novel foils. Next, participants performed a final
+recognition memory test, in which they were presented with the foils
+from the previous test and entirely novel foils. Recognition performance
+for the foils from the deeply processed list was superior to that of the
+shallow-list. The authors propose a `source constrained retrieval' ac
+count, such that the deep processing engaged during encoding was
+reinstated during test, allowing for deeper encoding of the foils. Such an
+account would not apply to the present experiment, as our novel foils
+could elicit deeper processing themselves by virtue of their familiarity.
+However, in both our data and those of Jacoby et al., attending to the
+semantic associations available for a given stimulus resulted in better
+incidental encoding of novel foils. Considering that deep processing
+demands attention (Craik, Eftekhari, & Binns, 2018), processing is
+necessarily shallower when fewer attentional resources are available,
+irrespective of whether the encoding is intentional or incidental.
+Therefore, if the old-new judgement required less attentional resources
+for famous faces, as would be predicted by a resource-based account,
+then more resources would be available to encode the stimulus foils -
+even if incidentally.
+
+Arski and Anna Waisman for their help with stimulus collection, Mar
+ilyne Ziegler for her assistance with Eprime, and Sathesan Thavabala
+singam for sharing the code for the logistic regression plots. Also, the
+authors would like to thank Nick Diamond, Jessica Robin, Tarek Amer
+and Iva Brunec for many helpful discussions along the way.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.jml.2021.104264.
+References
+Alba, J. W., & Hasher, L. (1983). Is memory schematic? Psychological Bulletin, 93(2),
+203-231. https://doi.org/10.1037/0033-2909.93.2.203.
+Antony, J. W., Ferreira, C. S., Norman, K. A., & Wimber, M. (2017). Retrieval as a Fast
+Route to Memory Consolidation. Trends in Cognitive Sciences, 21(8), 573-576.
+https://doi.org/10.1016/j.tics.2017.05.001.
+Armann, R. G. M., Jenkins, R., & Burton, A. (2016). A familiarity disadvantage for
+remembering specific images of faces. Journal of Experimental Psychology: Human
+Perception and Performance, 42(4), 571-580. https://doi.org/10.1037/xhp0000174.
+Backman, L. (1991). Recognition memory across the adult life span: The role of prior
+knowledge. Memory & Cognition, 19(1), 63-71. https://doi.org/10.3758/
+BF03198496.
+Bar, M., Aminoff, E., & Ishai, A. (2008). Famous faces activate contextual associations in
+the parahippocampal cortex. Cerebral Cortex, 18(6), 1233-1238. https://doi.org/
+10.1093/cercor/bhm170.
+Bartlett, F. C. (1932). Remembering: A Study in Experimental and Social Psychology - Sir
+Frederic Charles Bartlett, Frederic C. Bartlett, Frederic Charles Bartlett - Google
+Books. Cambridge University Press. Retrieved from https://books.google.ca/books?
+hl=en&lr=&id=WG5ZcHGTrm4C&oi=fnd&pg=PR9&dq=bartlett+remembering
+&ots=BEa_ktMnmK&sig=ljmJvEtS5todPGoPu0W0HlWZGfA#v=onepage&q=bar
+tlett remembering&f=false.
+Bates, D., Machler, M., Bolker, B. M., & Walker, S. C. (2015). Fitting linear mixed-effects
+models using lme4. Journal of Statistical Software, 67(1). https://doi.org/10.18637/
+jss.v067.i01.
+Bein, O., Duncan, K., & Davachi, L. (2020). Mnemonic prediction errors bias
+hippocampal states. Nature Communications, 11(1). https://doi.org/10.1038/
+s41467-020-17287-1.
+Bein, O., Reggev, N., & Maril, A. (2020). Prior knowledge promotes hippocampal
+separation but cortical assimilation in the left inferior frontal gyrus. Nature
+Communications, 11(1), 1-13. https://doi.org/10.1038/s41467-020-18364-1.
+Bein, O., Trzewik, M., & Maril, A. (2019). The role of prior knowledge in incremental
+associative learning: An empirical and computational approach. Journal of Memory
+and Language, 107, 1-24. https://doi.org/10.1016/j.jml.2019.03.006.
+Bird, C. M., Davies, R. A., Ward, J., & Burgess, N. (2011). Effects of pre-experimental
+knowledge on recognition memory. Learning and Memory, 18(1), 11-14. https://doi.
+org/10.1101/lm.1952111.
+Bower, G. H., & Karlin, M. B. (1974). Depth of processing pictures of faces and
+recognition memory. Journal of Experimental Psychology, 103(4), 751-757. https://
+doi.org/10.1037/h0037190.
+Brady, T. F., Stormer, V. S., & Alvarez, G. A. (2016). Working memory is not fixedcapacity: More active storage capacity for real-world objects than for simple stimuli.
+Proceedings of the National Academy of Sciences of the United States of America, 113
+(27), 7459-7464. https://doi.org/10.1073/pnas.1520027113.
+Brandt, K. R., Cooper, L. M., & Dewhurst, S. A. (2005). Expertise and recollective
+experience: Recognition memory for familiar and unfamiliar academic subjects.
+Applied Cognitive Psychology, 19(9), 1113-1125. https://doi.org/10.1002/acp.1163.
+Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding:
+Some investigations of comprehension and recall. Journal of Verbal Learning and
+Verbal Behavior, 11(6), 717-726. https://doi.org/10.1016/S0022-5371(72)80006-9.
+Brod, G., Lindenberger, U., & Shing, Y. L. (2017). Neural activation patterns during
+retrieval of schema-related memories: Differences and commonalities between
+children and adults. Developmental Science, 20(6). https://doi.org/10.1111/
+desc.12475.
+Brod, G., Werkle-Bergner, M., & Shing, Y. L. (2013). The Influence of Prior Knowledge on
+Memory: A Developmental Cognitive Neuroscience Perspective. Frontiers in
+Behavioral Neuroscience, 7(October), 1-13. https://doi.org/10.3389/
+fnbeh.2013.00139.
+Chen, J., Honey, C. J., Simony, E., Arcaro, M. J., Norman, K. A., & Hasson, U. (2016).
+Accessing Real-Life Episodic Information from Minutes versus Hours Earlier
+Modulates Hippocampal and High-Order Cortical Dynamics. Cerebral Cortex, 26(8),
+3428-3441. https://doi.org/10.1093/cercor/bhv155.
+Chiesi, H. L., Spilich, G. J., & Voss, J. F. (1979). Acquisition of domain-related
+information in relation to high and low domain knowledge. Journal of Verbal
+Learning and Verbal Behavior. https://doi.org/10.1016/S0022-5371(79)90146-4.
+Craik, F. I. M., Eftekhari, E., & Binns, M. A. (2018). Effects of divided attention at
+encoding and retrieval: Further data. Memory and Cognition, 46(8), 1263-1277.
+https://doi.org/10.3758/s13421-018-0835-3.
+Craik, F. I. M. M. (2002). Levels of processing: Past, present and future? Memory, 10
+(5-6), 305-318. https://doi.org/10.1080/09658210244000135.
+
+Conclusions
+The present study demonstrates that prior knowledge supports
+memory for extrinsic context, or memory for extra-item details. Extrinsic
+context was operationalized as Remember responses and objectives
+source memory accuracy. In addition, the degree of prior knowledge
+stored for a given stimulus predicted the likelihood of recollecting
+extrinsic context along with the studied stimulus. The benefit of prior
+knowledge on memory for extrinsic context was not reproduced to the
+same extent by simply increasing exposure at encoding. Furthermore,
+prior knowledge supported the formation of durable memories, even
+under incidental encoding conditions, suggesting familiar stimuli are
+more efficiently encoded into memory. Importantly, prior knowledge
+was also associated with a subtle though reliable impairment in memory
+for the precise details of the studied item itself, or intrinsic context. This
+loss of precision for intra-item details cannot be easily accounted for by a
+purely resource-based account of memory encoding and likely requires
+the incorporation of a schema-based generalization mechanism. By
+examining extrinsic and intrinsic context separately, we demonstrate
+that resource and schema-based theories provide complementary, rather
+than contradictory, accounts of how prior knowledge influences mem
+ory detail.
+Authors' Note
+This research was supported by a Natural Sciences and Engineering
+Research Council (NSERC) grant to M.M. (no. A8347), a Canadian In
+stitutes of Health Research (CIHR) grant to C.L.G. (no. MOP-143311),
+and scholarships awarded to B.B. from NSERC and the Ontario Grad
+uate Scholarship program.
+CRediT authorship contribution statement
+B. Bellana: Conceptualization, Methodology, Formal analysis,
+Writing - original draft, Writing - review & editing. R. Mansour:
+Investigation, Writing - review & editing. N. Ladyka-Wojcik: Investi
+gation, Formal analysis, Writing - review & editing. C.L. Grady:
+Conceptualization, Writing - review & editing, Supervision, Funding
+acquisition. M. Moscovitch: Conceptualization, Writing - review &
+editing, Supervision, Funding acquisition.
+Acknowledgments
+The authors would like to thank Shany Lahan, Olivia Arski, and
+Tanya Grocholsky for their invaluable help with data collection, Olivia
+16
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+Kumaran, D., & Maguire, E. A. (2007). Which computational mechanisms operate in the
+hippocampus during novelty detection? Hippocampus. https://doi.org/10.1002/
+hipo.20326.
+Lawrence, M. (2016). Easy Analysis and Visualization of Factorial Experiments.
+Retrieved from https://cran.r-project.org/package=ez.
+Li, C., Hu, Z., & Yang, J. (2020). Rapid acquisition through fast mapping: Stable memory
+over time and role of prior knowledge. Learning and Memory, 27(5), 177-189.
+https://doi.org/10.1101/lm.050138.119.
+Liu, Z-X., Grady, C., & Moscovitch, M. (2018). The effect of prior knowledge on postencoding brain connectivity and its relation to subsequent memory. NeuroImage,
+167, 211-223. https://doi.org/10.1016/j.neuroimage.2017.11.032.
+Liu, Z.-X., Grady, C., & Moscovitch, M. (2016). Effects of Prior-Knowledge on Brain
+Activation and Connectivity During Associative Memory Encoding. Cerebral Cortex,
+bhw047. https://doi.org/10.1093/cercor/bhw047.
+Long, D. L., Prat, C., Johns, C., Morris, P., & Jonathan, E. (2008). The importance of
+knowledge in vivid text memory: An individual-differences investigation of
+recollection and familiarity. Psychonomic Bulletin & Review, 15(3), 604-609. https://
+doi.org/10.3758/PBR.15.3.604.
+Long, D. L., & Prat, C. S. (2002). Memory for Star Trek: the role of prior knowledge in
+recognition revisited. Journal of Experimental Psychology. Learning, Memory, and
+Cognition, 28(6), 1073-1082. Retrieved from http://www.ncbi.nlm.nih.gov/pub
+med/12450333.
+Lupyan, G., Rakison, D., & McClelland, J. L. (2007). Language is not just for talking:
+Redundant labels facilitate learning of novel categories. Psychological Science, 18
+(12), 1077-1083. https://doi.org/10.1111/j.1467-9280.2007.02028.x.
+Macmillan, N. A., & Creelman, C. D. (1990). Response Bias: Characteristics of Detection
+Theory, Threshold Theory, and "Nonparametric" Indexes. Psychological Bulletin, 107
+(3), 401-413. https://doi.org/10.1037/0033-2909.107.3.401.
+Masson, M. E., & McDaniel, M. A. (1981). The role of organizational processes in longterm retention. Journal of Experimental Psychology: Human Learning & Memory, 7(2),
+100-110. https://doi.org/10.1037/0278-7393.7.2.100.
+Mathy, F., & Feldman, J. (2012). What's magic about magic numbers? Chunking and
+data compression in short-term memory. Cognition, 122(3), 346-362. https://doi.
+org/10.1016/j.cognition.2011.11.003.
+McClelland, J. L. (2013). Incorporating rapid neocortical learning of new schemaconsistent information into complementary learning systems theory. Journal of
+Experimental Psychology: General, 142(4), 1190-1210. https://doi.org/10.1037/
+a0033812.
+McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are
+complementary learning systems in the hippocampus and neocortex: Insights from
+the successes and failures of connectionist models of learning and memory.
+Psychological Review, 102(3), 419-457. https://doi.org/10.1037/0033295X.102.3.419.
+Melo, B., Winocur, G., & Moscovitch, M. (1999). False recall and false recognition: An
+examination of the effects of selective and combined lesions to the medial temporal
+lobe/diencephalon and frontal lobe structures. Cognitive Neuropsychology, 16(3-5),
+343-359. https://doi.org/10.1080/026432999380825.
+Mickes, L., Wais, P. E., & Wixted, J. T. (2009). Recollection Is a Continuous Process.
+Psychological Science, 20(4), 509-515. https://doi.org/10.1111/j.14679280.2009.02324.x.
+Migo, E. M., Mayes, A. R., & Montaldi, D. (2012). Measuring recollection and familiarity:
+Improving the remember/know procedure. Consciousness and Cognition, 21(3),
+1435-1455. https://doi.org/10.1016/j.concog.2012.04.014.
+Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our
+capacity for processing information. The Psychological Review, 63(2), 81-97. https://
+doi.org/10.1177/001088049003100202.
+Moran, R., & Goshen-Gottstein, Y. (2015). Old processes, new perspectives: Familiarity is
+correlated with (not independent of) recollection and is more (not equally) variable
+for targets than for lures. Cognitive Psychology, 79, 40-67. https://doi.org/10.1016/j.
+cogpsych.2015.01.005.
+Mulligan, N. W. (2011). Generation disrupts memory for intrinsic context but not
+extrinsic context. Quarterly Journal of Experimental Psychology, 64(8), 1543-1562.
+https://doi.org/10.1080/17470218.2011.562980.
+Mulligan, N. W., Lozito, J. P., & Rosner, Z. A. (2006). Generation and context memory.
+Journal of Experimental Psychology: Learning Memory and Cognition, 32(4), 836-846.
+https://doi.org/10.1037/0278-7393.32.4.836.
+Myles-Worsley, M., Johnston, W. A., & Simons, M. A. (1988). The Influence of Expertise
+on X-Ray Image Processing. Journal of Experimental Psychology: Learning, Memory,
+and Cognition, 14(3), 553-557. https://doi.org/10.1037/0278-7393.14.3.553.
+Nassar, M. R., Helmers, J. C., & Frank, M. J. (2018). Chunking as a rational strategy for
+lossy data compression in visual working memory. Psychological Review, 125(4),
+486-511. https://doi.org/10.1037/rev0000101.
+Norris, D. G., & Kalm, K. (2018). What's in a chunk? Chunking and data compression in
+verbal short-term memory. https://doi.org/10.31234/osf.io/2st4j.
+Popov, V., & Reder, L. M. (2020). Frequency effects on memory: A resource-limited
+theory. Psychological Review, 127(1), 1-46. https://doi.org/10.1037/rev0000161.
+Poppenk, J., Kohler, S., & Moscovitch, M. (2010). Revisiting the novelty effect: When
+familiarity, not novelty, enhances memory. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 36(5), 1321-1330. https://doi.org/10.1037/
+a0019900.
+Poppenk, J., Moscovitch, M., & McIntosh, A. R. (2016). fMRI evidence of equivalent
+neural suppression by repetition and prior knowledge. Neuropsychologia, 90,
+159-169. https://doi.org/10.1016/j.neuropsychologia.2016.06.034.
+R Core Team. (2020). R: A language and environment for statistical computing, reference
+index version 3.0.2. Retrieved from https://www.gnu.org/copyleft/gpl.html.
+
+Craik, F. I., & Tulving, E. (1975). Depth of Processing and the Retention of Words in
+Episodic Memory. Journal of Experimental Psychology, 104(3), 268-294. https://doi.
+org/10.1037//0096-3445.104.3.268.
+Craik, F., & Lockhart, R. (1972). Levels of processing: A framework for memory research.
+Journal of Verbal Learning and Verbal Behavior, 684, 671-684. Retrieved from
+http://www.sciencedirect.com/science/article/pii/S002253717280001X.
+Curby, K. M., & Gauthier, I. (2007). A visual short-term memory advantage for faces.
+Psychonomic Bulletin and Review, 14(4), 620-628. https://doi.org/10.3758/
+BF03196811.
+Curby, K. M., Glazek, K., & Gauthier, I. (2009). A Visual Short-Term Memory Advantage
+for Objects of Expertise. Journal of Experimental Psychology: Human Perception and
+Performance, 35(1), 94-107. https://doi.org/10.1037/0096-1523.35.1.94.
+de Groot, A. (1965). Thought and Choice in Chess. The Hague: Mouton. Retrieved from
+https://en.aup.nl/books/9789053569986-thought-and-choice-in-chess.html.
+DeWitt, M. R., Knight, J. B., Hicks, J. L., & Ball, B. H. (2012). The effects of prior
+knowledge on the encoding of episodic contextual details. Psychonomic Bulletin and
+Review, 19(2), 251-257. https://doi.org/10.3758/s13423-011-0196-4.
+Diana, R. A., & Reder, L. M. (2006). The low-frequency encoding disadvantage: Word
+frequency affects processing demands. Journal of Experimental Psychology: Learning
+Memory and Cognition, 32(4), 805-815. https://doi.org/10.1037/02787393.32.4.805.
+Diana, R. A., Reder, L. M., Arndt, J., & Park, H. (2006). Models of recognition: A review
+of arguments in favor of a dual-process account. Psychonomic Bulletin and Review, 13
+(1), 1-21. https://doi.org/10.3758/BF03193807.
+Dudai, Y., Karni, A., & Born, J. (2015). The Consolidation and Transformation of
+Memory. Neuron, 88(1), 20-32. https://doi.org/10.1016/j.neuron.2015.09.004.
+Ecker, U. K. H., Zimmer, H. D., & Groh-Bordin, C. (2007a). Color and context: An ERP
+study on intrinsic and extrinsic feature binding in episodic memory. Memory and
+Cognition, 35(6), 1483-1501. https://doi.org/10.3758/BF03193618.
+Ecker, U. K. H., Zimmer, H. D., & Groh-Bordin, C. (2007b). The influence of object and
+background color manipulations on the electrophysiological indices of recognition
+memory. Brain Research, 1185(1), 221-230. https://doi.org/10.1016/j.
+brainres.2007.09.047.
+Engle, R. W., & Bukstel, L. (1978). Memory Processes among Bridge Players of Differing
+Expertise. The American Journal of Psychology, 91(4), 673. https://doi.org/10.2307/
+1421515.
+Evans, K. K., Cohen, M. A., Tambouret, R., Horowitz, T., Kreindel, E., & Wolfe, J. M.
+(2011). Does visual expertise improve visual recognition memory? Attention,
+Perception, and Psychophysics, 73(1), 30-35. https://doi.org/10.3758/s13414-0100022-5.
+Faul, F., Erdfelder, E., Lang, A. G., & Buchner, A. (2007). G*Power 3: A flexible statistical
+power analysis program for the social, behavioral, and biomedical sciences. In
+Behavior Research Methods (Vol. 39, pp. 175-191). Psychonomic Society Inc.
+https://doi.org/10.3758/BF03193146.
+Ghosh, V. E., & Gilboa, A. (2014). What is a memory schema? A historical perspective on
+current neuroscience literature. Neuropsychologia, 53, 104-114. https://doi.org/
+10.1016/j.neuropsychologia.2013.11.010.
+Gilboa, A., & Marlatte, H. (2017). Neurobiology of Schemas and Schema-Mediated
+Memory. Trends in Cognitive Sciences, 21(8), 618-631. https://doi.org/10.1016/j.
+tics.2017.04.013.
+Gobbini, M. I., & Haxby, J. V. (2007). Neural systems for recognition of familiar faces.
+Neuropsychologia, 45(1), 32-41. https://doi.org/10.1016/j.
+neuropsychologia.2006.04.015.
+Gobet, F., Lane, P., Crocker, S., Cheng, P., Jones, G., Oliver, I., & Pine, J. (2001).
+Chunking mechanisms in human learning. Trends in Cognitive Sciences, 5(6),
+236-243. https://doi.org/10.1016/S1364-6613(00)01662-4.
+Gobet, Fernand, & Simon, H. A. (1998). Expert Chess Memory: Revisiting the Chunking
+Hypothesis. Memory, 6(3), 225-255. https://doi.org/10.1080/741942359.
+Goldin, S. E. (1979). Recognition Memory for Chess Positions: Some Preliminary
+Research. The American Journal of Psychology, 92(1), 19. https://doi.org/10.2307/
+1421476.
+Goldstein, A. G., & Chance, J. E. (1980). Memory for faces and schema theory. Journal of
+Psychology: Interdisciplinary and Applied, 105(1), 47-59. https://doi.org/10.1080/
+00223980.1980.9915131.
+Horry, R., Wright, D. B., & Tredoux, C. G. (2010). Recognition and context memory for
+faces from own and other ethnic groups: A remember-know investigation. Memory &
+Cognition, 38(2), 134-141. https://doi.org/10.3758/MC.38.2.134.
+Jackson, M. C., & Raymond, J. E. (2008). Familiarity Enhances Visual Working Memory
+for Faces. Journal of Experimental Psychology: Human Perception and Performance, 34
+(3), 556-568. https://doi.org/10.1037/0096-1523.34.3.556.
+Jacoby, L. L., Shimizu, Y., Daniels, K. A., & Rhodes, M. G. (2005). Modes of cognitive
+control in recognition and source memory: Depth of retrieval. Psychonomic Bulletin &
+Review, 12(5), 852-857. https://doi.org/10.3758/BF03196776.
+Kawamura, S., Suzuki, S., & Morikawa, K. (2007). Short report: The effect of expertise in
+hiking on recognition memory for mountain scenes. Memory, 15(7), 768-775.
+https://doi.org/10.1080/09658210701582315.
+Kirwan, C. B., & Stark, C. E. L. (2007). Overcoming interference: An fMRI investigation of
+pattern separation in the medial temporal lobe. Learning and Memory, 14(9),
+625-633. https://doi.org/10.1101/lm.663507.
+Kitamura, T., Ogawa, S., Roy, D., Okuyama, T., Morrissey, M., Smith, L., ... Tonegawa, S.
+(2017). Engrams and circuits crucial for systems consolidation of a memory. Science,
+356(6333), 73-78. https://doi.org/10.1126/science.aam6808.
+Klatzky, R., & Forrest, F. (1984). Recognizing familiar and unfamiliar faces. Memory &
+Cognition, 12(1), 60-70.
+
+17
+
+B. Bellana et al.
+
+Journal of Memory and Language 121 (2021) 104264
+Stangor, C., & Mcmillan, D. (1992). Memory for Expectancy-Congruent and ExpectancyIncongruent Information: A Review of the Social and Social Developmental
+Literatures. Psychological Bulletin (Vol. Ill).
+Stark, S. M., Yassa, M. A., Lacy, J. W., & Stark, C. E. L. (2013). A task to assess behavioral
+pattern separation (BPS) in humans: Data from healthy aging and mild cognitive
+impairment. Neuropsychologia, 51(12), 2442-2449. https://doi.org/10.1016/j.
+neuropsychologia.2012.12.014.
+Troyer, A. K., Winocur, G., Craik, F. I. M., & Moscovitch, M. (1999). Source memory and
+divided attention: Reciprocal costs to primary and secondary tasks. Neuropsychology,
+13(4), 467-474.
+Tse, D., Langston, R. F., Kakeyama, M., Bethus, I., Spooner, P. A., Wood, E. R., ...
+Morris, R. G. M. (2007). Schemas and Memory Consolidation. Science, 316(7489),
+76-82. https://doi.org/10.1126/science.1135935.
+Tulving, E. (1985). Memory and consciousness. Canadian Psychology/Psychologie
+Canadienne, 26(1), 1-12. https://doi.org/10.1037/h0080017.
+van Kesteren, M. R., Ruiter, D. J., Fernandez, G., & Henson, R. N. (2012). How schema
+and novelty augment memory formation. Trends in Neurosciences, 35(4), 211-219.
+https://doi.org/10.1016/j.tins.2012.02.001.
+van Kesteren, M., Rijpkema, M., Ruiter, D. J., Morris, R. G. M., & Fernandez, G. (2014).
+Building on prior knowledge: Schema-dependent encoding processes relate to
+academic performance. Journal of Cognitive Neuroscience, 26(10), 2250-2261.
+https://doi.org/10.1162/jocn.
+van Kesteren, M. T. R., Rijpkema, M., & Ruiter, D. J. (2010). Retrieval of Associative
+Information Congruent with Prior Knowledge Is Related to Increased Medial
+Prefrontal Activity and Connectivity, 30(47), 15888-15894. https://doi.org/
+10.1523/JNEUROSCI.2674-10.2010.
+Warren, D. E., Jones, S. H., Duff, M. C., & Tranel, D. (2014). False recall is reduced by
+damage to the ventromedial prefrontal cortex: Implications for understanding the
+neural correlates of schematic memory. Journal of Neuroscience, 34(22), 7677-7682.
+https://doi.org/10.1523/JNEUROSCI.0119-14.2014.
+Wattenmaker, W. D. (1999). The influence of prior knowledge in intentional versus
+incidental concept learning. Memory & Cognition, 27(4), 685-698. Retrieved from
+http://www.ncbi.nlm.nih.gov/pubmed/10479827.
+Willenbockel, V., Sadr, J., Fiset, D., Horne, G. O., Gosselin, F., & Tanaka, J. W. (2010).
+Controlling low-level image properties: The SHINE toolbox. Behavior Research
+Methods, 42(3), 671-684. https://doi.org/10.3758/brm.42.3.671.
+Wixted, J. T. (2007). Dual-process theory and signal-detection theory of recognition
+memory. Psychological Review, 114(1), 152-176. https://doi.org/10.1037/0033295X.114.1.152.
+Wixted, J. T., & Stretch, V. (2004). In defense of the signal detection interpretation of
+remember/know judgments. Psychonomic Bulletin and Review, 11(4), 616-641.
+https://doi.org/10.3758/BF03196616.
+Yarmey, A. D. (1971). Recognition memory for familiar "public" faces: Effects of
+orientation and delay. Psychonomic Science, 24(6), 286-288. https://doi.org/
+10.3758/BF03329007.
+Yonelinas, A. P. (2002). The nature of recollection and familiarity: A review of 30 years
+of research. Journal of Memory and Language, 46(3), 441-517. https://doi.org/
+10.1006/jmla.2002.2864.
+Yonelinas, A. P., Aly, M., Wang, W. C., & Koen, J. D. (2010). Recollection and familiarity:
+Examining controversial assumptions and new directions. Hippocampus, 20(11),
+1178-1194. https://doi.org/10.1002/hipo.20864.
+
+Reder, L. M., Victoria, L. W., Manelis, A., Oates, J. M., Dutcher, J. M., Bates, J. T., ...
+Gyulai, F. (2013). Why It's Easier to Remember Seeing a Face We Already Know
+Than One We Don't: Preexisting Memory Representations Facilitate Memory
+Formation. Psychological Science, 24(3), 363-372. https://doi.org/10.1177/
+0956797612457396.
+Reder, Lynne M, Liu, X. L., Keinath, A., & Popov, V. (2016). Building knowledge requires
+bricks, not sand: The critical role of familiar constituents in learning. Psychonomic
+Bulletin and Review, 23(1), 271-277. https://doi.org/10.3758/s13423-015-0889-1.
+Roediger, H. L., & McDermott, K. B. (1995). Creating False Memories: Remembering
+Words Not Presented in Lists. Journal of Experimental Psychology: Learning, Memory,
+and Cognition, 21(4), 803-814. https://doi.org/10.1037/0278-7393.21.4.803.
+Rojahn, K., & Pettigrew, T. F. (1992). Memory for schema-relevant information: A metaanalytic resolution. British Journal of Social Psychology, 31(2), 81-109. https://doi.
+org/10.1111/j.2044-8309.1992.tb00958.x.
+Sayood, K. (2003). Data Compression. In Encyclopedia of Information Systems (pp.
+423-444). Elsevier. https://doi.org/10.1016/B0-12-227240-4/00029-0.
+Scapinello, K. F., & Yarmey, A. D. (1970). The role of familiarity and orientation in
+immediate and delayed recognition of pictorial stimuli. Psychonomic Science, 21(6),
+329-330. https://doi.org/10.3758/BF03335807.
+Schacter, D. L., Guerin, S. a, & St Jacques, P. L. (2011). Memory distortion: an adaptive
+perspective. Trends in Cognitive Sciences, 15(10), 467-474. https://doi.org/
+10.1016/j.tics.2011.08.004.
+Schwartz, L., & Yovel, G. (2016). The roles of perceptual and conceptual information in
+face recognition. Journal of Experimental Psychology: General, 145(11), 1493-1511.
+https://doi.org/10.1037/xge0000220.
+Schwartz, L., & Yovel, G. (2019). Learning faces as concepts rather than percepts
+improves face recognition. Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 45(10), 1733-1747. https://doi.org/10.1037/xlm0000673.
+Scolari, M., Vogel, E. K., & Awh, E. (2008). Perceptual expertise enhances the resolution
+but not the number of representations in working memory. Psychonomic Bulletin and
+Review, 15(1), 215-222. https://doi.org/10.3758/PBR.15.1.215.
+Sekeres, M. J., Bonasia, K., St-laurent, M., Pishdadian, S., Winocur, G., Grady, C., &
+Moscovitch, M. (2016). Recovering and preventing loss of detailed memory :
+Differential rates of forgetting for detail types in episodic memory. Learning &
+Memory (Cold Spring Harbor, N.Y.), 23(February), 72-82. https://doi.org/10.1101/
+lm.039057.115.
+Sharon, T., Moscovitch, M., & Gilboa, A. (2011). Rapid neocortical acquisition of longterm arbitrary associations independent of the hippocampus. Proceedings of the
+National Academy of Sciences of the United States of America, 108(3), 1146-1151.
+https://doi.org/10.1073/pnas.1005238108.
+Shen, Z., Popov, V., Delahay, A. B., & Reder, L. M. (2018). Item strength affects working
+memory capacity. Memory and Cognition, 46(2), 204-215. https://doi.org/10.3758/
+s13421-017-0758-4.
+Slotnick, S. D. (2010). "Remember" source memory ROCs indicate recollection is a
+continuous process. Memory, 18(1), 27-39. https://doi.org/10.1080/
+09658210903390061.
+Slotnick, S. D., Jeye, B. M., & Dodson, C. S. (2016). Recollection is a continuous process:
+Evidence from plurality memory receiver operating characteristics. Memory, 24(1),
+2-11. https://doi.org/10.1080/09658211.2014.971033.
+Spencer, W., & Raz, N. (1995). Differential effects of aging on memory for content and
+context: A meta-analysis. Psychology and Aging, 10(4), 527-539. Retrieved from
+http://psycnet.apa.org/journals/pag/10/4/527/.
+
+18
+
+

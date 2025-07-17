@@ -1,0 +1,1655 @@
+C Cambridge University Press 2014 doi:10.1017/S1366728914000844
+Bilingualism: Language and Cognition 19 (1), 2016, 1-18 
+
+Prediction and integration in
+native and second-language
+processing of elliptical
+structures
+
+EDITH KAAN
+Department of Linguistics, University of Florida
+
+JOSEPH KIRKHAM
+Department of Linguistics, University of Florida
+
+FRANK WIJNEN
+Utrecht Institute of Linguistics OTS, Utrecht University
+
+(Received: January 7, 2014; final revision received: November 11, 2014; accepted: November 17, 2014; first published online 29 December 2014)
+
+According to recent views of L2-sentence processing, L2-speakers do not predict upcoming information to the same extent as
+do native speakers. To investigate L2-speakers' predictive use and integration of syntactic information across clauses, we
+recorded event-related potentials (ERPs) from advanced L2-learners and native speakers while they read sentences in which
+the syntactic context did or did not allow noun-ellipsis (Lau, E., Stroud, C., Plesch, S., & Phillips, C. (2006). The role of
+structural prediction in rapid syntactic analysis. Brain and Language, 98, 74-88.) Both native and L2-speakers were sensitive
+to the context when integrating words after the potential ellipsis-site. However, native, but not L2-speakers, anticipated the
+ellipsis, as suggested by an ERP difference between elliptical and non-elliptical contexts preceding the potential ellipsis-site.
+In addition, L2-learners displayed a late frontal negativity for ungrammaticalities, suggesting differences in repair strategies
+or resources compared with native speakers.
+Keywords: second-language processing, ellipsis, predictive processing, LAN, late negativity
+
+Introduction
+Comprehending written or spoken sentences in a language
+learned at a later age is often different from sentence
+processing in one's native language. Several accounts
+have been proposed concerning the underlying difference
+between native and non-native sentence processing.
+According to the S HALLOW S TRUCTURE H YPOTHESIS
+(Clahsen & Felser, 2006), late second-language (L2)
+learners cannot use detailed syntactic information, but use
+semantic information, and general heuristics to infer the
+meaning of the sentence. Under this account, differences
+between native and non-native speakers will be primarily
+attested in long-distance syntactic dependencies, in which
+the dependent elements are not adjacent and syntactic
+information is crucial to construct the correct meaning.
+Other proposals hypothesize that L2-learners can use
+syntactic information, but will experience difficulty when
+different kinds of information need to be combined
+(Sorace, 2011). An example of the latter is the licensing of
+
+
+
+The authors would like to thank Natalia Davidson, Chelsea Guerra,
+Kyriaki Neophytou and Marpessa Rietbergen for their help making
+materials and running participants, Ellen Lau for letting us use her
+stimuli, and Iris Mulders and Sjef Pieters for technical assistance at the
+Utrecht site. This research was funded in part by the National Science
+Foundation (NSF 0957178), and a visiting scholars grant from the
+Netherlands Organisation for Scientific Research (NWO 040.11.367)
+awarded to the first author.
+
+a particular word order given a specific discourse context
+and information structure (Hopp, 2009).
+A more recent proposal is that L2-speakers do not
+anticipate upcoming information to the same extent or
+manner as do native speakers (Gruter, Lew-Williams &
+Fernald, 2012; Kaan, 2014; Kaan, Dallas & Wijnen, 2010;
+Martin, Thierry, Kuipers, Boutonnet, Foucart & Costa,
+2013). A growing number of psycholinguistic studies
+suggests that native speakers make detailed predictions
+concerning upcoming information during listening and
+reading. These predictions include the gender (Van
+Berkum, Brown, Zwitserlood, Kooijman & Hagoort,
+2005; Wicha, Moreno & Kutas, 2003, 2004), phonological
+form (DeLong, Urbach & Kutas, 2005; Martin et al.,
+2013), or visual form of the upcoming word (Dikker,
+Rabagliati, Farmer & Pylkkanen, 2010; Dikker, Rabagliati
+& Pylkkanen, 2009). For instance, in a study using Event
+Related brain Potentials (ERPs), DeLong et al. (2005)
+had participants read semantically highly constraining
+sentences such as The day was breezy so the boy went
+outside to fly . . . . The next word could be a determiner
+that either matched the expected noun (a kite, in this
+case), or did not (an airplane). The unexpected form of
+the determiner (an, in this case) elicited a larger N400
+component compared with its expected counterpart (a).
+The N400 component is typically seen for words that are
+semantically unexpected (Kutas & Hillyard, 1980). The
+DeLong et al. (2005) results suggest that native speakers
+
+Address for correspondence:
+Edith Kaan Department of Linguistics University of Florida Box 115454 Gainesville, FL 32611
+kaan@ufl.edu
+Supplementary material can be found online at http://dx.doi.org/10.1017/S1366728914000844
+
+2
+
+Edith Kaan, Joseph Kirkham and Frank Wijnen
+
+predict upcoming words while they are reading, and
+even pre-activate the phonological form of these words,
+which, in turn generates expectations for the form of the
+determiner. This leads to a deflection in the ERP when the
+expectations are violated, even BEFORE the expected noun
+appears in the input.
+Most studies on predictive processing in L2-learners,
+on the other hand, report that L2-learners do not anticipate
+upcoming words, at least, not to the same extent as do
+native speakers. This is in spite of the fact that the L2learners in these experiments know the specific rules and
+words used when probed off-line (Dussias, Valdes Kroff,
+Guzzardo Tamargo & Gerfen, 2013; Gruter et al., 2012;
+Gruter & Rohde, 2013; Hopp, 2013; Lew-Williams &
+Fernald, 2010; Martin et al., 2013). For instance, using
+an a/an paradigm similar to Delong et al. (2005), Martin
+et al. (2013) did not find anticipatory effects in the ERPs at
+the determiner (a, an) in Spanish L2-learners of English,
+even though the participants in this study were highly
+proficient in English, and had been English-immersed
+for at least two years. The L2-learners in this study did
+show incongruency effects in the ERPs at the noun when
+the preceding determiner did not match the noun (e.g. a
+airplane vs. an airplane). This suggests that even though
+the L2-speakers knew the morpho-phonological rules of
+determiners in English, they lacked the ability to anticipate
+this phonological information on the basis of the semantic
+context during reading.
+One account of L2-speakers' reduced ability to predict
+is that this is the result of a processing deficit: Lexical
+access, and integration of the words into the context are
+slow and effortful in L2, with the result that fewer processing resources can be devoted to forming and maintaining
+predictions during listening or reading (Foucart, Martin,
+Moreno & Costa, 2014; Gruter & Rohde, 2013). Other
+factors that may affect predictive processing in L2 are the
+learner's L2 proficiency, native language, and the type of
+information to be predicted, among others (Dussias et al.,
+2013; Foucart et al., 2014; Hopp, 2013; Kaan, 2014).
+Most studies on predictive processing in L2-learners
+have investigated the anticipation of specific discourse
+referents based on gender information encoded in the
+determiner preceding the noun, e.g. lafem /elmasc in Spanish
+(Dussias et al., 2013; Gruter et al., 2012; Hopp, 2013;
+Lew-Williams & Fernald, 2010). To our knowledge, the
+few other studies that use on-line techniques have focused
+on the predictive use of contextual-lexical semantics
+(Chambers & Cooke, 2009; Foucart et al., 2014; Martin
+et al., 2013). It is therefore unclear to what extent the
+current findings on predictive processing in L2-speakers
+generalize to other phenomena, in particular the predictive
+use of syntactic information other than gender. This is
+especially important given the special role assigned to
+(non-adjacent) syntactic information in prevailing models
+of L2 processing (Clahsen & Felser, 2006).
+
+The aim of the present study is to investigate to
+what extent advanced L2-learners differ from native
+speakers in the anticipation and/or integration of syntactic
+information. To this purpose we adapted an ERP paradigm
+used by Lau, Stroud, Plesch and Philips (2006). Lau et al.
+(2006) manipulated the expectation of a particular word
+class by contrasting syntactic contexts that did and did
+not allow noun-ellipsis. Elliptical structures are structures
+in which a particular word or phrase is missing from the
+input, but can be inferred from the preceding linguistic or
+discourse context (for an overview of linguistic accounts
+of ellipsis, see Phillips & Parker, 2014). Two of the
+conditions used by Lau et al. (2006) are illustrated in
+(a) and (b) of Table 1. In (a), the fragment Although Peter
+met John's surgeon, he did not meet Max's allows nounellipsis: Here the noun surgeon is missing from the second
+clause, yet it can be inferred from the preceding context.
+The second clause in (a) can therefore be syntactically
+complete at Max's. There is no strong expectation for a
+particular type of continuation. In the example in (b),
+on the other hand, noun-ellipsis is not possible. The
+fragment Although the surgeon met John, he did not meet
+Max's . . . is incomplete. This creates a strong expectation
+for an overt noun phrase to follow the possessive Max's,
+since this is the only way to complete the sentence in a
+grammatical way. The conditions (a) and (b) therefore
+differ in the degree to which an overt noun can be
+anticipated: in (b) there is a strong expectation for an overt
+noun; in (a) this expectation is much weaker because of
+the possibility of noun-ellipsis. In both (a) and (b), the
+possessive is followed by of. This is an ungrammatical
+continuation in (a) and (b) for two reasons. First, of
+may introduce an expression that modifies a preceding
+noun (e.g., report of the operation), and would require
+an overt noun in contexts such as (a) and (b). However,
+no such noun is available in (a) and (b). Alternatively, of
+can introduce an argument of the verb (e.g., to remind
+somebody of something), but such a verb is missing in
+(a) and (b). In both (a) and (b), therefore, of constitutes
+an ungrammatical continuation. Crucially, the difference
+between (a) and (b) is that of violates a strong expectation
+for an overt noun in (b) but not in (a). Testing native
+English speakers, Lau et al. (2006) reported a larger Left
+Anterior Negativity (LAN) effect at the word of in (b)
+versus (a). The LAN is a component elicited by syntacticmorphological violations (e.g., Coulson, King & Kutas,
+1998; Kaan & Swaab, 2003), but has not been consistently
+observed. Although the LAN component and its meaning
+are rather controversial (Steinhauer & Drury, 2012), one
+interpretation proposed by Lau et al. (2006) is that the
+LAN is modulated by the strength of syntactic predictions.
+Thus, the violation of a strong prediction, in particular,
+the prediction of an overt noun in (b), will lead to a
+larger LAN effect than violations of weaker predictions, as
+in (a).
+
+Prediction and integration in L1 and L2 processing
+
+3
+
+Table 1. Experimental conditions in the current study
+Condition label
+
+Example
+
+a. Ellipsis context-of
+(ungrammatical)
+b. Non-ellipsis context -of
+(ungrammatical)
+c. Ellipsis context -temporal
+(grammatical)
+d. Non-ellipsis context- temporal
+(ungrammatical)
+
+Although Peter met John's surgeon, he did not meet Max's  of the operation.
+Although the surgeon met John, he did not meet Max's  of the operation.
+Although Peter met John's surgeon, he did not meet Max's before the operation.
+Although the surgeon met John, he did not meet Max's  before the operation.
+
+Note:  indicates the onset of the ungrammaticality; the critical preposition is underscored and in italics for demonstration purposes only.
+
+In the present study we used conditions (a) and (b)
+from Lau et al. (2006) to test to what extent L2 and native
+speakers differed in their ability to predict an elided noun
+on the basis of the preceding syntactic context. If, in
+contrast to native speakers, L2-speakers cannot use the
+preceding syntactic context to generate predictions as to
+the possibility of noun-ellipsis, we expected the native,
+but not the L2-speakers to show an effect of the preceding
+context, that is, a difference between contexts in which
+ellipsis is possible (a) versus contexts in which ellipsis
+is not possible (b). In particular, we expected that in
+the native speakers, the context affects the LAN effect
+or other early components at the critical preposition of,
+or at the preceding possessive, but that the L2-speakers
+would not show such a modulation. Although Lau et al.
+did not find any significant differences at the possessive
+(Max's) preceding the preposition, we do not exclude
+effects of context on that position, as the possessive is
+the first position at which noun-ellipsis can be inferred in
+(a) versus (b). Also, other ERP studies on ellipsis report
+effects at the position directly preceding the ellipsis site
+(Dimitrova, 2012). In our data analysis, we will therefore
+also analyze ERPs to the possessive preceding the critical
+preposition.
+Second, we were interested in the extent to which
+native and non-native speakers differed in the integration
+of syntactic information across clauses and in the repair
+of syntactic errors. In order to interpret the elliptical
+constructions and to determine their grammaticality,
+information from the first clause needs to be combined
+with that in the second clause. If L2-learners have
+difficulties integrating structural information across
+clauses (Clahsen & Felser, 2006), they will have difficulty
+distinguishing grammatical from ungrammatical ellipsis,
+and difficulty retrieving the antecedent of the elided
+element. To test this, the current study included two
+additional conditions, (c) and (d) in Table 1. These
+conditions were not part of the Lau et al. (2006) study,
+but allowed us to tease apart the effects of processing
+ellipsis and the effects of processing a preposition (of)
+
+that is ungrammatical for reasons independent of ellipsis.
+Conditions (c) and (d) are the same as (a) and (b) except
+for the use of the preposition. In contrast to of in (a)
+and (b), the prepositions used in conditions (c) and (d)
+introduce expressions of time, and do not need a directly
+preceding noun or subcategorizing verb in order to be
+grammatical. As in (a) and (b), a noun is omitted after
+the possessive in (c) and (d). In (c) this kind of ellipsis is
+allowed because of parallelism with the preceding context,
+rendering (c) grammatical; in (d) omission of the noun is
+not allowed, which results in an ungrammaticality at the
+preposition.
+Native speakers were expected to show a larger
+P600 effect at the preposition for the ungrammatical
+(d) versus grammatical condition (c). In addition, the
+P600 was expected to be larger in (b) than in (a), as
+the preposition in (b) may be perceived as a stronger
+violation than in (a) since noun-ellipsis is licensed in (a)
+but not in (b). The P600 effect is commonly observed
+for ungrammatical or syntactically difficult continuations
+and may reflect integration, repair and/or monitoring
+processes (Friederici, Hahne & Saddy, 2002; Kaan,
+Harris, Gibson & Holcomb, 2000; Van de Meerendonk,
+Indefrey, Chwilla & Kolk, 2011). If L2-speakers have
+difficulty combining syntactic information across clauses,
+they may not experience the ungrammaticality in the way
+native speakers do, and/or may integrate or repair the
+ungrammatical continuation in a different way than native
+speakers. This would be reflected in differences in the
+latency, scalp distribution, or amplitude of the P600 effect
+at the preposition for (b) versus (a), and (d) versus (c).
+In addition, differences between native speakers and
+L2-learners may be observed in a late anterior negativity
+following the P600. This effect has been observed in L2learners (Gillon Dowens, Vergara, Barber & Carreiras,
+2010; Hahne & Friederici, 2001; Isel, 2007; MorganShort, Steinhauer, Sanz & Ullman, 2012; Sabourin &
+Stowe, 2008), as well as native speakers (Aleman Banon,
+Fiorentino & Gabriele, 2012; Gillon Dowens et al.,
+2010; Sabourin & Stowe, 2004) and may reflect working
+
+4
+
+Edith Kaan, Joseph Kirkham and Frank Wijnen
+
+memory load (Morgan-Short et al., 2012; Sabourin &
+Stowe, 2004; Sabourin & Stowe, 2008) or difficulty with
+semantic-conceptual integration (Hahne & Friederici,
+2001; Isel, 2007).
+In sum, the aim of the present study was to investigate
+to what extent advanced L2-learners of English differ
+from native English speakers in the use of syntactic
+information in the preceding clause: (a) to anticipate
+upcoming syntactic information (noun-ellipsis versus an
+overt noun in particular), leading to a modulation of the
+LAN effect at the ungrammatical preposition, or other
+early effects for the native speakers, but not for the L2learners; (b) to integrate information and repair violations,
+possibly leading to differences between the native and
+L2-groups in P600 and late negativities following the
+ungrammatical preposition.
+Methods
+Participants
+Two groups of participants were recruited. The Native
+English group consisted of 19 monolingually-raised,
+native speakers of American English, recruited and run
+at the University of Florida. An additional 7 participants
+were run in this group, but were omitted from analysis
+because of early bilingualism (5 participants); technical
+problems (1 participant); or close to chance performance
+on judging the grammaticality of the sentences in the
+ERP experiment (less than 55% correct, 1 participant).
+The L2-group consisted of 19 native speakers of Dutch
+who were advanced second language learners of English.
+This group was recruited and run at Utrecht University,
+The Netherlands. Participants in the L2-group were raised
+in a monolingual household, and started learning English
+in a school context around the age of 10, although many
+indicated they had been exposed to English through TV
+and other media at an earlier age (mean 8.1, range 3-
+10 years). Participants in the L2-group indicated that
+they had been actively using English for 13.3 years on
+average (range 9-23 years), which included at least 8
+years of formal instruction. Eight of the 19 L2-speakers
+had spent 1-6 months in an English-speaking country; one
+had spent three years in an English-speaking country. The
+L2 participants indicated to have some knowledge of 1 to
+5 other languages besides Dutch and English (mean 3.7),
+with French and German being the most frequently listed.
+The main criterion for inclusion in the L2-group was a
+score of at least 80 on the LexTALE English proficiency
+task (Lemhofer & Broersma, 2012), which corresponds
+to an `advanced' user. The LexTALE is a standardized
+lexical decision task. Scores on this task correlate strongly
+with more general English proficiency scores (Lemhofer
+& Broersma, 2012). In this task, words and pseudo words
+are presented one at a time on a computer screen, and
+
+participants are asked to indicate with a button press
+whether or not the letter string is an actual word of English.
+An additional 13 Dutch speakers of English were run but
+not included in the analysis presented in this paper because
+of a LexTALE score lower than 80 (8 participants), early
+bilingualism (1 participant), or technical problems (4
+participants). None of the participants reported any history
+of neurological or reading disorders; all had normal
+or corrected-to-normal vision, and were right-handed
+as determined by the Edinburgh Handedness Inventory
+(Oldfield, 1971). Participants gave informed consent as
+per local Institutional Review Board procedures, and
+received course credit or small monetary compensation
+for participation.
+Both native and L2 participants completed an augmented version of the LEAP-Q language questionnaire
+(Marian, Blumenfield & Kaushanskaya, 2007) and an
+English cloze test in which they were asked to complete
+truncated words in short passages (passages number 1,
+2, 4 and 5 from Keijzer, 2007). To be able to control for
+potential differences in working memory and cognitive
+control between the groups, which may affect predictive
+language processing (e.g., Slevc & Novick, 2013), we
+had participants complete a forward and backward digit
+memory span task (Wechsler, 1987) and a Stroop task in
+their native language (Stroop, 1935).
+Language and other demographic data for the Native
+English and L2-groups are provided in Table 2. The L2group was slightly older than the Native English group,
+rated themselves as less proficient in English, and used
+English less often on a daily basis compared with the
+Native English group. The groups did not differ on the
+English cloze-test, the Stroop task, or on the digit span
+tasks.
+Materials
+One hundred and sixty quadruplets were constructed of
+the type illustrated in Table 1. Most of the experimental
+stimuli were taken from Lau et al. (2006). Some items
+were slightly modified, to make the scenarios more
+plausible and less culture-specific, and a few items were
+added. Conditions (a), "ellipsis of", and (b), "non-ellipsis
+of", were the same as in Lau et al. (2006). In both
+conditions, the possessive in the second clause was
+followed by the preposition of, yielding an ungrammatical
+sentence. The ellipsis of a noun after the possessive
+was possible in (a), but not in (b). This means that the
+possessive can be a potential end of the clause in (a);
+in (b) an overt noun is required downstream in order
+for the sentence to be grammatical. In both (a) and
+(b), the preposition of either needs an overt noun, or a
+verb that takes an of-complement. The ungrammaticality
+in both constructions can therefore also be due to of
+missing an element it can modify, or due to the lack of
+
+Prediction and integration in L1 and L2 processing
+
+5
+
+Table 2. Participant demographics
+Variable
+
+Native English
+
+L2-group
+
+Gender
+Age (range)+
+English listening proficiency (self-rating)
+English reading proficiency (self-rating)
+English writing proficiency (self-rating)
+English speaking proficiency (self-rating)
+Percentage of daily English use
+LexTALE score
+English cloze-test score (out of 80)
+Stroop effect (in seconds)
+Forward digit span
+Backward digit span
+
+4 M; 15 F
+20.4 (18-26)
+9.8 (0.4)
+9.8 (0.6)
+9.8 (0.5)
+9.7 (0.7)
+93.1 (8.8)
+N/A
+69.4 (7.6)
+23.4 (8.7)
+8.5 (2.2)
+8.1 (2.7)
+
+4 M; 15 F
+22.4 (19-33)
+7.4 (0.7)
+8.3 (0.7)
+8.6 (0.9)
+7.5 (1.0)
+23.9 (18.6)
+90.1 (7.7)
+70.9 (5.0)
+23.6 (10.7)
+9.5 (1.6)
+8.4 (2.1)
+
+Note: + significant difference between the groups, p < .05;  L2-group scored significantly lower
+than the Native English group, p < .0001. Numbers in parentheses indicate the range for Age, and
+standard deviation for other measures.
+
+an appropriate verb. In order to compare grammatical
+versus ungrammatical noun ellipsis, and to investigate
+effects of integration and repair, we added conditions (c),
+"ellipsis temporal", and (d), "non-ellipsis temporal". Up
+to and including the possessive, these conditions were the
+same as in (a) and (b): noun-ellipsis is possible in (c),
+but not in (d). In contrast to (a) and (b), the preposition
+following the possessive introduced a temporal modifier
+(before, during, after), and did not require a preceding
+noun. Condition (c) was therefore grammatical; Condition
+(d) was ungrammatical at the preposition, since ellipsis is
+not allowed, and an overt noun is expected rather than a
+preposition. Note that ellipsis after a possessive proper
+name is not possible in Dutch, the native language of the
+L2-learners in the study. In Dutch, a pronoun or other overt
+element must be used (Corver & van Koppen, 2010). For
+instance, Ik zie Jans auto, maar niet  Piets "I see Jan's car,
+but not Piet's," is ungrammatical; a correct construction
+is Ik zie Jans auto, maar niet die van Piet, "I see Jan's car,
+but not that of Piet."
+A questionnaire study with 43 native English speakers
+(not participating in the ERP study) on 48 experimental
+items confirmed that the ellipsis temporal condition (c)
+was more acceptable than the other three conditions. On
+a scale from 1 (implausible) to 7 (plausible), the mean
+ratings were: (a) ellipsis of: 2.62 (SD 0.93); (b) nonellipsis of : 2.04 (SD 0.86); (c) ellipsis temporal: 5.19
+(SD 0.95); (d) non-ellipsis temporal: 2.37 (SD 1.03).
+The ellipsis temporal condition was rated as significantly
+more acceptable than the other three, with T-tests yielding
+ps < .001; in addition, the non-ellipsis of condition (b) was
+rated significantly worse than the other two ungrammatical
+conditions (ellipsis of (a) and non-ellipsis temporal (d),
+ps < .001).
+
+In addition, 32 filler items for each of the following
+four filler conditions were constructed: (1) ellipsis context
+(possessive in first clause), with an overt noun in the
+second clause, e.g., Although Leigh emailed Kate's
+assistant, she did not email Amy's secretary before the
+class; (2) non-ellipsis context (i.e., no possessive in first
+clause), with a possessive and overt noun in the second
+clause, e.g., While Kimberly denied the criminal charges,
+she admitted that her lover's allegations were true; (3)
+non-ellipsis context in which of is used in a grammatical
+way, e.g., Although the nurse weighed Tristen, she forgot
+to take the temperature of the patient; (4) non-ellipsis
+context, other, e.g., Because Chloe had no other food in
+her house, she ate some chips for dinner. Fillers of type (1)
+and (2) were included to prevent participants from always
+expecting an elided noun in the second clause. Fillers
+of type (3) were included to bias participants away from
+noticing that all uses of the preposition of in the critical
+trials were ungrammatical. Fillers of type (4) introduced
+more variability into the sentence structures presented to
+participants. One fourth of all filler types contained an
+ungrammaticality (word order or agreement violation).
+The complete set of stimuli is given in the Supplementary
+Materials Online (Supplementary Material).
+Experimental items were Latin-Squared and distributed across four lists. Fillers were the same across
+the lists. The order of fillers and experimental items was
+pseudo-randomized, such that conditions were equally
+distributed across the entire list and experimental trials
+of the same condition never occurred in immediate
+succession. Each participant saw only one list of 288
+sentences: 160 experimental items (4 conditions of 40
+trials each) and 128 fillers (4 types of 32 each). The 288
+trials were broken into 8 blocks of 36 trials each, with
+
+6
+
+Edith Kaan, Joseph Kirkham and Frank Wijnen
+
+5 occurrences of each experimental condition, and 3-5
+items of each filler type in each block.1 The order of
+blocks was randomized per participant.
+Procedure
+During the ERP experiment, participants were seated at
+a distance of 100 cm from a computer monitor. The text
+was presented in 36-point Arial font, white against a black
+background. A trial started with a fixation cross presented
+for 700 ms in the center of the screen, followed by the
+words of the sentence. Each word was presented in the
+center of the screen for 300 ms followed by a 200 ms
+blank screen. The last word of each sentence was followed
+by a 700 ms blank screen, after which a prompt ("?")
+appeared. Participants were instructed to silently read each
+sentence and to indicate at the prompt whether they judged
+the preceding sentence to be a grammatical sentence of
+English via a button press (left for `grammatical'; right for
+`ungrammatical'). They were asked to respond as quickly
+and accurately as possible, without sacrificing speed for
+accuracy. After responding, the words "Press for next"
+appeared on the screen; participants proceeded to the next
+trial at their own pace. Participants were familiarized with
+the procedure with a practice block of 8 items which were
+unrelated to the experimental manipulations. Each of the
+8 blocks was followed by a short break.
+Before the ERP experiment, the native English
+participants completed the cloze-test, the forward and
+backward digit span tasks, and the Stroop task. The L2
+participants first completed the digit span and Stroop
+tasks in their native language, and then continued in
+their L2 (English) with the cloze-test and the LexTALE
+English proficiency task. During EEG setup and during
+the breaks in the ERP experiment, participants completed
+the Edinburgh Handedness Inventory and the LEAP-Q
+language questionnaires. These forms were all in English.
+ERP Recording
+EEG was recorded using Ag/AgCl electrodes mounted in
+a Waveguard 64 cap for the native English participants,
+and in a 64 channel Biosemi cap for the L2 participants.
+The following electrode locations were shared between
+the two systems: on the midline: Fpz, Fz, FCz, Cz, CPz,
+Pz, POz, and Oz, and at lateral sites: Fp1/2, AF3/4/7/8,
+F1/2/3/4/5/6/7/8, FC1/2/3/4/5/6, FT7/8, C1/2/3/4/5/6/,
+T7/8, CP1/2/3/4/5/6, TP7/8, P1/2/3/4/5/6/7/8, PO3/4/7/8,
+and O1/2. An additional 6 electrodes were placed at the
+following locations: both mastoids, the left and right
+outer canthi, above the left eye, and below the left eye.
+Impedance levels were generally kept below 5 k, though
+1
+
+Each block contained 16 filler items, but due a minor oversight, some
+blocks contained 3 or 5 items of a particular filler type rather than 4.
+
+in rare cases some electrodes could only be reduced to
+10 k. In the native English participants, signals were
+recorded using a sampling a rate of 256 Hz and referenced
+to the left mastoid. In the L2 participants, signals were
+acquired using a common reference and sampled at a rate
+of 2048 Hz, down-sampled to 256 Hz after recording.
+EEG Analysis
+In both participant groups, the signal was re-referenced
+off-line to the mean of both mastoids, and filtered
+between 0.01 and 30 Hz. Epochs were defined as -100 to
+1500 ms from the onset of the possessive, that is, the
+word preceding the critical preposition. Averages were
+time-locked to the onset of the possessive, using the
+100 ms window preceding the possessive as a baseline.
+We chose to time-lock to the onset of the possessive
+rather than to the critical preposition, to capture potential
+differences in ERPs due to the possessive signaling a
+potential ellipsis site in conditions (a) and (c), but not (b)
+and (d). Using the 100 ms time window before the onset
+of the possessive as a baseline, rather than the 100 ms
+preceding the preposition, allowed us to see to what extent
+early differences in the ERPs observed at the preposition
+were due to effects induced by the preceding possessive,
+and prevented confounding ERPs at the preposition with
+pre-existing differences between the conditions. Epochs
+containing blinks or other artifacts were rejected before
+averaging. For the Native English group, average artifact
+rejection rates were 11% for the ellipsis of condition;
+16% for non-ellipsis of; 12% for ellipsis temporal; and
+16% for non-ellipsis temporal; for the L2-group, the
+percentage of rejected trials were 10%, 9%, 9% and
+13%, respectively. Mean amplitudes were analyzed in the
+following time windows, based on visual inspection and
+previous studies: 300-500 ms and 500-700 ms after onset
+of the possessive (early context effects); 900-1100 ms
+(that is, 400-600 ms after onset of the preposition, LAN
+effect); and 1200-1500 ms (that is, 700-1000 ms after
+onset of the preposition, P600 and late negative effects).
+To avoid confounds due to the critical prepositions
+differing in length and frequency between conditions (a)
+and (b) on the one hand, and (c) and (d) on the other,
+we conducted two separate analyses: one comparing the
+two conditions containing of, (b) versus (a), and one
+comparing the two temporal preposition conditions, (d)
+versus (c). For each pair of conditions a 2 x 2 x 5 repeated
+measures Generalized Linear Model (GLM, Language
+Group x Ellipsis x Anteriority) was run on the midline
+electrodes, and a 2 x 2 x 2 x 5 repeated measures GLM
+(Language Group x Ellipsis x Hemisphere x Anteriority)
+was run on lateral electrodes, with Language Group
+(Native English, L2) as a between-subjects factor, and
+Ellipsis (ellipsis, non-ellipsis context), and scalp location
+factors as within-subject factors. Analyses on midline
+
+Prediction and integration in L1 and L2 processing
+
+7
+
+Table 3. Mean (standard deviation) proportion of accurate
+grammaticality judgments.
+Native English
+
+L2-group
+
+Preposition
+
+Ellipsis Context
+
+Non-Ellipsis
+
+Ellipsis Context
+
+Non-Ellipsis
+
+Of
+Temporal
+
+.89 (.12)
+.90 (.11)
+
+.98 (.04)
+.83 (.18)
+
+.81 (.25)
+.93 (.09)
+
+.96 (.05)
+.87 (.13)
+
+electrodes included Anteriority as within-subject factor
+(five levels: Fz, FCz, Cz, CPz and Pz). For the analyses of
+lateral sites, ten regions were defined: left (right) frontal:
+F1(2), F3(4), F5(6) and F7(8); frontal-central: FC1(2),
+FC3(4), FC5(6), FT7(8); central: C1(2), C3(4), C5(6),
+T7(8); central-parietal: CP1(2), CP3(4), CP5(6), TP7(8);
+and parietal: P1(2), P3(4), P5(6), P7(8). Analyses included
+the factor Hemisphere (two levels) and Anteriority (five
+levels). For effects involving factors with more than two
+levels, the p-value was corrected using the Greenhouse-
+Geisser correction for sphericity violations (Greenhouse
+& Geisser, 1959). Since we were only interested in
+the difference in ERPs between the ellipsis and nonellipsis conditions and between the language groups,
+we will only report effects involving the factor Ellipsis
+or Language group, that is, main effects of Anteriority,
+main effects of Hemisphere, and two-way interactions
+between Anteriority and Hemisphere are not reported
+because these do not convey any information as to the
+differences between the conditions or groups. Significant
+interactions of interest were followed up with separate
+GLMs. However, since the main focus of the study was
+on potential differences between L2 and native speakers
+in the processing of ellipsis vs. non-ellipsis conditions,
+separate analyses within the Language groups were
+conducted when differences were apparent in the means,
+even when the interaction between Language group and
+Ellipsis did not reach significance.
+
+Results
+Grammaticality judgments
+The proportions of accurate judgments in the four
+experimental conditions are given in Table 3. Accurate
+responses were the response "grammatical" for the ellipsis
+temporal condition (c), and "ungrammatical" for the other
+three conditions. In conditions with the preposition of,
+participants gave more accurate responses in the nonellipsis (b) than in the ellipsis (a) contexts. With a temporal
+preposition, in contrast, participants gave fewer accurate
+responses in the non-ellipsis (d) than in the ellipsis
+context (c) (Ellipsis x Preposition, F(1, 36) = 17.59,
+p < .001; ellipsis versus non-ellipsis: of, F(1, 36) =
+
+19.83, p < .001, temporal, F(1, 36) = 4.37, p < .05). The
+Native English group gave more accurate responses than
+the L2-group in the of conditions, and the L2-group gave
+more accurate responses than the Native English group in
+the conditions with the temporal preposition (Language
+group x Preposition, F(1, 36) = 4.80, p <.05). However,
+the effect of Language group was not significant when
+analyses were conducted separately for each preposition
+(of, F(1, 36) = 2.03, p = .16; temporal, F(1, 36) = 1.37,
+p = .25). No other differences between the Language
+groups were found (main effect of Language group, F <
+1, N.S.; Language group x Ellipsis, F(1, 36) = 1.02, p
+= .32; Language group x Preposition x Ellipsis, F < 1,
+N.S.).2
+ERPs: Comparing the `of' conditions, (a) versus (b)
+We first compared the processing of an ungrammatical
+preposition (of) in contexts that did allow ellipsis (a)
+versus contexts that did not (b). If L2-speakers differ
+from native speakers in terms of anticipating upcoming
+word categories on the basis of the preceding syntactic
+content, we expected the two groups to differ in the ERPs
+at the possessive (that is, the first position at which an
+elided noun can be predicted), and/or in early effects at the
+preposition, such as the LAN effect observed by Lau et al.
+(2006). In particular, the native speakers were expected
+to show differences between the ellipsis and non-ellipsis
+contexts, whereas the L2-learners were expected not to do
+so.
+The ERPs for conditions (a) and (b), starting from the
+onset of the possessive, are displayed in Figure 1 for the
+Native English group and in Figure 2 for the L2-group.
+2
+
+Two L2 participants performed below chance judging the
+grammaticality of the ellipsis of condition (a). After omitting these two
+participants from the analysis of the behavioral data, the interaction
+of Language group by Preposition was no longer significant (F(1,
+36) = 2.48, p = .13). Analyses of the ERP data omitting these two
+participants yielded no difference in significant effects compared with
+the analysis reported in the main text, except for the analysis of the
+900-1100 ms interval in the comparison of the of conditions (a) vs.
+(b). In contrast to the analysis reported in the main text, the threeway interaction between Ellipsis, Hemisphere and Language group
+reached significance after omission of the two low-performing L2
+participants (F(1, 34) = 5.01, p < .05).
+
+8
+
+Edith Kaan, Joseph Kirkham and Frank Wijnen
+
+Figure 1. ERPs for the Native English group, ellipsis of condition (solid line) and non-ellipsis of condition (dotted line).
+ERPs are plotted from the onset of the possessive onwards. The preposition of starts at 500 ms. 1: absence of a LAN effect; 2:
+early positivity for non-ellipsis versus ellipsis condition; 3: positivity for non-ellipsis/negativity for ellipsis, 400-600 ms after
+onset of the preposition; 4: late positivity for the non-ellipsis condition at posterior sites.
+
+Right after the onset of the preposition (that is, 500
+ms after the onset of the possessive), we observed a
+posterior positivity for the non-ellipsis (b) versus ellipsis
+(a) conditions for the Native English group only (arrow 2
+in Figure 1). In contrast to Lau et al. (2006), however, we
+did not see a LAN effect at the preposition for the nonellipsis versus ellipsis condition for either group (arrow 1
+in Figures 1 and 2).
+Our second set of predictions concerned effects of
+integration. We expected L2-speakers to differ from native
+speakers in the effect of context on the P600 at the
+preposition, and later effects reflecting integration and
+repair. As can be seen in Figures 1 and 2, both groups
+showed a difference for the non-ellipsis versus ellipsis
+condition at right central-posterior sites at 400-600 ms
+after the onset of the preposition (arrow 3 in Figures 1
+and 2). This effect can either be seen as a positive shift for
+the non-ellipsis condition or an increased negativity for the
+ellipsis condition. At the end of the epoch, 700-1000 ms
+after the onset of the preposition, the L2-speakers' ERPs
+for the non-ellipsis condition were more negative than for
+the ellipsis condition at anterior sites (arrows 4 and 5 in
+Figures 1 and 2). This difference was absent in the native
+
+speakers. Statistical evaluations of these observations are
+reported in the next paragraphs.
+
+Context effects at the possessive
+Early effects of context were assessed at the 300-
+500 ms and 500-700 ms time-windows after the onset
+of the possessive. No differences between the conditions
+or language groups were observed in the 300-500 ms
+interval after the onset of the possessive. Starting 500-
+700 ms after onset of the possessive (i.e., 0-200 ms
+after presentation of the critical preposition, arrow 2
+in Figure 1), the non-ellipsis of (b) was more positive
+relative to the ellipsis of (a) condition. This positivity
+had a central-posterior maximum (Ellipsis x Anteriority,
+midline, F(4, 144) = 2.46, p = .08; lateral, F(4, 144)
+= 3.91, p < .05). Judging from Figures 1 and 2, the
+500-700 ms positivity for the non-ellipsis condition was
+present only in the Native English group. Although the
+factor Language group did not significantly interact with
+Ellipsis effects (ps > .18), our research question justified
+a comparison within each group. Analyses for the groups
+separately yielded a main effect of Ellipsis for the Native
+
+Prediction and integration in L1 and L2 processing
+
+9
+
+Figure 2. ERPs for the L2-group, ellipsis of condition (solid line) and non-ellipsis of condition (dotted line). ERPs are
+plotted from the onset of the possessive onwards. The preposition of starts at 500 ms. 1: absence of a LAN effect; 3:
+positivity for non-ellipsis/negativity for ellipsis, 400-600 ms after onset of the preposition; 4: late positivity for the
+non-ellipsis condition at posterior sites; 5: late negativity for non-ellipsis condition at frontal sites.
+
+English group only (midline, F(1, 18) = 4.79, p <.05;
+lateral, F(1, 18) = 3.78, p = .07; L2-group: Fs < 1, N.S.).
+Context effects at the preposition
+Context effects at the preposition were assessed 900-1100
+ms after onset of the possessive, that is, 400-600 ms
+after onset of the preposition. In this time window, ERPs
+to the non-ellipsis condition were more positive going
+compared with the ellipsis condition (midline, F(1, 36) =
+5.90, p <.05; lateral, F(1, 36) = 4.13, p < .05). This
+difference was largest over right central-posterior sites
+(Ellipsis x Anteriority: midline, F(4, 144) = 4.69,
+p < .01; lateral, F(4, 144) = 2.34, p = .13; Ellipsis
+x Hemisphere, F(1, 36) = 5.57, p < .05, Ellipsis x
+Hemisphere x Anteriority, F(4, 144) = 3.59, p < .05).
+The hemispheric asymmetry of the ellipsis effect was
+more pronounced in the Native English than the L2-group
+(Ellipsis x Hemisphere x Language Group, F(1, 36) =
+3.99, p = .053; Ellipsis x Hemisphere: Native English,
+F(1,18) = 8.51, p <.01; L2, F(1,18) < 1, N.S.)
+Later effects at the preposition
+In the 1200-1500 ms interval after the onset of the
+possessive (700-1000 ms after onset of the preposition),
+
+the non-ellipsis condition (b) continued to elicit more
+positive ERPs at posterior sites than the ellipsis condition
+(a), especially over the right hemisphere (Ellipsis x
+Anteriority, midline, F(4, 144) = 5.95, p < .01; lateral,
+F(4, 144) = 4.69, p < .05; Ellipsis x Hemisphere: F(1, 36)
+= 7.98, p < .01, Ellipsis x Hemisphere x Anteriority: F(4,
+144) = 3.32, p < .05). In addition, in the L2 participants,
+the ERPs for the non-ellipsis condition were more negative
+than for the ellipsis condition over frontal sites, leading
+to an interaction of Ellipsis x Anteriority x Language
+group (midline, F(4, 144) = 6.36, p < .001; lateral, F(4,
+144) = 2.79, p = .09). Analyses for the language groups
+separately revealed an Ellipsis x Anteriority interaction
+for the L2-group only (L2, midline, F(4, 72) = 12.01,
+p < .001; lateral, F(4, 72) = 6.94, p < .01; Native English,
+midline and lateral: F(4, 72) < 1, N.S.).
+Summary: (a) vs. (b)
+To summarize these results, both language groups showed
+sensitivity to the contextual manipulation. Starting at
+400 ms after onset of the preposition of, ERPs in both
+groups were more positive for the non-ellipsis than for
+the ellipsis condition. This effect tended to be more
+
+10
+
+Edith Kaan, Joseph Kirkham and Frank Wijnen
+
+Figure 3. ERPs for the Native English group, ellipsis temporal condition (solid line) and non-ellipsis temporal condition
+(dotted line). ERPs are plotted from the onset of the possessive onwards. The preposition starts at 500 ms. 1: absence of a
+LAN effect; 2: early positivity for non-ellipsis versus ellipsis condition. 3: absence of a 400-600 ms effect.
+
+right-lateralized in the Native English group. This effect
+can be interpreted either as a P600 for the non-ellipsis
+conditions, and/or an N400 for the ellipsis condition. We
+will return to this in the Discussion section. The Native
+English group, but not the L2-group, showed an earlier
+positivity for the non-ellipsis versus ellipsis conditions,
+starting 500 ms after onset of the possessive, although the
+interaction with language group was not significant for
+this effect. Given its early onset, this effect suggests that
+the Native and L2-groups differed in the anticipation and
+early processing of the critical preposition.
+Finally, the L2 and Native groups differed in the
+presence of a late frontal negativity, occurring 1200-1500
+ms after the onset of the possessive, for the non-ellipsis
+versus ellipsis conditions in the L2-group, but not in the
+Native English. This suggests that the groups differed in
+the processing resources available, or in the processes
+involved in dealing with the ungrammaticality in ellipsis
+of contexts.
+ERPs: Comparing the temporal conditions, (c) versus
+(d)
+We also compared ERPs for ellipsis and non-ellipsis
+contexts containing a temporal preposition which did not
+
+require an overt noun or specific verb (conditions (c) and
+(d) in Table 1). This comparison allowed us to test the
+effect of a grammatical versus ungrammatical omission
+of a noun, independently of the ungrammaticality of the
+preposition. Also here, we had expected the L2 and Native
+groups to differ in early effects of context (ellipsis (c) vs.
+non-ellipsis (d)) at the possessive or preposition, and in
+the P600 and later effects for the ungrammatical (d) versus
+grammatical (c) condition.
+The ERPs for the ellipsis temporal (c) and non-ellipsis
+temporal (d) conditions are displayed in Figures 3 and 4
+for the Native English and L2-groups, respectively.
+As in the (a) versus (b) contrast, the Native English
+group (Figure 3) showed a positivity for the non-ellipsis
+versus ellipsis conditions 500-700 ms after onset of the
+possessive (arrow 2 in Figure 3). Also, no LAN was
+observed (arrow 1 in Figure 3). In contrast to the (a) vs. (b)
+comparison, however, no differences were seen between
+400-600 ms after onset of the preposition (arrow 3 in
+Figure 3).
+The L2-group (Figure 4) showed a long-lasting
+posterior positivity for the non-ellipsis temporal condition
+(d), which started shortly after the onset of the possessive
+(arrow 1 in Figure 4). Towards the end of the epoch,
+700-1000 ms after the onset of the preposition, this
+
+Prediction and integration in L1 and L2 processing
+
+11
+
+Figure 4. ERPs for the L2-group, ellipsis temporal condition (solid line) and non-ellipsis temporal condition (dotted line).
+ERPs are plotted from the onset of the possessive onwards. The preposition starts at 500 ms. Note the early spurious
+positivity (arrow 1), and the late frontal negativity for the non-ellipsis condition (arrow 2).
+
+positivity turned into a negativity at frontal sites (arrow
+2). Recall that the L2-group did not show an earlyonset slow positivity in the comparison between the two
+of conditions, (b) and (a). Since the sentences in (c)
+and (d) were exactly the same as those in (a) and (b)
+before the preposition across the experiment, and no early
+differences were seen in the (a) vs. (b) contrast in the
+L2-group, we consider the slow positivity observed for
+the (d) vs. (c) condition a spurious effect caused by an
+unknown, task-irrelevant source. This spurious positivity
+makes it hard to interpret any differences between the
+Native and L2-group, especially those related to the early
+effects of context. We therefore assessed the early effects
+in the Native English group only. To assess the later effects
+of integration and repair, we used the 100 ms interval
+preceding the onset of the preposition as a baseline.
+This means that the differences between the conditions
+observed before the onset of the preposition are subtracted
+out from the ERPs observed at the preposition, allowing us
+to see whether the difference between the two conditions
+changed relative to that observed in the baseline period.
+Potential differences between the groups should still be
+interpreted with caution, however, due to differences
+during this baseline interval. Figures in which the ERPs
+are time-locked to the onset of the preposition are provided
+in the Supplementary Material Online (Supplementary
+Material).
+
+Context effects at the possessive (Native English only)
+Early context effects were assessed at the 300-500 ms
+and 500-700 ms time-windows after the onset of the
+possessive for the Native English only. No effects were
+significant for the 300-500 ms interval. Analysis on the
+500-700 ms interval from the onset of the possessive
+showed a significant positive difference for the nonellipsis (d) versus ellipsis condition (c) which was largest
+over posterior sites (midline, Ellipsis, F(1, 18) = 3.30, p =
+.09; Ellipsis x Anteriority F(4,72) = 7.44, p < .001;
+lateral, Ellipsis, F(1, 18) = 3.51, p = .08; Ellipsis x
+Anteriority F(4, 72) = 10.90, p < .001).
+Late effects (pre-preposition baseline, both groups)
+Using a pre-preposition baseline, the 400-600 ms time
+window (corresponding to 900-1100 ms from the onset
+of the possessive) yielded no significant effects. In the
+700-1000 ms interval (1200-1500 ms from the onset of
+the possessive), the L2-group showed a frontal negativity
+for the ungrammatical versus the grammatical condition,
+as in the of conditions, leading to an interaction of Ellipsis
+x Anteriority (midline, F(4, 144) = 4.05, p < .05; lateral,
+F(4, 144) = 3.21, p = .07). Although the interaction with
+Language group was not significant (ps >.18), the Ellipsis
+x Anteriority interaction at the midline sites was only
+observed for the L2-group (F(4, 72) = 3.55, p < .05;
+Native English: F(4, 72) < 1, N.S).
+
+12
+
+Edith Kaan, Joseph Kirkham and Frank Wijnen
+
+Summary: (c) vs. (d)
+Although the results for the (d) versus (c) comparison need
+to be interpreted with caution, the posterior positivity for
+the non-ellipsis versus ellipsis conditions, starting 500 ms
+after offset of the possessive, was again present for the
+Native English group. Due to the slow-positive artifact in
+the L2-group, it is hard to judge whether the L2-group
+showed a similar effect.
+The main difference in results between the present
+comparisons and the of-conditions was the absence of
+the 400-600 ms effect for the ellipsis versus non-ellipsis
+conditions. This suggests that this effect was primarily
+driven by the use of the ungrammatical preposition of
+in an ellipsis context. As in the conditions containing
+the preposition of, we failed to find a LAN effect at the
+preposition, even though the critical preposition was a
+grammatical continuation in one condition, but not in the
+other. Similar to the of conditions, we saw a late frontal
+negativity at the preposition for the non-ellipsis versus
+ellipsis conditions which was more prominent in the L2learners.
+Direct comparison with Lau et al. (2006)
+In both comparisons (b) vs. (a), and (d) vs. (c), we failed
+to replicate the LAN effect reported by Lau et al. (2006).
+One difference between our study and Lau et al.'s is that
+Lau et al. referenced their EEG to the average of all
+electrodes, and observed a LAN only using this reference.
+In addition, Lau et al. time-locked the ERPs to the onset
+of the preposition, using the 100 ms interval preceding
+the preposition as a baseline. To more closely compare
+our findings to those reported by Lau et al. (2006), we rereferenced the EEG to the average of all scalp electrodes
+and used the same baseline as Lau et al. to investigate the
+ERPs at the preposition. The resulting figures are provided
+in the Supplementary Material Online (Supplementary
+Material). Using an average reference, and time-locking
+to the onset of the preposition, we did observe a negative
+deflection in the ERPs at left anterior sites for the nonellipsis (b) versus ellipsis (a) conditions for the Native
+English speakers, but not for the L2-group. However, the
+negative deflection for the non-ellipsis condition started
+right at the onset of the preposition, which is too early to be
+a LAN effect elicited by the ungrammatical preposition.
+An analysis of the mean amplitude at left-frontal sites,
+restricted to the Native English speakers yielded no
+significant difference between the non-ellipsis and ellipsis
+conditions in the 400-600 ms interval for which Lau et al.
+reported a significant effect of Ellipsis (F(1, 18) = 1.11,
+p = .31). The effect was almost significant in the 0-
+200 ms window (F(1, 18) = 4.04, p = .06), however.
+Given the timing of the effect, we interpret this effect as
+the equivalent of the early positivity for the non-ellipsis
+condition that we reported above for the Native English
+group when referencing to the averaged mastoids.
+
+Discussion
+Summary of aim and results
+The aim of this paper was to investigate to what
+extent advanced L2-learners differed from native speakers
+in the anticipation, integration and repair of syntactic
+information during reading. To this aim we used twoclause contexts in which the structure of the first
+clause either allowed or did not allow noun-ellipsis
+after a possessive in the second clause. We investigated
+whether native and L2-speakers differed in the processing
+of the possessive and the following grammatical or
+ungrammatical preposition (the preposition of, or a
+temporal preposition). Previous studies have reported a
+reduced ability for L2-speakers to actively anticipate
+information (Dussias et al., 2013; Gruter et al., 2012;
+Gruter & Rohde, 2013; Hopp, 2013; Lew-Williams &
+Fernald, 2010; Martin et al., 2013). Our expectation
+was that if L2-speakers do not use syntactic information
+to anticipate the upcoming syntactic categories, that is,
+an overt noun or elided noun in this case, they would
+not show any differences between the ellipsis and nonellipsis conditions at the possessive or shortly after the
+onset of the ungrammatical preposition, such as the LAN
+effect observed by Lau et al. (2006). If the L2-speakers'
+difficulty lies in the integration of syntactic information
+across clauses, as is implied by, e.g., the S HALLOW
+S TRUCTURE H YPOTHESIS (Clahsen & Felser, 2006), L2learners would differ from native speakers in the P600
+at the critical preposition and in later effects indexing
+integration and repair.
+Across the board, the results for the L2 and native
+groups were remarkably similar. L2-learners did not differ
+from native speakers in judging the grammaticality of
+the sentences. Figure 5 summarizes the results for the
+ERPs. Both groups showed a larger posterior positivity/
+smaller negativity for the ungrammatical non-ellipsis
+relative to ellipsis conditions, starting at 400 ms after
+onset of the preposition of, suggesting that both groups
+employed overlapping integrative or repair processes at
+this point (arrow 2 in Figure 5). The two groups differed
+in two respects. First, the Native English group showed
+an early difference between the non-ellipsis and ellipsis
+conditions: the non-ellipsis condition elicited a centralparietal positivity in this group right at the onset of the
+preposition in both (b) versus (a), and (d) versus (c), (arrow
+1 in Figure 5). Second, only the L2-group showed a late
+frontal negativity for the non-ellipsis condition in the of
+conditions (b) vs. (a) (arrow 3 in Figure 5). The effects
+for (d) vs. (c) were hard to evaluate for the L2-speakers
+because of the spurious slow positivity for this group
+(arrow 4 in Figure 5). A final finding is that, in contrast to
+the Lau et al. (2006) study, no LAN effect was observed
+for the non-ellipsis vs. ellipsis of conditions. Below we
+
+Prediction and integration in L1 and L2 processing
+
+13
+
+Figure 5. ERPs at the central midline electrode (Cz) for ellipsis (solid line) and non-ellipsis conditions (dotted line). Upper
+row: of conditions; bottom row: conditions with a temporal preposition; Left column: Native English group; right column
+L2-group. ERPs are plotted from the onset of the possessive onwards. The preposition starts at 500 ms. 1: early positivity for
+non-ellipsis versus ellipsis condition in the Native English group; 2: increased positivity/decreased negativity for the
+non-ellipsis of conditions in both groups, 400-600ms after onset of the preposition; 3: late fronto-central negativity for the
+non-ellipsis condition in the L2 group (700-1000 ms after onset of the preposition); 4: spurious slow positive wave for the
+L2-group in the conditions with a temporal preposition.
+
+will further discuss the effect starting at 400 ms that was
+shared between the groups, followed by a discussion of
+the effects that were different: the early ellipsis effect and
+the later effects. We will also address the absence of a
+LAN effect.
+Shared effects of integration
+If L2-learners have difficulty integrating information
+across clauses, the L2-group was expected to differ
+from native speakers in the later components reflecting
+integration and repair of the ellipsis, such as the P600 and
+later negativity.
+Both the Native English and the L2-group showed a
+larger positivity/smaller negativity for the non-ellipsis
+versus ellipsis conditions starting at 400 ms after the
+onset of the preposition of (arrow 2 in Figure 5).
+This effect was not found for the non-ellipsis versus
+
+ellipsis conditions with temporal prepositions. There
+are two interpretations of this effect. The first is that
+the effect is a P600 effect, reflecting integration and
+revision processes, but with an earlier onset in the nonellipsis of condition (b), and a later onset and smaller
+amplitude in the other ungrammatical conditions (ellipsis,
+of; non-ellipsis temporal). This would be in line with
+the pattern seen in the behavioral data. Participants
+were less likely to detect the ungrammaticality in the
+ellipsis of and non-ellipsis temporal condition than in
+the non-ellipsis of condition. In addition, when corrected
+for the pre-preposition differences, the native speakers
+did not show any significant differences in the ERPs
+between the grammatical and ungrammatical temporal
+conditions (d vs. c). This difference in the processing
+of the ungrammaticality between the conditions can be
+attributed to the number of cues available that indicate
+that the sentence is ungrammatical. In the non-ellipsis
+
+14
+
+Edith Kaan, Joseph Kirkham and Frank Wijnen
+
+of condition, there are two cues: first, the absence of a
+required overt noun after the possessive, and, second, the
+absence of a noun or verb that of can modify. In contrast
+to the temporal prepositions, the preposition of needs
+either an overt noun it can modify, or a particular verb
+that takes an of- phrase as an argument (e.g., to remind
+somebody of something). In the non-ellipsis temporal
+condition the absence of an overt noun is the only cue
+that the sentence is ungrammatical; in the ellipsis of
+condition, the absence of noun or verb for of is the only
+cue. The difference in the timing and amplitude of the
+positivity may therefore reflect the ease with which the
+ungrammaticality is detected.
+A second interpretation is that the effect observed
+in the of conditions is a combination of a P600 and an
+N400 effect. Under this interpretation, N400 reflects the
+difficulty with the semantic integration of the preposition
+of into the preceding context. The word of is hard to semantically integrate, since it does not have a verb or noun
+it modifies. N400 effects have been reported in similar
+situations, in which the clause contained an additional
+noun phrase which was not licensed by the verb (Friederici
+& Frisch, 2000). The difference between the non-ellipsis
+and ellipsis of conditions can then be accounted for as
+follows. As suggested by the grammaticality judgment
+data, it may have been easier to spot the ungrammaticality
+of of in the non-ellipsis (b) than in the ellipsis context (a):
+the only possible continuation in the non-ellipsis context
+was an overt noun or an adjective; hence, the presence
+of of resulted in a phrase structure violation. This early
+detection of an ungrammaticality may have prevented
+readers from trying to integrate the preposition of in a
+semantic way, leading to the absence of an N400 effect or
+an early P600 in the non-ellipsis condition. This is similar
+to situations in which no N400 effects were reported for
+a semantically anomalous critical word when this word
+also formed a phrase structure violation (Frisch, Hahne &
+Friederici, 2004; Hahne & Friederici, 2002).
+Regardless of the interpretation of the 400-600 ms
+effect, the fact that the L2 as well as the Native
+English speakers showed the effect only for the ellipsis
+of condition suggests that both groups are similarly
+sensitive to the restrictions on the use of of, and
+that both groups used the structure of the preceding
+clause in detecting the ungrammaticality in the second
+clause. The only difference observed was a stronger
+right lateralization of the effect for the Native English
+group. One interpretation of this difference in scalp
+distribution is that the two groups made a slightly
+different trade-off between semantic integration, as
+indexed by an increased central N400-negativity, and
+syntactic integration/revision, as reflected by an increased
+parietal positivity. For differences among individuals in
+this respect see, e.g., Tanner, Inoue and Osterhout (2014),
+and Tanner and Van Hell (2014).
+
+Differences between L2 and Native speakers: Early
+context effect
+The Native English, but not the L2-group, showed
+a posterior positivity for non-ellipsis versus ellipsis
+conditions (arrow 1 in Figure 5). We are cautious here,
+since we did not obtain a significant interaction with
+Language group. This ellipsis effect was present in the
+Native English group for conditions with of as well as
+a temporal preposition, and started 500 ms after onset of
+the possessive, that is, right at the onset of the preposition.
+This early onset makes it rather unlikely that this effect
+is a response to the preposition. Instead, the effect may
+reflect differences in the expectation of what is to follow
+the possessive. In contrast to the conditions allowing
+ellipsis, the non-ellipsis conditions required an overt noun
+to follow the possessive in order for the sentence to be
+complete; the ellipsis conditions could be interpreted as
+being complete at the possessive. A similar, though nonsignificant posterior positivity was reported by Osterhout,
+Holcomb and Swinney (1994) for noun phrases following
+verbs that could take a sentential complement (e.g.,
+The doctor hoped/believed/charged the patient) compared
+with noun phrases following intransitive verbs (e.g.,
+The doctor forced the patient). In the latter case, the
+noun phrase can be the end of the clause, and no
+particular predictions can be made concerning the nature
+of the upcoming material; in the sentential complement
+conditions, in contrast, the noun phrase can be followed
+by a finite verb. The positivity may therefore reflect this
+difference in expectation. Native English speakers and
+advanced L2-learners in our study may thus have differed
+in the anticipation of syntactic information.
+Alternatively, the effect starting at 500 ms after the
+onset of the possessive can be interpreted as a larger
+NEGATIVITY for the ellipsis compared to the non-ellipsis
+conditions. This negativity may then reflect the anticipation and processing of the elided element. Previous
+studies on ellipsis often reported negativities associated
+with ellipsis starting at the word AFTER the elided element
+(Kaan, Overfelt, Tromp & Wijnen, 2013; Streb, Henninghausen & Rosler, 2004), which were more anterior
+in distribution, however. The exception is Dimitrova
+(2012), who reported a 400-700 ms, broadly distributed,
+negativity for prosodically stressed words directly
+preceding elided materials. In the Dimitrova (2012) study,
+the prosody signaled the upcoming ellipsis. Similarly, in
+our experiment, the parallelism between the possessive in
+the first and second clause may have signaled an upcoming
+elided noun. Under this interpretation of the effect, L2learners differed from the Native English group in the lack
+of anticipation of the ellipsis at the possessive. Further
+research is needed to tease these two interpretations apart.
+A third, but somewhat problematic interpretation is
+that the effect is an early P600 and that the Native
+
+Prediction and integration in L1 and L2 processing
+English participants may have been more sensitive to
+experimentally-induced manipulations. All non-ellipsis
+conditions in our experimental items were ungrammatical.
+Although we tried to counter the ungrammaticality bias
+by including 32 grammatical fillers with a possessive
+in the second clause, this may not have been enough
+to counterbalance the 80 ungrammatical non-ellipsis
+experimental items. The positivity observed for the nonellipsis versus ellipsis conditions starting 500 ms after the
+onset of the possessive could then be interpreted as a P600
+triggered by the possessive in the non-ellipsis condition,
+in anticipation of the upcoming ungrammaticality. The
+language groups, then, may have differed in the
+expectation of the ungrammaticality, induced by the
+experiment. We conducted a post-hoc analysis to test this
+interpretation. If the 500-700 ms positivity were indeed
+related to the experimentally-induced anticipation of the
+ungrammaticality, the positivity would have been stronger
+towards the end of the experiment. However, the effect in
+the Native English group was stronger in the first half of
+the experiment, instead (midline sites, F(1, 18) = 6.00,
+p < .05, mean 1.18 V; second half, F(1, 18) = 1.00,
+p = .33, mean 0.40 V). This is problematic for an
+interpretation of the early effect in terms of experimentinduced strategies.
+Differences between L2 and Native speakers: Late
+effect (1200-1500 ms)
+We found that the L2-group showed a frontal negativity
+(arrow 3 in Figure 5) and a late posterior positivity for the
+non-ellipsis versus ellipsis conditions, whereas the native
+speakers only showed the posterior effect. This suggests
+that, although the groups were similarly sensitive to the
+context in the initial stages of integration (as reflected in
+the 400-600 ms effect), the two groups differed in the
+later stages of integration and repair.
+Late frontal negativities following the P600 in response
+to ungrammaticalities have been observed in native
+speakers (Aleman Banon et al., 2012; Gillon Dowens
+et al., 2010; Sabourin & Stowe, 2004) as well as L2learners (Gillon Dowens et al., 2010; Hahne & Friederici,
+2001; Isel, 2007; Morgan-Short et al., 2012; Sabourin
+& Stowe, 2008), with some studies reporting larger or
+earlier effects in L2-learners (Hahne & Friederici, 2001;
+Isel, 2007; Sabourin & Stowe, 2008). Two interpretations
+of this effect have been proposed. The first is that the
+slow anterior negativity reflects working memory load
+(Morgan-Short et al., 2012; Ruchkin, Grafman, Cameron
+& Berndt, 2003), either due to the maintenance of the
+response that is due at the sentence end (Sabourin &
+Stowe, 2004), or due to keeping language material in
+working memory after attempts at repair fail (Sabourin
+& Stowe, 2008). Since second-language processing is
+often more effortful, repairing an ungrammaticality,
+
+15
+
+maintaining uninterpreted material, or maintaining a
+response will put more burden on working memory in
+L2-speakers than in native speakers, leading to a larger
+negativity in the L2-group.
+A second interpretation is that the frontal negativity
+reflects a semantic-conceptual way of repairing the
+ungrammaticality. This interpretation has been proposed
+by Hahne and Friederici (2001), who report a right anterior
+negativity in L2-speakers for semantic violation and
+violations that combined syntactic and semantic errors.
+Under this interpretation, our L2-speakers differ from
+the Native English speakers in the processes recruited
+in repairing the ungrammaticality caused by the lack of
+an overt noun in the non-ellipsis constructions: whereas
+the Native English speakers may not have attempted to
+semantically repair the missing noun in these conditions,
+the L2-speakers might have done so.
+In an attempt to find support for one interpretation
+of the negativity over the other, we correlated the size
+of the late negativity over right-frontal sites (average of
+the F2/4/6/8 electrodes) for the non-ellipsis vs. ellipsis
+of condition in the L2-group, on the one hand, with the
+L2-learners' performance on the backwards digit span
+task in their native language, on the other. A working
+memory interpretation of the late negativity predicts
+that L2-speakers with a smaller working memory span
+will show a larger frontal negativity. We did not find
+any relation between backward digit span and frontal
+negativity, however (Pearson's r = -.22; p = .36).
+We therefore do not have evidence directly favoring
+the working memory interpretation over the conceptual
+processing interpretation of the frontal negativity.
+Absence of a LAN effect
+Lau et al. (2006) reported a larger LAN effect for the nonellipsis versus ellipsis of conditions for native speakers,
+which they interpreted as the LAN being an index of
+prediction strength. The underlying reasoning is that the
+possessive in the non-ellipsis contexts needs a noun in
+order for the sentence to be grammatical; in the ellipsis
+contexts, the ellipsis could be a potential end of the
+clause; predictions regarding upcoming information are
+weaker in the latter than in the former case, leading to
+a weaker effect of the phrase structure violation (hence,
+smaller LAN effect) induced by the preposition of in the
+ellipsis versus non-ellipsis context. In contrast to Lau
+et al. (2006), we did not observe a LAN effect in either
+language group. The failure to replicate the LAN effect
+is not very surprising given the inconsistency of the LAN
+effect across studies; see Steinhauer and Drury (2012)
+for a critical review. Note that even in the Lau et al.
+(2006) study, the LAN effect was not very robust, as it
+was no longer visible when the EEG was referenced to
+the averaged mastoids -which is a very commonly used
+
+16
+
+Edith Kaan, Joseph Kirkham and Frank Wijnen
+
+reference in ERP research on sentence processing. In fact,
+after referencing to average mastoids, the Lau et al. results
+looked remarkably similar to the N400/P600 effects we
+observed (Lau et al., Figure 4). As discussed above and
+in the Supplementary Material Online (Supplementary
+Material), even after re-referencing our data using an
+average reference and using the same baseline as in Lau
+et al., we did not observe a significant LAN effect at
+the preposition of. We did observe an earlier left-frontal
+negativity, but given its early onset, we interpret this as
+the average-reference equivalent of the early positivity
+discussed above.
+We should note that there were some other differences
+between the Lau et al. (2006) study and ours. For instance,
+Lau et al. used three times as many grammatical as
+ungrammatical stimuli, whereas in our experiment, the
+number of grammatical and ungrammatical trials was
+about equal. In addition, our filler stimuli were different
+from those used by Lau et al. These and other differences
+in design could have affected the strategies used by
+participants in the two studies, and, hence, may have
+affected the presence of a LAN effect. The aim of our
+study, however, was not to directly replicate the Lau et al.
+study, but to use their ellipsis-paradigm as a means to
+test differences in anticipatory processing and integration
+between native and L2-speakers, regardless of whether
+these differences would emerge in the LAN effect, or in
+other components.
+
+2014; Kaan et al., 2010; Martin et al., 2013), although
+this depends on proficiency (Dussias et al., 2013; Hopp,
+2013) and the typological relation between the first and
+second language (Dussias et al., 2013).
+Although the current data can be accounted for by the
+S HALLOW S TRUCTURE H YPOTHESIS (Clahsen & Felser,
+2006), for instance, by assuming that ellipsis involves the
+matching of stored phrase-structural templates, rather than
+the active computation of detailed syntactic structures,
+the present data are more directly compatible with a
+view according to which L2-speakers can attain the same
+syntactic knowledge as native speakers and use this
+information on-line, but differ from native speakers in
+the predictive use of information, and in either processing
+resources (Sorace, 2011) or strategies related to repair.
+Future research should explore the mechanisms that affect
+the anticipatory use of information and differences in
+repair strategy (e.g., speed and consistency of lexical
+access, Hopp, 2013; Kaan, 2014), and to what extent the
+differences observed between the L2-speakers and native
+speakers are a function of L2 proficiency.
+
+Conclusion
+
+References
+
+The present study aimed to identify differences between
+native and non-native speakers in the processing
+of ellipsis, especially concerning the combination of
+information across clauses, and the anticipation of
+syntactic categories during processing. Our advanced
+L2-speakers were very similar to native speakers:
+Grammaticality judgments were comparable between the
+groups, and both groups showed similar N400/P600
+effects. This suggests that our advanced L2-learners
+had native-like knowledge of restrictions on ellipsis
+and the use of the preposition of, and were equally
+sensitive to whether the context allowed ellipsis or not.
+The groups differed in when and how this knowledge
+was used. First, the L2-speakers showed a late frontal
+negativity in the non-ellipsis conditions, suggesting either
+an increased working memory load or the use of different
+repair strategies compared with native speakers. Second,
+the native English speakers showed an early effect
+distinguishing ellipsis from non-ellipsis constructions,
+suggesting they anticipated upcoming information (either
+the ellipsis, or an upcoming noun phrase), whereas the
+L2-learners did not. The latter is in line with other studies
+suggesting that L2-speakers do not predict in the same
+way as native speakers do (Gruter et al., 2012; Kaan,
+
+Aleman Banon, J., Fiorentino, R., & Gabriele, A. (2012). The
+processing of number and gender agreement in Spanish:
+An event-related potential investigation of the effects of
+structural distance. Brain Research, 1456, 49-63.
+Chambers, C. G., & Cooke, H. (2009). Lexical competition
+during second-language listening: Sentence context, but not
+proficiency, constrains interference from the native lexicon.
+Journal of Experimental Psychology: Learning, Memory
+and Cognition, 35, 1029-1040.
+Clahsen, H., & Felser, C. (2006). Grammatical processing in
+language learners. Applied Psycholinguistics, 27, 3-42.
+Corver, N., & van Koppen, M. (2010). Ellipsis in Dutch
+possessive noun phrases: a micro-comparative approach.
+Journal of Comparative Germanic Linguistics, 13, 99-140.
+Coulson, S., King, J. W., & Kutas, M. (1998). Expect the unexpected: Event-related brain response to morphosyntactic
+violations. Language & Cognitive Processes, 13, 21-58.
+DeLong, K. A., Urbach, T. P., & Kutas, M. (2005). Probabilistic
+word pre-activation during language comprehension
+inferred from electrical brain activity. Nature Neuroscience,
+8, 1117-1121.
+Dikker, S., Rabagliati, H., Farmer, T. A., & Pylkkanen, L. (2010).
+Early occipital sensitivity to syntactic category is based on
+form typicality. Psychological Science, 21, 629-634.
+Dikker, S., Rabagliati, H., & Pylkkanen, L. (2009). Sensitivity
+to syntax in visual cortex. Cognition, 110, 293-321.
+
+Supplementary material
+For supplementary material accompanying this paper,
+visit http://dx.doi.org/10.1017/S1366728914000844
+
+Prediction and integration in L1 and L2 processing
+Dimitrova, D. V. (2012). Neural correlates of prosody and
+information structure. Unpublished PhD, Rijksuniversiteit
+Groningen, Groningen.
+Dussias, P. E., Valdes Kroff, J. R., Guzzardo Tamargo, R. E.,
+& Gerfen, C. (2013). When gender and looking go hand
+in hand. Grammatical gender processing in L2 Spanish.
+Studies in Second Language Acquisition, 35, 353-387.
+Foucart, A., Martin, C. D., Moreno, E. M., & Costa, A. (2014).
+Can bilinguals see it coming? Word anticipation in L2
+sentence reading. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 40, 1461-1469.
+Friederici, A. D., & Frisch, S. (2000). Verb argument structure
+processing: The role of verb-specific and argument-specific
+information. Journal of Memory and Language, 43, 476-
+507.
+Friederici, A. D., Hahne, A., & Saddy, D. (2002). Distinct
+neurophysiological patterns reflecting aspects of syntactic
+complexity and syntactic repair. Journal of Psycholinguistic Research, 31, 45-63.
+Frisch, S., Hahne, A., & Friederici, A. D. (2004). Word category
+and verb-argument structure information in the dynamics
+of parsing. Cognition, 91, 191-219.
+Gillon Dowens, M., Vergara, M., Barber, H. A., & Carreiras,
+M. (2010). Morphosyntactic processing in late secondlanguage learners. Journal of Cognitive Neuroscience, 22,
+1870-1887.
+Greenhouse, S. W., & Geisser, S. (1959). On methods in the
+analysis of profile data. Psychometrika, 24, 95-112.
+Gruter, T., Lew-Williams, C., & Fernald, A. (2012). Grammatical
+gender in L2: A production or a real-time processing
+problem? Second Language Research, 28, 191-215.
+Gruter, T., & Rohde, H. (2013). L2 processing is affected by
+RAGE: Evidence from reference resolution. Paper presented
+at the the 12th conference on Generative Approaches to
+Second Language Acquisition (GASLA)
+Hahne, A., & Friederici, A. D. (2001). Processing a second
+language: late learners' comprehension mechanisms as
+revealed by event-related brain potentials. Bilingualism:
+Language and Cognition, 4, 123-141.
+Hahne, A., & Friederici, A. D. (2002). Differential task effects
+on semantic and syntactic processes as revealed by ERPs.
+Cognitive Brain Research, 13, 339-356.
+Hopp, H. (2009). The syntax-discourse interface in nearnative L2 acquisition: Off-line and on-line performance.
+Bilingualism: Language and Cognition, 12, 463-483.
+Hopp, H. (2013). Grammatical gender in adult L2 acquisition:
+Relations between lexical and syntactic variability. Second
+Language Research, 29, 33-56.
+Isel, F. (2007). Syntactic and referential processes in secondlanguage learners: Event-related brain potential evidence.
+Neuroreport, 18, 1885-1889.
+Kaan, E. (2014). Predictive sentence processing in L2 and L1:
+What is different? Linguistic Approaches to Bilingualism,
+4, 257-282.
+Kaan, E., Dallas, A. C., & Wijnen, F. (2010). Syntactic
+predictions in second-language sentence processing. In
+J.-W. Zwart & M. de Vries (eds.), Structure preserved.
+Festschrift in the honor of Jan Koster (pp. 207-213).
+Amsterdam: John Benjamins.
+
+17
+
+Kaan, E., Harris, A., Gibson, E., & Holcomb, P. (2000). The P600
+as an index of syntactic integration difficulty. Language and
+Cognitive Processes, 15, 159-201.
+Kaan, E., Overfelt, C., Tromp, D., & Wijnen, F. (2013).
+Processing gapped verbs. Journal of Psycholinguistic
+Research, 42, 307-338.
+Kaan, E., & Swaab, T. Y. (2003). Electrophysiological evidence
+for serial sentence processing: a comparison between
+non-preferred and ungrammatical continuations. Brain
+Research. Cognitive Brain Research, 17, 621-635.
+Keijzer, M. (2007). Last in, first out? An investigation
+of the regression hypothesis in Dutch emigrants in
+anglophone Canada. Unpublished Ph.D., Free University
+of Amsterdam.
+Kutas, M., & Hillyard, S. A. (1980). Reading senseless
+sentences: Brain potentials reflect semantic incongruity.
+Science, 207, 203-206.
+Lau, E., Stroud, C., Plesch, S., & Phillips, C. (2006). The role of
+structural prediction in rapid syntactic analysis. Brain and
+Language, 98, 74-88.
+Lemhofer, K., & Broersma, M. (2012). Introducing LexTALE:
+A quick and valid lexical test for advanced learners of
+English. Behavioral Research, 44, 325-343.
+Lew-Williams, C., & Fernald, A. (2010). Real-time processing
+of gender-marked articles by native and non-native Spanish
+speakers. Journal of Memory and Language, 63, 447-464.
+Marian, V., Blumenfield, H. K., & Kaushanskaya, M. (2007). The
+language experience and proficiency questionnaire (LEAPQ): Assessing language profiles in bilinguals and multilinguals. Journal of Speech and Hearing Research, 50, 940-
+967.
+Martin, C., Thierry, G., Kuipers, J.-R., Boutonnet, B., Foucart,
+A., & Costa, A. (2013). Bilinguals reading in their second
+language do not predict upcoming words as native readers
+do. Journal of Memory and Language, 69, 574-588.
+Morgan-Short, K., Steinhauer, K., Sanz, C., & Ullman, M. T.
+(2012). Explicit and implicit second language training
+differentially affect the achievement of native-like brain
+activation patterns. Journal of Cognitive Neuroscience, 24,
+933-947.
+Oldfield, R. C. (1971). The assessment and analysis of
+handedness: The Edinburgh inventory. Neuropsychologia,
+9, 97-113.
+Osterhout, L., Holcomb, P. J., & Swinney, D. A. (1994). Brain
+potentials elicited by garden-path sentences: Evidence
+of the application of verb information during parsing.
+Journal of Experimental Psychology: Learning, Memory,
+and Cognition, 20, 786-803.
+Phillips, C., & Parker, D. (2014). The psycholinguistics of
+ellipsis. Lingua, 151, 78-95.
+Ruchkin, D. S., Grafman, J., Cameron, K., & Berndt, R. S.
+(2003). Working memory retention systems: A state
+of activated long-term memory. Behavioral and Brain
+Sciences, 26, 709-777.
+Sabourin, L., & Stowe, L. (2004). Memory effects in syntactic
+ERP tasks. Brain and Cognition, 55, 392-395.
+Sabourin, L., & Stowe, L. A. (2008). Second language
+processing: when are first and second languages processed
+similarly? Second Language Research, 24, 397-430.
+
+18
+
+Edith Kaan, Joseph Kirkham and Frank Wijnen
+
+Slevc, L. R., & Novick, J. M. (2013). Memory and cognitive
+control in an integrated theory of language processing.
+Behavioral and Brain Sciences, 36, 373-374.
+Sorace, A. (2011). Pinning down the concept of "interface" in
+bilingualism. Linguistic Approaches to Bilingualism, 1, 1-
+33.
+Steinhauer, K., & Drury, J. E. (2012). On the early left-anterior
+negativity (ELAN) in syntax studies. Brain and Language,
+120, 135-162.
+Streb, J., Henninghausen, E., & Rosler, F. (2004). Different
+anaphoric expressions are investigated by event-related
+brain potentials. Journal of Psycholinguistic Research, 33,
+175-201.
+Stroop, J. R. (1935). Studies of interference in serial verbal
+reactions. Journal of Experimental Psychology, 18, 643-
+662.
+Tanner, D., Inoue, K., & Osterhout, L. (2014). Brainbased individual differences in online L2 grammatical
+comprehension. Bilingualism: Language and Cognition,
+17, 277-293.
+Tanner, D., & Van Hell, J. G. (2014). ERPs reveal
+individual differences in morphosyntactic processing.
+Neuropsychologia, 56, 289-301.
+
+Van Berkum, J. J. A., Brown, C. M., Zwitserlood, P., Kooijman,
+V., & Hagoort, P. (2005). Anticipating upcoming words
+in discourse: Evidence from ERPs and reading times.
+Journal of Experimental Psychology: Learning, Memory,
+and Cognition, 31, 443-467.
+Van de Meerendonk, N., Indefrey, P., Chwilla, D. J.,
+& Kolk, H. H. J. (2011). Monitoring in language
+perception: Electrophysiological and hemodynamic responses to spelling violations. NeuroImage, 54, 2350-
+2363.
+Wechsler, D. (1987). Wechsler memory scale-revised (WMS-R)
+San Antonio: Psychological Corporation.
+Wicha, N. Y. Y., Moreno, E. M., & Kutas, M. (2003). Expecting
+gender: An event related brain potential study on the role
+of grammatical gender in comprehending a line drawing
+within a written sentence in Spanish. Cortex, 39, 483-
+508.
+Wicha, N. Y. Y., Moreno, E. M., & Kutas, M. (2004).
+Anticipating words and their gender: An event-related
+brain potential study of semantic integration, gender
+expectancy, and gender agreement in spanish sentence
+reading. Journal of Cognitive Neuroscience, 16, 1272-
+1288.
+
+

@@ -1,0 +1,2340 @@
+Journal of Memory and Language 63 (2010) 306-323
+
+Contents lists available at ScienceDirect
+
+Journal of Memory and Language
+journal homepage: www.elsevier.com/locate/jml
+
+What and where in speech recognition: Geminates and singletons
+in spoken Italian
+Lara Tagliapietra a, James M. McQueen a,b,c,*
+a
+
+Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands
+Behavioural Science Institute, Radboud University Nijmegen, Nijmegen, The Netherlands
+c
+Donders Institute for Brain, Cognition and Behaviour, Centre for Cognition, Radboud University Nijmegen, Nijmegen, The Netherlands
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 17 March 2008
+revision received 9 April 2010
+Available online 19 June 2010
+Keywords:
+Spoken-word recognition
+Consonant duration
+Geminates
+Singletons
+Italian
+
+a b s t r a c t
+Four cross-modal repetition priming experiments examined whether consonant duration
+in Italian provides listeners with information not only for segmental identification (``what"
+information: whether the consonant is a geminate or a singleton) but also for lexical segmentation (``where" information: whether the consonant is in word-initial or word-medial
+position). Italian participants made visual lexical decisions to words containing geminates
+or singletons, preceded by spoken primes (whole words or fragments) containing either
+geminates or singletons. There were effects of segmental identity (geminates primed geminate recognition; singletons primed singleton recognition), and effects of consonant position (regression analyses revealed graded effects of geminate duration only for geminates
+which can vary in position, and mixed-effect modeling revealed a positional effect for singletons only in low-frequency words). Durational information appeared to be more important for segmental identification than for lexical segmentation. These findings nevertheless
+indicate that the same kind of information can serve both ``what" and ``where" functions in
+speech comprehension, and that the perceptual processes underlying those functions are
+interdependent.
+O 2010 Elsevier Inc. All rights reserved.
+
+Introduction
+Successful spoken-word recognition depends in large
+part on identification of the component segments of words
+- the vowels and consonants that specify a word's identity.
+The listener, however, needs not only to identify what segments there are in the current speech stream, but also
+where they occur. Positional information indicating that a
+segment may be word-initial, for example, can assist in
+the segmentation of continuous speech into lexical units
+by providing a signal about where a word boundary may
+occur. In the present study, we examine the interdependencies between the perceptual processes responsible for
+
+* Corresponding author. Address: Max Planck Institute for Psycholinguistics, Postbus 310, 6500 AH Nijmegen, The Netherlands. Fax: +31 24
+3521213.
+E-mail address: james.mcqueen@mpi.nl (J.M. McQueen).
+0749-596X/$ - see front matter O 2010 Elsevier Inc. All rights reserved.
+doi:10.1016/j.jml.2010.05.001
+
+segmental ``what" and ``where" decisions, and ask in particular whether the same kind of acoustic information
+can influence both of these processes.
+Our focus is on consonant duration in Italian word recognition. In Italian, the opposition between geminates (long
+consonants) and singletons (short consonants) is distinctive.
+This contrast, primarily signaled by large differences in consonant duration, occurs between word-medial vowels. In
+the pair fatto (``fact") and fato (``fate"), for example, the duration of the medial consonant distinguishes the two words.
+The duration of Italian consonants also varies (but to a lesser
+extent) as a function of their position in words. We ask here
+whether Italians use consonant duration only to identify
+geminates and singletons, as surely they must, or whether
+they also use it to locate consonants. It could be that Italians
+attend to the large differences between phoneme types in
+order to make segmental ``what" decisions, and that they
+ignore the small positional differences. Alternatively, they
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+could use consonant durations for both ``what" and ``where"
+decisions.
+Segment identification is usually considered necessary
+for word identification. In several models of spoken-word
+recognition (e.g., TRACE, McClelland & Elman, 1986; Shortlist, Norris, 1994; Shortlist B, Norris & McQueen, 2008; the
+Neighborhood Activation Model, Luce & Pisoni, 1998; PARSYN, Luce, Goldinger, Auer, & Vitevitch, 2000), segments
+are recognized at a prelexical level of processing. In other
+models (e.g., the Distributed Cohort Model (DCM), Gaskell
+& Marslen-Wilson, 1997; MINERVA2, Goldinger, 1998; LAFS,
+Klatt, 1979) there are no discrete representations for individual segments, but the acoustic-phonetic information
+that specifies segmental identity nevertheless plays a central role in word recognition (e.g., via featural representations in the DCM). In any of these models, therefore, the
+idea in the Italian consonant case would be that durational
+information associated with singleton and geminate consonants is extracted from the speech signal and hence (in different ways in the different models) influences word
+recognition.
+Is Italian consonant duration used only for these ``what"
+decisions, or is it also used in lexical segmentation, for
+``where" decisions? In many accounts segmentation is a
+by-product of the word-recognition process. Multiple candidate words are simultaneously active at any point in time,
+and compete with each other (see McQueen (2007), for review). As this competition process settles on a lexical interpretation of a stretch of continuous speech, word boundaries
+are ``found" between the words in the winning sequence
+(McClelland & Elman, 1986; Norris, 1994). Segmentation is
+also influenced by a wide variety of other sources of information, however. These information sources include metrical
+(Cutler & Norris, 1988), phonotactic (McQueen, 1998), and
+prosodic (Christophe, Peperkamp, Pallier, Block, & Mehler,
+2004) cues to the location of likely word boundaries. The relative strength of different segmentation cues varies under
+different listening conditions (Mattys, White, & Melhorn,
+2005). According to Norris, McQueen, Cutler, and Butterfield
+(1997), these cues influence the lexical competition process
+through the operation of a Possible Word Constraint (PWC).
+Candidate words that do not have a possible word (i.e., a vowel) between them and a likely word boundary are penalized in the activation/competition process. As elaborated
+by Cho, McQueen, and Cox (2007), information relevant for
+phonemic contrasts is used to specify segmental representations that serve word recognition, while, in parallel, a Prosody Analyzer uses suprasegmental information to
+compute the prosodic structure of the current utterance.
+Likely lexical boundary locations are part of this structure,
+and, as in the original Norris et al. account, these boundaries
+can influence segmentation through the operation of the
+PWC. As Cho et al. (2007) point out, however, prosodic analysis cannot be completely separate from segmental analysis.
+For instance, the prosodic evaluation of the duration of a segment must depend in part on identification of the segment
+(because segments differ in their intrinsic duration).
+Even though there must be these interdependencies between ``what" and ``where" processes, it is not the case that
+information which is used in one process is necessarily used
+in the other. Italian consonant duration offers an interesting
+
+307
+
+test of whether information used for identification is also
+used for segmentation. Cross-linguistic evidence indicates
+that listeners use fine-grained phonetic details to locate
+the position of sounds in relation to prosodic boundaries.
+American English listeners are sensitive to variations in
+the strength with which segments are articulated at Intonational Phrase as opposed to word boundaries (Cho et al.,
+2007), and to variation in consonant duration determined
+by whether the consonants are word-initial or word-medial
+(Gow & Gordon, 1995). Dutch listeners rely on durational
+cues to distinguish sounds occurring in word-final vs.
+word-initial position (Quene, 1992; Shatzman & McQueen,
+2006). French and Italian listeners are sensitive to subtle differences among segments that are dependent on syllabification (Finocchiaro & Bertinetto, 2003; Spinelli, McQueen, &
+Cutler, 2003; Tabossi, Collina, Mazzetti, & Zoppello, 2000).
+According to the account of Cho et al. (2007), all of these
+sources of information about segment duration (along with
+other cues to prosodic structure, Christophe et al., 2004;
+Salverda, Dahan, & McQueen, 2003) are processed by the
+Prosody Analyzer, and hence used to signal the location of
+likely word boundaries. In spite of this evidence, it is possible
+that consonant duration in Italian could influence segmental
+identification only. This is because, as we now discuss, consonant duration in Italian has greater informational value as
+a segmental cue than as a positional cue.
+In Italian, the opposition between 15 geminates (/p/, /b/,
+/t/, /d/, /k/, /g/, /a/, /F/, /m/, /n/, /r/, /f/, /v/, /s/, /l/) and their
+singleton counterparts is phonemic (Bertinetto & Loporcaro,
+2005; Payne, 2005). These contrasts occur word-internally,
+intervocalically or before glides. A subset (the oral stops
+and /f/) also occur before laterals and trills (e.g., accludere
+[a'k:lu:dere], ``to enclose", and offro [`Of:ro], ``[I] offer").
+While we are aware that there is discussion about geminate
+representation (Goldsmith, 1990), we assume that the geminate-singleton opposition is primarily durational, and we
+use the term ``geminate" to denote phonetically long ambisyllabic consonants (Bertinetto & Loporcaro, 2005; Payne,
+2005).
+There are also durational differences in Italian which are
+related to segment position. As in other languages, Italian
+singletons tend to be longer word-initially than word-medially. There are also durational differences among geminates.
+Lexical geminates are word-medial, but geminates can also
+appear at word boundaries, as a consequence of post-lexical
+speech production processes. One such process is the socalled `raddoppiamento/rafforzamento fonosintattico',
+which applies to word-initial consonants after word-final
+stressed vowels when no pause intervenes (e.g., lengthening
+of the initial [l] of latino in parlo latino [par'lO l:a'tino], ``[he]
+talked Latin"). However, this phenomenon in still under debate (Agostiniani, 1992; Fanciullo, 1986; Loporcaro, 1997;
+Marotta, 1986; Nespor & Vogel, 1986) and it undergoes
+strong inter-regional and inter-speaker variations. We do
+not consider it further. Another post-lexical process produces `false geminates'. These result from the single articulation of the same consonant occurring in word-final and
+following word-initial position (e.g., the /l/ in al ladro, ``to
+the [male] thief"). Although Italian words usually end with
+vowels (Muljacic, 1972) and consonants usually occur only
+word-initially or word-medially (henceforth restricted con-
+
+308
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+sonants), a subset of the Italian sonorants (/n/, /r/ and /l/;
+henceforth unrestricted consonants) also occur word-finally,
+typically in prepositions and determiners (e.g., un, ``a [masculine]", per, ``for", del, ``from the"). When unrestricted consonants span a word boundary (e.g., in al ladro) they usually
+fuse. The result is a false geminate that is shorter than a true
+lexical geminate (Payne, 2005). This is the opposite of what
+occurs with singletons. Word-medial lexical geminates tend
+to be longer than word-boundary false geminates, but wordmedial singletons tend to be shorter than word-initial
+singletons.
+The durational differences between singletons and
+geminates, at a given level in the prosodic hierarchy, tend
+to be larger than the differences (within singletons and
+within geminates) which signal consonant position. Segmental and positional information also differ in another
+way. The segmental distinction is something that the Italian listener needs to make in order to resolve lexical ambiguities (e.g., fato vs. fatto). In contrast, while the positional
+distinction is certainly of some value to the listener, there
+could well be other segmentation cues (e.g., metrical or
+phonotactic cues) that could be relied on instead. Thus,
+not only is the segmental difference larger than the positional difference but also the segmental difference has
+more informational value (i.e., it is more important for successful word recognition than the positional difference).
+Italians may therefore use consonant duration only for segment and word identification purposes (i.e., for ``what"
+decisions), and not for segmentation (``where" decisions).
+Other results indeed suggest that the informational value of phonetic evidence determines the extent to which
+that evidence is used by the listener. Wagner, Ernestus,
+and Cutler (2006) found that, across languages, the extent
+to which formant transition information influences consonant identification depends on the consonant inventory of
+the language in question, that is, on the relative informational weight of the transition information in segment
+identification. Furthermore, while differences in positive
+Voice Onset Time (VOT; i.e., different amounts of aspiration) of word-initial stops in English modulate word recognition (Andruski, Blumstein, & Burton, 1994), differences in
+negative VOT (i.e., different amounts of prevoicing) of
+word-initial stops in Dutch have no measurable effect on
+word recognition (van Alphen & McQueen, 2006). As van
+Alphen and McQueen argued, this cross-linguistic difference likely reflects differences in the informational value
+of VOT variation: the presence or absence of prevoicing appears to be the most critical information for Dutch listeners
+to decide whether they have heard a voiced or voiceless
+stop, whereas the amount of positive VOT is the most
+important cue for the equivalent English decision.
+One possible outcome of the present study may thus be
+that consonant duration in Italian is used in a binary fashion,
+simply to signal the important segmental distinction. Long
+consonants might tend to be identified as geminates, and
+short consonants as singletons, and more subtle and less
+informative position-cueing durational differences may be
+ignored. Alternatively, however, Italians may be able to pick
+up on and use these subtle differences too. One reason to
+predict that they might is the evidence from other languages
+(reviewed above) that listeners are sensitive to fine-grained
+
+acoustic differences. Furthermore, it has already been documented that Italians can use details in the acoustic signal to
+modulate word recognition (Finocchiaro & Bertinetto, 2003;
+Tabossi et al., 2000). With respect specifically to the geminate/singleton distinction, Pickett, Blumstein, and Burton
+(1999) have shown that Italian listeners are sensitive to contextually dependent durational differences. Perception of
+singletons and geminates was found to depend on the duration of the preceding vowel and the overall speech rate of the
+utterance. Furthermore, Payne (2005) reports that the production of the geminate-singleton opposition varies as a
+function of consonant type and prosodic factors (e.g., lexical
+stress position and prominence). These data suggest that the
+opposition is relative rather than absolute and hence that
+Italian listeners may be sensitive to durational differences
+within the singleton and geminate categories. That is, they
+may do more than use duration to make a binary categorical
+decision. If so, they may well be sensitive to the relatively
+small durational contrasts which signal likely word
+boundaries.
+To what extent then, does consonant duration serve two
+purposes in Italian spoken-word recognition? An answer to
+this question should provide constraints on the nature of the
+interdependencies of segmental and prosodic analysis, on
+the sensitivity of the Italian speech-recognition system,
+and on the relative informational value of consonant duration for segment identification and lexical segmentation.
+Accordingly, four cross-modal priming experiments tested
+the relative impact of durational contrasts when Italian listeners had to recognize words containing either geminates
+(Experiments 1, 2 and 4) or singletons (Experiment 3).
+Italian is an especially interesting test of whether duration has a dual purpose in speech recognition not only because of the asymmetry in the informational value of
+duration but also, as already noted, because not all Italian
+consonants appear in all structural positions. Italians could
+be sensitive to fine durational contrasts only for consonants
+that appear in all positions (the unrestricted consonants),
+that is, only for those segments where position is more often
+a relevant variable. Alternatively, Italians' sensitivity may
+vary for restricted and unrestricted consonants depending
+on whether they are identifying a geminate or a singleton.
+Only unrestricted consonants can appear as false geminates.
+In geminate recognition, therefore, fine durational differences signaling location may therefore be relevant for unrestricted consonants but not for restricted consonants. In
+contrast, all Italian consonants (except /z/) appear as singletons both word-initially and word-medially. In singleton
+recognition, therefore, Italian listeners may be sensitive to
+small positional differences in duration for both types of
+consonant. Stimuli therefore contained restricted and unrestricted consonants.
+We will also report, for each experiment, different types
+of statistical analysis. The experiments had a repeated-measures design in which participants were crossed with items.
+We attempted to deal with the variability introduced by differences among subjects and items using counter-balancing
+(Raaijmakers, Schrijnemakers, & Gremmen, 1999). Nevertheless, we used mixed-effect modeling with subjects and
+items as crossed random effects (Baayen, 2008; Baayen,
+Davidson, & Bates, 2008) in order to be able to include in
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+the model variance which did not derive from the experimental manipulations. These primary mixed-effect analyses
+will be presented alongside traditional F1/F2 analyses based
+on averaged participant and item scores (Forster & Dickinson, 1976), and resulting min F0 values (Clark, 1973). This
+comparison provides the reader with the opportunity to
+compare directly the two types of analysis, in the context
+of a repeated-measures design, and hence to evaluate the
+potential advantages of mixed-effect modeling.
+
+Experiment 1
+We began by examining the influence of consonant
+duration on the recognition of words with geminate consonants such as allarme, ``alarm". Participants were asked to
+listen to neutral sentences containing those words as
+primes (e.g., Marco descriveva l'allarme appena installato,
+``Marco was describing the alarm just installed") and to
+perform lexical decisions on visual targets. The targets
+(e.g., allarme) appeared at the offset of the primes. The
+prime was either related to the target or phonologically
+and semantically unrelated to it. The critical consonants
+of the related primes were spliced from another token of
+the same word (e.g., geminate /l/ from allarme) or from
+words in which the singleton counterpart of the geminate
+was realized in either word-initial position (e.g., singleton
+/l/ from ladra, ``thief") or word-medial position (e.g., singleton /l/ from alano, ``Great Dane").
+We expected faster responses after related than after
+unrelated primes in all three related conditions. The question was whether the different types of splicing would produce different degrees of priming. We predicted that the
+primes with geminates would produce stronger priming
+than those with singletons. If the large durational difference between geminate and singleton consonants signals
+the segmental difference between the primes, then those
+with geminates will be perceived as identical to the target
+words (and thus produce a large priming effect), while
+those with singletons should be perceived as closely-related but non-identical pseudo-words (and thus produce
+a smaller priming effect).
+We were confident that we would find strong effects of
+consonant identity. The most interesting question was
+whether, in addition, there would also be effects of consonant location. If Italians are sensitive to the fine durational
+contrast that signals the position in which singleton consonants are realized, priming should be stronger after primes
+containing (longer) initial singletons than after those with
+(shorter) medial singletons. Such a finding would be a clear
+demonstration that fine durational differences matter in
+Italian speech recognition because it would show that singleton duration can even influence the recognition of a
+word with a geminate (in Experiment 3 we provide a more
+direct test by examining the effects of prime singleton
+duration on the recognition of target words that themselves have singletons).
+The lack of a difference between the two singleton conditions in Experiment 1 could mean at least three different
+things. First, it could indicate that Italians use consonant
+duration for ``what" processing, but not for ``where" pro-
+
+309
+
+cessing. Second, however, it could indicate a lack of methodological sensitivity in the priming task. Third, it could
+indicate a lack of perceptual sensitivity. Italian listeners
+may be sensitive to durational cues to segment position,
+but only as a function of segment type. Durational differences among geminates but not among singletons could
+be important when processing a word with a geminate
+but not when processing a word with a singleton, and vice
+versa. If that is the case, one would not expect an effect of
+singleton duration in Experiment 1.
+In order to be able to distinguish among these three alternatives, regression analyses were also planned. We could
+take advantage of the variability in consonant duration in
+our sample of materials to ask whether differences in priming effect size, by item across splicing condition, could be
+predicted by the size of the difference in consonant duration.
+If so, this would give an indication that Italian listeners do respond differentially to graded differences in consonant
+duration. In this analysis, and indeed in the factorial analysis, a critical factor was type of consonant. As we have already argued, consonant duration in geminate recognition
+may be more important for unrestricted consonants (those
+that can occur as false geminates at word boundaries) than
+for restricted consonants (those that cannot).
+Method
+Participants
+The participants in all experiments were native speakers of Italian with no reported history of speech or hearing
+difficulties. They were all students of the University of Trieste who either received course credits or volunteered;
+none participated in more than one experiment. Fortyeight took part in Experiment 1.
+Materials
+Thirty-two Italian words containing a geminate consonant in second position were chosen as targets. They were
+trisyllabic, stressed on the penultimate syllable and vowel
+initial (e.g., allarme, alarm). Sixteen contained unrestricted
+geminates (/n/, /l/, /r/; i.e., those that, as singletons, can appear in initial, medial and final position). The others contained restricted geminates (/p/, /t/, /k/, /b/, /d/, /g/, /a/, /f/,
+/v/, /m/; i.e., those that, as singletons, can occur initially
+and medially, but not finally). The mean frequencies of the
+unrestricted and restricted targets (22.38 per million,
+SD = 24.83, and 27.69 per million, SD = 26.06, respectively;
+Istituto di Linguistica Computazionale del CNR, 1989) did
+not differ (t(29) = 0.59, p = .56).
+For each target (e.g., allarme), two other words were selected. They contained the singleton counterpart of the target's geminate, either in word-medial position (e.g., /l/ of
+alano) or in word-initial position (e.g., /l/ of ladra). The critical consonants appeared in the same vocalic context in each
+triplet, as defined either at the word level (e.g., alano) or at
+the phrase level (e.g., la ladra, ``the [female] thief"). To avoid
+any influence of lexical stress position on the relative duration of the consonants and their preceding vowels (Bertinetto & Vivalda, 1978; Pickett et al., 1999; Loporcaro,
+1997; Payne, 2005), the critical consonants always appeared
+before a stressed vowel. The mean frequency of words with
+
+310
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+medial singletons matching unrestricted targets was 11.57
+per million (SD = 14.74); those matching restricted targets
+had a mean frequency of 12.56 per million (SD = 36.29).
+The mean frequencies of singleton-initial words were
+178.44 per million (SD = 540.44) for words matching unrestricted targets and 62.63 per million (SD = 64.93) for words
+matching restricted targets.
+For each triplet, three semantically neutral sentences
+were constructed so that - except for the critical consonant
+- they were phonemically identical up to the third phoneme
+of each prime word (e.g., Marco descriveva l'allarme appena
+installato/Marco descriveva l'alano del suo vicino/Marco
+descriveva la ladra alla polizia - ``Marco was describing the
+alarm just installed/the Great Dane of his neighbor/the thief
+to the police"). The targets are listed in the Appendix and
+the full triplets of experimental sentences (also for the subsequent experiments) are available at http://pubman.mpdl.
+mpg.de/pubman/item/escidoc:66955.
+A further set of 128 words was selected as filler primes;
+64 contained a geminate in second position. Forty-eight filler primes (16 with a geminate in second position) were
+paired with phonemically unrelated filler target words.
+The remaining 80 filler primes were paired with legal pseudo-word filler targets. Forty-eight pseudo-words contained
+a geminate in second position and 24 of these were phonemically related to their paired prime. Half of the remaining
+32 pseudo-words were also phonemically related to the corresponding prime. All filler primes were placed in sentences
+similar to the experimental ones. A list of eight practice
+items matching the experimental and filler materials was
+also created. A female native speaker of Italian (from Torino)
+read the complete list of sentences three times. Materials
+were recorded directly on a PC at a sampling rate of 44 kHz
+and edited with SoundEdit 16.2.
+For each experimental triplet, one sentence containing
+the target word (e.g., allarme) was chosen to appear as the
+carrier sentence. This guaranteed that the context before
+the target (including the immediately preceding vowel)
+was always consistent with the target. The critical consonants were spliced into the carriers to create the primes in
+the three experimental conditions. Primes (e.g., allarme)
+contained a geminate taken from another token of that word
+(e.g., /l/ from allarme), a word-initial singleton (e.g., /l/ from
+ladra) or a word-medial singleton (e.g., /l/ from alano). Consonants were excised from the offset of the preceding vowels to the onset of the following vowel. Consonant durations
+are given in Table 1. Reference points for the splicing procedure were obtained through the examination of waveforms
+and spectrograms. With one exception (arringa, ``speech",
+becoming aringa, ``herring"), the substitution of a geminate
+with a singleton led to a pseudo-word. None of the resulting
+experimental sentences contained clicks or other audible
+discontinuities.
+Four experimental lists were compiled. Each list contained 32 experimental and 128 filler trials. Prime-target
+pairings of the experimental trials were rotated across lists
+such that there was no repetition of stimuli within a list,
+but all pairings appeared in the experiment as a whole. Each
+list was divided into two blocks of 80 trials. In each block the
+number of targets in each of the four experimental conditions and the number of different filler pairs were balanced.
+
+The sentences with related primes also served as control
+primes, by pairing them with targets to which they were
+phonologically unrelated. Type of prime was rotated across
+the control trials, such that the number of primes containing
+a geminate, an initial and a medial singleton were as balanced as possible. Presentation order was semi-randomized
+so that only filler targets appeared in the first 10 trials and no
+more than three trials with a given target type (word or
+pseudo-word) followed one another.
+Procedure
+Participants were tested individually in a quiet room.
+Psyscope 1.2.5 carried out stimulus presentation, timing
+and data collection. Sentences were presented with a
+1500 ms inter-trial interval. Targets appeared in lower-case
+in the centre of a computer screen at the offset of the prime
+and disappeared either at the response or after 1500 ms.
+Reaction Times (RTs) were measured from target onset. Participants were asked to listen to the sentences and to press
+the right or the left key of a response-box depending on
+whether the targets were real Italian words or not. After
+the practice trials, participants were randomly assigned to
+one of the experimental lists. The number of participants
+for each list and block order was balanced.
+Results and discussion
+In this and all subsequent experiments, RTs below
+350 ms and above 1250 ms were considered outliers and excluded from the analyses; the overall percentage of errors
+(outliers, wrong and missed responses) was 5.92%. Mean
+RTs and error rates in the experimental conditions are
+shown in Table 2. Both RTs and response accuracy were analyzed. The primary RT results are based on a mixed-effects
+model with participants and items as crossed random effects
+(Baayen et al., 2008; Pinheiro & Bates, 2000), as implemented in the lmer and LanguageR packages in R (Baayen,
+2008; Bates, 2007). In all experiments, correct RTs were initially fitted in a full model including the factors prime condition, rank of the stimulus in the experiment, consonant type
+(unrestricted vs. restricted), duration of spliced consonant,
+and log-transformed lexical frequency of the target, and
+with participant and item as random intercepts and by-participant rank of the stimulus as random slopes. Rank was included because preliminary analysis revealed that
+performance changed over the course of the experiment,
+and did so differently across participants. With the removal
+of non-significant predictors (consonant type and consonant duration), RTs were found to be fitted, without a significant loss of fit relative to the full model (v2(2) = 1.03,
+p = .60), as a function of prime condition, lexical frequency,
+and stimulus rank, with random intercepts for participants
+(v2(1) = 90.53, p < .001) and items (v2(1) = 67.61, p < .001)
+and by-participant random slopes for rank (v2(1) = 19.83,
+p < .001). (In each of these v2 tests comparisons were made
+between models with and without the named factor; a similar procedure was used in subsequent experiments.) Results for the simplest, best-fitting model are given in Table
+3. Traditional by-participant (F1) and by-item (F2) RT analyses, and resulting min-F0 tests, are also reported there. All ttests are two-tailed tests. Factors in the ANOVAs were prime
+
+311
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+Table 1
+Average durations (ms) and standard deviations (in brackets) of the spliced consonants for all experimental conditions.
+Overall
+Exp. 1
+
+Medial singletons
+Initial singletons
+Geminates
+
+59
+63
+102
+
+Exp. 2
+
+Medial singletons
+Initial singletons
+False geminates
+Lexical geminates
+
+Exp. 3
+
+Medial singletons
+Initial singletons
+Geminates
+
+70
+76
+146
+
+Exp. 4
+
+Medial singletons
+Initial singletons
+Geminates
+
+74
+81
+151
+
+Unrestricted
+(20)
+(29)
+(29)
+
+Restricted
+
+46
+48
+92
+
+(18)
+(17)
+(31)
+
+72
+78
+112
+
+(25)
+(31)
+(23)
+
+43
+47
+123
+130
+
+(15)
+(19)
+(37)
+(30)
+
+(31)
+(34)
+(44)
+
+94
+104
+181
+
+(26)
+(26)
+(32)
+
+48
+51
+114
+
+(16)
+(16)
+(26)
+
+(32)
+(38)
+(46)
+
+83
+92
+161
+
+(31)
+(31)
+(39)
+
+66
+69
+141
+
+(33)
+(42)
+(52)
+
+Table 2
+Experiment 1: average response times (ms, from target onset), standard deviations of correct responses and error rates.
+Prime condition
+
+Control
+Medial singleton
+Initial singleton
+Geminate
+
+Overall
+
+Unrestricted targets
+
+Restricted targets
+
+Mean
+
+St. dev.
+
+Error (%)
+
+Mean
+
+St. dev.
+
+Error
+
+Mean
+
+St. dev.
+
+Error
+
+687
+629
+633
+608
+
+90
+85
+88
+74
+
+10.42
+4.95
+4.69
+3.65
+
+688
+643
+634
+615
+
+94
+104
+100
+82
+
+12.50
+6.77
+6.25
+5.73
+
+687
+615
+631
+599
+
+111
+87
+98
+90
+
+8.33
+3.13
+3.13
+1.56
+
+condition and consonant type. Only differences between the
+mixed-effect and traditional analyses are discussed (in this
+and subsequent experiments). The 95% Confidence Intervals
+(CIs) for contrasts are based on the F1 analyses.
+There was a main effect of prime condition (see Table 3).
+Lexical decisions were faster after related than after control
+primes, regardless of whether related primes contained a
+geminate or a singleton (control vs. geminates, mean difference = 79 ms, 95%CI = 25 ms; control vs. initial singletons,
+mean difference = 54 ms, 95%CI = 23 ms; control vs. medial singletons, mean difference = 58 ms, 95%CI = 23 ms).
+But responses were faster after primes with a geminate than
+after primes with a singleton (geminates vs. initial singletons, mean difference = 26 ms, 95%CI = 23 ms; geminates
+vs. medial singletons, mean difference = 21 ms, 95%CI =
+20 ms) and there was no difference after primes with initial
+vs. medial singletons (medial vs. initial singletons, mean difference = 4 ms, 95%CI = 19 ms). There was no effect of target type, and no interactions involving this factor. RTs to
+targets with unrestricted and restricted consonants thus
+patterned similarly. There was an effect of target frequency
+(F(1, 1436) = 15.11, p < .001), but this interacted with prime
+condition (F(3, 1436) = 2.65, p = .05). Specifically, targets
+with a higher lexical frequency elicited faster responses
+(t(1436) = 4.65, p < .001), but, as a further reflection of
+stronger priming from primes which contained geminate
+consonants than from those containing singletons, this standard frequency effect was reduced after - and only after -
+primes with geminates (t(1436) = 2.79, p < .01).
+The accuracy analysis was carried out using generalized
+mixed-effect modeling, as implemented in LanguageR (Baayen, 2008), which enables one to run log-linear regressions
+on categorical data. Correct responses were initially fitted in
+
+a full model with the same predictors as the initial RT model.
+Removal of non-significant predictors (consonant duration
+and stimulus rank) did not result in a significant loss of fit
+(v2(6) = .00, p = 1). Correct responses were hence fitted in a
+reduced model as a function of (log-transformed) target frequency (F(1, 1530) = 14.50, p < .001), consonant type (restricted vs. unrestricted: F(1, 1530) = 5.99, p < .05) and
+prime condition (F(3, 1530) = 8.64, p < .001), with random
+intercepts for participants (v2(1) = 6.31, p < .05) and items
+(v2(1) = 7.97, p < .01). This model revealed that restricted targets elicited fewer errors than unrestricted targets (z = 2.00,
+p < .05) and that response accuracy increased as a function of
+target frequency (z = 3.49, p < .001). Further, responses
+were more accurate after related than after control primes
+(medial singletons: z = 2.79, p < .01; initial singletons
+z = 3.07, p < .01; geminates: z = 3.65, p < .001).
+These RT and error analyses revealed facilitated responses after related primes than after unrelated control
+primes. Responses to target words containing geminate
+consonants were faster and more accurate after the same
+words had been heard than after unrelated primes. In addition, target responses were faster and more accurate after
+related pseudo-word primes (identical except for the substitution of a singleton for the geminate) than after unrelated primes. Furthermore, the RT analyses showed that
+responses after primes with geminates were faster than responses after primes with singletons. There was no indication of an effect of the position in which the singletons had
+originally been articulated.
+These results indicate that Italians use consonant duration to distinguish geminates from their singleton counterparts. As presented so far, they also suggest that consonant
+duration may be used in a categorical manner, with no
+
+312
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+Table 3
+Principal statistical results for the reaction time analyses in each experiment.
+Experiment 1: Word Priming (target e.g. ALLARME)
+lmer
+
+F1
+
+Prime Main Effect
+Control vs. Medial
+Control vs. Initial
+Control vs. Geminate
+Medial vs. Initial
+Medial vs. Geminate
+Initial vs. Geminate
+
+F(3,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+
+47) = 19.27
+47) = 26.85
+47) = 22.78
+47) = 42.15
+47) = 0.21
+47) = 4.66
+47) = 5.39
+
+p < .001
+p < .001
+p < .001
+p < .001
+p = .65
+p < .05
+p < .05
+
+F(3,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+
+31) = 20.05
+31) = 19.10
+31) = 19.40
+31) = 47.49
+31) = 0.31
+31) = 6.55
+31) = 9.60
+
+p < .001
+p < .001
+p < .001
+p < .001
+p = .58
+p < .05
+p < .05
+
+MinF'(3,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+
+75) = 9.83
+68) = 11.16
+72) = 10.48
+76) = 22.33
+78) = 0.13
+78) = 2.72
+78) = 3.45
+
+p < .01
+p < .01
+p < .001
+p < .001
+p = .72
+p = .10
+p = .07
+
+F1
+F(4,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+
+54) = 4.80
+54) = 0.90
+54) = 0.42
+54) = 3.51
+54) = 5.12
+54) = 0.10
+54) = 8.61
+54) = 14.02
+54) = 8.07
+54) = 15.97
+54) = 0.40
+
+p < .001
+p = .35
+p = .52
+p = .07
+p < .05
+p = .75
+p < .01
+p < .001
+p < .01
+p < .001
+p = .53
+
+F2
+F(4,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+
+29) = 3.08
+29) = 0.09
+29) = 0.05
+29) = 4.43
+29) = 6.15
+29) = 0.01
+29) = 4.38
+29) = 5.21
+29) = 4.65
+29) = 3.73
+29) = 0.04
+
+p < .05
+p = .77
+p = .83
+p < .05
+p < .05
+p = .93
+p < .05
+p < .05
+p < .05
+p = .06
+p = .84
+
+MinF'
+MinF'(4,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+
+64) = 1.87
+35) = 0.08
+36) = 0.04
+80) = 1.96
+79) = 2.79
+33) = 0.01
+58) = 2.90
+51) = 3.80
+61) = 2.95
+43) = 3.02
+35) = 0.04
+
+p = .13
+p = .78
+p = .84
+p = .16
+p = .09
+p = .92
+p = .09
+p = .06
+p = .09
+p = .09
+p = .84
+
+F1
+F(3,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+
+39) = 6.00
+39) = 11.26
+39) = 7.42
+39) = 0.09
+39) = 0.02
+39) = 7.16
+39) = 9.19
+
+p < .001
+p < .01
+p < .01
+p = .77
+p = .88
+p < .05
+p < .01
+
+F2
+F(3,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+
+31) = 2.90
+31) = 8.16
+31) = 4.24
+31) = 0.04
+31) = 0.08
+31) = 3.71
+31) = 3.92
+
+p < .05
+p < .01
+p = .05
+p = .85
+p = .78
+p = .06
+p = .06
+
+MinF'
+MinF'(3,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+
+58) = 1.96
+65) = 4.73
+61) = 2.70
+55) = 0.03
+58) = 0.02
+59) = 2.44
+55) = 2.75
+
+p = .13
+p < .05
+p = .11
+p = .86
+p = .88
+p = .12
+p = .10
+
+F1
+F(3,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+
+39) = 11.33
+39) = 2.96
+39) = 6.47
+39) = 37.41
+39) = .68
+39) = 8.57
+39) = 13.33
+
+p < .001
+p = .09
+p < .05
+p < .001
+p = .41
+p < .01
+p < .001
+
+F2
+F(3,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+F(1,
+
+31) = 6.56
+31) = 2.33
+31) = 4.42
+31) = 17.25
+31) = 0.57
+31) = 10.01
+31) = 4.41
+
+p < .001
+p = .14
+p < .05
+p < .001
+p = .45
+p < .01
+p < .05
+
+MinF'
+MinF'(3,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+MinF'(1,
+
+61) = 4.16
+66) = 1.30
+64) = 2.63
+57) = 11.81
+67) = 0.31
+66) = 5.72
+59) = 2.91
+
+p < .01
+p = .26
+p = .11
+p < .01
+p = .58
+p < .05
+p = .09
+
+F(3, 1436) = 28.08
+t(1436) = 3.79
+t(1436) = 3.96
+t(1436) = 6.02
+t(1436) = 0.15
+t(1436) = 2.23
+t(1436) = 2.09
+
+p < .001
+p < .001
+p < .001
+p < .001
+p = .88
+p < .05
+p < .05
+
+Experiment 2: Fragment Priming (target e.g.
+lmer
+Prime Main Effect
+F(3, 1432) = 7.24
+Control vs. Medial
+t(1432) = 0.84
+Control vs. Initial
+t(1432) = 0.44
+Control vs. False
+t(1432) = 2.81
+Control vs. Geminate
+t(1432) = 3.17
+Medial vs. Initial
+t(1432) = 0.40
+Medial vs. False
+t(1432) = 3.65
+Medial vs. Geminate
+t(1432) = 4.00
+Initial vs. False
+t(1432) = 3.26
+Initial vs. Geminate
+t(1432) = 3.62
+False vs. Geminate
+t(1432) = 0.38
+
+ALLARME)
+
+Experiment 3: Fragment Priming (target e.g.
+lmer
+Prime Main Effect
+F(3, 1112) = 5.46
+Control vs. Medial
+t(1112) = 4.29
+Control vs. Initial
+t(1112) = 2.38
+Control vs. Geminate
+t(1112) = 1.37
+Medial vs. Initial
+t(1112) = 2.29
+Medial vs. Geminate
+t(1112) = 3.36
+Initial vs. Geminate
+t(1112) = 1.14
+
+ALANO)
+
+Experiment 4: Fragment Priming (target e.g.
+lmer
+Prime Main Effect
+F(3, 1155) = 14.84
+Control vs. Medial
+t(1155) = 2.16
+Control vs. Initial
+t(1155) = 2.91
+Control vs. Geminate
+t(1155) = 6.52
+Medial vs. Initial
+t(1155) = 0.76
+Medial vs. Geminate
+t(1155) = 4.38
+Initial vs. Geminate
+t(1155) = 3.59
+
+ALLARME)
+
+p < .001
+p = .40
+p = .66
+p < .01
+p < .01
+p = .69
+p < .01
+p < .001
+p < .01
+p < .001
+p = .71
+
+p < .001
+p < .001
+p < .05
+p = .17
+p < .05
+p < .001
+p = .26
+
+p < .001
+p < .05
+p < .01
+p < .001
+p = .45
+p < .001
+p < .001
+
+F2
+
+graded sensitivity to subtle differences in consonant duration (the two types of singleton-bearing prime had the same
+effect). The mean durational difference between the two
+types of singleton was very small however (only 4 ms, see
+Table 1). Regression analyses thus tested further for more
+specific effects of graded sensitivity by comparing difference
+measures. Durational differences between the spliced consonants in each pair of conditions (i.e., geminates vs. medial
+singletons, geminates vs. initial singletons, and initial vs.
+medial singletons) were compared, item by item, with the
+appropriate differences in the RT priming effects across
+those condition pairs (averaged over participants since byparticipant variability in RT effects is orthogonal to any effects of consonant duration, which would necessarily be
+purely within-item effects). Relative to the main analyses,
+these follow-up analyses provide a more specific test of sensitivity to differences among the versions of the critical
+experimental consonants by focusing on those differences,
+by excluding the unrelated (control) consonants, and by factoring out differences in duration that are intrinsic to individual consonants (e.g., that /k/ may tend to be shorter
+than /p/). Note that it would be impossible to include within-consonant duration differences as a factor in the main
+
+MinF'
+
+analyses, since those analyses necessarily include the control condition, and that condition involves other consonants
+(and hence uncontrolled between-consonant differences).
+As the durational difference between consonants became
+larger, so did the differences in RTs (F(1, 94) = 12.15,
+p < .001). As shown in Fig. 1, this effect depended on type
+of consonant (restricted vs. unrestricted) and on which conditions were contrasted. For differences between initial and
+medial singletons, no effect was detected for either
+unrestricted (t(14) = 0.24, b = 0.29, p = .81) or restricted
+targets (t(14) = 0.76, b = 0.51, p = .46). The durational differences between the spliced geminates and medial singletons,
+however, predicted the differences in RTs after primes with
+those consonants for primes with unrestricted consonants
+(t(14) = 2.48, b = 1.36, p = .03) but not restricted consonants (t(14) = 0.14, b = 0.06, p = .89). Furthermore, the durational differences between geminates and initial singletons
+predicted priming effects when primes contained unrestricted consonants (t(14) = 2.47, b = 1.45, p = .03), but
+not when primes had restricted consonants (t(14) = 0.55,
+b = 0.73, p = .59).
+Note that no effects of consonant duration were found in
+the main analyses. We suggest that this was because, in the
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+mixed-effect modeling, consonant durations were absolute
+values, corresponding to the different versions of the critical
+consonants in the related trials and to the different consonants in the control condition, and hence that those analyses
+included spurious variation in consonant duration. The
+regression analyses provide a cleaner measure of the effect
+of consonant duration variance.
+The regression analyses show that durational differences
+predicted priming effects only for the unrestricted consonants. These are the consonants which form false geminates
+when they occur at word boundaries (e.g., al ladro). This suggests that Italian listeners do not only use the large, global
+difference in duration between geminates and singletons
+for segment identification, but also are sensitive to smaller
+differences among consonants in their duration. In the case
+of geminate recognition, however, this sensitivity appears to
+be limited to geminates that can vary in location. Italian listeners thus appear to be finely tuned to the informational
+value of consonant duration. This may be why they did not
+appear to rely on the durational contrast between initial
+and medial singletons: it was not sufficiently informative
+with respect to the position of the geminate consonant.
+
+Experiment 2
+Our explanation for the results of Experiment 1 leads to a
+clear prediction. If small differences in the duration of a geminate influence its recognition, then differences in priming
+between (longer) lexical geminates and (shorter) false geminates should be found. Experiment 2 tested this prediction.
+In addition to the three types of consonant already tested,
+false geminates were included. Because only unrestricted
+consonants could be used in all four of these conditions, this
+alteration necessitated the exclusion of all restricted consonants. An important methodological change was also made.
+In Experiment 1, participants were presented with visual
+targets at the offset of auditory words (or related pseudowords), embedded in neutral sentences. It is possible that
+some effects were not detected because, by the time the targets were presented, prime recognition tended to be complete, and differential effects of consonant duration may
+thus have tended to be washed out. A potentially more sensitive fragment priming task (Donselaar, Koster, & Cutler,
+2005) was therefore used.
+Participants were asked to make lexical decisions to visual targets with geminates (e.g., allieve, ``[female] pupils"),
+presented at the acoustic offset of truncated sentences.
+These sentences ended with fragment primes, which were
+either unrelated (e.g., colla from collane, ``necklaces") or related (e.g., allie, from e.g. allieve) to the visual targets. The last
+consonants of the primes were cross-spliced with other tokens of geminates and singletons realized either in wordmedial position (lexical geminate: allieve; medial singleton:
+aliene, ``[female] aliens") or at word boundaries (false geminate: al lieto, ``to the happy"; initial singleton: a lieto, ``to happy"). The duration of the last consonant of the related
+fragments (e.g., /l/ in allie) thus disambiguated the parsing
+of the truncated sentences, making them compatible with
+one of four possible continuations: a word containing a lexical geminate (e.g., allieve), a sequence of two words that
+
+313
+
+encourages the realization of a false geminate (al lieto), a
+word beginning with the singleton counterpart of that consonant (a lieto), or a word containing the singleton counterpart of that consonant (aliene). This situation is different
+from that in Experiment 1, where the words with geminates
+could unambiguously be recognized as such, and the items
+with singletons could unambiguously be recognized as
+pseudo-words.
+The Experiment 1 results suggest that target responses
+should be faster after geminate-bearing than after singleton-bearing primes. They also suggest that listeners might
+use duration to locate consonants. It was thus possible that
+(longer) fragments with lexical geminates would produce
+stronger priming of responses to words containing those
+geminates than (shorter) fragments with false geminates.
+The durational differences between initial and medial singletons, however, were not expected to produce an effect.
+Although the primes were now ambiguous fragments, potentially allowing their interpretation as words containing singletons, the Experiment 1 results still suggest that it is
+unlikely that differences in singleton duration would influence decisions to targets containing geminates. Listeners
+might be insensitive to these singleton contrasts because
+they are not sufficiently informative with respect to the position of geminates.
+Method
+Fifty-five participants took part. Thirty Italian trisyllabic
+words containing a liquid geminate (5 /r/ and 25 /l/) were
+selected to appear as visual targets (see Appendix). Sixteen
+began with a vowel and contained the geminate consonant
+in second position (e.g., allieve, pupils); the remainder began with a consonant and the geminate appeared in third
+position (e.g., collega, colleague). Lexical stress always fell
+on the vowel following the geminate. The average frequencies of the targets per million were 20.50 (SD = 31.31) for
+vowel-initial words and 16.50 (SD = 24.74) for consonantinitial words (t(28) = 0.38, p = .71).
+Four sentences were created for each target word. In
+each quadruplet, the first sentence contained the target
+word (e.g., allieve), the second contained a word beginning
+with the singleton counterpart of the critical geminate preceded by a word ending with the same consonant (e.g., al
+lieto), the third contained a word beginning with the singleton counterpart of the critical geminate preceded by a
+word ending with the same vowel that preceded the geminate in the target word (e.g., a lieto) and the fourth sentence contained a word with the same vowel followed by
+a singleton in medial position (e.g., aliene). Sentences were
+created so that in each quadruplet the critical consonant
+(e.g., /l/) occurred in the same vocalic context and in prestressed position. Preceding contexts were neutral and
+the number of syllables prior to the critical consonant
+was matched as closely as possible. In order to maintain
+neutrality across contexts, however, it was not possible
+to avoid either the use of different preceding contexts
+within a quadruplet or the use of the same sentences for
+different target words.
+A further set of 130 words was selected as filler primes;
+65 contained a geminate. Fifty filler primes, 25 of which
+
+314
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+Fig. 1. Priming effects for experimental items of Experiment 1, plotted as a function of the durational differences of the spliced consonants, the contrasted
+experimental conditions and the type of consonant.
+
+contained a geminate, were paired to phonemically unrelated filler target words. The remaining 80 filler primes
+were coupled to legal pseudo-word targets. Twenty-four
+pseudo-words were phonemically related to their primes,
+12 of which contained a geminate. All filler primes were inserted in sentences similar to the experimental ones. A list
+of 10 practice items matching the experimental and filler
+materials was also created.
+A female native speaker of Italian (from Trento, different from the speaker used in Experiment 1) read the complete list of sentences three times. Materials were recorded
+and edited as in the previous experiment, except that, after
+the consonants had been cross-spliced, all sentences were
+truncated after the vowel following the critical consonant
+(e.g., after the /i/ of allieve). There were no audible clicks
+at the truncation points. Consonant durations are given
+in Table 1. Five experimental lists were compiled and
+semi-randomized with the same rationale as in Experiment 1. The procedure was the same as before.
+Results and discussion
+The overall percentage of errors (outliers as defined in
+Experiment 1, plus wrong and missed responses) was
+12.85%. Mean RTs and error rates are shown in Table 4. RTs
+were again fitted in a mixed model that, differently from
+the previous experiment, did not include type of consonant
+as a predictor. Non-significant predictors (consonant
+duration and stimulus rank) were excluded from the
+analyses with no significant loss of fit (v2(10) = 10.70, p =
+.38). Table 3 reports the effects detected by this reduced
+model in which RTs were fitted as a function of prime condition and (log-transformed) lexical frequency of the target,
+with random intercepts for participants (v2(1) = 344.97,
+p < .001) and items (v2(1) = 82.48, p < .001). As in Experiment 1, RTs were strongly affected by target frequency
+(F(1, 1432) = 20.66, p < .001). However, the effect of prime
+condition did not depend on the frequency of the target
+
+(F(4, 1428) = 1.00, p = .40) and a model that included this
+interaction fitted the data no better than the final model
+(v2(4) = 4.03, p = .40).
+Responses were faster after primes with lexical and
+false geminates than after control primes (control vs. lexical geminates, mean difference = 33 ms, 95%CI = 29 ms;
+control vs. false geminates, mean difference = 26 ms,
+95%CI = 28 ms) and than after primes with singletons
+(lexical geminates vs. medial singletons, mean difference = 49 ms, 95%CI = 26 ms; lexical geminates vs. initial
+singletons, mean difference = 44 ms, 95%CI = 22 ms; false
+geminates vs. medial singletons, mean difference = 42 ms,
+95%CI = 29 ms; false geminates vs. initial singletons,
+mean difference = 37 ms, 95%CI = 26 ms). RTs in the control, medial singleton and initial-singleton conditions did
+not differ from each other (control vs. medial singletons,
+mean difference = 16 ms, 95%CI = 34 ms; control vs. initial
+singletons, mean difference = 11 ms, 95%CI = 34 ms; initial vs. medial singletons, mean difference = 5 ms, 95%CI
+= 33 ms). Finally, there was no difference between the false
+and lexical geminate conditions (mean difference = 6 ms,
+95%CI = 21 ms).
+Accuracy was initially evaluated with the same full model
+as that used as the starting point in the RT analysis. A simpler
+model excluding non-significant predictors (consonant duration and stimulus rank) fitted the data as well as the full model (v2(10) = 10.75, p = .38) and explained accuracy as a
+function of the lexical frequency of the target (F(1, 1644) =
+24.04, p < .001) and the prime condition (F(4, 1644) = 4.05,
+p < .01), with participants (v2(1) = 20.58, p < .001) and items
+(v2(1) = 66.87, p < .001) as random intercepts. The accuracy
+increased as a function of target frequency (z = 4.67,
+p < .001). Further, fewer errors followed primes with lexical
+geminates than control primes (z = 1.92, p = .05) and primes
+with initial (z = 1.84, p = .06) and medial singletons
+(z = 2.47, p < .05). Similarly, responses were more accurate
+after primes with false geminates than after control primes
+(z = 2.39, p < .05) and primes with initial (z = 2.35,
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+p < .05) and medial singletons (z = 2.97, p < .01). Responses
+after control primes were as accurate as after primes with
+medial (z = 0.58, p = .56) and initial singletons (z = 0.06,
+p = .95) and responses after medial singletons were as accurate as after initial singletons (z = 0.65, p = .51). Accuracy
+also did not differ after primes with false or lexical geminates
+(z = 0.58, p = .58).
+These analyses indicate that responses were faster and
+more accurate after primes with geminates than after
+unrelated primes and related primes with singletons. Unlike in Experiment 1, related primes with singletons did
+not facilitate responses. In Experiment 1 the priming effect
+after related nonwords might have derived from the larger
+prime-target overlap for which - except for one case (i.e.,
+aringa) - there was no other possible lexical interpretation
+of the primes than as the targets. In contrast, the fragments
+in Experiment 2 had potentially more than one possible
+continuation. This ambiguity increased the number of possible lexical hypotheses and, therefore, the effect of lexical
+competition. This may explain the reduced priming effects
+from primes with singletons.
+The priming effects for fragments with lexical and false
+geminates once again suggest that Italians rely on large
+durational differences to discriminate between geminates
+and singletons. These results may also again suggest that
+this information was not used in a continuous way, but
+rather in a binary way, simply to classify sets of long vs.
+short consonants. To assess this hypothesis, a regression
+analysis like that in Experiment 1 examined the priming
+effects as a function of the durational differences of the
+spliced consonants.
+Durational differences did not predict the differences in
+RTs overall (F(1, 176) = 1.29, p = .26), but did do so as a function of the lexical frequency of the target (F(1, 176) = 6.13,
+p < .05). The priming effect increased as a function of the
+durational differences, but was reduced as the targets' frequency increased. Further individual regressions showed
+that these effects held for comparisons between lexical
+and false geminates (t(26) = 3.66, b = 2.30, p < .01) and between initial and medial singletons (t(26) = 1.82, b = 2.36,
+p = .08), but not for the other comparisons (lexical geminates vs. initial singletons, lexical geminates vs. medial singletons, false geminates vs. initial singletons and false
+geminates vs. medial singletons). The strongest two effects
+are plotted in Fig. 2. It is important to note, however, that
+in both these cases the effect was reduced as target frequency increased (geminates: t(26) = 2.96, b = 0.59,
+p < .01; singletons: t(26) = 2.39, b = 0.97, p < .05).
+The large durational differences (i.e., those between
+geminates and singletons) were therefore not predictive of
+priming effects, but, as the frequency of the target words deTable 4
+Experiment 2: average response times (ms, from target onset), standard
+deviations of correct responses and error rates.
+Prime condition
+
+Mean
+
+St. dev.
+
+Error (%)
+
+Control
+Medial singleton
+Initial singleton
+False geminate
+Lexical geminate
+
+696
+712
+707
+669
+663
+
+103
+115
+121
+119
+115
+
+14.55
+16.06
+14.24
+9.09
+10.30
+
+315
+
+creased, the small durational differences that occurred between lexical and false geminates and (to a lesser extent)
+between initial and medial singletons were predictive of
+the differences in RTs. These results indicate that listeners
+were affected by increasing differences in the duration of
+the consonants and, like the results of the regression analyses in Experiment 1, are not consistent with strictly categorical use of duration. Instead, it would appear that Italians are
+sensitive to gradual differences in duration, at least in
+geminates.
+Experiments 1 and 2 thus suggest that, in particular circumstances, Italian listeners can rely on fine durational differences that might help them locate geminates in the
+speech stream. Specifically, it appears that a longer consonant is a better match to a true lexical geminate, which
+must appear in word-medial position. But there was only
+a weak effect of singleton duration on the recognition of
+words containing geminates. Given the stronger durational
+effect of geminate consonants on the recognition of geminate-bearing words, it is plausible that a similar effect
+could be found for singleton consonant duration on the
+recognition of singleton-bearing words. This prediction
+was tested in Experiment 3. The differences in duration between lexical and false geminates and between initial and
+medial singletons were about the same (see Table 1).
+Geminates, however, were about 150% longer than singletons, so that, on average, medial and initial singletons diverged from one another by 11% of their duration, while
+false and lexical geminates diverged by only 6% of their
+duration. The proportional difference in duration is thus
+larger for singletons than for geminates. In Experiment 3
+we therefore tested whether an effect of duration is detectable for singletons by presenting visual targets that have a
+singleton in medial position. We expected effects of consonant duration on the recognition of words with singletons
+not only because the proportional durational difference is
+larger for singletons, but also because duration is informative about the location of effectively all singleton consonants. The results of Experiment 1 suggest that positional
+contrasts for geminates are relevant only for those which
+appear both word-medially and at word boundaries (i.e.,
+as false geminates). But both sets of consonants appear in
+initial and medial position as singletons. In Experiment 3,
+therefore, both restricted and unrestricted consonants
+were tested, with the expectation that both would show
+durational effects.
+
+Experiment 3
+As in Experiment 2, participants listened to neutral sentences ending in a fragment (e.g., Marco descriveva l'ala. . .,
+``Marco was describing the ala. . .") and made lexical decisions on visual targets presented at fragment offset. The
+last consonant of each fragment was spliced from words
+uttered in the same context that contained either a singleton in word-medial (e.g., /l/ from alano) or word-initial position (e.g., /l/ from ladra) or its geminate counterpart (e.g.,
+/l/ from allarme). Fragments were unrelated (e.g., /aFe/
+from Anita cercava un'age. . ., ``Anita was looking for a . . .")
+or related (e.g., /ala/ in Marco descriveva l'ala. . .) to the vi-
+
+316
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+imental lists were created in the same way as in Experiment 1. Materials were recorded by the same speaker as
+in Experiment 2 and edited as in the previous experiments
+(for consonant durations see Table 1). The procedure was
+the same as before.
+Results and discussion
+
+Fig. 2. Priming effects for experimental items of Experiment 2, plotted as
+a function of the durational differences of the spliced consonants and the
+contrasted experimental conditions.
+
+sual targets that, unlike in Experiments 1 and 2, contained
+singletons (e.g., alano).
+If Italian listeners use the duration of consonants only
+to identify geminates and singletons, then responses
+should be faster after primes with both medial and initial
+singletons than after unrelated primes and primes with
+geminates, but responses after primes with medial singletons should not be faster than after primes with initial singletons. In contrast, if Italians are sensitive to the small
+durational differences occurring in consonants realized in
+different structural positions, then responses should be
+faster after fully consistent primes with medial singletons
+than after inconsistent primes with initial singletons.
+
+Method
+Forty participants took part. Thirty-two Italian words
+were chosen to appear as visual targets (see Appendix). Sixteen contained medial singleton unrestricted consonants
+(/n/, /l/, /r/); the other 16 had medial singleton restricted
+R
+consonants (/p/, /t/, /k/, /b/, /d/, /g/, /t /, /dZ/, /v/). The number of targets with restricted and unrestricted consonants
+was matched between targets beginning with a vowel (14
+restricted, 14 unrestricted) and those beginning with a consonant (two restricted, two unrestricted). Critical consonants occurred in second position in the vowel-initial
+words, and in third position in the consonant-initial words.
+Twenty-six words were trisyllabic and stressed on the penultimate syllable; the other six were four syllables long and
+stressed on the antepenultimate syllable (i.e., the critical
+consonant was always in pre-stressed position). The mean
+frequencies of the targets per million were 14.50
+(SD = 15.41) for unrestricted words and 20.13 (SD = 42) for
+restricted words (t(30) = 0.50, p = .62).
+For each target word three semantically neutral sentences were created. One of them contained the target
+word (e.g., alano), the second contained a word beginning
+with the critical consonant (e.g., ladra) and the third contained a word with the geminate counterpart of the critical
+consonant (e.g., allarme). All the sentences were phonemically congruent up to a point corresponding to the second
+vowel of the target word. Fillers, practice trials and exper-
+
+The overall percentage of errors (outliers as defined in
+Experiment 1, plus wrong and missed responses) was
+12.34%. Mean RTs and error rates are shown in Table 5. Table
+3 reports the tests of the mixed model that fitted RTs as a
+function of the rank of the stimulus, the prime condition
+and the frequency of the prime (F(1, 1112) = 23.80,
+p < .001) and the frequency of the target (F(1, 1112) =
+11.09, p < .001), with random intercepts for participants
+(v2(1) = 94.73, p < .001) and items (v2(1) = 35.64, p < .001)
+and by-participant random slopes for the rank of the stimulus (v2(1) = 5.95, p = .01). RTs were initially fitted with the
+same full model as in Experiment 1, but the removal of the
+non-significant predictors (consonant duration and consonant type) did not cause a significant loss of fit
+(v2(2) = 2.68, p = .26).
+As can been seen in Table 3, responses after primes with
+medial and initial singletons were faster than after unrelated primes (control vs. medial singletons, mean difference = 30 ms, 95%CI = 19 ms; control vs. initial singletons,
+mean difference = 29 ms, 95%CI = 22 ms). There was no difference after primes with geminates than after unrelated
+primes (mean difference = 3 ms, 95%CI = 19 ms). Furthermore, RTs were faster after primes with medial singletons
+than after primes with geminates (mean difference = 28 ms,
+95%CI = 21 ms), and responses were faster after primes
+with medial singletons than after primes with initial singletons. But this last result was not replicated in the traditional
+analysis (mean difference = 1 ms, 95%CI = 17 ms; see Table
+3). The traditional analysis also indicated that RTs after
+primes with initial singletons were faster than after primes
+with geminates (mean difference = 26 ms, 95%CI = 18 ms),
+a difference that was not reflected in the mixed-effect
+modeling.
+The mixed-effect and traditional analyses thus led to different results. In particular, fitting the RTs with the mixed
+model made it possible to detect facilitation for responses
+produced by primes with medial singletons relative to
+primes with initial singletons. This facilitation indicates
+that Italian listeners are sensitive to durational differences
+between singleton consonants articulated in different structural positions. This effect, however, depended on the lexical
+frequency of the visual targets and hence was not detectable
+with traditional statistical techniques. The mixed-effect
+modeling revealed an interaction of the effect of the prime
+condition with target frequency (F(3, 1112) = 4.28, p < .01).
+Targets with a higher lexical frequency elicited faster responses (t(1112) = 4.14, p < .001); however, this effect
+was reduced after - and only after - primes containing
+medial singletons (t(1112) = 3.29, p < .01). That is, as shown
+in Fig. 3, the lexical frequency of the targets influenced the
+speed of responses less after primes with medial singletons
+than in any other priming condition. As a consequence,
+average latencies in the medial singleton condition were
+
+317
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+very similar to those in the initial singleton condition (see
+Table 5). This interaction explains the apparent difference
+between the results obtained with the two techniques
+and why the small overall effect (of 1 ms when expressed
+as a mean difference) was nonetheless significant in the
+mixed-model analysis. Responses to lower-frequency targets after primes with initial singletons were faster than
+after primes with medial singletons, but this effect reversed
+for higher-frequency targets (see Fig. 3). That is, once the
+effects of frequency were taken into account, singleton consonant duration influenced target recognition.
+Response accuracy was also first evaluated with the same
+initial model as was used in Experiment 1. The removal of
+the non-significant predictors (consonant duration and
+stimulus rank) led to a simpler model with no significant loss
+of fit (v2(4) = 0.00, p = 1). The final model showed an effect of
+the frequency of the target (F(1, 1271) = 25.44, p < .001) and
+an interaction between the effect of prime condition and
+type of consonant (F(3, 1271) = 2.74, p < .05), with random
+intercepts for participants (v2(1) = 9.90, p < .01) and items
+(v2(1) = 74.34, p < .001). As the frequency of the targets increased so did the accuracy of the responses (z = 5.07,
+p < .001). This model revealed that responses to targets with
+unrestricted consonants were more accurate after primes
+with initial singletons than after control primes (z = 5.07,
+p < .001) and primes with medial singletons (z(1271) =
+5.07, p < .001) and geminates (z = 5.07, p < .001). Instead
+responses to restricted targets were equally accurate in all
+conditions.
+As in the previous experiments, further regression analyses tested the contribution of the durational differences of
+the spliced consonants to the RT priming effects. Differences in RTs in each pair of related conditions were fitted
+in a linear model as a function of the durational differences
+of the spliced consonants, the contrasted conditions (geminate vs. initial singleton, geminate vs. medial singleton,
+initial vs. medial singleton) and the type of consonant (restricted vs. unrestricted). The differences in priming effects
+varied across the contrasted conditions (F(2, 87) = 7.00,
+p < .01) and depended on the durational differences between the spliced consonants (F(1, 87) = 22.67, p < .001).
+Type of consonant neither had an effect (F(1, 87) = 0.70,
+p = .40) nor interacted with the effect of duration
+(F(1, 87) = 0.26, p = .61). The difference in priming effects
+between the medial- and initial-singleton conditions was
+smaller than the difference between the initial-singleton
+and geminate conditions (t(89) = 5.16, b = 91.99, p < .001)
+and the difference between the medial-singleton and geminate conditions (t(89) = 2.96, b = 45.68, p < .01). Furthermore, the difference in priming effects between the
+geminate and the medial-singleton conditions were larger
+
+than that between the geminate and the initial-singleton
+conditions (t(89) = 2.51, b = 46.31, p < .05). These analyses
+confirm that the amount of priming varied across conditions and show an overall effect of consonant duration.
+Further analysis demonstrated at least strong trends (see
+Fig. 4) towards effects of duration for each separate pair
+of contrasted conditions (geminate vs. medial singletons:
+t(29) = 3.53, b = 0.64, p < .01; geminate vs. initial singletons: t(29) = 1.88, b = 0.91, p = .07; medial vs. initial singletons: t(29) = 1.80, b = 0.71, p = .08).
+These regression analyses are consistent with the positional effect detected with the mixed model. Priming effects observed after primes with medial singletons were
+larger than those observed after primes with initial singletons. Unlike Experiment 1, and as predicted, these analyses
+did not reveal an interaction between the effect of the
+durational difference and type of consonant. The evaluation of the duration of initial and medial singletons indeed
+involves all consonants that appear word-initially and not
+only those that appear both word-initially and word-finally. The overall effect of the durational differences and the
+equivalence of this effect across conditions indicate that
+duration is a good predictor in each comparison. Italian listeners thus appear to rely on this information to distinguish geminates from singletons and to discriminate
+between medial and initial singletons. The pattern of results across experiments also suggests that the effect of position surfaces more clearly in the circumstances in which
+it is more informative to listeners: there were stronger effects of differences in singleton duration when listeners
+had to identify words containing singletons than when
+they had to identify words bearing geminates.
+Experiment 4
+In a final control experiment, targets with geminates (e.g.,
+allarme) were presented under the same priming conditions
+as in Experiment 3. This experiment was run to see whether
+it would be possible to replicate the effects for targets with
+geminates that were found in Experiment 1 in spite of the
+change in task (Experiment 4 uses fragment priming; Experiment 1 used full-word priming) and with the spoken materials from Experiment 3 that had produced graded effects of
+consonant duration for targets with singletons.
+Method
+Forty participants took part. The materials and recording from Experiment 3 were used, but here the targets corresponded to the words containing geminates. Their mean
+
+Table 5
+Experiment 3: average response times (ms, from target onset), standard deviations of correct responses and error rates.
+Prime condition
+
+Control
+Medial singleton
+Initial singleton
+Geminate
+
+Overall
+
+Unrestricted targets
+
+Restricted targets
+
+Mean
+
+St. dev.
+
+Error (%)
+
+Mean
+
+St. dev.
+
+Error (%)
+
+Mean
+
+St. dev.
+
+Error (%)
+
+662
+632
+633
+659
+
+97
+96
+91
+96
+
+14.38
+13.13
+8.75
+13.13
+
+663
+635
+639
+675
+
+110
+104
+102
+115
+
+15.00
+14.38
+5.00
+15.88
+
+660
+631
+624
+644
+
+109
+101
+102
+116
+
+13.75
+11.88
+12.50
+10.00
+
+318
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+Fig. 3. Averaged RTs for experimental items of Experiment 3, plotted as a
+function of experimental condition and lexical frequency of the visual
+target (the cut-off was set at the median of the frequencies, 18.82 per
+million, which equally divided the number of items).
+
+frequencies per million were 13.06 (SD = 21.93) for unrestricted targets and 38.94 (SD = 41.37) for restricted targets
+(t(30) = 2.21, p = .04). Unlike in Experiment 3, the sentences containing the target word (e.g., allarme) were chosen to appear as the carrier sentences. The critical
+consonants in the prime came from other tokens of the
+same geminate in the same word, or were matched initial
+or medial singletons. The same splicing procedure was
+used as in Experiment 3. As the splicing procedure involved new tokens, the durations of the critical consonants
+were different (see Table 1). Filler and practice trials and
+experimental lists were created in the same way as before.
+The procedure was also the same.
+Results and discussion
+The overall percentage of errors (outliers as defined in
+Experiment 1, plus wrong and missed responses) was
+9.38%. Mean RTs and error rates are shown in Table 6. RTs
+and accuracy were initially fitted as a function of the same
+initial predictors as in Experiments 1 and 3. In the RT analysis, the removal of the non-significant predictors consonant
+type and consonant duration did not result a significant loss
+
+of fit (v2(6) = 0.00, p = 1). The reduced model explained the
+data as a function of prime condition and target frequency
+(F(1, 1155) = 20.42, p < .001), with random intercepts for
+participants (v2(1) = 169.25, p < .001) and items (v2(1) =
+95.21, p < .001) and by-participant random slopes for the
+rank of the stimulus (v2(1) = 14.06, p < .001). As reported
+in Table 3, results patterned as in Experiment 1. RTs were
+faster after related primes than after unrelated primes
+(control vs. geminates, mean difference = 64 ms, 95%CI =
+21 ms; control vs. initial singletons, mean difference =
+28 ms, 95%CI = 23 ms; control vs. medial singletons, mean
+difference = 21 ms, 95%CI = 25 ms) and after primes with
+geminates than after primes with singletons (geminates
+vs. initial singletons, mean difference = 36 ms, 95%CI =
+24 ms; geminates vs. medial singletons, mean difference = 43 ms, 95%CI = 24 ms). As in Experiments 1 and 2,
+no difference was detected between the medial and initialsingleton conditions (initial vs. medial singletons, mean difference = 8 ms, 95%CI = 18 ms).
+Correct responses were also equally well fitted by a simpler
+model (v2(8) = 8.74, p = .37), as a function of prime condition
+(F(1, 1274) = 3.49, p < .05), stimulus rank (F(1, 1274) = 3.59,
+p = .06) and target frequency (F(1, 1274) = 11.66, p < .001), with
+a random intercept for items (v2(1) = 31.04, p < .001); participants, consonant type and consonant duration were non-significant predictors in the full model. The simpler model revealed
+more accurate responses after primes with geminates than after
+control primes (z = 3.12, p < .01), primes with medial singletons
+(z = 2.13, p < .05) and initial singletons (z = 2.40, p < .05).
+Responses were equally accurate in all the other conditions.
+Regression analyses indicated that the durational differences of the spliced consonants in the prime fragments predicted the priming effects as a function of the contrasted
+conditions and the type of consonant (F(2, 84) = 3.49,
+p = .03). Further regression for each contrasted condition revealed a reliable interaction between the effect of duration
+and type of consonant only in the case of singletons: durational differences between initial and medial unrestricted
+singletons predicted differences in RTs (t(14) = 2.24,
+b = 4.50, p = .04), but not those between restricted singletons (t(14) = 0.61, b = 0.67, p = .55). Neither the effects
+of duration and type of consonants nor their interaction
+were reliable in the regression for the other conditions.
+
+Fig. 4. Priming effects for experimental items of Experiment 3, plotted as a function of the durational differences of the spliced consonants and the
+contrasted experimental conditions (type of consonant neither had an effect nor interacted with the durational effect).
+
+319
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+These results confirm the results obtained in Experiment 2,
+in which only unrestricted consonants were presented and
+in which regression analyses showed a strong trend for the
+effects of durational differences between medial and initial
+singletons.
+The results of Experiment 4 are consistent with those of
+Experiment 1. The difference between Experiments 1 and 3
+(an effect of singleton duration in the main analysis only in
+the latter case) therefore cannot be attributed to differences in materials or tasks.
+General discussion
+Four cross-modal priming experiments support the
+hypothesis that Italians rely on segment duration for
+``what" functions (i.e., to identify consonants as either
+geminates or singletons) and ``where" functions (i.e., to locate consonants in the speech stream). There were strong
+effects of consonant identity and weaker effects of consonant location.
+With respect to consonant identity, spoken primes containing geminate consonants (words or fragments of those
+words) facilitated the recognition of visual versions of those
+words more than primes which were identical except that
+they contained the singleton variants of the geminates
+(Experiments 1, 2 and 4). In addition, fragments of spoken
+words with singletons - but not those with the equivalent
+geminates - primed recognition of visual versions of the singleton-bearing words (Experiment 3). These findings are
+consistent with previous demonstrations that differences
+involving a single phoneme change strongly impact spoken-word recognition (Connine, Blasko, & Titone, 1993;
+Connine, Titone, Deelman, & Blasko, 1997; Marslen-Wilson
+& Zwitserlood, 1989). They suggest that Italian listeners detect the phonemic contrast between singleton and geminate
+consonants, which is cued by a large durational difference,
+and use that contrast to recognize words.
+These findings also provide a baseline against which we
+could measure whether more subtle differences in consonant duration can also be used by Italian listeners to locate
+consonants. Regression analyses in each experiment
+showed that word recognition in Italian is modulated by
+the size of the durational difference between consonants.
+It is important to note that these analyses support the
+claim that it was the duration of the spliced consonants
+(rather than some other acoustic-phonetic detail) which
+was responsible for the observed effects. If other types of
+acoustic-phonetic information were responsible, they
+would have to be strongly correlated with durational differences. It seems more parsimonious to conclude, on the
+basis of the available evidence, that it is duration which
+
+is the driving force behind these effects. With respect to
+the recognition of words containing geminates, sensitivity
+to degree of durational difference was limited to words
+with unrestricted consonants (i.e., those which can appear
+in initial, medial and, critically, final position). The regressions in Experiments 1, 2 and 4 thus suggest that the duration of a geminate is particularly important when it signals
+the consonant's likely position, as a (word-internal) true
+geminate or a (word-edge) false geminate. Regression
+analyses in Experiment 3 showed that, for words containing singletons, Italians were sensitive to the size of the
+durational differences among both unrestricted and restricted consonants. Furthermore, the mixed-model analysis in Experiment 3 detected that, for low-frequency
+targets (again with consonants of both types), responses
+after primes with (shorter) medial singletons were faster
+than after primes with (longer) initial singletons. These results indicate that Italian listeners are also sensitive to differences in singleton duration.
+Differential sensitivity to consonant duration
+We observed several differences in the degree to which
+Italians are sensitive to consonant duration. First, and
+unsurprisingly, the large durational differences which signal segment identity had larger effects than the smaller
+differences which signal segment location. This was to be
+expected not only because of the larger physical difference
+in the former case (see Table 1) but also because of the
+greater informational value of the segmental difference:
+the contrast between a geminate and a singleton may be
+the only way in which words are distinguished (as, e.g.,
+in the fatto/fato case), whereas segment location can be signaled in other ways (e.g., via cues to the location of neighboring segments). Second, and more interestingly, it
+appears that consonant duration in Italian is not used as
+a binary or categorical cue to the geminate/singleton distinction. Instead, as in other languages (e.g., Gow et al.,
+1995), graded differences in consonant duration appear
+to modulate word recognition in Italian.
+These conclusions may seem to be at odds with the idea
+that there are no prominent junctural phenomena in Italian
+(Bertinetto, 1981) and that only emphatic realizations can
+distinguish pairs like ``diversi/di versi", ``diverse/of verses",
+and ``allargo/al largo", ``[I] enlarge/in the offing" (Bertinetto,
+1981; Tabossi, Burani, & Scott, 1995). In his seminal study,
+Bertinetto (1981) asked participants to make forced-choice
+identifications of minimal pairs. The use of a task which requires meta-linguistic judgements may be why Bertinetto
+failed to detect reliable discrimination effects. Using an online methodology, Tabossi et al. (1995) observed that re-
+
+Table 6
+Experiment 4: average response times (ms, from target onset), standard deviations of correct responses and error rates.
+Prime condition
+
+Control
+Medial singleton
+Initial Singleton
+Geminate
+
+Overall
+
+Unrestricted targets
+
+Restricted targets
+
+Mean
+
+St. dev.
+
+Error (%)
+
+Mean
+
+St. dev.
+
+Error (%)
+
+Mean
+
+St. dev.
+
+Error (%)
+
+681
+661
+653
+617
+
+122
+106
+120
+126
+
+12.19
+9.69
+10.31
+5.31
+
+705
+671
+665
+632
+
+142
+119
+119
+142
+
+15.63
+13.13
+13.13
+3.75
+
+657
+649
+639
+602
+
+127
+122
+137
+127
+
+8.75
+6.25
+7.50
+6.88
+
+320
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+sponses to visual targets like PARENTI (e.g., relatives) were
+facilitated after hearing an associate (e.g., visite, ``visits"),
+even when this associate was realized as a spurious lexical
+embedding (e.g., in visi te[diati], ``faces bored"). This suggests
+that unintended words, even those straddling word boundaries, are temporarily considered during word recognition,
+and hence that, in Italian, cues that signal word boundaries
+are not reliably present at every word boundary. Similarly
+to Tabossi et al., we found reliable priming from words spanning word boundaries, both for targets with geminates after
+primes with lexical and false geminates, and for targets with
+singletons after primes with medial and initial singletons.
+For example, upon hearing la la (from la ladra) listeners appeared to entertain the parsing l'alano. But we used repetition priming, which provides a more sensitive measure
+than associative priming of the lexical hypotheses which
+are being considered by the listener (Donselaar et al.,
+2005; Norris, Cutler, McQueen, & Butterfield, 2006). We
+could therefore also observe the effect of positional contrasts in the recognition of words with singletons. For instance, the recognition of alano was more facilitated by a
+fragment containing a medial singleton (l'ala from l'alano)
+than by a fragment with an initial singleton (la la from la ladra). The present data therefore do not contradict those of
+Tabossi et al. (1995). Instead, they extend those findings
+by showing that, with a more sensitive measure, it is possible to observe that Italian listeners are able to use fine phonetic details in lexical access. Such details seem not strong
+enough to block access of unintended words (e.g., visite in
+visi tediati), but can nevertheless modulate recognition.
+A further difference in degree of sensitivity to consonant
+duration is that the positional effect was stronger for singletons than for geminates. Specifically, although there were
+effects of differences in geminate duration in the regression
+analyses, no such effects were found in the factorial analyses. In contrast, there was an effect of singleton duration
+(stronger priming from shorter medial singleton primes
+than from longer initial singleton primes) in the factorial
+analysis in Experiment 3 (at least for the low-frequency targets). There are at least two reasons why positional effects
+are more likely to surface for singletons than for geminates.
+First, the durational contrast is proportionally larger for the
+singletons (see Table 1). Although in absolute terms the initial/medial singleton and true/false geminate differences
+are both very small, because singletons are overall so much
+shorter than geminates, the former difference is proportionally almost twice that of the latter difference.
+The second (potentially complementary) reason is that
+singleton duration may have greater informational value
+than geminate duration. Previous studies suggest that the
+influence of phonetic detail depends on the informational
+value that the details have for word discrimination in a given language (Ernestus & Mak, 2004; van Alphen & McQueen, 2006; Wagner et al., 2006). We have suggested that
+the geminate/singleton contrast in Italian may have greater informational value than differences within either of the
+two consonant classes. But positional differences within
+singletons may in turn be more important than those within geminates. For singletons, the contrast concerns restricted and unrestricted consonants, but for geminates it
+concerns only unrestricted consonants. It may thus be
+
+more useful for Italians to pay attention to subtle differences in singleton duration than in geminate duration.
+The final difference in sensitivity to durational differences
+that we observed is the one just mentioned: while there were
+effects for all types of singleton consonant, there were effects
+for unrestricted but not restricted geminates. Effects in
+Experiment 2 were necessarily limited to unrestricted consonants (because we included a false geminate condition
+only unrestricted consonants were tested). But in Experiments 1 and 4, effects of consonant duration on the recognition of words with geminates were found to be limited to the
+unrestricted consonants. It would appear that when a restricted geminate consonant is heard, its precise duration is
+uninformative. Such a consonant can only be a lexical geminate; it cannot be a false geminate. Thus, once it has been
+identified as a geminate (i.e., as not a singleton), its location
+(in word-medial position) is also determined, and subtle
+durational differences are not informative. In contrast, an
+unrestricted geminate could either be word internal (a true,
+lexical geminate) or at a word boundary (a false geminate). It
+appears that subtle durational differences are then relevant,
+and modulate word recognition accordingly.
+This last differential effect is important for our claim
+that consonant duration serves two functions in Italian
+word recognition: segment identification (``what") and lexical segmentation (``where"). One might argue that our
+findings concern only segment identification. Might it not
+be the case that Italian consonant duration signals only
+whether the consonant is a geminate or a singleton, but
+in a graded fashion? The results of Experiment 3 suggest
+that this is not the case for singletons. The few milliseconds
+of difference between the initial and medial singletons
+must be seen as subphonemic variation: the same singleton consonant (indeed, the same syllable-initial allophone)
+should be identified in both cases. What does differ, in a
+systematic way, is the likely location of those consonants.
+It seems reasonable to conclude that the positional differences in Italian singletons serve the purpose of lexical segmentation by indicating (in a probabilistic manner) where
+word boundaries are (or are not) likely to occur.
+The case for the geminates, however, is at first glance less
+convincing. One could make the argument that there is a
+segmental distinction between true and false geminates
+(at least an allophonic distinction). Specifically, perhaps lexical geminates are fundamentally different phonological
+units from those that arise at word boundaries as a result
+of post-lexical continuous speech production processes.
+On this view, differences in geminate duration could be seen
+as providing different degrees of support for (true) geminate
+consonants: longer consonants might simply be better
+geminates. But if this were the case, one would expect, contrary to what we observed, that both restricted and unrestricted consonants would be better geminates if they
+were longer. The fact that the durational effects for geminates were limited to the unrestricted consonants (i.e., those
+that can occur as false geminates) therefore suggests that
+what we are dealing with here is a single class of geminates
+(false and true alike), and that, as with the singletons, durational differences matter when they signal segment location
+(i.e., a false geminate at a boundary vs. a true word-medial
+geminate).
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+Statistical techniques
+The results of the mixed-effects modeling analyses were
+presented alongside those of more traditional analyses.
+With the exception of the positional effect in Experiment
+3, the analyses revealed the same patterns. This parallelism
+is reassuring with respect to the hopefully cumulative nature of psycholinguistic research. As mixed-effect modeling
+becomes more common, one concern might be that results
+based on those techniques cannot be compared with those
+based on traditional techniques. The present comparison
+suggests that this concern is unfounded. It also shows what
+the benefits of mixed-effect modeling are. Because multiple
+sources of variance can be included in the analysis it is possible to observe effects that would be lost in traditional averaging. In the present case, these were effects involving target
+frequency. The modeling repeatedly detected frequency effects, and in Experiments 1 and 3 frequency interacted with
+the priming effect. Frequency has a strong impact on lexical
+decisions (Forster & Chambers, 1973; Luce & Pisoni, 1998)
+and the observation that the advantage of repetition priming
+may vanish as frequency increases has often been reported
+(e.g., Duchek & Neely, 1989; Forster & Davis, 1984; Norris,
+1984; Rajaram & Neely, 1992). The frequency interaction
+in the present data would likely not have been investigated
+in an analysis that was based on the assumption of satisfactory counter-balancing of items and the use of averaged
+scores. Mixed-effect modeling, however, allowed us to include these effects, with the advantage that we could then
+detect priming effects that otherwise would have been
+passed over. In particular, failure to detect an effect of singleton duration in Experiment 3 would have led to different
+conclusions.
+What and where in Italian speech comprehension
+Consonant duration thus appears to serve both ``what"
+and ``where" functions in Italian speech recognition. This
+conclusion is in line with the parallel-processing proposal
+of Cho et al. (2007). According to that account, information
+relevant for phonemic contrasts is used to specify the speech
+signal's segmental content, while, in parallel, information
+relevant for suprasegmental structures is used to specify
+the signal's prosodic and intonational content. Segmental
+analysis could be accomplished using phonemic representations as, for instance, in Shortlist B (Norris & McQueen, 2008)
+and TRACE (McClelland & Elman, 1986). Suprasegmental
+analysis is considered to be achieved by a ``Prosody Analyzer". These two processes, though separate, are considered
+to be interdependent. Some aspects of the suprasegmental
+analysis should be informed by the segmental analyses
+(e.g., ``determination of durational cues to prosodic structure could depend on knowledge about the intrinsic duration of specific segments," Cho et al., 2007, p. 234).
+In the case of Italian consonants, duration could be used,
+probabilistically, in the segmental analysis process. Longer
+consonants would tend to increase support for geminates
+(and hence for words containing geminates), and shorter
+consonants would tend to increase support for singletons
+(and hence for words containing singletons). But duration
+would also influence suprasegmental analysis (i.e., the oper-
+
+321
+
+ation of the Prosody Analyzer), which, together with input
+from segmental analysis about segmental identity, could
+specify whether a given consonant (geminate or singleton)
+is more likely to be initial or medial. This information about
+the location of likely word boundaries, through the operation of the PWC (Norris et al., 1997), could then influence
+the competition process which underlies word recognition
+and lexical segmentation.
+The relative strength of the positional effect for different sets of consonants supports the hypothesized interdependence of the segmental and suprasegmental processes.
+For instance, positional effects for singletons tend to be
+stronger than those for geminates since the location of
+word boundaries tends to be more informative for words
+with singletons than for words with geminates. In particular, for a word with a restricted geminate, segmental analysis would strongly constrain the lexical search, with little
+room for an additional role for the Prosody Analyzer. Similarly, variation in the duration of a singleton will tend to
+have little effect on the recognition of words with geminates. But variation in unrestricted geminate duration
+influences the recognition of words with unrestricted
+geminates, and variation in singleton duration influences
+recognition of words with singletons because in both of
+these cases the Prosody Analyzer has a greater role to play.
+This study could well have revealed that consonant
+duration in Italian influences only segmental identification
+(i.e., that it has only a ``what" function). But this is not what
+was found. In spite of its importance for geminate/singleton ``what" decisions, consonant duration also has a (more
+constrained) ``where" function in Italian. Our proposal,
+therefore, is that the word-recognition system is tuned to
+the relevance, in particular languages, of specific phonetic
+details not only for word discrimination but also for lexical
+segmentation.
+Acknowledgments
+This research was supported by a MOVE SCIENCE (Mobility and Orientation Towards Europe) Fellowship (ERDiSU
+and Fondazione CRTrieste - AREA Science Park) and an individual grant from Programma Operativo Regionale (Obiettivo 3 - Fondo Sociale Europeo 2000-2006, Asse D, Misura
+D4) della Regione Autonoma Friuli Venezia Giulia (Italy) to
+the first author. We would like to thank Harald Baayen, Anne
+Cutler, Francesca Pedron and Massimo Rimondini for their
+valuable support and input to this project, Patrizia Tabossi
+for making laboratory facilities available for running these
+experiments, and Patrizia Tabossi and three anonymous
+reviewers for their constructive comments.
+Appendix
+Experiment 1
+Targets with unrestricted consonants
+allarme (alarm), allieva (pupil), alloro (laurel), allungo
+(spurt), ellisse (oval), illusi (dreamers), annata (year), annoso (age-old), innesco (trigger), innocuo (innocuous),
+arredo (furniture), arresto (arrest), arringa (speech), arrosto (roast), errore (error), orrore (horror).
+
+322
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+
+Targets with restricted consonants
+abbozzo (outline), accento (accent), addome (abdomen),
+effetto (effect), aggancio (hook), agguato (ambush), acconto
+(deposit), accusa (charge), ammasso (pile), ammenda
+(amend), appalto (contract), appello (roll call), attacco (attack), attore (actor), avvento (advent), avviso (notice).
+Experiment 2
+allaccio (noose), allarme (alarm), allegra (happy), allele
+(allele), allerta (alert), allieve (pupils), allocco (fool), alloggio (accomodation), alloro (laurel), allungo (spurt), illeso
+(uninjured), arredo (furnishings), arresto (arrest), arringa
+(speech), arrivo (finish), arrosto (roast), collane (necklaces),
+collanti (adhesives), collare (collar), collasso (collapse), collaudo (test), collega (colleague), collegi (boards), collette
+(collection), colletto (collar), colline (hills), collirio (eyedrops), colloquio (conversation), colloso (sticky), marrone
+(brown).
+Experiment 3
+Targets with unrestricted consonants
+alano (Great Dane), aliena (alien), alone (ring), alunno
+(student), dilemmi (dilemmas), diluvio (downpour), analisi
+(analysis), anello (ring), anonimo (anonymous), inerzia
+(inertia), inetto (inept), arena (arena), aringa (herring), aroma (aroma), erario (tax), eroe (hero).
+Targets with restricted consonants
+abate (abbot), acerbo (unripe), aceto (vinegar), adone
+(adonis), efelide (freckle), agenda (planner), aguzzo (sharp),
+acuto (acute), apatico (apathetic), aperta (open), Apollo
+(Apollo), datata (dated), Atene (Athens), latino (Latin), atollo
+(atoll), avena (oat).
+Experiment 4
+Targets with unrestricted consonants
+allarme (alarm), allieva (student), alloro (laurel), allungo
+(spurt), illesi (uninjured), illusi (dreamers), annata (year),
+annesso (attached), annosa (age-old), innesco (trigger), innesti (grafts), arredo (furnishings), arringa (speech), arrosto
+(roast), errato (wrong), errore (error).
+Targets with restricted consonants
+abbacchio (baby lamb), accenno (inkling), accento (accent), addome (abdomen), effetto (effect), aggeggio (device),
+agguato (ambush), accusa (charge), appalto (contract), appello (roll call), appoggio (support), attacco (attack), attesa
+(wait), attivo (assets), attore (actor), avvento (arrival).
+References
+Agostiniani, L. (1992). Su alcuni aspetti del `rafforzamento sintattico' in
+Toscana e sulla loro importanza per la qualificazione del fenomeno in
+generale. Quaderni del Dipartimento di Linguistica dell'Universita degli
+Studi (vol. 3). University of Florence. pp. 1-28.
+Andruski, J. E., Blumstein, S. E., & Burton, M. (1994). The effect of
+subphonetic differences on lexical access. Cognition, 52, 163-187.
+Baayen, R. H. (2008). Analyzing linguistic data. A practical introduction to
+statistics using R. Cambridge University Press.
+
+Baayen, R. H., Davidson, D. J., & Bates, D. M. (2008). Mixed-effects
+modeling with crossed random effects for subjects and items. Journal
+of Memory and Language, 59, 390-412.
+Bates, D. M. (2007). Lmer: Linear mixed-effects models using S4 classes. R
+package version 0.99875-9.
+Bertinetto, P. M. (1981). Strutture prosodiche dell'italiano. Firenze:
+Accademia della Crusca.
+Bertinetto, P. M., & Loporcaro, M. (2005). The sound pattern of Standard
+Italian, as compared with the varieties spoken in Florence, Milan and
+Rome. Journal of the International Phonetic Association, 35, 131-151.
+Bertinetto, P. M., & Vivalda, E. (1978). Recherches sur la perception des
+oppositions de quantite en italien. Journal of Italian Linguistics, 3,
+97-116.
+Cho, T., McQueen, J. M., & Cox, E. (2007). Prosodically driven phonetic
+detail in speech processing: The case of domain-initial strengthening
+in English. Journal of Phonetics, 35, 210-243.
+Christophe, A., Peperkamp, S., Pallier, C., Block, E., & Mehler, J. (2004).
+Phonological phrase boundaries constrain lexical access: I. Adult data.
+Journal of Memory and Language, 51, 523-547.
+Clark, H. H. (1973). The language-as-fixed-effect fallacy: A critique of
+language statistics in psychological research. Journal of Verbal
+Learning and Verbal Behavior, 12, 335-359.
+Connine, C. M., Blasko, D. G., & Titone, D. (1993). Do the beginnings of
+spoken words have a special status in auditory word recognition.
+Journal of Memory and Language, 32, 193-210.
+Connine, C. M., Titone, D., Deelman, T., & Blasko, D. (1997). Similarity
+mapping in spoken word recognition. Journal of Memory and
+Language, 37, 463-480.
+Cutler, A., & Norris, D. (1988). The role of strong syllables in segmentation
+for lexical access. Journal of Experimental Psychology: Human
+Perception and Performance, 14, 113-121.
+Donselaar, W. van., Koster, M., & Cutler, A. (2005). Exploring the role of
+lexical stress in lexical recognition. Quarterly Journal of Experimental
+Psychology, 58A, 251-273.
+Duchek, J. T., & Neely, J. H. (1989). A dissociative word-frequency X levelsof-processing interaction in episodic recognition and lexical decision
+tasks. Memory & Cognition, 17, 148-162.
+Ernestus, M., & Mak, W. M. (2004). Distinctive phonological features differ
+in relevance for both spoken and written word recognition. Brain and
+Language, 90, 378-392.
+Fanciullo, F. (1986). Syntactic reduplication and the Italian dialects of the
+Centre-South. Journal of Italian Linguistics, 8, 67-104.
+Finocchiaro, C., & Bertinetto, P. M. (2003). A syllable induction study on Italian.
+In E. Magno Caldognetto, P. Cosi, & A. Zamboni (Eds.), Voce, Canto e Parlato,
+Studi in onore di Franco Ferrero (pp. 157-162). Padova: Unipress.
+Forster, K. I., & Chambers, S. M. (1973). Lexical access and naming time.
+Journal of Verbal Learning and Verbal Behavior, 15, 135-142.
+Forster, K. I., & Davis, C. (1984). Repetition priming and frequency
+attenuation in lexical access. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 10, 680-698.
+Forster, K. I., & Dickinson, R. G. (1976). More on the language-as-fixed
+effect: Monte-Carlo estimates of error rates for F1, F2, F0 , and min F0 .
+Journal of Verbal Learning and Verbal Behavior, 15, 135-142.
+Gaskell, M. G., & Marslen-Wilson, W. D. (1997). Integrating form and
+meaning: A distributed model of speech perception. Language and
+Cognitive Processes, 12, 613-656.
+Goldinger, S. D. (1998). Echoes of echoes? An episodic theory of lexical
+access. Psychological Review, 105, 251-279.
+Goldsmith, J. A. (1990). Autosegmental and metrical phonology. Oxford:
+Blackwell.
+Gow, D. W., Jr., & Gordon, P. C. (1995). Lexical and prelexical influences on
+word segmentation: Evidence from priming. Journal of Experimental
+Psychology: Human Perception and Performance, 21, 344-359.
+Istituto di Linguistica Computazionale del CNR (1989). Corpus di
+Barcellona. Pisa: ILC.
+Klatt, D. H. (1979). Speech perception: A model of acoustic-phonetic
+analysis and lexical access. Journal of Phonetics, 7, 279-312.
+Loporcaro, M. (1997). L'origine del raddoppiamento fonosintattico. Basel:
+Francke Verlag.
+Luce, P. A., Goldinger, S. D., Auer, E. T., Jr., & Vitevitch, M. S. (2000).
+Phonetic priming, neighborhood activation, and PARSYN. Perception &
+Psychophysics, 62, 615-625.
+Luce, P. A., & Pisoni, D. B. (1998). Recognizing spoken words: The
+neighborhood activation model. Ear & Hearing, 19, 1-36.
+Marotta, G. (1986). Rhythmical constraints on syntactic doubling. Journal
+of Italian Linguistics, 8, 35-52.
+Marslen-Wilson, W., & Zwitserlood, P. (1989). Accessing spoken words:
+The importance of word onsets. Journal of Experimental Psychology:
+Human Perception and Performance, 15, 576-585.
+
+L. Tagliapietra, J.M. McQueen / Journal of Memory and Language 63 (2010) 306-323
+Mattys, S. L., White, L., & Melhorn, J. F. (2005). Integration of multiple
+speech segmentation cues: A hierarchical framework. Journal of
+Experimental Psychology: General, 134, 477-500.
+McClelland, J. L., & Elman, J. L. (1986). The TRACE model of speech
+perception. Cognitive Psychology, 18, 1-86.
+McQueen, J. M. (1998). Segmentation of continuous speech using
+phonotactics. Journal of Memory and Language, 39, 21-46.
+McQueen, J. M. (2007). Eight questions about spoken word recognition. In
+G. M. Gaskell (Ed.), The Oxford handbook of psycholinguistics
+(pp. 37-53). Oxford: Oxford University Press.
+Muljacic, Z. (1972). Fonologia della lingua italiana. Bologna: Il Mulino.
+Nespor, M., & Vogel, I. (1986). Prosodic Phonology. Dordrecht: Foris
+Publications.
+Norris, D. (1984). The effects of frequency, repetition, and stimulus
+quality in visual word recognition. Quarterly Journal of Experimental
+Psychology, 36A, 507-518.
+Norris, D. (1994). Shortlist: A connectionist model of continuous speech
+recognition. Cognition, 52, 189-234.
+Norris, D., Cutler, A., McQueen, J. M., & Butterfield, S. (2006). Phonological
+and conceptual activation in speech comprehension. Cognitive
+Psychology, 53, 146-193.
+Norris, D., & McQueen, J. M. (2008). Shortlist B: A Bayesian model of
+continuous speech recognition. Psychological Review, 115, 357-395.
+Norris, D., McQueen, J. M., Cutler, A., & Butterfield, S. (1997). The possibleword constraint in the segmentation of continuous speech. Cognitive
+Psychology, 34, 191-243.
+Payne, E. M. (2005). Phonetic variation in Italian consonant gemination.
+Journal of the International Phonetic Association, 35, 153-181.
+Pickett, E. R., Blumstein, S. E., & Burton, M. W. (1999). Effects of speaking
+rate on the singleton/geminate consonant contrast in Italian.
+Phonetica, 56, 135-157.
+
+323
+
+Pinheiro, J. C., & Bates, D. M. (2000). Mixed-effects models in S and S-PLUS.
+New York: Springer.
+Quene, H. (1992). Durational cues for word segmentation in Dutch.
+Journal of Phonetics, 20, 331-350.
+Raaijmakers, J. G. W., Schrijnemakers, J. M. C., & Gremmen, F. (1999). How
+to deal with ``the language-as-fixed-effect-fallacy": Common
+misconceptions and alternative solutions. Journal of Memory and
+Language, 41, 416-426.
+Rajaram, S., & Neely, J. H. (1992). Dissociative masked repetition
+priming and word frequency effects in lexical decision and
+episodic recognition tasks. Journal of Memory and Language, 31,
+152-182.
+Salverda, A. P., Dahan, D., & McQueen, J. M. (2003). The role of prosodic
+boundaries in the resolution of lexical embedding in speech
+comprehension. Cognition, 90, 51-89.
+Shatzman, K. B., & McQueen, J. M. (2006). Segment duration as a cue to
+word boundaries in spoken-word recognition. Perception &
+Psychophysics, 68, 1-16.
+Spinelli, E., McQueen, J. M., & Cutler, A. (2003). Processing resyllabified
+words in French. Journal of Memory and Language, 48, 233-254.
+Tabossi, P., Burani, C., & Scott, D. (1995). Word identification in fluent
+speech. Journal of Memory and Language, 34, 440-467.
+Tabossi, P., Collina, S., Mazzetti, M., & Zoppello, M. (2000). Syllables in the
+processing of spoken Italian. Journal of Experimental Psychology:
+Human Perception and Performance, 26, 758-775.
+van Alphen, P. M., & McQueen, J. M. (2006). The effect of voice onset time
+differences on lexical access in Dutch. Journal of Experimental
+Psychology: Human Perception and Performance, 32, 178-196.
+Wagner, A. E., Ernestus, M. T. C., & Cutler, A. (2006). Formant transitions in
+fricative identification: The role of native fricative inventory. Journal
+of the Acoustical Society of America, 120, 2267-2277.
+
+

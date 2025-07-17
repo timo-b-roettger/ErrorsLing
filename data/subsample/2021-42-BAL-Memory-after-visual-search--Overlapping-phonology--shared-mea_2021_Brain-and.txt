@@ -1,0 +1,2323 @@
+Brain & Language 222 (2021) 105012
+
+Contents lists available at ScienceDirect
+
+Brain and Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Memory after visual search: Overlapping phonology, shared meaning, and
+bilingual experience influence what we remember
+Viorica Marian a, Sayuri Hayakawa a, *, Scott R. Schroeder b
+a
+b
+
+Department of Communication Sciences and Disorders, Northwestern University, 2240 North Campus Drive, Evanston, IL 60208, United States
+Department of Speech, Language, Hearing Sciences, Hofstra University, 110, Hempstead, NY 11549, United States
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Bilingualism
+Individual differences
+Language experience
+Visual memory
+Visual world paradigm
+Phonological overlap
+Semantic overlap
+Visual search
+Object memory
+
+How we remember the things that we see can be shaped by our prior experiences. Here, we examine how lin
+guistic and sensory experiences interact to influence visual memory. Objects in a visual search that shared
+phonology (cat-cast) or semantics (dog-fox) with a target were later remembered better than unrelated items.
+Phonological overlap had a greater influence on memory when targets were cued by spoken words, while se
+mantic overlap had a greater effect when targets were cued by characteristic sounds. The influence of overlap on
+memory varied as a function of individual differences in language experience - greater bilingual experience was
+associated with decreased impact of overlap on memory. We conclude that phonological and semantic features of
+objects influence memory differently depending on individual differences in language experience, guiding not
+only what we initially look at, but also what we later remember.
+
+1. Introduction
+In our daily lives, we frequently rely on our ability to locate specific
+objects in complex visual scenes. In addition to internally-motivated
+search tasks (e.g., looking for a landmark while driving), visual search
+can be prompted by external stimuli, including linguistic instructions (e.
+g., "watch out for that car") and environmental sounds (e.g., a car horn).
+These examples illustrate the multimodal nature of visual search, which
+often involves access to not only visual representations stored in longterm memory, but also other associated attributes, including semantic,
+auditory, and linguistic features of a target object.
+Evidence of such multimodal activation can be found using the Vi
+sual World Paradigm (VWP), during which individuals are prompted to
+look for a target among a set of visual objects. Eye-tracking reveals that
+individuals often make visual fixations toward objects that are visually,
+semantically, or linguistically similar to targets, indicating that objects
+in a visual scene activate multiple levels of associated representations
+(see Huettig, Rommers & Meyer, 2011 for a review). Though the impact
+of cross-modal interactions on visual perception and attention has been
+well established (Huettig & McQueen, 2007; Iordanescu, Grabowecky,
+& Suzuki, 2011; Marian & Spivey, 2003a,b; Salverda & Altmann, 2011;
+Talsma, Senkowski, Soto-Faraco, & Woldorff, 2010; Tanenhaus, SpiveyKnowlton, Eberhard, & Sedivy, 1995), including the influence of task-
+
+related variables (e.g., language context; Marian & Spivey, 2003a, b)
+and individual differences (e.g., bilingual experience; Blumenfeld &
+Marian, 2007; Canseco-Gonzalez et al., 2010; Mercier, Pivneva, &
+Titone, 2014), relatively less is known about the potential downstream
+consequences for long-term memory.
+The aims of the present study were twofold: first, to examine whether
+semantic and phonological competition during visual search impacts
+how well objects are later remembered, and second, to explore contex
+tual and individual moderators, with a particular emphasis on the
+impact of bilingual language experiences such as acquisition, exposure,
+and proficiency.
+1.1. Memory retrieval in visual search
+Visual search and the mechanisms underlying how cross-modal in
+puts interact to elicit fixations to visual targets (as well as their semantic
+and phonological associates) involve a combination of bidirectional
+sensory, attentional, and memory processes. Visual attention can be
+guided by bottom-up, stimulus-driven processes (e.g., the perceptual
+salience of objects in a visual scene; e.g., Itti & Koch, 2000, 2001), as
+well as top-down, observer-driven influences such as task goals and in
+ternal representations retrieved from and maintained in memory (Bahle
+et al., 2020; Bravo & Farid, 2014; Cowan, 1998; Kerzel, 2019; van Loon,
+
+* Corresponding author.
+E-mail address: sayuri.hayakawa@northwestern.edu (S. Hayakawa).
+https://doi.org/10.1016/j.bandl.2021.105012
+Received 11 February 2021; Received in revised form 19 July 2021; Accepted 19 August 2021
+Available online 28 August 2021
+0093-934X/(c) 2021 Published by Elsevier Inc.
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+Olmos-Solis, & Olivers, 2017; see Wolfe, 2020 for review). According to
+biased competition models of visual search (e.g., Desimone & Duncan,
+1995; Duncan & Humphreys, 1989), objects in a visual scene compete
+for representation and control in the visual cortex, and representations
+held in working memory (WM; i.e., "attentional templates") can be used
+to bias visual and attentional processing towards those that are most
+relevant to the task at hand. For instance, Chelazzi et al. (1998) found
+that after cuing monkeys with a target image, cells in the inferior tem
+poral cortex (an area associated with object recognition) tuned to
+properties of the target produced stronger responses than those of
+non-targets once the search display was presented.
+Similar evidence of anticipatory sensory enhancement has been
+found when humans are cued, not with the visual target itself, but with a
+symbol representing the object category (e.g., representing "people" or
+"cars"; Peelen & Kastner, 2011). Preparing to respond to a familiar
+category elicited category-specific patterns of neural activation in the
+object-selective visual cortex, which subsequently facilitated detection
+of previously unseen category exemplars. In addition to demonstrating
+that representations held in WM can bias visual competition toward
+corresponding inputs, these findings show that representations stored in
+long-term memory (LTM; e.g., previously learned conceptual categories)
+can be used to enhance processing of related stimuli. At the behavioral
+level, biased competition elicits preferential fixations to possible targets
+(Chelazzi et al., 1998), which can subsequently increase the resolution
+of visual representations and facilitate the process of matching them to
+internal target representations.
+Though the term "top-down" is often associated with volitional and
+effortful control, observer-driven influences can also operate implicitly,
+such as when attention is guided by a previously seen visual prime (e.g.,
+Huang, Holcombe, & Pashler's (2004) Episodic Theory of Priming in Visual
+Search) or the cascaded activation of task-irrelevant object features
+stored in LTM (e.g., phonological and semantic information; see Huettig
+& McQueen's 2007 Cascaded-Activation Model of language-vision in
+teractions). Critically for the present investigation, the processing of
+visual scenes can be influenced by the activation of cross-modal repre
+sentations stored in memory (e.g., spoken words, environmental
+sounds), which can guide attention to facilitate or interfere with visual
+search depending on whether they overlap with target or non-target
+objects in the display (Iordanescu et al., 2011; Marian & Spivey,
+2003a,b; Salverda & Altmann, 2011). Here too, WM is thought to play a
+key role in directing attention and eye-movements by binding activated
+representations to each other and to particular locations (see Huettig,
+Olivers, & Hartsuiker, 2011; Wolfe, 2021). The retrieval and mainte
+nance of WM and LTM traces thus play a significant role in guiding vi
+sual attention and search.
+
+reflect implicit learning, as memory-based facilitation is often observed
+despite chance performance on explicit recognition tests (Chun &
+Nakayama, 2000). Other studies have found, however, that objects and
+scenes viewed during visual search are later recognized above chance
+(Beck, Peterson, Boot, Vomela, & Kramer, 2006; Castelhano & Hen
+derson, 2005; Hollingworth & Henderson, 2002; Hout & Goldinger,
+2010; Lavelle et al., 2021) and to varying degrees depending on simi
+larity to the target (Thomas & Williams, 2014; Williams et al., 2005,
+2009; Williams, 2010). Williams, Henderson, and Zacks (2005) found
+that, following a conjunction search task with written target cues (e.g.,
+"white telephone"), recognition of target images exceeded that of
+category-matched distractors (e.g., a blue telephone) and color-matched
+distractors (e.g., a white pipe), which were in turn recognized more
+often than unrelated distractors (e.g., a green wallet). Explicit memory
+for distractors additionally appears to be associated with the duration of
+time spent fixating the objects (Hout & Goldinger, 2012; Lavelle, Alonso,
+Luria, & Drew, 2021), which tends to increase with greater similarity to
+the target (Becker, 2011; Williams, 2010).
+Together, these findings indicate that irrelevant objects viewed
+during visual search can be incidentally encoded into LTM, and that the
+strength of encoding increases with similarity to the target. To date,
+however, the majority of existing studies have either tested memory for
+unrelated distractors or manipulated dimensions of visual similarity (e.
+g., shape or color, as in Williams et al., 2005, 2009). Therefore, while
+there is evidence that visual relationships between objects influence
+incidental encoding, little is known regarding potential interactions
+with the linguistic system and representations retrieved from memory
+(such as object labels and meanings), or the incidental encoding of visual
+objects in response to cross-modal inputs (e.g., auditory target cues).
+Similarly, while there has been significant interest in understanding the
+role of individual differences in guiding visual search (including lan
+guage experience, e.g., Blumenfeld & Marian, 2011, and domain-general
+cognitive function, e.g., WM; Huettig & Janse, 2016), much less is
+known regarding the impact of prior language experience on incidental
+encoding of visual objects. The present study therefore examines how
+memory for previously seen objects is moderated by the type of com
+petitors encountered during visual search (semantic vs. phonological),
+the type of auditory input used to cue the target (spoken words vs.
+environmental sounds), and individual differences in bilingual
+experience.
+1.3. Auditory cues and visual search
+When searching for a visual object (such as a picture, letter, or
+number), hearing a corresponding auditory cue can facilitate its iden
+tification and localization (Chen & Spence, 2010; Iordanescu, Grabo
+wecky, Franconeri, Theeuwes, & Suzuki, 2010; Iordanescu et al., 2011;
+Lupyan, 2008; Lupyan & Spivey, 2010). According to functional (Ior
+danescu et al., 2011; Lupyan, 2012; Lupyan, 2007) and structural (Chen
+& Spence, 2011) accounts, the interactive effects of auditory and visual
+inputs arise from converging activation of object features across multi
+ple levels of representation. Hearing a spoken word (e.g., "cat") or
+environmental sound (e.g., "meow") can activate associated linguistic
+and semantic information (e.g., the word and concept of a cat) stored in
+LTM, as well as visual features of the cued object (e.g., ears, tail, whis
+kers). When combined with bottom-up activation stemming from the
+visual scene itself, an auditory input's top-down activation of visual
+features can strengthen the perceptual salience of the cued object and
+draw visual attention toward its location. Patterns of cascading and
+converging activation could similarly account for why individuals often
+make visual fixations toward objects that share semantic features with a
+cued target (e.g., to a picture of a bone when cued with the word "dog"),
+as well as toward objects whose labels sound similar (e.g., a picture of a
+"doctor" when cued with "dog"; Allopenna, Magnuson, & Tanenhaus,
+1998; Huettig & McQueen, 2007; Yee & Sedivy, 2006). Indeed,
+linguistically-based competition has been observed even during entirely
+
+1.2. Memory encoding during visual search
+There is now convincing evidence that visual search can be influ
+enced by features of earlier trials, indicating that information regarding
+previously seen objects and their visual contexts are encoded to some
+form of memory during the search task itself. For instance, when search
+displays are repeated, participants are able to exploit memory for tar
+gets' previous locations (Chun & Nakayama, 2000; Shore & Klein,
+2000), as well as the locations and identities of paired distractor objects
+to facilitate subsequent performance (i.e., a contextual cueing effect;
+Chun & Jiang, 1998, 1999; cf. Horowitz & Wolfe, 1998). Neurophysi
+ological and brain imaging studies indicate that such contextual cueing
+effects are supported by neural regions implicated in LTM function (e.g.,
+the medial temporal lobe and hippocampus; Chun & Phelps, 1999;
+Greene et al., 2007), as well as cortical areas associated with visual
+attention (Giesbrecht, Sy, & Guerin, 2013; Kasper et al., 2015; Olson,
+Chun, & Allison, 2001).
+Though the medial temporal lobe and hippocampus have tradition
+ally been thought to support explicit, declarative memory (e.g., Mos
+covitch et al., 2006), contextual cuing effects are generally believed to
+2
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+bilingual and monolingual participants complete a simple lexical se
+lection task identifying which of two images corresponded to a simul
+taneously presented auditory word (e.g., "monkey"). While semantic
+overlap (e.g., pictures of a monkey and a gorilla) resulted in slower RTs
+for both bilinguals and monolinguals, there were distinct patterns of
+event-related potentials (ERPs) depending on language background.
+Specifically, the authors looked at the N400 component, which is sen
+sitive to semantic incongruities and is typically reduced in response to
+semantically-related stimulus pairs compared to unrelated stimuli
+(Kutas & Federmeier, 2011); the reduced N400 negativity in response to
+related pairs has therefore been interpreted as an index of semantic
+integration (Holcomb & McPherson, 1994). Friesen et al. (2016) found
+that while monolinguals showed the expected N400 attenuation in
+response to semantically-related pictures (compared to unrelated pic
+tures), no such effect was observed for bilinguals, leading the authors to
+propose that the greater number of lexical candidates that must be
+considered by bilinguals reduces (or perhaps delays) integration of se
+mantic representations. We propose that such differences at early stages
+of phonological and semantic processing could go on to affect long-term
+memory, such that overlap between targets and competitors during
+encoding may have a less notable influence on subsequent memory for
+those who have substantial knowledge of and experience with multiple
+languages.
+Furthermore, the greater processing demands associated with man
+aging multiple languages could go on to have more long-term conse
+quences, such as through the enhancement of domain-general cognitive
+control and working memory processes (Bialystok et al., 2009; Bialys
+tok, Craik, & Luk, 2008; Costa, Hernandez, & Sebastian-Galles, 2008;
+Grundy & Timmer, 2017). Bilinguals' cognitive control could facilitate
+the management of phonological and semantic competitors during
+encoding (Blumenfeld & Marian, 2011; Chabal, Schroeder, & Marian,
+2015; Friesen et al., 2015; Hernandez, Costa, & Humphreys, 2012;
+Mercier, Pivneva, & Titone, 2014) and subsequently reduce the impact
+of overlapping features on long-term memory. Speaking to this possi
+bility, recognition of previously seen distractors is greater following
+tasks that impose a high (e.g., multiple targets) than low (e.g., single
+target) WM load (Guevara Pinto, Papesh, & Hout, 2020; Hout & Gold
+inger, 2010, 2012; cf. Lavelle et al., 2021), which has been posited to
+result from a reduced capacity to inhibit irrelevant distractors.
+Individual differences in WM capacity have similarly been shown to
+predict the activation and inhibition of competing representations dur
+ing language comprehension (Gunter, Wagner, & Friederici, 2003) and
+linguistically-mediated visual search (Huettig & Janse, 2016). ERP
+studies indicate that, compared to readers with high WM spans, those
+with low WM spans are more likely to coactivate competing represen
+tations when processing syntactically- (Vos & Friederici, 2003) or
+lexically-ambiguous (Gunter et al., 2003) linguistic stimuli. For instance,
+Gunter et al. (2003) examined the effects of WM capacity on the N400
+component in response to sentences that included a homonym and a
+subsequent disambiguating cue (e.g., "Since Ken really liked the boxer,
+he took a bus to the nearest pet store [sports arena]"). Low-span readers
+showed comparable N400s in response to cues inconsistent with the
+dominant and subordinate meanings, indicating that both representa
+tions were active in WM. High-span readers, on the other hand, had
+larger N400s in response to cues inconsistent with the dominant than
+subordinate meaning, suggesting that less probable representations
+were inhibited with higher WM capacity. To the extent that bilingual
+experience enhances the ability to suppress competing representations
+during visual search, we may expect that subsequent effects of compe
+tition on recognition memory would be reduced for bilinguals relative to
+monolinguals.
+Yet, due to significant variability in how bilingualism is operation
+alized, studies comparing groups of individuals idiosyncratically clas
+sified as "monolingual" vs. "bilingual" have yielded inconsistent
+findings regarding the impact of language experience on cognitive
+function (see Bedore et al., 2012; Luk & Bialystok, 2013; Marian &
+
+non-linguistic tasks (e.g., a picture of a cloud cued by a picture of a clock;
+Chabal & Marian, 2015). Though both semantic and phonological in
+formation can become activated by linguistic and nonlinguistic stimuli,
+it is likely that word forms and meanings are activated via different
+routes of processing and to varying degrees depending on the input
+(Chen & Spence, 2011). Bartolotti et al. (2020) found that the time
+course of looks to semantic and phonological competitors differed
+depending on whether targets were cued by a word or a sound, with
+words eliciting early phonological competition followed by semantic
+competition, and sounds eliciting early semantic competition followed
+by phonological competition.
+Based on work demonstrating that greater attentional deployment
+and visual fixations to objects strengthens encoding into long-term
+memory (e.g., Hout & Goldinger, 2012; Intraub, 1984; Lavelle et al.,
+2021; Loftus, 1972; Potter & Levy, 1969; Williams et al., 2005), there is
+reason to expect that effects of input and competition observed during
+visual search would be reflected in subsequent recognition of visual
+objects. We therefore hypothesize that long-term memory for visually
+presented semantic and phonological competitors will differ depending
+on whether their associated targets were previously cued by a word or a
+sound. Specifically, we predicted that recognition of semantic compet
+itors would be enhanced when initially viewed concurrently with a
+sound compared to a word. Likewise, we would expect that direct,
+bottom-up activation of target labels should make phonological simi
+larities especially salient, potentially resulting in better recognition of
+phonological competitors cued by words compared to sounds.
+1.4. Individual differences in bilingual experience
+In addition to contextual variables, individual differences in cogni
+tive abilities and experiences can moderate the activation and subse
+quent inhibition of competitors during visual search. Much like
+interference that can arise during visual processing, comprehension of
+spoken language requires the management of competing representa
+tions. As a spoken word unfolds (e.g., "candle"), other words with
+similar phonological features (e.g., "casket," "can," "candy") are acti
+vated until the correct candidate can be identified (Luce & Pisoni,1998;
+McClelland & Elman, 1986; McQueen & Cutler, 2001). Once accessed,
+any given word can go on to activate other phonologically or semanti
+cally related representations, each of which has the potential to influ
+ence where an individual directs their attention and subsequently, what
+they remember. Research with bilinguals suggests that the additional
+processing demands associated with managing competition within and
+between multiple languages may elicit both online (e.g., Friesen, ChungFat-Yim, & Bialystok; 2016; Kotz, 1997) and long-term (e.g., Bialystok,
+Craik, Green & Gollan, 2009) changes to cognitive processing, which
+could go on to modulate the influence of overlapping features on
+memory.
+Specifically, there is reason to expect that while bilinguals may
+routinely need to manage a higher number of competitors (due to the
+additional activation of lexical candidates across languages), this could
+effectively dilute the level of activation associated with any given
+competitor. Dahan, Magnuson, and Tanenhaus (2001) showed that
+when participants were tasked with matching a picture to a spoken word
+(e.g., "bench"), the salience of phonological competitors in the visual
+scene varied as a function of word frequency - competitors with highfrequency labels (e.g., a bed) were fixated more often than those with
+lower-frequency labels (e.g., a bell). Given that bilinguals are likely to
+store and activate a larger number of lexical representations compared
+to monolinguals (each of which may be less frequently encountered due
+to reduced exposure to each language; see the frequency-lag or weaker
+links hypothesis; Gollan, Montoya, & Werner, 2002; Gollan et al., 2008,
+2011), it is possible that phonological, and possibly even semantic,
+overlap between any given pair of stimuli may have a weaker effect on
+later memory.
+Support for this hypothesis comes from Friesen et al. (2016) who had
+3
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+Hayakawa, 2021; Surrain & Luk, 2019; Sabourin et al., 2016 for dis
+cussions). A growing consensus within the field has therefore been to
+treat multilingualism not as a homogenous group or category, but rather
+as a dynamic and interactive set of experiences and abilities that exist
+along a spectrum. To this end, an increasing number of bilingualism
+researchers have begun to step away from the monolingual-bilingual
+dichotomy to instead examine the different factors that characterize
+bilingual experience (e.g., Anderson, Hawrylewicz, & Bialystok, 2020;
+Anderson, Mak, Chahi, & Bialystok, 2018; Gullifer et al., 2021; Li,
+Sepanski, & Zhao, 2006; Luk & Bialystok, 2013; Marian, Blumenfeld, &
+Kaushanskaya, 2007; Marian & Hayakawa, 2021), as well as the aspects
+of bilingual experience that affect cognition (Beatty-Martinez et al.,
+2020; Chung-Fat-Yim, Sorge, & Bialystok, 2020; Hartanto & Yang,
+2016), behavior (Beatty-Martinez & Dussias, 2017; Tiv, Gullifer, Feng, &
+Titone, 2020), and the brain (DeLuca, Rothman, Bialystok, & Pliatsikas,
+2019; Gullifer et al., 2018; Pliatsikas, DeLuca, Moschopoulou, & Saddy,
+2017; Sulpizio, Del Maschio, Del Mauro, Fedeli, & Abutalebi, 2019).
+The ability to identify meaningful variables that capture distinct
+aspects of bilingual experience is critical for advancing our under
+standing of the role of language in cognitive and neural function more
+broadly (e.g., the impact of different contexts of language use, see Green
+and Abutalebi's, 2013 Adaptive Control Hypothesis). Illustrating the
+latter, DeLuca et al. (2019) found that different aspects of language
+experience (e.g., L2 age of acquisition (AoA), duration of language use,
+contexts of use) were associated with distinct forms of functional and
+structural neuroadaptations (e.g., resting-state connectivity, white
+matter volume, reshaping of subcortical structures). Particularly rele
+vant for the present investigation, the authors observed that duration of
+L2 use (AoA) was associated with greater functional connectivity in the
+visual network and adaptations in subcortical structures (e.g., thal
+amus), which are respectively associated with more efficient visual and
+language processing. Duration of L2 immersion was also associated with
+subcortical adaptations in regions associated with automatized language
+control (e.g., caudate nucleus, thalamus).
+Taking a similar approach, Sulpizio et al. (2019) observed that
+longer durations of L2 experience were associated with increased con
+nectivity between the posterior superior temporal gyrus (associated with
+the integration of phonological and conceptual processing; Bonilha
+et al., 2017; Hickok & Poeppel, 2004) and the left precuneus (implicated
+in attentional processing, Cavanna & Trimble, 2005), which the authors
+suggest may facilitate attentional control over the activation of
+lexico-phonological representations. Other studies have shown that ef
+fects of different forms of bilingual experience on neural function predict
+behavioral measures of cognitive control (e.g., effects of AoA and di
+versity of language use on functional connectivity and proactive control;
+Gullifer et al., 2018). As attested by these findings, taking an individual
+differences approach to studying the consequences of bilingualism can
+provide substantial insight into the relationships between language,
+cognition, and the brain, including the impact of specific language ex
+periences on particular cognitive processes.
+With this goal in mind, the present study includes participants with
+varying degrees of English and Spanish experience, and examines the
+relationships between memory for phonological and semantic compet
+itors and language background using two approaches: first by treating
+bilingualism as a categorical construct (monolinguals vs. bilinguals),
+and then with the use of multiple continuous measures tapping into
+different dimensions of bilingual experience. In addition to elucidating
+the aspects of bilingualism that may moderate the overall impact of
+competition on memory, specific effects of competition type (phono
+logical vs. semantic) and auditory input (word vs. sound) may
+contribute to understanding the extent to which the consequences of
+language experience are restricted to linguistic contexts or result in
+cross-domain changes to the cognitive system.
+
+2. Methods
+2.1. Participants
+Fifty-two participants with varying degrees of multilingual experi
+ence (82.7% female, mean age = 21.48, SD = 3.36) were included in the
+analysis, with an additional two participants excluded due to missing
+datai. Participants were native speakers of English (N = 32), Spanish (N
+= 17), or both (N = 3) and completed the experiment in either the Sound
+(N = 25) or Word (N = 27) condition. As determined by the Language
+Experience and Proficiency Questionnaire (LEAP-Q; Marian et al.,
+2007), all participants were highly proficient in English with scores
+ranging from 7 to 10 (out of 10) (M = 9.26, SD = 0.95), and had Spanish
+proficiency scores ranging from 0 to 10 (M = 4.53, SD = 4.01). English
+age of acquisition (AoA) ranged from 0 to 25 (M = 2.31, SD = 4.08), and
+Spanish AoA ranged from 0 to 24, with AoA set to the current age among
+those with no Spanish knowledge (M = 10.17, SD = 8.76) for analysesii.
+Current English exposure ranged from 25% to 100% of the time (M =
+83.37, SD = 19.91) and current Spanish exposure ranged from 0% to
+75% of the time (M = 15.17, SD = 19.33). Four native English speakers
+with no Spanish experience reported minimal second language profi
+ciency (<3/10) in another language (Italian, French, Latin). Among all
+participants, 18 reported some level of proficiency with 3 or more lan
+guages (French, Hebrew, Italian, Latin, Portuguese, Chinese). Partici
+pants in the Sound and Word conditions did not differ from each other in
+gender (p = .515), age (p = .140), English proficiency (p = .120),
+Spanish proficiency (p = .622), English AoA (p = .697), Spanish AoA (p
+= .463), English exposure (p = .823), Spanish exposure (p = .696), or
+number of known languages (p = .680).
+2.2. Design and materials
+The study was designed as a 2 (Input) x 2 (Competition Type) x 3
+(Object Type) mixed design with Input (Sounds, Words) varying
+between-subjects, and with Competition Type (Phonological, Semantic)
+and Object Type (Target, Competitor, Control) varying within-subjects.
+For the encoding phase of the experiment, participants completed a
+series of visual search trials during which they were presented with an
+auditory target cue (either a word or a sound) and a visual display
+depicting four objects. After all search trials, participants completed a
+surprise recognition memory test of the previously seen critical objects
+(targets, competitors, and controls). Fifteen sets of stimuli were
+compiled for phonological trials, which included three critical objects
+for the memory test: a target (e.g., a cat), an English phonological
+competitor (e.g., a cast), and an unrelated control object (e.g., an iron).
+Similarly, the fifteen semantic sets included a target (e.g., a dog), a
+categorical semantic competitor (e.g., a fox), and an unrelated control
+object (e.g., a flashlight; see Table A1 in the Appendix for full list of
+critical items in each set). Each set additionally included filler items (see
+below), which did not appear on the memory test. All depicted objects
+across the 15 phonological and 15 semantic sets were matched on En
+glish and Spanish word frequency (SUBTLEXUS; Brysbaert & New, 2009;
+LEXESP; Sebastian-Galles, Marti, Cuetos, & Carreiras, 2000), English
+and Spanish phonological neighborhood size (CLEARPOND; Marian,
+i
+Data were collected as part of a larger study, with a subset of functionally
+monolingual participants contributing to separate findings reported in Barto
+lotti et al., 2020.
+ii
+Measures of English and Spanish AoA included in the analyses were con
+verted to proportions of the participant's lifespan during which they had
+experience with each language ([current age - AoA]/current age). In addition
+to controlling for differences in current ages across participants, this approach
+simplified our interpretation of the results by having higher scores represent
+greater language experience for all language measures (e.g., AoA, proficiency,
+current exposure, etc.).
+
+4
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+Fig. 1. Example visual search displays for Target-Present/Competitor-Present (top left), Target-Present/Competitor-Absent (top right), Target-Absent/CompetitorPresent (bottom left), and Target-Absent/Competitor-Absent (bottom right) trials constructed from a phonological stimulus set. Critical items for the subsequent
+memory test included the target (e.g., a cat), competitor (e.g., a cast), and control (e.g., an iron) objects.
+
+Bartolotti, Chabal, & Shook, 2012), English and Spanish orthographic
+neighborhood size (CLEARPOND; Marian et al., 2012), familiarity,
+concreteness, and imageability (MRC Psycholinguistic Database;
+Coltheart, 1981; BuscaPalabras; Davis & Perea, 2005).
+Each of the 30 stimulus sets was used to construct four different trial
+types for the visual search task: 1) Target-Present/Competitor-Present,
+which included a target, a competitor adjacent to the target, and two
+unrelated filler objects, 2) Target-Present/Competitor-Absent, which
+included a target, an unrelated control adjacent to the target and two
+fillers, 3) Target-Absent/Competitor-Present, which included a
+competitor and three fillers, and 4) Target-Absent/Competitor-Absent,
+which included a control and three fillers. Each of the critical objects
+therefore appeared an equal number of times, with the target always
+appearing adjacent to either the competitor or the control object and the
+competitors and controls never appearing within the same display (see
+Fig. 1 for an example of each trial type). Each trial type for each set was
+presented twice (with different fillers) and the position of objects in the
+display were counterbalanced across trials; each object therefore
+appeared a total of four times, each time in a different position. Par
+ticipants completed a total of 240 trials (30 stimulus sets x 4 trial types
+x 2 presentations), with phonological and semantic trials interspersed.
+Visual objects were positioned in the four corners of a 3 x 3 square
+grid with a fixation cross in the center. Objects were depicted as black
+and white line drawings obtained from the International Picture Naming
+Database (Szekely et al., 2004) and were similar in saturation and line
+thickness. Spoken words cueing the 30 target objects were recorded at
+44.1 Hz by a Midwestern female speaker of Standard American English
+
+and environmental sounds were selected from previous studies in our
+lab and from online databases. All auditory cues were amplitude
+normalized and presented to participants through closed-back head
+phones. Participants were seated approximately 80 cm away from the
+computer screen (2560 x 1440 resolution).
+2.3. Procedure
+2.3.1. Encoding phase
+During the encoding phase, participants were presented with a set of
+practice trials to familiarize them with the visual search task before
+completing the 240 test trials. Each trial began with a fixation cross for
+1500 ms, followed by a four-picture visual display for 5000 ms. An
+auditory target cue (either a spoken word or environmental sound)
+began playing 500 ms after the onset of the search display and partici
+pants were instructed to click on the target picture as quickly as possible
+if it was present, and on the central fixation cross if it was absent.
+Following a response, a green border appeared around the selected
+quadrant. The search display remained on screen for 5000 ms regardless
+of when a response was made so that the encoding time was fixed across
+all trials and participants (see Fig. 2 for example trial timeline).
+2.3.2. Retrieval phase
+Following the encoding phase, participants were presented with a
+surprise recognition memory test, which included each of the critical 90
+images (30 target, 30 competitor, and 30 control pictures), as well as 60
+"foil" pictures that were not previously seen. On each trial, participants
+5
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+Fig. 2. Example timeline for a Target-Present/
+Competitor-Present visual search trial completed
+during the encoding phase. Participants were
+presented with a fixation cross for 1500 ms, fol
+lowed by a four-object search display. An audi
+tory target cue (either a spoken word or
+environmental sound) was presented 500 ms
+following the onset of the search display and
+participants were instructed to click on the target
+if it was present or the central fixation cross if it
+was absent. The search display remained on
+screen for a total of 5000 ms regardless of when a
+response was made.
+
+3. Results
+
+were presented with a single picture and asked to click on a box marked
+OLD if it had been previously seen during the encoding phase and on a
+box marked NEW if it had not. Following each trial, participants clicked
+on a box in the center of the screen to center the mouse position.
+Memory for each of the three critical object types was assessed as the
+proportion of items that were correctly recognized as "old." The order of
+presentation for the recognition test was randomized for each
+participant.
+
+3.1. How auditory input (words or sounds) and language group
+(monolinguals or bilinguals) impact memory for semantic and
+phonological competitors
+We began by examining the effects of Object Type (Target,
+Competitor, Control), Competition Type (Phonological, Semantic),
+Input (Sound, Word) and Language Group (Monolingual, Bilingual) on
+participants' recognition of previously viewed visual objects. English
+speakers with no Spanish experience were designated as Monolingual
+(N = 17), while those with both English and Spanish experience were
+designated as Bilingual (N = 35). The two groups did not differ in
+gender, age, or English proficiency (averaged across reading, under
+standing, and speaking; ps > 0.05). Age of English acquisition was
+earlier in the Monolingual than Bilingual group (Ms = 0.71 and 3.09
+years old, respectively; t(44.9) = 2.74, p = .009). Object Type was
+reverse Helmert coded to create two contrasts: (1) Targets (- 0.67) vs.
+Competitors and Controls (+0.33) and (2) Competitors (- 0.5) vs. Con
+trols (+0.5). Competition Type was contrast coded to compare Phono
+logical (- 0.5) vs. Semantic (+0.5), Input was contrast coded to compare
+Sounds (- 0.5) vs. Words (+0.5), and Language Group was contrast
+coded and weighted by the number of participants to compare Mono
+linguals (- 0.67) vs. Bilinguals (+0.33). The maximally-converging
+model included random intercepts for participant and stimulus set, as
+well as a by-participant random slope for Object Type and by-set random
+slopes for Object Type and Input.
+Participants remembered competitor objects (M = 83.9%, SD = 14.6)
+significantly better than control objects (M = 65.4%, SD = 20.5; Esti
+mate = - 1.70, SE = 0.35, z = - 4.95, p < .0001; see Fig. 3), indicating
+that similarities to targets impacted subsequent memory for irrelevant
+
+2.4. Data analysis
+Two sets of analyses were conducted to 1) determine the impact of
+auditory input, competition, and a categorical variable of bilingualism
+on subsequent memory, and 2) assess whether effects of competition are
+moderated by continuous measures of individual differences in bilingual
+expertise and experience. Effects of auditory input, phonological/se
+mantic competition, and (categorical) bilingualism were first examined
+using generalized linear mixed-effects models in the R environment
+(glmer function of the lme4 package, Bates et al., 2015), with recognition
+accuracy entered as a binomial outcome variable (0 = incorrect, 1 =
+correct). Subsequent effects of individual difference measures were
+examined using linear mixed-effects models (lmer function of the lme4
+package, Bates et al., 2015) with continuous outcome variables repre
+senting participants' mean competition effects, calculated as the pro
+portion of correctly recognized competitor items minus correctly
+recognized control items. In each case, we began with the maximal
+random effects structure (Barr, Levy, Scheepers, & Tily, 2013), as
+justified by the design, and resolved convergence errors by first
+removing random correlations and then sequentially dropping random
+effects explaining the least variance until convergence was achieved.
+Details for specific models are presented in Sections 3.1 and 3.2.
+6
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+Fig. 3. Effects of Input (Sound, Word), Competition Type (Phonological, Semantic), and Language Group (Bilingual, Monolingual) on recognition accuracy (%) for
+competitor (black) and control objects (gray). Memory of competitors exceeded that of controls, with larger effects of competition for monolinguals than bilinguals
+and larger effects of phonological competition on memory in the word than sound condition. Error bars represent standard errors. Simple effects were Tukeycorrected for multiple comparisons. *<0.05, **<0.01, ***<0.001.
+
+items. Recognition of target objects (M = 98.8%, SD = 3.7) was greater
+than that of both controls and competitors (Estimate = - 9.70, SE = 2.30,
+z = - 4.22, p < .0001), and objects in semantic sets (M = 87.2%, SD =
+16.7) were remembered better than those in phonological sets (M =
+78.1%, SD = 22.0; Estimate = 2.40, SE = 1.22, z = 1.96, p = .049).
+The effect of competition (competitors - controls) on recognition was
+greater among monolinguals (M = 26.5%, SD = 17.0) than bilinguals (M
+= 14.6%, SD = 15.3), reflected by a significant interaction between
+Language Group and the second Object contrast comparing competitors
+to controls (Estimate = 0.57, SE = 0.22, z = 2.59, p = .009). Tukeyadjusted follow-up comparisons revealed that memory for control ob
+jects was greater among bilinguals than monolinguals (Estimate = 0.97,
+SE = 0.23, z = 3.51, p < .001), while memory for competitors was
+comparable in the two groups (Estimate = 0.40, SE = 0.34, z = 1.16, p =
+.245). The difference between competitor and control recognition was
+therefore greater for monolinguals than bilinguals.
+Lastly, there was a significant three-way interaction between
+Competition Type, Input, and the second Object contrast comparing
+competitors to controls (Estimate = 1.12, SE = 0.32, z = 3.50, p < .001;
+see Table A2 of the Appendix for full output). Follow-up comparisons
+revealed that the effects of competition depended on both the type of
+competition and the auditory input. Recognition of phonological
+
+competitors exceeded that of phonological controls when the target was
+cued by a word (Estimate = - 1.60, SE = 0.49, z = - 3.30, p = .013), but
+not by a sound (Estimate = - 1.22, SE = 0.49, z = 2.49, p = .126). Se
+mantic competitors exceeded semantic controls in both the word (Esti
+mate = - 1.80, SE = 0.50, z = - 3.58, p = .005) and sound conditions
+(Estimate = - 2.59, SE = 0.52, z = - 4.98, p < .0001). In sum, we find that
+competition during visual processing does indeed impact subsequent
+memory, with its effect moderated by both language background and
+auditory input. When bilingualism is treated as a categorical variable,
+effects of competition are reduced for bilinguals compared to mono
+linguals, and the effect of phonological competition is greater when
+targets are cued by words than sounds. This latter finding is consistent
+with the idea that words and sounds access lexical information through
+different routes of cascading activation, with smaller effects of compe
+tition on memory with more indirect pathways of processing.
+3.2. How individual differences in language experience impact memory
+for semantic and phonological competitors
+3.2.1. Variable selection
+To quantify participants' levels of bilingual experience and ability,
+composite measures of dual-language acquisition, usage, and
+7
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+English and Spanish (see Table 1 for specific measures). To illustrate, a
+participant with full proficiency (10/10) in both English and Spanish
+would receive a dual-language proficiency score of 10, while a partici
+pant with full proficiency in English and no proficiency in Spanish would
+receive a score of 5. As the sample included participants with no second
+language experience, age-related variables (i.e., ages of first acquisition
+and fluency) were converted to measures representing the proportion of
+an individual's lifespan during which they had been exposed to or fluent
+in each language (0-100%). As with proficiency, acquisition measures
+were aggregated across English and Spanish so that an individual who
+was exposed to both English and Spanish from birth would receive a
+score of 100 while someone exposed to English from birth with no
+exposure to Spanish would receive a score of 50.
+As many language background measures are often highly correlated,
+the inclusion of each measure in the same model could introduce issues
+of multicollinearity. We therefore subjected the measures to a principal
+components analysis in order to extract uncorrelated metrics of lan
+guage experience that captured a significant proportion of variance
+across the raw measures. Importantly, this approach allowed us to
+reduce the number of variables based on the observed relationships
+among the raw measures (i.e., using an unsupervised dimension
+reduction algorithm) rather than on theoretical or arbitrary judgments
+regarding each measure's relevance and relative importance. As prin
+cipal component analyses rely on correlations among variables to ach
+ieve dimension reduction, we began by examining the correlational
+structure of the mean-centered and scaled dual-language measures in
+order to identify clusters of correlated variables, which was followed by
+principal component analyses within each cluster (Baayen, 2008). The
+reduced number of measures contributing to individual components
+additionally simplified interpretations of each metric while minimizing
+the likelihood that components extracted from different clusters would
+be significantly correlated with each other.
+The varclus function in the Hmisc package (Harrell, 2017) was used to
+visually cluster variables based on Spearman's rank correlation,
+revealing three groups of associated measures (see Fig. A1 of Appendix).
+Principal components were then extracted using the prcomp function in
+the stats package (R Core Team, 2017) to derive uncorrelated composite
+measures representing each cluster. Rotation matrices were used to
+determine each component's relationship to the original measures (see
+Table 2). The loadings described by the rotation matrices are propor
+tional to the correlation between each raw measure and each compo
+nent, providing insight into the factors most strongly represented by
+each metric.
+Three components were extracted from the first cluster, with the
+most significant representing dual-language proficiency and early
+dual-language acquisition. This component was most strongly (posi
+tively) correlated with measures of bilingual proficiency and duration of
+bilingual experience (i.e., our proportion measure of AoA). The second
+component was associated with single-language exposure and was
+most strongly (negatively) correlated with measures of bilingual expo
+sure through radio and reading. The third component indexed duallanguage exposure in informal contexts and was most strongly
+(positively) correlated with measures of bilingual exposure through
+family and television. An additional three components were extracted
+from the second cluster, each representing durations of dual-language
+immersion in different contexts (general, family, country). Lastly, a
+single component was taken from the third cluster, representing duallanguage acquisition and exposure in formal contexts (language
+platforms, laboratories). The collin.fnc function in the languageR package
+(Baayen, 2011) was used to verify that there was no collinearity among
+the final selected variables ( = 2.18).
+
+Table 1
+Language Experience and Proficiency Measures.
+Measure
+
+Dimensions
+
+Score
+
+Language Proficiency
+
+Speaking, Reading,
+Understanding Spoken
+Language1, Foreign Accent2
+
+1
+
+Duration of Language
+Proficiency (AoA)
+
+Speaking, Reading, Speaking
+Fluency, Reading Fluency
+
+Duration of Language
+Immersion
+Current Language
+Exposure Across
+Contexts
+Contributions to
+Language Acquisition
+
+Country, Family, School
+
+0 (none) - 10
+(perfect)
+0 (never) - 10
+(always)
+(current age AoA)/
+current age
+Years
+
+Friends, Family, Television,
+Radio, Reading, Formal Study
+
+0 (never) -
+10 (always)
+
+Friends, Family, Television,
+Radio, Reading, Formal Study
+
+0 (not a
+contributor) -
+10 (most important
+contributor)
+
+2
+
+Table 2
+Rotation Matrices for Principal Component Analyses.
+Cluster 1
+
+speaking
+reading
+understanding
+propAgeStart
+propAgeFluent
+propAgeStartRead
+propAgeFluentRead
+acqTV
+acqFam
+acqRead
+acqFriend
+acqRadio
+expRadio
+expFriends
+expFam
+expRead
+expTV
+accent
+Proportion of
+Variance
+Cumulative
+Proportion
+
+Dual-Language
+Proficiency +
+Acquisition
+(PC1)
+
+SingleLanguage
+Exposure
+(PC2)
+
+Informal DualLanguage
+Exposure
+(PC3)
+
+0.29
+0.28
+0.28
+0.28
+0.27
+0.26
+0.25
+0.25
+0.24
+0.22
+0.22
+0.22
+0.21
+0.20
+0.20
+0.18
+0.09
+- 0.21
+0.57
+
+0.19
+0.19
+0.22
+0.16
+0.07
+0.21
+0.14
+- 0.15
+0.07
+0.11
+- 0.17
+- 0.32
+- 0.41
+- 0.21
+- 0.27
+- 0.38
+- 0.31
+- 0.29
+0.09
+
+- 0.04
+- 0.02
+0.04
+0.13
+- 0.02
+0.14
+- 0.03
+- 0.30
+0.03
+- 0.11
+- 0.38
+- 0.28
+- 0.01
+- 0.25
+0.46
+0.25
+0.48
+- 0.27
+0.07
+
+0.57
+
+0.66
+
+0.73
+
+Cluster 2
+
+yrsFam
+yrsSchool
+yrsCountry
+Proportion of
+Variance
+Cumulative
+Proportion
+
+Dual-Language
+Immersion
+(general)
+(PC1)
+
+Dual-Language
+Immersion
+(family)
+(PC2)
+
+Dual-Language
+Immersion
+(country)
+(PC3)
+
+0.55
+0.59
+0.59
+0.64
+
+0.83
+- 0.44
+- 0.33
+0.20
+
+- 0.07
+- 0.68
+0.73
+0.16
+
+0.64
+
+0.84
+
+1.00
+
+Cluster 3
+Formal Dual-Language Acquisition/Exposure
+(PC1)
+acqTapes
+expLab
+Proportion of Variance
+Cumulative Proportion
+
+0.71
+0.71
+0.76
+0.76
+
+3.2.2. Effects of bilingual experience on memory
+Mean competition effects (memory accuracy for competitors minus
+controls) were entered as outcome variables in a linear mixed-effects
+model with fixed effects of Input, Competition Type, each of the seven
+
+proficiency were calculated by averaging LEAP-Q responses across
+
+8
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+Fig. 4. Interactive effects of competition and language experience on visual memory. Effects of semantic competition on memory decreased with greater duallanguage proficiency and earlier acquisition (left), while effects of phonological competition on memory decreased with greater dual-language immersion (right).
+
+differential effects depending on the source of the competition. While
+the impact of semantic competition declines with earlier acquisition and
+greater proficiency across multiple languages, the effect of phonological
+competition declines with longer durations of immersion in bilingual
+environments.
+When the effects of individual differences were broken down by
+input condition, we observed that the influence of Dual-Language Pro
+ficiency/Acquisition on memory for semantic competitors (relative to
+controls) was more pronounced when the target was cued by a word
+(Estimate = - 0.04, SE = 0.01, t = - 2.72, p = .014) than by a sound
+(Estimate = - 0.01, SE = 0.01, t = - 1.40, p = .181), whereas the effect of
+Dual-Language Immersion on memory for phonological competitors
+(relative to controls) was greater for sounds (Estimate = - 0.06, SE =
+0.02, t = - 2.30, p = .034) than for words (Estimate = - 0.06, SE = 0.05, t
+= - 1.21, p = .240). Lastly, Formal Dual-Language Acquisition/Exposure
+was found to reduce the impact of phonological competition on memory
+in the sound (Estimate = - 0.08, SE = 0.02, t = - 3.73, p = .002), but not
+
+individual difference measures (unrotated principal components), and
+all two- and three-way interactions between Input, Competition Type,
+and each measure, as well as a random intercept for participant. There
+was a significant two-way interaction between Input and Competition
+Type (Estimate = - 0.30, SE = 0.09, t(36) = - 3.38, p = .002), with
+greater effects of phonological competition on memory in the word
+condition (M = 0.22, SD = 0.22) than in the sound condition (M = 0.15,
+SD = 0.12; Estimate = 0.15, SE = 0.08, t = 2.04, p = .048), and greater
+effects of semantic competition on memory in the sound condition (M =
+0.22, SD = 0.14) than in the word condition (M = 0.15, SD = 0.16;
+Estimate = - 0.15, SE = 0.06, t = - 2.57, p =.014).
+A number of interactions emerged with bilingual individual differ
+ence measures, including a two-way interaction between Competition
+Type and Dual-Language Proficiency + Acquisition (Cluster1_PC1; Es
+timate = - 0.04, SE = 0.01, t(36) = - 2.53, p = .016), between Compe
+tition Type and general Dual-Language Immersion (Cluster2_PC1;
+Estimate = 0.08, SE = 0.03, t(36) = 2.42, p = .021), and a three-way
+interaction between Input, Competition Type, and Informal DualLanguage Exposure (Cluster1_PC3; Estimate = - 0.17, SE = 0.07, t(36)
+= - 2.29, p = .028; see Table A3 of the Appendix for full output). Followup analyses revealed that individuals with greater dual-language profi
+ciency and acquisition were significantly less impacted by semantic
+competition at memory retrieval (that is, less likely to have better
+recognition of semantic competitors relative to controls) compared to
+those with less dual-language experience (Estimate = - 0.03, SE = 0.01, t
+= - 2.99, p = .005). Dual-language proficiency and acquisition had little
+effect on how much phonological competition affected memory (p =
+.476). There was, however, a marginally significant effect of DualLanguage Immersion (general) for the impact of phonological (but not
+semantic; p = .250) competition (Estimate = - 0.06, SE = 0.03, t =
+- 1.96, p = .057), where experience living in multilingual environments
+was associated with reduced effects of competition on memory (see
+Fig. 4). We therefore find evidence that the impact of both semantic and
+phonological competition on memory is reduced with greater bilingual
+experience, but that specific aspects of language history and ability have
+9
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+the word condition (p = .666).iii
+In sum, we observed that the influence of semantic competition was
+greater in response to sounds than words, and of phonological compe
+tition in response to words than sounds. This pattern is consistent with
+our prediction that effects of competition on memory should be most
+pronounced when competing representations are activated via more
+direct routes of processing (i.e., sounds to semantic representations and
+words to phonological representations). We additionally found that in
+dividual differences in bilingual experience predicted the size of
+competitor effects, and that the impact of bilingualism differed
+depending on the type of competition (semantic, phonological), type of
+input (sounds, words), and form of dual language experience (profi
+ciency/acquisition, immersion, exposure).
+
+stored in long term memory. The moderating effects of auditory input
+are consistent with models of multisensory cognitive processing (e.g.,
+Chen & Spence, 2011), as well as with prior eye-tracking research
+(Bartolotti et al., 2020) suggesting that listening to words vs. sounds
+elicits different routes and magnitudes of phonological and semantic
+activation. Specifically, hearing a word representing a target object
+should directly activate phonological representations, making similar
+ities with competitor labels especially salient and subsequently, the ef
+fects of phonological competition on memory greater for words than for
+sounds. Hearing a characteristic sound of the target, on the other hand,
+is hypothesized to directly activate semantic features, highlighting
+conceptual relationships between target and competitor objects and
+resulting in greater semantic competition in response to sounds
+compared to words.
+The interactive effects of auditory cue and competition type indicate
+that words and sounds elicit different degrees of competition through
+their indirect routes of processing. Recognition accuracy for phonolog
+ical and semantic competitors was higher than for control items
+regardless of auditory input, providing tentative evidence that lexical
+and conceptual information about visual objects can be indirectly acti
+vated by either sounds (e.g., "meow" [input]  cat [concept] "c-a-t"
+[word] "c-a-s-t" [word]) or words (e.g., "dog" [input] "d-o-g"
+[word]  dog [concept]  fox [concept]). The effect of phonological
+competition on memory, however, did not reach significance when the
+target was cued by a sound, whereas effects of semantic competition on
+memory emerged for both words and sounds (albeit to a lesser extent
+when the target was cued by a word).
+We additionally observed that objects in semantic sets were gener
+ally recognized better than those in phonological sets. While this finding
+should be interpreted with caution given that different items were used
+for displays containing phonological and semantic competitors, it is
+largely consistent with priming studies showing that drawing attention
+to semantic (vs. phonemic) features of items elicits deeper levels of
+processing and encoding to explicit memory (Craik & Lockhart, 1972;
+Richardson-Klavehn & Gardiner, 1998). Though such effects have most
+often been produced by instructing participants to respond to semantic
+vs. phonemic characteristics of words, the present findings may indicate
+that the mere presence of semantic vs. phonological competitors in a
+visual display can elicit corresponding levels of processing for visible
+objects, producing superior explicit memory for those in semantic than
+phonological sets.
+In sum, we provide evidence that cuing targets of a visual search with
+a characteristic sound increases the influence of semantic overlap on
+visual memory, while cueing targets with a spoken word increases the
+influence of phonological overlap. How well visual objects are remem
+bered therefore depends on auditory features that were present during
+encoding, revealing the impact of the brain's cross-modal interactive
+architecture on long term memory.
+
+4. Discussion
+The goals of the present research were twofold. First, we sought to
+determine whether phonological and semantic similarities between
+objects seen during a visual search would impact how well the objects
+were later remembered. Second, we examined whether auditory input
+(sounds vs. words) and individual differences in language experience
+(bilingual proficiency, acquisition, and exposure) would influence the
+degree to which memory was influenced by semantic and phonological
+competition.
+We discovered that objects that were phonologically (e.g., cat-cast)
+or semantically (e.g., dog-fox) related to targets were later remem
+bered better than control objects. Furthermore, the effect of competition
+on memory was moderated by the type of auditory input used to cue the
+target during visual search - the effect of phonological competition on
+memory was most robust for spoken words (e.g., "cat"), while the effect
+of semantic competition on memory was stronger for environmental
+sounds (e.g., "meow'). We also find that bilingual language expertise
+and experience lessened the degree to which memory was influenced by
+the presence of competing distractors, with different aspects of bilingual
+experience reducing the impact of phonological and semantic feature
+overlap.
+4.1. Auditory cues and visual search
+The better recognition of previously observed competitor objects
+extends earlier work on visual perception and attention, showing that
+patterns of cascading activation that influence online processing of vi
+sual scenes have downstream consequences for how information is
+iii
+Similar patterns were observed when analyses were restricted to partici
+pants reporting some level of proficiency in both English and Spanish (N = 35)
+and the number of known languages (ranging from 2 to 5) was included in the
+models. As was found with the full sample, the impact of semantic competition
+on memory was significantly reduced with greater Dual-Language Proficiency
+and Acquisition (Estimate = - 0.02, SE = 0.01, t = - 2.32, p = .029). A signif
+icant interaction with Input condition (-0.06, SE = 0.02, t = - 2.98, p = .006)
+revealed that the effect of Dual-Language Proficiency and Acquisition was
+greater in response to words (Estimate = - 0.05, SE = 0.02, t = - 3.53, p = .004)
+than sounds (Estimate = 0.008, SE = 0.01, t = 0.57, p = .581). The impact of
+phonological competition on memory was significantly reduced with greater
+Dual-Language Immersion (general) (Estimate = - 0.06, SE = 0.02, t = - 2.96, p
+= .007), as well as Formal Dual-Language Acquisition/Exposure (Estimate =
+- 0.05, SE = 0.02, t = - 2.59, p = .016). While the interaction with Input
+condition did not reach significance for either measure (ps > 0.05), we repli
+cated the patterns observed for the full sample, with significant effects of both
+Dual-Language Immersion (Estimate = - 0.06, SE = 0.01, t = - 4.62, p < .001)
+and Formal Dual-Language Acquisition/Exposure (Estimate = - 0.09, SE = 0.02,
+t = - 5.89, p < .001) in response to sounds, but not words (Immersion: Estimate
+= - 0.05, SE = 0.03, t = - 1.44, p = .176; Formal: Estimate = - 0.02, SE = 0.04, t
+= - 0.50, p = .624). There were no main effects or interactions with the number
+of known languages (ps > 0.05).
+
+4.2. Individual differences in bilingual experience
+We propose that bilingualism may reduce the impact of competing
+representations on memory through a number of different mechanisms,
+including 1) more distributed activation of lexical and semantic repre
+sentations (i.e., related words within and across languages), which could
+dilute the salience of any given competitor, 2) less frequent exposure to
+the words and sounds of a single language, which could attenuate the
+activation of any given competitor, and 3) better cognitive control over
+competing representations due to long-term experience managing coactivation within and across languages.
+Indeed, we found that when language background was operational
+ized as a categorical variable, effects of competition on recognition
+memory were greater among monolinguals (i.e., native English speakers
+reporting no Spanish experience) compared to bilinguals (i.e., native
+English or Spanish speakers with proficiency in both languages).
+Notably, however, the smaller difference between competitor and
+10
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+control recognition in the bilingual group was primarily driven by
+enhanced memory for unrelated controls relative to the monolingual
+group, rather than by reduced memory for competitors. One possibility
+is that this pattern stems from distinct effects of bilingualism on topdown vs. bottom-up attentional guidance during visual search.
+Hernandez et al. (2012) observed that, compared to monolinguals, bi
+linguals experienced less interference from irrelevant objects held in
+WM, but were equally distracted by salient, irrelevant objects in the
+display (e.g., a singleton). Bilingual experience may have therefore
+enhanced the control of interference from competing phonological and
+semantic representations held in WM (reducing the difference between
+memory for competitors vs. controls) without attenuating, and perhaps
+even increasing, stimulus-driven attentional processing of the visual
+objects in the display. Indeed, given that the search display preceded the
+onset of the target cue, there was a 500 ms period during which selective
+attention to a particular object would have been unnecessary and even
+counterproductive.
+Bilinguals' better memory for unrelated controls may also reflect a
+more general enhancement in episodic memory encoding (Kerrigan,
+Thomas, Bright, & Filippi, 2017; Schroeder & Marian, 2012; Wodniecka
+et al., 2010). Schroeder and Marian (2012) observed that incidental
+memory for previously-seen pictures was greater among older bilinguals
+compared to monolinguals, which increased with earlier second lan
+guage acquisition and longer durations of dual-language use. Consistent
+with neuroimaging studies implicating frontal lobe activity in episodic
+encoding (Blumenfeld & Ranganath, 2007; Buckner, Kelley, & Petersen,
+1999; Kapur et al., 1994), the authors found that memory improved with
+better executive functioning, which was likewise greater among bi
+linguals than monolinguals. It may therefore be the case that the overall
+pattern observed in the present study stemmed from a combination of
+reduced competition from internal representations and enhanced
+encoding of visual stimuli for bilinguals compared to monolinguals.
+Importantly, while we observed that the cumulative impact of
+bilingualism could be detected even when variability in language
+background was reduced to a coarse categorical metric (monolinguals
+vs. bilinguals), a more nuanced approach was necessary to detect the
+contributions of different forms and degrees of bilingual experience.
+When bilingualism was instead treated as a multidimensional contin
+uous variable, we observed that individual differences in language
+experience modulated the influence of semantic and phonological
+competition on memory, with variable effects depending on the type of
+competition, as well as the type of experience. Earlier and greater
+bilingual proficiency was associated with a reduced effect of semantic
+competition on memory (i.e., smaller differences between competitors
+and controls), while greater bilingual immersion reduced the impact of
+phonological competition on memory. Similar patterns were observed
+when analyses were restricted to those with dual-language experience,
+indicating that individual differences among bilinguals predict effects of
+competition on memory, which are obscured by a categorical treatment
+of monolinguals vs. bilinguals. Together, these findings suggest that in
+order to obtain a more complete picture of how bilingualism influences
+cross-domain cognitive processes, we must account for the demands
+associated with particular tasks, as well as for specific language
+experiences.
+Interestingly, the impact of bilingualism also varied depending on
+whether targets were cued by words or sounds, with relatively stronger
+effects of bilingualism on memory for phonological competitors in
+response to sounds and memory for semantic competitors (relative to
+controls) in response to words. While greater cognitive control could
+presumably reduce the effects of competition in response to either words
+or sounds, the impact of either more distributed or weaker activation of
+competing representations would be expected to differ depending on the
+interaction between bottom-up inputs and top-down experiences. For
+phonological competition in response to sounds, more extensive im
+mersion and exposure to multiple languages may increase the likelihood
+that items in a visual display will automatically activate corresponding
+
+linguistic labels in not only English (e.g., "cat," "cast," "fork," "apple"),
+but also other known languages (e.g., "gato," "enyesado," "tenedor,"
+"manzana"). Consequently, phonological relationships that exist in one
+language (e.g., cat-cast) may be less salient overall, resulting in a smaller
+effect of phonological overlap on memory. It may be the case, however,
+that the overt presentation of an English label could boost the salience of
+English competitors (relative to cross-linguistic competitors), thereby
+attenuating the effect of bilingual immersion when targets are cued by
+words rather than sounds. In the case of semantic competition in
+response to words, because the identification of a picture based on a
+spoken word (e.g., "dog") requires access to linguistic representations
+associated with the auditory and visual stimuli, the activation of a
+greater number of lexical candidates (both within and across languages)
+by those with advanced bilingual proficiency could reduce semantic
+integration and the subsequent impact on memory. On the other hand,
+because it is not necessary to access linguistic labels in order to identify a
+picture based on a sound (e.g., <woof>), bilingual experience may have
+a lesser effect on how semantic competitors are processed and remem
+bered. A similar pattern was observed by Friesen et al. (2016), who
+found that, compared to monolinguals, bilinguals had reduced semantic
+integration of related pictures (e.g., a fly and a bee) when the visual
+stimuli appeared concurrently with a verbal target cue (e.g., "fly"), but
+not when the pictures were presented without the verbal cue.
+In addition to potential mechanisms attributable to the activation of
+competing representations, the present findings may reflect effects of
+different forms of bilingual experience on the ability to inhibit taskirrelevant representations. Given that participants consistently heard
+the target cue as a single type of input (either words or sounds), it would
+be reasonable to expect that participants would have activated the taskrelevant features of the visual objects during the display preview more
+(i.e., phonological representations in the word condition and semantic
+representations in the sound condition). While bilingualism has already
+been shown to enhance control over irrelevant representations held in
+memory (e.g., Chabal, Schroeder, & Marian, 2015; Friesen et al., 2015;
+Hernandez et al., 2012; Kuipers & Westphal, 2021; Macnamara &
+Conway, 2014), the effects observed in the sound condition may indicate
+that the ability to inhibit task-irrelevant representations (in this case,
+object labels) is particularly facilitated by longer immersion in bilingual
+environments. Such an effect would be consistent with prior work
+indicating that greater experience in dual-language contexts and more
+frequent language-switching facilitates the ability to suppress irrelevant
+goals when switching tasks (i.e., task-set reconfiguration, Gullifer et al.,
+2018; Hartanto & Yang, 2016). Similarly, the reduced competition in the
+semantic-word condition with greater dual-language proficiency and
+acquisition could reflect an enhanced ability to suppress task-irrelevant
+information (in this case, semantic features), which would be largely
+consistent with previous findings that higher bilingual proficiency and
+earlier bilingual acquisition can enhance reactive inhibitory control (e.
+g., such as in AX-CPT (Beatty-Martinez et al., 2020; Gullifer et al., 2018),
+Simon (Kousaie et al., 2017) and Flanker tasks (Chung-Fat-Yim et al.,
+2020; Luk, De Sa, & Bialystok, 2011)).
+Together, our findings indicate that in addition to the competition
+that can arise from co-activations of overlapping linguistic, semantic,
+and visual representations, specific experiences with more than one
+language influence the extent to which competition during visual search
+impacts subsequent memory. In addition to obtaining performance
+measures of domain-general cognitive control and lexical access, future
+research incorporating methods such as neuroimaging and ERP (Cansino
+& Trejo-Morales, 2008; Duarte, Ranganath, Winward, Hayward, &
+Knight, 2004; Gullifer et al., 2018; Guo et al., 2006; Ranganath et al.,
+2004; Wilding & Sharpe, 2003), eye-tracking ( Chanon & Hopfinger,
+2008; Holm & Mantyla, 2007; Laeng & Teodorescu, 2002; Pertzov,
+Avidan, & Zohary, 2009; Ryan, Hannula, & Cohen, 2007; van der Linde,
+Rajashekar, Bovik, & Cormack, 2009) and measurements of pupillary
+responses (Goldinger, He, & Papesh, 2009; Kafkas & Montaldi, 2011)
+could further elucidate the perceptual, attentional, and memory
+11
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+Fig. A1. Hierarchical cluster analysis of language variables. The first group included measures of age and manner of acquisition, language proficiency, and informal
+contexts of exposure (e.g., family, friends). The second group included measures of immersion duration (e.g., years in an English-speaking country) and the third
+group captured formal contexts of exposure (e.g., language learning platforms).
+Table A1
+Phonological and Semantic Stimulus Sets.
+Competition Type
+
+Set
+
+Target
+
+Competitor
+
+Control
+
+Phonological
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+cat
+clock
+bell
+fly
+kiss
+whistle
+frog
+glass
+hammer
+lighter
+scissors
+duck
+drum
+sprinkler
+gun
+cow
+dog
+bees
+typewriter
+sheep
+toilet
+chicken
+rain
+door
+sword
+jackhammer
+owl
+lawnmower
+chainsaw
+soda can
+
+cast
+cloud
+belt
+flag
+king
+whip
+freezer
+glue
+handcuffs
+lightning
+syringe
+dump truck
+drawer
+spear
+gutter
+goat
+fox
+ant
+computer
+horse
+outhouse
+turkey
+snow
+window
+bow
+drill
+eagle
+rake
+ax
+jar
+
+iron
+lightbulb
+puzzle
+grapes
+dress
+key
+tire
+arrow
+envelope
+helmet
+book
+ear
+bear
+diaper
+shoulder
+gum
+flashlight
+slippers
+wreath
+tent
+weather
+tweezers
+mermaid
+wrench
+diver
+bull
+fish
+rock
+shield
+web
+
+Semantic
+
+Table A2
+Effects of Auditory Input, Competition Type, Language Group and Object on
+Recognition Accuracy.
+Intercept
+Object1
+Object2
+CompetitionType
+Input
+Group
+Object1:CompType
+Object2:CompType
+Object1:Input
+Object2:Input
+CompType:Input
+Object1:Group
+Object2:Group
+CompType:Group
+Input:Group
+Object1:CompType:Input
+Object2:CompType:Input
+Object1:CompType:Group
+Object2:CompType:Group
+Object1:Input:Group
+Object2:Input:Group
+CompType:Input:Group
+Object1:CompType:Input:Group
+Object2:CompType:Input:Group
+
+Estimate
+
+SE
+
+z
+
+p
+
+4.97
+- 9.70
+- 1.71
+2.40
+- 1.80
+1.66
+- 3.80
+- 0.74
+5.70
+0.18
+- 2.83
+- 2.92
+0.57
+1.79
+- 3.07
+7.93
+1.12
+- 4.64
+0.14
+9.32
+- 0.18
+- 4.00
+12.54
+- 0.26
+
+0.79
+2.30
+0.34
+1.22
+1.33
+1.02
+3.63
+0.67
+3.85
+0.22
+2.45
+2.86
+0.22
+1.76
+2.07
+7.31
+0.32
+5.24
+0.32
+5.81
+0.44
+3.62
+10.79
+0.64
+
+6.30
+- 4.22
+- 4.95
+1.96
+- 1.35
+1.63
+- 1.05
+- 1.11
+1.48
+0.83
+- 1.15
+- 1.02
+2.59
+1.02
+- 1.49
+1.09
+3.50
+- 0.89
+0.44
+1.60
+- 0.42
+- 1.11
+1.16
+- 0.40
+
+<0.001
+<0.001
+<0.001
+0.049
+0.177
+0.104
+0.296
+0.269
+0.139
+0.405
+0.249
+0.308
+0.010
+0.308
+0.138
+0.278
+<0.001
+0.376
+0.657
+0.109
+0.677
+0.269
+0.245
+0.689
+
+***
+***
+***
+*
+
+**
+
+***
+
+Note. The maximally-converging generalized linear mixed-effects model on
+recognition accuracy included fixed effects of Auditory Input (Sounds: - 0.5 vs.
+Words: +0.5), Competition Type (Phonological: - 0.5 vs. Semantic: +0.5),
+Language Group (Monolinguals: - 0.67 vs. Bilinguals: +0.33), Object (contrast
+1: Target: - 0.67 vs. Competitors and Controls + 0.33; contrast 2: Competitors:
+- 0.5 vs. Controls: +0.5), and all interactions, as well as random intercepts for
+Participant and Set plus a by-participant random slope for Object and by-set
+random slopes for Object and Input.
+
+processes mediating the effects of bilingualism on memory.
+4.3. Conclusion
+
+the two languages, less frequent exposure to items in a single language,
+and differential deployment of cognitive control.
+In conclusion, the present study demonstrates that semantic and
+phonological features associated with the objects that we see can impact
+not only what we attend to in the moment, but also what we remember
+after the fact. The degree to which our memories are influenced by
+related information varies as a function of our immediate multisensory
+environment interacting with our language experiences accumulated
+over a lifetime.
+
+The present study found that related meanings and labels of objects
+in a visual search can influence subsequent memory for what was pre
+viously seen. We additionally provide evidence that the impact of form
+and meaning overlap on visual memory differs as a function of input and
+of individual differences, with effects varying depending on whether
+targets of the search are cued by a word or a sound, and whether in
+dividuals engaged in the search come equipped with bilingual abilities
+and experiences. Specifically, bilingualism was found to attenuate the
+influence of phonological and semantic overlap on memory, which we
+suggest may be due to a more distributed network of activation across
+12
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+Table A3
+Effects of Auditory Input, Competition Type, and Individual Difference Measures on Competition (Accuracy for Competitors - Controls).
+Estimate
+Intercept
+Input
+CompetitionType
+Dual_Proficiency_Acquisition
+Single_Exposure
+Dual_Exposure_Informal
+Dual_Immersion_General
+Dual_Immersion_Family
+Dual_Immersion_Country
+Dual_Exposure_Acqusition_Formal
+Input:CompType
+Input:D_Prof_Acq
+CompType:D_Prof_Acq
+Input:S_Exp
+CompType:S_Exp
+Input:D_Exp_Inf
+CompType:D_Exp_Inf
+Input:D_Imm_Gen
+CompType:D_Imm_Gen
+Input:D_Imm_Fam
+CompType:D_Imm_Fam
+Input:D_Imm_Con
+CompType:D_Imm_Coun
+Input:D_Exp_Acq_For
+CompType:D_Exp_Acq_For
+Input:CompType:D_Prof_Acq
+Input:CompType:S_Exp
+Input:CompType:D_Exp_Inf
+Input:CompType:D_Imm_Gen
+Input:CompType:D_Imm_Fam
+Input:CompType:D_Imm_Coun
+Input:CompType:D_Exp_Acq_For
+
+-
+-
+-
+
+-
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+-
+-
+
+0.17
+0.00
+0.01
+0.01
+0.02
+0.02
+0.02
+0.00
+0.00
+0.02
+0.30
+0.00
+0.04
+0.00
+0.01
+0.01
+0.01
+0.02
+0.08
+0.01
+0.03
+0.09
+0.05
+0.04
+0.07
+0.06
+0.02
+0.17
+0.05
+0.11
+0.05
+0.03
+
+SE
+
+df
+
+0.02
+0.05
+0.04
+0.01
+0.02
+0.02
+0.02
+0.03
+0.04
+0.02
+0.09
+0.02
+0.01
+0.04
+0.03
+0.04
+0.04
+0.04
+0.03
+0.06
+0.05
+0.08
+0.07
+0.04
+0.04
+0.03
+0.06
+0.07
+0.07
+0.10
+0.15
+0.07
+
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+
+t
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+-
+-
+
+p
+6.65
+0.07
+0.19
+1.16
+1.20
+0.99
+0.82
+0.14
+0.04
+1.01
+3.38
+0.14
+2.53
+0.04
+0.20
+0.33
+0.19
+0.54
+2.42
+0.27
+0.54
+1.06
+0.72
+1.07
+1.84
+1.92
+0.35
+2.29
+0.75
+1.07
+0.32
+0.47
+
+<0.001
+0.942
+0.854
+0.253
+0.238
+0.329
+0.419
+0.888
+0.969
+0.318
+0.002
+0.892
+0.016
+0.969
+0.842
+0.743
+0.849
+0.593
+0.021
+0.791
+0.590
+0.295
+0.476
+0.292
+0.074
+0.062
+0.729
+0.028
+0.461
+0.292
+0.748
+0.640
+
+***
+
+**
+*
+
+*
+
+.
+.
+*
+
+Note. The maximally converging linear mixed-effects model for competition included fixed effects of Auditory Input (Sounds: - 0.5 vs. Words: +0.5), Competition Type
+(Phonological: - 0.5 vs. Semantic: +0.5), Dual-Language Proficiency/Acquisition (D_Prof_Acq), Single-Language Exposure (S_Exp), Dual-Language Exposure: Informal
+(D_Exp_Inf), Dual-Language Immersion: General (D_Imm_Gen), Dual-Language Immersion: Family (D_Imm_Fam), Dual-Language Immersion: Country (D_Imm_Coun),
+Dual-Language Exposure/Acquisition: Formal (D_Exp_Acq_For), and all two- and three-way interactions, plus a random intercept for Participant.
+
+5. Ethics approval and consent to participate
+
+Barr, D. J., Levy, R., Scheepers, C., & Tily, H. J. (2013). Random effects structure for
+confirmatory hypothesis testing: Keep it maximal. Journal of Memory and Language,
+68(3), 255-278.
+Bartolotti, J., Schroeder, S. R., Hayakawa, S., Rochanavibhata, S., Chen, P., & Marian, V.
+(2020). Listening to speech and non-speech sounds activates phonological and
+semantic knowledge differently. Quarterly Journal of Experimental Psychology, 73(8),
+1135-1149.
+Bates, D., Maechler, M., Bolker, B., & Walker, S. (2015). Fitting linear mixed-effects
+models using lme4. Journal of Statistical Software, 67, 1-48.
+Beatty-Martinez, A. L., & Dussias, P. E. (2017). Bilingual experience shapes language
+processing: Evidence from codeswitching. Journal of Memory and Language, 95,
+173-189.
+Beatty-Martinez, A. L., Navarro-Torres, C. A., Dussias, P. E., Bajo, M. T., Guzzardo
+Tamargo, R. E., & Kroll, J. F. (2020). Interactional context mediates the
+consequences of bilingualism for language and cognition. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 46(6), 1022-1047.
+Beck, M. R., Peterson, M. S., Boot, W. R., Vomela, M., & Kramer, A. F. (2006). Explicit
+memory for rejected distractors during visual search. Visual Cognition, 14(2),
+150-174.
+Becker, S. I. (2011). Determinants of dwell time in visual search: Similarity or perceptual
+difficulty? PLOS ONE, 6(3), e17740.
+Bedore, L. M., Pena, E. D., Summers, C. L., Boerger, K. M., Resendiz, M. D., Greene, K., ...
+Gillam, R. B. (2012). The measure matters: Language dominance profiles across
+measures in Spanish-English bilingual children. Bilingualism, 15(3), 616-629.
+Bialystok, E., Craik, F. I. M., Green, D. W., & Gollan, T. H. (2009). Bilingual minds.
+Psychological Science in the Public Interest, 10(3), 89-129.
+Bialystok, E., Craik, F., & Luk, G. (2008). Cognitive control and lexical access in younger
+and older bilinguals. Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 34(4), 859-873.
+Blumenfeld, H. K., & Marian, V. (2007). Constraints on parallel activation in bilingual
+spoken language processing: Examining proficiency and lexical status using
+eyetracking. Language and Cognitive Processes, 22(5), 633-660.
+Blumenfeld, H. K., & Marian, V. (2011). Bilingualism influences inhibitory control in
+auditory comprehension. Cognition, 118(2), 245-257.
+Blumenfeld, R. S., & Ranganath, C. (2007). Prefrontal cortex and long-term memory
+encoding: An integrative review of findings from neuropsychology and
+neuroimaging. The Neuroscientist, 13(3), 280-291.
+Bonilha, L., Hillis, A. E., Hickok, G., Den Ouden, D. B., Rorden, C., & Fridriksson, J.
+(2017). Temporal lobe networks supporting the comprehension of spoken words.
+Brain, 140(9), 2370-2380.
+
+Research reported in this publication was approved by the Institu
+tional Review Board at Northwestern University (STU00023477).
+Declaration of Competing Interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper.
+Appendix
+See Fig. A1 and Tables A1-A3.
+References
+Allopenna, P. D., Magnuson, J. S., & Tanenhaus, M. K. (1998). Tracking the time course
+of spoken word recognition using eye movements: Evidence for continuous mapping
+models. Journal of Memory and Language, 38(4), 419-439.
+Anderson, J. A., Hawrylewicz, K., & Bialystok, E. (2020). Who is bilingual? Snapshots
+across the lifespan. Bilingualism: Language and Cognition, 23(5), 929-937.
+Anderson, J. A., Mak, L., Chahi, A. K., & Bialystok, E. (2018). The language and social
+background questionnaire: Assessing degree of bilingualism in a diverse population.
+Behavior Research Methods, 50(1), 250-263.
+Baayen, R.H. (2011) Package `languageR'. Data sets and functions with Analyzing
+Linguistic Data: A practical introduction to statistics. Available at: http://cran.r-pro
+ject.org/web/packages/languageR/languageR.pdf.
+Baayen, R. H. (2008). Analyzing Linguistic Data: A Practical Introduction to Statistics Using
+R. Cambridge University Press.
+Bahle, B., Thayer, D. D., Mordkoff, J. T., & Hollingworth, A. (2020). The architecture of
+working memory: Features from multiple remembered objects produce parallel,
+coactive guidance of attention in visual search. Journal of Experimental Psychology:
+General, 149(5), 967-983.
+
+13
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+Bravo, M. J., & Farid, H. (2014). Informative cues can slow search: The cost of matching
+a specific template. Attention, Perception, & Psychophysics, 76(1), 32-39.
+Brysbaert, M., & New, B. (2009). Moving beyond Kucera and Francis: A critical
+evaluation of current word frequency norms and the introduction of a new and
+improved word frequency measure for American English. Behavior Research Methods,
+41(4), 977-990.
+Buckner, R. L., Kelley, W. M., & Petersen, S. E. (1999). Frontal cortex contributes to
+human memory formation. Nature Neuroscience, 2(4), 311-314.
+Canseco-Gonzalez, E., Brehm, L., Brick, C. A., Brown-Schmidt, S., Fischer, K., &
+Wagner, K. (2010). Carpet or Carcel: The effect of age of acquisition and language
+mode on bilingual lexical access. Language and Cognitive Processes, 25(5), 669-705.
+Cansino, S., & Trejo-Morales, P. (2008). Neurophysiology of successful encoding and
+retrieval of source memory. Cognitive, Affective & Behavioral Neuroscience, 8(1),
+85-98.
+Castelhano, M., & Henderson, J. (2005). Incidental visual memory for objects in scenes.
+Visual Cognition, 12(6), 1017-1040.
+Cavanna, A. E., & Trimble, M. R. (2005). The precuneus: a review of its functional
+anatomy and behavioural correlates. Brain, 129(3), 564-583.
+Chabal, S., & Marian, V. (2015). Speakers of different languages process the visual world
+differently. Journal of Experimental Psychology: General, 144(3), 539-550.
+Chabal, S., Schroeder, S. R., & Marian, V. (2015). Audio-visual object search is changed
+by bilingual experience. Attention, Perception, & Psychophysics, 77(8), 2684-2693.
+Chanon, V. W., & Hopfinger, J. B. (2008). Memory's grip on attention: The influence of
+item memory on the allocation of attention. Visual Cognition, 16(2-3), 325-340.
+Chelazzi, L., Duncan, J., Miller, E. K., & Desimone, R. (1998). Responses of neurons in
+inferior temporal cortex during memory-guided visual search. Journal of
+Neurophysiology, 80(6), 2918-2940.
+Chen, Y.-C., & Spence, C. (2010). When hearing the bark helps to identify the dog:
+Semantically-congruent sounds modulate the identification of masked pictures.
+Cognition, 114(3), 389-404.
+Chen, Y. C., & Spence, C. (2011). Crossmodal semantic priming by naturalistic sounds
+and spoken words enhances visual sensitivity. Journal of Experimental Psychology:
+Human Perception and Performance, 37(5), 1554-1568.
+Chun, M. M., & Jiang, Y. (1998). Contextual cueing: Implicit learning and memory of
+visual context guides spatial attention. Cognitive Psychology, 36(1), 28-71.
+Chun, M. M., & Jiang, Y. (1999). Top-down attentional guidance based on implicit
+learning of visual covariation. Psychological Science, 10(4), 360-365.
+Chun, M., M., & Nakayama, K. (2000). On the functional role of implicit visual memory
+for the adaptive deployment of attention across scenes. Visual Cognition, 7(1-3),
+65-81.
+Chun, M. M., & Phelps, E. A. (1999). Memory deficits for implicit contextual information
+in amnesic subjects with hippocampal damage. Nature Neuroscience, 2(9), 844-847.
+Chung-Fat-Yim, A., Sorge, G. B., & Bialystok, E. (2020). Continuous effects of
+bilingualism and attention on Flanker task performance. Bilingualism: Language and
+Cognition, 23(5), 1106-1111.
+Coltheart, M. (1981). The MRC psycholinguistic database. The Quarterly Journal of
+Experimental Psychology, 33(4), 497-505.
+Costa, A., Hernandez, M., & Sebastian-Galles, N. (2008). Bilingualism aids conflict
+resolution: Evidence from the ANT task. Cognition, 106(1), 59-86.
+Cowan, N. (1998). Attention and memory: An integrated framework. Oxford University
+Press.
+Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory
+research. Journal of Verbal Learning and Verbal Behavior, 11(6), 671-684.
+Dahan, D., Magnuson, J. S., & Tanenhaus, M. K. (2001). Time course of frequency effects
+in spoken-word recognition: Evidence from eye movements. Cognitive Psychology, 42
+(4), 317-367.
+Davis, C. J., & Perea, M. (2005). BuscaPalabras: A program for deriving orthographic and
+phonological neighborhood statistics and other psycholinguistic indices in Spanish.
+Behavior Research Methods, 37(4), 665-671.
+DeLuca, V., Rothman, J., Bialystok, E., & Pliatsikas, C. (2019). Redefining bilingualism as
+a spectrum of experiences that differentially affects brain structure and function.
+Proceedings of the National Academy of Sciences of the United States of America, 116
+(15), 7565-7574.
+Desimone, R., & Duncan, J. (1995). Neural mechanisms of selective visual attention.
+Annual Review of Neuroscience, 18(1), 193-222.
+Duarte, A., Ranganath, C., Winward, L., Hayward, D., & Knight, R. T. (2004). Dissociable
+neural correlates for familiarity and recollection during the encoding and retrieval of
+pictures. Cognitive Brain Research, 18(3), 255-272.
+Duncan, J., & Humphreys, G. (1989). Visual search and stimulus similarity. Psychological
+Review, 96(3), 433-458.
+Friesen, D. C., Chung-Fat-Yim, A., & Bialystok, E. (2016). Lexical selection differences
+between monolingual and bilingual listeners. Brain and Language, 152, 1-13.
+Friesen, D. C., Latman, V., Calvo, A., & Bialystok, E. (2015). Attention during visual
+search: The benefit of bilingualism. International Journal of Bilingualism, 19(6),
+693-702.
+Giesbrecht, B., Sy, J. L., & Guerin, S. A. (2013). Both memory and attention systems
+contribute to visual search for targets cued by implicitly learned context. Vision
+Research, 85, 80-89.
+Goldinger, S. D., He, Y., & Papesh, M. H. (2009). Deficits in cross-race face learning:
+Insights from eye movements and pupillometry. Journal of Experimental Psychology:
+Learning, Memory and Cognition, 35(5), 1105-1122.
+Gollan, T. H., Montoya, R. I., & Werner, G. A. (2002). Semantic and letter fluency in
+Spanish-English bilinguals. Neuropsychology, 16(4), 562-576.
+Gollan, T. H., Montoya, R. I., Cera, C., & Sandoval, T. C. (2008). More use almost always
+means a smaller frequency effect: Aging, bilingualism, and the weaker links
+hypothesis. Journal of Memory and Language, 58(3), 787-814.
+
+Gollan, T. H., Slattery, T. J., Goldenberg, D., Van Assche, E., Duyck, W., & Rayner, K.
+(2011). Frequency drives lexical access in reading but not in speaking: The
+frequency-lag hypothesis. Journal of Experimental Psychology: General, 140(2),
+186-209.
+Green, D. W., & Abutalebi, J. (2013). Language control in bilinguals: The adaptive
+control hypothesis. Journal of Cognitive Psychology, 25(5), 515-553.
+Greene, A. J., Gross, W. L., Elsinger, C. L., & Rao, S. M. (2007). Hippocampal
+differentiation without recognition: An fMRI analysis of the contextual cueing task.
+Learning & Memory, 14(8), 548-553.
+Grundy, J. G., & Timmer, K. (2017). Bilingualism and working memory capacity: A
+comprehensive meta-analysis. Second Language Research, 33(3), 325-340.
+Guevara Pinto, J. D., Papesh, M. H., & Hout, M. C. (2020). The detail is in the difficulty:
+Challenging search facilitates rich incidental object encoding. Memory & Cognition,
+48(7), 1214-1233.
+Gullifer, J. W., Chai, X. J., Whitford, V., Pivneva, I., Baum, S., Klein, D., & Titone, D.
+(2018). Bilingual experience and resting-state brain connectivity: Impacts of L2 age
+of acquisition and social diversity of language use on control networks.
+Neuropsychologia, 117, 123-134.
+Gullifer, J. W., Kousaie, S., Gilbert, A. C., Grant, A., Giroud, N., Coulter, K., ... Titone, D.
+(2021). Bilingual language experience as a multidimensional spectrum: Associations
+with objective and subjective language proficiency. Applied Psycholinguistics, 42(2),
+245-278.
+Gunter, T. C., Wagner, S., & Friederici, A. D. (2003). Working memory and lexical
+ambiguity resolution as revealed by ERPs: A difficult case for activation theories.
+Journal of Cognitive Neuroscience, 15(5), 643-657.
+Gunter, T. C., Wagner, S., & Friederici, A. D. (2003). Working memory and lexical
+ambiguity resolution as revealed by ERPs: A difficult case for activation theories.
+Journal of Cognitive Neuroscience, 15(5), 643-657.
+Guo, C., Duan, L.i., Li, W., & Paller, K. A. (2006). Distinguishing source memory and item
+memory: Brain potentials at encoding and retrieval. Brain Research, 1118(1),
+142-154.
+Harrell, F. R., Jr. (2017). Hmisc: Harrell Miscellaneous. R package version 4.0-3. https://
+CRAN.R-project.org/package=Hmisc.
+Hartanto, A., & Yang, H. (2016). Disparate bilingual experiences modulate taskswitching advantages: A diffusion-model analysis of the effects of interactional
+context on switch costs. Cognition, 150, 10-19.
+Hernandez, M., Costa, A., & Humphreys, G. W. (2012). Escaping capture: Bilingualism
+modulates distraction from working memory. Cognition, 122(1), 37-50.
+Hickok, G., & Poeppel, D. (2004). Dorsal and ventral streams: A framework for
+understanding aspects of the functional anatomy of language. Cognition, 92(1-2),
+67-99.
+Holcomb, P. J., & Mcpherson, W. B. (1994). Event-related brain potentials reflect
+semantic priming in an object decision task. Brain and Cognition, 24(2), 259-276.
+Hollingworth, A., & Henderson, J. M. (2002). Accurate visual memory for previously
+attended objects in natural scenes. Journal of Experimental Psychology: Human
+Perception and Performance, 28(1), 113-136.
+Holm, L., & Mantyla, T. (2007). Memory for scenes: Refixations reflect retrieval. Memory
+& Cognition, 35(7), 1664-1674.
+Horowitz, T. S., & Wolfe, J. M. (1998). Visual search has no memory. Nature, 394(6693),
+575-577.
+Hout, M. C., & Goldinger, S. D. (2010). Learning in repeated visual search. Attention,
+Perception, & Psychophysics, 72(5), 1267-1282.
+Hout, M. C., & Goldinger, S. D. (2012). Incidental learning speeds visual search by
+lowering response thresholds, not by improving efficiency: evidence from eye
+movements. Journal of Experimental Psychology: Human Perception and Performance,
+38(1), 90-112.
+Huang, L., Holcombe, A. O., & Pashler, H. (2004). Repetition priming in visual search:
+Episodic retrieval, not feature priming. Memory & Cognition, 32(1), 12-20.
+Huettig, F., & Janse, E. (2016). Individual differences in working memory and processing
+speed predict anticipatory spoken language processing in the visual world. Language,
+Cognition and Neuroscience, 31(1), 80-93.
+Huettig, F., & McQueen, J. M. (2007). The tug of war between phonological, semantic
+and shape information in language-mediated visual search. Journal of Memory and
+Language, 57(4), 460-482.
+Huettig, F., Rommers, J., & Meyer, A. S. (2011). Using the visual world paradigm to
+study language processing: A review and critical evaluation. Acta Psychologica, 137
+(2), 151-171.
+Iordanescu, L., Grabowecky, M., & Suzuki, S. (2011). Object-based auditory facilitation
+of visual search for pictures and words with frequent and rare targets. Acta
+Psychologica, 137(2), 252-259.
+Huettig, F., Olivers, C., & Hartsuiker, R. (2011). Looking, language, and memory:
+Bridging research from the visual world and visual search paradigms. Acta
+Psychologica, 137(2), 138-150.
+Intraub, H. (1984). Conceptual masking: The effects of subsequent visual events on
+memory for pictures. Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 10(1), 115-125.
+Iordanescu, L., Grabowecky, M., Franconeri, S., Theeuwes, J., & Suzuki, S. (2010).
+Characteristic sounds make you look at target objects more quickly. Attention,
+Perception, & Psychophysics, 72(7), 1736-1741.
+Itti, L., & Koch, C. (2000). A saliency-based search mechanism for overt and covert shifts
+of visual attention. Vision Research, 40(10-12), 1489-1506.
+Itti, L., & Koch, C. (2001). Computational modelling of visual attention. Nature Reviews
+Neuroscience, 2(3), 194-203.
+Kafkas, A., & Montaldi, D. (2011). Recognition memory strength is predicted by pupillary
+responses at encoding while fixation patterns distinguish recollection from
+familiarity. Quarterly Journal of Experimental Psychology, 64(10), 1971-1989.
+
+14
+
+V. Marian et al.
+
+Brain and Language 222 (2021) 105012
+
+Kapur, S., Craik, F. I., Tulving, E., Wilson, A. A., Houle, S., & Brown, G. M. (1994).
+Neuroanatomical correlates of encoding in episodic memory: Levels of processing
+effect. Proceedings of the National Academy of Sciences, USA, 91(6), 2008-2011.
+Kasper, R. W., Grafton, S. T., Eckstein, M. P., & Giesbrecht, B. (2015). Multimodal
+neuroimaging evidence linking memory and attention systems during visual search
+cued by context. Annals of the New York Academy of Sciences, 1339(1), 176-189.
+Kerrigan, L., Thomas, M. S., Bright, P., & Filippi, R. (2017). Evidence of an advantage in
+visuo-spatial memory for bilingual compared to monolingual speakers. Bilingualism:
+Language and Cognition, 20(3), 602-612.
+Kerzel, D. (2019). The precision of attentional selection is far worse than the precision of
+the underlying memory representation. Cognition, 186, 20-31.
+Kotz, S. A. (1997). Bilingual memory revisited: An electrophysiological investigation of
+lexical and semantic representations in fluent bilinguals. Unpublished Ph.D.
+Dissertation. Tufts University.
+Kousaie, S., Chai, X. J., Sander, K. M., & Klein, D. (2017). Simultaneous learning of two
+languages from birth positively impacts intrinsic functional connectivity and
+cognitive control. Brain and Cognition, 117, 49-56.
+Kuipers, J. R., & Westphal, K. H. (2021). Auditory processing and high task demands
+facilitate the bilingual executive control advantage in young adults. Journal of
+Neurolinguistics, 57, 100954. https://doi.org/10.1016/j.jneuroling.2020.100954.
+Kutas, M., & Federmeier, K. D. (2011). Thirty years and counting: Finding meaning in the
+N400 component of the event-related brain potential (ERP). Annual Review of
+Psychology, 62(1), 621-647.
+Laeng, B., & Teodorescu, D.-S. (2002). Eye scanpaths during visual imagery reenact those
+of perception of the same visual scene. Cognitive Science, 26(2), 207-231.
+Lavelle, M., Alonso, D., Luria, R., & Drew, T. (2021). Visual working memory load plays
+limited, to no role in encoding distractor objects during visual search. Visual
+Cognition, 29(5), 288-309.
+Li, P., Sepanski, S., & Zhao, X. (2006). Language history questionnaire: A web-based
+interface for bilingual research. Behavior Research Methods, 38(2), 202-210.
+Loftus, G. R. (1972). Eye fixations and recognition memory for pictures. Cognitive
+Psychology, 3(4), 525-551.
+Luce, P. A., & Pisoni, D. B. (1998). Recognizing spoken words: The neighborhood
+activation model. Ear and Hearing, 19(1), 1-36.
+Luk, G., & Bialystok, E. (2013). Bilingualism is not a categorical variable: Interaction
+between language proficiency and usage. Journal of Cognitive Psychology, 25(5),
+605-621.
+Luk, G., De Sa, E., & Bialystok, E. (2011). Is there a relation between onset age of
+bilingualism and enhancement of cognitive control? Bilingualism: Language and
+Cognition, 14(4), 588-595.
+Lupyan, G. (2007). The Label Feedback Hypothesis: Linguistic Influences on Visual
+Processing (Doctoral dissertation, Carnegie Mellon University).
+Lupyan, G. (2008). The conceptual grouping effect: Categories matter (and named
+categories matter more). Cognition, 108(2), 566-577.
+Lupyan, G. (2012). Linguistically modulated perception and cognition: The labelfeedback hypothesis. Frontiers in Psychology, 3, 54.
+Lupyan, G., & Spivey, M. J. (2010). Redundant spoken labels facilitate perception of
+multiple items. Attention, Perception, & Psychophysics, 72(8), 2236-2253.
+Macnamara, B. N., & Conway, A. R. A. (2014). Novel evidence in support of the bilingual
+advantage: Influences of task demands and experience on cognitive control and
+working memory. Psychonomic Bulletin & Review, 21(2), 520-525.
+Marian, V., & Hayakawa, S. (2021). Measuring bilingualism: The quest for a bilingualism
+quotient. Applied Psycholinguistics, 42(2), 527-548.
+Marian, V., & Spivey, M. (2003a). Competing activation in bilingual language processing:
+Within-and between-language competition. Bilingualism Language and Cognition, 6
+(2), 97-115.
+Marian, V., & Spivey, M. (2003b). Comparing bilingual and monolingual processing of
+competing lexical items. Applied Psycholinguistics, 24(2), 173-193.
+Marian, V., Bartolotti, J., Chabal, S., Shook, A., & White, S. A. (2012). CLEARPOND:
+Cross-linguistic easyaccess resource for phonological and orthographic
+neighborhood densities. PloS one, 7(8), e43230.
+Marian, V., Blumenfeld, H. K., & Kaushanskaya, M. (2007). The Language Experience and
+Proficiency Questionnaire (LEAP-Q): Assessing language profiles in bilinguals and
+multilinguals. Journal of Speech Language and Hearing Research, 50(4), 940-967.
+McClelland, J. L., & Elman, J. L. (1986). The TRACE model of speech perception.
+Cognitive Psychology, 18(1), 1-86.
+McQueen, J. M., & Cutler, A. (2001). Spoken word access processes: An introduction.
+Language and Cognitive Processes, 16(5-6), 469-490.
+Mercier, J., Pivneva, I., & Titone, D. (2014). Individual differences in inhibitory control
+relate to bilingual spoken word processing. Bilingualism: Language and Cognition, 17
+(1), 89-117.
+Moscovitch, M., Nadel, L., Winocur, G., Gilboa, A., & Rosenbaum, R. S. (2006). The
+cognitive neuroscience of remote episodic, semantic and spatial memory. Current
+Opinion in Neurobiology, 16(2), 179-190.
+Olson, I. R., Chun, M. M., & Allison, T. (2001). Contextual guidance of attention: Human
+intracranial event-related potential evidence for feedback modulation in
+anatomically early temporally late stages of visual processing. Brain, 124(7),
+1417-1425.
+Peelen, M. V., & Kastner, S. (2011). A neural basis for real-world visual search in human
+occipitotemporal cortex. Proceedings of the National Academy of Sciences, 108(29),
+12125-12130.
+
+Pertzov, Y., Avidan, G., & Zohary, E. (2009). Accumulation of visual information across
+multiple fixations. Journal of Vision, 9(10).
+Pliatsikas, C., DeLuca, V., Moschopoulou, E., & Saddy, J. D. (2017). Immersive
+bilingualism reshapes the core of the brain. Brain Structure & Function, 222(4),
+1785-1795.
+R Core Team (2017). R: A language and environment for statistical computing. Vienna,
+Austria: R Foundation for Statistical Computing. https://www.R-project.org/.
+Potter, M. C., & Levy, E. I. (1969). Recognition memory for a rapid sequence of pictures.
+Journal of Experimental Psychology, 81(1), 10-15.
+Ranganath, C., Yonelinas, A. P., Cohen, M. X., Dy, C. J., Tom, S. M., & D'Esposito, M.
+(2004). Dissociable correlates of recollection and familiarity within the medial
+temporal lobes. Neuropsychologia, 42(1), 2-13.
+Richardson-Klavehn, A., & Gardiner, J. M. (1998). Depth-of-processing effects on
+priming in stem completion: tests of the voluntary-contamination, conceptualprocessing, and lexical-processing hypotheses. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 24(3), 593-609.
+Ryan, J. D., Hannula, D. E., & Cohen, N. J. (2007). The obligatory effects of memory on
+eye movements. Memory, 15(5), 508-525.
+Sabourin, L., Leclerc, J. C., Lapierre, M., Burkholder, M., & Brien, C. (2016). The
+language background questionnaire in L2 research: teasing apart the variables. In
+Proceedings of the 2016 annual conference of the Canadian Linguistic Association.
+Salverda, A. P., & Altmann, G. (2011). Attentional capture of objects referred to by
+spoken language. Journal of Experimental Psychology: Human Perception and
+Performance, 37(4), 1122-1133.
+Schroeder, S. R., & Marian, V. (2012). A bilingual advantage for episodic memory in
+older adults. Journal of Cognitive Psychology, 24(5), 591-601.
+Sebastian-Galles, N., Marti, M. A., Carreiras, M., & Cuetos, F. (2000). LEXESP: Una base de
+datos informatizada del espanol. Barcelona: Universitat de Barcelona.
+Shore, D. I., & Klein, R. M. (2000). On the manifestations of memory in visual search.
+Spatial Vision, 14(1), 59-76.
+Sulpizio, S., Del Maschio, N., Del Mauro, G., Fedeli, D., & Abutalebi, J. (2019).
+Bilingualism as a gradient measure modulates functional connectivity of language
+and control networks. Neuroimage, 205, Article 116306.
+Surrain, S., & Luk, G. (2019). Describing bilinguals: A systematic review of labels and
+descriptions used in the literature between 2005-2015. Bilingualism: Language and
+Cognition, 22(2), 401-415.
+Szekely, A., Jacobsen, T., D'Amico, S., Devescovi, A., Andonova, E., Herron, D., ...
+Bates, E. (2004). A new on-line resource for psycholinguistic studies. Journal of
+Memory and Language, 51(2), 247-250.
+Talsma, D., Senkowski, D., Soto-Faraco, S., & Woldorff, M. G. (2010). The multifaceted
+interplay between attention and multi-sensory integration. Trends in Cognitive
+Sciences, 14(9), 400-410.
+Tanenhaus, M. K., Spivey-Knowlton, M. J., Eberhard, K. M., & Sedivy, J. C. (1995).
+Integration of visual and linguistic information in spoken language comprehension.
+Science, 268(5217), 1632-1634.
+Thomas, M. D., & Williams, C. C. (2014). The target effect: Visual memory for unnamed
+search targets. Quarterly Journal of Experimental Psychology, 67(11), 2090-2104.
+Tiv, M., Gullifer, J. W., Feng, R. Y., & Titone, D. (2020). Using network science to map
+what Montreal bilinguals talk about across languages and communicative contexts.
+Journal of Neurolinguistics, 56, 100913. https://doi.org/10.1016/j.
+jneuroling.2020.100913.
+van der Linde, I., Rajashekar, U., Bovik, A. C., & Cormack, L. K. (2009). Visual memory
+for fixated regions of natural images dissociates attraction and recognition.
+Perception, 38(8), 1152-1171.
+van Loon, A. M., Olmos-Solis, K., & Olivers, C. N. (2017). Subtle eye movement metrics
+reveal task-relevant representations prior to visual search. Journal of Vision, 17(6).
+Vos, S. H., & Friederici, A. D. (2003). Intersentential syntactic context effects on
+comprehension: The role of working memory. Cognitive Brain Research, 16(1),
+111-122.
+Wilding, E. L., & Sharpe, H. L. (2003). Episodic memory encoding and retrieval: Recent
+insights from studies with event-related potentials. In A. Zani, & A. M. Proverbio
+(Eds.), The cognitive electrophysiology of mind and brain (pp. 169-196). New York, NY:
+Academic Press.
+Williams, C. C. (2010). Not all visual memories are created equal. Visual Cognition, 18(2),
+201-228.
+Williams, C. C., Henderson, J. M., & Zacks, f. (2005). Incidental visual memory for targets
+and distractors in visual search. Perception & Psychophysics, 67(5), 816-827.
+Williams, C. C., Zacks, R. T., & Henderson, J. M. (2009). Age differences in what is
+viewed and remembered in complex conjunction search. Quarterly Journal of
+Experimental Psychology, 62(5), 946-966.
+Wodniecka, Z., Craik, F. I. M., Luo, L., & Bialystok, E. (2010). Does bilingualism help
+memory? Competing effects of verbal ability and executive control. International
+Journal of Bilingual Education and Bilingualism, 13(5), 575-595.
+Wolfe, J. M. (2020). Visual search: How do we find what we are looking for? Annual
+Review of Vision Science, 6(1), 539-562.
+Wolfe, J. M. (2021). Guided Search 6.0: An updated model of visual search. Psychonomic
+Bulletin & Review, 1-33.
+Yee, E., & Sedivy, J. C. (2006). Eye movements to pictures reveal transient semantic
+activation during spoken word recognition. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 32(1), 1-14.
+
+15
+
+

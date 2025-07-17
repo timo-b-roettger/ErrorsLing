@@ -1,0 +1,1431 @@
+Language, Cognition and Neuroscience
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/plcp21
+
+ERPs reveal how semantic and syntactic processing
+unfold across parafoveal and foveal vision during
+sentence comprehension
+Chuchu Li, Katherine J. Midgley & Phillip J. Holcomb
+To cite this article: Chuchu Li, Katherine J. Midgley & Phillip J. Holcomb (2023) ERPs reveal
+how semantic and syntactic processing unfold across parafoveal and foveal vision during
+sentence comprehension, Language, Cognition and Neuroscience, 38:1, 88-104, DOI:
+10.1080/23273798.2022.2091150
+To link to this article: https://doi.org/10.1080/23273798.2022.2091150
+
+Published online: 23 Jun 2022.
+
+Submit your article to this journal
+
+Article views: 659
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 7 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=plcp21
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+2023, VOL. 38, NO. 1, 88-104
+https://doi.org/10.1080/23273798.2022.2091150
+
+REGULAR ARTICLE
+
+ERPs reveal how semantic and syntactic processing unfold across parafoveal and
+foveal vision during sentence comprehension
+Chuchu Lia, Katherine J. Midgleyb and Phillip J. Holcombb
+a
+
+Department of Psychology, University of California, San Diego, San Diego, CA, USA; bSan Diego State University, San Diego, CA, USA
+ABSTRACT
+
+ARTICLE HISTORY
+
+We examined how readers process content and function words in sentence comprehension with
+ERPs. Participants read simple declarative sentences using a rapid serial visual presentation (RSVP)
+with flankers paradigm. Sentences contained either an unexpected semantically anomalous
+content word, an unexpected syntactically anomalous function word or were well-formed with
+no anomalies. ERPs were examined when target words were in the parafoveal or foveal vision.
+Unexpected content words elicited a typically distributed N400 when displayed in the
+parafovea, followed by a longer-lasting, widely distributed positivity starting around 300 ms
+once foveated. Unexpected function words elicited a left lateralised LAN-like component when
+presented in the parafovea, followed by a left lateralised, posteriorly distributed P600 when
+foveated. These results suggested that both semantic and syntactic processing involve two
+stages - the initial, fast process that can be completed in parafovea, followed by a more in
+depth attentionally mediated assessment that occurs with direct attention.
+
+Received 27 August 2021
+Accepted 9 June 2022
+
+Introduction
+Readers process both semantic and syntactic information
+to comprehend sentences, and content versus function
+words are two classes of words that differ in the degree
+to which they carry semantic versus syntactic information.
+Content words like nouns (e.g. dog), lexical verbs (e.g.
+eat), or adjectives (e.g. red) have rich semantic information. In contrast, function words like determiners (e.g.
+the), pronouns (e.g. he), or prepositions (e.g. in) carry
+little substantive meaning but reveal grammatical
+relationships between content words (e.g. Neville et al.,
+1992). This difference might explain why patients with
+impaired grammatical analysis abilities due to Broca's
+aphasia typically report difficulties in processing function
+words (e.g. Caramazza & Zurif, 1976; Berndt & Caramazza,
+1980; Friederici et al., 1993, Friederici 1985; Friederici &
+Kilborn, 1989; Friederici et al., 1991; Pulvermuller, 1995;
+Biassou et al., 1997). The investigation of neurological
+differences in processing these two classes of words has
+been conducted since the 1980s (e.g. Bradley & Garrett,
+1983; Friederici, 1985; Friederici et al., 2000; Nobre et al.,
+1997; Nobre & McCarthy, 1994). The present study
+addressed this issue from a new perspective - instead
+of directly comparing the processing of these two-word
+classes, we instead examined differences during sentence
+processing between expected and unexpected content
+CONTACT Chuchu Li
+92093-0948, USA
+
+chl441@ucsd.edu
+
+KEYWORDS
+
+Reading; ERPs; parafoveal
+and foveal processing;
+semantic and syntactic
+anomaly; N400; LAN; P600/
+LPC
+
+and function words using a modified rapid visual presentation (RSVP) paradigm. Importantly, using the eventrelated potential (ERP) methods, we examined how
+readers process content and function words not only
+when these words were presented in the fovea but also
+just prior to foveation while they were presented in the
+parafovea. This latter feature of the modified RSVP paradigm (henceforth RSVP with flankers) more closely
+resembles natural reading.
+Prior ERP studies have revealed how content and
+function words are processed differently via directly
+comparing them in reading tasks. When reading single
+words or sentences that were presented one word at a
+time in the standard RSVP paradigm, content words
+tend to elicit more negative-going deflections that are
+largest over central-parietal brain regions (Brown et al.,
+1999; Neville et al., 1992; Nobre & McCarthy, 1994; ter
+Keurs et al., 1999; but see Munte et al., 2001; Van
+Petten & Kutas, 1991). These negativities typically peak
+between 300 and 500 ms (N400) after word onset.
+Because the N400 is generally larger in amplitude
+when content words are not supported by the semantic
+context of prior words in a sentence, this component has
+been argued to reflect lexico-semantic operations
+during sentence processing (Kutas & Hillyard, 1980,
+1984). On the other hand, function words tend to elicit
+
+Department of Psychology, University of California, San Diego, 9500 Gilman Drive, La Jolla, San Diego, CA
+
+(c) 2022 Informa UK Limited, trading as Taylor & Francis Group
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+more negative-going deflections that are largest over
+left anterior brain regions between 250 and 500 ms.
+Neville et al. (1992) was the first to propose that such
+left-anterior negativities (LANs) that reflect syntactic
+operations specific to function words during sentence
+processing (a component they identified as the N280),
+although subsequent studies have questioned this
+interpretation (ter Keurs et al., 1999; Brunelliere et al.,
+2005; Osterhout et al., 1997). Other studies have
+reported similar LAN-like components in paradigms
+using word-category and agreement violations (e.g.
+Coulson et al., 1998; Kim & Sikos, 2011; O'Rourke & Van
+Petten, 2011; see Molinaro, Barber, & Carreiras, 2011
+for a review; but see Tanner, Morgan-Short, & Luck,
+2015). Such violations also tend to generate large posterior positivities referred to as the P600 (Osterhout &
+Holcomb, 1992). Subsequent studies have shown that
+the P600 is a positive-going deflection that peaks
+around 600 ms post-stimulus onset and is sensitive to
+grammatical anomalies and/or syntactic processing
+difficulty (Osterhout et al., 1994), such as subject-verb
+agreement violations (e.g. Hagoort et al., 1993), inflection violations (e.g. Friederici et al., 1993), or difficult syntactic integration even in grammatical sentences (e.g.
+Kaan, Harris, Gibson, & Holcomb, 2000). In summary,
+content and function words seem to engage, at least
+to some degree different neural systems, likely due to
+richer semantic features for the former (which contribute
+to the N400) and richer syntactic features for the latter
+(which contribute to the LAN and the P600).
+The first aim of the present study was to examine how
+content versus function words contribute differently to
+semantic and syntactic processing during sentence processing. To accomplish this in some sentences (controls)
+all content and function words were consistent with the
+meaning and syntax of the sentence while in other
+(experimental) sentences, either a content or function
+word was replaced by another word belonging to the
+same word class which rendered these sentences
+difficult to process from this point on. This design
+allows for two important controls over potentially confounding factors. First, the same sentence frames are
+used in experimental and control sentences allowing
+for the investigation of differences in ERP patterns elicited by unexpected content or function words while
+holding sentence context constant. Second, by only contrasting control and experimental items within a wordclass variables such as word length and frequency are
+controlled.
+We focused on three ERP components, N400, LAN,
+and P600. The N400, as described earlier, is a negative
+shift that usually peaks around 400 ms after word
+onset and sensitive to semantic anomalies. The LAN
+
+89
+
+and P600 are two ERP components that have been
+shown to be sensitive to syntactic processing difficulties.
+While an unexpected content word should elicit an
+N400, an unexpected function word should elicit both
+a LAN and a P600 given these two components
+increased involvement in syntactic processing.
+A second aim was to examine semantic and syntactic
+violation effects in a more realistic sentence reading
+task. Most of the research using ERPs to examine semantic and syntactic processing in sentences have adopted
+the word-by-word RSVP paradigm where individual
+words are presented at fixation. This approach is used
+in order to minimise the role of saccadic artefacts
+during natural sentence reading but also to provide an
+unambiguous time-lock point (word onset) to assess
+differences between conditions. However, the artificiality of this method of sentence reading leaves many
+questions about the interpretation of differences
+between conditions. In particular, there is ample evidence that during normal reading information from
+words to the right of fixation influence processing
+prior to their being fixated in central (foveal) vision
+(e.g. Briihl & Inhoff, 1995; Gordon et al., 2013; Inhoff,
+1989a, 1989b, 1990; Inhoff & Tousman, 1990; Pollatsek
+et al., 1992; Rayner, 1998; but see Altarriba et al., 2001;
+Rayner et al., 1986; Rayner & Morris, 1992; Mirault
+et al., 2020). In particular, readers benefited from the
+preview of a semantically plausible word, suggesting
+early processing of parafoveal words regarding
+whether they semantically fit previous context (Schotter
+& Jia, 2016; Veldre & Andrews, 2016, 2018). A limitation
+of the boundary change paradigm used in the above
+studies was that there might be some confounding of
+eye-movements and/or the presentation of parafoveal
+words (e.g. the inclusion of both valid and invalid
+preview). Although the traditional word-by-word RSVP
+paradigm in ERP studies may address the confounding
+issue, parafoveal information is not available in that
+paradigm.
+Some recent ERP studies support concerns about the
+lack of parafoveal information in the traditional RSVP
+paradigm. These studies strongly suggest that words
+presented in parafoveal vision are not only processed
+at a sub-lexical level but also receive some degree of
+semantic analysis as evidenced by parafoveal N400
+effects (Barber, Donamayor, Kutas, & Munte, 2010;
+Barber et al., 2013; Li et al., 2015; Payne & Federmeier,
+2017; Payne et al., 2019; Stites et al., 2017; Snell et al.,
+2019; Meade et al., 2021; Mirault et al., 2020; but see
+Dimigen, Kliegl, & Sommer, 2012). Barber and colleagues
+(2010, 2013) developed the RSVP with flankers paradigm
+to examine ERPs that are elicited by targets in the parafovea. In this paradigm, sentences are presented serially
+
+90
+
+C. LI ET AL.
+
+in triads. Participants are instructed to fixate on the
+target word at the centre, which is flanked by the
+upcoming word in the sentence to the right, and the
+preceding word to the left. Adopting this paradigm, previous research has found N400 effects that can be elicited by unexpected content words while they are still
+in the parafovea - moreover, these effects have been
+found in multiple languages (e.g. English and Hebrew
+in Barber et al., 2010; Chinese in Li et al., 2015). Note
+that in Hebrew the reading direction is from the right
+to the left, so that the upcoming words that elicited parafoveal N400s were on the left of the central word. Stites
+et al. (2017) further showed that this parafoveal N400
+was continuously graded with increasing cloze probability, replicating the graded foveal N400 pattern that
+is typically found in studies using the typical RSVP paradigm (e.g. Federmeier et al., 2007; Kutas & Hillyard, 1984;
+Wlotko & Federmeier, 2012). Curiously, Stites et al. found
+that the presence of a parafoveal N400 mitigated or
+even eliminated the N400 when the unexpected word
+was subsequently foveated. This seems to suggest that
+readers did not only access the semantic information
+of the target word when it is in the parafovea, but also
+largely completed this semantic analysis before the
+target is foveated. The influence of words in the parafovea has also been shown to influence the N400 in wordpair tasks. Using a trans-saccadic priming paradigm,
+Grainger et al. (2016) found foveal-to-parafoveal lexical
+priming effects on the N400.
+Although semantic information has been processed
+when the target word is in the parafovea, there is evidence that there is a second step that engages
+readers' foveal attention on the target word to complete target word processing in a sentence context.
+Using the RSVP with flankers paradigm, Payne et al.
+(2019) found a posteriorly distributed late positive
+component (LPC or P600-like component), when an
+anomalous content word was fixated in the fovea.
+This effect was not seen when these words were in
+the parafovea. Importantly, this P600-like component
+was only observed when participants were asked to
+judge the plausibility of sentences and was not seen
+when sentences were read passively for comprehension. This latter finding is consistent with Stites et al.
+(2017) where participants completed a memory task
+after sentence comprehension, in which a P600-like
+effect was not observed when the target was foveated.
+Payne et al. suggested that the foveal P600-like component reflects a higher-order and task-dependent
+integrative process that engages foveal attention, i.e.
+a result of plausibility-related integration failures
+(Brouwer, et al., 2017; DeLong et al., 2014; Van Petten
+& Luka, 2012).
+
+To date, ERP studies that adopted the RSVP with
+flankers paradigm have focused on unexpected
+content words that result in semantic anomalies.
+However, none of this work has examined unexpected
+function words that elicit syntactic anomalies, although
+results from eye-tracking studies have shown some evidence of parafoveal syntactic processing in normal
+reading (Brothers & Traxler, 2016; Veldre & Andrews,
+2018). Accordingly, adopting the RSVP with flankers
+paradigm, the present study focused on ERPs recorded
+to expected and unexpected function words, first presented in the parafovea followed by presentation to
+the fovea. These function word effects were then contrasted with comparable expected and unexpected
+content word processing. Given that the difference
+between expected and unexpected function words
+should involve greater differential syntactic processing
+we aimed to determine whether such effects would be
+apparent when the target function words are in the parafovea. Moreover, we were interested in examining
+whether processing function words might also involve
+a two-step process as reported for content words by
+Payne et al. In other words, might we see a first effect
+of unexpected function words when they are presented
+in the parafovea followed by a second effect when these
+words are presented at fixation and engage foveal
+attention.
+Following previous studies, we predicted a robust
+parafoveal N400 and a foveal P600-like component on
+unexpected content words. Furthermore, if readers
+also process syntactic information of the previewed
+targets, we predicted we would observe parafoveal
+LAN or P600 effects on unexpected function words
+when they are still in the parafovea. Lastly, if the syntactic analysis of function words is completed during parafoveal presentation (i.e. one-step processing), we
+predicted that there should be little to no foveal LAN
+or P600 effects on unexpected function words.
+However, if as suggested by Payne et al. for content
+word processing, there are also two steps involved in
+function word processing when a plausibility judgment
+is required, then unexpected function words might
+also elicit an enhanced foveal LAN or P600.
+
+Methods
+Participants
+Twenty-four right-handed, native English speakers (10
+males, mean age = 22.0 years, ranging from 19 to 27)
+received compensation for their participation. All participants reported normal or corrected-to-normal visual
+acuity with no history of neurological impairment or
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+language disability. All participants reported that they
+had learned no other language before the age of six,
+and that they were not proficient in any languages
+other than English.
+
+Stimuli & design
+The critical stimuli for this study were 120 sentences
+ranging from 7 to 17 words. There were three versions
+of each sentence: (a) the normal version without
+semantic or syntactic errors and containing a control
+content word and a control function word (see sentences "a1" and "a2" below); (b) a semantic violation
+version where the appropriate control content word
+was replaced by an unexpected content word which
+produced a semantic anomaly (see sentences "b1"
+and "b2" below); and (c) a syntactic violation version
+where the appropriate control function word was
+replaced by an unexpected function word which produced a syntactic anomaly (see sentence "c1" and
+"c2" below). None of the target words were sentence
+final words. The target content and function words
+were at most one word away from each other to
+ensure the context around the replaced words were
+similar. For example, in the sentences
+
+91
+
+sentences with syntactic anomalies, in 29 out of the
+120 sentences, an article was replaced by a preposition
+or vice versa (like c2); in 27 a preposition was replaced
+by a pronoun or vice versa (like c1); in 21 a preposition
+was replaced by another preposition (e.g. of-for); in
+nine a conjunction was replaced by a pronoun or vice
+versa (e.g. and-us); in seven a conjunction was replaced
+by a preposition or vice versa (e.g. and-of); in six an
+article was replaced by a pronoun or vice versa (e.g.
+the-he), in five a quantifier was replaced by a preposition
+or vice versa (e.g. some-in); in five a preposition was
+replaced by an auxiliary verb (e.g. on-will); and the
+remaining 11 between other types of function word
+substitution.
+We pre-tested each sentence in a group of six native
+English speakers that did not participate in the ERP study
+to determine if readers would be aware of the anomalies
+produced by the critical words at the point these words
+are presented in an RSVP format. On a 7-point scale they
+rated the acceptability of each sentence through the
+point of the critical words (1 not acceptable, and 7 completely acceptable). The ends of the sentences after the
+critical word were not presented. For example,
+*The employee needs to prepare the document for on
+*The old man was asleep in the cherry
+
+(a1) The employee needs to prepare the document for his
+boss this morning.
+(a2) The old man was asleep in the chair when I came
+back.
+
+The word boss/chair served as the control content words,
+and his/the served as the control function words. While
+boss/chair was replaced by water/cherry in the unexpected content word condition, his/the was replaced
+by on/of in the unexpected function word condition.
+As a result, the sentences in these two conditions were
+(b1) The employee needs to prepare the document for his
+water this morning.
+(b2) The old man was asleep in the cherry when I came
+back.
+(c1) The employee needs to prepare the document for on
+boss this morning.
+(c2) The old man was asleep in of chair when I came back.
+
+Though we included sentences with various types of
+semantic and syntactic anomalies we did not control the
+number of sentences of each subtype, which was not the
+focus of the present study. For example, for sentences
+with semantic anomalies, 12 out of the 120 were due
+to animacy violations (but none were role-reversed sentences), while others were implausible events. For
+
+Raters made their judgment based on whether it's
+acceptable to have the word on after the context The
+employee needs to prepare the document for. See Table
+1 for detailed characteristics of critical words in each
+condition. We also recruited a different group of
+English monolinguals (n = 26) to complete a cloze task
+in order to assess the predictability of the critical sentences (e.g. they saw the incomplete sentence frame
+The employee needs to prepare the document for___
+and completed it with whatever words or phrases
+came into their minds first). Predictability is indicated
+by the number of responses in which target words in
+the normal version (i.e. the control condition) were
+entered as the first words of their responses (e.g. his
+boss and his job both counted in function words, as in
+the control condition his was the target word in the sentence The employee needs to prepare the document for his
+boss). No participant used the target words from the
+unexpected conditions (i.e. the semantic violation and
+syntactic violation versions) in any sentences. Although
+function words were slightly more predictable than
+content words (M = 6.45 vs. 5.30; meaning that for
+each critical sentence, out of 26 responses in each
+word class, 6.45 were target function words vs. 5.30
+were target content words), this difference was not significant (t = 1.42, p = .16).
+
+92
+
+C. LI ET AL.
+
+Table 1. Mean word frequency, length, and acceptability judgment scores (standard deviation in the parentheses) across conditions.
+Content words
+
+Unexpected
+Control
+Difference
+
+Frequencya
+
+Length
+
+84.34 (201.34)
+108.37 (216.22)
+p = 0.37
+
+5.46 (1.49)
+5.67 (1.83)
+p = 0.29
+
+Acceptabilityb
+1.33 (.24)
+6.74 (.17)
+p <.001
+
+Function words
+
+Unexpected
+7347.07 (8504.04)
+3.07 (1.16)
+1.69 (.42)
+Control
+11752.85 (9397.60)
+2.84 (1.06)
+6.56 (.55)
+Difference
+p < .001
+p = 0.13
+p <.001
+a
+The frequency refers to the number per million based on SUBTLEX_US (Brysbaert & New, 2009).
+b
+The difference score between unexpected and control words for the content vs. function words were also compared (p = .16), indicating that the unexpected
+content vs. function words were equally unexpected compared to their corresponding control words.
+
+In the ERP experiment, the 120 critical sentences were
+evenly distributed in three experimental lists in a Latinsquare design. In this way, each list contained 40 critical
+sentences in each condition, and no sentence was
+repeated within a list. Stimuli were randomised once
+within each list and then presented in the same order
+for each participant. Participants were randomly
+assigned to a list. To elicit the higher-order and taskdependent P600-like effect that engages foveal attention, we instructed participants to judge whether a sentence makes sense after they finished reading each
+sentence. Their task was to press one button on a
+gamepad labelled "yes" for good sentences and
+another labelled "no" for bad sentences. In order to
+balance yes/no decisions 40 filler sentences without
+semantic/syntactic errors were included in each list.
+Each participant read 160 sentences in total.
+
+fixation (foveal target), the upcoming word on the
+right (parafoveal target), and the preceding word on
+the left. For every triad, participants were instructed to
+fixate on the centred word throughout the experiment
+(i.e. the foveal target word). To facilitate attention to
+the central foveal target this item was displayed as
+white letters on a black background. The other two
+flanking words were displaced as slightly dimmer grey
+letters. In addition to the colour difference, we also
+added two yellow vertical bars, one above and one
+below the foveal target to help participants maintain
+fixation on the centre of the screen. All words were presented in a fixed-width font (New Courier) with each
+character occupying a 20x40 pixel matrix. Each triad
+was presented for 400 ms, following which the parafoveal target became the foveal target in the following
+400 ms epoch (see Figure 1 - note this method of
+
+Procedure
+All stimuli were presented on a 24-inch LCD gaming
+monitor set to a refresh rate of 100 Hz and located
+145 cm directly in front of the participant. The testing
+began with 10 practice sentences to acclimate participants to the paradigm and experimental conditions.
+A visual hemi-field RSVP with flankers paradigm was
+adopted in which each sentence was presented three
+words at a time, with the target word at central
+
+Figure 1. The visual hemi-field RSVP-flanker paradigm. The
+foveal target of each triad is presented centred in white.
+
+Figure 2. Electrode montage and the 15 analysis sites used for
+ANOVAs. The Ant-post factor is defined by the five sites (FP, F, C,
+P, O) in each of the three Laterality columns, which are indicated
+with connecting lines. The four additional electrodes were A1
+(the reference site over the left mastoid bone), A2 (the other
+reference cite to monitor for differential mastoid activity); LE
+(the eye electrode to monitor for blinks), and HE (the eye electrode to monitor for horizontal eye movements).
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+display makes the sentence seem to "slide" one word at
+a time from right to left). Each sentence presentation
+started with a fixation mark ("+") at the centre of the
+screen (i.e. where the foveal target would be presented),
+and ended with a purple question mark ("?") at the
+centre that indicating it was time to make the acceptability judgment. Participants were asked to maintain
+fixation on the central stimulus and to minimise blinking
+during sentence presentation, but were encouraged to
+make movements/blinks during the presentation of
+the fixation and question mark, which did not disappear
+until participants pressed a continue button at which
+point the fixation mark of the next trial was displayed.
+There were three longer rest breaks every 40 sentences.
+
+EEG recording
+Participants were seated in a comfortable chair in a
+sound attenuated darkened room. An electro-cap
+fitted with tin electrodes was used to record continuous
+EEG from scalp 29 sites (See Figure 2). Four additional
+electrodes were used: one over the left mastoid bone
+that served as the reference site for all scalp electrodes;
+one over the right mastoid that was used to monitor for
+differential mastoid activity; one below the left eye
+which together with the FP1 electrode was used to
+monitor for vertical eye movement (i.e. blinks), and
+one at the outer canthus of the right eye to monitor
+for horizontal eye movements. Impedances were kept
+below 2.5 k for all electrodes. EEG signals were
+amplified using Neuroscan Synamp RT amplifiers with
+a bandpass of DC to 100 Hz. The signals were digitally
+sampled at 500 Hz throughout the experiment.
+
+EEG analysis
+Separate ERPs from four types of critical words (control
+content vs. unexpected content, control function vs.
+unexpected function) at two-sentence positions (foveal
+target, parafoveal target) were calculated time-locked
+to the onset of the target triad. Averaging began
+100 ms prior to stimulus onset and continued 1,000 ms
+thereafter. The resulting data were baselined to the
+mean voltage in a period from -100 to 0 ms pre-target
+onset for parafoveal and foveal targets, respectively.
+Trials with muscle artefact or eye movements (less
+than 5% of trials in total) were excluded. We were
+especially careful to monitor for and reject trials with
+any evidence of horizontal eye movements.
+Repeated measures analyses of variance (ANOVAs)
+were used to analyze the ERP data. We analyzed the critical content and function words at each sentence position (foveal vs. parafoveal) separately. For both
+
+93
+
+content and function words, for each position, the analysis included within participant factors of Word Type
+(control vs. unexpected), and two electrode position
+factors, Laterality (left vs. midline vs. right) and Antpost (anterior-posterior, FP vs. F vs. C vs. P vs. O - see
+Figure 2 for a diagram of the sites used). For all statistical
+analyses Geisser-Greenhouse correction was used for all
+repeated measures factors with greater than 1 degree of
+freedom in the numerator (Geisser & Greenhouse,1959).
+
+Results
+Behavioural results
+Participants judged an average of 88.9% of the sentences correctly (SD = 3.0%). The accuracy rates in conditions with a no response (unexpected function
+words: M = 91.5%, SD = 9.1%; unexpected content
+words: M = 93.2%, SD = 5.1%) were higher than sentences with a yes response (control: M = 85.4%, SD =
+7.3%; fillers: 85.3%, SD = 6.1%; ps < .05). This was probably due to a high threshold for yes responses. The >
+85% accuracy rate in all conditions confirmed attentive
+reading.
+
+Visual inspection of ERPs
+The parafoveal results are plotted in Figures 3 and 4 and
+are the grand mean ERP waveforms for content and
+function words time-locked to the onset of the parafoveal targets. In these figures, the epoch starts with two
+broadly distributed components peaking at around
+100 ms (N1) and 250 ms (P2). Neither of these components appears to be influenced by the Word Type variable. Starting at around 300 ms and continuing through
+700 ms there was a larger negative-going component
+that appears to be larger for unexpected words compared to expected words.
+The foveal results are shown in Figures 5 and 6 and
+are the grand mean ERPs for content and function
+words time-locked to the onset of words in the foveal
+target position. Just as in the parafoveal plots (Figures
+3 and 4) the ERPs in these figures start with broadly distributed N1 and P2 components. Following these, for
+content words, the first visible component that
+appears to differ between Word Types was a negativegoing deflection between 0 and 150 ms after stimulus
+onset that was followed by a larger positive-going
+deflection starting from 300 ms post-stimulus onset.
+For function words, the first and only visible difference
+for unexpected words compared to expected words
+was a positive-going deflection starting from 650 ms
+after stimulus onset. Figure 7A shows voltage maps at
+
+94
+
+C. LI ET AL.
+
+Figure 3. ERPs time locked to parafoveal target onset from the 15 sites that were included in analyses, comparing unexpected vs.
+control content targets. The black line is from the control content targets, while the red line is from the unexpected content
+targets. We also plotted the ERPs from the channels that monitor horizontal eye movements (HE). While 0 ms refers to the parafoveal
+target onset, the targets moved to the foveal position at 400 ms.
+
+the 350-550 ms and 650-950 ms time windows for parafoveal targets, while Figure 7B shows voltage maps at
+the same time windows for foveal targets.
+
+Type effect was only significant at the left hemisphere
+column (F (1, 23) = 5.25, p = .031) and the midline (F (1,
+23) = 5.11, p = .033), but not at the right hemisphere
+column (F (1, 23) = 1.35, p = .26).
+
+Epoch analysis of ERPs
+
+Parafoveal targets 650-950 ms
+In this epoch, for both content and function words, Word
+Type did not show a significant main effect or interaction
+with the two electrode position factors (ps > .37).
+
+Parafoveal targets 350-550 ms
+For content words, an omnibus ANOVA on the mean
+amplitude values in this epoch revealed significant
+main effects of Word Type (F (1, 23) = 9.14, p = .006), indicating that unexpected content words elicited more
+negative-going ERPs than control words. There was
+also a significant interaction between Word Type and
+Laterality (F (2,46) = 4.22, p = .021) with the Word Type
+effect size at the midline (F (1, 23) = 11.62, p = .002)
+and the right column (F (1, 23) = 7.96, p = .010) being
+stronger than that at the left column (F (1, 23) = 7.09,
+p = .014). There was also a marginally significant Word
+Type Ant-post interaction (F (4, 92) = 3.76, p = .051),
+further analyses of which showed that the Word Type
+effect was significant at F sites (F (1, 23) = 5.0, p = .035),
+C sites (F (1, 23) = 18.95, p < .001), P sites (F (1, 23) =
+12.2, p < .001) and O sites (F (1, 23) = 9.31, p = .006), but
+not at FP sites (F (1, 23) <1, p = .83).
+For function words, the omnibus ANOVA showed a
+significant Word Type Laterality interaction (F (2, 46) =
+6.11, p = .011). Further analyses showed that the Word
+
+Foveal targets 350-550 ms
+Analyses of this epoch showed that unexpected content
+words produced more positive-going ERPs than control
+words (Word Type main effect: F (1, 23) = 7.97, p = .010).
+In addition, Word Type showed a significant interaction
+with both Laterality (F (2, 46) = 3.72, p = .047) and Antpost (F (4, 92) = 8.11, p = .001). Follow-up analyses
+showed that the positivity was significant in all three
+columns (left: F (1, 23) = 5.30, p = .030; midline: F (1,
+23) = 7.85, p = .010; and right: F (1, 23) = 10.08, p
+= .004), although numerically it was largest over the
+right hemisphere (M = 0.92, 1.21, and 1.31 on the left,
+midline, and right, respectively). In addition, the positivity was significant at C sites (F (1, 23) = 7.84, p = .010), P
+sites (F (1, 23) = 13.06, p = .001), and O sites (F (1, 23) =
+16.36; p < .001), but was not significant at FP and F
+sites (ps > .10).
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+95
+
+Figure 4. ERPs time locked to parafoveal target onset from the 15 sites that were included in analyses, comparing unexpected vs.
+control function targets. The black line is from the control function targets, while the red line is from the unexpected function
+targets. We also plotted the ERPs from the channels that monitor horizontal eye movements (HE). While 0 ms refers to the parafoveal
+target onset, the targets moved to the foveal position at 400 ms.
+
+Figure 5. ERPs time locked to foveal target onset from the 15 sites that were included in analyses, comparing unexpected vs. control
+content targets. The black line is from the control content targets, while the red line is from the unexpected content targets. We also
+plotted the ERPs from the channels that monitor horizontal eye movements (HE). While 0 ms refers to the foveal target onset, the
+targets moved to the left position (i.e. being the preceding word) at 400 ms.
+
+96
+
+C. LI ET AL.
+
+Figure 6. ERPs time locked to foveal target onset from the 15 sites that were included in analyses, comparing unexpected vs. control
+function targets. The black line is from the control function targets, while the red line is from the unexpected function targets. We also
+plotted the ERPs from the channels that monitor horizontal eye movements (HE). While 0 ms refers to the foveal target onset, the
+targets moved to the left position (i.e. being the preceding word) at 400 ms.
+
+For function words, the omnibus ANOVA showed a
+significant interaction between Word Type and Laterality
+(F (2, 46) = 7.36, p = .007). Follow-up analyses suggested
+that unexpected function words had a trend to elicit
+more positive-going deflections at the left column and
+more negative-going deflections at the right column
+than control words, but none of the three lines (i.e.
+left, midline, and right) showed a significant Word
+Type effect (ps > .10).
+
+= 5.12, p = .033), marginally significant at the midline (F
+(1, 23) = 3.57, p = .071), and was not significant at the
+right column (F < 1). There was also a significant interaction between Word Type and Ant-post (F (4, 92) =
+14.32, p = < .001). Follow-up analyses showed that the
+difference between unexpected and control function
+words was significant at P sites (F (1, 23) = 19.32, p
+< .001) and O sites (F (1, 23) = 11.26, p = .003), but was
+not significant FP, F, and C sites (ps > .12).
+
+Foveal targets 650-950 ms
+For content words, the omnibus ANOVA revealed significant main effects of Word Type (F (1, 23) = 9.14, p < .001),
+indicating that unexpected content words elicited more
+positive-going ERPs than control words. There was also a
+significant interaction between Word Type and Ant-post
+(F (2, 46) = 4.22, p = .021). Follow-up analyses showed
+that the difference between unexpected vs. control
+words was significant at C sites (F (1, 23) = 18.84, p
+< .001), P cites (F (1, 23) = 27.77, p < .001), and O sites
+(F (1, 23) = 29.71, p < .001), marginally significant at F
+sites (F (1, 23) = 4.08, p = .055), but was not significant
+at FP sites (F < 1).
+For function words, although the main effect of Word
+Type was not significant (F (1, 23) = 2.12, p = .16), there
+was a significant interaction between Word Type and
+Laterality (F (2, 46) = 7.88, p = .007). The Word Type
+effect was only significant at the left column (F (1, 23)
+
+Word class difference wave analyses
+We further calculated the difference between waves of
+unexpected and control words in each critical time
+window and then analyzed this difference as a function
+of Word Class (content vs. function)1, Laterality (left vs.
+midline vs. right) and Ant-post (FP vs. F vs. C vs. P vs.
+O) as three independent variables. These analyses
+showed that the distribution of the above word type
+effects was significantly different between content and
+function words as follows. The analyses of parafoveal
+target words between 350 and 550 ms showed a significant interaction between Word Class and Laterality (F (2,
+46) = 5.68, p = .012). Combining the findings in separate
+analyses for content and function words, the negativity
+was right lateralised for unexpected content words but
+left lateralised for unexpected function words. See
+Figure 7A for the spatial distribution that illustrates
+these interactions.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+97
+
+Figure 7. Voltage maps calculated from the mean difference (in microvolts) between unexpected words and control words at 29 scalp
+sites at the 350-550 ms (left column) and 650-950 ms (right column) time windows. Panel A shows the maps for parafoveal targets,
+while Panel B shows the maps for foveal targets.
+
+The analyses of foveal targets between 350 and 550 ms
+showed a significant interaction between Word Class and
+Laterality (F (2, 46) = 12.28, p < .001), a marginally significant interaction Word Class and Ant-post (F (4, 92) =
+3.36, p = .062), and a significant three-way interaction (F
+
+(8, 184) = 2.61, p = .032). As shown above, while unexpected content words elicited a right lateralised positivity
+at posterior sites, unexpected function words did not elicit
+any significant effects. See Figure 7B for the spatial distribution that illustrates these interactions.
+
+98
+
+C. LI ET AL.
+
+The analyses of foveal targets between 650 and
+950 ms showed a significant interaction between Word
+Class and Laterality (F (2, 46) = 7.31, p = .006) and a significant three-way interaction (F (8, 184) = 3.56, p
+= .007). While unexpected words in both classes
+showed a positivity in this time window, the effect elicited by unexpected function words was more left lateralised and posteriorly distributed. See Figure 7B for the
+spatial distribution that illustrates these interactions.
+
+Discussion
+In the present study, we used the RSVP with flankers
+paradigm combined with ERP recording to compare
+parafoveal-foveal content versus function word processing during sentence comprehension. The first
+notable finding was that we replicated previous
+studies, whereby an unexpected semantically anomalous content word elicited a widely distributed parafoveal N400 (e.g. Barber et al., 2010, 2013; Li et al., 2015;
+Payne & Federmeier, 2017; Payne et al., 2019; Stites
+et al., 2017). In addition, a broadly distributed positivity
+but no N400 was shown when the unexpected content
+word was foveated. A novel finding of the current
+study was that unexpected function words in the parafovea also elicited a negativity around 400 ms. At first
+blush, this finding would seem to suggest that unexpected function words, like content words, produce
+an N400 effect. However, careful examination of the
+negativity produced by unexpected function words
+suggests this effect was more left lateralised compared
+to the comparable effect seen for content words.
+Therefore, we cautiously suggest this effect might
+better be classified as a parafoveal LAN. Interestingly,
+function words did not elicit a parafoveal P600 effect
+but did show a clear P600 when they were foveated.
+In summary, for both content and function words,
+different ERP components were shown when the
+targets were presented in the parafovea versus in the
+fovea. Consistent with the results of Payne et al.
+(2019), these results indicate there are two stages
+that differently engages attention in sentence comprehension, regardless of the part of speech of target
+words.
+
+Content words
+As mentioned above, the parafoveal N400 elicited by
+unexpected content words is consistent with previous
+studies with similar manipulations. Because these
+words only moved to the fovea after 400 ms, this
+result strongly suggests that the effect cannot be
+due to foveal processing. One potential caveat is
+
+that participants might have on some trials made
+rightward saccades during the presentation of the
+critical word in the parafovea, thus allowing foveal
+processing of the critical items. To guard against
+this possibility, we carefully monitored horizontal
+eye movements and rejected all trials containing
+such movements.
+When target words were foveated, unexpected
+content words no longer elicited an N400 effect, consistent with previous findings that a parafoveal N400 mitigated or even eliminated the following foveal N400
+(Stites et al., 2017). Instead, a broadly distributed positivity was seen starting around 300 ms after targets were
+foveated. It seems likely that this positivity reflects the
+same process that the late positivity reported by Payne
+et al. (2019), namely, a failure of sentence level integration for foveated unexpected content words. An
+alternative possibility is that the foveal content word
+effect is a member of the semantic P600. Semantic
+P600s had been observed in sentences with semantic
+anomalies with a plausible non-surface interpretation,
+typically in role-reversed sentences (e.g. The mouse is
+chasing the cat) or sentences with animacy violation
+(e.g. The hearty meal was devouring) in which the error
+could be attributed to syntactic properties like word
+order or the characteristics of the agent/patient of a
+verb (e.g. Chow & Phillips, 2013; Herten, Kolk, &
+Chwilla, 2005; Kim & Osterhout, 2005; Kuperberg,
+2007). Although none of our sentences involved role
+reversals and only 13 out of 120 sentences with semantic
+anomalies involved animacy violation, other factors may
+also elicit semantic P600s, such as the severity of the
+conflict between expected words and the presented
+words. For example, Van De Meerendonk et al. (2010)
+found that deeply implausible sentences (e.g. The eye
+consisting of among other things a pupil, iris, sticker
+...) elicited a larger P600 than mildly implausible sentences (e.g. The eye consisting of among other things
+a pupil, iris, eyebrow ... .). We suggested that the positivities shown in the present study were less likely to be
+semantic P600 though, considering that the semantic
+P600 has been observed in both active and passive comprehension tasks in previous research, while our effects,
+according to Payne et al. (2019), were likely only present
+in tasks that required participants to make an overt judgment (see Leckey & Federmeier, 2020 for review). Nevertheless, either a result of plausibility-relevant integration
+failures or a semantic P600, our suggestion is that the
+component elicited by unexpected content words
+engages foveal attention. Both interpretations suggest
+difficulty in sentence-level re-analysis.
+One interesting difference between the current foveal
+P600-like effects and the positivities reported by Payne
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+et al. (2019) is that the current effects seem to have a
+somewhat earlier time course. One possible explanation
+of this difference might be that Payne et al. (2019) used
+the same baseline for parafoveal and foveal targets,
+while in the present study we reset the baseline for
+foveal targets. However, our foveal P600-like effects
+were already robust in the foveal N400 time window.
+Although additional analyses showed that the effects
+were no longer significant if we used the baseline for
+parafoveal targets (ps > .13), unexpected content
+words still elicited numerically more positive waves in
+this time window. In contrast, previous studies using
+the baseline for parafoveal targets showed negativities
+in the foveal N400 time window (Payne et al., 2019;
+Stites et al., 2017). The opposite direction suggested
+that different baseline at least was not the only reason.
+Importantly, this difference does not affect our most
+critical comparison between content versus function
+words, given the baselines of the two-word classes
+were the same. Another factor that may contribute to
+this different P600 time course might be the experimental procedure. In the present study, each trial was presented for 400 ms with no blank screen between
+words. In Payne et al.'s (2019) study each word was presented for 100 ms but was followed by a 350 ms blank
+screen. It is possible that the 50 ms shorter SOA or the
+300 ms longer presentation duration of each parafoveal
+target in our study contributed to the earlier target P600
+onset. Although more research is needed to confirm this
+speculation, neither of the above possibilities affected
+our critical claims. That is, our results showed evidence
+that initial semantic processing occurs early in parafovea, while the later stage semantic processing at the
+higher-order sentence level engages foveal attention,
+overall consistent with previous findings.
+
+Function words
+The novel manipulation in the present study was on
+function words. Unexpected function words elicited
+negativity between 350 and 550 ms when presented
+in the parafovea. However, the distribution of this
+effect was greater over midline and left-hemisphere
+sites, whereas the comparable content word N400
+effect was larger over the midline and right hemisphere
+sites. Moreover, while the parafoveal N400 effect for
+content words had a focus at central to posterior electrodes, the effect for function words showed a flatter
+distribution along the anterior-posterior axis, an
+absence of Word Type Ant-post interaction. Therefore,
+the negativity was relatively more anterior on function
+than content words. Given the difference in spatial distribution, the parafoveal negativity elicited by
+
+99
+
+unexpected function words seems more likely to be
+related to previous reports of LAN effects for syntactic
+violations. Although the LAN is typically distributed
+more anteriorly while our effect shows a broad distribution across anterior and posterior sites, this could
+be because the LAN and N400 are not categorically distinct ERP components; instead, the distribution reflects
+a continuum about agreement errors on semantic and
+syntactic processing (Molinaro, et al., 2015; also see
+Barber & Carreiras, 2005; Tanner & Van Hell, 2014).
+Namely, the more semantic information processed,
+the more N400-like are the effects; the more syntactic
+information processed, the more LAN-like are the
+effects. Therefore, this different N400 versus relatively
+more LAN-like distribution elicited by content versus
+function words did indicate more semantic process
+versus relatively more syntactic processing in parafovea, respectively. In addition, the absence of foveal
+LAN further suggested that initial syntactic processing
+of function words was completed before targets are
+foveated, similar to the initial semantic processing of
+content words.
+Interestingly we did not observe any P600-like activity
+when function words were in peripheral vision. The presence of parafoveal LAN and absence of parafoveal P600
+supported the claim that the LAN and the P600 are two
+functionally dissociable components (Mancini, et al.,
+2011). While the LAN reflects earlier and more automatic
+syntactic processing, the P600 seems more likely to
+reflect a higher-order/sentence level structural repair
+or reanalysis process that occurs at a later stage (Friederici, 2002). This difference was also consistent with previous research that adopted the co-registration
+approach of eye movements and fixation-related-potentials (FRPs), which showed that regressions were strongly
+associated with the P600 effect in natural reading (i.e.
+when the whole sentence was available to readers in
+each trial; Metzner, et al., 2017; also see Degno & Liversedge, 2020 for a review of this co-registration approach).
+According to Metzner et al. (2017), regressions reflect
+readers' attempt to find alternative interpretations in
+response to words that do not match built-up expectations, thus eliciting P600 effects which reflect sentence
+level reanalysis. In addition, P600 effects were triggered
+by both semantic and syntactic anomalies in Metzner
+et al. (2017), although in that study both types of
+anomalies were elicited by unexpected content words.
+This result was consistent with the present study, that
+both unexpected content and function words in fovea
+elicited P600 effects, supporting the claim that P600
+might not be specific to syntactic processing, but
+reflect a general process of reanalysis. The present
+study further suggested that the reanalysis process
+
+100
+
+C. LI ET AL.
+
+might involve direct/foveal attention to the words that
+elicit anomalies.
+The foveal P600 elicited by function words appeared
+later, was more left lateralised, and more posteriorly distributed than the foveal P600-like effects elicited by
+content words. These differences seemed consistent
+with early findings in Kutas and Hillyard (1983), which
+directly compared content versus function words using
+the word-by-word RSVP paradigm - in sentence comprehension, ERPs elicited by content words were
+overall more positive than those elicited by function
+words from 200 to 700 ms over most scalp sites. The
+word class effects on foveal targets probably reflect
+general different mechanisms of content versus function
+words processing at the sentence level, although the
+exact mechanism(s) is not clear. It is possible that the
+foveal P600 elicited by unexpected content words was
+more about plausibility-relevant integration failures,
+while the foveal P600 elicited by unexpected function
+words was more relevant to syntactic re-analysis at the
+sentence level. While future research is needed to
+examine the exact mechanism(s), one factor that is unlikely to be the cause of the different distribution and
+time course in the present study are differences in
+expectancy, as our rating results showed that unexpected content and function words were less acceptable
+than their controls to the similar extent before the
+context after the critical words are presented. One conclusion that does seem warranted is that the processes
+involved in both P600-like effects likely include foveal
+attention. In other tasks such as passive reading or
+memory tasks, unexpected content words have not
+been shown to elicit the foveal positive component,
+and while no RSVP passive reading studies have
+looked at function word anomalies it seems reasonable
+that the function word P600 effect seen here also
+resulted in part from the attentional demands of the
+task. Future research is needed to verify this speculation.
+
+Limitations and future research
+Like most studies of complex cognitive/linguistic questions, the present study had several limitations. First,
+while the RSVP with flankers paradigm is a clear
+improvement over the word-by-word RSVP task in
+terms of approximating the stimulus conditions
+encountered in natural reading, it is still possible that
+participants in this task use a less than natural
+reading strategy that impacted the pattern of ERP
+anomaly effects reported. One possibility is that
+despite instructions to fixate the highlighted word at
+fixation, participants nevertheless consistently biased
+their attention to the right of the central word allowing
+
+the word to the right to receive more in-depth processing than occurs in natural reading. This might make
+the reported parafoveal effects reported here and in
+previous RSVP with flankers studies more akin to
+typical foveal effects in RSVP studies. This might
+happen because of a longish SOA (400 ms in our
+study) which results in a slightly slower than typical
+reading rate thus encouraging rightward shifts of
+attention. However, because we carefully monitored
+participants' horizontal eye movements to guard
+against the possibility of saccades to and from the
+rightward parafoveal words, one thing that we can be
+sure of is that any such attentional bias occurred in
+the absence of accompanying eye movements. If participants were consistently covertly attending to the
+word to the right of fixation, they were doing so
+without moving their eyes. Importantly, even if participants in the RSVP with flankers task consistently covertly attend to the parafoveal word, the ERP results
+obtained clearly demonstrate that it is possible for
+words in the parafovea to influence both semantic
+and syntactic processing, a process followed by a
+second step engages foveal attention.
+Second, the results of the present study might be
+dependent on requirements to make plausibility judgments to each sentence. As suggested in Payne et al.
+(2019), the foveal P600 effect elicited by semantic
+anomalies was only present in their experiment requiring plausibility judgments but was not present in
+passive comprehension. Therefore, some effects
+reported here for function words might also be selectively present in the plausibility judgment task.
+Third, although we did not directly compare content
+versus function words, these two-word classes typically
+appear alternately in a sentence. As a result, parafoveal
+content words might have, on average, been closer to
+foveal vision than parafoveal function words which
+could account for some of the differences between
+word classes we are reporting.
+Fourth, given the 400 ms presentation duration of
+each triad, what we are reporting as a foveal P600
+effects might alternatively be a somewhat delayed parafoveal P600 (see Risse & Kliegl, 2012 for the similar argument in eye-tracking studies).
+Lastly, in the present study, we showed P600-like
+effects in both semantically and syntactically anomalous
+sentences. While we argued that both effects reflect sentence-level integration and re-analysis difficulties, there
+were differences in terms of time course and scalp distribution suggesting that semantics and syntax may affect
+the family of late positivities differently.
+To address these limitations, future research with
+more diverse paradigms (e.g. FRPs, passive
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+comprehension), other languages (e.g. Chinese in which
+word length difference is less salient across content
+versus function words, so that visual angle of flanker
+words can be better controlled), and more factors controlled (e.g. orthographic similarity between target
+words and unexpected words, sub-word class within
+content and function words such as the comparison
+between nouns vs. verbs, preposition vs. conjunctions)
+are needed to provide a more comprehensive picture.
+Future research should also include more detailed
+manipulations of semantic and syntactic variables such
+as role-reversed sentences, morphosyntactic violations
+and agreement violations to elicit semantic P600
+versus syntactic P600 via different components to shed
+light on the meaning of late positivities in sentence comprehension. Despite the above limitations and the clear
+need for additional studies, we would argue that our
+results and those of previous RSVP with flankers
+studies (e.g. Payne & Federmeier, 2017; Payne et al.,
+2019; Stites et al., 2017) provide important additional
+information beyond that gleaned from the traditional
+RSVP paradigm about the neural mechanisms involved
+in semantic and syntactic processing during sentence
+comprehension.
+
+Conclusion
+In summary, the present study suggested that in sentence comprehension content versus function words
+elicit more semantic versus syntactic processing,
+respectively. More importantly, similar to content
+words, the processing of function words also appears
+to include two stages that rely on attention to
+different extents. In sentence comprehension in
+natural settings, readers are able to first perform an
+initial semantic and syntactic assessment of the upcoming word when it is presented in the parafovea. At this
+stage, semantic and syntactic processing is fast,
+perhaps automatic, and does not have to rely on
+direct attention. In contrast, at the second stage
+readers seem to perform a more in-depth attentional
+mediated assessment. Both semantic and syntactic processing at this stage seems to be about sentence-level
+integration or re-analysis, which engages foveal
+attention.
+
+Note
+1. Note that using difference waves computed in this
+manner removes any word category specific differences
+prior to analysis of differences in the anomaly effects (i.e.
+word type effects) as a function of word class.
+
+101
+
+Acknowledgement
+This research was supported by grants from the Eunice
+Kennedy Shriver National Institute of Child Health and
+Human Development (HD099325, HD25889). Any opinions,
+findings, and conclusions or recommendations expressed in
+this material are those of the authors and do not necessarily
+reflect the views of NIH.
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+Funding
+This work was supported by Eunice Kennedy Shriver National
+Institute of Child Health and Human Development: [Grant
+Number 099325, 25889].
+
+References
+Altarriba, J., Kambe, G., Pollatsek, A., & Rayner, K. (2001).
+Semantic codes are not used in integrating information
+across eye fixations in reading: Evidence from fluent
+spanish-English bilinguals. Perception & Psychophysics, 63
+(5), 875-890. https://doi.org/10.3758/BF03194444
+Barber, H, & Carreiras, M. (2005). Grammatical gender and
+number agreement in Spanish: An ERP comparison.
+Journal of cognitive neuroscience, 17(1), 137-153.
+Barber, H. A., Donamayor, N., Kutas, M., & Munte, T. (2010).
+Parafoveal N400 effect during sentence reading.
+Neuroscience Letters, 479(2), 152-156. https://doi.org/10.
+1016/j.neulet.2010.05.053
+Barber, H. A., van der Meij, M., & Kutas, M. (2013). An electrophysiological analysis of contextual and temporal constraints on parafoveal word processing. Psychophysiology,
+50(1), 48-59. https://doi.org/10.1111/j.1469-8986.2012.
+01489.x
+Berndt, R S, & Caramazza, A. (1980). A redefinition of the syndrome of Broca's aphasia: Implications for a neuropsychological model of language. Applied psycholinguistics, 1(3), 225-
+278.
+Biassou, N, Obler, L K, Nespoulous, J L, Dordain, M, & Harris, K S.
+(1997). Dual processing of open-and closed-class words.
+Brain and Language, 57(3), 360-373.
+Bradley, D. C., & Garrett, M. F. (1983). Hemisphere differences in
+the recognition of closed and open class words.
+Neuropsychologia, 21(2), 155-159. https://doi.org/10.1016/
+0028-3932(83)90082-9
+Briihl, D., & Inhoff, A. W. (1995). Integrating information across
+fixations during reading: The use of orthographic bodies
+and of exterior letters. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 21(1), 55-67. https://doi.
+org/10.1037/0278-7393.21.1.55
+Brothers, T., & Traxler, M. J. (2016). Anticipating syntax during
+reading: Evidence from the boundary change paradigm.
+Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 42(12), 1894-1906. https://doi.org/10.1037/
+xlm0000257
+
+102
+
+C. LI ET AL.
+
+Brouwer, H, Crocker, M W, Venhuizen, N J, & Hoeks, J C. (2017).
+A neurocomputational model of the N400 and the P600 in
+language processing. Cognitive science, 41, 1318-1352.
+Brown, C. M., Hagoort, P., & Keurs, M. T. (1999).
+Electrophysiological signatures of visual lexical processing:
+Open-and closed-class words. Journal of Cognitive
+Neuroscience, 11(3), 261-281. https://doi.org/10.1162/
+089892999563382
+Brunelliere, A., Hoen, M., & Dominey, P. F. (2005). ERP correlates
+of lexical analysis: N280 reflects processing complexity
+rather than category or frequency effects. Neuroreport, 16
+(13),
+1435-1438.
+https://doi.org/10.1097/01.wnr.
+0000177008.98860.69
+Brysbaert, Marc, & New, Boris. (2009). Moving beyond Kuera
+and Francis: A critical evaluation of current word frequency
+norms and the introduction of a new and improved word
+frequency measure for American English. Behavior
+Research Methods, 41(4), 977-990. http://dx.doi.org/10.
+3758/BRM.41.4.977
+Caramazza, A, & Zurif, E B. (1976). Dissociation of algorithmic
+and heuristic processes in language comprehension:
+Evidence from aphasia. Brain and language, 3(4), 572-582.
+Chow, W. Y., & Phillips, C. (2013). No semantic illusions in the
+"semantic P600" phenomenon: ERP evidence from mandarin
+Chinese. Brain Research, 1506, 76-93. https://doi.org/10.
+1016/j.brainres.2013.02.016
+Coulson, S., King, J. W., & Kutas, M. (1998). Expect the unexpected: Event-related brain response to morphosyntactic
+violations. Language and Cognitive Processes, 13(1), 21-58.
+https://doi.org/10.1080/016909698386582
+Degno, F, & Liversedge, S P. (2020). Eye movements and fixationrelated potentials in reading: a review, 4.
+DeLong, K. A., Quante, L., & Kutas, M. (2014). Predictability,
+plausibility, and two late ERP positivities during written sentence comprehension. Neuropsychologia, 61, 150-162.
+https://doi.org/10.1016/j.neuropsychologia.2014.06.016
+Dimigen, O, Kliegl, R, & Sommer, W. (2012). Trans-saccadic parafoveal preview benefits in fluent reading: A study with
+fixation-related brain potentials. Neuroimage, 62(1), 381-
+393.
+Federmeier, K. D., Wlotko, E. W., De Ochoa-Dewald, E., & Kutas,
+M. (2007). Multiple effects of sentential constraint on word
+processing. Brain Research, 1146, 75-84. https://doi.org/10.
+1016/j.brainres.2006.06.101
+Friederici, A. D. (1985). Levels of processing and vocabulary
+types: Evidence from on-line comprehension in normals
+and agrammatics. Cognition, 19(2), 133-166. https://doi.
+org/10.1016/0010-0277(85)90016-2
+Friederici, A D. (2002). Towards a neural basis of auditory
+sentence processing. Trends in cognitive sciences, 6(2),
+78-84.
+Friederici, A D, & Kilborn, K. (1989). Temporal constraints on
+language processing: Syntactic priming in Broca's aphasia.
+Journal of cognitive neuroscience, 1(3), 262-272.
+Friederici, A. D., Opitz, B., & Von Cramon, D. Y. (2000).
+Segregating semantic and syntactic aspects of processing
+in the human brain: An fMRI investigation of different
+word types. Cerebral Cortex, 10(7), 698-705. https://doi.
+org/10.1093/cercor/10.7.698
+Friederici, A. D., Pfeifer, E., & Hahne, A. (1993). Event-related
+brain potentials during natural speech processing: Effects
+of semantic, morphological and syntactic violations.
+
+Cognitive Brain Research, 1(3), 183-192. https://doi.org/10.
+1016/0926-6410(93)90026-2
+Friederici, A D, Weissenborn, J, & Kail, M. (1991). Pronoun comprehension in aphasia: A comparison of three languages.
+Brain and language, 41(2), 289-310.
+Gordon, P. C., Plummer, P., & Choi, W. (2013). See before you
+jump: Full recognition of parafoveal words precedes skips
+during reading. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 39(2), 633-641. https://
+doi.org/10.1037/a0028881
+Grainger, J., Midgley, K. J., & Holcomb, P. J. (2016). Trans-saccadic repetition priming: ERPs reveal on-line integration of
+information across words. Neuropsychologia, 80, 201-211.
+https://doi.org/10.1016/j.neuropsychologia.2015.11.025
+Hagoort, P., Brown, C., & Groothusen, J. (1993). The syntactic
+positive shift (SPS) as an ERP measure of syntactic processing. Language and Cognitive Processes, 8(4), 439-483.
+https://doi.org/10.1080/01690969308407585
+Inhoff, A. W. (1989). Lexical access during eye fixations in
+reading: Are word access codes used to integrate lexical
+information across interword fixations? Journal of Memory
+and Language, 28(4), 444-461. https://doi.org/10.1016/
+0749-596X(89)90021-1
+Inhoff, A. W. (1989). Parafoveal processing of words and
+saccade computation during eye fixations in reading.
+Journal of Experimental Psychology: Human Perception and
+Performance, 15(3), 544-555. https://doi.org/10.1037/00961523.15.3.544
+Inhoff, A. W. (1990). Integrating information across eye
+fixations in reading: The role of letter and word units. Acta
+Psychologica, 73(3), 281-297. https://doi.org/10.1016/00016918(90)90027-D
+Inhoff, A. W., & Tousman, S. (1990). Lexical integration across
+saccades in reading. Psychological Research, 52(4), 330-337.
+https://doi.org/10.1007/BF00868065
+Kaan, E, Harris, A, Gibson, E, & Holcomb, P. (2000). The P600 as
+an index of syntactic integration difficulty. Language and
+cognitive processes, 15(2), 159-201.
+Keurs, T., Brown, M., Hagoort, C. M., & Stegeman, P., & F, D.
+(1999). Electrophysiological manifestations of open-and
+closed-class words in patients with broca's aphasia with
+agrammatic comprehension: An event-related brain potential study. Brain, 122(5), 839-854. https://doi.org/10.1093/
+brain/122.5.839
+Kim, A., & Osterhout, L. (2005). The independence of combinatory semantic processing: Evidence from event-related
+potentials. Journal of Memory and Language, 52(2), 205-
+225. https://doi.org/10.1016/j.jml.2004.10.002
+Kim, A, & Sikos, L. (2011). Conflict and surrender during sentence processing: An ERP study of syntax-semantics interaction. Brain and Language, 118(1-2), 15-22.
+Kuperberg, G R. (2007). Neural mechanisms of language comprehension: Challenges to syntax. Brain research, 1146, 23-
+49.
+Kutas, M., & Hillyard, S. A. (1980). Event-related brain potentials
+to semantically inappropriate and surprisingly large words.
+Biological Psychology, 11(2), 99-116. https://doi.org/10.
+1016/0301-0511(80)90046-0
+Kutas, M., & Hillyard, S. A. (1983). Event-related brain potentials
+to grammatical errors and semantic anomalies. Memory &
+Cognition,
+11(5),
+539-550.
+https://doi.org/10.3758/
+BF03196991
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+Kutas, M., & Hillyard, S. A. (1984). Brain potentials during
+reading reflect word expectancy and semantic association.
+Nature, 307(5947), 161-163. https://doi.org/10.1038/
+307161a0
+Leckey, M., & Federmeier, K. D. (2020). The P3b and P600 (s):
+positive contributions to language comprehension.
+Psychophysiology, 57(7), e13351. https://doi.org/10.1111/
+psyp.13351
+Li, N., Niefind, F., Wang, S., Sommer, W., & Dimigen, O. (2015).
+Parafoveal processing in reading Chinese sentences:
+Evidence
+from
+event-related
+brain
+potentials.
+Psychophysiology, 52(10), 1361-1374. https://doi.org/10.
+1111/psyp.12502
+Mancini, S, Molinaro, N, Rizzi, L, & Carreiras, M. (2011). A person
+is not a number: Discourse involvement in subject-verb
+agreement computation. Brain research, 1410, 64-76.
+Meade, G., Declerck, M., Holcomb, P. J., & Grainger, J. (2021).
+Parallel semantic processing in the flankers task: Evidence
+from the N400. Brain and Language, 219, 104965. https://
+doi.org/10.1016/j.bandl.2021.104965
+Metzner, P, Von Der Malsburg, T, Vasishth, S, & Rosler, F. (2017).
+The importance of reading naturally: Evidence from combined recordings of eye movements and electric brain
+potentials. Cognitive Science, 41, 1232-1263.
+Mirault, J., Yeaton, J., Broqua, F., Dufau, S., Holcomb, P. J., &
+Grainger, J. (2020). Parafoveal-on-foveal repetition effects
+in sentence reading: A co-registered eye-tracking and electroencephalogram study. Psychophysiology, 57(8), e13553.
+https://doi.org/10.1111/psyp.13553
+Molinaro, N, Barber, H A, Caffarra, S, & Carreiras, M. (2015). On
+the left anterior negativity (LAN): The case of morphosyntactic agreement. Cortex, 66, 156-159.
+Molinaro, N, Barber, H A, & Carreiras, M. (2011). Grammatical
+agreement processing in reading: ERP findings and future
+directions. cortex, 47(8), 908-930.
+Munte, T. F., Wieringa, B. M., Weyerts, H., Szentkuti, A., Matzke,
+M., & Johannes, S. (2001). Differences in brain potentials to
+open and closed class words: Class and frequency effects.
+Neuropsychologia, 39(1), 91-102. https://doi.org/10.1016/
+S0028-3932(00)00095-6
+Neville, H. J., Mills, D. L., & Lawson, D. S. (1992). Fractionating
+language: Different neural subsystems with different sensitive periods. Cerebral Cortex, 2(3), 244-258. https://doi.org/
+10.1093/cercor/2.3.244
+Nobre, A. C., & McCarthy, G. (1994). Language-related ERPs:
+Scalp distributions and modulation by word type and
+semantic priming. Journal of Cognitive Neuroscience, 6(3),
+233-255. https://doi.org/10.1162/jocn.1994.6.3.233
+Nobre, A. C., Price, C. J., Turner, R., & Friston, K. (1997). Selective
+processing of nouns and function words in the human brain.
+Neuroimage, 5(4), 53.
+O'rourke, P L, & Van Petten, C. (2011). Morphological agreement at a distance: Dissociation between early and late
+components of the event-related brain potential. Brain
+research, 1392, 62-79.
+Osterhout, L., Bersick, M., & McKinnon, R. (1997). Brain potentials elicited by words: Word length and frequency predict
+the latency of an early negativity. Biological Psychology, 46
+(2), 143-168. https://doi.org/10.1016/S0301-0511(97)052502
+Osterhout, L., & Holcomb, P. J. (1992). Event-related brain
+potentials elicited by syntactic anomaly. Journal of Memory
+
+103
+
+and Language, 31(6), 785-806. https://doi.org/10.1016/
+0749-596X(92)90039-Z
+Osterhout, L., Holcomb, P. J., & Swinney, D. A. (1994). Brain
+potentials elicited by garden-path sentences: Evidence of
+the application of verb information during parsing. Journal
+of Experimental Psychology: Learning, Memory, and
+Cognition, 20(4), 786-803. https://doi.org/10.1037/02787393.20.4.786
+Payne, B. R., & Federmeier, K. D. (2017). Pace yourself:
+Intraindividual variability in context use revealed by selfpaced event-related brain potentials. Journal of Cognitive
+Neuroscience, 29(5), 837-854. https://doi.org/10.1162/jocn_
+a_01090
+Payne, B. R., Stites, M. C., & Federmeier, K. D. (2019). Eventrelated brain potentials reveal how multiple aspects of
+semantic processing unfold across parafoveal and foveal
+vision during sentence reading. Psychophysiology, 56(10),
+e13432. https://doi.org/10.1111/psyp.13432
+Pollatsek, A., Lesch, M., Morris, R. K., & Rayner, K. (1992).
+Phonological codes are used in integrating information
+across saccades in word identification and reading. Journal
+of Experimental Psychology: Human Perception and
+Performance, 18(1), 148-162. https://doi.org/10.1037/00961523.18.1.148
+Pulvermuller, F. (1995). Agrammatism: behavioral description
+and neurobiological explanation. Journal of Cognitive
+Neuroscience, 7(2), 165-181.
+Rayner, K. (1998). Eye movements in reading and information
+processing: 20 years of research. Psychological Bulletin, 124
+(3), 372-422. https://doi.org/10.1037/0033-2909.124.3.372
+Rayner, K., Balota, D. A., & Pollatsek, A. (1986). Against parafoveal semantic preprocessing during eye fixations in
+reading. Canadian Journal of Psychology/Revue Canadienne
+de Psychologie, 40(4), 473-483. https://doi.org/10.1037/
+h0080111
+Rayner, K., & Morris, R. K. (1992). Eye movement control in
+reading: Evidence against semantic preprocessing. Journal
+of Experimental Psychology: Human Perception and
+Performance, 18(1), 163-172. https://doi.org/10.1037/00961523.18.1.163
+Risse, S., & Kliegl, R. (2012). Evidence for delayed parafoveal-onfoveal effects from word n+2 in reading. Journal of
+Experimental
+Psychology:
+Human
+Perception
+and
+Performance, 38(4), 1026-1042. https://doi.org/10.1037/
+a0027735
+Schotter, E. R., & Jia, A. (2016). Semantic and plausibility
+preview benefit effects in English: Evidence from eye movements. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 42(12), 1839-1866. https://doi.org/
+10.1037/xlm0000281
+Snell, J., Meade, G., Meeter, M., Holcomb, P., & Grainger, J.
+(2019). An electrophysiological investigation of orthographic spatial integration in reading. Neuropsychologia,
+129, 276-283. https://doi.org/10.1016/j.neuropsychologia.
+2019.04.009
+Stites, M. C., Payne, B. R., & Federmeier, K. D. (2017). Getting
+ahead of yourself: Parafoveal word expectancy modulates
+the N400 during sentence reading. Cognitive, Affective, &
+Behavioral Neuroscience, 17(3), 475-490. https://doi.org/10.
+3758/s13415-016-0492-6
+Tanner, D, Morgan-Short, K, & Luck, S J. (2015). How inappropriate high-pass filters can produce artifactual effects and
+
+104
+
+C. LI ET AL.
+
+incorrect conclusions in ERP studies of language and cognition. Psychophysiology, 52(8), 997-1009.
+Tanner, D, & Van Hell, J G. (2014). ERPs reveal individual differences in morphosyntactic processing. Neuropsychologia, 56,
+289-301.
+Van De Meerendonk, N., Kolk, H. H., Vissers, C. T. W., & Chwilla,
+D. J. (2010). Monitoring in language perception: Mild and
+strong conflicts elicit different ERP patterns. Journal of
+Cognitive Neuroscience, 22(1), 67-82. https://doi.org/10.
+1162/jocn.2008.21170
+Van Herten, M, Kolk, H H, & Chwilla, D J. (2005). An ERP study of
+P600 effects elicited by semantic anomalies. Cognitive brain
+research, 22(2), 241-255.
+Van Petten, C., & Kutas, M. (1991). Influences of semantic and
+syntactic context on open-and closed-class words. Memory
+& Cognition, 19(1), 95-112. https://doi.org/10.3758/
+BF03198500
+
+Van Petten, C., & Luka, B. J. (2012). Prediction during language
+comprehension: Benefits, costs, and ERP components.
+International Journal of Psychophysiology, 83(2), 176-190.
+https://doi.org/10.1016/j.ijpsycho.2011.09.015
+Veldre, A., & Andrews, S. (2016). Is semantic preview benefit
+due to relatedness or plausibility? Journal of Experimental
+Psychology: Human Perception and Performance, 42(7), 939-
+952. https://doi.org/10.1037/xhp0000200
+Veldre, A., & Andrews, S. (2018). Beyond cloze probability:
+Parafoveal processing of semantic and syntactic information
+during reading. Journal of Memory and Language, 100, 1-17.
+https://doi.org/10.1016/j.jml.2017.12.002
+Wlotko, E W, & Federmeier, K D. (2012). So that's what you
+meant! Event-related potentials reveal multiple aspects of
+context use during construction of message-level
+meaning. NeuroImage, 62(1), 356-366. https://doi.org/10.
+1016/j.neuroimage.2012.04.054
+
+

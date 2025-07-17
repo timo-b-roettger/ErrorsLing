@@ -1,0 +1,983 @@
+Brain & Language 108 (2009) 56-66
+
+Contents lists available at ScienceDirect
+
+Brain & Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Orthographic combinability and phonological consistency effects
+in reading Chinese phonograms: An event-related potential study
+Chun-Hsien Hsu a, Jie-Li Tsai b,c, Chia-Ying Lee b,c,d,*, Ovid J.-L. Tzeng a,d
+a
+
+Institute of Neuroscience, National Yang-Ming University, Taiwan
+Department of Psychology, National Chengchi University, Taiwan
+c
+Research Center for Mind, Brain, and Learning, National Chengchi University, Taiwan
+d
+The Institute of Linguistics, Academia Sinica, 128, Section 2, Academia Road 115, Taipei, Taiwan, ROC
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 9 September 2008
+Available online 31 October 2008
+Keywords:
+Chinese characters
+Consistency effect
+Combinability effect
+N170
+P200
+N400
+
+a b s t r a c t
+In this study, event-related potentials (ERPs) were used to trace the temporal dynamics of phonological
+consistency and phonetic combinability in the reading of Chinese phonograms. The data showed a significant consistency-by-combinability interaction at N170. High phonetic combinability characters elicited
+greater negativity at N170 than did low phonetic combinability characters, and the combinability effect
+was only found in the reading of high consistency characters. The results support the phonological mapping hypothesis of the reading-related N170 effect and suggest that the earlier stages of visual word recognition are shaped by the mapping of orthography to phonology even in Chinese. Moreover, our data
+revealed both consistency and combinability effects at P200 and N400, accounted for by the two-stage
+framework for visual word recognition. That is, characters with high combinability or high consistency
+facilitated the earlier stages of orthographic or phonological processing which were due to increased activation at the perceptual level; consequently, less positive P200 was demonstrated. In the later stages,
+high combinability or high consistency characters were associated with a larger semantic neighborhood,
+which increased semantic competition and exaggerated the N400 effect. These data support the assumption of radical-based inputs proposed by the lexical constituent model. However, the phonetic consistency effects found at N170 and P200 cannot be reconciled with the current framework of the lexical
+constituent model. A possible revision will be discussed.
+O 2008 Elsevier Inc. All rights reserved.
+
+1. Introduction
+How words are represented in the mental lexicon and how lexical knowledge can be retrieved are central issues in the study of
+human language processing. In the past few years, research has
+demonstrated that a word's identification is affected by its neighboring structure. The well-established neighborhood properties
+of a word include the orthography-to-phonology consistency (i.e.,
+the degree to which similarly spelled words are pronounced similarly) (Taraban & McClelland, 1987), the orthographic neighborhood size (i.e., the number of words that can be created by
+changing a single letter in a target word) (Andrews, 1989;
+Coltheart, Davelaar, Jonasson, & Besner, 1977; Grainger, O'Regan,
+Jacobs, & Segui, 1989; Holcomb, Grainger, & O' Rourke, 2002),
+and the phonological neighborhood density (i.e., the number of
+words that can be derived by changing one phoneme in a target
+word) (Pylkkanen, Stringfellow, & Marantz, 2002). These types of
+
+* Corresponding author. Address: The Institute of Linguistics, Academia Sinica,
+128, Section 2, Academia Road 115, Taipei, Taiwan, ROC. Fax: +886 2 2785 6622.
+E-mail address: chiaying@gate.sinica.edu.tw (C.-Y. Lee).
+0093-934X/$ - see front matter O 2008 Elsevier Inc. All rights reserved.
+doi:10.1016/j.bandl.2008.09.002
+
+studies are valuable since they provide insight into the organization of lexical knowledge and the processes underlying word
+recognition. The current study aims to advance our knowledge of
+the role of the orthographic neighborhood size (the phonetic radical combinability) in the reading of Chinese characters.
+1.1. Orthographic neighborhood size effect in alphabetic writing
+system
+In studies of English, the orthographic neighborhood size of a
+word is defined as the number of words that can be created by
+changing a single letter of the word while maintaining the original
+positions of the letters (Coltheart et al., 1977). For example, the
+word cheat has four neighbors (i.e. cheap, chest, cleat, and wheat)
+and the word cover has thirteen (a partial list includes coven, covet,
+cower, hover, lover, and mover). Most of the studies in this field use
+the lexical decision task and report a facilitative neighborhood size
+effect for low frequency words and its interaction with word frequency (Andrews, 1989; Forster & Shen, 1996; Pollatsek, Perea, &
+Binder, 1999). Specifically, the response latencies to low- frequency words with many neighbors are shorter than those with
+few neighbors; however, the neighborhood size effect is negligible
+
+C.-H. Hsu et al. / Brain & Language 108 (2009) 56-66
+
+or nonexistent for high- frequency words. However, inhibitory
+neighborhood size and neighborhood frequency effects for lowfrequency words have also been reported in studies using various
+tasks such as the perceptual identification task, progressive
+demasking paradigm, sentence reading task, and lexical decision
+task (Grainger & Segui, 1990; Perea, Carreiras, & Grainger, 2004;
+Pollatsek et al., 1999; Snodgrass & Mintzer, 1993).
+Grainger and Jacobs (1996) proposed the multiple read-out
+model (MROM) to simulate a wide variety of neighborhood effects in different tasks on the basis of three output criteria/processes that underlie the speeded binary lexical decision task.
+Two of the processes use intralexical information to generate a
+``yes" response, while the third process uses extralexical information to generate a ``no" response in the lexical decision task.
+The two intralexical sources are (a) local lexical activation of
+the target word itself and (b) global activity in the mental lexicon induced by a partial activation of the target word's orthographic neighbors. The extralexical source of information is the
+time criterion. The criterion value set on each of the three information dimensions determines the type (``yes" or ``no") and
+speed of a lexical decision response. When either global or local
+activation exceeds a criterion, either a word response or ``yes"
+response is made. Hence, the facilitative neighborhood size effect
+can be explained as follows: when a word has a larger neighborhood size, there is more global activation in the mental lexicon
+and a faster positive response can be generated. In addition,
+the MROM introduces a ``fast guess" mechanism that can lead
+to a ``yes" response when the total activation in the lexicon exceeds the criterion, even before any specific word representation
+has reached the threshold criterion. Further, it explains that a
+lexical decision can be made even before lexical identification
+is fully complete, especially when the task stresses speed over
+accuracy. On the other hand, the inhibitory neighborhood size
+or neighborhood frequency effect reflects the lateral inhibition
+between the intralexical word units (orthographic neighbors),
+especially when the task stresses on accuracy or requires deep
+processes such as accessing a word's meaning. The MROM also
+implies how lexical activity unfolds over time. For example, a
+decision made in the earlier stage of processing is mainly determined by the global activation while the local activation plays a
+much more important role in the later stage of the lexical
+competition.
+To assess the assumption of the MROM, Holcomb, Grainger, and
+O' Rourke (2002) conducted a lexical decision task in which they
+manipulated the orthographic neighborhood size of English words
+and pseudowords. Although their results showed opposing effects
+of neighborhood size for words and pseudowords in terms of the
+participants' reaction times, both the words and pseudowords produced a consistent pattern of neighborhood size effect at N400.
+That is, when the neighborhood size was large, both the words
+and pseudowords induced greater negative amplitude of N400
+than when the neighborhood size was small. They interpreted
+the data as supporting the MROM and suggested that N400 reflects
+the global lexical activity induced by both the words and pseudowords. However, other studies found frequency and congruency effects at the syllable level at the frontal P200, whereas these effects
+at the lexical level were observed at the later N400 (Barber,
+Vergara, & Carreiras, 2004; Carreiras, Vergara, & Barber, 2005).
+These findings suggest that P200 reflects the lexical activity triggered by sublexical units, while N400 reflects the lateral inhibition
+process for suppressing the activity of other items, with the inhibition being stronger for words with larger neighborhoods. It
+remains unclear whether P200 and N400 reflect the two distinctive
+mechanisms of MROM, i.e., the global lexical activity in the early
+phase of processing and the lexical competition of the lateral
+inhibitory process.
+
+57
+
+1.2. Orthographic neighborhood size effect in the reading of chinese
+characters
+In Chinese, approximately 80% of the characters are phonograms that consist of a semantic radical (usually on the left-hand
+side) and a phonetic radical (usually on the right-hand side). There
+is increasing evidence that indicates that reading a complex character involves the processing of its radicals (Chen & Weekes, 2004;
+Ding, Peng, & Taft, 2004; Feldman & Siok, 1997; Feldman & Siok,
+1999; Lee, Tsai, Chiu, Tzeng, & Hung, 2006; Taft & Zhu, 1997).
+The orthographic neighborhood size effect in the reading of
+Chinese characters was first addressed by Taft and Zhu (1997).
+They defined radical frequency as the number of characters that
+share the same radical, regardless of the radical position or radical
+function. Their data showed a position sensitive effect of radical
+frequency, i.e., the lexical decision time for characters with high
+radical frequency was faster than that for characters with low
+radical frequency. Furthermore, this was true only for the radicals
+that appeared on the right-hand side of the character.
+However, in most Chinese phonograms, the phonetic radical
+tends to appear on the right and the semantic radical tends to appear
+on the left. In Taft's study, the radical position might have been confused with the radical function. To avoid this confusion, Feldman and
+Siok (1997) used the term radical combinability (defined by function)
+rather than radical frequency (defined by form). In addition, combinability can be further divided into phonetic combinability and
+semantic combinability, which are defined as the number of phonograms that share the same phonetic or semantic radical, respectively. By manipulating the radical combinability (for the phonetic
+and semantic radicals) and radical position in a character decision
+task, they found facilitative combinability effects for both semantic
+and phonetic radicals; however, these effects were not reliable within their positions. For the phonetic radicals, the combinability effect
+was significant in both the left and right positions. On the other hand,
+for the semantic radicals, the combinability effect was significant
+only when the semantic radical was on the left. These findings suggest that the radical function should be considered when investigating the radical combinability effect (Feldman & Siok, 1997). This
+conclusion has been further supported by Chen and Weekes's study
+(2004) which demonstrated that the combinability effect of the
+semantic radical can be reversed in semantic category judgment
+while reading semantic transparent and semantic opaque characters. However, the question of how the function of a phonetic radical
+affects the orthographic combinability effect remains unanswered
+in this field.
+Perfetti, Liu, and Tan (2005) proposed an interactive constituency model that assumes that the representation of a word consists
+of
+three
+interlocking
+constituents:
+orthographic,
+phonological, and semantic. The input units are radicals and the
+spatial relationship between the radicals. The radical input and
+the phonological levels of the model can be regarded as distributed
+representations, whereas the orthographic and semantic representations can be regarded as localized representations. According to
+this framework, successful lexical retrieval (word identification)
+requires full specification of all the three constituents. Furthermore, this model predicted the temporal dynamics of graphic
+and phonological effects. That is, the radical-based inputs provide
+facilitation in the early orthographic processing. Furthermore,
+when a radical activates more than one character to threshold level, the inhibitory process emerges at the lexical level. These
+assumptions consistent with their study on event-related potentials (ERPs) (Liu, Perfetti, & Hart, 2003) which demonstrated that
+P200 was reduced when the character shared a radical with the
+preceding character and interpreted it as a graphic processing
+component. Meanwhile, the phonological interference effect was
+found in N400, which indexes character-level competition.
+
+58
+
+C.-H. Hsu et al. / Brain & Language 108 (2009) 56-66
+
+Based on the lexical constituent model, one would predict the
+reversed phonetic combinability effect in the different stages of
+lexical processing. A character with larger combinability should
+display larger facilitative effect on P200 and inhibitory effect on
+N400 than would a character with small combinability. However,
+the following question remains: how does the function of a phonetic radical take part in the Chinese lexical process? To address
+this issue, it is necessary to define the validity of phonetic radicals.
+In Chinese, the phonological relationship between a phonogram
+and a phonetic radical can be addressed by consistency, which
+indicates whether the pronunciation of a character agrees with
+those of its orthographic neighbors containing the same phonetic
+radical. The indices of consistency for English and Chinese are parallel in nature with respect to the representation of the statistical
+relationship between orthographic forms and their pronunciations.
+In studies of English, the consistency effect refers to findings suggesting that naming responses are faster and more accurate for
+words that have orthographic and phonological consistency (e.g.,
+-ean in the final position of a word is always pronounced /In/ as
+in lean, dean, bean, etc.). In contrast, naming responses are slower
+and less accurate for words lacking consistency (e.g., -int corresponds to /Int/ in mint and to /aInt/ in pint). This effect was observed primarily for words that have a low frequency of use
+(Seidenberg & Waters, 1985; Seidenberg, Waters, Barnes, &
+Tanenhaus, 1984; Taraban & McClelland, 1987). However, Jared
+(1997, 2002) demonstrated that high frequency words can also reveal a consistency effect equivalent to that of low frequency words
+when the summed frequency of friends and enemies in both the
+high and low frequency words are controlled. The consistency
+effect was used to support a single mechanism for converting
+printed words/pseudowords into speech sounds correlating to
+the statistical mapping we observed between orthography and
+phonology. On the other hand, previous studies manipulated character frequency and consistency and demonstrated frequency-byconsistency interaction in the naming of Chinese phonograms
+(Fang, Horng, & Tzeng, 1986; Lee, Tsai, Su, Tzeng, & Hung, 2005;
+Lee et al., 2004). That is, among low frequency characters, the
+characters of low consistency had a longer reaction time and lower
+accuracy than did the characters of high consistency. Parallel to
+Jared's (1997, 2002) findings, Lee et al. (2005) also demonstrated
+that provided the summed frequency of friends and enemies was
+controlled, there was a consistency effect in the reading of high frequency characters. Moreover, Tsai, Lee, Tzeng, Hung, and Yen
+(2004) investigated participants' eye movements while performing
+progressive sentence reading, and they found that character consistency had an impact on their fixation duration. These results
+suggest that the phonological information provided by the phonetic radical played a role in the reading of Chinese phonograms.
+In Chinese, consistency is defined by the ratio of the number of
+characters containing the same phonetic radical with the same
+pronunciation to the number of characters containing the same
+phonetic radical (the so-called phonetic combinability). It implies
+that in learning or developing the statistical mappings between
+orthography and phonology, orthographic similarity participates
+in the phonological restructuring of individual word representations. In other words, characters/words in dense neighborhoods
+may experience more pressure toward restructuring than would
+characters/words in sparse neighborhoods (Ziegler & Goswami,
+2005). Lee et al (2007), which manipulated high or low consistency
+characters while matching their phonetic combinability, found low
+consistency characters to elicit more positive P200 in the frontal
+region and less negative amplitude at N400 than did high consistency characters. This effect can be interpreted as an early orthographic or phonological activation (indexed by P200), associated
+with a given phonetic radical at the sublexical level and late competition (indexed by N400) among those lexical candidates that
+
+share the same phonetic radical. If the similarity-based view of
+the lexical restructuring process is true, one would expect to see
+that characters with high phonetic combinability will experience
+more pressure toward restructuring than will those with low phonetic combinability. In other words, phonograms with high phonetic combinability should display a greater consistency effect
+than will those with lower phonetic combinability. To test this
+hypothesis, the present study manipulates phonological consistency and phonetic combinability simultaneously (see Fig. 1) to
+examine whether the consistency effect would be modulated by
+the phonetic combinability. We expect the following results: first,
+the consistency effect found in Lee et al. (2007) will be replicated;
+second, the consistency effect will be more salient in the reading of
+high combinability characters. Lee et al. (2007) had demonstrated
+that the consistency effect can be found to influence different ERP
+components (such as N170, P200, and N400). Therefore, the answer to whether or not interaction between consistency and combinability can be found in different stages of the lexical process will
+shed some light on the temporal dynamics of phonological and
+orthographic processing in the reading of Chinese.
+2. Experimental procedure
+2.1. Participants
+Thirty-five right-handed native Chinese speakers with normal
+to corrected vision were paid to participate in this study. After artifact rejection, four participants (three males) were excluded from
+the analysis due to the extremely small number of valid trials in
+their data (less than 12). The final analysis was conducted with
+31 participants (17 males) whose average age was 23. Written consent was obtained from all the participants.
+2.2. Experiment design and materials
+A list of 120 Chinese phonograms, configured horizontally with
+a semantic radical on the left and a phonetic radical on the right,
+were selected from the Academia Sinica Balanced Corpus (Huang
+& Chen, 1998). The corpus is based on more than 5 million words
+(approximately 10 million characters) culled from textbooks,
+newspapers, works of literature, popular works of fiction and nonfiction, and transcripts. These phonograms were divided into four
+conditions (see Fig. 1) by manipulating their phonological consis-
+
+Fig. 1. Example characters from different levels of phonetic consistency and
+with orthographic neighborhoods sharing
+combinability
+the same phonetic radical.
+
+59
+
+C.-H. Hsu et al. / Brain & Language 108 (2009) 56-66
+
+tency (high vs. low) and phonetic combinability (high vs. low). The
+index for phonetic combinability and consistency was calculated
+based on 3697 phonograms. Phonetic combinability was defined
+as the number of phonograms that share a phonetic radical; characters with the same pronunciation within a group of characters
+were classified as ``friends." Phonological consistency was indexed
+by the proportion of the number of friends to phonetic combinability. Table 1 illustrates the characteristics of each condition. Each
+target character was paired with a homophone for the homophone
+judgment task. The aim of this task was to ensure that the phonology of a target was processed without an overt naming response
+that might cause muscular noise during the electroencephalogram
+(EEG) recording. To ensure that the participants knew the correct
+pronunciations of the target characters, each target character was
+followed by a homophone as a ``yes" trial. To balance the response,
+another group of 120 non-homophone pairs was created for ``no"
+trials. The mean correctness of all the participants was 88% (ranging from 73% to 99%).
+2.3. Procedure
+The participants were seated in front of a monitor, at a distance
+of approximately 60 cm, in an acoustically shielded room. Each
+participant was given 20 practice trials and 240 randomized experimental trials in three test sessions. The participants were permitted to take breaks between test sessions for as long as they
+required. The duration of the experiment was approximately
+30 m for each participant. A trial consisted of a cross fixation for
+500 ms and the display of a target character for another 500 ms.
+The participants were asked to silently name the target character.
+The target character was then replaced with a blank space for
+1000 ms before a probe character was presented. The participants
+were asked to decide whether the target character and probe character were homophones by pressing a button on the mouse as
+quickly and accurately as possible. The index finger indicated ``yes"
+and the middle finger ``no." The correctness of the responses and
+reaction times were recorded. After the disappearance of the probe
+character, the capital letter ``B" was presented in boldface for
+1600 ms as a signal for the participants to blink quickly, if necessary, before the next trial.
+2.4. EEG recording and preprocessing
+The EEG was recorded from 64 Ag/AgCl electrodes (QuickCap,
+Neuromedical Supplies, Sterling, USA) with a common vertex
+reference located between Cz and CPz. The data were re-referenced
+off-line to the average of the right and left mastoids for further
+analysis. Vertical eye movements (VEOG) were recorded by a pair
+of electrodes placed on the supra- and infraorbital ridges of the left
+eye. Horizontal eye movements (HEOG) were recorded by a pair of
+electrodes placed lateral to the outer canthus of the right and left
+eyes. A ground electrode was placed on the forehead anterior to
+Fz. Electrode impedance was kept below 5 KX. The EEG signal
+
+was continuously recorded and digitized at a rate of 500 Hz. The
+signals were amplified with SynAmps2 O (Neuroscan, Inc.)
+amplifiers at a band-pass filter of 0.05-100 Hz for off-line analysis.
+For the off-line analysis, the continuous wave was low-pass filtered below 50 Hz (zero phase shift mode, 12 dB) and then epoched with 100-ms pre-stimulus intervals and 922-ms poststimulus intervals. The pre-stimulus interval ( 100 ms-0 ms)
+was used for baseline correction. Trials contaminated by eye movement or with voltage variations larger than 60 lV were rejected.
+Next, the data were low-pass filtered below 30 Hz (zero phase shift
+mode, 12 dB). The ERPs of the four conditions were computed for
+every participant at every electrode site by averaging the corresponding trials with correct responses.
+3. Result
+Figs. 2 and 3 present the grand averaged ERPs of the four conditions at the representative electrodes. The first component was
+N170, which was defined as the most negative peak at around
+170 ms at bilateral-posterior sites. The second component was
+P200, which was a positive wave distributed at the frontal-central
+sites, peaking at around 220 ms. The third component was N400,
+which was a slow negative wave. It peaked at around 350 ms
+and was characterized as centroparietal distribution. The analysis
+of N170 was performed by comparing the negative peak amplitude
+within the time window from 100 to 200 ms. For the analyses of
+P200 (170-270 ms) and N400 (300-450 ms), the effects of consistency and combinability were compared using the mean amplitude
+values from the time windows of interest. Repeated measure ANOVAs were performed on these components, with consistency, phonetic combinability, and electrodes--which refers to a set of
+electrodes at different recording locations on the scalp--as some
+of the within-subject factors. For each ANOVA, the Greenhouse-
+Geisser adjustment to the degrees of freedom was applied to correct for the violations of sphericity associated with repeated measures. Accordingly, for all the F tests with more than one degree of
+freedom in the numerator, the corrected p-value is reported. The
+post-hoc tests were carried out using Tukey's procedure.
+3.1. N170
+Four pairs of electrodes (P5/6, P7/8, PO5/6, and PO7/8) from the
+left and right posterior areas were selected, since the reading-related N170 effect was prominent in these regions of the scalp
+(Maurer, Brandeis, & McCandliss, 2005). The peak amplitude of
+N170 was analyzed by a four-way ANOVA with consistency (high
+and low), combinability (high and low), hemisphere (left and
+right), and electrodes as within-subject factors. Neither character
+consistency (F(1, 30) = 0.119, p > .1) nor phonetic combinability
+(F(1, 30) = 1.108, p > .1) showed significant main effects. However,
+the three-way interaction among consistency, combinability, and
+electrodes was significant (F(3, 90) = 4.824, p < .05, e = .6). Posthoc tests showed that the interaction between consistency and
+
+Table 1
+Indexes of mean consistency, phonetic combinability, character frequency, number of strokes, and semantic combinability in the four conditions of this experiment
+High consistency
+
+Consistency index
+Phonetic combinability
+Character rrequency (per 10 million)
+Number of strokes
+Semantic combinability
+Note. Standard deviations are given in parentheses.
+
+Low consistency
+
+High combinability
+
+Low combinability
+
+High combinability
+
+Low combinability
+
+0.87(0.10)
+10.17(2.76)
+27.77(19.36)
+13.20(3.46)
+72.00(51.42)
+
+0.98(0.07)
+3.20(0.76)
+31.60(22.96)
+15.53(4.20)
+80.97(46.79)
+
+0.21(0.09)
+11.37(2.68)
+32.53(23.68)
+13.47(4.27)
+75.73(51.85)
+
+0.30(0.09)
+3.60(0.93)
+34.63(25.18)
+14.37(4.73)
+76.23(52.47)
+
+60
+
+C.-H. Hsu et al. / Brain & Language 108 (2009) 56-66
+
+Fig. 2. Grand averaged ERPs at represented electrodes from (a) high combinability characters and (b) low combinability characters.
+
+combinability was significant at PO7/8 (F(1, 30) = 6.130, p < .05),
+PO5/6 (F(1, 30) = 7.756, p < .01) and P5/6 (F(1, 30) = 6.300, p < .05).
+Specifically, there were significant phonetic combinability effects
+in the reading of high consistency characters at PO7/8
+(F(1, 30) = 7.089, p < .05), PO5/6 (F(1, 30) = 6.227, p < .05) and P5/6
+(F(1, 30) = 5.799, p < .05). Fig. 3 indicates that at bilateral-poster
+sites, high consistency/high phonetic combinability characters elicited more negative N170 than did high consistency/low phonetic
+combinability characters. However, the combinability effect in
+the reading of low consistency characters was not significant for
+any electrode (p > .1).
+
+trodes (F1, FZ, F3, FC1, FCZ, FC3, C1, CZ, and C3) were chosen for
+analyzing P200. The mean amplitude of P200 was analyzed by a
+three-way ANOVA that included consistency, combinability, and
+electrodes as within-subject factors. The data revealed a significant
+consistency effect (F(1, 30) = 11.789, p < .01), i.e., low consistency
+characters demonstrated more positive P200 than did high consistency characters. Further, low phonetic combinability characters
+revealed more positive P200 than did high phonetic combinability
+characters, although this difference was only marginally significant
+(F(1, 30) = 2.9, p = .09). No other two-way or three-way interaction
+was found to be significant (p > .1).
+
+3.2. P200
+
+3.3. N400
+
+Lee et al. (2007) suggested a left centrofrontal distribution of
+the consistency effect at P200. Accordingly, nine left anterior elec-
+
+The analysis of N400 was divided into a midline analysis and a
+lateral analysis since this component was distributed over the
+
+C.-H. Hsu et al. / Brain & Language 108 (2009) 56-66
+
+61
+
+Fig. 3. Grand averaged ERPs of (a) high consistency characters and (b) low consistency characters at two posterior electrodes.
+
+entire scalp. Five electrodes (FZ, FCZ, CZ, CPZ, and PZ) were defined
+as the electrode variable for the midline N400. Another ten electrodes (F5/6, FC5/6, C5/6, CP5/6, and P5/6) were selected for the
+lateral N400. Accordingly, the midline N400 was tested by a
+three-way ANOVA, which included character consistency, phonetic
+combinability, and electrodes as within-subject factors, while the
+lateral N400 was tested by a four-way ANOVA, which included
+character consistency, phonetic combinability, hemisphere, and
+electrodes as within-subject factors.
+The midline analysis showed a significant consistency effect
+(F(1, 30) = 11.716, p < .01). High consistency characters revealed
+more negative N400 than did low consistency characters. However,
+the phonetic combinability effect (F(1, 30) = 3.413, p = .07) was not
+significant. None of the interactions were significant (p > .1). The
+lateral analysis revealed significant main effects of consistency
+(F(1, 30) = 10.492, p < .01) and combinability (F(1, 30) = 5.826,
+p < .05). High consistency characters revealed more negative
+N400 than did low consistency characters. In addition, high phonetic combinability characters revealed more negative N400 than
+did low phonetic combinability characters. These two effects interacted neither with each other nor with hemisphere and electrodes
+(p > .1).
+3.4. Distribution
+A distributional analysis with the time window as a factor was
+conducted to test whether the consistency effects on P200 and
+N400 have different topographical distributions. Twenty electrodes
+across the scalp were selected for analyzing the scalp distribution,
+which included electrodes on left-lateral sites (F5, FC5, C5, CP5, and
+P5), left-medial sites (F1, FC1, C1, CP1, and P1), right-medial sites
+(F2, FC2, C2, CP2 and P2) and right-lateral sites (F6, FC6, C6, CP6,
+and P6). In the 170-270 ms and 300-450 ms time windows, the
+difference waves of consistency effects (low minus high) in high
+
+and low phonetic combinability conditions were normalized separately according to the procedure described in McCarthy and Wood
+(1985). A five-way ANOVA including time windows (P200 vs.
+N400), combinability (high vs. low), hemisphere (left vs. right), laterality (medial vs. lateral), and caudality as within-subject factors
+was performed. The analysis showed a significant three-way interaction between time windows, hemisphere and caudality
+(F(4, 120) = 3.486, p < .05, e = .79). Post- hoc tests showed that the
+two-way interaction between hemisphere and caudality was more
+significant at P200 (F(4, 120) = 10.742, p < .001, e = .737) than at
+N400 (F(4, 120) = 3.675, p = .03, e = .807). For P200, caudality effect
+at P200 was significant in both the left hemisphere
+(F(4, 120) = 19.423, p < .0001, e = .372) and the right hemisphere
+(F(4, 120) = 10.30, p < .001, e = .388). Specifically, in the left hemisphere, anterior electrodes revealed larger consistency effects than
+did the posterior electrodes (F5/1 versus P5/1: p < .01; FC5/1 versus
+P5/1: p < .01). However, in the right hemisphere, only central electrodes revealed larger P200 consistency effects than did posterior
+electrodes (C6/2 versus P6/2: p < .05). As for N400, the caudality effect at N400 was pronounced in the left hemisphere
+(F(4, 120) = 15.224, p < .0001, e = .417) and less significant in the
+right hemisphere (F(4, 120) = 8.156, p < .01, e = .438). In the left
+hemisphere, central electrodes revealed larger N400 consistency
+effects than did the posterior electrodes (FC5/1 versus P5/1:
+p < .01; C5/1 versus P5/1: p < .05). However, no any paired comparison of electrodes was significant in the right hemisphere. The distributional analysis demonstrated that the consistency effects at
+P200 and N400 have different distributional characteristics.
+3.5. Reanalysis based on phonological alternatives and phonological
+family size
+According to Lee et al. (2007), phonological alternatives is
+defined as the number of pronunciations associated with a given
+
+62
+
+C.-H. Hsu et al. / Brain & Language 108 (2009) 56-66
+
+phonetic radical, while phonological family size is defined as the
+number of homophones within a selected phonological subgroup.
+In this study, the simultaneous manipulation of phonological consistency and combinability implies that the difference in terms of
+phonological alternatives and phonological family size between
+high and low consistency will be much larger in the reading of high
+combinability characters than in the reading of low combinability
+characters. Based on the two-stage framework, the P200 indexes
+reflect the variation in the mappings between orthography and
+phonology, while the N400 indexes reflect the lexical competition
+within the selected pronunciations (phonological subgroup). In
+addition to the interaction at N170, we expected to observe interaction between consistency and combinability at both P200 and
+N400. However, the data did not support this hypothesis. One possible explanation for the current findings is that we did not directly
+manipulate the phonological family size and phonological alternatives. Instead, we assumed that these two indices might covariate
+with the manipulation of consistency and combinability.
+To further explore this possibility, we directly examined the phonological alternatives and phonological family sizes for all the stimuli. The mean of these values is provided in Table 2. The repeated
+ANOVA measures revealed a significant interaction between consistency and combinability (phonological alternative: F(1, 29) = 6.883,
+p < .05; phonological family size: F(1, 29) = 35.980, p < .001). However, when examining the distribution of the two indexes, we found
+that the phonological family sizes of highly consistent and combinable characters ranged from 4 to 12, which partially overlapped with
+those of the other three conditions (which ranged from 1 to 5). The
+phonological family sizes for some of these characters (ranging from
+4 to 5) could be smaller, and it is not necessary to display their difference between such characters and the low consistency/ high combinability characters.
+To further examine whether the difference between the phonological family sizes of high and low consistency characters with
+high combinability is insufficient to show consistency-by-combinability interaction at P200 and N400, we performed an additional
+analysis by deleting seven items from the high consistency/high
+combinability condition whose phonological family sizes were
+lower than 5. The family sizes of the remaining 23 items averaged
+at 7.74 and ranged from 6 to 12. Two participants were excluded
+from further analysis due to an insufficient number of accepted trials in their data. Fig. 4 provides the reanalyzed ERP waveforms of
+all four conditions and illustrates the consistency effects in the
+high and low combinability conditions. The same designs of repeated-measure ANOVAs used in the previous analyses were performed on the corrected data sets to examine whether
+consistency-by-combinability interaction could be found at N170,
+P200, and N400. A planned comparison will be performed to test
+for simple main effects of consistency on high and low combinability characters.
+3.5.1. N170
+Identical to the previous analysis, the peak amplitude of N170
+was analyzed with a four-way ANOVA including the within-subject
+
+factors of consistency, combinability, hemisphere, and electrodes
+(P5/6, P7/8, PO5/6, and PO7/8). Neither character consistency
+(F(1, 28) = .52, p > .1) nor phonetic combinability (F(1, 28) = 1.792,
+p > .1) showed significant main effects. The two-way interaction between consistency and combinability (F(1, 28) = 4.813, p < .05), and
+the three-way interaction among consistency, combinability, and
+electrodes (F(3, 84) = 4.137, p < .05, e = .7) were significant. Posthoc tests demonstrated that the interaction between consistency
+and combinability was significant at PO7/8 (F(1, 28) = 11.936,
+p < .01), P5/6 (F(1, 28) = 10.010, p < .01) and PO5/6 (F(1, 28) =
+14.116, p < .001). Specifically, there were significant phonetic combinability effects in high consistency characters at PO7/8
+(F(1, 28) = 12.951, p < .01), P5/6 (F(1, 28) = 9.024, p < .01) and PO5/6
+(F(1, 28) = 11.857, p < .01). That is, high consistency/high phonetic
+combinability characters elicited more negative N170 than did high
+consistency/low phonetic combinability characters at bilateral-posterior sites. However, the combinability effect in the reading of low
+consistency characters was not significant for any electrode
+(p > .1). On the other hand, the simple main effects of consistency
+were significant in high phonetic combinability characters at PO7/
+8 (F(1, 28) = 9.452, p < .01), P5/6 (F(1, 28) = 6.015, p < .05) and PO5/
+6 (F(1, 28) = 10.286, p < .01). That is, high consistency/high phonetic
+combinability characters elicited more negative N170 than did low
+consistency/high phonetic combinability characters. However, the
+consistency effect in the reading of low combinability characters
+was not significant for any electrode (p > .1).
+3.5.2. P200
+The mean amplitude of P200 was analyzed by a three-way ANOVA that included consistency, combinability, and electrodes as
+within-subject factors. The data revealed a significant consistency
+effect (F(1, 28) = 8.346, p < .01). Low consistency characters revealed more positive P200 than did high consistency characters.
+The main effect of combinability was not significant
+(F(1, 28) = 2.456, p = .13), although the tendency of low phonetic
+combinability characters remain to reveal more positive P200 than
+did high phonetic combinability characters. The two-way interaction between consistency and combinability was not significant
+(F(1, 28) = 1.244, p = .27). However, the planned comparison revealed a significant consistency effect in the reading of high combinability characters (F(1, 56) = 7.514, p = .008) thought not in the
+reading of low combinability characters (p > .1).
+3.5.3. N400
+Identical to the previous analysis, the mean amplitude of N400
+was divided for a midline analysis and lateral analysis. The midline
+N400 was tested by a three-way ANOVA, which included character
+consistency, phonetic combinability, and electrodes as within-subject factors, while the lateral N400 was tested by a four-way ANOVA, which included character consistency, phonetic combinability,
+hemisphere, and electrodes as within-subject factors.
+The midline analysis showed a significant consistency effect
+(F(1, 28) = 6.813, p < .05), i.e., high consistency characters revealed
+more negative N400 than did low consistency characters. The
+
+Table 2
+Mean phonological family size and alternatives
+High consistency
+
+Low consistency
+
+High combinability
+
+Low combinability
+
+High combinability
+
+Low combinability
+
+Phonological family size
+Mean (SD)
+Range
+
+6.73(2.41)
+4  12
+
+2.13(0.82)
+24
+
+1.43(1.25)
+15
+
+0.17(0.46)
+13
+
+Phonological alternatives
+Mean (SD)
+Range
+
+2.2(0.92)
+15
+
+1.20(0.55)
+13
+
+5.03(1.63)
+28
+
+3.00(1.14)
+26
+
+C.-H. Hsu et al. / Brain & Language 108 (2009) 56-66
+
+63
+
+Fig. 4. Reanalyzed ERPs at represented electrodes from (a) high combinability characters and (b) low combinability characters.
+
+phonetic combinability effect (F(1, 28) = 2.137, p = .15) and the
+consistency-by-combinability interaction (F(1, 28) = 1.352, p = .25)
+were not significant. The planned comparison demonstrated a significant consistency effect in the reading of high combinability
+characters (F(1, 56) = 7.514, p = .008), but not in the reading of
+low combinability characters (p > .1).
+The lateral analysis revealed a significant consistency effect
+(F(1, 28) = 8.098, p < .01) and a marginally significant combinability
+effect (F(1, 28) = 3.841, p = .06). High consistency characters revealed more negative N400 than did low consistency characters.
+In addition, high phonetic combinability characters revealed more
+negative N400 than did low phonetic combinability characters. The
+consistency-by-combinability interaction was not significant
+(F(1, 28) = 0.003, p = .95). The planned comparison showed a marginally significant consistency effect in the reading of high combinability characters (F(1, 56) = 3.808, p = .050), and a significant
+
+consistency effect in the reading of low combinability characters
+(F(1, 56) = 4.137, p = .04).
+In summary, for N170, the combinability effect was only found
+in the reading of high consistency characters; further, characters
+with higher phonetic combinability elicited greater negativity at
+N170 than did those with lower phonetic combinability. Moreover,
+the planned comparison showed that low consistency/high combinability characters produced more positive P200 and less negative N400 than did high consistency/high combinability characters.
+
+4. General discussion
+The present study aims to explore the relationship between
+phonetic combinability and phonological consistency in the reading of Chinese phonograms. The main findings reveal a significant
+
+64
+
+C.-H. Hsu et al. / Brain & Language 108 (2009) 56-66
+
+interaction between phonetic combinability and consistency at
+N170 and consistency and combinability effects at P200 and
+N400. These findings supported those in Lee et al. (2007) regarding
+the consistency effect and further suggest the interplay between
+orthographic density and the mapping of orthography to phonology in the different stages of lexical processing. The various aspects
+of the psychological processes involved in reading linked to N170,
+P200, and N400 will be discussed separately below.
+4.1. N170
+Interaction between phonetic combinability and consistency was
+found at N170 in the bilateral occipital area, which demonstrated
+that high phonetic combinability/high consistency characters elicited greater negativity at N170 than did low phonetic combinability/high consistency characters. The data are congruent with the
+perceptual expertise account of N170. Studies have suggested the
+N170 component as an index of orthographic detection at the initial
+perceptual categorization stage (Bentin, Mouchetant-Rostaing,
+Giard, Echallier, & Pernier, 1999; Maurer et al., 2005; Rossion, Joyce,
+Cottrell, & Tarr, 2003). Increased N170 responses were elicited in the
+stimulus category with which a person has extensive visual experience, such as the identification of faces (Rossion et al., 2003) and the
+identification of birds/dogs (Tanaka & Curran, 2001). These results
+suggest that extensive visual experience with an object category
+leads to fast, specialized processing within the first 200 ms. In addition, the reading-related N170 effect can be found in the contrasts
+between words and strings of meaningless symbols, forms, consonant strings, or shapes (Maurer et al., 2005; Schendan, Ganis, & Kutas, 1998). The perceptual expertise account may also account for
+the combinability effect found at N170 in the current study and suggests that radical analysis occurs in the earlier stages of Chinese
+reading. High combinability characters imply larger orthographic
+neighborhoods, thus, they elicit greater activation at the perceptual
+level than do low combinability characters.
+The consistency-by-combinability interaction found at N170
+suggests that the mapping of orthography to phonology influences
+the earlier stages of orthographic processing (Goswami & Ziegler,
+2006; Lee et al., 2007). This effect provides further support for the
+phonological mapping hypothesis of the N170 word effect (Maurer
+& McCandliss, 2007), according to which the left lateralization of
+the reading-related N170 may reflect the involvement of spellingto-sound mapping during visual word recognition. Cross-linguistic
+studies have shown that the reading of pseudowords elicits a lefthemisphere modulation at N170 in German, but not in English
+(Maurer et al., 2005). A study involving Koreans who were educated
+in both Chinese and written English reported a left-lateralized N170
+effect for both English and Korean words but a bilateral N170 effect
+for Chinese characters and pictures (Kim, Yoon, & Park, 2004). The
+prominent difference in the comparisons between German and
+English, and between English and Chinese lies in the level of orthography-to-phonology transparency. Such cross-linguistic differences
+provide support for the phonological mapping hypothesis of the leftlateralized N170 effect. In addition, the consistency-by-combinability interaction found in the current study was a bilateral effect rather
+than a left-lateralized effect. This also confirms the following proposition of the phonological mapping hypothesis: ``The left-lateralization of the N170 responses to visual words should be more
+pronounced in scripts using grapheme-phoneme conversion rules,
+but less pronounced in logographic scripts which are based on
+lexical morphemes" (Maurer & McCandliss, 2007).
+4.2. P200 and N400
+This study demonstrated that low consistency characters produced more positive amplitude at P200 and less negative ampli-
+
+tude at N400 than did high consistency characters. This finding
+replicates Lee et al.'s (2007) results and supported the two-stage
+framework for lexical access by using P200 and N400 to index
+the earlier and later stages of lexical processing. For low consistency characters, more phonological alternatives can be associated with a given phonetic radical. This will cause greater
+interference at the phonological level and thus show greater positivity at P200. On the other hand, given that phonetic combinability is matched between the high and low consistency
+conditions, the phonological family size within a selected pronunciation or phonological subgroup of high consistency characters will be larger than that within a similar subgroup of low
+consistency characters. Therefore, high consistency characters
+would involve greater semantic competition at this stage and
+display greater N400 than would low consistency characters.
+The same framework can be used to explain the combinability
+effect found at P200 and N400, wherein high phonetic combinability characters demonstrated less positive P200 and more
+negative N400 than did low phonetic combinability characters.
+According to the two-stage framework, high combinability (more
+orthographic neighbors) facilitates character processing at the
+orthographic level due to larger orthographic activation, consequently demonstrating less positivity at P200. A larger neighborhood size increases semantic competition, which in turn,
+exaggerates the N400 effect ( Holcomb, Grainger, & O' Rourke,
+2002).
+The raw analysis of P200 and N400 demonstrated significant
+main effects of consistency and combinability. However, there
+was no interaction between these two factors. Although the
+two-stage framework can account for these main effects, the
+hypothesis that the consistency effect should be more salient
+in the reading of phonograms with high phonetic combinability
+was not supported. Lee et al. (2007) suggested that the number
+of alternative pronunciations and the phonological family size
+associated with a given character may be reflected at P200 and
+N400. This study did not manipulate the phonological family size
+and phonological alternatives directly and assumed that these
+two indexes would covariate with the manipulation of consistency and combinability. To be more specific, a word with larger
+combinability also implies that it has a larger phonological family size. By examining the phonological alternatives and phonological family sizes for all the stimuli, we found seven high
+consistency and high combinability characters with relatively
+small phonological family sizes. After deleting these items, the
+planned comparison in the reanalysis revealed a significant consistency effect at P200 and N400 in the reading of high combinability characters. These findings support our speculation and
+suggest that in the reading of Chinese phonograms, early specification of the pronunciations is carried out by selection among
+the phonological alternatives associated with a given phonetic
+radical. Then, presumably, semantic competition is performed
+in the later stages among the candidates within a phonological
+family. Most importantly, the lexical processing of character recognition correlates to the statistical mapping we observed between orthography, phonology, and semantics. Therefore, the
+orthography-to- phonology transformation is not determined solely by the consistency between orthography and phonology but
+also by the orthographic neighborhood size of the constitution
+(e.g., the phonetic and semantic radicals) of the characters. Nevertheless, these results showed a tendency toward a larger consistency effect in the reading of high phonetic combinability
+characters at P200 and N400 which were mainly based on
+post-hoc reanalysis. Further investigation is needed to verify
+how different aspects of phonological consistency influence the
+reading of Chinese, in terms of the number of alternative pronunciations and the phonological family size.
+
+C.-H. Hsu et al. / Brain & Language 108 (2009) 56-66
+
+4.3. Implications for models of chinese character recognition
+The current findings regarding combinability effects at P200
+and N400 further support the lexical constituency model. Based
+on this model, the radical-based inputs predict that words with
+high combinability (i.e., those with more orthographic neighbors
+sharing the same radical) result in larger orthographic activation
+facilitate character processing at the early orthographic level, and
+display less positive P200. In the later stage, a radical activates
+more characters that share the same radical to reach the threshold,
+and greater inhibition emerges at the lexical level and is reflected
+by a larger N400. The data were congruent with previous studies
+that demonstrated that P200 was reduced when a character shared
+a radical with the preceding character and interpreted it as a graphic processing component (Liu et al., 2003). Meanwhile, this model emphasizes threshold-style, rather than cascade-style,
+activation of phonology. The idea is that in an alphabetic system,
+the word-level level units do not wait for a complete specification
+of all the letter units before activating word-level phonology,
+which is the so-called cascade style (Coltheart, Rastle, Perry,
+Langdon, & Ziegler, 2001). However, in Chinese, the word-level
+phonology is not activated prior to a full orthographic specification
+of the characters, which is the threshold style. Based on this
+assumption, the model predicts no phonological effect at the sublexical stage. Furthermore, characters sharing the same phonetic
+radical but corresponding to a variety of pronunciations should elicit greater phonological interference or competition at the lexical
+stage. However, our data showed an interaction between phonetic
+combinability and consistency at N170 and a phonetic consistency
+effect at P200, which suggest that the phonological computation
+starts from the sublexical stage. Furthermore, given that phonetic
+combinability was matched between the high and low consistency
+conditions, the reading of high consistency characters, in fact,
+elicited greater N400 than did the reading of low consistency characters. These findings cannot be reconciled by the current threshold-style lexical constituent model and suggested that the
+greater N400 for the reading of high consistent characters resulted
+from the lexical competition within a phonological family.
+
+5. Conclusion
+In conclusion, the data presented in this study support Lee
+et al.'s (2007) findings regarding the consistency effect on several
+ERP components that index the various stages of lexical processing.
+Furthermore, our data demonstrates that the mapping of orthography to phonology interacts with the orthographic neighborhood
+density. N170 has been used to index the perceptual expertise effect. Our data revealed that characters with larger orthographic
+neighborhoods (i.e., characters that share the same phonetic radical) elicit greater N170 negativity, supporting the hypothesis that
+a radical acts as a functional unit in Chinese character recognition.
+Moreover, the combinability effect at N170 was modulated by phonological consistency, which supports the phonological mapping
+hypothesis and suggests that the earlier stages of the visual word
+recognition process are shaped by the mapping of orthography to
+phonology even in Chinese. On the other hand, the presented combinability and consistency effects at P200 and N400 suggest that
+both orthographic and phonological analyses are involved in the
+early stages of radical activation and in the later stages of lexical
+identification for Chinese character recognition. The reanalysis directly addressed the possible contribution of phonological alternatives and family size to the consistency effect observed at P200 and
+N400 and suggested that the phonetic consistency effect mainly
+originated from phonograms with high combinability and large
+neighborhoods. Such a modulation effect may not be accounted
+
+65
+
+for by the lexical constituent model with the prior assumption of
+threshold-style activation. Instead, we suggest that the consideration of cascaded-style processing and the implementation of the
+feedback connections between orthographic, phonological, and
+semantic lexicons in the framework of Chinese character recognition might be able to reconcile the current findings. Future computational and experimental studies could further examine the
+relationship between semantic and phonetic radicals and their
+interaction with orthography, phonology, and semantics.
+Acknowledgments
+This work was supported by grants from Taiwan National Science Council (NSC 94-2411-H-001-068, 95-2413-H-010-002-and
+NSC 96-2628-H-001-058) and the theme project of brain, cognition
+and behavioral science from Academia Sinica, Taiwan (AS-93-TPC05). The authors thank two anonymous reviewers for their detailed comments on this paper. Their thanks also go to Chad Yang
+for his comments and assistant on an earlier draft of the paper.
+References
+Andrews, S. (1989). Frequency and neighborhood effects on lexical access:
+Activation or search? Journal of Experimental Psychology. Learning, Memory and
+Cognition, 15(5), 802-841.
+Barber, H., Vergara, V., & Carreiras, M. (2004). Syllable-frequency effects in visual
+word recognition: Evidence from ERPs. NeuroReport, 15(3), 545-548.
+Bentin, S., Mouchetant-Rostaing, Y., Giard, M. H., Echallier, J. F., & Pernier, J. (1999).
+ERP manifestations of processing printed words at different psycholinguistic
+levels: Time course and scalp distribution. Journal of Cognitive Neuroscience,
+11(3), 235-260.
+Carreiras, M., Vergara, M., & Barber, H. (2005). Early event-related potential effects
+of syllabic processing during visual word recognition. Journal of Cognitive
+Neuroscience, 17(11), 1803-1817.
+Chen, M. J., & Weekes, B. S. (2004). Effects of semantic radicals on Chinese character
+categorization and character decision. Chinese Journal of Psychology, 46,
+179-195.
+Coltheart, M., Davelaar, E., Jonasson, J. T., & Besner, D. (1977). Access to the internal
+lexicon. In S. Domic (Ed.), Attention and performance VI (pp. 535-555). San
+Diego, CA: Academic Press.
+Coltheart, M., Rastle, K., Perry, C., Langdon, R., & Ziegler, J. (2001). DRC: A dual route
+cascaded model of visual word recognition and reading aloud. Psychological
+Review, 108(1), 204-256.
+Ding, G., Peng, D., & Taft, M. (2004). The nature of the mental representation of
+radicals in Chinese: A priming study. Journal of Experimental Psychology.
+Learning, Memory and Cognition, 30(2), 530-539.
+Fang, S. P., Horng, R. Y., & Tzeng, O. J. L. (1986). Consistency effects in the Chinese
+character and pseudo-character naming tasks. In H. S. R. Kao., & Hoosain, R.
+(Eds.), Linguistics, psychology, and the chinese language (pp. 11-21). Hong Kong:
+Centre of Asian Studies, University of Hong Kong.
+Feldman, L. B., & Siok, W. W. T. (1997). The role of component function in visual
+recognition of Chinese characters. Journal of Experimental Psychology. Learning,
+Memory and Cognition, 23(3), 776-781.
+Feldman, L. B., & Siok, W. W. T. (1999). Semantic radicals contribute to the visual
+identification of Chinese characters. Journal of Memory and Language, 40,
+559-576.
+Forster, K. I., & Shen, D. (1996). No enemies in the neighborhood: Absence of
+inhibitory neighborhood effects in lexical decision and semantic categorization.
+Journal of Experimental Psychology. Learning, Memory, and Cognition, 22,
+696-713.
+Goswami, U., & Ziegler, J. C. (2006). A developmental perspective on the neural code
+for written words. Trends in Cognitive Sciences, 10(4), 142-143.
+Grainger, J., & Jacobs, A. M. (1996). Orthographic processing in visual word
+recognition: A multiple read-out model. Psychological Review, 103(3), 518-565.
+Grainger, J., O'Regan, K., Jacobs, A., & Segui, J. (1989). On the role of competing word
+unites in visual word recognition: The neighborhood frequency effect.
+Perception and Psychophysics, 45(3), 189-195.
+Grainger, J., & Segui, J. (1990). Neighborhood frequency effects in visual word
+recognition: A comparison of lexical decision and masked identification
+latencies. Perception Psychophysics, 47(2), 191-198.
+Holcomb, P. J., Grainger, J., & O' Rourke, T. (2002). An electrophysiological study of
+the effects of orthographic neighborhood size on printed word perception.
+Journal of Cognitive Neuroscience, 14, 938-950.
+Huang, C.-R., & Chen, K.-J. (1998). Academia Sinica balanced corpus (version 3). Taipei.
+Taiwan: Academia Sinica.
+Jared, D. (1997). Spelling-sound consistency affects the naming of high-frequency
+words. Journal of Memory and Language, 36(4), 505-529.
+Jared, D. (2002). Spelling-sound consistency and regularity effects in word naming.
+Journal of Memory and Language, 46(4), 723-750.
+
+66
+
+C.-H. Hsu et al. / Brain & Language 108 (2009) 56-66
+
+Kim, K. H., Yoon, H. W., & Park, H. W. (2004). Spatiotemporal brain activation
+pattern during word/picture perception by native Koreans. Neuroreport, 15(7),
+1099-1103.
+Lee, C. Y., Tsai, J. L., Chan, W. H., Hsu, C. H., Hung, D. L., & Tzeng, O. J. (2007).
+Temporal dynamics of the consistency effect in reading Chinese: An eventrelated potentials study. NeuroReport, 18(2), 147-151.
+Lee, C. Y., Tsai, J. L., Chiu, Y. C., Tzeng, O. J. L., & Hung, D. L. (2006). The
+early
+extraction
+of
+sublexical
+phonology
+in
+reading
+Chinese
+pseudocharacters: An event-related potentials study. Language and
+Linguistics, 7(3), 619-636.
+Lee, C. Y., Tsai, J. L., Kuo, W. J., Yeh, T. C., Wu, Y. T., Ho, L. T., et al. (2004). Neuronal
+correlates of consistency and frequency effects on Chinese character naming:
+An event-related fMRI study. Neuroimage, 23(4), 1235-1245.
+Lee, C. Y., Tsai, J. L., Su, E. C. I., Tzeng, O. J. L., & Hung, D. L. (2005). Consistency,
+regularity, and frequency effects in naming chinese characters. Language and
+Linguistics, 6(1), 75-107.
+Liu, Y., Perfetti, C. A., & Hart, L. (2003). ERP evidence for the time course of graphic,
+phonological, and semantic information in Chinese meaning and pronunciation
+decisions. Journal of Experimental Psychology. Learning, Memory, and Cognition,
+29(6), 1231-1247.
+Maurer, U., Brandeis, D., & McCandliss, B. D. (2005). Fast, visual specialization for
+reading in English revealed by the topography of the N170 ERP response.
+Behavioral and Brain Functions, 1, 13.
+Maurer, U., & McCandliss, B. D. (2007). The development of visual expertise for
+words: The contribution of electrophysiology. In E. L. Grigorenko & A. Naples
+(Eds.), Single-word reading: Cognitive, behavioral and biological perspectives.
+Mahwah, NJ: Lawrence Erlbaum Associates.
+McCarthy, G., & Wood, C. C. (1985). Scalp distributions of event-related potentials:
+An
+ambiguity
+associated
+with
+analysis
+of
+variance
+models.
+Electroencephalography and Clinical Neurophysiology, 62(3), 203-208.
+Perea, M., Carreiras, M., & Grainger, J. (2004). Blocking by word
+frequency and neighborhood density in visual word recognition: A
+task-specific response criteria account. Memory & Cognition, 32(7),
+1090-1102.
+
+Perfetti, C. A., Liu, Y., & Tan, L. H. (2005). The lexical constituency model: Some
+implications of research on Chinese for general theories of reading. Psychological
+Review, 112(1), 43-59.
+Pollatsek, A., Perea, M., & Binder, K. S. (1999). The effects of ``neighborhood size" in
+reading and lexical decision. Journal of Experimental Psychology: Human
+Perception and Performance, 25, 1142-1158.
+Pylkkanen, L., Stringfellow, A., & Marantz, A. (2002). Neuromagnetic evidence for
+the timing of lexical activation: An MEG component sensitive to phonotactic
+probability but not to neighborhood density. Brain and Language, 81, 666-678.
+Rossion, B., Joyce, C. A., Cottrell, G. W., & Tarr, M. J. (2003). Early lateralization and
+orientation tuning for face, word, and object processing in the visual cortex.
+NeuroImage, 20, 1609-1624.
+Schendan, H. E., Ganis, G., & Kutas, M. (1998). Neurophysiological evidence for
+visual perceptual categorization of words and faces within 150 ms.
+Psychophysiology, 35(3), 240-251.
+Seidenberg, M. S., & Waters, G. S. (1985). Spelling-sound effects in reading: Timecourse and decision criteria. Memory and Cognition, 13(6), 557-572.
+Seidenberg, M. S., Waters, G. S., Barnes, M. A., & Tanenhaus, M. K. (1984). When does
+irregular spelling or pronunciation influence word recognition? Journal of Verbal
+Learning & Verbal Behavior, 23(3), 383-404.
+Snodgrass, J. G., & Mintzer, M. (1993). Neighborhood effects in visual word
+recognition: Facilitatory or inhibitory. Memory and Cognition, 21(2), 247-266.
+Taft, M., & Zhu, X. (1997). Submorphemic processing in reading Chinese. Journal of
+Experimental Psychology. Learning, Memory and Cognition, 23(3), 761-775.
+Tanaka, J. W., & Curran, T. (2001). A neural basis for expert object recognition.
+Psychological Science, 12(1), 43-47.
+Taraban, R., & McClelland, J. L. (1987). Conspiracy effects in word pronunciation.
+Journal of Memory and Language, 26(6), 608-631.
+Tsai, J. L., Lee, C. Y., Tzeng, O. J. L., Hung, D. L., & Yen, N. S. (2004). Use of phonological
+codes for Chinese characters: Evidence from processing of parafoveal preview
+when reading sentences. Brain and Language, 91(2), 235-244.
+Ziegler, J. C., & Goswami, U. (2005). Reading acquisition, developmental dyslexia
+and skilled reading across languages: A psycholinguistic grain size theory.
+Psychological Bulletin, 131(1), 3-29.
+
+

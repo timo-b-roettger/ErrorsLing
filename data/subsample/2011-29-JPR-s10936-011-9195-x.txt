@@ -1,0 +1,1400 @@
+J Psycholinguist Res (2012) 41:323-345
+DOI 10.1007/s10936-011-9195-x
+ORIGINAL PAPER
+
+Effects of Verbal Event Structure on Online Thematic
+Role Assignment
+Evie Malaia * Ronnie B. Wilbur * Christine Weber-Fox
+
+Published online: 26 November 2011
+(c) Springer Science+Business Media, LLC 2011
+
+Abstract Event structure describes the relationships between general semantics (Aktionsart) of the verb and its syntactic properties, separating verbs into two classes: telic verbs,
+which denote change of state events with an inherent end-point or boundary (catch, rescue),
+and atelic, which refer to homogenous activities (tease, host). As telic verbs describe events,
+in which the internal argument (Patient) is affected, we hypothesized that processing of telic
+verb template would activate syntactic position of the Patient during sentence comprehension. Event-related brain potentials (ERPs) were recorded from 20 English speakers, who
+read sentences with reduced Object relative clauses, in which the verb was either telic or
+atelic. ERPs in relative clauses diverged on the definite article preceding the Agent: the atelic
+condition was characterized by larger amplitude negativity at the N100. Such processing
+differences are explained by activation of the syntactic position for the Patient by the event
+structure template of telic verbs.
+Keywords
+
+Event structure * Verb template * Telicity * Sentence processing
+
+E. Malaia (B)
+Southwest Center for Mind, Brain, and Education,
+University of Texas at Arlington, Planetarium Place,
+Hammond Hall #417, Box 19545, Arlington, TX 76019, USA
+e-mail: malaia@uta.edu
+R. B. Wilbur * C. Weber-Fox
+Speech, Language, and Hearing Sciences, Purdue University, West Lafayette, IN, USA
+R. B. Wilbur
+Linguistics Program, Purdue University, West Lafayette, IN, USA
+
+123
+
+324
+
+J Psycholinguist Res (2012) 41:323-345
+
+Introduction
+Human languages encode real-world events using a small set of grammatically relevant
+semantic features which affect syntactic structure of the predicate and argument role assignment--dynamicity, causation, telicity (Van Valin 2007). Telicity is a semantic property of
+the verb,1 referring to the natural end-point of the action: telic verbs denote change-of-state
+events which have an inherent end-point or boundary (catch, rescue), while atelic verbs refer
+to homogenous activities (tease, host). It has further been suggested (Ramchand 2008; Tenny
+1987, 1994; van Hout 2001) that the event structure template of telic verbs encodes the presence of an internal argument, which is assigned the thematic role of Patient.2 These theoretical proposals are consistent with the parallel architecture processing hypothesis (Jackendoff
+2007) that proposes that lexical items are stored in long-term memory as interface rules for
+phonological, syntactic, and semantic processing systems, which are activated and assembled
+in working memory during online sentence processing.
+Investigating the mechanisms by which verbal event structure (as marked by telicity)
+affects online processing of argument roles helps answer a crucial question in language comprehension: how do humans correctly associate arguments with their thematic roles in the
+sentence? Do syntactic (transitivity) and semantic (telicity) cues interact during comprehension to provide one with the understanding of "who did what to whom"? The answers to
+these questions are important both for better understanding of language processing, and for
+further development of linguistic theory.
+The Patient argument can appear in the surface syntactic structure of the sentence as either
+Subject or Object. If the verb is transitive, i.e. assigns two syntactically privileged argument
+roles (as in "Mary caught the ball"), the affected argument surfaces as an Object. If the
+verb is intransitive, i.e. only assigns one argument role (as in "Mary arrived"), the Patient
+surfaces as a Subject.3 Optionally transitive verbs, which can be used in sentences with one
+or two arguments (cf. "The baby awakened"/"The mother awakened the baby") accordingly
+alternate in assigning the affected argument to the Subject or Object position. Despite such
+variability in overt syntactic realization of thematic roles, comprehnders have no difficulty
+in correctly identifying the Agent and the Patient in each linguistic event. While there exist
+theoretical lexical complexity accounts for differential difficulty of reduced relative clause
+processing (Stevenson and Merlo 1997), the underlying neural mechanisms of the effects of
+verbal event template on syntactic processing are much less studied.
+During the processing of a typical sentence, the first argument encountered in the sentences
+is assumed to be the prototypical Agent and the Subject of the sentence (Kuperberg et al.
+2007; Townsend and Bever 2001; Wekerly and Kutas 1999). When this assumption turns
+out to be incorrect, such as in garden-path sentences with reduced Object relative clauses,
+the comprehender has to quickly re-analyze thematic role assignment in order to proceed
+with sentence parsing. Based on the linguistic theory of event structure (Ramchand 2008)
+and the parallel architecture processing theory (Jackendoff 2007), we hypothesized that the
+event template of telic verbs would activate the syntactic position for the Determiner Phrase
+1 Telicity can also be the property of the entire predicate, in cases where an event boundary is provided by
+
+a quantified argument, bounded path, or an adverbial modifier (Jackendoff 1991; Ramchand 2008; van Hout
+2001). The present study addressed only telicity instantiated by the verb.
+2 Thematic role inventory and terminology varies in different linguistic frameworks; the Patient thematic role
+is termed the Undergoer/Resultee in Ramchand (2008) First Phase Syntax, and the O argument in functional
+approaches.
+3 Formal linguistic frameworks suggest that it is moved to the Subject position in English in order to be
+assigned Nominative Case.
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+325
+
+Table 1 Examples of sentences with reduced relative clauses
+Transitivity
+
+Telicity
+
+Sample sentence with a reduced relative clause
+
+1. Optional
+
+(a) Telic
+
+The actress awakened by the writer left in a hurry
+
+(b) Atelic
+
+The actress worshipped by the writer left in a hurry
+
+2. Obligatory
+
+(a) Telic
+
+The actress spotted by the writer left in a hurry
+
+(b) Atelic
+
+The actress chaperoned by the writer left in a hurry
+
+(DP) containing the Patient argument, and facilitate re-assignment of thematic roles during
+syntactic processing, as compared to sentences with atelic verbs.
+Telicity Effects on Sentence Processing
+The reduced Object relative clauses (RRCs) are often used to investigate effects of semantic
+variables (argument animacy, quantification, verbal telicity, etc.) on garden-path recovery and
+thematic role assignment (Just et al. 1996; King and Kutas 1995; Wekerly and Kutas 1999).
+Table 1 presents sentence pairs which differ in telicity of the verb in the relative clause. Both
+verbs in RRCs in example 1 are optionally transitive, i.e. can form grammatical sentences
+with only one argument (cf. "The actress awakened at 5am", or "The actress worshipped
+alone"), as well as with two arguments. Both verbs in RRCs in example 2 are obligatorily
+transitive, i.e. require two arguments to produce a grammatical sentence.
+A previous ERP study of telicity effects on sentence processing (Malaia et al. 2009)
+focused on Object RRCs with optionally transitive verbs (cf. examples 1a and 1b in Table 1).
+The subjects in the study silently read sentences with RRCs, which appeared word-by-word on
+the screen, and answered comprehension questions probing thematic role assignment. There
+was no behavioral difference in the accuracy of responses: the subjects performed with >90%
+accuracy in all conditions, demonstrating successful recovery from garden-path and correct
+thematic role assignment. Recorded ERPs, however, demonstrated that sentences with atelic
+verbs incurred a higher processing load, as indexed by increased negativities in the waveforms
+elicited by the atelic condition, as compared to the telic one. In subjects with high syntactic
+proficiency,4 the effect was seen as early as the "by"-phrase introducing the Agent in the relative clause: the atelic condition elicited increased negativity of the P200-Anterior Negativity
+complex, as compared to the telic condition. In subjects with normal syntactic proficiency, the
+atelic condition (as compared to the telic one) elicited increased negativity across the N100-
+P200 complex on the Agent noun, which was distributed anteriorly, and especially prominent
+over the right hemisphere. The findings were consistent with other studies which reported
+similar ERP components indexing phrase structure re-analysis during ambiguity resolution
+and increased load on verbal working memory (Kaan et al. 2004; Streb et al. 2004; Yamada
+and Neville 2007). The results of the study isolated telicity effects on sentence processing, and
+demonstrated that verbal telicity does facilitate processing of the second argument introduced
+by RRCs, at least in sentences with structural ambiguity, such as optional transitivity.
+These findings also raised further questions regarding the salience of event structure to thematic role assignment in the presence of other structural cues. Is telicity of the verbal event
+template only a supplementary cue for thematic role assignment, used only by the comprehenders when faced with an ambiguity, such as in garden-path sentences with optionally
+transitive verbs? Does telicity affect processing of sentences which do not require argument
+4 Syntactic proficiency was measured by TOAL-3 Listening Grammar subtest (Hammill et al. 1994).
+
+123
+
+326
+
+J Psycholinguist Res (2012) 41:323-345
+
+role re-assignment, such as unreduced relative clauses? Transitivity bias has been shown to
+strongly facilitate ambiguity resolution during reading of garden-path sentences (MacDonald
+1994). It could be argued that event structure of the verb is a purely semantic cue, only salient
+to argument processing when the transitivity cue in the sentence is ambivalent, and the parser
+has to look for other bases for thematic role assignment, relying on telicity information as a
+last resort. Would telicity of the verb influence online processing in sentences with obligatory
+transitivity, where the second argument is required by the phrase structure and, therefore,
+expected?
+Current behavioral data about telicity effects on sentence processing suggests that telicity
+facilitates thematic role re-assignment regardless of structural cues. A behavioral investigation of telicity (O'Bryan 2003), which compared telic and atelic RRCs with obligatorily
+transitive verbs (cf. examples 2a and 2b), demonstrated response time advantages to the telic
+condition in a "word maze" reading task. In this task, the subjects were presented with the
+first word in the sentence, followed by two words at a time, only one of which could be
+integrated into a plausible syntactic structure. Participants were asked to form a complete a
+sentence by choosing the best-fitting word in a series of trials. Response times (RTs), proposed to index the ease with which each word could be integrated into the existing syntactic
+structure, were measured at each selection. This experiment demonstrated that in RRCs with
+obligatorily transitive verbs, telic verbs did confer processing advantages (as measured by
+shorter RTs), compared to atelic verbs at the point of the determiner "the" preceding the
+second argument, Agent Noun. This behavioral investigation suggested that telicity allows
+for faster re-assignment of thematic roles in sentences with obligatory transitivity.
+The present experiment was designed to examine the neurophysiological basis of the event
+structure effect on thematic role re-assignment in obligatorily transitive clauses. The use of
+ERP methodology allowed us to obtain high-resolution temporal information regarding the
+effect of verbal telicity on thematic role (re-) assignment, and explore the neurocognitive
+processes involved in successful reanalysis during incremental sentence processing.
+Present Investigation: Hypothesis and Experimental Design
+The present study investigated the neurocognitive bases of the effect that the verbal event template has on online processing of garden-path sentences with obligatorily transitive verbs. We
+have manipulated telicity of the verb in the relative clause in sentences with Reduced Object
+Relative Clauses (cf. examples 2a and 2b above), and sentences with Unreduced Object Relative Clauses (URCs, such as "The actress who was spotted/chaperoned by the writer left in
+a hurry"). In RRCs, thematic role re-analysis was required at the point of disambiguation;
+in contrast URCs did not require thematic role re-assignment following the verb, and hence
+served as a control condition. Due to the fact that telic verbs describe change of state events
+in which the internal argument is fully affected, we expected the syntactic position for the
+Patient to be activated following telic verbs, facilitating thematic role re-assignment in RRCs
+during recovery from garden-pathing, even in obligatorily transitive environments. Since
+URCs did not require thematic role re-assignment following the verb, we did not expect any
+differences between processing of telic and atelic conditions in those sentences.
+We predicted that the differentiated processing of telic and atelic conditions in RRCs
+would occur on the head of DP triggering thematic role re-assignment, that is, the article `the' preceding the Agent Noun. Since the initial parsing5 assigns the first argument
+encountered in the sentence the role of the Agent, and the verb in RRC ("The actress
+5 Processing theories generally agree on the existence of a first-pass parse, although, depending on the frame-
+
+work, this parse is presumed to be based on different input: from semantics in "coarse semantic parsing"
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+327
+
+coached ...") produces an expectation of another argument, the parser needs to re-assess
+thematic role assignment in the sentence as soon as a plausible candidate is encountered. If,
+as we predict, available verbal event structure template (telicity information) affects syntactic
+re-analysis, the differential effect between the telic and atelic conditions should be seen on
+the article preceding the Agent Noun. If verbal telicity is a purely semantic cue, however, no
+effect of it should be seen following the verb.
+A different kind of garden-pathing occurs in URCs: as each sentence unfolds, the possibility that the sentence does not have an overtly specified Agent due to use of passive voice
+is introduced (cf. "The professor who was tenured served on the committee"). This induces
+a garden-path reading such that the part of the sentence preceding the preposition "by" (e.g.
+"The professor who was tenured...") could be interpreted as containing a complete relative
+clause. By the time the embedded verb is reached in URCs, the first argument is clearly
+identified as the affected one (i.e. the Patient)--thus the thematic role assigned to the first
+argument does not change after the verb is encountered. Consequently, we did not expect
+verbal telicity to affect the processing of the words following the verb in URCs.
+ERP Components Reflecting Neurocognitive Processes Relevant for Thematic Role (Re-)
+Assignment
+In the present experiment, we hypothesized that the cognitive load required for processing of
+stimulus sentences with atelic verbs would be higher than that of telic verbs. The stimulus set
+("Appendix 1") used only grammatical sentences, because correct thematic role assignment,
+as confirmed by responses to probe questions, was crucial for addressing the research question. Thus, we expected to see differentiations between those brain wave components which
+were previously found to reflect comparative processing load between grammatical conditions in phrase structure and thematic role assignment studies, such as N100, P200, LAN,
+and Anterior Negativity or N400 (the two are similar in timing, but differ in their distribution,
+with N400 eliciting centro-parietal negativity). For example, the previous study of telicity
+effects on sentence processing (Malaia et al. 2009) found two complex components indexing
+the introduction of an optional argument and the load incurred by its integration into the
+phrase structure of atelic predicates. Anteriorly distributed negativity over the N100-P200
+complex indexed a greater difficulty in thematic role re-assignment in the atelic condition
+on the second argument ("The actress awakened by the writer...") in a group of participants
+with normal syntactic proficiency. In a group of participants with high syntactic proficiency,
+the anterior right-hemispheric negativity, starting at about 200 ms and continuing through
+500 ms (P200-Anterior Negativity complex), occurred earlier in sentence processing, on the
+preposition "by", which introduced the reduced relative clause.
+Other studies also reported increased negativity in ERP components with early onset times
+as related to comparative processing loads in the two grammatical conditions. For example,
+a study of verb gapping (Kaan et al. 2004) reported that the determiner immediately following the verb gap ("Ron took the planks for the bookcase, and Bill ___ the HAMMER
+with the big head") elicited central-posterior negativity (100-300 ms); it was followed by
+fronto-central positivity (300-500 ms), in comparison to a control condition not involving
+gapping. The authors suggested that a combination of these ERP components might reflect
+repeated access to the recently processed (non-gapped) syntactic template maintained in
+Footnote 5 continued
+(Jackendoff 2007), to "template activation" in extended argument dependency model (eADM, Bornkessel and
+Schlesewsky 2006).
+
+123
+
+328
+
+J Psycholinguist Res (2012) 41:323-345
+
+verbal working memory. Previous research also links each of the above-listed ERP components to specific neuro-cognitive processes, discussed further.
+N100. Neurolinguistic studies have linked the increased amplitude in early negativity component (N100) to overt phrase structure violations (Neville et al. 1991). Anterior distribution
+of this component has been related to integrated processing of syntax and semantics: for
+example, in Yamada and Neville (2007), the N100 response to Jabberwocky sentences was
+evenly distributed over the scalp, whereas sentences presented in English elicited more frontal
+distribution. Generally, both visual and auditory linguistic studies showed that the amplitude
+of N100 is modulated by attentional effort (Astheimer and Sanders 2009; Lai and Mangels
+2007). Spatial distribution of enhanced N100 in language studies appears to depend on the
+nature of the stimulus and the task: visual word-category recognition tasks (Lai and Mangels) elicit parieto-occipital distribution of this component, while auditory (Astheimer and
+Sanders 2009) and syntactic processing tasks (Malaia et al. 2009; Neville et al. 1991) elicit
+more frontocentral localization.
+P200. The increased negativity over the P200 component has been shown to follow the
+onset of the critical word in ungrammatical sentences, as compared to grammatical ones; this
+negativity has been interpreted as indexing an increase in the processing load (Osterhout et al.
+1994; Yamada and Neville 2007). Yamada and Neville (2007) demonstrated that increased
+negativity of this component in response to ungrammaticality was distributed anteriorly in
+English sentences, as compared to even distribution of the same modulation in response
+to Jabberwocky sentences. The study related such anterior distribution to syntax-semantic
+interface processing triggered by the presence of semantic information in English stimuli.
+Increased negativity over the P200 component was also reported on the PZ electrode by Osterhout et al. (1994) to grammatical sentences containing ambitransitive verbs, when compared
+to purely transitive or intransitive verbs (Experiment 2, p. 794), and related to phrase structure
+(re)analysis.
+Late-Onset Negative Components In addition to these early components, we also predicted
+possible occurrence of a later negative component around 300-600 ms post-onset of the
+word triggering thematic role re-analysis in RRCs. The family of ERP components occurring within this time interval includes a left-lateralized anterior negativity (LAN), Anterior
+Negativity with frontal and/or right-hemisphere distribution, and the N400, characterized by
+medial and posterior distribution of negativity. N400 has been found to index semantic and
+pragmatic violations (Hagoort et al. 2004; Kutas and Hillyard 1980, 1984), as well as conflicts
+in thematic interpretation of the arguments (e.g. presence of two animate arguments before
+the verb, competing for the Agent role; cf. Frisch and Schlesewsky 2001). Left-hemispheric
+distribution of negativity over this interval (LAN) has been shown to index discrepancies
+in morpho-syntactic information and increased working memory load (Hagoort and Brown
+2000; King and Kutas 1995; Osterhout and Mobley 1995). Fronto-central and right-hemispheric distribution of negativity between 300 and 600 ms (Anterior Negativity) was also
+found in the above-mentioned studies of gapping sentences in English (Kaan et al. 2004) and
+anaphor resolution in German (Streb et al. 2004), both of which imposed an increased load
+on verbal working memory.
+The priming of the thematic role of the Patient (structural Object) by the telic verbs in
+the present experiment was hypothesized to elicit an increase in the cognitive load on the
+head of DP--the definite article--in the atelic condition, due to more difficulty in thematic
+role re-assignment in this condition. Participants had to engage in incremental processing of
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+329
+
+the stimulus sentences, as driven by the word-by-word presentation mode (see "Materials"),
+allowing for examination of all ERP components related to thematic-role (re-) assignment
+for each word.
+
+Materials and Methods
+Participants
+Participants were 20 native monolingual English speakers, age 19-32, right-handed
+(self-report), with normal or corrected to normal vision, and no history of neurological or
+speech-language impairments. All participants were administered the Listening Grammar
+(LG) subtest of the Test of Adolescent and Adult Language, Third Ed.(Hammill et al. 1994)
+to provide a baseline measurement of perceptual language and grammar processing ability,
+and the Verbal Working Memory test (Daneman and Carpenter 1980). All subjects scored
+within normal range on TOAL (raw score M = 29.1, SD = 4.4), with a mean Verbal Working
+Memory span of 3.4 (SD =.9).
+Materials
+Sixty stimulus sentences were constructed using 30 obligatorily transitive verbs. The
+sentences allowed the use of either telic or atelic verbs in the reduced relative clause,
+while remaining semantically plausible (see "Appendix 1"). The stimulus materials thus
+consisted of (a) 60 stimulus sentences with reduced relative clauses (RRCs), and (b)
+the same sentences but with the unreduced relative clauses (URCs). Obligatory transitive verbs for the stimuli (30 telic and 30 atelic) were chosen based on Levin
+(1993), and cross-referenced with examples of allowable usage from multiple dictionary
+sources. The temporal adverbial modification test (Dowty 1979) was used to establish the
+telicity/atelicity of each verb. The telic verbs described complete (non-gradient) change;
+no semelfactives or reciprocal verbs were used. Both subject and object of the verb in
+the relative clause were animate. Noun-verb co-occurrences were assessed using Pointwise Mutual Information measure (Recchia and Jones 2009), and were matched across
+verb type (t (118) = 1.299, p > .05), and argument order (first, second) in telic and
+atelic conditions (t < 1 in both cases). The stimulus verbs were compared for frequency in
+present and past forms using Kucera and Francis (1967) frequency tables. The mean frequencies of occurrence were comparable in the present tense (telics M = 18.2, SD = 17.6; atelics
+M = 39.4, SD = 65), as well as in the past (telics M = 22.8, SD = 23.8; atelics M = 16.9,
+SD = 21.4). There was no effect of frequency for either present tense or past tense forms
+(t < 1). Telic and atelic verbs did not differ in word length (t < 1). In addition, subjects
+were presented with 60 filler sentences with varying syntactic structures (see "Appendix 2").
+Probe questions were constructed for all sentences in order to test for correct thematic
+role assignment, e.g. a sentence such as "The runner nominated by the coach won the race"
+was followed by a question "Did the runner nominate the coach?". For half of each type of
+sentences, the questions probed the correct interpretation of the Agent role assignment; for
+the other half, the Patient role. The correct responses to probe questions, "yes" or "no", were
+balanced for each condition and filler sentences, and the sentences were pseudo-randomized
+so that no more than three correct "yes" or "no" responses occurred in sequence, and each
+thematic role assignment was not probed more than 3 times in a row. The order in the same
+clausal environment was counter-balanced between blocks. The order in which telic and
+
+123
+
+330
+
+J Psycholinguist Res (2012) 41:323-345
+
+atelic verbs were encountered was counterbalanced across sentence types (RRCs vs. URCs),
+type of probe question (probing correct Agent or Patient role assignment), and correct answer
+to the probe (yes-no).
+Procedure
+Participants signed a Purdue IRB approved informed consent form, and completed a case
+history questionnaire. The electrode cap was fitted on each participant, and impedances lowered to less than 5 kOhms. The participants were then seated in a sound-attenuating booth,
+about 150 cm away from a 48-cm monitor. The experimental procedure was explained, and
+participants were given a practice session, consisting of two simple sentences followed by
+comprehension questions. Participants were instructed to press the response key when they
+were ready to answer; no time constraints were given. Keypad yes/no response hands were
+counterbalanced between the right and left hands across subjects. After the practice session,
+all subjects acquired sufficient familiarity with the task to begin the experiment. The stimulus
+sentences were presented word-by-word on an LCD screen for 200 ms, with an interval of
+315 ms between words. Sentence-final words appeared with a period. Each sentence was followed by a yes-no question. After the subject responded to the question, the prompt "Ready?"
+appeared on the screen, allowing the subject to pause before initiating the next trial.
+The sentences were divided into 6 blocks, each consisting of 40 sentences (20 sentences in
+each block were filler sentences). The stimulus sentences were distributed pseudo-randomly
+inside each block, so that no more than 3 reduced or unreduced relative clause sentences
+followed each other. The order of block presentation was balanced between subjects. The
+total run time for stimuli presentation and responses varied between subjects, and ranged
+from 45 to 60 min.
+Event-Related Brain Potential Recordings
+EEG activity was recorded from the scalp using 32 Ag-Cl electrodes secured in an elastic cap
+(Quik-cap, Compumedics Neuroscan). Electrodes were positioned over homologous locations across the two hemispheres according to the criteria of the International 10-10 system
+(American Electroencephalographic Society, 1994). The specific locations of electrodes were
+as follows: midline sites FZ, FCZ, CZ, CPZ, PZ, OZ; medial lateral sites FP1/FP2, F3/F4,
+FC3/FC4, C3/C4, CP3/CP4, P3/P4, O1/O2; lateral sites F7/F8, FT7/FT8, T7/T8, TP7/TP8,
+P7/P8. Reference electrodes were placed over the left and right mastoids. Electroencephalographic activity was recorded referenced to the left mastoid; activity over the right mastoid
+was also actively recorded. All scalp electrodes were re-referenced to the average of the
+left and right mastoid off-line. The eye movements and blinks were monitored and recorded
+using electrodes placed over the right and left outer canthi (horizontal eye movement), and
+left inferior and superior orbital ridge (vertical eye movement). All electrode impedances
+were adjusted to 5 kOhms or less. The electrical signals were amplified with a bandpass of
+0.05 and 100 Hz, and digitized online (Neuroscan 4.0) at the rate of 500 Hz.6
+Data Analysis
+For ERP measures, trials with excessive eye movements or other forms of artifact were
+rejected (7.7%). Averages were computed from 100 ms pre-stimulus onset to 1,700 ms
+6 The ERP waveforms in the figures were low-pass filtered at 30 Hz with 48 dB dropoff and zero phase shift,
+
+to more clearly represent the effects on the small scale for publication purposes.
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+331
+
+post-stimulus for the verb in the relative clause. The 100 ms interval prior to onset served
+as the baseline for amplitude measurements of the ERPs. The measurements of ERP components for the preposition "by" and the definite article were made on the same 1,700 ms
+epochs from the onset of the verb.
+Measurements of peak amplitude were quantified in relation to the baseline voltage in
+each participant's averages. Each ERP component was measured using a temporal window
+approximately centered around its peak in the grand averaged waveforms. The ERPs elicited
+by the verb in the relative clause, on the "by" following the verb, and on the article "the"
+were compared over three temporal windows. The components of interest (N100, P200,
+anterior negativity) were selected based on earlier studies (Kaan et al. 2004; Malaia et al.
+2009; Streb et al. 2004; Yamada and Neville 2007), and the differences between groups and
+conditions which appeared in the data. Thus, for the verb, the comparisons were made for
+negative peak amplitudes between 100 and 200 ms (N100), and positive peak amplitudes
+between 200 and 320 ms (P200) post word onset. For the preposition "by", the respective
+windows were 85-185, and 185-315 ms post word onset. Mean amplitudes for the Anterior
+Negativity (AN) were measured between 360 and 600 ms for the verb, and between 385
+and 585 ms for the preposition "by". For the article "the", the comparisons were made for
+negative peak amplitudes between 70 and 210 ms (N100), positive peak amplitudes between
+210 and 330 ms (P200), and mean amplitudes between 370 and 630 ms (AN) following the
+onset of the definite article. For the Agent Noun, the comparisons were made for negative
+peak amplitudes between 115 and 215 ms (N100), positive peak amplitudes between 215 and
+315 ms (P200), and mean amplitudes between 315 and 655 ms (AN) following the onset of
+the word. Statistical analyses included ERPs recorded at 26 scalp electrodes (medial sites FZ,
+FCZ, CZ, CPZ, PZ, OZ; fronto-temporal lateral and mid-lateral sites F3/F4, F7/F8, FC3/FC4,
+FT7/FT8, C3/C4; parieto-occipital lateral and mid-lateral sites CP3/CP4, TP7/TP8, P7/P8,
+P3/P4, O1/O2).
+For lateral and mid-lateral sites, repeated-measures analysis of variance (ANOVA) was
+conducted to determine the effects of telicity (telic vs. atelic condition) separately with
+three factors (Telicity [telic, atelic], Hemisphere [left, right], and Anterior/Posterior [fronto-temporal, parieto-occipital]). For the analysis of the medial sites, analysis of variance
+included two factors (Telicity [telic, atelic], and Anterior/Posterior [fronto-central, parietal]). In cases where significant effects were found for interactions, a step-down ANOVA was
+performed to investigate whether the main effect was significant over a subset of electrode
+sites.
+The results for RRCs and URCs were processed separately for two reasons: first, because
+the predictions for possible telicity effects differed for reduced vs. unreduced clauses, and
+second, because of the possible confounding effect of the preceding context on elicited ERP
+waveforms. The common linguistic material in the relative clause (...V'ed by the N...)
+between the two sentence types was preceded by an open class (notion) word in RRCs (The
+N...), and closed class (function) words in URCs (The N who was....). Neural processing
+of the two word classes has been shown to elicit differential ERP patterns: for example,
+processing of the closed-class words elicits a broad negative shift (BNS) over the temporal
+window of 400-600 ms post-word onset, which is not found in the processing of open-class
+words (Brown et al. 1999; Munte et al. 2001; Neville et al. 1992). These differences in the
+basic waveforms of the words preceding the verbs in RRCs and URCs produced differences
+between the two clause types as early as negative peak amplitude between 100 and 200 ms
+post-verb onset (F(1, 19) = 6.049, p = 0.024, 2p = 0.241). For these reasons, we
+present the analysis of the two clause types separately.
+
+123
+
+332
+
+J Psycholinguist Res (2012) 41:323-345
+
+Results
+Behavioral Results
+Accuracy of responses to probe questions was measured for telic and atelic sentences with
+RRCs and URCs, and filler sentences. Accuracy for question probes to RRC sentences with
+telic verbs (M = 93.8%, SD = 6%), atelic verbs (M = 93.6%, SD = 5%), and URC sentences with telic verbs (M = 93.2%, SD = 6%), and atelic verbs (M = 95.5%, SD = 4%)
+were similar to results for filler simple sentences (telic M = 95.8%, SD = 5%, atelic M =
+93.7%, SD = 4%). There was no significant effect of telicity on accuracy of responses to
+RRCs (t < 1), URCs (t < 1), or filler (t = 1.627, p = 0.112) question probes.
+ERP Results
+RRCs
+A summary of the ANOVA results for RRCs is provided in Table 2. Interactions of Telicity with Hemispheric and Anterior distribution are reported only when significant statistical
+differences were observed. In those cases, the results of step-down ANOVAs, demonstrating
+whether the effect reached significance over a subset of electrode sites, are also reported.
+Verbs. There was an effect of Telicity on N100 mean latency on the verbs in RRCs over
+lateral and mid-lateral electrode sites (F(1, 19) = 5.169, p < 0.035, 2p < 0.214), with a
+
+Table 2 ANOVA results for various ERP measures taken on individual words in RRCs
+Word position
+
+Effect
+
+F(1, 19) =
+
+p<
+
+Verb in the relative clause, e.g. `The actress spotted by ...'
+
+T
+
+5.169
+
+0.035
+
+2p =
+0.214
+
+N1 latency over lateral and mid-lateral sites
+the, e.g. `The actress spotted by the writer...'
+
+T
+
+6.633
+
+0.019
+
+0.259
+
+N1 amplitude over midline sites
+
+TxA
+
+7.723
+
+0.012
+
+0.289
+
+Over anterior midline sites only
+N1 amplitude over lateral and mid-lateral sites
+
+T
+
+11.412
+
+0.003
+
+0.375
+
+T
+
+4.370
+
+0.05
+
+0.187
+0.225
+
+TxA
+
+5.529
+
+0.030
+
+Over anterior midline sites only
+
+T
+
+3.868
+
+NS
+
+Over posterior midline sites only
+
+T
+
+<1
+
+NS
+
+TxA
+
+9.46
+
+0.006
+
+0.333
+
+Over anterior midline sites only
+
+T
+
+4.740
+
+0.042
+
+0.200
+
+Over posterior midline sites only
+
+T
+
+<1
+
+NS
+
+TxA
+
+4.932
+
+0.039
+
+T
+
+2.726
+
+NS
+
+TxH
+
+4.279
+
+NS
+
+T, T x H
+
+>1
+
+NS
+
+P2 amplitude over midline sites
+
+Anterior negativity over midline sites
+
+Anterior negativity over lateral and mid-lateral sites
+Over anterior lateral and mid-lateral sites only
+Over posterior lateral and mid-lateral sites only
+
+0.206
+
+T telicity, A anterior, H hemisphere, NS not significant ( p > 0.05). Electrode subsets: midline [FZ, FCZ,
+CZ, CPZ, PZ, OZ]; midline anterior [FZ, FCZ, CZ]; midline posterior [CPZ, PZ, OZ]; anterior lateral and
+mid-lateral [F3/F4, F7/F8, FC3/FC4, FT7/FT8, C3/C4]; posterior lateral and mid-lateral [CP3/CP4, TP7/TP8,
+P7/P8, P3/P4, O1/O2]
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+333
+
+difference of approximately 10 ms between conditions (telic M = 161ms, S E = 3.3ms;
+atelic M = 152.6 ms, SE = 3.3). Over midline electrode sites, the effect was not significant.
+No significant effects were observed over the temporal windows of P200 (200-320 ms)
+and Processing Negativity (360-600 ms) components.
+By. We found no reliable ERP differences between the two conditions at the preposition
+"by" over any of the temporal windows.
+Article the. Statistical analysis of the mean amplitude of early negativity (160-260 ms) in
+the RRCs yielded significant effect of Telicity over lateral and midlateral electrodes sites
+(F(1, 19) = 4.37, p < 0.05, 2p = 0.187) and midline electrode sites (F(1, 19) = 6.633,
+p < 0.019, 2p = 0.259). The ERP waveforms elicited by the article "the" in the atelic condition were more negative (lateral and midlateral electrode sites, M = -1.768 V, SE = 0.6;
+midline electrode sites, M = -1.345 V, SE = 0.7) relative to those in the telic condition
+(M = -0.335 V, SE = 0.8), as illustrated in Fig. 1.
+Over the processing negativity temporal window (400-660 ms), there was also a significant Telicity x Anteriority interaction effect over midline electrode sites (F(1, 19) = 7.723,
+p < 0.012, 2p = 0.289), reflecting an anterior distribution of negativity in Atelic condition,
+as illustrated in Fig. 2. Over the three fronto-central electrodes (Fz, FCz, Cz), the Telicity
+effect was also significant (F(1, 19) = 4.740, p < 0.042, 2p = 0.200).
+
+Fig. 1 ERPs elicited in reduced relative clauses (RRCs) by telic and atelic verbs, preposition "by" and definite article, illustrating differentiated processing starting on the definite article. Negative potentials are plotted
+upward
+
+123
+
+334
+
+J Psycholinguist Res (2012) 41:323-345
+
+Fig. 2 N100 peak amplitudes elicited by the definite article over midline electrode sites, illustrating that the
+ERPs in the atelic condition were significantly more negative, especially over anterior electrode sites. Negative
+potentials are plotted upward
+
+Agent Noun. ERPs to Agent Noun did not differ.
+URCs
+A summary of the ANOVA results for URCs is provided in Table 3. Interactions of Telicity
+with Hemispheric and Anterior distribution are reported only when significant statistical
+differences were observed. In those cases, the results of step-down ANOVAs, demonstrating whether the effect reached significance over a subset of electrode sites, are also
+reported.
+The peak amplitude of the cortical potentials over any of the words did not differ for
+the telic and atelic conditions in sentences with URCs. None of the interactions which were
+significant at the full set of electrodes had a significant effect over a subset of electrode sites.
+Data analysis demonstrated that significance of the interactions at the higher level was only
+due to the opposing direction of the effect over subsets of electrodes.
+The ERP waveforms elicited by the article "the" in URCs are presented in Fig. 3 for the
+purposes of comparison with RRC data.
+Summary of Findings
+Overall, only ERPs in the RRCs demonstrated differential processing of clauses following
+telic and atelic verbs. As compared to the telic condition, ERPs elicited in the atelic condition were characterized by increased negativity of the N100 component on the definite
+article preceding the Agent argument, especially over anterior electrode sites. Additionally,
+the latency of N100 component elicited by the verb in RRCs was affected by verbal telicity:
+in telic verbs, the N100 peak occurred about 10 ms later than in atelics. We found no reliable
+ERP differences between the two conditions in URCs.
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+335
+
+Table 3 ANOVA results for various ERP measures taken on individual words in URCs
+Word position
+
+Effect
+
+F(1, 19) =
+
+p<
+
+2p =
+
+Verb in the relative clause, e.g. `The actress spotted by ...'
+TxA
+
+5.388
+
+0.032
+
+Over anterior lateral and mid-lateral sites only
+
+T
+
+<1
+
+NS
+
+Over posterior lateral and mid-lateral sites only
+
+T
+
+<1
+
+NS
+
+TxAxH
+
+12.160
+
+0.002
+
+T, T x H
+
+<1
+
+NS
+
+Anterior negativity over lateral and mid-lateral sites
+
+0.230
+
+Agent, e.g. `The actress spotted by the writer...'
+N1 amplitude over lateral and mid-lateral sites
+Over anterior lateral and mid-lateral sites only
+Over posterior lateral and mid-lateral sites only
+
+T, T x H
+
+<1
+
+NS
+
+Over RH lateral and mid-lateral sites only
+
+T, T x A
+
+<1
+
+NS
+NS
+
+Over LH lateral and mid-lateral sites only
+P2 latency over lateral and mid-lateral sites
+Over anterior lateral and mid-lateral sites only
+
+T, T x A
+
+<1
+
+TxAxH
+
+7.377
+
+0.014
+
+T, T x H
+
+<1
+
+NS
+
+Over posterior lateral and mid-lateral sites only
+
+T, T x H
+
+<1
+
+NS
+
+Over RH lateral and mid-lateral sites only
+
+T, T x A
+
+1.244
+
+NS
+
+Over LH lateral and mid-lateral sites only
+
+T, T x A
+
+1.110
+
+NS
+
+0.390
+
+0.280
+
+T telicity, A anterior, H hemisphere, RH right hemisphere, LH left hemisphere, NS not significant ( p > 0.05).
+Electrode subsets: anterior lateral and mid-lateral [F3/F4, F7/F8, FC3/FC4, FT7/FT8, C3/C4]; posterior lateral
+and mid-lateral [CP3/CP4, TP7/TP8, P7/P8, P3/P4, O1/O2]
+
+Discussion
+This study investigated the effects of verbal telicity on the ease of syntactic re-analysis of
+reduced and unreduced Object relative clauses. Comprehension of sentences with relative
+clauses was high, and did not differ significantly between RRCs and URC, suggesting successful recovery from garden-path effects. In the following sections, we further discuss the
+findings of the telicity effects on re-analysis of thematic role assignment in reduced and
+unreduced relative clauses.
+Neural Indices Reflecting Effects of Increased Processing Load at the Syntax-Semantics
+Interface
+ERPs in atelic and telic URCs, such as "The actress who was chaperoned/spotted by the
+writer..." did not differ significantly over the interval of interest, including the Verb, preposition "by", article "the", and the Agent Noun. Since the first nominal argument already
+assumes the thematic role of the Patient prior to the Verb in the relative clause, no thematic
+role re-assignment was necessary in URCs, and no effect of verbal event structure expected
+or found.
+In contrast, ERPs elicited in reduced relative clauses, such as "The actress chaperoned/spotted by the writer...", first diverged on the definite article preceding the agent:
+the atelic condition was characterized by larger amplitude negativity at the N100, indicating
+higher processing load (Neville et al. 1991; Yamada and Neville 2007), or attention allocation (King and Kutas 1995) related to the comparative cost of thematic role re-assignment in
+the two conditions. RRCs induced garden-path reading such that the first argument could be
+interpreted as the Agent prior to the preposition "by". The differences found in the processing
+
+123
+
+336
+
+J Psycholinguist Res (2012) 41:323-345
+
+Fig. 3 ERPs elicited in unreduced relative clauses (URCs) by telic and atelic verbs, preposition "by" and
+definite article. Negative potentials are plotted upward
+
+of RRCs following obligatorily transitive telic and atelic verbs demonstrate that telicity is a
+salient cue for thematic role re-assignment even in unambiguously transitive clauses.
+Anterior increase in negativity over the N100 component has been previously related
+to syntax-semantics interface processing (Yamada and Neville 2007), and changes in event
+structure and thematic roles following introduction of an optional argument, specifically for
+atelic verbs (Malaia et al. 2009). The latter investigation of the optionally transitive verbs
+in RRCs demonstrated early negativity to the atelic condition either on the Agent Noun,
+where it was part of a biphasic N100-P200 pattern, or on the preposition "by" (as part of
+P200-Anterior Negativity complex).
+Previous studies of language processing linked the N100 component to attention allocation based on early access to the semantics of the word. However, semantic access at this
+point of processing might only index general semantico-syntactic features of the word, such
+as membership in a specific word class (Malaia et al. 2009; Neville et al. 1991; Yamada and
+Neville 2007). For example, in a study of semantic priming (Boddy and Weinberg 1981),
+enhancement of the N100 component was elicited by the priming of animacy in a semantic category judgment task. The participants in the study were visually presented with two
+words, one after another, and asked to make a decision whether both words belonged to the
+same animacy category. In cases where the two words belonged to the same animacy category, the second word elicited a fronto-central enhancement of the peak-to-peak amplitude
+in the N100-P200 complex. The authors attributed the N100-P200 enhancement effect to
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+337
+
+semantic priming, or rapid automatic (independent of conscious awareness) access to the
+conceptual representation of the word's meaning. While the present study did not employ
+semantic priming, we predicted that telicity of the verb could lead to the activation of the
+syntactic position of the Patient in working memory. This lead to subsequent enhancement
+of the N100 component on the function word introducing the Patient DP--the article `the'.
+The negativity over the determiner in the atelic condition was also sustained over the
+370-630 ms interval over frontocentral electrodes, with larger anterior negativity elicited by
+the sentences with atelic verbs. The same effect was observed in our previous study of telicity
+influence on processing of RRCs with ambitransitive verbs in response to stimuli in the atelic
+condition (Malaia et al. 2009). Only one group of participants--those who scored high (>2
+SD above the mean) on measures of syntactic proficiency, as opposed to the normal-scoring group--exhibited this effect, which was then sustained throughout the P200 component
+window over the preposition "by" following the atelic verb. Given the sustained nature of the
+effect, it is possible that negative enhancement over multiple early components could reflect
+a single early anterior negative modulation, indexing the same basic neurocognitive process.
+ERP Components as Indices of Basic Neurocognitive Processes in Language
+Comprehension
+While negative enhancements of N100 and the P200 appear to be elicited by a similar effect
+type, and co-occur in several studies (including Boddy and Weinberg 1981; King and Kutas
+1995; Malaia et al. 2009; Yamada and Neville 2007), there does appear to be a subtle difference between the two in cases where enhancement of only one component was detected.
+Specifically, the increased negativity over the P200 component was previously demonstrated
+in an ambiguous condition by open-class nouns, which were structurally primed as arguments of the preceding verb (Malaia et al. 2009; Osterhout et al. 1994). The enhancement
+of the N100 component, on the other hand, was found either on the function word, such as
+determiner or preposition (Malaia et al. 2009; Yamada and Neville 2007), or on the notional
+word, the basic semantic and categorical features of which (such as word class or animacy)
+conflicted with an earlier linguistic cue (Boddy and Weinberg 1981; Neville et al. 1991).
+However, considering that early modulations occurred over two successive components
+in several studies (Boddy and Weinberg 1981; King and Kutas 1995; Malaia et al. 2009;
+Yamada and Neville 2007), it is possible that a single processing component could lead to
+increased negativity in successive temporal windows. The component itself might be a result
+of linguistic (structural or categorical) priming, and could index attentional effort required at
+early stages of word processing. The latency of this component, then, appears to be dependent on the complexity of the linguistic feature leading to its elicitation. One possibility is
+that basic linguistic features of the word, which require additional attention allocation, might
+be accessed at the earliest stages of processing, and thus elicit enhancement of the N100
+component. The attention effects during integration of the detected noun phrase (NP) into
+a syntactic structure, on the other hand, might not contribute to the negativity of the ERP
+response until the P200 window.
+The number of studies that specifically manipulated attention in visually presented linguistic stimuli is limited. The authors of one semantic category cueing study (Lai and Mangels
+2007), claimed an effect of attention allocation on early ERP components. The participants in
+the study were asked to decide whether the second of the two nouns, presented consecutively
+on a computer screen, belonged to the "animate" category. The authors suggested that in
+invalid cueing condition (e.g. when an animate noun was preceded with an inanimate one),
+more attentional effort was allocated to the early stages of processing for the second word
+
+123
+
+338
+
+J Psycholinguist Res (2012) 41:323-345
+
+in the pair. This attentional effort was indexed by enhancement of early endogenous N1/P1
+components over occipito-parietal electrodes.
+Although there is little research devoted to early effects of attention and processing load
+on semantic and syntactic processing, mounting evidence demonstrates that semantic access
+to word category information occurs as early as 100 ms post stimulus onset (Boddy and
+Weinberg 1981; Dikker et al. 2009; Lubar et al. 1992). Yet, further research is needed to
+clarify how early potentials can be modulated by attention allocation, processing load, or
+changes in verbal working memory capacity.
+The differential complexity of thematic role re-assignment in telic and atelic RRCs could
+also be conceived of as a difference in the processing load during comprehension. An ERP
+study of Subject and Object relative sentences (King and Kutas 1995) demonstrated that a
+higher cognitive load leads to increased anterior negativity in the ERP waveforms during
+the processing of Object relative sentences. An fMRI study of neural activations elicited
+by sentences with Subject and Object relative clauses (Just et al. 1996) demonstrated that
+increased activation of the Broca's and Wernicke's areas, and their right hemisphere homologues, correlated with the processing load. Object relative clauses elicited the highest activation, as compared to Subject relative clauses and conjoined active clauses. Our findings
+are consistent with the literature suggesting that higher cognitive load in a linguistic task
+leads to enhanced neural activity, although further studies are needed to determine specifically which neural networks engage in the processing of telicity effects found in the present
+study.
+Relevance of Results to Linguistic Theory
+As ERP data analysis shows, the re-analysis of argument structure in garden-path-inducing
+RRCs with atelic verbs appears to produce a greater challenge in thematic role assignment
+as compared to the same process in RRCs with telic verbs.
+The processing data obtained for both RRCs and URCs demonstrates that telicity is a
+salient cue for thematic role assignment in transitive clauses. We suggest that this effect is
+similar to the phenomenon of internal argument priming in unaccusative (intransitive telic)
+verbs (Friedmann et al. 2008), and ease of new argument integration in optionally transitive
+telic verbs (O'Bryan 2003; Malaia et al. 2009). In all of these studies, verbal telicity emerged
+as the underlying factor responsible for prominence of the Patient thematic role during online
+processing, linking conceptual representation of a linguistic event (event structure) with its
+syntactic realization in terms of argument structure.
+The present ERP data shows that telic event structure facilitates syntactic processing of
+the internal argument during incremental sentence processing. Since thematic role re-assignment begins on the head of DP, the article, rather than the Agent noun, it has to be attributed
+to prior activation of the Patient syntactic position (DP) by the telic event template, rather
+than to semantic or frequency effects.
+Figure 4a, b provide a schematic representation of changes in argument role structure
+during thematic role re-assignment, as stipulated by First Phase Syntax theory (Ramchand
+2008). As can be seen in Fig. 4a, the event template of telic verbs, which semantically signals that there will be an Undergoer/Resultee (possible forms of the Patient thematic role),
+activates the syntactic position for the Undergoer/Resultee, facilitating re-assignment of that
+thematic role to the first NP in the sentence when the second argument is encountered. The
+atelic verb template, lacking a semantic Resultee, does not activate the syntactic position
+for Undergoer(/Resultee). Thus, like the telic verb template, the atelic verb template initially
+assigns the Agent role to the first argument, but in this case, the re-assignment of the Agent
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+339
+
+Fig. 4 Thematic role re-assignment in telic and atelic obligatorily transitive verbs
+
+and Undergoer roles between the subject and the object of the reduced relative clause does
+not show the benefit of structural activation through the event structure template.
+The results of the study are consistent with parallel models of sentence processing, which
+stipulate availability of an event structure template from the verb (Jackendoff 2007). The
+timing of the verbal event structure effect on thematic role assignment is also in agreement
+with the eADM (Bornkessel and Schlesewsky 2006), at least for English, although cross-linguistic ERP data would be necessary to validate inclusion of the event structure template in
+this model.
+Other ERP studies on thematic role (re-)assignment, which did not elicit similar neural
+enhancements, differed from our study in two significant ways. Some of the studies used
+semantic and/or syntactic violations to investigate neural representation of a failure in thematic role assignment (Hagoort 2003; Kim and Osterhout 2005); the present study used only
+grammatical stimuli. Other studies manipulated noun features, such as animacy and Case
+(Bornkessel-Schlesewsky and Schlesewsky 2009; Bornkessel et al. 2004; Kuperberg et al.
+2003; Wekerly and Kutas 1999), to investigate the contribution of categorical properties of
+nouns to thematic role assignment; the present study, on the other hand, manipulated semantics and event structure template of the preceding verb. The fact that the effect in the present
+study was found over the first word of the noun phrase (the determiner), characterized by an
+
+123
+
+340
+
+J Psycholinguist Res (2012) 41:323-345
+
+enhancement of the early N100 component, is consistent both with the earlier literature on
+syntactic template re-activation (Kaan et al. 2004), and semantic priming effects (Lai and
+Mangels 2007; Segalowitz and Zheng 2009).
+Conclusions, Study Limitations, and Future Work
+The experimental results demonstrate that despite the presence of a salient structural cue
+- transitivity, verbal telicity has an immediate effect on thematic role re-assignment. The
+results are consistent with previous research demonstrating that bias toward focusing on the
+end state of the event affects online language comprehension (Ferretti et al. 2009; Madden
+and Zwaan 2003; Magliano and Schleich 2000). The significance of our results is in demonstrating that a smaller conceptual primitive--verbal telicity, as opposed to grammatical
+aspect--can provide the event boundary. This research also adds to a growing body of literature demonstrating that event properties as described by the predicate influence online
+expectations about arguments involved in the event (Stevenson et al. 1994; van Berkum et al.
+2007).
+The present study did not address the question of interaction between transitivity and
+telicity, which merits a separate investigation. However, behavioral investigations of the interaction of telicity and transitivity effects on sentence processing (O'Bryan 2003; O'Bryan et
+al. submitted), demonstrate that telicity effects on sentence processing are not reducible to
+transitivity effects.
+One limitation of the present experiment is that it only investigated telicity as introduced
+into the sentence by the inchoative (change of state) verbs. End-state, and thus predicate telicity, can also be inferred in sentences containing bounded paths, as in "Kate ran to the office
+in five minutes", or in an individuation of an affected argument, as in "Nora ate her fish"
+(Jackendoff 1991; van Hout 2001). Further research is needed to explore possible effects
+of different types of event boundedness in discourse processing, event/object indexing in
+memory, online integration of referring expressions, etc.
+Acknowledgments We wish to thank Kate Watson for help with data processing, and David Kemmerer for
+comments on the earlier version of this manuscript. This experiment was partially supported by NIH grant
+DC005241 to Ronnie Wilbur, and by Purdue University Research Incentive funds.
+
+Appendix 1
+Verbs were classified as (a)telic and obligatorily transitive based on several linguistic diagnostics. Telic verbs were identified using the standard tests for telicity: (1) compatibility
+with `in an hour'-type adverbial; (2) applicability of imperfective paradox ("Mary is awakening" does not entail "Mary awakened"). Atelic verbs were selected based on the following
+diagnostics: (1) compatibility with `for an hour'-type adverbial; (2) inability to undergo causative alternation: (e.g. Jane broke the cup--The cup broke); (3) inability to undergo middle
+alternation (e.g. The butcher cuts the meat.--The meat cuts easily).
+Stimulus sentences with RRCs, with both atelic and telic verbs as used in the reduced
+relative clause, are listed below. Stimulus sentences with URCs were identical to the RRCs
+listed, but with the relative pronoun and the verb "be" introducing the relative clause, e.g.
+"The baby who was embraced/seized by the mother cried loudly".
+1. The baby embraced/seized by the mother cried loudly.
+2. The actress chaperoned/spotted by the writer left in a hurry.
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+
+341
+
+The student teased/pinched by the classmate looked embarrassed.
+The artist pulled/caught by the gymnast impressed the audience.
+The toddler nuzzled/grabbed by the sibling kicked angrily.
+The dog chased/scared by the cat jumped the fence.
+The falcon examined/injured by the hawk flew into the bushes.
+The astronomer accompanied/hired by the millionaire found an asteroid.
+The author hosted/designated by the publisher gave a lecture.
+The cashier stalked/selected by the thief stayed in the building.
+The runner massaged/nominated by the coach won the race.
+The killer tugged/captured by the cop scared the public.
+The kid bullied/disarmed by the neighbor complained loudly.
+The teenager guarded/dispatched by the policeman acted nervous.
+The husband dominated/abandoned by the wife attended the course.
+The prisoner taunted/abducted by the agent tried to escape.
+The dancer escorted/joined by the host surprised the guests.
+The veterinarian scrutinized/rescued by the surgeon acted irresponsibly.
+The freshman ridiculed/trampled by the sophomore acted annoyed.
+The athlete championed/appointed by the trainer got a second chance.
+The professor instructed/tenured by the dean served on the committee.
+The witness courted/surprised by the lawyer left the building.
+The king supported/crowned by the bishop fell ill.
+The woman mothered/kidnapped by the outlaw came back home.
+The priest employed/recognized by the bishop led the service.
+The patient encouraged/frightened by the therapist moved both legs.
+The volunteers transported/gathered by the mayor stayed until evening.
+The workers counseled/alerted by the politician protested wage cuts.
+The bride inspected/glimpsed by the mother looked in the mirror.
+The activist shepherded/liberated by the cop fell to the ground.
+The sister embraced/seized by the toddler picked him up.
+The teenager chaperoned/spotted by the parent stayed out late.
+The boy teased/pinched by the girl rolled his eyes.
+The dog pulled/caught by the man chewed at the leash.
+The puppy nuzzled/grabbed by the dog was sleepy.
+The burglar chased/scared by the policeman fell in the river.
+The mouse examined/injured by the kitten scurried into a hole.
+The manager accompanied/hired by the owner opened the door.
+The artist hosted/designated by the patron painted the sunset.
+The hyena stalked/selected by the lion fled the waterhole.
+The player massaged/nominated by the trainer made the team.
+The receiver tugged/captured by the lineman was tackled.
+The man bullied/disarmed by the thief escaped out the back.
+The driver guarded/dispatched by the officer drove away quickly.
+The child dominated/abandoned by the guardian grew up quickly.
+The boy taunted/abducted by the teenager made it home.
+The girl escorted/joined by her date went to the opera.
+The fisherman scrutinized/rescued by the ranger had a bad day.
+The comedian ridiculed/trampled by the crowd went home early.
+The businessman championed/appointed by the committee got the job.
+The engineer instructed/tenured by the manager began to plan for retirement.
+
+123
+
+342
+
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+
+J Psycholinguist Res (2012) 41:323-345
+
+The girl courted/surprised by the boyfriend said 'no' to his question.
+The singer supported/crowned by the fan cried tears of joy.
+The beautician mothered/kidnapped by the accountant refused to eat.
+The manager employed/recognized by the boss asked for a raise.
+The climber encouraged/frightened by the coach made the summit.
+The passengers transported/gathered by the pilot were happy to have made it.
+The student counseled/alerted by the professor worked harder to graduate.
+The traveler inspected/glimpsed by the guard was allowed to pass.
+The children shepherded/liberated by the teacher played outside.
+
+Appendix 2: Filler Sentences
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+
+The baby embraced the sitter and fell asleep.
+The child seized the candy from the bowl.
+The adults chaperoned the children's field trip.
+The man spotted the rare bird in the park.
+The siblings teased each other during the long car ride.
+The aunt pinched her nephews cheeks.
+The child pulled the toy off of the bottom shelf.
+The mother caught a cold from her coworker.
+The cat nuzzled the kitten and licked it clean.
+The employee grabbed the memo out of his briefcase.
+The policeman chased the thief out of the building.
+The witch scared the girl by her looks.
+The doctor examined the child for symptoms of a cold.
+The climber injured herself on a rock.
+The nurse accompanied the father to the doctor's office.
+The hospital hired a doctor to manage emergency room.
+The professor hosted a colleague for the seminar.
+The king designated the prince as his successor.
+The kid stalked the nurse asking for candy.
+The principal selected the athlete to represent the school.
+The nurse massaged the patient every day after the surgery.
+The attorney nominated a classmate for the position of a judge.
+The tugboat tugged the freighter into the harbor.
+The militia captured the castle after a two-day seizure.
+The conductor bullied the musician for being late.
+The spy disarmed the gunman after a short struggle.
+The linebacker guarded the end going out for a pass.
+The sergeant dispatched the officer to the accident.
+The professional dominated the game in the second half.
+The man abandoned the couch on the side of the road.
+The children taunted the substitute teacher.
+The aliens abducted the cow.
+The boy escorted the girl to the prom.
+The player joined the team after qualifications.
+The jeweler scrutinized the diamond closely.
+The fireman rescued the cat from the tree.
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+
+343
+
+The boss ridiculed his incompetent staff.
+The cows trampled the grass in the field.
+The advisor championed the recycling program.
+The mayor appointed his friend as police chief.
+The professor instructed the students in contour integration.
+The board tenured the professor after only 5 years.
+The salesperson courted the buyer for new business.
+The burglar surprised the homeowner at 3 AM.
+The party supported the politician for mayor.
+The archbishop crowned the queen on Wednesday.
+The girl mothered her boyfriend.
+The outlaws kidnapped the company president.
+The grocer employed a boy to deliver groceries
+The bishop recognized the priest during the service.
+The teacher encouraged the student to think independently.
+The climber frightened the colleague with the story of winter climbing.
+The father transported the child to swimming lessons.
+The coach gathered the athletes for a pep talk.
+The psychologist counseled the child with anxiety.
+The worker alerted the supervisor about a gas leak.
+The general inspected the troops before departure.
+The guard glimpsed the queen as she got into her limousine.
+The nanny shepherded the toddler home after a walk.
+The fox liberated the cub from the ditch.
+
+References
+Astheimer, L. B., & Sanders, L. D. (2009). Listeners modulate temporally selective attention during natural
+speech processing. Biological Psychology, 80(1), 23-34.
+Boddy, J., & Weinberg, H. (1981). Brain potentials, perceptual mechanisms and semantic categorisation. Biological Psychology, 12(1), 43-61.
+Bornkessel-Schlesewsky, I., & Schlesewsky, M. (2009). The role of prominence information in the real-time
+comprehension of transitive constructions: A cross-linguistic approach. Language and Linguistics
+Compass, 3(1), 19-58.
+Bornkessel, I., McElree, B., Schlesewsky, M., & Friederici, A. D. (2004). Multi-dimensionsl contributions
+to garden path strength: Dissociating phrease structure from case marking. Journal of Memory and
+Language, 51, 495-522.
+Bornkessel, I., & Schlesewsky, M. (2006). The extended argument dependency model: A neurocognitive
+approach to sentence comprehension across languages. Psychological Review, 113(4), 787-821.
+Brown, C. M., Hagoort, P., & ter Keurs, M. (1999). Electrophysiological signatures of visual lexical
+processing: Open- and closed-class words. Journal of Cognitive Neuroscience, 11(3), 261-281.
+Daneman, M., & Carpenter, P. A. (1980). Individual differences in working memory and reading. Journal
+of Verbal Learning and Verbal Behavior, 19, 450-466.
+Dikker, S., Rabagliati, H., & Pylkkanen, L. (2009). Sensitivity to syntax in visual cortex. Cognition, 110(3), 293-321.
+Dowty, D. (1979). Word meaning and montague grammar. Dordrecht: D. Reidel.
+Ferretti, R., Rohde, H., Kehler, A., & Crutchley, M. (2009). Verb aspect, event structure, and coreferential
+processing. Journal of Memory and Language, 61(2), 191-205.
+Friedmann, N., Taranto, G., Shapiro, L. P., & Swinney, D. (2008). The leaf fell (the leaf): The online
+processing of unaccusatives. Linguistic Inquiry, 39(3), 355-377.
+Frisch, S., & Schlesewsky, M. (2001). The N400 reflects problems of thematic hierarchizing. NeuroReport,
+12(15), 3391.
+
+123
+
+344
+
+J Psycholinguist Res (2012) 41:323-345
+
+Hagoort, P. (2003). Interplay between syntax and semantics during sentence comprehension: ERP effects
+of combining syntactic and semantic violations. Journal of Cognitive Neuroscience, 15(6), 883-889.
+Hagoort, P., & Brown, C. M. (2000). ERP effects of listening to speech: Semantic ERP effects. Neuropsychologia, 38(11), 1528-1530.
+Hagoort, P., Hald, L., Bastiaansen, M. C. M., & Petersson, K. M. (2004). Integration of word meaning
+and world knowledge in language comprehension. Science, 304(5669), 438-440.
+Hammill, D. D., Brown, V. L., Larsen, S. C., & Wiederholt, J. L. (1994). Test of adolescent and adult
+language. Austin, TX: Pro-Ed.
+Jackendoff, R. (1991). Parts and boundaries. Cognition, 41(1-3), 9-45.
+Jackendoff, R. (2007). A parallel architecture perspective on language processing. Brain Research, 1146,
+2-22.
+Just, M. A., Carpenter, P. A., Keller, T. A., Eddy, W. F., & Thulborn, K. R. (1996). Brain activation
+modulated by sentence comprehension. Science, 274(5284), 114-116.
+Kaan, E., Wijnen, F., & Swaab, T. Y. (2004). Gapping: Electrophysiological evidence for immediate
+processing of "missing" verbs in sentence comprehension. Brain and Language, 89(3), 584-592.
+Kim, A., & Osterhout, L. (2005). The independence of combinatory semantic processing: Evidence from
+event-related potentials. Journal of Memory and Language, 52, 205-225.
+King, J. W., & Kutas, M. (1995). Who did what and when? Using word- and causal-level ERPs to monitor
+working memory usage in reading. Journal of Cognitive Neuroscience, 7(3), 376-395.
+Kucera, H., & Francis, W. N. (1967). Computational analysis of present-day American English. Providence:
+Brown University Press.
+Kuperberg, G. R., Kreher, D. A., Sitnikova, T., Caplan, D. N., & Holcomb, P. J. (2007). The role of
+animacy and thematic relationships in processing active English sentences: Evidence from event-related
+potentials. Brain and Language, 100(3), 223-237.
+Kuperberg, G. R., Sitnikova, T., Caplan, D., & Holcomb, P. J. (2003). Electrophysiological distinctions in
+processing conceptual relationships within simple sentences. Brain Res Cogn Brain Res, 17(1), 117-129.
+Kutas, M., & Hillyard, S. A. (1980). Reading sensless sentences: Brain potentials reflect semantic
+incongruity. Science, 207, 203-205.
+Kutas, M., & Hillyard, S. A. (1984). Brain potentials during reading reflect word expectancy and semantic
+associations. Nature, 307, 161-163.
+Lai, G., & Mangels, J. A. (2007). Cueing effects on semantic and perceptual categorization: ERPs reveal
+differential effects of validity as a function of processing stage. Neuropsychologia, 45(9), 2038-2050.
+Levin, B. (1993). English verb classes and alternations. The University of Chicago Press.
+Lubar, J. F., Mann, C. A., Gross, D. M., & Shively, M. S. (1992). Differences in semantic event-related
+potentials in learning-disabled, normal, and gifted children. Biofeedback Self Regul, 17(1), 41-57.
+MacDonald, M. C. (1994). Probabilistic constraints and syntactic ambiguity resolution. Language and
+Cognitive Processes, 9, 157-201.
+Madden, C. J., & Zwaan, R. A. (2003). How does verb aspect constrain event representations?. Memory
+and Cognition, 31, 663-672.
+Magliano, J. P., & Schleich, M. C. (2000). Verb aspect and situation models. Discourse Processes, 29, 83-112.
+Malaia, E., Wilbur, R. B., & Weber-Fox, C. (2009). ERP evidence for telicity effects on syntactic processing
+in garden-path sentences. Brain and Language, 108(3), 145-158.
+Munte, T. F., Wieringa, B. M., Weyerts, H., Szentkuti, A., Matzke, M., & Johannes, S. (2001). Differences
+in brain potentials to open and closed class words: Class and frequency effects. Neuropsychologia, 39(1), 91-102.
+Neville, H. J., Mills, D. L., & Lawson, D. S. (1992). Fractionating language: Different neural subsystems
+with different sensitive periods. Cereb Cortex, 2(3), 244-258.
+Neville, H. J., Nicol, J. L., Barss, A., Forster, K. I., & Garrett, M. F. (1991). Syntactically based
+sentence processing classes: Evidence from event-related brain potentials. Journal of Cognitive
+Neuroscience, 3(2), 151-165.
+O'Bryan, E. (2003). Event structure in language comprehension. Doctoral dissertation, University of
+Arizona.
+O'Bryan, E., Folli, R., Harley, H., & Bever, T. (submitted). Event structure affects on-line sentence
+comprehension.
+Osterhout, L., Holcomb, P. J., & Swinney, D. A. (1994). Brain potentials elicited by garden-path sentences:
+Evidence of the application of verb information during parsing. Journal of Experiment Psychology:
+Learning, Memory, & Cognition, 20, 786-803.
+Osterhout, L., & Mobley, L. A. (1995). Event-related brain potentials elicited by failure to agree. Journal
+of Memory and Language, 34, 739-773.
+
+123
+
+J Psycholinguist Res (2012) 41:323-345
+
+345
+
+Ramchand, G. (2008). Verb meaning and the lexicon--the first-phase syntax. Cambridge: Cambridge
+University Press.
+Recchia, G., & Jones, M. N. (2009). More data trumps smarter algorithms: comparing pointwise mutual
+information with latent semantic analysis. Behavior Research Methods, 41(3), 647-656.
+Segalowitz, S. J., & Zheng, X. (2009). An ERP study of category priming: Evidence of early lexical
+semantic access. Biological Psychology, 80(1), 122-129.
+Stevenson, R., Crawley, R., & Kleinman, D. (1994). Thematic roles, focusing and the representation of
+events. Language and Cognitive Processes, 9, 519-548.
+Stevenson, S., & Merlo, P. (1997). Lexical structure and parsing complexity. Language and Cognitive
+Processes, 12(2/3), 349-399.
+Streb, J., Hennighausen, E., & Rosler, F. (2004). Different anaphoric expressions are investigated by
+event-related brain potentials. Journal of Psycholinguistic Research, 33(3), 175-201.
+Tenny, C. (1987). Grammaticalizing aspect and affectedness. Cambridge: MIT.
+Tenny, C. (1994). Aspectual roles and the syntax-semantics interface. Dordrecht: Kluwer.
+Townsend, D. J., & Bever, T. (2001). Sentence comprehention. Cambridge: The MIT Press.
+van Berkum, J. J., Koorneef, A. W., Otten, M., & Nieuwland, M. S. (2007). Establishing reference in
+language comprehension: An electrophysiological perspective. Brain Research, 1146, 158-171.
+van Hout, A. (2001). Event semantics in the lexicon-syntax interface. In C. Tenny & J. Pustejovsky (Eds.), Events as grammatical objects (pp. 239-282). Stanford, CA: CSLI Publications.
+Van Valin, R. (2007). Some universals of verb semantics. In R. Mairal & J. Gil (Eds.), Linguistic
+universals. Cambridge: Cambridge University Press.
+Wekerly, J., & Kutas, M. (1999). An electrophysiological analysis of animacy effects in the processing
+of object relative sentences. Psychophysiology, 36(5), 559-570.
+Yamada, Y., & Neville, H. J. (2007). An ERP study of syntactic processing in English and nonsense
+sentences. Brain Research, 1130(1), 167-180.
+
+123
+
+

@@ -1,0 +1,2154 @@
+Brain and Language 198 (2019) 104678
+
+Contents lists available at ScienceDirect
+
+Brain and Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Testing the influence of musical expertise on novel word learning across the
+lifespan using a cross-sectional approach in children, young adults and older
+adults
+
+
+Eva Dittingera,b,c, , Johanna Schererd, Lutz Jancked,e, Mireille Bessona,1, Stefan Elmerd,1,
+
+T
+
+
+
+a
+
+CNRS & Aix-Marseille University, Laboratoire de Neurosciences Cognitives (LNC, UMR 7291), Marseille, France
+CNRS & Aix-Marseille University, Laboratoire Parole et Langage (LPL, UMR 7309), Aix-en-Provence, France
+c
+Brain and Language Research Institute (BLRI), Aix-en-Provence, France
+d
+Division Neuropsychology (Auditory Research Group Zurich, ARGZ), Institute of Psychology, University of Zurich, Switzerland
+e
+University Research Priority Program (URRP) "Dynamic of Healthy Aging", Zurich, Switzerland
+b
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+EEG
+Word learning
+Lexical-semantic access
+Cognitive functions
+Plasticity
+Musical expertise
+
+Word learning is a multifaceted perceptual and cognitive task that is omnipresent in everyday life. Currently, it is
+unclear whether this ability is influenced by age, musical expertise or both variables. Accordingly, we used EEG
+and compared behavioral and electrophysiological indices of word learning between older adults with and
+without musical expertise (older adults' perspective) as well as between musically trained and untrained children, young adults, and older adults (lifespan perspective). Results of the older adults' perspective showed that
+the ability to learn new words is preserved in elderly, however, without a beneficial influence of musical expertise. Otherwise, results of the lifespan perspective revealed lower error rates and faster reaction times in
+young adults compared to children and older adults. Furthermore, musically trained children and young adults
+outperformed participants without musical expertise, and this advantage was accompanied by EEG manifestations reflecting faster learning and neural facilitation in accessing lexical-semantic representations.
+
+1. Introduction
+The aging human brain is characterized by grey (Crivello, TzourioMazoyer, Tzourio, & Mazoyer, 2014; Jancke, Merillat, Liem, & Hanggi,
+2015) and white (Bender, Volkle, & Raz, 2016; Hirsiger et al., 2016)
+matter changes in cortical (Crivello et al., 2014) and subcortical
+(Ziegler et al., 2012) brain regions. Such anatomical alterations are
+accompanied by an inter-individual variable decline of several cognitive functions (Shafto & Tyler, 2014), including attention (Erel & Levy,
+2016; Fama & Sullivan, 2015), short-term memory, working memory
+(Rhodes & Katz, 2017; Rieckmann, Pudas, & Nyberg, 2017) as well as
+episodic memory (Fjell et al., 2016). However, due to compensatory
+functional mechanisms that are reflected by the recruitment of auxiliary
+brain regions or increased functional connectivity, there is no simple
+relationship between aging, brain changes and the preservation of
+cognitive functions (Shafto & Tyler, 2014). Furthermore, although older
+adults often demonstrate auditory dysfunctions (Giroud et al., 2018)
+
+that render speech processing in noisy environments particularly difficult (Coffey, Mogilever, & Zatorre, 2017), core language functions like
+lexical-semantic access and syntactic processing are relatively unaffected by aging (Shafto & Tyler, 2014). Nevertheless, since increased
+longevity is generally associated with a higher prevalence of cognitive
+impairments that lead to social and healthcare burden (Rechel et al.,
+2013), there is increased interest in the scientific community to test the
+influence of different leisure activities on brain parameters and cognitive functions (Lazarou et al., 2017; Olsen et al., 2015; Rogenmoser,
+Kernbach, Schlaug, & Gaser, 2018).
+In the last decades, the investigation of professional musicians
+(Bermudez, Lerch, Evans, & Zatorre, 2009; Jancke, 2009; Schon,
+Magne, & Besson, 2004) and children undergoing music training
+(Magne, Schon, & Besson, 2006; Zuk, Benjamin, Kenyon, & Gaab, 2014)
+has attracted increasing attention in the field of cognitive neuroscience.
+A main reason for the attractiveness of this field of research is that
+professional musicians are particularly suited to be used as in vivo
+
+
+Corresponding authors at: Laboratory of Cognitive Neuroscience, Centre Saint-Charles, Pole 3C, Case C, 3 place Victor Hugo, 13331, Marseille cedex 3, France (E.
+Dittinger). Institute of Psychology, Division, Neuropsychology, University of Zurich, Binzmuhlestrasse 14/25, 8050 Zurich, Switzerland (S. Elmer).
+E-mail addresses: eva.dittinger@blri.fr (E. Dittinger), johanna.scherer@gmx.at (J. Scherer), lutz.jaencke@uzh.ch (L. Jancke),
+mireille.besson@univ-amu.fr (M. Besson), s.elmer@psychologie.uzh.ch (S. Elmer).
+1
+Shared last authorship.
+
+https://doi.org/10.1016/j.bandl.2019.104678
+Received 12 April 2019; Received in revised form 1 July 2019; Accepted 7 August 2019
+Available online 23 August 2019
+0093-934X/ (c) 2019 Elsevier Inc. All rights reserved.
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+model for evaluating functional and structural brain changes that are
+mediated by a high amount of deliberate practice (Ericsson, Krampe, &
+Heizmann, 2007; Krampe & Ericsson, 1996). Currently, there is evidence from both cross-sectional studies in adults (Bangert & Schlaug,
+2006; Elmer, Hanggi, Meyer, & Jancke, 2013; Schon et al., 2004) and
+longitudinal studies in children and adolescents (Chobert, Francois,
+Velay, & Besson, 2014; Francois, Chobert, Besson, & Schon, 2013;
+Habibi et al., 2017; Linnavalli, Putkinen, Lipsanen, Huotilainen, &
+Tervaniemi, 2018; Moreno et al., 2009; Musacchia, Sams, Skoe, &
+Kraus, 2007; Tierney, Krizman, & Kraus, 2015) indicating that music
+training promotes functional and structural changes in the primary and
+associative auditory cortex (Elmer, Meyer, & Jancke, 2012; Schneider,
+Sluming, Roberts, Bleeck, & Rupp, 2005), motor- and somatosensory
+cortex (Bangert & Schlaug, 2006; Munte, Altenmuller, & Jancke, 2002),
+ventral and dorsal parts of the prefrontal cortex (Bermudez et al., 2009;
+Sluming, Brooks, Howard, Downes, & Roberts, 2007) as well as in inferior-parietal brain regions (Bermudez et al., 2009) and in the corpus
+callosum (Elmer, Hanggi, & Jancke, 2016; Schlaug, Jancke, Huang, &
+Steinmetz, 1995). Such functional and structural alterations as a function of music training have also been shown to be related to superior
+auditory perception (Kraus & Chandrasekaran, 2010; Seppanen,
+Hamalainen, Pesonen, & Tervaniemi, 2013; Vuust, Brattico, Seppanen,
+Naatanen, & Tervaniemi, 2012), several aspects of speech processing
+(Besson, Chobert, & Marie, 2011) as well as to an optimization of
+cognitive functioning (Dittinger et al., 2016; Schulze & Koelsch, 2012;
+Zuk et al., 2014). In this context, it is noteworthy to mention that
+musicians often demonstrate behavioral and functional advantages in
+processing acoustic cues varying in pitch, voice-onset time, duration
+and prosody (Chobert et al., 2014; Elmer et al., 2013; Kuhnis, Elmer,
+Meyer, & Jancke, 2013; Magne et al., 2006; Schon et al., 2004) as well
+as in encoding lexical tones (Chandrasekaran, Krishnan, & Gandour,
+2009; Marie et al., 2011; Wong, Skoe, Russo, Dees, & Kraus, 2007).
+Music training has previously also been associated with an amelioration
+of short-term memory-, working memory-, and attention functions
+(Schulze & Koelsch, 2012; Strait, Slater, O'Connell, & Kraus, 2015; Zuk
+et al., 2014). Furthermore, it has been proposed that music training
+might decelerate the effects of brain aging (Rogenmoser et al., 2018),
+postpone age-related temporal speech processing deficits (ParberyClark, Anderson, Hittner, & Kraus, 2012) and have a beneficial effect on
+speech-in-noise perception and working memory functions (ParberyClark, Skoe, Lam, & Kraus, 2009; Zendel & Alain, 2012).
+Learning the meaning of novel words constitutes a multifaceted task
+that relies on several functions, including phonological perception and
+categorization, short-term memory, lexical-semantic access and focused
+attention (Dittinger et al., 2016). Recently, Dittinger and colleagues
+(Dittinger et al., 2016; Dittinger, Chobert, Ziegler, and Besson, 2017;
+Dittinger, Valizadeh, Jancke, Besson, and Elmer, 2017) evaluated word
+learning in young adults and children with and without musical expertise using concatenated tasks and Event-Related Potentials (ERPs).
+In these studies, the participants had to (1) categorize monosyllabic
+Thai words varying in terms of non-native phonetic contrasts, (2) learn
+the meaning of novel words through picture-word associations (i.e.,
+learning phase), (3) judge whether combinations of pictures and words
+matched or mismatched those previously learned (i.e., matching task),
+and (4) to generalize the meaning of the learned words to semantically
+affine pictures (i.e., semantic task; see Fig. 1). The results of these
+previous studies consistently revealed a faster development of the N200
+and N400 components during novel word learning in musically-trained
+compared to untrained individuals that was accompanied by higher
+level of performance in the semantic task (Dittinger et al., 2016;
+Dittinger, Chobert, et al., 2017). Furthermore, during the matching and
+semantic tasks only musicians demonstrated a posterior N400 effect
+reflecting the integration of the newly learned words into lexical-semantic memory (Kutas & Federmeier, 2011).
+N200 and N400 EEG manifestations typically emerge around 200
+and 400 ms after stimulus onset and enable to capture distinct aspects
+
+Fig. 1. Experimental design. (A) Participants learned novel words through
+picture-word associations. (B) Afterwards, participants performed two tasks
+consisting of deciding whether the presented pictures and words matched or
+mismatched the previously learned associations (matching task), and whether
+novel pictures were semantically related or unrelated to the learned words
+(semantic task).
+
+of speech and language processing (Kutas & Federmeier, 2011). The
+N200 component has been associated with phonological processing
+(Connolly & Phillips, 1994; Friedrich & Friederici, 2008) and early
+lexical selection processes (van den Brink, Brown, & Hagoort, 2001),
+whereas the N400 component reflects verbal memory functions and
+lexical-semantic access (Kutas & Federmeier, 2011). Previous work has
+repeatedly shown that the N400 component increases in amplitude
+when meaningless items acquire a meaning (McLaughlin, Osterhout, &
+Kim, 2004; Perfetti, Wlotko, & Hart, 2005) and that its amplitude is
+related to increased working memory capacity (Salisbury, 2004). Furthermore, N400 amplitudes are usually larger to low- compared to
+high-frequency words (Van Petten & Kutas, 1990), to pseudowords
+compared to words and to words that are preceded by semanticallyunrelated compared to related words or sentence contexts (Kutas &
+Hillyard, 1980). This N400 effect is typically larger over central-parietal electrodes and is commonly considered as a suitable marker for
+lexical-semantic access (Kutas & Federmeier, 2011).
+The investigation of the cognitive and neural processes underlying
+word learning constitutes a newsworthy topic (Havas, Laine, &
+Rodriguez Fornells, 2017; Rodriguez-Fornells, Cunillera, Mestres-Misse,
+& de Diego-Balaguer, 2009) and several research questions have not yet
+been addressed. The first objective of this study was to determine
+whether the previously reported beneficial effects of musical expertise
+on word learning in children and young professional musicians
+(Dittinger et al., 2016; Dittinger, Chobert, et al., 2017) are likewise
+preserved in older adults (i.e., older adults' perspective). Should this be
+the case, then it is reasonable to assume that musical expertise can
+possibly help to counteract aging-related cognitive and neural decline.
+Based on the previous results of Dittinger and colleagues (Dittinger
+et al., 2016; Dittinger, Chobert, et al., 2017), we expected that older
+adult with musical expertise would outperform age-matched non-musicians, and that this superiority would be reflected by a faster development of the N200 and N400 components in the learning phase as well
+as by lower error rates, faster reaction times and increased N400 effects
+in the matching and semantic tasks. The second objective of our work
+was to evaluate the developmental trajectory (i.e., lifespan perspective)
+of word learning across the lifespan and its interactions with musical
+expertise. In order to address this purpose, we additionally compared
+2
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+Accordingly, the data of the older adult participants were compared
+with those previously collected by Dittinger and colleagues in children
+(i.e., musically trained and untrained children; Dittinger, Chobert,
+et al., 2017) and young adults (i.e., professional MUS and NM; Dittinger
+et al., 2016). Twelve musically-trained children (i.e., six girls) and 11
+children without musical expertise (i.e., five girls) who did not differ in
+age (MUS: mean age = 11.1 years, SD = 1.1; NM: mean
+age = 10.4 years, SD = 1.7; F(1,21) = 1.84, p = 0.19) were tested. For
+the young adult sample, 15 professional MUS (eight women) and 15
+NM (eight women) of similar age were tested (MUS: mean
+age = 25.1 years, SD = 3.9; NM: mean age = 25.7 years, SD = 4.8;
+F(1,28) = 0.02, p = .68). Children practiced music for an average of
+4.9 years (SD = 1.1) and young adults for about 17 years (SD = 4.1).
+All musically-trained participants (i.e., except one young adult musician) started music training before the age of ten years (age of onset:
+children: mean = 5.9 years, SD = 1.0; young adults: mean = 8.1 years,
+SD = 2.4). Children and young adults were native French speakers,
+none of the children or young adults was bilingual, and all children and
+young adults had a similar socio-economic background.
+
+the electrophysiological and behavioral data of the older adults with
+those of the children and young adults previously measured by Dittinger and co-workers (Dittinger et al., 2016; Dittinger, Chobert, et al.,
+2017). This approach is crucial in that at least three factors that are
+known to have an influence on word learning, namely speech perception, vocabulary knowledge, and verbal memory functions are differentially affected by aging (Daneman & Green, 1986). In fact, older
+adults are typically characterized by a larger vocabulary compared to
+children and young adults (Ferrand, 1998), possibly enabling them to
+anchor the meaning of novel words more efficiently on established
+lexical-semantic representations. However, at the same time, older
+adults are often characterized by hearing impairments (Giroud et al.,
+2018) and reduced verbal memory capacity (Cabeza, Anderson,
+Locantore, & McIntosh, 2002; Long, Shaw, Lisa, Long, & Shaw, 2000).
+Since the latter two factors are expected to mitigate speech processing
+and cognitive functioning, we predicted an inverse U-shaped relationship between age and word learning. In particular, we hypothesized
+that such a non-linear relationship would be reflected in a superiority of
+young adults compared to the other two age cohorts, whereas children
+and older adults are expected to perform more similarly. Furthermore,
+we predicted that musical expertise might generally have a beneficial
+effect on word learning across all age cohorts. In summary, the objective of our work was twofold, namely to assess (1) whether musical
+expertise has a protective influence on the aging brain and benefits
+word learning, and (2) the developmental trajectory of word learning
+across lifespan and interactions with musical expertise.
+
+2.3. Psychometric and biographical data: Older adults' perspective
+Cognitive ability: Standardized psychometric tests showed that the
+older adult MUS and NM were comparable in crystalline intelligence
+(F(1,26) < 1; Mehrfachwahl-Wortschatz-Intelligenztest, "MWT-B",
+Lehrl, 1977), fluid intelligence (F(1,26) = 1.72, p = .20; Kurztest fur
+allgemeine Intelligenz, "KAI"; Lehrl & Fischer, 1992), verbal memory
+and verbal learning abilities (F(1,26) < 1; Verbaler Lern- und Merkfahigkeitstest, VLMT; Helmstaedter, Lendt, & Lux, 2001).
+History of music training and musical aptitudes: History of music
+training was assessed by an in-house questionnaire (Elmer et al., 2012)
+specifically designed to collect data on the age of onset of music
+training, the instruments played, the number of years of music training,
+and the estimated number of training hours per day/week during every
+three-year-period of life. Musical aptitudes were tested by asking participants to judge whether pairs of piano melodies were same or different in terms of melody or rhythm. These two musicality tests (i.e.,
+adapted from the MBEA battery, Peretz, Champod, & Hyde, 2003)
+confirmed the superiority of MUS compared to NM in the melodic
+condition
+(percentages
+of
+error:
+MUS:
+melody = 10.3%,
+rhythm = 8.6%; NM: melody = 25.6%, rhythm = 6.8%; Tukey,
+melody = 0.03,
+rhythm = 0.98;
+Group x Test
+interaction:
+F(1,24) = 5.85, p = .02).
+
+2. Materials & methods
+2.1. Participants: Older adults' perspective
+The first objective of this study was to examine the influence of
+musical expertise on word learning in a sample of older adults. With
+this purpose in mind, we measured 14 older adults that were professional musicians (MUS) and 14 non musicians (NM) who did not differ
+in age (MUS: mean age = 60.6 years, SD = 5.7; NM: mean
+age = 58.5 years, SD = 6.1; F(1,24) = 0.81, p = .38) and socioeconomic
+status (criteria of the National Institute of Statistics and Economic
+Studies). Due to EEG artefacts (i.e., movement and muscle artefacts),
+two participants had to be excluded from further analyses, resulting in
+13 MUS (five women; five pianists, two saxophonists, two clarinetists,
+one flautist, one violinist, one harpsichordist and one organist) and 13
+NM (six women). None of the participants reported present or past
+neurological deficits, and all individuals had normal audiological status
+(i.e., all tested frequencies could be heard below a threshold of 30 dB,
+frequency-range of 250-8000 Hz) as revealed by pure tone audiometry
+(MAICO ST 20, MAICO Diagnostic, GmbH, Berlin). All older adults were
+consistent right-handed (Annett, 1970) and native German speakers.
+Although bilinguals were excluded, participants spoke on average three
+foreign languages (MUS: 3.1, NM: 3.3) but none of them had experience
+with Thai or other tonal languages. All MUS started music training
+before the age of ten years (mean age of commencement = 6.6 years,
+SD = 1.0 years), and at the time of EEG measurements they still practiced their musical instrument for at least two hours a day (mean hours/
+day during the last year = 3.1 h, SD = 0.9 h). The MUS had an average
+number of 54 practice years (range = 44-64 years, SD = 3.3 years),
+whereas NM did not regularly play a musical instrument (i.e., no formal
+musical education). The local ethic committee (Ethics Commission of
+the Canton of Zurich) approved the study (in accordance with the declaration of Helsinki) and written consent was obtained from all participants who were paid for participation.
+
+2.4. Psychometric and biographical data: Lifespan perspective
+Cognitive ability: Due to differences in age and mother tongue between the three cohorts of participants, different tests were used to
+evaluate general intelligence in children, young adults and older adults.
+The psychometric procedures used in the older adults' sample have
+been described in the previous paragraph. Children were tested on the
+full version of progressive matrices (PM47; Raven, Corporation, &
+Lewis, 1962) and young adults performed an abbreviated version of the
+same test. Univariate ANOVAs did not show significant group differences for children (F(1,21) = 3.71, p = 0.07) or young adults (F(1,
+28) = 1.37, p = .25).
+History of music training and musical aptitudes: the two musicality
+tests for melody and rhythm described above (i.e., adapted from the
+MBEA battery, Peretz et al., 2003) were used in all three age cohorts.
+Results of a 2 x 3 x 2 ANOVA (2 Groups x 3 Ages x 2 Tests) showed
+lower error rates in MUS (12.4%) than in NM (21.9%; main effect of
+Group: F(1,69) = 15.85, p < .001). Moreover, young and older adults
+made significantly fewer errors than children (young adults = 12.0%;
+older adults = 14.7%, children = 24.8%; Tukey, both < 0.004; main
+effect of Age: F(2,69) = 10.37, p < .001) and participants made overall
+fewer errors in the rhythm (12.0%) than in the melody task (22.4%;
+
+2.2. Participants: Lifespan perspective
+The second objective of this work was to compare the influence of
+musical expertise on novel word learning across the lifespan.
+3
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+different pictures were associated with different words. During this
+learning phase, no behavioral response was required, but the participants were informed that they would be tested on how well they
+learned the picture-word associations. In this study, we deliberately
+decided to focus on the learning of novel words based on familiar objects instead of learning novel words for novel concepts because it is
+cognitively less demanding, especially for older participants.
+Matching task: In the matching task, participants were exposed to
+one of the nine pictures that were followed, after 750 ms (SOA), by one
+of the words that matched or mismatched the previously learned associations. For instance, while the drawing of an eye followed by
+/pha1/ (i.e., eye) was a match, the drawing of a flower followed by
+/pha1/ was a mismatch (see Fig. 1B). Participants were asked to press
+one out of two response keys on an in-house made response box as
+quickly and accurately as possible (i.e., response hand was counterbalanced across participants). Furthermore, at the end of each trial a
+row of "X" appeared on the screen, and participants were asked to blink
+during this time period (1000 ms; total trial duration: 3750 ms) in order
+to minimize eye movement artifacts during word presentation. Each
+word was presented 20 times, 10 times in match- and mismatch conditions. The total of 180 trials was pseudo-randomly presented (i.e., no
+immediate repetition of the same association and no more than four
+successive same responses) within two blocks of 5.6 min each. Since
+during the learning phase we did not collect behavioral responses, the
+matching task was used to objectify and quantify learning.
+Semantic task: During the semantic task, new pictures of familiar
+concepts that were semantically related or unrelated to those previously
+learned were presented. The presentation of a new picture was followed
+(SOA = 1500 ms) by a semantically related or unrelated word. For instance, while the picture of glasses was semantically related to the
+previously learned word /pha1/ (i.e., eye), the picture of a watering can
+was semantically unrelated to /pha1/ (see Fig. 1B). Participants were
+asked to press one out of two response keys on an in-house made response box as quickly and accurately as possible. A familiarization task
+including four trials was administrated before starting the task, and
+response hand was counter-balanced across participants. At the end of
+the trial a row of "X" appeared on the screen, and participants were
+asked to blink during this time period (1000 ms, total trial duration = 4500 ms). Each word was presented 12 times but none of the
+new pictures was repeated, so that on each trial the word was associated with a different related or unrelated picture. Half of the pictureword pairs were semantically related and half were semantically unrelated. A total of 108 trials was presented pseudo-randomly (i.e., no
+immediate repetition of the same association and no more than four
+successive same responses) within two blocks of 4 min each. The purpose of the semantic task was to assess whether the learned words have
+been integrated into semantic memory and transferred to pictures with
+a similar meaning.
+
+main effect of Test: F(1,69) = 33.83, p < .001).
+2.5. Experimental stimuli used for both the older adults' and lifespan
+perspectives
+Auditory stimuli: Nine natural Thai monosyllabic words were selected for the experiment (the same as those previously used by
+Dittinger et al., 2016). These words varied in vowel duration, with short
+(/ba1/, /pa1/ and /pha1/; 261 ms on average) and long vowels (/ba:1/
+, /pa:1/, /pha:1/, /ba:0/, /pa:0/ and /pha:0/; 531 ms on average),
+fundamental frequency, with low-tone (/ba1/, /pa1/, /pha1/, /ba:1/,
+/pa:1/ and /pha:1/; F0 = 175 Hz on average) and mid-tone vowels
+(/ba:0/, /pa:0/ and /pha:0/; F0 = 218 Hz on average) as well as in
+voicing contrasts (/ba1/, /ba:1/ and /ba:0/, Voice Onset Time
+(VOT) = -144 ms versus /pa1/, /pa:1/ and /pa:0/, VOT = 3 ms) and
+aspiration contrasts (/pa1/, /pa:1/ and /pa:0/, VOT = 3 ms versus
+/pha1/, /pha:1/ and /pha:0/, VOT = 77 ms). Stimuli were recorded by
+a female Thai-French bilingual. For each word, 5 versions were recorded and presented during the experiment in order to reproduce
+natural speech variability. Sound pressure level was normalized across
+all words to a mean level of 70 dB by using the Praat software (http://
+www.fon.hum.uva.nl/praat/).
+Visual stimuli: For the learning phase, nine pictures representing
+familiar objects (i.e., bear, flower, key, chair, bell, eye, strawberry,
+train, glass) were selected based on the standardized set of 260 pictures
+built by Snodgrass & Vanderwart (Snodgrass & Vanderwart, 1980).
+Pictures were matched for name and image agreement, familiarity, and
+visual complexity. The same pictures as in the learning phase were also
+presented in the matching task. For the semantic task, 54 new pictures
+that the participants had not seen before in the experiment and that
+were semantically related or unrelated to the meaning of the newlylearned words were chosen from the internet by two of the authors (ED
+and MB). In a pilot experiment, all pictures were pre-tested in a sample
+of university students (n = 60; age range = 19-25 years). The participants were asked to rate the semantic relatedness between new and old
+pictures on a scale from 1 to 5, with 1 corresponding to "not related at
+all" and 5 corresponding to "very strongly related" (e.g., picture of a
+white bear with picture of an iceberg). Only picture pairs that were
+rated with an average score higher than 4 in related conditions and
+lower than 2 in unrelated conditions were used in the experiments.
+2.6. Experimental tasks used for both the older adults and lifespan
+perspectives
+Participants were tested individually in a quiet experimental room
+(i.e., Faraday cage) while they sat in a comfortable chair at about 1 m
+from a computer screen. Auditory stimuli were presented through HiFi
+headphones (Sennheiser, HD590) at 70 dB sound pressure level. Visual
+and auditory stimuli presentation as well as the collection of behavioral
+data was controlled by the Presentation software (Neurobehavioral
+Systems, Albany, California, version 11.0).
+Learning phase: Participants were instructed to learn the meaning
+of the nine words (i.e., in children we only used six words) by means of
+picture-word associations. Thereby, we used pictures of familiar concepts. For instance, a drawing of an eye was followed by the word
+/pha1/ and thus, /pha1/ was the word corresponding to eye in our
+"foreign language" (see Fig. 1A). Each of the nine picture-word pairs
+was presented 20 times, resulting in 180 trials that were pseudo-randomly presented (i.e., no immediate repetition of the same association)
+in two blocks of 3 min each. However, for better evaluating the electrophysiological dynamics of learning, each block was further divided
+into two parts of 45 trials each. Accordingly, the statistical EEG analyses were performed by taking into account 4 blocks. The picture was
+presented first followed by one out of nine auditory words (i.e., stimulus-onset asynchrony, SOA = 750 ms) and total trial duration was
+2000 ms. Two different lists were used, so that across participants
+
+2.7. EEG data acquisition: Older adults' perspective
+The EEG was continuously recorded at a sampling rate of 1000 Hz
+with a high-pass filter of 0.1 Hz by using an EEG amplifier system
+(Brainproducts, Munich, Germany) with 32 active Ag/Cl electrodes
+located at standard positions according to the international 10/20
+system (Jasper, 1958). The reference electrode was placed on the tip of
+the nose, and electrode impedance was kept below 10 k. EEG data
+were analyzed using the Brain Vision Analyzer software (Version
+1.05.0005 & Version 2.1.0; Brain Products, GmbH). The data were rereferenced offline to the averaged left and right mastoids, filtered offline with a bandpass filter of 0.1-30 Hz (slope of 24 dB/oct), and independent component analysis (ICA) and inverse ICA were used to
+identify and correct vertical and horizontal ocular movements. Furthermore, DC-detrend (length 100 ms) and removal of artifacts above a
+maximum-minimum criterion of 75 V over the entire epoch were applied automatically. For each participant, ERPs were computed time4
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+Table 1
+Error rates (ERRs) and reaction times (RTs) are shown for all participants (ALL), musicians (MUS) and non-musicians (NM), older adults, younger adults and children,
+averaged across conditions (Overall), separately for match and mismatch trials in the matching task, and for related and unrelated trials in the semantic task. Values
+in bold highlight significant effects (main effects and interaction) reported in the results section.
+ERRs [%]
+
+RTs [ms]
+
+Overall
+
+Match/ Related
+
+Mismatch/ Unrelated
+
+Overall
+
+Match/ Related
+
+Mismatch/Unrelated
+
+Matching task
+
+ALL
+MUS
+NM
+Older adults
+Young Adults
+Children
+
+20.3
+17.0
+23.5
+20.3
+16.8
+23.6
+
+14.5
+13.0
+15.8
+13.2
+14.2
+15.9
+
+26.0
+20.9
+30.7
+27.5
+19.4
+30.8
+
+1203
+1185
+1221
+1177
+1060
+1372
+
+1151
+1143
+1160
+1129
+1042
+1283
+
+1255
+1228
+1282
+1226
+1078
+1459
+
+Semantic task
+
+ALL
+MUS
+NM
+Older adults
+Young Adults
+Children
+
+29.7
+26.1
+33.2
+33.4
+27.1
+28.5
+
+30.9
+28.3
+33.5
+31.3
+31.8
+29.7
+
+28.4
+23.8
+32.9
+35.5
+22.4
+27.2
+
+1616
+1613
+1618
+1429
+1270
+2146
+
+1509
+1513
+1505
+1323
+1209
+1996
+
+1722
+1712
+1732
+1536
+1333
+2296
+
+always included Group (MUS vs. NM) as a between-subject factor and
+Anterior/Posterior [mean amplitude frontal (F3, Fz, F4) vs. mean amplitude central (C3, Cz, C4) vs. mean amplitude parietal (P3, Pz, P4)] as
+within-subject factor. In addition, the ANOVAs included specific factors
+for each task. To capture temporal dynamics during the learning phase,
+the ANOVA included the factor Block [Block 1 (trials 1-45) vs. 2 (trials
+46-90) vs. 3 (trials 91-135) vs. 4 (trials 136-180)]. By contrast, in the
+test phases (i.e., matching and semantic tasks), the factor Condition
+(match vs. mismatch or related vs. unrelated) was included in order to
+evaluate whether words have been learned. Post-hoc Tukey tests (i.e.,
+reducing the probability of Type I errors) were used to determine the
+origin of significant main effects or interactions.
+
+locked to the onset of the words, segmented into 1700 ms epochs (i.e.,
+including a 200 ms pre-stimulus baseline), and averaged for each condition. Individual averages were then used to compute the grand
+average in MUS, NM and all participants. For statistical analyses, mean
+amplitudes during the learning phase (N200: 250-350 ms, N400:
+350-550 ms), the matching task and the semantic task (N200:
+250-350 ms, N400: 350-450 ms) were extracted separately for each
+group (MUS and NM) and the different age cohorts (older adults vs.
+young adults vs. children). Only trials with correct responses entered
+statistical analyses.
+2.8. EEG data acquisition: Lifespan perspective
+In children and young adults, the EEG was continuously recorded at
+a sampling rate of 512 Hz with a band-pass filter of 0-102.4 Hz by using
+a Biosemi amplifier system (BioSemi Active 2, Amsterdam, The
+Netherlands) with 32 active Ag/Cl electrodes (Biosemi Pintype) located
+at standard positions according to the International 10/20 System
+(Jasper, 1958). The EOG was recorded from flat-type active electrodes
+placed 1 cm to the left and right of the external canthi and from an
+electrode beneath the right eye. Two additional electrodes were placed
+on the left and right mastoids. Electrode impedance was kept below 5
+k. EEG data were analyzed using Brain Vision Analyzer software
+(Version 1.05.0005; Brain Products, Munchen, Germany). All data were
+re-referenced offline to the averaged left and right mastoids. All further
+processing steps were the same as for older adults described above,
+except that in the children sample all trials were averaged for statistical
+analyses instead of only evaluating trials with correct responses. This
+procedure enables to improve signal-to-noise ratio which is typically
+lower in children due to more noisy ERP traces.
+
+2.10. Statistical analyses: Lifespan perspective
+All statistical analyses were performed using ANOVAs (Statistica
+software version 12.0, StatSoft Inc., Tulsa). ERRs, RTs and ERPs were
+evaluated by the same statistical models described in the older adults'
+perspective. However, the factor Age (older adults vs. young adults vs.
+children) was treated as an additional between-subject factor. Post-hoc
+Tukey tests were used to determine the origin of significant main effects
+or interactions.
+
+3. Results
+3.1. Older adults' perspective: Behavioral data
+3.1.1. Matching and semantic tasks
+ERRs and RTs of the matching and semantic tasks were analyzed by
+means of 2 x 2 ANOVAs (2 Groups x 2 Conditions; see Table 1 and
+Fig. 2, "older adults"). Analyses of ERRs showed that in the matching
+task participants made fewer errors to match than to mismatch words
+(main effect of Condition: F(1,24) = 46.02, p < .001). Analyses of RTs
+revealed overall faster responses to match or to related words compared
+to mismatch or unrelated words (main effects of Condition: matching
+task: F(1,24) = 13.97, p = .001; semantic task: F(1,24) = 52.60,
+p = .001).
+
+2.9. Statistical analyses: Older adults' perspective
+Behavioral and electrophysiological data were evaluated using
+analyses of variance (ANOVAs, Statistica software version 12.0, StatSoft
+Inc., Tulsa). The evaluation of error rates (ERRs) and reaction times
+(RTs) always included Group (MUS vs. NM) as between-subject factor
+and Condition (match vs. mismatch in the matching task; related vs.
+unrelated in the semantic task) as within-subject factor. Separate
+ANOVAs were computed for evaluating ERRs and RTs in the matching
+and semantic tasks. Furthermore, we evaluated mean amplitudes (i.e.,
+based on previous literature and visual inspection of the data) of the
+N200 and N400 components during the learning phase (N200:
+250-350 ms, N400: 350-550 ms), the matching task and the semantic
+task (N200: 250-350 ms, N400: 350-450 ms) using separate ANOVA
+models for the different EEG components and tasks. The ANOVAs
+
+3.2. Older adults' perspective: Electrophysiological data
+Electrophysiological data were analyzed by means of 2 x 4 x 3 (2
+Groups x 4 Blocks x 3 Anterior/Posterior; learning phase) and
+2 x 2 x 3 (2 Groups x 2 Conditions x 3 Anterior/Posterior; matching
+and semantic tasks) ANOVAs (see Table 2 for V values).
+5
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+Fig. 2. Older adults: behavioral data. Percentages of errors (first row) and reaction times (second row) in the matching (left column) and semantic (right column)
+tasks are shown for MUS (red) and NM (black).
+
+3.3. Lifespan perspective: Behavioral data
+
+3.2.1. Learning phase
+In the learning phase, the N400 was larger over frontal and central
+compared to parietal scalp sites (Tukey, both p < .001; main effect of
+Anterior/Posterior: F(2,48) = 21.99, p < .001). In addition, both the
+N400 and N200 components were larger in Block 4 than in Block 1
+(Tukey, N400: p = .05, N200: p = .04; main effects of Block: N400:
+F(3,72) = 3.04, p = .03, N200: F(3,72) = 3.95, p = .01; see Fig. 3A).
+However, the N400 increase was only significant in MUS, with larger
+N400 in Block 2 compared to Block 1 (Tukey, p = .03; main effects of
+Block in separate ANOVAs for Groups: MUS: F(3,36) = 3.06, p = .04,
+NM: F(3,36) = 1.14, p = .35; Group x Block x Anterior/Posterior interaction: F(6,144) = 2.32, p = .04). Since within group post-hoc analyses did not reveal significant Block x Anterior/Posterior interactions,
+it results unclear how the factor Anterior/Posterior contributed to the
+Group x Block x Anterior/Posterior interaction.
+
+ERRs and RTs of the matching and semantic tasks were analyzed by
+means of 2 x 3 x 2 ANOVAs (2 Groups x 3 Ages x 2 Conditions; see
+Table 1 for ERRs and RT values).
+3.3.1. Matching task
+In the matching task, MUS made overall fewer errors than NM, and
+participants generally made fewer errors to match than to mismatch
+words (main effects of Group and Condition: F(1,69) = 10.88, p = .002
+and F(1,69) = 69.59, p < .001, respectively; see Fig. 4). Specifically,
+MUS made fewer errors than NM in response to mismatch words
+(Tukey, mismatch: p < .001, match: p = .66; Group x Condition interaction: F(1,69) = 6.74, p = .01). Young adults also made fewer errors
+than children (Tukey, p = .03; main effect of Age: F(2,69) = 3.81,
+p = .03). Specifically, young adults made fewer errors than older adults
+and children to mismatch words (Tukey, mismatch: p = .06 and
+p = .002, respectively, match: both p = .99; Age x Condition interaction: F(2,69) = 5.27, p = .007). RTs were faster to match compared to
+mismatch words (main effect of Condition: F(1,69) = 54.84, p < .001;
+see Fig. 4). RTs were also faster in older and young adults compared to
+children (Tukey, p = .02 and p < .001, respectively; main effect of
+Age: F(2,69) = 10.67, p < .001). Finally, older adults responded faster
+than children to mismatch words (Tukey, p = .02) and young adults
+responded faster than children to both match and mismatch words
+(Tukey, p = .01 and p < .001, respectively; Age x Condition:
+F(2,69) = 8.20, p < .001).
+
+3.2.2. Matching and semantic tasks
+In the matching task, the N400 and N200 were larger to mismatch
+than to match words over parietal sites (Tukey, both p < .001;
+Condition x Anterior/Posterior interactions: N400: F(2,48) = 10.65,
+p < .001, N200: F(2,48) = 16.95, p < .001, see Fig. 3B).
+In the semantic task the N400 was smaller in MUS compared to NM
+(main effect of Group: F(1,24) = 4.01, p = .05, see Fig. 3B). Moreover, in
+MUS the N200 was larger in response to unrelated than to related words
+(main effects of Condition in separate ANOVAs for Groups: MUS:
+F(1,12) = 6.72, p = .02, NM: F(1,12) = 3.76, p = .08; Group x Condition
+interaction: F(1,24) = 7.92, p = .01).
+6
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+(Tukey, all p < .05; main effects of Age: N400: F(2,73) = 29.97,
+p < .001; N200: F(2,73) = 12.49, p < .001; see Fig. 5).
+
+Table 2
+Older adults' perspective. Mean amplitudes (V) and standard deviations (SD)
+are shown for older participants. MUS = musicians, NM = non-musicians.
+Frontally: mean amplitude at F3, Fz and F4; Centrally: mean amplitude at C3,
+Cz and C4; Parietally: mean amplitude at P3, Pz and P4. If specific information
+is missing, the values refer to the mean voltage of frontal, central and parietal
+electrodes.
+N400
+
+3.4.2. Matching and semantic tasks
+In the matching task, the N400 and N200 were larger to mismatch
+than to match words over parietal sites (Tukey, both p < .001;
+Condition x Anterior/Posterior interactions: N400: F(2,146) = 9.23,
+p < .001 and N200: F(2,146) = 28.03, p < .001). Furthermore, the
+N400 was larger in older adults and children than in young adults
+(Tukey, p = .05 and p < .001, respectively; main effect of Age:
+F(2,73) = 9.03, p < .001). In MUS, also the N200 was larger in older
+adults and children than in young adults (MUS: Tukey, p = .006 and
+p = .002, respectively; main effects of Age in separate ANOVAs for
+Groups: MUS: F(2,37) = 8.73, p < .001; NM: F(2,36) = 0.15, p = .86;
+Group x Age: F(2,73) = 3.28, p = .04; see Fig. 6).
+In the semantic task, only MUS demonstrated larger N400 responses
+to unrelated compared to related words over parietal electrodes (Tukey,
+p < .001; Condition x Anterior/Posterior interactions in separate
+ANOVAs for Groups: MUS: F(2,74) = 8.61, p < .001; NM:
+F(2,72) = 2.74, p = .08; Group x Age x Condition x Anterior/Posterior
+interaction: F(4,146) = 2.42, p = .05; see Fig. 6). This effect was reversed
+in young adult NM, with larger N400 to related than to unrelated words
+over frontal sites (Tukey, p = .004; Condition x Anterior/Posterior
+interaction: F(2,28) = 10.19, p < .001; Age x Condition x Anterior/
+Posterior interaction, F(4,74) = 2.57, p = .04). Similarly, only for MUS
+the N200 was larger to unrelated than to related words (main effects of
+Condition in separate ANOVAs for Groups: MUS: F(1,39) = 10.63,
+p = .002;
+NM:
+F(1,38) = 1.74,
+p = .20;
+Group x Condition:
+F(1,73) = 9.43, p = .003, see Fig. 6). Both the N400 and N200 were
+largest in children, intermediate in young adults, and smallest in older
+adults (Tukey, all p < .05; main effects of Age: N400: F(2,73) = 36.04,
+p < .001; N200: F(2,73) = 34.55, p < .001), with largest differences
+over frontal sites (Tukey, N400: p = .01, N200: p = .03; Age x Anterior/Posterior interactions: N400: F(4,146) = 5.70, p < .001; N200:
+F(4,146) = 6.60, p < .001). Only for MUS the N400 over frontal sites
+was smaller in older adults compared to young adults (Tukey, MUS:
+p = .05, NM: p = .53; main effects of Age of separate ANOVAs for
+Groups: MUS: F(2,37) = 21.56, p < .001; NM: F(2,36) = 15.10,
+p < .001; Group x Age x Condition x Anterior/Posterior interaction:
+F(4,146) = 2.42, p = .05).
+
+N200
+
+V
+
+SD
+
+V
+
+SD
+
+Learning phase
+
+Frontally
+Centrally
+Parietally
+Block 1
+MUS
+NM
+Block 2
+MUS
+NM
+Block 3
+Block 4
+
+-0.25
+0.22
+1.08
+1.28
+2.09
+0.47
+0.07
+-0.21
+0.36
+0.08
+-0.03
+
+1.75
+1.80
+1.95
+1.82
+2.57
+2.56
+2.06
+2.90
+2.91
+1.60
+1.71
+
+0.12
+-0.01
+-0.21
+0.95
+1.86
+0.05
+0.02
+-0.09
+0.14
+-0.67
+-0.45
+
+2.16
+2.24
+2.29
+2.21
+3.12
+3.12
+2.28
+3.22
+3.22
+1.91
+2.03
+
+Matching task
+
+Match (parietally)
+Mismatch (parietally)
+
+-1.95
+-3.01
+
+1.40
+1.10
+
+-3.06
+-3.78
+
+1.05
+0.92
+
+Semantic task
+
+MUS Overall
+Related
+Unrelated
+NM Overall
+Related
+Unrelated
+
+2.69
+2.88
+2.50
+0.50
+0.23
+0.77
+
+0.78
+3.12
+1.77
+0.78
+3.12
+0.77
+
+2.95
+3.44
+2.47
+1.52
+0.70
+2.35
+
+0.73
+2.67
+2.11
+0.73
+2.67
+2.10
+
+3.3.2. Semantic task
+In the semantic task, MUS made overall fewer errors than NM (main
+effect of Group: F(1,69) = 11.32, p = .001), and older adults committed
+more errors than young adults (Tukey, p = .04; main effect of Age:
+F(2,69) = 3.35, p = .04). Furthermore, young adults made more errors
+to related compared to unrelated words (main effects of Condition of
+separate ANOVAs for Ages: young adults: F(1,24) = 12.48, p = .002;
+older adults: F(1,24) = 1.28, p = .27; children: F(1,21) = 0.39, p = .54;
+Age x Condition: F(2,69) = 3.98, p = .02; see Fig. 4). Regarding RTs,
+participants responded faster to related than to unrelated words (main
+effect of Condition: F(1,69) = 148.99, p < .001; see Fig. 4), and older
+and young adults responded faster than children (Tukey, both
+p < .001; main effect of Age: F(2,69) = 49.68, p < .001).
+
+4. Discussion
+
+3.4. Lifespan perspective: Electrophysiological data
+
+In a natural context, word learning constitutes a multifaceted perceptual and cognitive task requiring phonological encoding, speech
+segmentation and meaning acquisition (Rodriguez-Fornells et al.,
+2009). In the present EEG study, we adapted word learning to a laboratory setting and applied a set of concatenated tasks that put particular emphasis on different cognitive functions. In the learning phase,
+participants had to properly encode foreign language speech sounds
+and to learn associations between pictures and words, whereas in the
+successive matching task participants had to recall the previously
+learned associations from memory. Finally, during the semantic task
+participants were required to access lexical-semantic representations.
+Within this framework, we focused on two parallel topics, namely on
+(1) whether the beneficial effect of musical expertise on word learning
+is preserved in older participants, and (2) on the developmental trajectory of word learning across the lifespan and its interaction with
+musical expertise. In turn, we will separately discuss the results of the
+older adults' and lifespan perspectives.
+
+The electrophysiological data were analyzed by means of
+2 x 3 x 4 x 3 (2 Groups x 3 Ages x 4 Blocks x 3 Anterior/Posterior;
+learning phase) and 2 x 3 x 2 x 3 (2 Groups x 3 Ages x 2
+Conditions x 3 Anterior/Posterior; matching and semantic tasks)
+ANOVAs (see Table 3 for V values and standard deviations).
+3.4.1. Learning phase
+In the learning phase, only in MUS N400 and N200 responses were
+larger in Block 2 compared to Block 1 (main effects of Block: MUS:
+N400: F(1,37) = 26.81, p < .001; N200: F(1,37) = 21.61, p < .001; and
+NM: N400: F(1,36) = 2.51, p = .12; N200: F(1,36) = 1.48, p = .23;
+Group x Block interactions: N400: F(1,73) = 6.49, p = .01; N200:
+F(1,73) = 6.62, p = .01, see Fig. 5). Moreover, the N200 increase was
+significant in young adults (main effect of Block: F(1,29) = 14.02,
+p < .001) and in children over frontal and central sites (Tukey,
+p < .001 and p = .004, respectively; main effect of Block:
+F(1,22) = 8.34, p = .009 and Block x Anterior/Posterior interaction:
+F(2,44) = 4.10, p = .02), but not in older adults (main effect of Block:
+F(1,25) = 2.37,
+p = .14;
+Age x Block x Anterior/Posterior:
+F(4,146) = 3.23, p = .01). Finally, the N400 and N200 were largest in
+children, intermediate in young adults, and smallest in older adults
+
+4.1. Older adults' perspective: Musical expertise and novel word learning
+During the learning phase, older adults demonstrated fast neural
+plasticity effects that developed after only five minutes of learning
+picture-word associations. These neural dynamics were manifested by
+7
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+Fig. 3. Older adults: electrophysiological data. ERPs recorded (A) at the central electrode (Cz) in the learning phase and (B) at the parietal electrode (Pz) in the
+matching and semantic tasks are shown for (A) the different blocks and (B) conditions, separately for all participants (ALL), musicians (MUS), and non-musicians
+(NM). Voltage values are scaled from (A) -2.5 to +1.0 V and (B) -1.5 to +1.5 V. In this and subsequent figures, time in milliseconds is reported in the abscissa
+and the amplitude of the effects in microvolt is depicted in the ordinate. Time zero corresponds to word onset and negativity is plotted upwards. The level of
+significance is represented by stars with * p < .05, ** p < .01, ***p < .001, and n.s. = not significant. Topographic voltage distribution maps of the differences
+between (A) the first two blocks (Block 2 minus 1) and (B) the two conditions (mismatch minus match, and unrelated minus related, respectively) are illustrated for
+the N200 and N400 components.
+
+components were most pronounced at parietal scalp sites (see Fig. 3B,
+"ALL"). The N200 and N400 effects are interpreted as indicating a
+phonological and lexical-semantic mismatch between the expected
+words corresponding to the pictures and the actually presented words.
+Furthermore, posterior N200 and N400 distributions are typically observed during linguistic tasks requiring access to lexical-semantic
+knowledge (Kutas & Federmeier, 2011). Since the topographical distributions of these processes clearly differed from the frontal N400
+waveforms observed during the learning phase, results clearly indicate
+the engagement of differential mnemonic functions during the learning
+phase and the matching task.
+In the semantic task, the older participants had to translate the
+meaning of the newly learned words to semantically affine pictures that
+have not been presented before in the course of the experiment.
+Surprisingly, during this task we did not find clear behavioral and
+electrophysiological evidence for the integration of the newly learned
+words into lexical-semantic memory. In fact, both N400 responses and
+ERRs were not differentially sensitive to related and unrelated words
+
+significantly increased N200 and N400 amplitudes taken to reflect
+phonological processes and verbal memory functions from Block 1 to
+Block 4 (see Fig. 3A, "ALL"). Moreover, in line with previous literature
+on word learning (Batterink & Neville, 2011; Borovsky, Elman, & Kutas,
+2012; Borovsky, Kutas, & Elman, 2010; Dittinger et al., 2016;
+McLaughlin et al., 2004; Mestres-Misse, Rodriguez-Fornells, & Munte,
+2007; Perfetti et al., 2005), N400 responses to novel words were larger
+at frontal-central electrodes compared to parietal scalp sites. Such
+anterior N400 manifestations are in line with previous work showing
+the contribution of frontal brain regions to the acquisition of word
+meaning (Rodriguez-Fornells et al., 2009) and to the maintenance of
+novel information in working memory (Hagoort, 2014).
+The behavioral data of the matching task confirmed that older
+adults were able to learn novel words. In fact, the participants generally
+showed lower ERRs and faster RTs to match compared to mismatch
+words (see Fig. 2). Furthermore, older adults demonstrated significantly
+increased N200 and N400 amplitudes in response to mismatch compared to match words (i.e., N200 and N400 effects), and both
+8
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+Fig. 4. Lifespan perspective: behavioral data. Percentages of errors (first row) and reaction times (second row) in the matching (left column) and semantic (right
+column) tasks are shown for all participants (blue), MUS (red), NM (black), as well as for older adults (O), young adults (Y) and children (C).
+
+(see Fig. 3B, "ALL"), even though RTs were generally faster in response
+to related words (see Fig. 2). Accordingly, results indicate that the
+meaning of the learned words was not sufficiently integrated into lexical-semantic memory in order to generalize to semantically affine new
+pictures.
+The evaluation of the influence of musical expertise during the
+learning phase revealed that only older adult MUS demonstrated a
+rapid increase of the N400 waveform from Block 1 to Block 2. This
+result is in line with previous studies of our group (Dittinger et al.,
+2016; Dittinger, Chobert, et al., 2017) indicating faster N400 dynamics
+and superior word encoding abilities in MUS compared to NM. However, according to visual data inspection (see Fig. 3A), in Block 1 the
+N400 was larger in older adult NM compared to MUS, whereas in Block
+4N400 amplitudes were almost comparable between the two groups.
+Therefore, it appears conceivable that older adult NM more strongly
+engaged verbal memory functions at the beginning of the experiment
+(Block 1) without further modulation of the N400 component in the
+subsequent blocks (i.e., increased or decreased amplitudes). By contrast, the increased N400 magnitudes we revealed across the blocks in
+older adult MUS during the learning phase might possibly reflect a
+more gradual recruitment of processing resources. Such group differences in the developmental dynamics of the N400 waveform as well as
+the observed convergence of N400 responses between the two groups at
+the end of the learning phase, might contribute to explain why older
+adult MUS and NM performed the matching and semantic tasks in a
+similar manner (see Fig. 2). In this context, it is important to mention
+that the absence of behavioral between-group differences in the
+matching task is in line with the results previously reported in young
+adults (Dittinger et al., 2016), whereas the comparable performance of
+
+the two groups in the semantic task was rather unexpected. Nevertheless, the lack of between-group differences in ERRs and RTs during
+the semantic task is interpreted as indicating that the cognitive advantages previously reported in MUS by other authors (George & Coch,
+2011; Moreno et al., 2011; Schellenberg, 2004; Strait et al., 2015; Zuk
+et al., 2014) were counteracted by aging. In particular, since the semantic task placed additional demands on working memory functions
+that were required to compare the degree of semantic affinity between
+the new and old pictures, we speculate that the beneficial effect of
+musical expertise might be less pronounced in tasks that place particular emphasis on working memory capacity. Such a perspective is
+compatible with previous work showing that older adults have more
+difficulties than younger adults in working memory tasks, and generally
+exhibit activation patterns reflecting signs of inefficiency in brain regions supporting executive functions (Allen, Lien, Ruthruff, & Voss,
+2014; Nashiro, Qin, O'Connell, & Basak, 2018). Finally, it is noteworthy
+to mention that currently it is an open question whether experience and
+expertise in different domains might decelerate cognitive decline
+during aging. In fact, most of the studies on this topic used cross-sectional or retrospective approaches that do not enable to infer causality.
+Furthermore, the available data do not convincingly support the view of
+a strong experiential moderation of age-related effects in cognitive
+performance (Ericsson, 2006; Salthouse, 1990).
+Although the electrophysiological results of the semantic task were
+in contrast to the behavioral data, they nevertheless brought to light
+two interesting effects of musical expertise that were manifested in the
+N200 and N400 time windows. The first result that deserves to be
+mentioned is that older adult MUS demonstrated significantly larger
+N200 amplitudes in response to unrelated compared to related words.
+9
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+Table 3
+Mean amplitudes (V) and standard deviations (SD) are shown for all participants (ALL), musicians (MUS) and non-musicians (NM), older adults, younger adults and
+children, averaged across conditions (Overall), separately for Blocks during the training phase, for match and mismatch trials in the matching task, and for related
+and unrelated trials in the semantic task. Values in bold relate to significant effects (main effects and interactions) reported in the results section. If not specifically
+stated, voltage values correspond to the mean of frontal, central and parietal electrodes.
+N400
+
+N200
+
+Overall
+
+Block 1/Match/Related
+
+Block 2/Mismatch/
+Unrelated
+
+Overall
+
+Block 1/Match/Related
+
+Block 2/Mismatch/
+Unrelated
+
+V
+
+SD
+
+V
+
+SD
+
+V
+
+SD
+
+V
+
+SD
+
+V
+
+SD
+
+V
+
+SD
+
+Learning
+
+ALL
+MUS
+NM
+Older adults
+Young adults
+Children
+
+-1.87
+-1.60
+-2.15
+0.68
+-2.10
+-4.20
+
+0.48
+0.35
+0.36
+0.44
+0.41
+0.46
+
+-1.28
+-0.70
+-1.80
+1.28
+-1.85
+-3.29
+
+0.45
+0.71
+0.71
+0.78
+0.73
+0.83
+
+-2.46
+-2.50
+-2.33
+0.07
+-2.35
+-5.11
+
+0.52
+0.78
+0.87
+0.89
+0.83
+0.95
+
+-0.39
+0.49
+-1.45
+-3.12
+-0.76
+-1.96
+
+0.55
+0.50
+0.46
+0.53
+0.57
+0.54
+
+-0.76
+-0.15
+-1.38
+0.95
+-1.10
+-2.12
+
+0.57
+0.94
+0.61
+1.29
+0.71
+0.90
+
+-1.96
+-2.07
+-1.85
+0.02
+-1.81
+-4.12
+
+0.54
+0.88
+0.61
+1.29
+0.58
+0.81
+
+Matching task
+
+ALL (parietal)
+MUS
+NM
+Older adults
+Young adults
+Children
+MUS Older adults
+Young adults
+Children
+NM
+Older adults
+Young adults
+Children
+
+-2.02
+-1.81
+-1.97
+-2.02
+-0.18
+-3.47
+-2.57
+0.58
+-3.45
+-1.47
+-0.94
+-3.50
+
+0.34
+0.45
+0.46
+0.55
+0.52
+0.59
+0.78
+0.73
+0.82
+0.78
+0.73
+0.85
+
+-1.61
+-1.42
+-1.96
+-1.92
+-0.19
+-2.96
+-2.25
+0.75
+-2.75
+-1.58
+-1.13
+-3.16
+
+0.36
+0.86
+0.88
+1.07
+0.99
+1.14
+1.51
+1.41
+1.57
+1.51
+1.40
+1.64
+
+-2.42
+-2.21
+-1.98
+-2.13
+-0.16
+-3.99
+-2.89
+0.42
+-4.15
+-1.37
+-0.75
+-3.83
+
+0.32
+0.81
+0.82
+1.00
+0.93
+1.06
+1.41
+1.31
+1.47
+1.40
+1.32
+1.54
+
+-3.42
+-2.24
+-2.27
+-2.54
+-1.14
+-3.08
+-3.03
+-0.15
+-3.55
+-2.06
+-2.14
+-2.61
+
+0.30
+0.39
+0.40
+0.49
+0.46
+0.52
+0.64
+0.64
+0.67
+0.74
+0.69
+0.80
+
+-2.80
+-1.85
+-2.22
+-2.45
+-0.71
+-2.96
+-2.69
+0.46
+-3.33
+-2.21
+-1.87
+-2.58
+
+0.31
+0.76
+0.77
+0.93
+0.87
+0.99
+1.32
+1.23
+1.37
+1.33
+1.23
+1.44
+
+-4.04
+-2.63
+-2.31
+-2.64
+-1.58
+-3.20
+-3.38
+-0.75
+-3.77
+-1.90
+-2.41
+-2.63
+
+0.30
+0.73
+0.74
+0.90
+0.83
+0.95
+1.27
+1.18
+1.32
+1.26
+1.17
+1.38
+
+Semantic task
+
+ALL (parietal)
+MUS
+(parietal)
+NM
+(parietal)
+Older adults
+Young adults
+Children
+MUS Older adults
+Young adults
+Children
+NM
+Older adults
+Young adults
+Children
+
+1.06
+-0.14
+1.57
+-1.09
+0.55
+1.74
+0.15
+-3.73
+2.85
+0.50
+-3.78
+0.62
+-0.20
+-3.68
+
+0.32
+0.36
+0.47
+0.37
+0.44
+0.45
+0.42
+0.48
+0.64
+0.59
+0.66
+0.63
+0.59
+0.69
+
+1.29
+0.08
+2.05
+-1.29
+0.52
+1.69
+0.22
+-3.72
+2.96
+0.75
+-3.48
+0.41
+-0.31
+-3.97
+
+0.34
+0.76
+0.49
+0.77
+0.47
+0.94
+0.87
+1.00
+1.33
+1.24
+1.38
+1.34
+1.24
+1.44
+
+0.83
+-0.36
+1.08
+-0.89
+0.58
+1.78
+0.08
+-3.73
+2.74
+0.25
+-4.08
+0.82
+-0.10
+-3.39
+
+0.29
+0.62
+0.46
+0.63
+0.34
+0.76
+0.71
+0.81
+1.08
+1.00
+1.12
+1.08
+1.01
+1.17
+
+0.18
+0.04
+
+0.34
+0.39
+
+0.52
+0.68
+
+0.38
+0.86
+
+-0.17
+-0.59
+
+0.30
+0.72
+
+-0.44
+
+0.40
+
+-0.84
+
+0.88
+
+-0.04
+
+0.74
+
+2.24
+0.68
+-3.51
+2.95
+1.19
+-4.01
+1.52
+0.17
+-3.01
+
+0.49
+0.45
+0.52
+0.69
+0.64
+0.72
+0.68
+0.65
+0.75
+
+2.07
+1.11
+-3.41
+3.44
+1.86
+-3.26
+0.70
+0.36
+-3.57
+
+1.06
+0.99
+1.13
+1.51
+1.40
+1.57
+1.51
+1.40
+1.64
+
+2.41
+0.25
+-3.60
+2.47
+0.52
+-4.76
+2.35
+-0.02
+-2.45
+
+0.89
+0.83
+0.95
+1.26
+1.18
+1.32
+1.26
+1.17
+1.37
+
+in MUS from Block 1 to Block 2 during the learning phase as well as the
+comparable N400 amplitudes elicited in the two groups in the matching
+task, it is more likely to assume that NM more strongly recruited additional top-down resources (i.e., attention, short-term memory, or
+working memory) for managing the semantic task. However, in order to
+better elucidate this argumentation, further studies should more
+strongly focus on associations between N400 dynamics and a variety of
+cognitive functions.
+In summary, the results of the older adults' perspective clearly demonstrated that the participants were generally able to rapidly encode
+picture-word associations and to learn novel words. However, the absence of semantic priming effects in terms of ERRs and N400 responses
+during the semantic task converge to the notion that older adults were
+not able to sufficiently integrate the meaning of the novel words into
+semantic memory. Moreover, in contrast to our hypothesis, in older
+adults novel word learning was apparently not markedly influenced by
+musical expertise. In order to shed further light on the relationships
+between musical expertise, word learning and aging, future studies
+should use more word repetitions that might facilitate consolidation
+processes.
+
+Albeit the fact that the N200 component is susceptible to various factors, like for example attention (Patel & Azzam, 2005) and cognitive
+control mechanisms (Kropotov, Ponomarev, Pronina, & Jancke, 2017;
+Kropotov, Ponomarev, Tereshchenko, Muller, & Jancke, 2016), this
+component has previously been described as a robust marker of phonological processing and categorization (Connolly & Phillips, 1994;
+Friedrich & Friederici, 2008). Accordingly, the reduced N200 amplitudes we observed in MUS in response to related compared to unrelated
+words are thought to reflect phonological priming mechanisms that
+originated from a pre-activation of the target words and their respective
+phonological properties in short-term memory while seeing the pictures
+(i.e., always presented first). Otherwise, it should be mentioned that the
+N200 component has also been shown to be influenced by contextual
+effects during word recognition and to be susceptible to semantic
+priming effects (van den Brink et al., 2001). However, since the N200
+effect was not accompanied by a clear N400 effect, this alternative
+interpretation is highly questionable.
+The second main effect of musical expertise we revealed during the
+semantic task emerged in the N400 latency window, started at around
+350 ms post-stimulus onset, and originated from a larger positive shift
+(i.e., less negativity) in older adult MUS compared to NM (see Fig. 3B).
+Since this consistent positive shift was not differentially modulated by
+the semantic relatedness of the words, it is inconceivable to assume that
+the N400 component reflected semantic priming effects that were
+driven by the pre-activation of the words in verbal memory (Polich,
+2007). Considering the higher degree of N400 modulations we revealed
+
+4.2. Lifespan perspective: The effect of age
+Speech and language processing undergo several qualitative and
+quantitative changes in the developmental trajectory (Shafto & Tyler,
+2014). For example, aging is accompanied by an expansion of
+10
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+Fig. 5. Lifespan perspective: electrophysiological data learning phase. ERPs recorded at the central electrode (Cz) during the learning phase are shown for the two
+blocks, separately for MUS and NM, as well as for older adults (left), young adults (middle) and children (right). Topographic voltage distribution maps of the
+differences between the two blocks (Block 2 minus 1) are illustrated for the N200 and N400 components. Voltage values are scaled from -2.5 to +1.5 V.
+
+children and young adults may indicate a higher degree of neural
+plasticity related to phonological processing in these two cohorts
+compared to older adults, whereas the decrease of N200 and N400
+amplitudes across the lifespan may specify that development and aging
+generally facilitate phonological, lexical and semantic processing
+(Gunter, Jackson, & Mulder, 1992; Holcomb, Coffey, & Neville, 1992;
+Juottonen, Revonsuo, & Lang, 1996; Kutas & Iragui, 1998; Lee &
+Federmeier, 2009). However, according to the behavioral data showing
+the highest learning rate in young adults compared to children and
+older adults, increased amplitudes in children and decreased ones in
+older adults might reflect signs of inefficiency. In this context, we
+speculate that unripe prefrontal functions in children (Gogtay et al.,
+2004) may lead to a stronger recruitment of neural resources needed for
+solving the task. By contrast, grey matter tissue loss as a function of
+aging might result in the recruitment of less neural entities that is
+manifested in lower ERP amplitudes.
+During the matching task, the N400 component was differentially
+influenced by age. In line with our hypothesis, both children and older
+adults were characterized by increased amplitudes compared to young
+adults (i.e., inverse U-shaped relationship). These results may indicate
+that children and older adults invested more neural resources than
+young adults for accomplishing the task (i.e., neural compensation).
+However, in children such a "working harder" processing mode was not
+that efficient as in older adults. In fact, children demonstrated longer
+RTs compared to older adults and committed more errors than young
+adults. Furthermore, it is interesting to denote that older adults were
+closer to children in terms of ERRs and more similar to young adults
+
+vocabulary, a differential recruitment of lexical-semantic networks and
+a shift from controlled to automatic processing (Shafto & Tyler, 2014).
+Such a developmental perspective was clearly reflected by the behavioral data (i.e., ERRs and RTs) of the matching and semantic tasks. In
+fact, during the matching task young adults demonstrated lower ERRs
+compared to older adults and children, and both older and young adults
+responded faster than children. Interestingly, behavioral differences
+between the age cohorts mainly originated from mismatch trials, indicating that children and older adults were more prone than young
+adults to consider words that did not match with the pictures as
+matching trials. Based on the fact that mismatch trials were more difficult than match trials (i.e., as reflected by overall higher ERRs and
+slower RTs to mismatch compared to match words), results suggest that
+age-related differences are particularly pronounced in difficult compared to simple task conditions. Finally, in the semantic task older
+adults committed more errors than young adults, and both older and
+young adults responded faster than children. These results are interpreted as reflecting different maturational trajectories of cognitive
+functions and neural ripening across the lifespan (Giorgio et al., 2010;
+Gogtay et al., 2004).
+The analysis of the electrophysiological data showed that during the
+learning phase children and young adults were characterized by increased of N200 amplitudes from Block 1 to Block 2, and that children
+demonstrated the largest difference between these two blocks at anterior and central electrodes. Furthermore, both N200 and N400 amplitudes were smallest in older adults, intermediate in young adults, and
+largest in children. The fast development of the N200 component in
+11
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+Fig. 6. Lifespan perspective: electrophysiological data of the test phase. ERPs recorded at the parietal electrode (Pz) in the matching (left column) and semantic (right
+column) tasks are shown for the different conditions, separately for MUS and NM, and for older adults (first row), young adults (second row) and children (third row).
+Topographic voltage distribution maps of the differences between the two conditions (mismatch minus match, and unrelated minus related, respectively) are
+illustrated for the N200 and N400 components. Voltage values are scaled from -2.5 to +1.5 V.
+
+training (Dittinger et al., 2016; Elmer, Albrecht, Valizadeh, Francois, &
+Rodriguez-Fornells, 2018; Elmer, Greber, Pushparaj, Kuhnis, & Jancke,
+2017). Notably, this increased neural efficiency also translated to a
+behavioral advantage of MUS across the three age-groups in both the
+matching and semantic tasks, indicating a positive influence of music
+practice on the formation of novel associations in episodic memory and
+the integration of novel words into semantic memory. However, within
+the sample of older adults these effects did not reach significance (i.e.,
+no significant differences between MUS and NM at the behavioral
+level).
+Notably, during the matching task only within the MUS group
+children and older adults demonstrated increased N200 amplitudes
+compared to young adults. Since this effect was not observed within the
+group of NM, and children and older adults are generally characterized
+by more susceptible cognitive functioning compared to young adults
+(Dempster, 1992; Luna et al., 2001), results are interpreted as indicating a compensatory influence of musical expertise. In this vein,
+previous work reported a positive influence of music training on attention functions (Kraus & Chandrasekaran, 2010) and phonetic processing (Chobert et al., 2014; Elmer et al., 2012; Kuhnis et al., 2013)
+that was mirrored by modulations of the N200 component. Previous
+studies also carved out that children and older adults often demonstrate
+dysfunctional phonological processing (Carroll, Snowling, Hulme, &
+Stevenson, 2003; Froehlich et al., 2018) and executive functions (Brocki
+& Bohlin, 2004; Kennedy & Raz, 2009). Consequently, children and
+
+regarding RTs.
+Finally, during the semantic task both the N200 and N400 components were largest in children, intermediate in young adults, and
+smallest in older adults. Such a decrease of N200 and N400 amplitudes
+as a function of aging might reflect neural and cognitive facilitation in
+accessing phonological and lexical-semantic information. However, this
+perspective is, at least partially, in contrast with the behavioral and
+physiological data showing that older adults committed more errors
+than young adults and were not characterized by a clear N400 effect. In
+order to better elucidate the complex relationships between ERPs and
+cognitive functions, future studies should use more sophisticated psychological screening procedures targeting at better capturing attention,
+short-term-, working-, episodic- and semantic memory, and try to correlate these measures with behavioral and electrophysiological indices.
+
+4.3. Lifespan perspective: The effect of musicianship
+An additional purpose of this work was to uncover putative interactions between musical expertise, age cohorts and word learning. The
+analyses of the N200 and N400 components during the learning phase
+revealed that only MUS (i.e., averaged across age cohorts) demonstrated increased amplitudes in the second- compared to the first block.
+Such short-term brain changes in MUS have previously been described
+by other groups (Seppanen et al., 2013) and posit a high degree of
+neural efficiency for learning speech sounds as a function of music
+12
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+young adults, with less clear-cut influences of musical expertise in older
+adults. Taken together, these results document qualitative and quantitative differences in the ability to learn new words across the lifespan.
+
+older adults might have particularly benefited from musical expertise
+that possibly acted as a vehicle for compensating suboptimal auditory
+and cognitive functions.
+During the semantic task, MUS performed better than NM, and this
+behavioral advantage was accompanied by a multifaceted constellation
+of neural responses. First of all, only MUS showed N200 and N400 effects that originated from increased brain responses to unrelated compared to related trials. Since N200 and N400 effects with a characteristic topographical distribution over posterior electrodes are classically
+considered to be sensitive markers for the integration of information
+into lexical-semantic memory (Kutas & Federmeier, 2011; Patel &
+Azzam, 2005), results are interpreted as suggesting that musical expertise has a beneficial influence on mapping the meaning of lexically
+affine items. Our analyses also uncovered smaller N400 amplitudes in
+older adult MUS compared to young adult MUS over frontal electrodes,
+possibly indicating a higher degree of neural inefficiency in older adult
+MUS compared to young adult MUS.
+
+7. Statement of significance
+Word learning is overall preserved in older participants, however,
+without clear evidence for a beneficial influence of music training.
+Otherwise, music training during childhood and early adulthood
+showed a beneficial effect on word learning. Results indicate that music
+training boosts word learning but does not necessarily counteract aging
+effects.
+Declaration of Competing Interest
+None
+Acknowledgments
+
+5. Limitations
+We would like to thank all the participants for having contributed to
+the experiment. ED's work was supported by the Labex BLRI (ANR-11LABX-0036), managed by the French National Agency for Research
+(ANR) under the program "Investissements d'Avenir" (ANR-11-IDEX0001-02). SE and LJ were supported by the Swiss National Science
+Foundation (grant SNF320030B_138668 to LJ). The authors declare no
+competing financial interests.
+
+A limitation of this study is that two cohorts (i.e., children and
+young adults) were measured in Marseille (France), whereas the older
+adult sample was measured in Zurich (Switzerland). In this context, it is
+important to mention that the aspirated phoneme of the Thai word
+/pha/ is part of the German phonetic repertoire but constitutes a nonnative phoneme for French speakers. Consequently, we cannot exclude
+that this specific stimulus might have influenced the results. A second
+limitation of our study is that the stimuli we used were recorded by a
+female Thai-French bilingual speaker, this possibly making the stimuli
+easier to perceive for French than Swiss German participants. Finally, it
+should be mentioned that the participants of the older adults' perspective were relatively young (i.e., mean age = 60.6 years) in comparison to other studies. Accordingly, our results only reflect this specific age cohort and not necessarily older participants in general.
+
+Appendix A. Supplementary material
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.bandl.2019.104678.
+References
+Allen, P. A., Lien, M.-C., Ruthruff, E., & Voss, A. (2014). Multitasking and aging: Do older
+adults benefit from performing a highly practiced task? Experimental Aging Research,
+40(3), 280-307. https://doi.org/10.1080/0361073X.2014.896663.
+Annett, M. (1970). A classification of hand preference by association analysis. British
+Journal of Psychology, 61(3), 303-321. https://doi.org/10.1111/j.2044-8295.1970.
+tb01248.x.
+Bangert, M., & Schlaug, G. (2006). Specialization of the specialized in features of external
+human brain morphology. The European Journal of Neuroscience, 24(6), 1832-1834.
+https://doi.org/10.1111/j.1460-9568.2006.05031.x.
+Batterink, L., & Neville, H. (2011). Implicit and explicit mechanisms of word learning in a
+narrative context: An event-related potential study. Journal of Cognitive Neuroscience,
+23(11), 3181-3196. https://doi.org/10.1162/jocn_a_00013.
+Bender, A. R., Volkle, M. C., & Raz, N. (2016). Differential aging of cerebral white matter
+in middle-aged and older adults: A seven-year follow-up. NeuroImage, 125, 74-83.
+https://doi.org/10.1016/j.neuroimage.2015.10.030.
+Bermudez, P., Lerch, J. P., Evans, A. C., & Zatorre, R. J. (2009). Neuroanatomical correlates of musicianship as revealed by cortical thickness and voxel-based morphometry. Cerebral Cortex, 19(7), 1583-1596. https://doi.org/10.1093/cercor/bhn196.
+Besson, M., Chobert, J., & Marie, C. (2011). Transfer of training between music and
+speech: Common processing, attention, and memory. Frontiers in Psychology, 2.
+https://doi.org/10.3389/fpsyg.2011.00094.
+Borovsky, A., Elman, J. L., & Kutas, M. (2012). Once is enough: N400 indexes semantic
+integration of novel word meanings from a single exposure in context. Language
+Learning and Development, 8(3), 278-302. https://doi.org/10.1080/15475441.2011.
+614893.
+Borovsky, A., Kutas, M., & Elman, J. (2010). Learning to use words: Event-related potentials index single-shot contextual word learning. Cognition, 116(2), 289-296.
+https://doi.org/10.1016/j.cognition.2010.05.004.
+Brocki, K. C., & Bohlin, G. (2004). Executive functions in children aged 6 to 13: A dimensional and developmental study. Developmental Neuropsychology, 26(2), 571-593.
+https://doi.org/10.1207/s15326942dn2602_3.
+Cabeza, R., Anderson, N. D., Locantore, J. K., & McIntosh, A. R. (2002). Aging gracefully:
+Compensatory brain activity in high-performing older adults. NeuroImage, 17(3),
+1394-1402. https://doi.org/10.1006/nimg.2002.1280.
+Carroll, J., Snowling, M., Hulme, C., & Stevenson, J. (2003). The development of phonological awareness in preschool children. Developmental Psychology, 39, 913-923.
+Chobert, J., Francois, C., Velay, J.-L., & Besson, M. (2014). Twelve months of active
+musical training in 8- to 10-year-old children enhances the preattentive processing of
+syllabic duration and voice onset time. Cerebral Cortex, 24(4), 956-967. https://doi.
+org/10.1093/cercor/bhs377.
+Coffey, E. B. J., Mogilever, N. B., & Zatorre, R. J. (2017). Speech-in-noise perception in
+
+6. Conclusions
+In the present EEG study, we used a cross-sectional approach in
+three cohorts of participants in order to evaluate (1) whether musical
+expertise might have a neuroprotective influence on word learning in
+older adults, (2) whether the ability to learn new words through picture-word associations changes throughout lifespan, and (3) whether
+musical expertise interacts with word learning and aging. The comparison between older MUS and NM (i.e., research question 1) did not
+reveal clear evidence for a relationship between musical expertise and
+word learning, leading to suggest that aging mitigates the beneficial
+effects of musical expertise. The evaluation of the data of the lifespan
+perspective (i.e. research question 2) revealed that all participants were
+generally able to learn novel words very fast. Furthermore, we observed
+an inverted U-shaped relationship between age and word learning that
+was mirrored by lower ERRs and faster RTs in young adults compared
+to children and older adults. This result is particularly interesting in
+that it documents a differential developmental trajectory of word
+learning across lifespan. These behavioral results were accompanied by
+decreased N200 and N400 amplitudes across the lifespan during both
+the learning phase and the semantic tasks, possibly indicating that
+development and aging differentially affect cognitive functions during
+word encoding and lexical-semantic integration. Finally, the evaluation
+of the influence of musical expertise on word learning across the lifespan (i.e., research question 3) showed that musical expertise generally
+facilitated the formation of new episodic memory traces for novel
+words. However, according to post-hoc analyses, this effect was not
+present within the older adults group. In addition, musical expertise
+was clearly associated with an amelioration of integration of novel
+words into lexical-semantic networks. Also here, the beneficial effect of
+musical expertise on word learning was restricted to children and
+13
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+0402680101.
+Gunter, T. C., Jackson, J. L., & Mulder, G. (1992). An Electrophysiological Study of
+Semantic Processing in Young and Middle-Aged Academics. Psychophysiology, 29(1),
+38-54. https://doi.org/10.1111/j.1469-8986.1992.tb02009.x.
+Habibi, A., Damasio, A., Ilari, B., Veiga, R., Joshi, A. A., Leahy, R. M., ... Damasio, H.
+(2017). Childhood Music Training Induces Change in Micro and Macroscopic Brain
+Structure: Results from a Longitudinal Study. Cerebral Cortex, 1-12. https://doi.org/
+10.1093/cercor/bhx286.
+Hagoort, P. (2014). Nodes and networks in the neural architecture for language: Broca's
+region and beyond. Current Opinion in Neurobiology, 28, 136-141. https://doi.org/10.
+1016/j.conb.2014.07.013.
+Havas, V., Laine, M., & Rodriguez Fornells, A. (2017). Brain signatures of early lexical and
+morphological learning of a new language. Neuropsychologia, 101, 47-56. https://doi.
+org/10.1016/j.neuropsychologia.2017.04.005.
+Helmstaedter, C., Lendt, M., & Lux, S. (2001). Verbaler Lern- und Merkfahigkeitstest.
+Gottingen: Hogrefe.
+Hirsiger, S., Koppelmans, V., Merillat, S., Liem, F., Erdeniz, B., Seidler, R. D., & Jancke, L.
+(2016). Structural and functional connectivity in healthy aging: Associations for
+cognition and motor behavior. Human Brain Mapping, 37(3), 855-867. https://doi.
+org/10.1002/hbm.23067.
+Holcomb, P. J., Coffey, S. A., & Neville, H. J. (1992). Visual and auditory sentence processing: A developmental analysis using event-related brain potentials. Developmental
+Neuropsychology, 8(2-3), 203-241.
+Marie, C., Delogu, F., Lampis, G., Belardinelli, M. O., & Besson, M. (2011). Influence of
+musical expertise on segmental and tonal processing in Mandarin Chinese. Journal of
+Cognitive Neuroscience, 23(10), 2701-2715. https://doi.org/10.1162/jocn.2010.
+21585.
+Jancke, L. (2009). Music drives brain plasticity. F1000 Biology Reports, 1(78), 10-3410.
+Jancke, L., Merillat, S., Liem, F., & Hanggi, J. (2015). Brain size, sex, and the aging brain.
+Human Brain Mapping, 36(1), 150-169. https://doi.org/10.1002/hbm.22619.
+Jasper, H. (1958). The ten twenty electrode system of the international federation.
+Electroencephalography and Clinical Neurophysiology, 10, 371-375.
+Juottonen, K., Revonsuo, A., & Lang, H. (1996). Dissimilar age influences on two ERP
+waveforms (LPC and N400) reflecting semantic context effect. Brain Research.
+Cognitive Brain Research, 4(2), 99-107.
+Kennedy, K. M., & Raz, N. (2009). Aging white matter and cognition: Differential effects
+of regional variations in diffusion properties on memory, executive functions, and
+speed. Neuropsychologia, 47(3), 916-927. https://doi.org/10.1016/j.
+neuropsychologia.2009.01.001.
+Krampe, R. T., & Ericsson, K. A. (1996). Maintaining excellence: Deliberate practice and
+elite performance in young and older pianists. Journal of Experimental Psychology.
+General, 125(4), 331-359.
+Kraus, N., & Chandrasekaran, B. (2010). Music training for the development of auditory
+skills. Nature Reviews. Neuroscience, 11(8), 599-605. https://doi.org/10.1038/
+nrn2882.
+Kropotov, J., Ponomarev, V. A., Pronina, M., & Jancke, L. (2017). Functional indexes of
+reactive cognitive control: ERPs in cued go/no-go tasks. Retrieved from https://core.
+ac.uk/display/95872858.
+Kropotov, J., Ponomarev, V., Tereshchenko, E. P., Muller, A., & Jancke, L. (2016). Effect
+of Aging on ERP Components of Cognitive Control., Effect of Aging on ERP
+Components of Cognitive Control. 69 69 Frontiers in Aging Neuroscience, 8(8), https://
+doi.org/10.3389/fnagi.2016.00069.
+Kuhnis, J., Elmer, S., Meyer, M., & Jancke, L. (2013). The encoding of vowels and temporal speech cues in the auditory cortex of professional musicians: An EEG study.
+Neuropsychologia, 51(8), 1608-1618. https://doi.org/10.1016/j.neuropsychologia.
+2013.04.007.
+Kutas, M., & Federmeier, K. D. (2011). Thirty Years and Counting: Finding Meaning in the
+N400 Component of the Event-Related Brain Potential (ERP). Annual Review of
+Psychology, 62(1), 621-647. https://doi.org/10.1146/annurev.psych.093008.
+131123.
+Kutas, M., & Hillyard, S. A. (1980). Reading senseless sentences: brain potentials reflect
+semantic incongruity. Science (New York, N.Y.), 207(4427), 203-205.
+Kutas, M., & Iragui, V. (1998). The N400 in a semantic categorization task across 6
+decades. Electroencephalography and Clinical Neurophysiology/Evoked Potentials
+Section, 108(5), 456-471.
+Lazarou, I., Parastatidis, T., Tsolaki, A., Gkioka, M., Karakostas, A., Douka, S., & Tsolaki,
+M. (2017). International Ballroom Dancing Against Neurodegeneration: A
+Randomized Controlled Trial in Greek Community-Dwelling Elders With Mild
+Cognitive impairment. American Journal of Alzheimer's Disease & Other Dementias(R),
+32(8), 489-499. https://doi.org/10.1177/1533317517725813.
+Lee, C., & Federmeier, K. D. (2009). Wave-ering: An ERP study of syntactic and semantic
+context effects on ambiguity resolution for noun/verb homographs. Journal of
+Memory and Language, 61(4), 538-555.
+Lehrl, S. (1977). Mehrfachwahl-wortschatz intelligenz test (MWT-B). Erlangen: Perimed.
+Lehrl, S., & Fischer, B. (1992). Kurztest fur allgemeine Basisgrossen der
+Informationsverarbeitung (KAI) (Aufl. Vless, Ebersberg, Vol. 3).
+Linnavalli, T., Putkinen, V., Lipsanen, J., Huotilainen, M., & Tervaniemi, M. (2018). Music
+playschool enhances children's linguistic skills. Scientific Reports, 8(1), 8767. https://
+doi.org/10.1038/s41598-018-27126-5.
+Long, L., Shaw, R. J., Lisa, Long, L. L., & Shaw, R. J. (2000). Adult age differences in
+vocabulary acquisition. Educational Gerontology, 26(7), 651-664.
+Luna, B., Thulborn, K. R., Munoz, D. P., Merriam, E. P., Garver, K. E., Minshew, N. J., ...
+Sweeney, J. A. (2001). Maturation of widely distributed brain function subserves
+cognitive development. NeuroImage, 13(5), 786-793. https://doi.org/10.1006/nimg.
+2000.0743.
+Magne, C., Schon, D., & Besson, M. (2006). Musician children detect pitch violations in
+
+musicians: A review. Hearing Research, 352, 49-69. https://doi.org/10.1016/j.heares.
+2017.02.006.
+Connolly, J. F., & Phillips, N. A. (1994). Event-Related potential components reflect
+phonological and semantic processing of the terminal word of spoken sentences.
+Journal of Cognitive Neuroscience, 6(3), 256-266. https://doi.org/10.1162/jocn.1994.
+6.3.256.
+Crivello, F., Tzourio-Mazoyer, N., Tzourio, C., & Mazoyer, B. (2014). Longitudinal assessment of global and regional rate of grey matter atrophy in 1,172 healthy older
+adults: Modulation by sex and age. PLOS ONE, 9(12), e114478. https://doi.org/10.
+1371/journal.pone.0114478.
+Daneman, M., & Green, I. (1986). Individual differences in comprehending and producing
+words in context. Journal of Memory and Language, 25(1), 1-18. https://doi.org/10.
+1016/0749-596X(86)90018-5.
+Dempster, F. N. (1992). The rise and fall of the inhibitory mechanism: Toward a unified
+theory of cognitive development and aging. Developmental Review, 12(1), 45-75.
+https://doi.org/10.1016/0273-2297(92)90003-K.
+Dittinger, E., Barbaroux, M., D'Imperio, M., Jancke, L., Elmer, S., & Besson, M. (2016).
+Professional music training and novel word learning: From faster semantic encoding
+to longer-lasting word representations. Journal of Cognitive Neuroscience, 28(10),
+1584-1602. https://doi.org/10.1162/jocn_a_00997.
+Dittinger, E., Chobert, J., Ziegler, J. C., & Besson, M. (2017). Fast brain plasticity during
+word learning in musically-trained children. Frontiers in Human Neuroscience, 11.
+https://doi.org/10.3389/fnhum.2017.00233.
+Dittinger, E., Valizadeh, S. A., Jancke, L., Besson, M., & Elmer, S. (2017). Increased
+functional connectivity in the ventral and dorsal streams during retrieval of novel
+words in professional musicians. Human Brain Mapping, 39(2), 722-734. https://doi.
+org/10.1002/hbm.23877.
+Elmer, S., Meyer, M., & Jancke, L. (2012). Neurofunctional and behavioral correlates of
+phonetic and temporal categorization in musically trained and untrained subjects.
+Cerebral Cortex, 22(3), 650-658. https://doi.org/10.1093/cercor/bhr142.
+Elmer, S., Albrecht, J., Valizadeh, S. A., Francois, C., & Rodriguez-Fornells, A. (2018).
+Theta coherence asymmetry in the dorsal stream of musicians facilitates word
+learning. Scientific Reports, 8(1), https://doi.org/10.1038/s41598-018-22942-1.
+Elmer, S., Greber, M., Pushparaj, A., Kuhnis, J., & Jancke, L. (2017). Faster native vowel
+discrimination learning in musicians is mediated by an optimization of mnemonic
+functions. Neuropsychologia, 104, 64-75. https://doi.org/10.1016/j.
+neuropsychologia.2017.08.001.
+Elmer, S., Hanggi, J., & Jancke, L. (2016). Interhemispheric transcallosal connectivity
+between the left and right planum temporale predicts musicianship, performance in
+temporal speech processing, and functional specialization. Brain Structure and
+Function, 221(1), 331-344. https://doi.org/10.1007/s00429-014-0910-x.
+Elmer, S., Hanggi, J., Meyer, M., & Jancke, L. (2013). Increased cortical surface area of
+the left planum temporale in musicians facilitates the categorization of phonetic and
+temporal speech sounds. Cortex, 49(10), 2812-2821. https://doi.org/10.1016/j.
+cortex.2013.03.007.
+Erel, H., & Levy, D. A. (2016). Orienting of visual attention in aging. Neuroscience &
+Biobehavioral Reviews, 69, 357-380. https://doi.org/10.1016/j.neubiorev.2016.08.
+010.
+Ericsson, K. A., Krampe, R. T., & Heizmann, S. (2007). Can We Create Gifted People? In
+Ciba Foundation Symposium 178 - The Origins and Development of High Ability (pp.
+222-249). Wiley-Blackwell. https://doi.org/10.1002/9780470514498.ch14.
+Ericsson, K. A. (2006). The Influence of Experience and Deliberate Practice on the
+Development of Superior Expert Performance. Cambridge Handbook of Expertise and
+Expert Performance (pp. 683-703).
+Fama, R., & Sullivan, E. V. (2015). Thalamic structures and associated cognitive functions: Relations with age and aging., Thalamic structures and associated cognitive
+functions: Relations with age and aging. 54, 29 Neuroscience and Biobehavioral
+Reviews, 54, 29-37. https://doi.org/10.1016/j.neubiorev.2015.03.008.
+Ferrand, L. (1998). Age differences in word and language processing. 98, pp. 371-371.
+Fjell, A. M., Sneve, M. H., Storsve, A. B., Grydeland, H., Yendiki, A., & Walhovd, K. B.
+(2016). Brain events underlying episodic memory changes in aging: A longitudinal
+investigation of structural and functional connectivity. Cerebral Cortex, 26(3),
+1272-1286. https://doi.org/10.1093/cercor/bhv102.
+Francois, C., Chobert, J., Besson, M., & Schon, D. (2013). Music training for the development of speech segmentation. Cerebral Cortex, 23(9), 2038-2043. https://doi.org/
+10.1093/cercor/bhs180.
+Friedrich, M., & Friederici, A. D. (2008). Neurophysiological correlates of online word
+learning in 14-month-old infants. NeuroReport, 19(18), 1757-1761. https://doi.org/
+10.1097/WNR.0b013e328318f014.
+Froehlich, E., Liebig, J., Morawetz, C., Ziegler, J. C., Braun, M., Heekeren, H. R., & Jacobs,
+A. M. (2018). Same Same But Different: Processing Words in the Aging Brain.
+Neuroscience, 371, 75-95. https://doi.org/10.1016/j.neuroscience.2017.11.042.
+George, E. M., & Coch, D. (2011). Music training and working memory: An ERP study.
+Neuropsychologia, 49(5), 1083-1094. https://doi.org/10.1016/j.neuropsychologia.
+2011.02.001.
+Giorgio, A., Watkins, K., Chadwick, M., James, S., Winmill, L., Douaud, G., ... James, A.
+(2010). Longitudinal changes in grey and white matter during adolescence.
+Neuroimage, 49, 94-103.
+Giroud, N., Hirsiger, S., Muri, R., Kegel, A., Dillier, N., & Meyer, M. (2018).
+Neuroanatomical and resting state EEG power correlates of central hearing loss in
+older adults. Brain Structure and Function, 223(1), 145-163. https://doi.org/10.1007/
+s00429-017-1477-0.
+Gogtay, N., Giedd, J. N., Lusk, L., Hayashi, K. M., Greenstein, D., Vaituzis, A. C., ...
+Thompson, P. M. (2004). Dynamic mapping of human cortical development during
+childhood through early adulthood. Proceedings of the National Academy of Sciences of
+the United States of America, 101(21), 8174-8179. https://doi.org/10.1073/pnas.
+
+14
+
+Brain and Language 198 (2019) 104678
+
+E. Dittinger, et al.
+
+10.1523/ENEURO.0052-17.2017.
+Rodriguez-Fornells, A., Cunillera, T., Mestres-Misse, A., & de Diego-Balaguer, R. (2009).
+Neurophysiological mechanisms involved in language learning in adults.
+Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1536),
+3711-3735. https://doi.org/10.1098/rstb.2009.0130.
+Rogenmoser, L., Kernbach, J., Schlaug, G., & Gaser, C. (2018). Keeping brains young with
+making music. Brain Structure and Function, 223(1), 297-305. https://doi.org/10.
+1007/s00429-017-1491-2.
+Salisbury, D. F. (2004). Semantic memory and verbal working memory correlates of N400
+to subordinate homographs. Brain and Cognition, 55(2), 396-399. https://doi.org/10.
+1016/j.bandc.2004.02.057.
+Schellenberg, E. G. (2004). Music lessons enhance IQ. Psychological Science, 15(8),
+511-514.
+Salthouse, T. A. (1990). Influence of Experience on Age-Differences in Cognitive
+Functioning. Hum Factors, 32, 551-569.
+Schlaug, G., Jancke, L., Huang, Y., & Steinmetz, H. (1995). In vivo evidence of structural
+brain asymmetry in musicians. Science, 267(5198), 699-701. https://doi.org/10.
+1126/science.7839149.
+Schneider, P., Sluming, V., Roberts, N., Bleeck, S., & Rupp, A. (2005). Structural,
+Functional, and Perceptual Differences in Heschl's Gyrus and Musical Instrument
+Preference. Annals of the New York Academy of Sciences, 1060(1), 387-394. https://
+doi.org/10.1196/annals.1360.033.
+Schon, D., Magne, C., & Besson, M. (2004). The music of speech: Music training facilitates
+pitch processing in both music and language. Psychophysiology, 41(3), 341-349.
+https://doi.org/10.1111/1469-8986.00172.x.
+Schulze, K., & Koelsch, S. (2012). Working memory for speech and music: Schulze &
+Koelsch. Annals of the New York Academy of Sciences, 1252(1), 229-236. https://doi.
+org/10.1111/j.1749-6632.2012.06447.x.
+Seppanen, M., Hamalainen, J., Pesonen, A.-K., & Tervaniemi, M. (2013). Passive sound
+exposure induces rapid perceptual learning in musicians: Event-related potential
+evidence. Biological Psychology, 94(2), 341-353. https://doi.org/10.1016/j.
+biopsycho.2013.07.004.
+Shafto, M. A., & Tyler, L. K. (2014). Language in the aging brain: The network dynamics
+of cognitive decline and preservation. Science, 346(6209), 583-587. https://doi.org/
+10.1126/science.1254404.
+Sluming, V., Brooks, J., Howard, M., Downes, J. J., & Roberts, N. (2007). Broca's area
+supports enhanced visuospatial cognition in orchestral musicians. The Journal of
+Neuroscience: The Official Journal of the Society for Neuroscience, 27(14), 3799-3806.
+https://doi.org/10.1523/JNEUROSCI.0147-07.2007.
+Snodgrass, J. G., & Vanderwart, M. (1980). A standardized set of 260 pictures: Norms for
+name agreement, image agreement, familiarity, and visual complexity. Journal of
+Experimental Psychology. Human Learning and Memory, 6(2), 174-215.
+Strait, D. L., Slater, J., O'Connell, S., & Kraus, N. (2015). Music training relates to the
+development of neural mechanisms of selective auditory attention. Developmental
+Cognitive Neuroscience, 12, 94-104. https://doi.org/10.1016/j.dcn.2015.01.001.
+Tierney, A. T., Krizman, J., & Kraus, N. (2015). Music training alters the course of adolescent auditory development. Proceedings of the National Academy of Sciences,
+112(32), 10062-10067. https://doi.org/10.1073/pnas.1505114112.
+van den Brink, D., Brown, C. M., & Hagoort, P. (2001). Electrophysiological evidence for
+early contextual influences during spoken-word recognition: N200 versus N400 effects. Journal of Cognitive Neuroscience, 13(7), 967-985. https://doi.org/10.1162/
+089892901753165872.
+Van Petten, C., & Kutas, M. (1990). Interactions between sentence context and word
+frequencyinevent-related brainpotentials. Memory & Cognition, 18(4), 380-393.
+https://doi.org/10.3758/BF03197127.
+Vuust, P., Brattico, E., Seppanen, M., Naatanen, R., & Tervaniemi, M. (2012). Practiced
+musical style shapes auditory skills. Annals of the New York Academy of Sciences,
+1252(1), 139-146. https://doi.org/10.1111/j.1749-6632.2011.06409.x.
+Zendel, B. R., & Alain, C. (2012). Musicians experience less age-related decline in central
+auditory processing. Psychology and Aging, 27(2), 410-417.
+Ziegler, G., Dahnke, R., Jancke, L., Yotter, R. A., May, A., & Gaser, C. (2012). Brain
+structural trajectories over the adult lifespan. Human Brain Mapping, 33(10),
+2377-2389. https://doi.org/10.1002/hbm.21374.
+Zuk, J., Benjamin, C., Kenyon, A., & Gaab, N. (2014). Behavioral and Neural Correlates of
+Executive Functioning in Musicians and Non-Musicians. PLOS ONE, 9(6), e99868.
+https://doi.org/10.1371/journal.pone.0099868.
+
+both music and language better than nonmusician children: Behavioral and electrophysiological approaches. Journal of Cognitive Neuroscience, 18(2), 199-211. https://
+doi.org/10.1162/089892906775783660.
+McLaughlin, J., Osterhout, L., & Kim, A. (2004). Neural correlates of second-language
+word learning: Minimal instruction produces rapid change. Nature Neuroscience, 7(7),
+703-704. https://doi.org/10.1038/nn1264.
+Mestres-Misse, A., Rodriguez-Fornells, A., & Munte, T. F. (2007). Watching the Brain
+during Meaning Acquisition. Cerebral Cortex, 17(8), 1858-1866. https://doi.org/10.
+1093/cercor/bhl094.
+Moreno, S., Bialystok, E., Barac, R., Schellenberg, E. G., Cepeda, N. J., & Chau, T. (2011).
+Short-Term Music Training Enhances Verbal Intelligence and Executive Function.
+Psychological Science, 22(11), 1425-1433. https://doi.org/10.1177/
+0956797611416999.
+Moreno, S., Marques, C., Santos, A., Santos, M., Castro, S. L., & Besson, M. (2009). Musical
+training influences linguistic abilities in 8-year-old children: more evidence for brain
+plasticity. Cerebral Cortex (New York, N.Y.: 1991), 19(3), 712-723. https://doi.org/
+10.1093/cercor/bhn120.
+Munte, T. F., Altenmuller, E., & Jancke, L. (2002). The musician's brain as a model of
+neuroplasticity. Nature Reviews. Neuroscience, 3(6), 473-478. https://doi.org/10.
+1038/nrn843.
+Musacchia, G., Sams, M., Skoe, E., & Kraus, N. (2007). Musicians have enhanced subcortical auditory and audiovisual processing of speech and music. Proceedings of the
+National Academy of Sciences of the United States of America, 104(40), 15894-15898.
+https://doi.org/10.1073/pnas.0701498104.
+Wong, P. C., Skoe, E., Russo, N. M., Dees, T., & Kraus, N. (2007). Musical experience
+shapes human brainstem encoding of linguistic pitch patterns. Nature Neuroscience,
+10(4), 420-422.
+Nashiro, K., Qin, S., O'Connell, M. A., & Basak, C. (2018). Age-related differences in BOLD
+modulation to cognitive control costs in a multitasking paradigm: Global switch, local
+switch, and compatibility-switch costs. NeuroImage, 172, 146-161. https://doi.org/
+10.1016/j.neuroimage.2018.01.030.
+Olsen, R., Pangelinan, M., Bogulski, C., Chakravarty, M., Luk, G., Grady, C., & Bialystok,
+E. (2015). The effect of lifelong bilingualism on regional grey and white matter volume. Brain Research, 1612. https://doi.org/10.1016/j.brainres.2015.02.034.
+Parbery-Clark, A., Anderson, S., Hittner, E., & Kraus, N. (2012). Musical experience
+strengthens the neural representation of sounds important for communication in
+middle-aged adults. Frontiers in Aging Neuroscience, 4. https://doi.org/10.3389/fnagi.
+2012.00030.
+Parbery-Clark, A., Skoe, E., Lam, C., & Kraus, N. (2009). Musician enhancement for
+speech-in-noise. Ear and Hearing, 30(6), 653-661.
+Patel, S. H., & Azzam, P. N. (2005). Characterization of N200 and P300: Selected studies
+of the event-related potential. International Journal of Medical Sciences, 2(4), 147.
+Peretz, I., Champod, A. S., & Hyde, K. (2003). Varieties of musical disorders. The
+Montreal Battery of Evaluation of Amusia. Annals of the New York Academy of
+Sciences, 999, 58-75.
+Perfetti, C. A., Wlotko, E. W., & Hart, L. A. (2005). Word learning and individual differences in word learning reflected in event-related potentials. Journal of Experimental
+Psychology. Learning, Memory, and Cognition, 31(6), 1281-1292. https://doi.org/10.
+1037/0278-7393.31.6.1281.
+Polich, J. (2007). Updating P300: An Integrative Theory of P3a and P3b. Clinical
+Neurophysiology: Official Journal of the International Federation of Clinical
+Neurophysiology, 118(10), 2128-2148. https://doi.org/10.1016/j.clinph.2007.04.
+019.
+Raven, J., Corporation, P., & Lewis, H. (1962). Raven JC, Corporation P, Lewis HK. 1962.
+Coloured Progressive Matrices: Sets A, AB, B; Oxford Psychologist Press: London, UK.
+Rechel, B., Roberts, B., Richardson, E., Shishkin, S., Shkolnikov, V. M., Leon, D. A., ...
+McKee, M. (2013). Health and health systems in the Commonwealth of Independent
+States. The Lancet, 381(9872), 1145-1155. https://doi.org/10.1016/S0140-6736(12)
+62084-4.
+Chandrasekaran, B., Krishnan, A., & Gandour, J. T. (2009). Relative influence of musical
+and linguistic experience on early cortical processing of pitch contours. Brain and
+Language, 108(1), 1-9. https://doi.org/10.1016/j.bandl.2008.02.001.
+Rhodes, R. E., & Katz, B. (2017). Working memory plasticity and aging. Psychology and
+Aging, 32(1), 51-59. https://doi.org/10.1037/pag0000135.
+Rieckmann, A., Pudas, S., & Nyberg, L. (2017). Longitudinal Changes in Component
+Processes of Working Memory. ENEURO.0052-17.2017 eNeuro, 4(2), https://doi.org/
+
+15
+
+

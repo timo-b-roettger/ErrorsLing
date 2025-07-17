@@ -1,6 +1,6 @@
 ## title: Statistical reporting inconsistencies in Ling
-## author: anonymous
-## contact: anonymous   
+## author: Timo Roettger & Dara Etemady
+## contact: timo.b.roettger@gmail.com   
 ## date created: 2024-07-11
 ## date last edited: 2024-07-25
 
@@ -197,6 +197,26 @@ stacked_bar <-
                 label = paste0(round(prop_has_gross * 100, 0), "%")),
             vjust = 0,
             color = "white") +
+  # legend
+  annotate("rect",
+           xmin = 0.8,
+           xmax = 5,
+           ymin = 82,
+           ymax = 99,
+           fill = "white") + 
+  annotate("rect",
+           xmin = c(0.9, 0.9),
+           xmax = c(1.3,1.3),
+           ymin = c(85,92),
+           ymax = c(89,96),
+           fill = c("#ee6002","#6002ee")) + 
+  annotate("text",
+           label = c("inconsistency", "decision inconsistency"),
+           x = c(1.5, 1.5),
+           y = c(94, 87),
+           color = c("black","black"),
+           size = 4,
+           hjust = 0) + 
   scale_fill_manual(name = "",
                     values = c("prop_has_error" = "#6002ee", "prop_has_gross" = "#ee6002"),
                     labels = c("inconsistency", "decision inconsistency")) +
@@ -265,16 +285,36 @@ year_plot <-
               type = "proportion")  +
   scale_fill_manual(values = c("lightgrey","#6002ee","#ee6002"),
                     name = "") +
-  annotate("label",
+  # legend
+  annotate("rect",
+           xmin = 2000.25,
+           xmax = 2017,
+           ymin = 0.82,
+           ymax = 0.99,
+           fill = "white") + 
+  annotate("rect",
+           xmin = c(2000.5, 2000.5),
+           xmax = c(2001.5,2001.5),
+           ymin = c(0.85,0.92),
+           ymax = c(0.89,0.96),
+           fill = c("#ee6002","#6002ee")) + 
+  annotate("text",
            label = c("inconsistency", "decision inconsistency"),
-           x = c(2001, 2001),
-           y = c(0.95, 0.86),
-           fill = c("#6002ee","#ee6002"),
-           color = c("white", "white"),
-           fontface = "bold",
-           label.padding = unit(0.5, "lines"),
-           size = 3,
+           x = c(2002, 2002),
+           y = c(0.94, 0.87),
+           color = c("black","black"),
+           size = 4,
            hjust = 0) + 
+  # annotate("label",
+  #          label = c("inconsistency", "decision inconsistency"),
+  #          x = c(2001, 2001),
+  #          y = c(0.95, 0.86),
+  #          fill = c("#6002ee","#ee6002"),
+  #          color = c("white", "white"),
+  #          fontface = "bold",
+  #          label.padding = unit(0.5, "lines"),
+  #          size = 3,
+  #          hjust = 0) + 
   labs(x = "\nyear of publication",
        y = "proportion of inconsistencies per article\n") +
   scale_y_continuous(breaks = c(0,.2,.4,.6,.8,1),
@@ -350,27 +390,27 @@ ggplot(xdata_sub_agg |> filter(direction != "NA"),
             lineend = "round") +
   # legend
   annotate("point", 
-           x = 2015,
+           x = 2012,
            y = 4.5,
            size = 5,
            color = "white",
            fill = "black",
            pch = 21) +
   annotate("point", 
-           x = 2015,
+           x = 2012,
            y = 4.0,
            size = 5,
            color = "white",
            fill = "#ee6002",
            pch = 21) +
   annotate("text", 
-           x = 2016,
+           x = 2013,
            y = 4.5,
            hjust = 0,
            color = "black",
            label = "falsely reported as significant") +
   annotate("text", 
-           x = 2016,
+           x = 2013,
            y = 4.0,
            hjust = 0,
            color = "black",
@@ -383,11 +423,11 @@ ggplot(xdata_sub_agg |> filter(direction != "NA"),
   scale_x_continuous(limits = c(2000,2024),
                      breaks =  c(2000, 2005, 2010, 2015, 2020, 2023)) +
   labs(x = "\nyear of publication",
-       y = "percentage of decision inconsistencies\n") +
+       y = "% of tests flagged as decision inconsistencies\n") +
   theme_minimal() + 
   theme(legend.position = "none",
         panel.spacing.x = unit(1, "lines"))
-  
+
 ggsave(filename = "../plots/figure3.png",
        device = "png",
        bg = "white",

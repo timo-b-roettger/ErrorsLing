@@ -1,0 +1,1031 @@
+J Psycholinguist Res (2009) 38:237-253
+DOI 10.1007/s10936-009-9108-4
+
+The On-Line Processing of Verb-Phrase Ellipsis
+in Aphasia
+Josee Poirier * Lewis P. Shapiro * Tracy Love *
+Yosef Grodzinsky
+
+Published online: 7 April 2009
+(c) The Author(s) 2009. This article is published with open access at Springerlink.com
+
+Abstract We investigated the on-line processing of verb-phrase ellipsis (VPE) constructions in two brain injured populations: Broca's and Anomic aphasics. VPE constructions are
+built from two simple clauses; the first is the antecedent clause and the second is the ellipsis
+clause. The ellipsis clause is missing its verb and object (i.e., its verb phrase (VP)), which
+receives its reference from the fully specified VP in the antecedent clause. VPE constructions are unlike other sentence types that require displacement of an argument NP; these latter
+constructions (e.g., object-relatives, wh-questions) yield either on-time or delayed antecedent
+reactivation. Our results demonstrate that Anomics, like unimpaired individuals, evince reactivation of the direct object NP (within the VP) at the elided position. Broca's patients, on the
+other hand, do not show reactivation of the antecedent. We consider several interpretations
+for our data, including explanations focusing on the larger `grain size' of the reconstructed
+material in the ellipsis clause, the properties of the auxiliary that carries tense and agreement
+features, and the possibility that the cost-free syntactic copy procedure claimed to underlie
+VPE may be modulated by the functional deficit in Broca's aphasia.
+Keywords Aphasia * Sentence processing * Verb-phrase ellipsis *
+Aphasia classification
+
+J. Poirier (B)
+SDSU/UCSD Joint Doctoral Program in Language & Communicative Disorders,
+San Diego State University, 5500 Campanile Drive, San Diego,
+CA 92182-1518, USA
+e-mail: josee@ucsd.edu
+L. P. Shapiro * T. Love
+Speech, Language and Hearing Sciences, San Diego State University,
+5500 Campanile Drive, San Diego, CA 92182-1518, USA
+T. Love
+Psychology, University of California, San Diego, CA, USA
+Y. Grodzinsky
+Linguistics, McGill University, Montreal, QC, Canada
+
+123
+
+238
+
+J Psycholinguist Res (2009) 38:237-253
+
+Introduction
+Sentence processing experiments have typically used different sentence types as a means to
+examine underlying operations. These constructions have been characterized as canonical
+and simple in the language of interest (in English, Subject-Verb-Object), or non-canonical
+and complex, often containing displaced constituents that yield, for example, Object-Subject-Verb word order in English. The goal has been to illuminate processes underlying normal
+comprehension, and how these go awry in aphasia. In this paper we describe a study examining sentence comprehension in aphasia that uses a construction type that is not so easily
+divisible into these categories. We used sentences that contain ellipsis, forms in which a part
+is missing but whose meaning can be readily reconstructed.
+To see what we have in mind, consider the following sentence, known as a verb-phrase
+ellipsis (VPE).
+1. [The waitress kissed the customer] and [the bartender did <kiss the customer> too].
+This sentence is built from two simple clauses, conjoined with and. The first is the antecedent clause; the second the ellipsis clause. The ellipsis clause is missing its verb and object
+(i.e., its VP, depicted above with strikethrough lexical material), and the only remaining verbal
+part is the bare auxiliary did that carries tense and agreement but no verbal meaning. Despite
+the fact that several words are missing in this second clause, listeners recover the meaning of
+the missing VP clearly and unambiguously. VPE is subject to a Parallelism constraint, which
+forces the elided clause to parallel the antecedent clause. It is by virtue of this constraint
+that we can reconstruct the meaning in (1) correctly: Parallelism ensures that we do not take
+the missing part of (1) to mean, e.g., that `the bartender shot the customer' instead of the
+semantically appropriate interpretation, `the bartender kissed the customer'. Indeed, healthy
+adults have been reported to perform at an accuracy level of 97% in self-paced reading and
+in a sentence verification paradigm testing comprehension of VPE (Belanger 2004). This
+demonstrates a remarkable capability of our sentence processor: it can complete missing
+information by leaning on the overt VP from the antecedent clause, even though this information is not adjacent to the missing part. It can do so, moreover, despite the fact that by the
+time the ellipsis is noticed (for example, when the word too is encountered), the overt VP
+from the antecedent clause is long gone in the temporal stream. How listeners-those with
+aphasia-go about the process of `filling in' such missing material is the focus of this study.
+Why this is an important and potentially illuminating issue will be addressed below; first,
+however, we briefly review some relevant background.
+Linguistic accounts of VPE classify the link between the phonologically empty VP (the
+bartender's action in (1) above) and the antecedent VP as either syntactic, semantic, or
+discourse-based (Dalrymple et al. 1991; Fiengo and May 1994; Hardt 1993, 1999; Johnson
+2001; Kehler 2000; Lobeck 1995; Merchant 2001; Sag 1976; among others). Several of these
+accounts can initially be separated by claims about whether there is any syntactic structure at
+all at the elided position. For example, both Elbourne (2008) and Johnson (2001) suggest that
+normal syntactic structure (of the sort found in the antecedent clause) underlies the phonologically null (i.e., `silent') elided position in the ellipsis clause (see also Lobeck 1995). Indeed,
+Johnson (2001) and others suggest that the entire VP from the ellipsis clause is displaced; at
+the minimum these accounts suggest that the two positions are `syntactically related'. On the
+other hand, Hardt (1999, see also 1993) proposes that the relation between the elision clause
+and its antecedent is best expressed through a discourse model where the topic or `center'
+of the initial clause is shifted in the second or ellipsis clause; there is no syntactic structure
+at the elided position and instead there is a pronoun-like element. Still others claim that
+VPE is best examined at the interface between a sentence grammar and a discourse model
+
+123
+
+J Psycholinguist Res (2009) 38:237-253
+
+239
+
+(e.g., Lopez 2000; see also Williams 1977). Though it is not our intention in this paper to
+delve into, and test, the linguistic details of VPE, we initially assume that there is some syntactic structure in the elided position that requires reconstruction from the antecedent clause
+(see Shapiro and Hestvik 1995; see also Frazier and Clifton 2005 for arguments that syntactic
+structure is present at the ellipsis site).
+Psycholinguistic evidence shows that interpretation of the VPE construction does not wait
+until then end of the sentence; it is accomplished as soon as the ellipsis is licensed. Namely,
+material from the antecedent is accessed immediately upon encountering the elision site (did
+too). As a recent example, Shapiro et al. (2003) presented sentences like the following to
+normal adult listeners:
+2. The mailman bought a tie for Easter, and his brother, who was1 playing volleyball,
+did2 too, according to the sales clerk.
+Using the cross-modal lexical priming (CMLP) task, lexical decision probes were visually
+presented at either the pre-elided position1 or in the immediate temporal vicinity of the elision
+site.2 The probes were related to either the subject NP (the mailman) or object NP (a tie)
+from the antecedent clause, or were unrelated control probes. Briefly, Shapiro et al. observed
+significant priming (faster RTs to related vs. control probes) for only the object NP, and only
+at the elided position (directly after the bare auxiliary did). This effect was interpreted as
+unambiguous evidence for the reactivation of the direct object DP (and not just any NP) from
+the first clause.
+On the surface, this `re-activation' effect is similar to on-line gap-filling observed with
+complex object-relative constructions. Consider the sentence "The police stopped the boy
+that the couple accused___ of the crime." Here, the direct object of the verb `accused' is the
+NP `the boy', which has been displaced from its underlying and canonical position after the
+verb to a position prior to the verb. There have been a number of experimental investigations
+with unimpaired populations that have come to support the view that the linkage between
+an antecedent filler and a gap is one that is made immediately upon discovery of the `gap'
+following the verb (e.g., Swinney et al. 1987; Love and Swinney 1996; Nagel et al. 1994).
+Though VPE is dissimilar to object-relatives (and wh-questions) because there is likely no
+displacement of any individual argument in VPE, still, interpretation relies on an antecedent,
+and there is reactivation of this antecedent at silent positions in both cases.
+These facts bring us to aphasia; individuals with Broca's aphasia do not reliably understand
+sentences with displaced NPs, or perhaps more generally, sentences that require the computation of long-distance dependencies. Consider again an object-extracted relative clause
+(The baker saw the boy who the girl kissed) where the object NP (the boy; who) has been
+displaced from its post-verb canonical position. To be interpreted, such a sentence requires
+that the relativized NP (the boy) be linked to the relative clause verb (kissed) and be assigned
+the role of the recipient of the action. This reordering of NPs leaves a phonologically unrealized placeholder--called a trace--in the post-verbal position. This trace is linked to the
+displaced NP the boy so the role of theme--`the one being kissed'--can be assigned to the
+NP. Individuals with Broca's aphasia do not seem to understand these sentences, as observed
+1 The closest experiment to VPE in aphasia is reported by Vasic et al. (2006), who investigated the off-line
+
+ability of Dutch individuals with Broca's and Wernicke's aphasia to assign reference to pronouns. An examination of Vasic et al.'s materials indicates an absence of any elided category and thus their study did not
+probe VP-ellipsis. Their results, however, suggest that the disorder in Broca's aphasia does extend beyond an
+argument-displacement description.
+2 Two experimental studies were run. In one, two probe positions were investigated; in another, a separate
+position was investigated. The same procedures, participants, and materials were presented. Thus for simplification purposes, we present this as a single experiment.
+
+123
+
+240
+
+J Psycholinguist Res (2009) 38:237-253
+
+in off-line sentence-picture matching and grammaticality judgment tasks (e.g., Caramazza
+and Zurif 1976; Friedmann and Shapiro 2003; Grodzinsky 2000; Grodzinsky and Finkel
+1998; Grodzinsky et al. 1999; Love and Oster 2002).
+Accounts of this putative syntactic comprehension deficit in Broca's aphasia differ on its
+source; one approach imputes comprehension deficits to the very feature of displacement: an
+inability to represent and/or interpret the co-referential dependency between the displaced
+phrase and its canonical position from which it arose is at the heart of the syntactic difficulties of individuals with Broca's aphasia (e.g., Zurif et al. 1993; Drai and Grodzinsky
+2006; Friedmann and Shapiro 2003; Grodzinsky 1986, 1995; Hickok et al. 1993; Mauner
+et al. 1993). Even so, there may be a processing antecedent to this syntactic deficit, even if
+a linguistic description of the deficit pattern is necessary (see Grodzinsky 2000; Zurif 2000,
+for similar arguments).
+Thus, a second approach takes syntactic deficits as reflective of processing limitations.
+Here, there are several kinds. One account implicates working memory (WM), based on
+the assumption that dependency relations of the sort evinced in object relative clauses, for
+example, require that the antecedent be maintained at least temporarily until the gap can
+be recognized. Note that there are several such WM accounts, running the gamut from a
+syntactically-specific WM (tied to constructions that require displacement; see Santi and
+Grodzinsky 2007) to a more general WM (e.g., Just and Carpenter 1992). There is also a
+recent account that suggests that in cases where processing load is high and resource availability is low, comprehension limitations will ensue (Caplan et al. 2007). One problem with
+this latter approach is that even sentences that are very short in length and require a minimal
+distance between filler and gap reveal comprehension deficits for individuals with Broca's
+aphasia (Friedmann and Shapiro 2003).
+A related processing approach suggests that syntactic operations are time-sensitive and
+temporally unforgiving; computing a dependency relation must occur at the right time in the
+processing stream or comprehension will suffer. One such account suggests that syntactic
+structure formation is delayed in Broca's aphasia (e.g., Burkhardt et al. 2008; Haarmann and
+Kolk 1991); another suggests that lexical access is protracted, and that this limits the ability
+for individuals with Broca's aphasia to `fill the gap' at the point where it is licensed in the
+syntax (Love et al. 2008; Swinney et al. 1996). These processing approaches require, then,
+tasks that are sensitive to the temporal evanescence of aurally presented sentences. Using such
+tasks, patients show antecedent reactivation in different types of movement-derived structures (unaccusative verbs, relative clauses, wh-questions)--may it be at a point later than its
+syntactic licensing (Burkhardt et al. 2003, 2008; Dickey et al. 2007; Dickey and Thompson
+2004; Love et al. 2008; Swinney et al. 1996; Thompson and Choy in press; Zurif et al. 1993).
+Hence, individuals with Broca's aphasia may lack the resources to adequately process
+sentences with displaced arguments in a timely fashion and/or to complete the comprehension process to yield a final and correct interpretation. Yet it remains unclear whether the
+source of these patients' difficulties lies in the reordering of phrases, in specific types of
+displacement, or in computing long-distance dependencies in general. Thus, investigations
+of ellipsis processing in aphasia could help resolve these issues, and this paper reports on our
+initial effort to do so.1
+Current Study
+With this brief background in mind we now present our initial investigation of VPE processing in aphasia. As described above, VPE is an excellent candidate to tease apart subprocesses involved in sentence comprehension. VPE appears to contain a silent placeholder
+
+123
+
+J Psycholinguist Res (2009) 38:237-253
+
+241
+
+that receives its reference from an initial clause antecedent. In short, if antecedent reactivation
+is observed online in VPE and at the right point--in the immediate temporal vicinity where it
+is licensed (that is, at the elided position)--it will be the first study to show such reactivation
+in sentences that do not contain displacement of an individual NP. If so, then this pattern
+would be evidence that individuals with Broca's aphasia comprehended such constructions
+normally, and thus would also be partial support for a displacement-specific account of the
+syntactic deficits in Broca's aphasia. If we observe later-occurring effects (that is, some time
+after the elided position is encountered), then this would suggest that long-distance dependencies of different kinds are affected in Broca's aphasia, since such protracted effects have
+already been observed with other sentence types (e.g., Love et al. 2008). Finally, if we do not
+observe reactivation of the object within the elided VP in the ellipsis clause at any position, this
+would offer the first evidence of which we are aware that the deficit in Broca's aphasia extends
+significantly to constructions that contain more than a displaced NP. Perhaps VPE requires
+both syntactic reconstruction of a larger unit (a VP, rather than just an NP) as well as considerations of discourse and semantics, and these combine to overwhelm the processing system in
+aphasia. We return to this, and other, possibilities in our Discussion to follow our experiment.
+Method
+Participants
+A group of nine stroke survivors (age at beginning of testing ranged from 45;11 to 84;0.
+Mean: 62.84) participated in the experiment. Each participant sustained damage to the left
+anterior cortex with sparing of the superior temporal gyrus/Wernicke's area following a single, MCA stroke. All participants were right-handed native English speakers with normal
+or corrected-to-normal visual and auditory acuity, and were at least 1 year post-onset. No
+participant had a previous history of other infarcts, alcohol/drug abuse, psychiatric illness or
+other brain disorder or dysfunction. The demographics for all participants are presented in
+Table 1.
+Diagnoses were based on the convergence of clinical consensus and the results of standardized aphasia examinations including the Boston Diagnostic Examination (BDAE version 2;
+Goodglass and Kaplan 1972), the Boston Naming Test (Kaplan et al. 1983), and the Western
+Aphasia Battery (Kertesz 1982). Testing yielded a group of five individuals with Broca's
+aphasia and four individuals who presented with Anomia. The participants with Anomia
+served as a control group; these patients sustained damage to the LIFG but did not show the
+same behavioral patterns of impairment as our Broca's aphasic participants.
+Materials and Design
+We created 40 VPE test sentences, such as in (3).
+3. The locksmith photographed the babysitter and the friendly1 neighbor did2 too, according to3 the clumsy plumber. Sentence (3) contains an antecedent clause (The locksmith
+3 We also conducted an Omnibus three-way ANOVA with group as a between-subjects factor and probe
+
+position (all three positions) and probe type as within-subjects factors. We observed a main effect of group,
+F2 (1,32) = 137.755, p < .0001, and a main effect of probe position, F2 (1.9,60.9) = 37.826, p < .0001 (Greenhouse-Geisser corrected). We consider this three-way ANOVA to be an inappropriate method to examine our
+data given our hypotheses that the locus of any probe position effect or interaction will involve only two of the
+three probe positions, depending on the group factor. We conducted this ANOVA, however, simply to offer a
+complete set of analyses.
+
+123
+
+123
+
+DSU
+
+SDSU
+
+SDSU
+
+TL
+
+TM
+
+WC
+
+UCSD
+
+SDSU
+
+UCSD
+
+FT
+
+PY
+
+SH
+
+4
+
+4
+
+4
+
+4
+
+2
+
+3.5
+
+3
+
+1
+
+4
+
+BDAE
+severity
+levela
+
+M
+
+M
+
+M
+
+F
+
+M
+
+M
+
+M
+
+F
+
+M
+
+Gender
+
+59;6
+
+55;9
+
+68;2
+
+61;9
+
+45;11
+
+68;1
+
+52;7
+
+55;11
+
+84; 0
+
+Age
+(Y;M)
+
+3;2
+
+7;5
+
+11;11
+
+23;9
+
+5;5
+
+1;8
+
+7;7
+
+10;11
+
+3;1
+
+Post
+onset
+(Y;M)
+
+R weakness
+
+R weakness
+
+None
+
+R weakness
+
+R weakness
+
+R weakness
+
+R weakness
+
+R weakness
+
+R weakness
+
+Hemiparesis
+
+a 1 = severe, 4 = mild
+b L Left, I F G inferior frontal gyrus, MC A middle cerebral artery, ST S superior temporal sulcus
+
+UCSD
+
+CE
+
+Anomic Group
+
+SDSU
+
+SDSU
+
+Testing
+location
+
+ST
+
+Broca group
+LT
+
+Patient
+
+Table 1 Demographic information of participants in both Anomic and Broca's groups
+
+Ph.D.
+
+3 years college
+
+8th grade
+
+2 years college
+
+Bachelors, 1 year
+graduate school
+
+1 year college
+
+1.5 years college
+
+High School
+
+Bachelors
+
+Education
+
+Infarction in left middle cerebral artery. Multiple
+areas of infarct: basal ganglia, corona radiate,
+optic radiations, internal capsule, and
+temporal cortex
+
+Large area of ischemia involving the L frontal
+cortical region & deeper structures in the
+basal ganglia
+
+L IFG extending into the basal ganglia, internal
+capsule, lenticular nucleus
+
+L basal ganglia, internal capsule, lenticular
+nucleus
+
+Large area in left frontal cortical region
+including the basal ganglia and antero-medial
+portions of the temporal lobe and extending
+posteriorly to the parietal lobe
+
+Large left frontal lesion extending superiorly to
+the middle frontal region and involving the
+basal ganglia. Sparing of temporal and
+parietal lobes
+
+Left parietofrontal CVA
+
+L MCA embolic stroke; distribution
+encompasses broad left frontal lobe region
+
+L ischemic event involving anterior MCA and
+including left caudate nucleus
+
+Lesionb
+
+242
+J Psycholinguist Res (2009) 38:237-253
+
+J Psycholinguist Res (2009) 38:237-253
+
+243
+
+photographed the babysitter) and an ellipsis clause (the friendly neighbor did too, according...). There is an elided VP in the second clause, signaled by the bare auxiliary did, which
+takes its reference from the antecedent VP (photographed the babysitter). All verbs were
+used transitively with direct objects that were living things (humans--as described by a profession--or animals). The number of syllables between the direct object (babysitter) and
+the elision site (did too) was kept constant at 5-7 syllables. Moreover, `padding material'
+was inserted following the elison site to prevent end-of-sentence, wrap-up priming effects
+(Balogh et al. 1998). Finally, special attention was given to the sentences so that semantic
+relatedness of multiple noun phrases in each sentence as well as across neighboring sentences
+(i.e., two sentences presented one after the other) was avoided, to prevent indirect priming
+effects (see Appendix A for a full list of the experimental stimuli).
+Eighty filler sentences were also generated. Thirty of these were elliptical constructions
+in which the overt direct object was a non-living object. The remaining, non-elliptical, fillers
+were either mono-clausal, coordinated, or relative constructions. Out of the 50 non-elliptical fillers, 20 occurred with an `alive' direct object and 30 with a `non-alive' direct object.
+In sum, across test and filler sentences, there were 70 elliptical sentences, 50 non-elliptical
+sentences, and direct objects were `alive' exactly half of the time.
+Ten novel multi-clausal sentences along with unrelated visual probes (half depicting
+"alive" entities) were added to form a practice block. Additionally, a total of 54 yes/no
+questions (4 for practice items, 20 for fillers, and 30 for test sentences) were generated to
+encourage participants to pay close attention to the sentence materials.
+All sentences (including questions) were digitally recorded by a native speaker of English
+at an average rate of 4.34 syllables/s (within normal range). The recordings were then edited
+to delete silences at the beginning and ending of each sentence so as to keep the inter-stimulus
+interval constant. Recording and editing were performed using the Cool Edit Pro 1.2 software
+(Syntrillium Software Corporation).
+We used a Cross-Modal Picture Priming Paradigm (Swinney and Prather 1989). In this
+dual-task, sentences were presented over headphones while participants were seated in front
+of a computer. At a given point during the unfolding of a sentence, a visual probe (a picture)
+appeared centrally on the screen for 1,500 ms. The participant's primary task was to listen
+to the sentences for comprehension. The second task was to make a semantic decision on
+the visual probes. Visual probes were sometimes related to a particular noun of interest in
+the sentence (e.g., an antecedent). Faster reaction times on related probes relative to control
+probes indicate a facilitatory or priming effect. A priming effect is interpreted as resulting
+from the activation of the noun of interest at that specific point in time.
+In this study, the semantic decision (i.e., secondary task) was to determine whether
+the visual probes (pictures) were depicting living entities. Participants were encouraged
+to respond as quickly and accurately as possible by pressing the appropriate button (labeled
+`Alive' or `Non-Alive') on a 2-button box. Patients used their left hand for button press. The
+presentation software (Tempo, ver. 2.1.2) recorded reaction times and accuracy on the lexical
+decision task.
+In our matched-sentence design, the same image was presented once with a test sentence
+to which it was related and again, in a separate session, with a test sentence to which it was
+unrelated. Thus, the visual probes served as their own controls. As shown in (3) above, three
+positions in the sentences were investigated. Probes were presented at a baseline, pre-elision
+site position (750 ms prior to the elided position); at the elided position; or at a post-elision
+site position (750 ms following the elision site). Hence, the complete design included six conditions: two probe types (related or control) and three probe positions (pre-elision, elision,
+post-elision sites). Half of the test sentences were assigned to the elision site, while the other
+
+123
+
+244
+
+J Psycholinguist Res (2009) 38:237-253
+
+half were assigned to either the pre- or post-elision positions, depending on the experiment.2
+Participants contributed data to each condition yet saw each probe and heard each sentence
+only once per visit, thus avoiding within-session repetition.
+In a given session, all 184 items (practice, test sentences, fillers and questions) were
+pseudo-randomized so that no more than three similar items or conditions would occur
+sequentially. Finally, participants were randomly assigned to an experiment/session; completion of the study required four experimental sessions, each visit approximately 2 weeks
+apart.
+Procedure
+Participants listened to sentences over headphones while seated in front of a computer. At
+a given point during the unfolding of a sentence, a picture probe appeared centrally on the
+screen. The participant was instructed to listen to the sentences for comprehension and to also
+make the semantic decision on the visual probes by pressing the appropriate button (labeled
+`Alive' or `Non-Alive') on a 2-button box. To encourage attention and effort in comprehending the sentences, participants were also informed that questions would be asked to verify
+comprehension.
+
+Results
+Prior to statistical analyses, incorrect responses (to the "live" decision, and failures to respond
+in the time allowed) were removed from further consideration; this yielded 3.95% of the
+data for the Anomic group and 1.16% of the data for the Broca group. Responses over
+2,000 ms (Anomics = 2.95%; Broca's = 4.12%) were also removed from further consideration. Responses to the items "snail" and "babychicks" for the Broca group and "skier"
+for the Anomic group were removed from further analysis since the average responses for
+these items were over 2 SDs from the average RT for all items. Finally, outliers were defined,
+subject-by-subject, as those RTs for each condition that were over 2 SDs from the mean;
+these were replaced by the grand mean for each participant as a conservative measure. This
+data comb encompassed only 2.9% of the data for the Anomic group and 2.7% for the Broca
+group.
+We conducted two separate mixed-design ANOVA's. The first was designed to examine
+the distinction between priming effects at the pre-elision and elision site positions, based
+on our apriori hypothesis detailed above. Recall that we predicted priming should only be
+observed at the elision site (and not at the pre-elision site), if in fact our Broca and/or Anomic
+groups reveal `normal' reconstruction effects, based on Shapiro et al. (2003). Our second
+ANOVA examined priming effects at the elision and post-elision site positions, based on our
+hypotheses that individuals with Broca's aphasia will reveal protracted reconstruction (that is,
+at the post-and not elision site positions); as described above, this prediction is directly based
+on previous work suggesting a slow rise-time of syntactically-relevant processing routines.3
+Our first mixed-design ANOVA, then, was conducted with group (Anomic, Broca) as a
+between-subjects factor, and probe position (pre-elision, elision site) and probe type (control
+and related) as within-subjects factors. An effect of probe type was observed; F1 (1, 7) =
+4.545, p = .07; F2(1, 32) = 3.36, p < .07. A main effect of Position was also observed,
+F2(1, 32) = 39.5, p < .001, as well as a significant three-way interaction among group,
+probe position, and probe type, F1(1, 7) = 7.509, p < .05; F2(1, 32) = 5.286, p < .05.
+
+123
+
+J Psycholinguist Res (2009) 38:237-253
+
+245
+
+Table 2 Mean RTs (SDs) for the Anomic Group (N = 4) to probe type as a function of probe position
+Probe type
+
+Probe position
+Pre-elision
+
+Elision
+
+Post-elision
+
+Control
+
+908 (149)
+
+1066 (346)
+
+1075 (355)
+
+Related
+
+906 (162)
+
+1005 (332)
+
+1076 (358)
+
+Priming effecta
+
+2 ns
+
+61* p = 0.05
+
+-1 ns
+
+a Statistical significance of priming effects indicated by * (significant) or by ns (nonsignificant)
+
+We next conducted separate repeated measures ANOVAs (probe position: pre-elision, elision; probe type: control, related) for each group to search for the source of this interaction.
+We report on our analyses for the Anomic group first. We observed a significant main effect
+of probe position, F2(1, 17) = 28.742, p < .001, and probe type, F2(1, 17) = 4.232,
+p = .05 (no such main effects were observed on our F1 analysis). We also observed a significant interaction between probe position and probe type, F1(1, 3) = 11.197; p < .05;
+F2(1, 17) = 7.223, p = .02. Table 2 describes the data (subject-based; F1 analysis) for the
+Anomic group used in our analyses.
+An examination of Table 2 the source of this interaction: at the pre-elision position, RTs
+to the related probes (906 ms) were not significantly different than those from the control
+probes (908 ms). However, at the elision site, RTs to related probes (1,005 ms) were faster
+by 61 ms than those to the control probes (1,066 ms), t (3) = 2.20, p = .05, one-tailed (subject-based data, collapsing across items); and t (17) =2.724, p < .01, one-tailed (item-based
+data, collapsing across subjects).
+For the Broca group, a main effect of probe type was observed, F1 (1,4) = 7.035, p < .06.
+A main effect of probe position was also observed, F2(1, 15) = 14.165, p < .01. Table 3
+describes the data for the Broca group used in our analyses.
+An examination of the data in Table 3 reveals that at the pre-elision position, RTs to the
+related probes (1,067 ms) were faster by 48 ms than RTs to the control probes (1,115 ms),
+t (4) = 3.465, p < .05, one-tailed (subject-based data; no effect on item-based data was
+observed). No effects were observed at the elision site position, where RTs to related probes
+(1,210 ms) were not different than RTs to control probes (1,209 ms).
+Our second mixed-design ANOVA was conducted with group (Anomic, Broca) as a
+between-subjects factor, and probe position (now, elision and post-elision sites) and probe
+type (control and related) as within-subjects factors. We observed a main effect of probe
+position, F1 (1, 7) = 5.316, p = .05 and a main effect of group F2(1, 32) = 67.684,
+p < 0.001. We also observed a significant interaction between group and probe position,
+F1(1, 7) = 7.399, p < .05; F2(1, 32) = 4.452, p < .05.
+To search for the source of these interactions, we next conducted two two-way repeatedmeasures ANOVAs, one for each group, with probe position (elision vs. post-elision sites)
+Table 3 Mean RTs (SDs) for the
+Broca Group (N =5) to probe type
+as a function of probe position
+a Statistical significance of
+priming effects indicated by
+* p < 0.05 (significant) or by ns
+(nonsignificant)
+
+Probe type
+
+Probe position
+Pre-elision
+
+Elision
+
+Post-elision
+
+Control
+
+1115 (134)
+
+1209 (279)
+
+1206 (276)
+
+Related
+
+1067 (128)
+
+1210 (305)
+
+1206 (313)
+
+Priming effecta
+
+48*
+
+-1 ns
+
+0 ns
+
+123
+
+246
+
+J Psycholinguist Res (2009) 38:237-253
+
+Fig. 1 Related-to-Control ratios for both groups as a function of probe position
+
+and probe type (control, related) as within-subjects variables. The data from the Anomic
+group revealed a main effect of Position, F1(1, 3) = 19.029, p < .05; F2(1, 17) =
+5.956, p < .05. A main effect of probe type was also observed on the F2 analysis only,
+F2(1, 17) = 5.249, p < .05. For the Broca group, no significant main effects or interactions
+were observed.
+Finally, we analyzed the ratios of related RTs to control RTs. This procedure essentially `standardizes' the RTs across groups and individuals, allowing baseline discrepancies
+between RTs to be eliminated. Priming (faster RTs to related compared to control probes) is
+obtained when the ratio is less than 1.0. Figure 1 describes the ratio data for both groups. For
+the Anomic group, we observed a ratio of .943 at the elided position, t(3) = 2.304, p = .05
+(one-sample, one-tailed; subject data, collapsing across items); t(17) = 2.474, p = .01
+(item-based data). For the Broca group, we observed a ratio of .957 at the pre-elision site,
+t (4) = 3.317, p < .05 (one-tailed; subject-based data only). No other ratios statistically
+differed from 1.0.
+
+Discussion
+In this experiment we investigated the processing of VPE in Broca's aphasia and in a group
+of brain-damaged control participants using a cross-modal comprehension task. To review,
+we aurally presented sentences like:
+The locksmith photographed the babysitter, and the friendly1 neighbor did 2 too, according to3 the clumsy plumber.
+We presented visual probes either depicting the direct object NP from the antecedent clause
+(e.g., babysitter) or unrelated control probes, and these probes were presented at one of three
+probe positions: pre-elision, elision, or post-elision sites. With this task, faster RTs to probes
+
+123
+
+J Psycholinguist Res (2009) 38:237-253
+
+247
+
+depicting the direct object, relative to RTs for the control probes, would indicate activation
+(priming) of the direct object NP.
+The results indicated distinct priming patterns for the Broca group relative to the Anomic,
+brain-damage control group, as evinced by significant interactions involving the group variable. The Anomic group evinced no priming at the pre-elision position (or at the post-elision
+position); yet significant priming was observed at the elision site. Indeed, this effect was
+strong enough to yield a significant interaction between probe position (pre-elision, elision
+site) and probe type (related, unrelated probes). Furthermore, the ratios of control to related
+probes buttressed these effects; only at the elision site were the ratios significant. These
+patterns suggest that the participants with Anomia show normal reconstruction effects in
+VPE, similar to the healthy college-age participants tested in Shapiro and colleagues' work
+(Shapiro and Hestvik 1995; Shapiro et al. 2003).
+Unlike the Anomic group, the Broca group evinced no priming or activation effect at the
+elided position; instead, a paired t-test on subject-based data only (collapsing across items)
+revealed a priming effect only at the pre-elision position. This effect was also captured on the
+ratio analysis, again with subject-based data only. Because the effect at the pre-elision site
+was not robust enough to capture analyses involving items, we hesitate to offer any strong
+conclusions. Even so, one possible interpretation for this early effect is spillover activation
+from the initial appearance of the direct object in the antecedent clause. The pre-elision site
+was located about 500 ms from the offset of the antecedent direct object, yet within the ellipsis
+clause. Late activation of overt noun phrases for these patients has been reported elsewhere
+(Love et al. 2008) and thus the results for this probe position partially support the hypothesis
+of a slower-than-normal lexical `rise-time' deficit (Prather et al. 1991; Swinney et al. 1996)
+in individuals with Broca's aphasia and who have damage to Broca's region. Love et al. also
+reported that their Broca's participants eventually re-activated the antecedent to a displaced
+argument in object relative constructions ("The audience liked the wrestler that the parish
+priest condemned___ for foul language", where the NP the wrestler has been displaced from
+its canonical, post-verb position, leaving behind a trace or gap). Normal controls evinced
+reactivation of the antecedent right at the gap (immediately after, for example, the verb condemned) yet the post-gap position that evinced activation of the displaced argument for the
+Broca patients was 500 ms past the gap. These patterns suggested to Love et al. that the lexical
+processing deficit underlying Broca's aphasia percolates to the syntactic system, explaining
+some of the off-line comprehension problems such patients have with constructions that
+involve displacement of an argument.
+Yet, unlike with object relative constructions, our Broca's aphasics could not link the VPE
+and its antecedent in real-time; again, we observed no activation effects even at the post-elision site. Even so, if syntactic structure must be built at the elided site as we have suggested
+in the Introduction, perhaps there is just not enough time for our Broca's patients to do this
+work. This possibility is directly related to accounts that claim that syntactic processing is
+delayed in Broca's aphasia (Burkhardt et al. 2008). A rather important caveat should be noted
+here. We observed no reactivation of the antecedent at the elided position or at the post-elision site.4 Both the lexical rise-time and slow-syntax accounts rest on evidence of eventual
+reactivation effects, and thus we only have a null result to offer here as support.
+4 The absence of a priming effect at the downstream position is unlikely due to methodological shortcomings
+
+such as low statistical power (an effect was statistically obtained at the pre-elision site for these patients) or to
+problematic materials (the Anomic controls showed statistically reliable priming at the elided position, that is,
+the normal pattern). Furthermore, any limitations with the cross-modal technique (e.g., its dual-task nature)
+cannot explain the patterns here for at least two reasons: First, the Broca patients do show activation of the
+
+123
+
+248
+
+J Psycholinguist Res (2009) 38:237-253
+
+We also suggested in the setup to our study that if we found no reactivation of the antecedent, then the deficit in Broca's aphasia extends to constructions that contain more than a
+displaced NP.
+And this is indeed the pattern observed in our experiment. In VPE, the entire VP is the
+antecedent from which the elided position gets its reference. Perhaps the larger `grain size'
+of the reconstructed constituent overwhelms the processing system in Broca's aphasia. Such
+a possibility would conflict with recent accounts of ellipsis processing in normal adults,
+where it has been claimed that antecedent (re)activation is cost-free (see for example, Frazier
+and Clifton 2001; Martin and McElree 2008; Arregui et al. 2006). Brain damage could,
+of course, modulate such a cost-free copy device. This possibility requires more work. We
+would need to first examine whether the lack of activation of the antecedent at or beyond
+the elided position percolates to off-line, final interpretation (as it does, for example, with
+relative clause constructions). We are currently conducting such an experiment.
+Another possible explanation for the lack of activation effects at the elided or post-elision
+site may relate to the bare auxiliary that carries tense and agreement properties and that
+essentially signals that the clause in which it is contained is elliptical. Perhaps individuals
+with Broca's aphasia cannot process this unstressed `closed-class' item in real time. There
+is of course a very large literature on comprehension deficits involving closed-class items
+(e.g., Bradley et al. 1980; Rosenberg et al. 1985; Swinney et al. 1980; etc.). One of the more
+recent attempts has found a real-time consequence of the vocabulary distinction in Broca's
+aphasia using event-related potentials (Keurs et al. 1999, 2002). This general account would
+require that the deficit extends to any structure that depends on the closed class vocabulary,
+and the evidence for this is at best equivocal, but requires further study.
+We end with what we believe to be some important notes on patient classification. There
+is a likely distinct functional commitment of Broca's region versus, for example, classical
+Wernicke's area (see the discussion in, for example, Love et al. 2008; see also Caplan et al.
+2007, for a different view). Yet, though all of our patients presented with neurological damage
+to LIFG, our Anomic patients evinced normal on-line VPE comprehension while our Broca
+patients did not. Though we have yet to examine whether the neurological damage between
+the groups can be differentiated with more detailed analysis (using, for example, probability
+maps of Broca's region; see Amunts et al. 1999), on the surface our results suggest that the
+coarse-grained neurology of the sort that defines left anterior cortex as the seat of syntactic
+comprehension deficits--or the locus of processing antecedents to these deficits--may not
+be the entire story. This conclusion might not be surprising, but it does complicate the relation between brain and language. This complication arises just because we have been careful
+enough to examine comprehension performance in constructions that are not, again, so easily
+divisible into classic psycholinguistic categories, and because we have used a brain-damage
+control group seldom used in the literature on Broca's aphasia. We conclude that this complication is a good thing and that it will eventually lead to a better understanding of language
+processing in both healthy and impaired populations.
+
+Footnote 4 continued
+antecedent, even if its only at the pre-elision site, and two, our brain-damaged Anomic control group evinced
+the exact patterns college-age normals did.
+
+123
+
+J Psycholinguist Res (2009) 38:237-253
+
+249
+
+Appendix A
+List of experimental sentences
+1. The policeman carried the skier, and the helpful clown did too, according to the efficient
+waiter.
+2. The kitten chased the chicken, and the beautiful girl did too, according to the short
+soccer player.
+3. The elephant hit the ostrich, and the large orangutan did too, according to the busy
+cashier.
+4. The fireman lifted the runner, and the professional dancer did too, according to the
+young geologist.
+5. The nurse measured the Olympian, and the kindergarten teacher did too, according to
+the excited children.
+6. The toddler caressed the gorilla, and the mayoral candidate did too, according to the
+injured producer.
+7. The alligator devoured the lion, and the hungry piranhas did too, according to the loud
+spectators.
+8. The puppy licked the toad, and the young pianist did too, according to the calm surgeon.
+9. The eagle located the snail, and the chubby chipmunk did too, according to the agile
+climber.
+10. The horse pulled the pig, and the stubborn rabbi did too, according to the anxious
+housekeeper.
+11. The swimmer rescued the dog, and the eager tourist did too, according to the impressed
+teenager.
+12. The water rafter quizzed the security guard, and the talk show host did too, according
+to the nervous farmer.
+13. The mother massaged the auto mechanic, and the mad scientist did too, according to
+the new supervisor.
+14. The fox bit the skunk, and the humongous snake did too, according to the shocked
+onlookers.
+15. The ranger sketched the beekeeper, and the jazz musician did too, according to the
+self-conscious lifeguard.
+16. The parrot watched the leopard, and the hairy tarantula did too, according to the bored
+bookkeeper.
+17. The secretary applauded the dolphins, and the piano instructor did too, according to
+the precious footage.
+18. The florist evicted a cheerleader, and the meter maid did too, according to the voted
+spokesperson.
+19. The wolf dragged a reindeer, and the grizzly bear did too, according to the attentive
+guests.
+20. The stewardess embraced the vet, and the excited reporter did too, according to the
+gracious gymnast.
+21. The banker filmed the judge, and the history professor did too, according to the strong
+cyclist.
+22. The counselor hugged the monkey, and the popular hairstylist did too, according to the
+strange teller.
+23. The locksmith photographed the babysitter, and the friendly neighbor did too, according
+to the clumsy plumber.
+
+123
+
+250
+
+J Psycholinguist Res (2009) 38:237-253
+
+24. The technician pushed the astronaut, and the angry sailor did too, according to the
+biased woman.
+25. The girl scout lost a mouse, and the cocktail waitress did too, according to the brave
+bachelor.
+26. The otter followed the lobster, and the funny architect did too, according to the smiling
+minister.
+27. The hostess kissed the frog, and the desperate housewife did too, according to the
+talkative chef.
+28. The actress pinched the gardener, and the sneaky carpenter did too, according to the
+brave roofer.
+29. The rabbit scratched the grandmother, and the crotchety turtle did too, according to the
+puzzled visitor.
+30. The bus driver bought an owl, and the lunch lady did too, according to the fancy art
+dealer.
+31. The graphic designer fed the librarian, and the car dealer did too, according to the
+blonde stewardess.
+32. The wrestler tranquilized the kangaroo, and the cowardly man did too, according to the
+bald optometrist.
+33. The mailman scared the bodyguard, and the shady businessman did too, according to
+the gifted painter.
+34. The taxi driver cued the baker, and the telephone operator did too, according to the tall
+officer.
+35. The truck driver painted the electrician, and the hotel concierge did too, according to
+the lovely niece.
+36. The goat kicked the donkey, and the cantankerous bull did too, according to the scared
+student.
+37. The salesperson interrogated the hiker, and the female spectator did too, according to
+the pale model.
+38. The manager shampooed the camel, and the massage therapist did too, according to
+the amused driver.
+39. The actor washed the baby-chicks, and the famous singer did too, according to the
+tanned golf player.
+40. The pelican passed the seal, and the blonde rapper did too, according to the prized
+writer.
+Acknowledgements This research was partially supported by NIH grant DC000494 and by the Sheila and
+Jeffrey Lipinsky Family Fellowship (Poirier). We thank the individuals with aphasia who participated in our
+research program, as well as their family members. Thanks also to the research assistants in the Cognitive
+Neuroscience Laboratory at SDSU and the Laboratory for Research on Aphasia and Stroke at UCSD. Finally,
+we acknowledge the long-lasting contributions of David Swinney.
+Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided
+the original author(s) and source are credited.
+
+References
+Amunts, K., Schleicher, A., Burgel, U., Mohlberg, H., Uylings, H. B., & Zilles, K. (1999). Broca's region revisited: Cytoarchitecture and intersubject variability. The Journal of Comparative Neurology, 412, 319-341.
+doi:10.1002/(SICI)1096-9861(19990920)412:2<319::AID-CNE10>3.0.CO;2-7.
+
+123
+
+J Psycholinguist Res (2009) 38:237-253
+
+251
+
+Arregui, A., Clifton, C., Frazier, L., & Moulton, K. (2006). Processing elided verb phrases with flawed antecedents: The recycling hypothesis. Journal of Memory and Language, 55, 232-246. doi:10.1016/j.jml.
+2006.02.005.
+Balogh, J., Zurif, E., Prather, P., Swinney, D., & Finkel, L. (1998). Gap-filling and end-of-sentence effects in
+real-time language processing: Implications for modeling sentence comprehension in aphasia. Brain and
+Language, 61 169-182. doi:10.1006/brln.1997.1917.
+Belanger, S. (2004). Processing of deep and surface anaphors. Toronto Working Papers in Linguistics: Special
+Issue on Syntax and Psycholinguistics, 22, 1-40.
+Bradley, D. C., Garrett, M. F., & Zurif, E. B.(1980). Syntactic deficits in Broca's aphasia. In D. Caplan (Ed.),
+Biological studies of mental processes. Cambridge, MA: The MIT Press.
+Burkhardt, P., Mercedes Pinango, M., & Wong, K. (2003). The role of the anterior left hemisphere in real-time
+sentence comprehension: Evidence from split intransitivity. Brain and Language, 86, 9-22. doi:10.1016/
+S0093-934X(02)00526-6.
+Burkhardt, P., Avrutin, S., Pinango, M. M., & Ruigendijk, E. (2008). Slower-than-normal syntactic processing
+in agrammatic broca's aphasia: Evidence from dutch. Journal of Neurolinguistics, 21, 120-137. doi:10.
+1016/j.jneuroling.2006.10.004.
+Caplan, D., Waters, G., Dede, G., Michaud, J., & Reddy, A. (2007). A study of syntactic processing in aphasia
+I: Behavioral (psycholinguistic) aspects. Brain and Language, 101, 103-150. doi:10.1016/j.bandl.2006.
+06.225
+Caramazza, A., & Zurif, E. B. (1976). Dissociation of algorithmic and heuristic processes in language comprehension: Evidence from aphasia. Brain and Language, 3, 572-582. doi:10.1016/0093-934X(76)90048-1.
+Dalrymple, M., Shieber, S. M., & Pereira, F. C. N. (1991). Ellipsis and higher-order unification. Linguistics
+and Philosophy, 14, 399-452. doi:10.1007/BF00630923.
+Dickey, M. W., & Thompson, C. K. (2004). The resolution and recovery of filler-gap dependencies in
+aphasia: Evidence from on-line anomaly detection. Brain and Language, 88, 108-127. doi:10.1016/
+S0093-934X(03)00283-9.
+Dickey, M. W., Choy, J. J., & Thompson, C. K. (2007). Real-time comprehension of wh-movement in aphasia:
+Evidence from eyetracking while listening. Brain and Language, 100, 1-22. doi:10.1016/j.bandl.2006.06.
+004.
+Drai, D., & Grodzinsky, Y. (2006). A new empirical angle on the variability debate: Quantitative neuroysyntactic analyses of a large data set from Broca's Aphasia. Brain and Language, 96, 117-128. doi:10.1016/
+j.bandl.2004.10.016.
+Elbourne, P. (2008). Ellipsis sites as definite descriptions. Linguistic Inquiry, 39, 191-220. doi:10.1162/ling.
+2008.39.2.191.
+Fiengo, R., & May, R. (1994). Indices and identity. Cambridge, MA: MIT Press.
+Frazier, L., & Clifton, C., Jr. (2001). Parsing coordinates and ellipsis: Copy. Syntax, 4, 1-22. doi:10.1111/
+1467-9612.00034.
+Frazier, L., & Clifton, C., Jr. (2005). The syntax-discourse divide: Processing ellipsis. Syntax, 8, 121-174.
+Friedmann, N., & Shapiro, L. P. (2003). Agrammatic comprehension of simple active sentences with moved
+constituents hebrew OSV and OVS structures. Journal of Speech, Language, and Hearing Research: JSLHR,
+46, 288-297. doi:10.1044/1092-4388(2003/023).
+Goodglass, H., & Kaplan, E.(1972). Boston diagnostic aphasia examination (2nd Ed.). Philadelphia: Lea &
+Febiger.
+Grodzinsky, Y. (1986). Language deficits and the theory of syntax. Brain and Language, 27, 135-159.
+Grodzinsky, Y. (1995). A restrictive theory of agrammatic comprehension. Brain and Language, 50, 27-51.
+doi:10.1006/brln.1995.1039.
+Grodzinsky, Y. (2000). The neurology of syntax: Language use without Broca's area. Behavioral and Brain
+Sciences, 23, 1-21.
+Grodzinsky, Y., & Finkel, L. (1998). The neurology of empty categories. Journal of Cognitive Neuroscience,
+10, 281-292. doi:10.1162/089892998562708.
+Grodzinsky, Y., Pinango, M. M., Zurif, E., & Drai, D. (1999). The critical role of group studies in neuropsychology: Comprehension regularities in Broca's aphasia. Brain and Language, 67, 134-147. doi:10.1006/
+brln.1999.2050.
+Haarmann, H. J., & Kolk, H. H. J. (1991). Syntactic priming in broca's aphasics: Evidence for slow activation.
+Aphasiology, 5, 247-263. doi:10.1080/02687039108248527.
+Hardt, D. (1993). Verb phrase ellipsis: Form, meaning, and processing. Ph.D. Dissertation, University of
+Pennsylvania.
+Hardt, D. (1999). Dynamic interpretation of verb phrase ellipsis. Linguistics and Philosophy, 22, 187-221.
+doi:10.1023/A:1005427813846.
+
+123
+
+252
+
+J Psycholinguist Res (2009) 38:237-253
+
+Hickok, G., Zurif, E., & Canseco-Gonzalez, E., (1993). Structural description of agrammatic comprehension.
+Brain and Language, 45, 371-395. doi:10.1006/brln.1993.1051.
+Johnson, K. (2001). What VP ellipsis can do, and what it can't, but not why. The handbook of contemporary
+syntactic theory, pp. 439-479.
+Just, M. A., & Carpenter, P. A. (1992). A capacity theory of comprehension: Individual differences in working
+memory. Psychological Review, 99, 122-149. doi:10.1037/0033-295X.99.1.122.
+Kaplan, E., Goodglass, H., & Weintraub, S.(1983). Boston naming test. Philadelphia: Lea & Febiger.
+Kehler, A. (2000). Coherence and the resolution of ellipsis. Linguistics and Philosophy, 23, 533-575.
+Kertesz, A. (1982). Western aphasia battery test manual (2nd ed.). New York, NY: Grune & Stratton.
+ter Keurs, M., Brown, C. M., Hagoort, P., & Stegeman, D. F. (1999). Electrophysiological manifestations
+of open- and closed-class words in patients with Broca's aphasia with agrammatic comprehension: An
+event-related brain potential study. Brain, 122, 839-854.
+ter Keurs, M., Brown, C. M., & Hagoort, P. (2002). Lexical processing of vocabulary class in patients with
+Broca's aphasia: An event-related brain potential study on agrammatic comprehension. Neuropsychologia,
+40, 1547-1561.
+Lobeck, A. (1995). Ellipsis: Functional heads, licensing, and identification. Oxford: Oxford University Press.
+Love, T., & Swinney, D. (1996). Conference processing and levels of analysis in object relative; demonstration
+of antecedent reactivation with the cross-modal priming paradigm. Journal of Psycholinguistic Research,
+25, 5-24.
+Love, T., & Oster, E. (2002). On the categorization of aphasic typologies: The SOAP (a test of syntactic
+complexity). Journal of Psycholinguistic Research, 31, 503-529. doi:10.1023/A:1021208903394.
+Love, T., Swinney, D., Walenski, M., & Zurif, E. (2008). How left inferior frontal cortex participates in syntactic
+processing: Evidence from aphasia. Brain and Language. doi:10.1016/j.bandl.2007.11.004.
+Martin, A. E., & McElree, B. (2008). A content-addressable pointer mechanism underlies comprehension of
+verb-phrase ellipsis. Journal of Memory and Language, 58, 879-906. doi:10.1016/j.jml.2007.06.010.
+Mauner, G., Fromkin, V. A., & Cornell, T. L. (1993). Comprehension and acceptability judgments in agrammatism: Disruptions in the syntax of referential dependency. Brain and Language, 45, 340-370. doi:10.
+1006/brln.1993.1050.
+Merchant, J. (2001). The syntax of silence: Sluicing, islands, and the theory of ellipsis. Oxford: Oxford University Press.
+Nagel, H. N., Shapiro, L.P., & Nawy, R. (1994). Prosody and the processing of filler-gap constructions. Journal
+of Psycholinguistic Research, 23, 473-486.
+Prather, P., Shapiro, L. P., Zurif, E. B., & Swinney, D. (1991). Real-time examinations of lexical processing
+in aphasia. Journal of Psycholinguistic Research, 20, 271-281.
+Rosenberg, B., Zurif, E. B., Brownell, H., Garrett, M. F., & Bradley, D. C. (1985). Grammatical class effects
+in relation to normal and aphasic sentence processing. Brain and Language, 26, 287-303. doi:10.1016/
+0093-934X(85)90044-6.
+Sag, I. (1976). Deletion and logical form. Unpublished doctoral dissertation. Massachusetts Institute of Technology.
+Santi, A., & Grodzinsky, Y. (2007). Taxing working memory with Syntax: Bi-hemispheric modulations. Human
+Brain Mapping, 28, 1089-97.
+Shapiro, L. P., & Hestvik, A. (1995). On-line comprehension of VP-ellipsis: Syntactic reconstruction and
+semantic influence. Journal of Psycholinguistic Research, 24, 517-532. doi:10.1007/BF02143165.
+Shapiro, L. P., Hestvik, A., Lesan, L., & Garcia, A. R. (2003). Charting the time-course of VP-ellipsis sentence comprehension: Evidence for an initial and independent structural analysis. Journal of Memory and
+Language, 49, 1-19. doi:10.1016/S0749-596X(03)00026-3.
+Swinney, D., Ford, M., Frauenfelder, U., & Bresnan, J. (1987). The time course of coindexation during sentence
+comprehension. Paper presented at the Psychonomic Society Meeting, Seattle.
+Swinney, D., & Prather, P. (1989). On the comprehension of lexical ambiguity by young children: Investigations
+into the development of mental modularity. Resolving Semantic Ambiguity, 225-238.
+Swinney, D. A., Zurif, E. B., & Cutler, A. (1980). Effects of sentential stress and word class upon comprehension in Broca's aphasics. Brain and Language, 10, 132-144.
+Swinney, D., Zurif, E., Prather, P., & Love, T. (1996). Neurological distribution of processing resources underlying language comprehension. Journal of Cognitive Neuroscience, 8, 174-184.
+Thompson, C. K., & Choy, J. (in press). Pronominal resolution and gap filling in agrammatic aphasia: Evidence
+from eye movements. Journal of Psycholinguistic Research.
+Vasic, N., Avrutin, S., & Rui gendijk, E. (2006). Interpretation of pronouns in VP-ellipsis constructions in
+Dutch Broca's and Wernicke's aphasia. Brain and Language, 96, 191-206.
+Williams, E. (1977). Discourse and Logical Form. Linguistic Inquiry, 8, 101-139.
+
+123
+
+J Psycholinguist Res (2009) 38:237-253
+
+253
+
+Zurif, E. B. (2000). Syntactic and semantic composition. Brain and Language, 71(1), 261-263. doi:10.1006/
+brln.1993.1054.
+Zurif, E., Swinney, D., Prather, P., Solomon, J., & Bushell, C. (1993). An on-line analysis of syntactic processing in Broca's and Wernicke's aphasia. Brain and Language, 45, 448-464. doi:10.1006/brln.1993.
+1054.
+
+123
+
+

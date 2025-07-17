@@ -1,0 +1,882 @@
+Language, Cognition and Neuroscience
+
+ISSN: 2327-3798 (Print) 2327-3801 (Online) Journal homepage: www.tandfonline.com/journals/plcp21
+
+Against all odds: exhaustive activation in lexical access of
+verb complementation options
+Einat Shetreet, Tal Linzen & Naama Friedmann
+To cite this article: Einat Shetreet, Tal Linzen & Naama Friedmann (2016) Against all odds:
+exhaustive activation in lexical access of verb complementation options, Language, Cognition
+and Neuroscience, 31:9, 1206-1214, DOI: 10.1080/23273798.2016.1205203
+To link to this article: https://doi.org/10.1080/23273798.2016.1205203
+
+Published online: 18 Jul 2016.
+
+Submit your article to this journal
+
+Article views: 286
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=plcp21
+
+LANGUAGE, COGNITION AND NEUROSCIENCE, 2016
+VOL. 31, NO. 9, 1206-1214
+http://dx.doi.org/10.1080/23273798.2016.1205203
+
+REGULAR ARTICLE
+
+Against all odds: exhaustive activation in lexical access of verb complementation
+options
+Einat Shetreeta,b, Tal Linzenc and Naama Friedmannb,d
+a
+
+Acquisition, Brain, & Cognition Lab, Department of Linguistics, Tel Aviv University, Tel Aviv, Israel; bSagol School of Neuroscience, Tel Aviv
+University, Tel Aviv, Israel; cLaboratoire de Sciences Cognitives et Psycholinguistique & Institut Jean Nicod, Departement des Etudes Cognitives,
+Ecole Normale Superieure/PSL Research University, Paris, France; dLanguage and Brain Lab, School of Education, Tel Aviv University, Tel Aviv,
+Israel
+ABSTRACT
+
+Various findings suggest that once a verb is accessed, all of its complementation options are
+activated. This fMRI study examined whether all the complementation options are activated
+even in contexts where this seems unnecessary. We examined whether introducing the selected
+complement prior to the verb (in topicalised sentences) still involves the activation of all
+complementation options. We performed ROI analyses in the left STG, a brain region that has
+been linked to the processing of argument structure and the number of complementation
+options. In this region, multiple-option verbs elicited greater activations compared with oneoption verbs, both when the complement appeared after the verb and when it appeared preverbally. This suggests encapsulated lexical retrieval of the verb, which involves exhaustive
+activation of all its complementation options when the verb is accessed.
+
+Sentence comprehension is a result of a concerted action
+of various types of processes and information stores. One
+crucial aspect of sentence parsing comes from information stored with the verb. Specifically, beyond information regarding the meaning and sound of the verb,
+according to most linguistic and psycholinguistic frameworks, the lexical item of the verb also stores information
+regarding the syntactic environments in which it can
+appear. Access to this type of information, termed argument structure, was examined in several studies of sentence comprehension, which explored access to this
+information in real time while the sentence unfolds,
+the way individuals with aphasia access this information,
+and the brain substrates that process this information
+(e.g. Biran & Friedmann, 2012; Boland, 1993; Ferreira &
+Henderson, 1990; Garnsey, Pearlmutter, Myers, &
+Lotocky, 1997; Linzen & Jaeger, in press; Osterhout,
+Holcomb, & Swinney, 1994; Shapiro, Gordon, Hack, & Killackey, 1993; Shapiro, Nagel, & Levine, 1993; Shapiro,
+Zurif, & Grimshaw, 1987, 1989; Shetreet, Friedmann, &
+Hadar, 2009, 2010; Shetreet, Palti, Friedmann, & Hadar,
+2007; Trueswell & Kim, 1998; Trueswell, Tanenhaus, &
+Kello, 1993).
+At the focus of our study is argument structure
+information that defines the types of phrases that can
+CONTACT Einat Shetreet
+
+shetreet@post.tau.ac.il
+
+(c) 2016 Informa UK Limited, trading as Taylor & Francis Group
+
+ARTICLE HISTORY
+
+Received 5 July 2015
+Accepted 6 June 2016
+KEYWORDS
+
+Argument structure; fMRI;
+sentence comprehension;
+word order variation; STG
+
+complement the verb (Chomsky, 1965; van Valin, 2001).
+Specifically, we look into verbs that differ in the
+number of complementation options that they allow.
+We use here the term "complementation options" to
+refer to both subcategorisation frames (syntactically
+defined options - the various syntactic types of
+phrases that can complement the verb)1 and thematic
+frames (semantically defined options - the various
+types of thematic roles that can complement the verb).
+For many verbs, there is no difference between the
+number of subcategorisation frames and the number
+of thematic frames. In the current study, we do not differentiate between the two types, and only look at verbs for
+which the number of subcategorisation options and the
+number of thematic frames are the same. Some verbs
+can be complemented with several structures: (for
+example, "remember" can take a noun-phrase (NP)/
+theme as a direct object (Example (1)) or an embedded
+clause/proposition (Example (2))). Other verbs, like the
+verb "punish", allow only for an NP/theme (direct
+object) complement (Example (3)).
+(1) Dan remembered Jenny (from the trip to LA).
+(2) Dan remembered that Jenny is coming tonight.
+(3) Dan punished Jenny.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+Research exploring the effects of the number of different complementation options (either semantically or
+syntactically defined) has shown increased processing
+demands for verbs with more options compared with
+verbs with fewer options in both behavioural and neuroimaging studies (Ahrens & Swinney, 1995; Fodor, Garrett,
+& Bever, 1968; Shapiro et al., 1987, 1989; Shapiro, Gordon,
+et al., 1993; Shapiro & Levine, 1990; Shetreet et al., 2007,
+2010; Thompson, Lange, Schneider, & Shapiro, 1997;
+although see Schmauder, 1991; Schmauder, Kennison,
+& Clifton, 1991). This effect was observed, for example,
+in studies that used reaction times in a secondary task
+as an index of processing load. These studies revealed
+that both healthy controls and individuals with Broca's
+aphasia show increased reaction times as a function of
+the number of semantically defined complementation
+options of verbs that were presented within sentences
+with identical structures (Shapiro et al., 1987, 1989;
+Shapiro, Gordon, et al., 1993; Shapiro & Levine, 1990).
+By contrast, individuals with Wernicke's aphasia do not
+show sensitivity to number of complementation
+options (Shapiro, Gordon, et al., 1993). This seems to
+suggest that posterior temporal regions, including Wernicke's area (which are typically lesioned in individuals
+with Wernicke's aphasia, although see Dick et al., 2001;
+Dronkers, Plaisant, Iba-Zizen, & Cabanis, 2007) are
+involved in processing complementation options.
+An effect of the number of options was also observed
+in neuroimaging studies using brain activation as a
+measurement of processing load. In a previous fMRI
+study, we compared sentences including verbs that can
+appear with one, two, or three complementation
+options (Shetreet et al., 2007). A graded activation as a
+function of the number of options was observed in the
+left posterior superior temporal gyrus (STG) and in two
+sub-regions in the left inferior frontal gyrus. A similar
+pattern of activation was found when we compared sentences including verbs with two complementation
+options and sentences including verbs with one complementation option (Shetreet, Friedmann, & Hadar, 2010).
+In that study, some of our comparisons showed activations in the left STG only.
+Taken together, the results from normal language processing indicate that the number of options affects verb
+access, such that the entire set of complementation
+options is activated at some point during processing: if
+only one option was activated for each verb, we would
+not see any difference between verbs with one possible
+complementation option and verbs with many complementation options, appearing in the same syntactic
+environment. Therefore, the findings suggest an exhaustive activation of all the complementation options that
+the verb allows.
+
+1207
+
+This effect might be related to the fact that when we
+hear the verb in languages like English and Hebrew, we
+usually do not know yet which option is going to be relevant to this specific sentence. It is debated whether
+information as to the complementation option that is relevant for the sentence, when such information is indeed
+present, would restrict the activation of the complementation option set. According to modular approaches,
+lexical access is encapsulated so that it is impenetrable
+by information from other cognitive domains or
+"central processes" (Fodor, 1983). Specifically, language
+processing is argued to be driven solely by information
+achieved from the input (auditory or visual) and not by
+world knowledge or contextual cues (e.g. Onifer &
+Swinney, 1981; Swinney, 1979; Swinney, Zurif, & Nicol,
+1989). On the other hand, interactionist approaches
+argue it can be affected by other domains (e.g. MacDonald, Pearlmutter, & Seidenberg, 1994; Trueswell et al.,
+1993). In the context of the current study, the question
+of modularity pertains to the language system itself.
+That is, we ask whether one aspect of language processing, lexical access, is affected by other linguistic
+aspects (i.e. syntactic structure) that are available to the
+system at the time of access, or whether lexical access
+is encapsulated within the language system.
+Specifically, we investigated whether eliminating the
+uncertainty regarding the syntactic structure of the sentence - and hence of the complement of a verb with
+multiple options - could result in a reduction in processing load when the verb is accessed. We tested this question by introducing information that renders the
+activation of the entire set of complementation options
+unnecessary. We leveraged the flexible word order of
+Hebrew to construct sentences that can restrict the activation of the complementation options set. Although the
+canonical word order in Hebrew is Subject Verb Object
+(SVO), like in English, Hebrew is flexible with regard to
+the word orders it allows. Importantly for the current
+study, orders in which the object (the complement of
+the verb) appears before the verb are possible (e.g. the
+OSV word order). Such non-canonical word order presents an opportunity to examine whether exhaustive
+activation of the complementation options of a verb
+occurs when the selected option is already known
+when the verb is reached.
+Testing whether other options are accessed when
+the realised option is known before the verb, Shapiro,
+Zurif, and Grimshaw (1989) used English passive cleft
+sentences and object Wh questions to position the
+object before the verb. Sentences in different conditions were identical except for the verb they included:
+either four-option verbs or two-option verbs. In a secondary lexical decision task, four-option verbs were
+
+1208
+
+E. SHETREET ET AL.
+
+recognised more slowly than two-option verbs in these
+two types of sentential contexts. This was a first indication that exhaustive activation of the options set
+takes place even when the object appears before the
+verb. The two structures used in the Shapiro et al.'s
+study involved some structural modifications: (1) the
+verb was morphologically modified to adjust to the
+passive form in one structure ("was sent" in "It was
+[to the girl] that the letter was sent last week") and
+(2) the object was modified to a wh-element and the
+auxiliary verb moved before the subject in the other
+structure ("To whom was the box sent yesterday?").
+One should bear in mind, however, that changing the
+verb form into the passive form may have affected
+the activation of the verb's options. It is possible that
+accessing a verb in the passive form, which involves
+morphological and lexical-syntactic operations, differs
+from accessing a verb in the active form thus promoting the activation of the option set independently of
+the actual sentence in which the verb is presented.
+In the current study, we asked a similar question, with a
+few modifications. First, Hebrew allowed us to present the
+complement pre-verbally without changing the verb
+form or the object form. That is, we used an ObjectSubject-Verb order, in which the verb form and the
+object form remain the same as in the canonical SVO
+word order, but the object is moved to a pre-verbal position (see Example (6) in contrast to the canonical word
+order of Hebrew in (5)).
+(5) Ha-yalda nishka et ha-mora ha-ahuva etmol
+Hebrew [SVO]
+The-girl kissed ACC the-teacher the-beloved yesterday
+The girl kissed the beloved teacher yesterday
+(6) Et ha-mora ha-ahuva ha-yalda nishka etmol
+Hebrew [OSV]
+ACC the-teacher the-beloved the-girl kissed yesterday
+The girl kissed the beloved teacher yesterday
+
+Another new contribution of our investigation is that it
+used brain activations in fMRI, relying on prior knowledge
+of brain regions associated with argument structure processing. We focused on the left STG, which according to
+data from aphasia and neuroimaging studies plays a critical role in processing of argument structure information
+(Ben-Shachar, Hendler, Kahn, Ben-Bashat, & Grodzinsky,
+2003; Edwards, 2002; Meltzer-Asscher, Schuchard, den
+Ouden, & Thompson, 2013; Shapiro, Gordon, et al., 1993;
+Shetreet et al., 2007, 2010). Specifically, this area has
+shown sensitivity to the number of complementation
+options in both aphasic patients and neuroimaging
+studies (Shapiro, Gordon, et al., 1993; Shetreet et al.,
+2007, 2010). Neuroimaging studies found that this area
+shows increased activation for verbs with more complementation options compared with verbs with fewer
+complementation options.2
+
+To test whether the entire set of complementation
+options is activated even when the object is presented
+prior to the verb, we examined brain activations of multiple-option verbs and one-option verbs in SVO and OSV
+orders. If the fact that the realised option has already
+appeared inhibits the later activation of the other potential complementation options of the verb, multipleoption and one-option verbs should show similar brain
+activations in the OSV orders. Multiple-option verbs in
+OSV order compared with the same verbs in the SVO
+order would further show reduced brain activations in
+areas related to number of options. Conversely, if all of
+the options are exhaustively activated even when the
+type of the option is already known prior to the verb,
+the number of options should not interact with word
+order. That is, sentences with multiple-option verbs
+should show increased activations compared to oneoption verbs in brain regions sensitive to number of
+options, both when the complement precedes the verb
+(OSV order), and when the complement follows it (SVO
+order).
+
+Methods
+Participants
+Fifteen healthy adult volunteers (25-35 years, mean age
+= 28;4, 9 females) participated in our study. All of them
+had normal hearing, no language impairment, and no
+psychiatric or neurological history. All participants were
+native speakers of Hebrew, which was their sole
+mother tongue. They were all right handed. Written
+informed consent was obtained from all participants.
+The Tel-Aviv Sourasky Medical Center and Tel Aviv University ethics committees approved the experimental
+protocol.
+
+Materials and procedure
+Verbs selection
+Verbs were selected from the Hebrew Blog Corpus
+(Linzen, 2009). We included only verbs that had more
+than 200 tokens in the 165-million word corpus. We
+automatically extracted all occurrences of the verbs
+with each complementation option; the results of the
+automatic process were then hand-corrected by two
+independent native Hebrew speakers (the first and
+second authors). We selected only verbs that have
+exactly two arguments (an agent/subject and a theme/
+object; no intransitive verbs or verbs with three arguments were included). For each of the selected verbs,
+at least one complementation option was a syntactically
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+simple (non-clausal) complement (i.e. a noun phrase or a
+prepositional phrase), which was the option used in the
+sentences. This was done to avoid any syntactic complexity effects that could confound the argument structure effects. We selected eight verbs with a single
+complementation option (one-option verbs), and eight
+verbs with two options or more (multiple-option verbs)
+for which the possible options were relatively balanced
+(the most likely option appeared in 40-60% of their
+entries).
+
+Stimuli construction
+The verbs were embedded in sentences with an animate
+subject (female or male) and an object that included a
+modifier (Table 1). Each verb was embedded in four
+different SVO sentences and their four corresponding
+OSV sentences (i.e. eight sentences). We had a total of
+128 (32*4) sentences, defined by the combination of
+verb class (one-option or multiple-option) and word
+order (SVO or OSV).3 The sentences were recorded by a
+native speaker of Hebrew, and were presented auditorily.
+The verbs were controlled for frequency as determined based on the Hebrew Blog Corpus (Linzen,
+2009). No significant frequency differences was found
+among the conditions, t(14) = 0.67, p = .52 (mean frequency out of a million of the multiple-option and oneoption verbs: 24.4 (SD = 45.4), and 13.6 (SD = 9.8),
+respectively, for the combined frequencies of masculine
+and feminine forms). We also controlled for the average
+frequency of the words in each sentence, because our
+conditions included different wording (average frequency for sentences including multiple-option verbs
+and one-option verbs: 8.13 and 7.93 respectively).
+There were no significant differences between the conditions (t(62) = 0.59, p = .55). The number of syllables in
+each sentence was measured, to control for duration
+differences between the different conditions, and no
+difference was found between the sentences with
+one-option and sentences with multiple-option verbs
+(t(62) = 0.63, p = .53).
+Table 1. Example sentences of each condition.
+Condition
+Multiple-option verbs (SVO)
+One-option verbs (SVO)
+Multiple-option verbs (OSV)
+One-option verbs (OSV)
+
+Examples
+Rona zaxara [et ha-mesiba ha-shnatit]
+Rona remembered [acc the-party the-annual]
+Rona remembered [the annual party]
+Nava shipra [et ha-mucar ha-yashan]
+Nava improved [acc the-product the-old]
+Nava improved [the old product]
+[et ha-mesiba ha-shnatit] Rona zaxara
+[acc the-party the-annual] Rona remembered
+Rona remembered [the annual party]
+[et ha-mucar ha-yashan] Nava shipra
+[acc the-product the-old] Nava improved
+Nava improved [the old product]
+
+1209
+
+The sentences were divided into 32 blocks. Each block
+consisted of four sentences of the same condition. Each
+verb appeared in a block only once. The blocks were presented in two runs, each lasting approximately 8 min.
+The blocks and the sentences in each block were presented in a pseudo-random order, with no more than
+two consecutive blocks of the same condition. The
+order of the blocks was re-randomised after every five
+participants. The presentation of each block lasted 14 s.
+Sentences were separated by silence periods of
+1500 ms. A tone was heard at the end of each block to
+signal 10 or 12 s of silence. During silence, subjects
+were instructed to concentrate on the noises of the
+MRI scanner. Stimuli were delivered to the subjects via
+MRI-compatible headphones using Presentation software (http://nbs.neuro-bs.com).
+
+Procedure
+Throughout the experiment, participants performed a
+semantic task to ensure that they were attending to
+the sentences and processing them fully. In this task,
+the participants were requested to listen to the sentence
+and decide whether the event described in the sentence
+was positive or not. For example, for the sentence "Dana
+met the cruel robber", participants had to press the "no"
+button; for the sentence "Dan hugged the aunt from Jerusalem", they were expected to press the "yes" button.
+There were equal numbers of predicted "yes" and "no"
+responses in the entire experiment, and they were randomised between and within the blocks, so that each
+block had a different number of "yes" responses. Participants were instructed to press the "yes" button or the
+"no" button with their left hand fingers (to avoid interference in frontal language areas) after the sentences
+ended. Responses were not allowed before the end of
+a sentence or after the beginning of the following
+sentence.
+All responses were recorded. For two of the participants, we had a technical problem, where responses
+from one button were not recorded. Considering that
+the responses from the operating button matched the
+expected responses on almost all of the trials, we
+included them in the analysis. Each of the other participants gave the expected response on more than 75%
+of the sentences (mean = 91.1%, SD = 5%).
+Each participant completed a short practice session
+outside and inside the MRI scanner. The four practice
+blocks included sentences that were similar to those
+used in the experiment, but with verbs that were not
+included in the experiment. The experiment lasted
+approximately 16 min (with both runs combined), and
+the entire imaging session (including practice,
+
+1210
+
+E. SHETREET ET AL.
+
+Figure 1. Extent of activation in the left STG for sentences with multiple-option verbs and one-option verbs in SVO and OSV orders. ROI
+was defined as a 10 mm sphere around MNI coordinate (-51, -54, 24) that was motivated by Shetreet et al.'s (2010) finding. Average
+beta values for the entire ROI are plotted.
+
+anatomical and other functional scans) lasted approximately an hour.
+
+Data acquisition
+MRI scans were conducted in a whole-body 3 Tesla,
+General Electric scanner, located at the Wohl Institute
+for Advanced Imaging in the Tel-Aviv Sourasky Medical
+Center. Functional MRI protocols included T2*-weighted
+images in two runs of 450 volumes. We selected 39 sagittal slices (based on a mid-sagittal slice), 3 mm thick (no
+gap), covering the whole of the cerebrum and most of
+the cerebellum. We used an FOV of 20 cm and a matrix
+size of 64 x 64, TR = 2000 ms, TE = 30, and flip angle = 90.
+
+Data analysis
+Image analysis was performed using SPM8 (Wellcome
+Department of Cognitive Neurology, http://www.fil.ion.
+ucl.ac.uk/spm/). Functional images from each subject
+were motion-corrected, normalised to the SPM EPI template, resampled with a voxel size of 3 x 3 x 3 mm (Ashburner & Friston, 1999), and spatially smoothed using a
+Gaussian filter (8-mm kernel). Head motion parameters
+were added as regressors (Friston et al., 1995). Each subject's data was analysed using a general linear model
+(Friston et al., 1995) and high-pass filtered at 128 s. The
+onsets of the block for each condition were modelled
+with the canonical hemodynamic response function.
+
+Region of interest (ROI) analysis: We performed ROI
+analysis for the STG activation found in Shetreet et al.
+(2010) for number of options.4 We defined a 10 mm
+sphere around the peak MNI coordinate of this activation
+(-51, -54, 24). Average beta values of all the conditions
+were extracted from the ROIs using MarsBar and a 2 x
+2 ANOVA was performed to compare the effects of
+word order on processing multiple-option verbs.
+
+Results
+To assess the effects of word order on the activation of
+multiple complementation options, we performed an
+ROI analysis using a sub-region within the left STG. This
+region was previously shown to be involved in
+processing complementation options, specifically
+demonstrating increased activation to multiple-option
+verbs compared with verbs with only one complement
+option. A 2 x 2 ANOVA showed a main effect for the
+number of options (F(1,56) = 12.33, p = .003). The main
+effect of word order5 and the interaction between
+number of options and word order did not reach
+significance (F(1,56) < 2.8, p > .11; see Figure 1). Follow
+up t-tests showed, as expected, increased activation for
+SVO sentences with multiple-option verbs compared
+with SVO sentences with one-option verbs (t(14) = 3.18,
+p = .003, d = 1.70), consistent with increased activation
+for multiple-option verbs, in the left STG. The critical
+comparison, of OSV sentences with multiple-option
+verbs and OSV sentences with one-option verbs,
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+showed the same pattern of increased activation for the
+multiple-option verbs even though the selected option
+already appears in the beginning of the sentence (t(14)
+= 1.93, p = .03, d = 1.03). Importantly, OSV sentences
+and SVO sentences with multiple-option verbs did not
+show a significant difference in this ROI (t(14) = 1.01, p
+= .16). Namely, there were similar activation patterns in
+the left STG when the object was realised before or
+after the verb, suggesting similar exhaustive access to
+multiple-option verbs regardless of the sentence
+structure.
+
+Discussion
+This study used neuroimaging to explore verb access
+during sentence processing. We manipulated the verb
+and its sentential context in an attempt to determine
+whether all of the verb's complementation options are
+exhaustively activated also when the relevant option is
+already known at the verb position and there is no ambiguity with regard to the syntactic type of the complement. We specifically looked at the left STG, which is
+consistently linked to the processing of argument structure information (Ben-Shachar et al., 2003; Edwards,
+2002; Meltzer-Asscher et al., 2013; Shapiro, Gordon,
+et al., 1993; Shetreet et al., 2007, 2010), and specifically,
+to the number of complementation options of the
+verb: the more complementation options a verb has,
+the more active this region is (Shetreet et al., 2007).
+We observed greater activations in the left STG when
+comparing multiple-option verbs with one-option verbs,
+regardless of sentence structure. Multiple-option verbs
+still showed greater activation than one-option verbs
+even when the complement appeared before the verb.
+Furthermore, multiple-option verbs did not show differential activation in sentence structures in which the
+complement appeared before or after the verb.
+These findings support exhaustive access to the verb's
+complementation options: they show that when a verb is
+accessed, the entire set of complementation options is
+initially activated, disregarding highly relevant sentential
+information. This is in line with reaction times findings in
+English using other sentence structures (passive and whquestions in Shapiro et al., 1989). Across different syntactic structures, the entire set of complementation options
+was still activated. This is also in line with priming studies
+that show activation of the full argument set even with
+missing arguments (Cai, Pickering, Wang, & Branigan,
+2015). This supports the idea of encapsulated information flow within the linguistic system (Fodor, 1983).
+The above finding suggests that certain aspects of
+argument structure access may be independent from
+other lexical and grammatical considerations. Multiple
+
+1211
+
+sources of information are used to arrive at the correct
+interpretation of a sentence, some of which may possibly
+come into play following the lexical access to the verb.
+Future research should characterise the time course of
+lexical access of verbs to further inform the question of
+how information regarding complementation options is
+used during sentence processing. The limited temporal
+resolution of fMRI did not allow us to determine at
+what stage during sentence processing the options are
+accessed, and whether some of the options are deactivated rapidly. Techniques with better temporal resolution (e.g. ERP or MEG) can address this question more
+adequately than fMRI. Interestingly, a single-word MEG
+study showed that information related to complementation options affects neural activity in the left temporal
+lobe between 200 and 300 ms, earlier than word frequency effects (Linzen, Marantz, & Pylkkanen, 2013).
+This early effect, which was obtained outside of a sentential context, suggests that complementation options are
+automatically activated when the verb is read, consistent
+with the results of the current study. They are also consistent with lexical retrieval models that suggest that
+complementation options are stored in a syntactic
+lexicon, which precedes the phonological output
+lexicon, which is organised by word frequency (Biran &
+Friedmann, 2012; Miozzo & Caramazza, 1997; Nickels &
+Howard, 2000).
+Although rarely discussed in the argument structure
+literature (but see Shapiro et al., 1987, 1989), exhaustive
+activation upon lexical access is often mentioned with
+regard to lexical ambiguity of words, starting with the
+seminal work of David Swinney. For example, the
+noun "organ" has two possible meanings: (1) a
+musical instrument or (2) a body part. A prominent
+approach argues that an exhaustive, bottom-up,
+access to the lexical entry of a word is performed in
+order to arrive at the appropriate meaning (e.g.
+Prather & Swinney, 1988; Swinney, 1982; although see
+constraint-based models, e.g. Duffy, Morris, & Rayner,
+1988; Glucksberg, Kreuz, & Rho, 1986). Several studies
+using various methodologies showed that both
+interpretations of ambiguous nouns are momentarily
+activated when accessing the word (e.g. Huettig &
+Altmann, 2004, 2007; Oden & Spira, 1983; Tanenhaus,
+Leiman, & Seidenberg, 1979). Interestingly, Swinney
+and his colleagues found that this exhaustive activation
+is encapsulated of frequency and semantic context: all
+meanings were activated even when one interpretation
+was more frequent than the other (e.g. Onifer &
+Swinney, 1981), or when the context restricted the
+interpretation (e.g. Onifer & Swinney, 1981; Seidenberg,
+Tanenhaus, Leiman, & Bienkowski, 1982; Swinney, 1979;
+Swinney et al., 1989).
+
+1212
+
+E. SHETREET ET AL.
+
+Verb complementation options can be viewed as a
+similar instance of lexical ambiguity, in this case, ambiguity with respect to the syntactic category of the complement. That is, whereas noun ambiguity represents
+lexical-semantic ambiguity, the type of verb ambiguity
+we examined here, with respect to the complement
+types, is a lexical-syntactic one (Biran & Friedmann,
+2012). Interestingly, MacDonald et al. (1994) suggested
+that ambiguities derived from information stored in the
+mental lexicon are processed by the same mechanism.
+This could suggest that if exhaustive access applies in
+lexical ambiguity resolution of word meaning, a similar
+mechanism applies to lexical-syntactic ambiguity of
+complementation options of verbs that was tested in
+the current study. This is indeed indicated by our
+results. Parallels between the two types of ambiguity
+can be found in re-analysis of sentences with noun ambiguity and with verb frame ambiguity in individuals with
+conduction aphasia (Friedmann & Gvion, 2007).
+Additionally, neuroimaging and computational studies
+have linked left posterior temporal regions to the processing of noun ambiguity (e.g. Davis et al., 2007; Harpaz,
+Levkovitz, & Lavidor, 2009; Rodd, Davis, & Johnsrude,
+2005; Snijders et al., 2009; Thivierge, Titone, & Shultz,
+2005). Specifically, it has been suggested that temporal
+regions are involved in retrieval of lexical information,
+whereas the frontal regions are responsible for higherlevel functions that integrate the lexical information
+(Rodd, Longe, Randall, & Tyler, 2010; Snijders et al.,
+2009; Thivierge et al., 2005).
+Our study confirms that the left STG is involved in processing of lexical information related to argument structure and multiple complementation options of verbs. It
+further shows encapsulation of the activation of the complementation option set, as no effect was observed for
+knowing the complementation option prior to the
+verb. These results clearly suggest that accessing the
+lexical entry of the verb exhaustively activates all the
+complementation options of the verb, and that it disregards the sentential context that constrains the possible
+options.
+
+regions as well (Den Ouden, Fix, Parrish, & Thompson,
+2009; Shetreet et al., 2007, 2010), individuals with
+Broca's aphasia (which usually involves lesion to frontal
+regions, although see Dick et al., 2001; Dronkers et al.,
+2007) showed the typical pattern with these verbs
+(Shapiro, Gordon, et al., 1993; Shapiro & Levine, 1990).
+This may suggest that the frontal regions may participate
+in the processing of this linguistic aspect, but are not
+necessary for it.
+3. A fifth condition not reported in this manuscript was also
+included in these experimental runs, so in fact, subjects
+read a total of 160 sentences. Those sentences had
+similar properties to the SVO sentences.
+4. We chose to use the coordinates from Shetreet et al.
+(2010), rather than those from Shetreet et al. (2007), for
+two reasons: (a) The current study was conducted in
+the same MRI scanner (3T) as Shetreet et al. (2010) and
+(b) The current study, like Shetreet et al. (2010), used a
+binary comparison (e.g. multiple options > one option)
+rather than a parametric comparison (e.g. three options
+> two options > one option).
+5. Sentences with a topicalised object often show activations in posterior temporal regions (e.g. Ben-Shachar
+et al., 2003; Shetreet & Friedmann, 2014). In the current
+study, we did not see a significant word order effect in
+our STG ROI. This is probably because the ROI was
+defined based on coordinates from studies that specifically investigated the representation of argument structure, rather than studies that investigated topicalisation
+or Wh-movement. It is likely that different sub-regions
+within the posterior STG have different functions (as
+was also described with regards to the IFG, e.g. Bookheimer, 2002).
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+Funding
+This research was supported by the Lieselotte Adler Laboratory
+for Research on Child Development (grant number 067810022),
+by the Israel Science Foundation (grant number 1066/14, Friedmann), and by the Australian Research Council Centre of Excellence for Cognition and its Disorders (CE110001021).
+
+References
+Notes
+1. There have been attempts, both within linguistic theory
+and within studies that tested the effect of number of
+options on processing, to dispense with subcategorisation, and keep only thematic frames. As we discuss and
+show empirically in Shetreet et al. (2007), subcategorisation still bears explanatory power in the effect of number
+of options on processing, beyond the number of thematic frames.
+2. Although the number of complementation options has
+been shown to modulate brain activity in frontal
+
+Ahrens, K., & Swinney, D. (1995). Participant roles and the processing of verbs during sentence comprehension. Journal
+of Psycholinguistic Research, 24, 533-547. doi:10.1007/
+BF02143166
+Ashburner, J., & Friston, K. J. (1999). Nonlinear spatial normalization using basis functions. Human Brain Mapping, 7, 254-266.
+doi:10.1002/(SICI)1097-0193(1999)7:43C254::AID-HBM43E3.
+3.CO;2-7
+Ben-Shachar, M., Hendler, T., Kahn, I., Ben-Bashat, D., &
+Grodzinsky, Y. (2003). The neural reality of syntactic transformations: Evidence from fMRI. Psychological Science, 14,
+433-440. doi:10.1111/1467-9280.01459
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+Biran, M., & Friedmann, N. (2012). The representation of lexicalsyntactic information: Evidence from syntactic and lexical
+retrieval impairments in aphasia. Cortex, 48(9), 1103-1127.
+doi:10.1016/j.cortex.2011.05.024
+Boland, J. (1993). The role of verb argument structure in sentence processing: Distinguishing between syntactic and
+semantic effects. Journal of Psycholinguistic Research, 22,
+133-152.
+Bookheimer, S. (2002). Functional MRI of language: New
+approaches to understanding the cortical organization of
+semantic processing. Annual Review of Neuroscience, 25(1),
+151-188. doi:10.1146/annurev.neuro.25.112701.142946
+Cai, Z. G., Pickering, M. J., Wang, R., & Branigan, H. P. (2015). It is
+there whether you hear it or not: Syntactic representation of
+missing arguments. Cognition, 136, 255-267. doi:10.1016/j.
+cognition.2014.11.017
+Chomsky, N. (1965). Aspects of the theory of syntax. Cambridge,
+MA: MIT Press.
+Davis, M. H., Coleman, M. R., Absalom, A. R., Rodd, J. M.,
+Johnsrude, I. S., Matta, B. F., ... Menon, D. K. (2007).
+Dissociating speech perception and comprehension at
+reduced levels of awareness. Proceedings of the National
+Academy of Sciences, 104, 16032-16037. doi:10.1073/pnas.
+0701309104
+Den Ouden, D. B., Fix, S. C., Parrish, T., & Thompson, C. K. (2009).
+Argument structure effects in action verb naming in static
+and dynamic conditions. Journal of Neurolinguistics, 22,
+196-215. doi:10.1016/j.jneuroling.2008.10.004
+Dick, F., Bates, E., Wulfeck, B., Utman, J. A., Dronkers, N., &
+Gernsbacher, M. A. (2001). Language deficits, localization,
+and grammar: Evidence for a distributive model of language
+breakdown in aphasic patients and neurologically intact individuals. Psychological Review, 108, 759-788. doi:10.1037/
+0033-295X.108.4.759
+Dronkers, N. F., Plaisant, O., Iba-Zizen, M. T., & Cabanis, E. A.
+(2007). Paul Broca's historic cases: High resolution MR
+imaging of the brains of Leborgne and Lelong. Brain, 130,
+1432-1441. doi:10.1093/brain/awm042
+Duffy, S. A., Morris, R. K., & Rayner, K. (1988). Lexical ambiguity
+and fixation times in reading. Journal of Memory and
+Language, 27(4), 429-446. doi:10.1016/0749-596X(88)
+90066-6
+Edwards, S. (2002). Grammar and fluent aphasia. In E. Fava (Ed.),
+Clinical linguistics: Theory and applications in speech pathology and therapy (pp. 249-266). Philadelphia, PA: John
+Benjamins.
+Ferreira, F., & Henderson, J. M. (1990). Use of verb information in
+syntactic parsing: Evidence from eye movements and wordby-word self-paced reading. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 16, 555-568.
+doi:10.1037/0278-7393.16.4.555
+Fodor, J. A. (1983). The modularity of mind: An essay on faculty
+psychology. Cambridge, MA: MIT Press.
+Fodor, J. A., Garrett, M. F., & Bever, T. G. (1968). Some syntactic
+determinants of sentential complexity, II: Verb structure.
+Perception and Psychophysics, 3, 453-461. doi:10.3758/
+BF03205754
+Friedmann, N., & Gvion, A. (2007). As far as individuals with conduction aphasia understood these sentences were ungrammatical: Garden path in conduction aphasia. Aphasiology,
+21, 570-586. doi:10.1080/02687030701192000
+
+1213
+
+Friston, K. J., Holmes, A. P., Worsley, K. J., Poline, J. B., Frith, C. D.,
+& Frackowiak, R. S. J. (1995). Statistical parametric maps in
+functional imaging: A general linear approach. Human
+Brain Mapping, 2, 189-210. doi:10.1002/hbm.460020402
+Garnsey, S. M., Pearlmutter, N. J., Myers, E., & Lotocky, M. A.
+(1997). The contributions of verb bias and plausibility to
+the comprehension of temporarily ambiguous sentences.
+Journal of Memory and Language, 37, 58-93. doi:10.1006/
+jmla.1997.2512
+Glucksberg, S., Kreuz, R. J., & Rho, S. H. (1986). Context can constrain lexical access: Implications for models of language
+comprehension. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 12, 323. doi:10.1037/
+0278-7393.12.3.323
+Harpaz, Y., Levkovitz, Y., & Lavidor, M. (2009). Lexical ambiguity
+resolution in Wernicke's area and its right homologue.
+Cortex, 45, 1097-1103. doi:10.1016/j.cortex.2009.01.002
+Huettig, F., & Altmann, G. T. (2004). The on-line processing of
+ambiguous and unambiguous words in context: Evidence
+from head-mounted eye-tracking. In M. Carreiras, & C.
+Clifton (Eds.), The on-line study of sentence comprehension:
+Eyetracking, ERP and beyond (pp. 187-207). New York, NY:
+Psychology Press.
+Huettig, F., & Altmann, G. T. (2007). Visual-shape competition
+during language-mediated attention is based on lexical
+input and not modulated by contextual appropriateness.
+Visual Cognition, 15(8), 985-1018. doi:10.1080/1350628060
+1130875
+Linzen, T. (2009). Corpus of blog postings collected from the
+Israblog website. Tel Aviv: Tel Aviv University.
+Linzen, T., & Jaeger, F. (in press). Uncertainty and expectation in
+sentence processing: Evidence from subcategorization distributions. Cognitive Science. doi:10.1111/cogs.12274
+Linzen, T., Marantz, A., & Pylkkanen, L. (2013). Syntactic context
+effects in single word recognition: An MEG study. The Mental
+Lexicon, 8, 117-139. doi:10.1075/ml.8.2.01lin
+MacDonald, M. C., Pearlmutter, N. J., & Seidenberg, M. S.
+(1994). Lexical nature of syntactic ambiguity resolution.
+Psychological Review, 101, 676-703. doi:10.1037/0033-295X.
+101.4.676
+Meltzer-Asscher, A., Schuchard, J., den Ouden, D. B., &
+Thompson, C. K. (2013). The neural substrates of complex
+argument structure representations: Processing "alternating
+transitivity" verbs. Language and Cognitive Processes, 28,
+1154-1168. doi:10.1080/01690965.2012.672754
+Miozzo, M., & Caramazza, A. (1997). Retrieval of lexical-syntactic
+features in tip-of-the-tongue states. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 23(6), 1410-
+1423. doi:10.1037/0278-7393.23.6.1410
+Nickels, L., & Howard, D. (2000). When the words won't come:
+Relating impairments and models of spoken word production. In L. Wheeldon (Ed.), Aspects of language production
+(pp. 115-142). Hove: Psychology Press.
+Oden, G. C., & Spira, J. L. (1983). Influence of context on the activation and selection of ambiguous word senses. The
+Quarterly Journal of Experimental Psychology Section A, 35,
+51-64. doi:10.1080/14640748308402116
+Onifer, W., & Swinney, D. A. (1981). Accessing lexical ambiguities
+during sentence comprehension: Effects of frequency of
+meaning and contextual bias. Memory and Cognition, 9(3),
+225-236. doi:10.3758/BF03196957
+
+1214
+
+E. SHETREET ET AL.
+
+Osterhout, L., Holcomb, P. J., & Swinney, D. A. (1994). Brain
+potentials elicited by garden-path sentences: Evidence of
+the application of verb information during parsing. Journal
+of Experimental Psychology: Learning, Memory, and
+Cognition, 20, 786-803. doi:10.1037/0278-7393.20.4.786
+Prather, P. A., & Swinney, D. A. (1988). Lexical processing and
+ambiguity resolution: An autonomous process in an interactive box. In S. L. Small, G. W. Cottrell, & M. K. Tanenhaus (Eds.),
+Lexical ambiguity resolution (pp. 289-310). San Mateo, CA:
+Morgan Kaufman.
+Rodd, J. M., Davis, M. H., & Johnsrude, I. S. (2005). The neural
+mechanisms of speech comprehension: fMRI studies of
+semantic ambiguity. Cerebral Cortex, 15(8), 1261-1269.
+doi:10.1093/cercor/bhi009
+Rodd, J. M., Longe, O. A., Randall, B., & Tyler, L. K. (2010). The
+functional organisation of the fronto-temporal language
+system: Evidence from syntactic and semantic ambiguity.
+Neuropsychologia,
+48(5),
+1324-1335.
+doi:10.1016/j.
+neuropsychologia.2009.12.035
+Schmauder, A. R. (1991). Argument structure frames: A lexical
+complexity metric?. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 17, 49-65.
+Schmauder, R., Kennison, S., & Clifton, C. (1991). On the conditions necessary for obtaining argument structure complexity effects. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 17, 1188-1192. doi:10.1037/02787393.17.6.1188
+Seidenberg, M. S., Tanenhaus, M. K., Leiman, J. M., & Bienkowski,
+M. (1982). Automatic access of the meanings of ambiguous
+words in context: Some limitations of knowledge-based processing. Cognitive Psychology, 14(4), 489-537. doi:10.1016/
+0010-0285(82)90017-2
+Shapiro, L. P., Gordon, B., Hack, N., & Killackey, J. (1993). Verb
+argument processing in complex sentences in Broca and
+Wernicke's aphasia. Brain and Language, 45, 423-447.
+Shapiro, L. P., & Levine, B. A. (1990). Verb processing during sentence comprehension in aphasia. Brain and Language, 38,
+21-47. doi:10.1016/0093-934X(90)90100-U
+Shapiro, L. P., Nagel, H. N., & Levine, B. A. (1993). Preferences for
+a verb's complements and their use in sentence processing.
+Journal of Memory and Language, 32(1), 96-114. doi:10.1006/
+jmla.1993.1006
+Shapiro, L. P., Zurif, E. B., & Grimshaw, J. (1987). Sentence processing and the mental representation of verbs. Cognition,
+27, 219-246. doi:10.1016/S0010-0277(87)80010-0
+Shapiro, L. P., Zurif, E. B., & Grimshaw, J. (1989). Verb processing
+during sentence comprehension: Contextual impenetrability. Journal of Psycholinguistic Research, 18, 223-243.
+Shetreet, E., & Friedmann, N. (2014). The processing of different
+syntactic structures: fMRI investigation of the linguistic distinction between wh-movement and verb movement.
+Journal of Neurolinguistics, 27, 1-17. doi:10.1016/j.
+jneuroling.2013.06.003
+Shetreet, E., Friedmann, N., & Hadar, U. (2009). An fMRI study of
+syntactic layers: Sentential and lexical aspects of embedding.
+NeuroImage, 48, 707-716. doi:10.1016/j.neuroimage.2009.
+07.001
+Shetreet, E., Friedmann, N., & Hadar, U. (2010). The cortical representation of verbs with optional complements: The theoretical contribution of fMRI. Human Brain Mapping, 31, 770-
+785. doi:10.1002/hbm.20904.
+
+Shetreet, E., Palti, D., Friedmann, N., & Hadar, U. (2007). Cortical
+representation of verb processing in sentence comprehension: Number of complements, subcategorization and thematic frames. Cerebral Cortex, 17, 1958-1969. doi:10.1093/
+cercor/bhl105
+Snijders, T. M., Vosse, T., Kempen, G., Van Berkum, J. J.,
+Petersson, K. M., & Hagoort, P. (2009). Retrieval and unification of syntactic structure in sentence comprehension: An
+fMRI study using word-category ambiguity. Cerebral Cortex,
+19, 1493-1503. doi:10.1093/cercor/bhn187
+Swinney, D. A. (1979). Lexical access during sentence comprehension: (Re) consideration of context effects. Journal of
+Verbal Learning and Verbal Behavior, 18(6), 645-659. doi:10.
+1016/S0022-5371(79)90355-4
+Swinney, D. A. (1982). The structure and time-course of information interaction during speech comprehension: Lexical
+segmentation, access, and interpretation. In J. Mehler,
+E. C. T. Walker, & M. Garrett (Eds.), Perspectives on mental representation (pp. 151-167). Hillsdale, NJ: Erlbaum.
+Swinney, D., Zurif, E., & Nicol, J. (1989). The effects of focal brain
+damage on sentence processing: An examination of the
+neurological organization of a mental module. Journal of
+Cognitive Neuroscience, 1(1), 25-37. doi:10.1162/jocn.1989.1.
+1.25
+Tanenhaus, M. K., Leiman, J. M., & Seidenberg, M. S. (1979).
+Evidence for multiple stages in the processing of ambiguous
+words in syntactic contexts. Journal of Verbal Learning and
+Verbal Behavior, 18, 427-440. doi:10.1016/S0022-5371(79)
+90237-8
+Thivierge, J. P., Titone, D., & Shultz, T. R. (2005). Simulating frontotemporal pathways involved in lexical ambiguity resolution. In Proceedings of the twenty-seventh annual
+conference of the cognitive science society (pp. 2178-2183).
+Mahwah, NJ: Erlbaum.
+Thompson, C. K., Lange, K. L., Schneider, S. L., & Shapiro, L. P.
+(1997). Agrammatic and non-brain-damaged subjects' verb
+and verb argument structure production. Aphasiology, 11,
+473-490. doi:10.1080/02687039708248485
+Trueswell, J. C., & Kim, A. E. (1998). How to prune a garden path
+by nipping it in the bud: Fast priming of verb argument
+structure. Journal of Memory and Language, 39(1), 102-123.
+doi:10.1006/jmla.1998.2565
+Trueswell, J. C., Tanenhaus, M. K., & Kello, C. (1993). Verb-specific
+constraints in sentence processing: Separating effects of
+lexical preference from garden-paths. Journal of
+Experimental Psychology: Learning, Memory, and Cognition,
+19, 528-553. doi:10.1037/0278-7393.19.3.528
+van Valin, R. D. (2001). An introduction to syntax. Cambridge:
+Cambridge University Press.
+
+Appendix. Verbs used in the experiment
+One-option verbs: Baha (stared), Hizik (harmed), Hicxik (cause
+laugh), Nigash (approached), Nitkal (ran into), Shavar (broke),
+Shiper (improved), Xibek (hugged).
+Multiple-option verbs: Hexlit (decided), Hicta'er (was sorry),
+Hishtokek (desired), Hit'akesh (insisted), Hixriz (announced),
+Nakat (implemented), Zaxar (remembered).
+
+

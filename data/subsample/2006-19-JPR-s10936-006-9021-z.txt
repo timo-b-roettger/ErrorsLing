@@ -1,0 +1,1327 @@
+J Psycholinguist Res (2006) 35:385-403
+DOI 10.1007/s10936-006-9021-z
+O R I G I NA L A RT I C L E
+
+Argument Status and PP-Attachment
+Julie E. Boland * Allison Blodgett
+
+Published online: 13 July 2006
+(c) Springer Science+Business Media, Inc. 2006
+
+Abstract Prepositional phrase attachment was investigated in temporarily ambiguous sentences. Both attachment site (noun phrase or verb phrase) and argument
+status (argument or adjunct) were manipulated to test the hypothesis that arguments
+are processed differently than adjuncts. Contrary to this hypothesis, some previous
+research suggested that arguments and adjuncts are initially processed in the same
+manner, following a general bias to attach prepositional phrases to the verb phrase
+whenever possible [Clifton, Speer, & Abney (1991) Journal of Memory and Language,
+30, 251-271]. The current study supports the hypothesis for differential processing,
+even during the initial stages of syntactic analysis. In an eye movement experiment,
+readers spent less first-pass time on argument prepositional phrases (PPs) than adjunct
+PPs. The results support a view in which a noun's or verb's argument structure can
+facilitate the analysis of its arguments.
+Keywords Parsing * Sentence comprehension * Syntactic ambiguity *
+Prepositional phrase attachment.
+Introduction
+The interface between lexical and syntactic processing is a central issue in current
+theories of sentence processing, and the distinction between arguments and adjuncts
+This research was supported by NSF grants SBR-9729056 and SBR-9720473 to the first author. We
+gratefully thank Gerry Altmann, Rick Lewis, Brian McElree, Don Mitchell, Neal Pearlmutter, Shari
+Speer, and Suzanne Stevenson for useful discussions and helpful comments. We would also like to
+acknowledge the Rutgers University Center for Cognitive Science, where the eye movement data
+were collected and an initial draft of the paper was written.
+J. E. Boland (B)
+Department of Psychology, University of Michigan,
+525 E. University, Ann Arbor, MI 48109-1109, USA
+e-mail:jeboland@umich.edu
+A. Blodgett
+The Ohio State University, Columbus, OH 43210-1174, USA
+
+386
+
+J Psycholinguist Res (2006) 35:385-403
+
+lies at the heart of the debate. In brief, arguments and adjuncts are dependent phrases
+that are embedded within a larger constitutent, such as a noun phrase (NP) or verb
+phrase (VP). While arguments serve as fundamental participants within those larger
+phrases, adjuncts do not. Some approaches maintain that both argument and adjunct
+attachment sites (as well as most other syntactic knowledge) are stored lexically (e.g.,
+MacDonald, Pearlmutter, & Seidenberg, 1994; Trueswell, Tanenhaus, & Garnsey,
+1994). Other approaches maintain a strict division between global and lexical syntactic knowledge (e.g., Ferreira & Henderson, 1990; Frazier, 1987; Mitchell, 1989). The
+first approach makes predictions about processing difficulty based on lexical preferences (e.g., How frequently does sent occur with an indirect object?). The second
+approach posits a privileged role for globally represented syntactic knowledge and
+therefore predicts broad structural preferences, such as that embodied by minimal
+attachment (Frazier, 1978). Intermediate positions are also possible; for example,
+arguments might be represented lexically, but not adjuncts (e.g., Boland & BoehmJernigan, 1998).
+The argument/adjunct distinction is important in many linguistic theories, although
+there is disagreement as to whether the argument/adjunct distinction is binary or
+even categorical (e.g., Grimshaw, 1990; Kegl & Fellbaum, 1988). Within theories that
+maintain a distinction between arguments and adjuncts, only arguments are lexically
+specified by their heads. At a minimum, the lexical representation of the head includes
+a subcategorization frame that marks the syntactic category of each argument. For
+example, sent can subcategorize for a direct object NP and an indirect object prepositional phrase (PP). The semantic content of an argument is limited by selectional
+restrictions and by thematic role assignments made by the head. Thus, the semantic
+contribution of an argument depends in part on the particular head with which it is
+associated. For example, in The bully sent a threatening letter to Harry, the interpretation of Harry as a recipient depends upon the dative verb. When the verb does not
+subcategorize for a to-PP, Harry is interpreted as merely a location (e.g., The bully
+stapled a threatening letter to Harry).
+In contrast, adjuncts are traditionally not subcategorized for by lexical heads. An
+adjunct can appear after a wide range of heads while maintaining a consistent semantic contribution across those heads. For example, during the night will have the same
+meaning following either sent or stapled. Furthermore, a similar contribution could
+be made by dependent phrases of several other syntactic types (e.g., NP: this evening;
+Adverb:recently). In (1), the PP to his son is an argument because a giving event must
+specify a recipient. The head (gave) specifies both the syntactic category of this phrase
+and the thematic role assigned by the preposition to (recipient). During the afternoon,
+however, is an adjunct because time is not central to the event denoted by the verb.
+If the afternoon receives a thematic role in (1), it is assigned by the preposition during.
+(1)
+
+John gave a letter to his son during the afternoon.
+
+Syntactic categories other than verbs may also take arguments and adjuncts. For
+example, in (1), the afternoon is an argument of the preposition during. In (2), for
+lobsters is an argument of the noun fondness, while from Maine is an adjunct of the
+noun lobsters.
+(2)
+
+Her fondness for lobsters from Maine was obvious.
+
+The argument/adjunct distinction may have a structural component. For theories
+that use an X-bar framework, there are different attachment sites for the two types
+
+J Psycholinguist Res (2006) 35:385-403
+
+387
+
+VP
+
+Fig. 1 Traditional X-bar
+structure contrasting argument
+(PP-arg) and adjunct (PP-adj)
+attachment sites within a verb
+phrase
+
+V'
+
+V'
+
+V
+
+NP-arg
+
+PP-adj
+
+ate
+
+a hot dog
+
+at the Clippers game
+
+of phrases (Chomsky, 1986, 1995; Jackendoff, 1977). As shown in Fig. 1, arguments
+are attached as sisters to the heads that subcategorize for them, whereas adjuncts are
+attached as sisters to the intermediate phrasal category that the head projects. However, such a structural distinction is not universally accepted. Argument and adjunct
+attachments are not differentiated in the strictly binary branching structures of Pesetsky's Layered Syntax (1995), in Head-driven Phrase Structure Grammar (HPSG;
+Pollard & Sag, 1994), and in Combinatorial Categorial Grammar (CCG; Steedman,
+1996). In the latter two approaches, arguments are characterized as phrases that are
+selected by heads, while adjuncts are characterized as phrases that select heads.
+Despite the linguistic debate, hypotheses about the representation and processing
+of arguments and adjuncts feature prominently in many psycholinguistic proposals
+(Abney, 1989; Boland & Boehm-Jernigan, 1998; Boland & Lewis, 1998; Frazier &
+Clifton, 1996; Schutze & Gibson, 1999; Stevenson, 1998). For example, MacDonald et
+al. (1994) argued that all phrases, not just those typically considered to be arguments,
+are lexically specified by their heads. Under this account, phrases that are classified as
+arguments in other models simply occur more frequently with their heads than phrases
+that are traditionally classified as adjuncts. As a result, "arguments" are more strongly
+represented in the lexical entries of the relevant heads, but have the same syntactic and
+semantic status as "adjuncts." We'll call this the Pure Frequency Hypothesis, or PFH.
+MacDonald et al. advocated a highly lexicalized mode of parsing, in which structural
+fragments are accessed during word recognition and joined together to form sentence
+structure. For example, upon hearing John gave, all the argument/adjunct structures
+associated with gave would be accessed, with the more frequent argument/adjunct
+structures more strongly available. The PFH predicts that direct and indirect object
+arguments will be attached more easily than locative and temporal adjuncts, simply
+because the arguments co-occur with gave more frequently and are, therefore, more
+strongly weighted among the possible argument/adjunct structures.
+In contrast, Boland and Boehm-Jernigan (1998) proposed that argument and
+adjunct PPs are attached via different mechanisms. In their proposal, argument
+attachment sites are processed just as in the PFH: they are generated during lexical access, and ease of argument attachment is mediated by the relative frequencies of ranked, competing verb forms (the competitors of moved include [Vpast ],
+[Vpast <NP>], [Vpast <NP PP>], and [Vpastparticiple ]). But contrary to the PFH,
+adjunct attachment sites are not lexically represented, and adjunct attachments must
+
+388
+
+J Psycholinguist Res (2006) 35:385-403
+
+therefore be accomplished via non-lexicalized syntactic rules. We call this the
+Argument Structure Hypothesis, or ASH.
+ASH predicts argument/adjunct differences at the earliest stage of processing.
+Consider the examples in (3). Let us assume that offered lexically specifies a PP-to
+recipient as an argument and exemptions lexically specifies a PP-from source argument.
+Upon hearing The agency offered..., a prepositional dative structure <NP-theme PPto-recipient> would be made available, along with a double object structure <NPrecipient NP-theme> and any other structures associated with offered. The availability
+of each structure is initially a function of its frequency for that lexical item. Thus, if the
+prepositional dative is a frequent form, it would be strongly available. The next NP,
+some exemptions, would be easily incorporated with this prepositional dative structure, as would the preposition to in (3a). At the same time, grammatical rules would
+postulate options in which to heads a NP-attached PP adjunct and a VP-attached PP
+adjunct, but these options would not be activated as strongly as the prepositional
+dative. Upon recognition of exemptions, a < PP-from > frame would have been activated, and it would be supported by the preposition from in (3b) and (3c), but it would
+not have been supported by the prepositions in (3a) or (3d).
+(3)
+
+The agency offered some exemptions ...
+a. ...to the business (VP argument)
+b. ...from the start (VP adjunct)
+c. ...from the rules (NP argument)
+d. ...over ten dollars (NP adjunct)
+
+Frazier and Clifton (1996) made almost the opposite proposal from ASH. They suggested that "primary" phrases (essentially arguments and their heads) are analyzed
+using global structural principles, such as minimal attachment, while adjuncts are
+"associated" using detailed lexical information and real world knowledge. Because
+phrases that might or might not be primary are first analyzed as primary phrases,
+argument/adjunct differences would not be predicted in the initial analysis of the
+PPs investigated here; Frazier and Clifton explicitly claimed that PPs in V-NP-PP
+constructions are initially minimally attached to the VP.
+Some experimental research seems to support the minimal attachment view. Clifton, Speer, and Abney (1991) (See also Speer & Clifton, 1998) manipulated attachment site and argument status as shown in (4), with the attachment site boldfaced.
+VP-attached PPs were read faster than NP-attached PPs, but argument status had
+no effect until the region after the PP, where argument conditions were faster than
+adjunct conditions. Clifton et al. suggested that a PP is initially attached to the VP
+(as an argument) using a minimal attachment strategy. When detailed lexical information was consulted to check the attachments, adjuncts and NP arguments had to
+be reanalyzed, causing the late effect of argument status.
+(4) a.
+b.
+c.
+d.
+
+The saleswoman tried to interest the man in a wallet ... (VP argument)
+The man expressed his interest in a wallet ... (NP argument)
+The man expressed his interest in a hurry ... (VP adjunct)
+The saleswoman tried to interest the man in his fifties ... (NP adjunct)
+
+There are several reasons to be cautious in adopting this conclusion. First, only 12
+of their 16 items passed tests for argument status (Schutze & Gibson, 1999), and some
+of those 12 seem like borderline arguments to us. Examples include arranged the ceremony with a minister, disgusted the woman with his dirty diapers, tapped his cane on the
+
+J Psycholinguist Res (2006) 35:385-403
+
+389
+
+door, and vaccinated the young Americans for the flu in the VP argument stimuli, and
+arrangements with a minister, disgust with a dirty baby, andtap on the door in the NP
+argument stimuli. Second, the argument-assigning verbs (interest in [4a]) used in their
+experiment occur most frequently as past participles (76%), rather than as simple past
+tense verbs (24%; See Table 1). This is relevant because the two verb forms select
+different arguments and assign different thematic roles.1 If an argument attachment
+is affected by the frequency of the lexical structure that provides that attachment
+site, one is unlikely to find an advantage for arguments over adjuncts unless one uses
+verbs and nouns that frequently select the arguments being investigated. Clifton et
+al.'s failure to find early effects of argument status may have been because lexical
+competitors (i.e., past participle forms) were more strongly available than the needed
+form [Vpast <NP PP>]. Third, Clifton et al. (1991) embedded their VP argument and
+NP adjunct PPs in infinitive clauses, constructions that are syntactically more complex
+than those containing the VP adjunct and NP argument PPs. Lastly, other researchers
+have found effects of argument status (e.g., Britt, 1994; Schutze & Gibson, 1999).
+
+Normative Studies
+We compared the processing of VP- and NP-attached arguments and adjuncts in a
+two-by-two factorial design, using sentences like those in (5). Our materials differed
+from Clifton et al.'s (1991) in several respects. First, a corpus search conducted on our
+verbs demonstrated that the past participle forms were not more frequent than the
+simple past forms. This change was implemented to insure that the [Vpast <NP PP>]
+form of the verbs was at least as accessible as the past participle form. Both the verbs
+and direct object nouns in our materials frequently selected their PP arguments, and
+normative data demonstrated that even though our argument and adjunct PPs were
+equally plausible, the argument PPs were preferred. Second, most of our verbs were
+chosen from Levin's (1993) dative classes, and our noun and verb arguments passed
+a battery of linguistic tests for argument status, as in Schutze and Gibson (1999). Our
+VP adjuncts functioned as adverbs, most commonly expressing temporal information,
+and our NP adjuncts frequently expressed location or other descriptive information.
+(5) The environmental agency ...
+a. ... offered some exemptions to the business, this year (VP argument)
+b. ... offered some exemptions from the law, this year (NP argument)
+c. ... offered some exemptions from the start, this year (VP adjunct)
+d. ... offered some exemptions over ten dollars, this year (NP adjunct)
+Corpus Analyzes
+We used both the Brown and the parsed Wall Street Journal (WSJ) databases in
+the Penn Treebank corpora to conduct several normative analyzes. First, we estimated the frequency of the past participle forms, relative to simple past tense forms,
+for verbs in our own materials and in the materials from three other studies, We
+1 For example, in the simple past form (The woman interested Chris), interest assigns the role of theme
+(object of interest) to its subject and the role of patient (affected participant) to its direct object. In
+the past participle form (The woman interested in Chris left), woman and Chris have swapped roles,
+and the syntactic properties of interest's arguments have changed also. The subject of interested is an
+empty category co-indexed with woman, and the post-verb entity is in a PP rather than a NP.
+
+390
+
+J Psycholinguist Res (2006) 35:385-403
+
+Table 1 The proportion (and SD) of Past Participle Verb Forms out of the Sum of Simple Past Tense
+and Past Participle Verb Forms, by Corpus and Experiment
+Current Experiment: all 16 verbs
+Clifton et al. (1991)
+Argument assigning verbs
+(14/16 in Brown, 15/16 in WSJ)
+Non-argument assigning verbs
+(16/16 in Brown, 15/16 in WSJ)
+Britt (1994): all 15 verbs
+Schutze and Gibson (1999): all 15 verbs
+
+BROWN
+0.58 (0.25)
+
+WSJ
+0.39 (0.32)
+
+COMBINED
+0.49 (0.25)
+
+0.78 (0.22)
+
+0.74 (0.31)
+
+0.76 (0.24)
+
+0.51 (0.31)
+
+0.46 (0.32)
+
+0.47 (0.29)
+
+0.51 (0.30)
+0.62 (0.22)
+
+0.43 (0.29)
+0.52 (0.32)
+
+0.47 (0.29)
+0.55 (0.49)
+
+WSJ, represents the Wall Street Journal corpus of the Penn Treebank.
+
+searched on the orthographic string for each verb and calculated the proportion of
+past participles out of the total number of simple past and past participle forms. The
+results are summarized in Table 1. In our study, we use the same verb across conditions within each item, while Clifton et al. (1991) used different verbs within items
+for the VP argument and VP adjunct conditions.2 There was a higher proportion of
+past participles in Clifton et al.'s argument assigning verbs compared to our verbs
+[t(29) = 3.43, p < 0.01],3 which were comparable to Clifton et al. non-argument
+assigning verbs. In fact, for the verbs in the Clifton et al. VP argument condition, the
+past participle forms were about three times more frequent than the simple past tense
+forms. Thus, it is not surprising that the effects of argument status were seen late in
+the Clifton et al. study. With less interference from the participle forms in the current
+experiment, however, we expect argument effects to dominate attachment site in the
+early measures. In our materials, the proportions of past participle forms are comparable to those for the critical verbs from Schutze and Gibson (1999) and Britt (1994)
+[ts < 0.8, p > 0.10], who each found a privileged role for the processing of arguments.
+Second, we estimated the frequency with which our verbs and direct object nouns
+are used with argument and adjunct PPs of the type used in our study. We searched
+each corpus on the orthographic string for each verb and counted tokens that were
+exact matches to our materials. Then we searched for each direct object noun and
+again counted only exact matches. For both verbs and nouns, if there were more than
+200 matches, we used the first 200 tokens. We omitted one noun (tattoos) and five verbs
+(withheld, concealed, hid, mailed, and communicated) from further analysis because
+each resulted in fewer than six matches. For each set of verb and noun tokens, we
+examined tokens that were modified by a PP and calculated the probability of an argument or adjunct PP of the same type used in our critical stimuli. We classified PP types
+in two ways. First, for each verb and noun, we calculated the proportion of tokens that
+were modified by a PP having the same participatory role (e.g., marking the recipient,
+location, or time) as the argument or adjunct PP in our critical materials. Next, we
+calculated the proportion of tokens with PPs of the same preposition as our argument
+or adjunct PP. To obtain the most stable estimate of argument/adjunct frequency, we
+2 For the Clifton et al. materials, there were no matches for vaccinated in either Brown or WSJ; there
+were no matches for exempted in Brown and none for preached in WSJ.
+3 All proportions underwent an arcsine transform prior to any parametric test, throughout the paper.
+
+J Psycholinguist Res (2006) 35:385-403
+
+391
+
+combined the data from the Brown and WSJ corpora by summing the raw counts for
+a given item before calculating the proportion of singular nouns and simple past tense
+verbs that occurred with argument and adjunct PPs having the same role and/or the
+same preposition as our target PPs. These data are summarized in Appendix A.
+We submitted each of three variables in Appendix A to a 2 (verb or noun) x 2
+(argument or adjunct) Analyzes of Variance (ANOVA). The frequency of the head
+was not affected by either head type or argument status, although after undergoing a
+log transform, the frequencies were reliably higher for verbs than nouns [F2(1, 29) =
+4.89, p < 0.05]. The proportion of PPs with the same role was higher for nouns compared to verbs [F2(1, 29) = 8.57, p < 0.01] and higher for arguments compared to
+adjuncts [F2(1, 29) = 21.24, p < 0.01]. The two variables also interacted [F2(1, 29) =
+5.02, p < 0.05]; the highest proportion of PPs with the same role were in the noun argument condition. When considering the proportion of PPs by preposition, the results
+were the same. There were main effects of head type [F2(1, 29) = 6.52, p < 0.05] and
+argument status [F2(1, 29) = 23.64, p < 0.01], and an interaction between the two
+[F2(1, 29) = 6.69, p < 0.05].
+Forced-choice Judgments
+We collected forced-choice judgments to determine how strongly readers prefer to
+have an explicit PP argument for each verb and noun in our study. For each critical
+item, the VP + PP argument and NP + PP argument fragments were paired with PP
+argumentless fragments using the same noun or verb. The examples in (6) and (7) list
+the argument fragments first. The adjunct PP was not necessarily the same as the target
+adjunct, so this measure does not provide an indicator of adjunct bias. In the norming
+study, the pairs were randomly ordered on a list (together with 32 pairs of fillers that
+varied in syntactic complexity and form), and within half of the critical pairs, the argument alternative was presented first. We created a second list by reversing the order
+within each pair. Forty-two students from The Ohio State University were instructed
+to read each pair of fragments and choose the one that sounded more natural. All
+participants received credit in undergraduate, introductory psychology or linguistics
+classes in exchange for their participation, and all were native speakers of English.
+(6)
+
+Verb example pair
+a. The police detective proposed a search to the captain.
+b. The police detective proposed a search for a day.
+
+(7)
+
+Noun example pair
+a. There was a search for a weapon.
+b. There was a search through the city.
+
+As we expected, there was an overall preference for the fragments containing PP
+arguments in both the verb (73%) and noun (68%) conditions. The difference between
+the noun and verb scores was not significant [t(30) = 0.53, p > 0.10]. Thus, the results
+suggested that, in our materials (in contrast to the Clifton et al., 1991, materials),
+the PP argument forms of the verbs and nouns were more accessible than competing
+forms without PP arguments, and that the verbs and nouns were comparably biased
+toward taking PP arguments.
+
+392
+
+J Psycholinguist Res (2006) 35:385-403
+
+Naturalness Ratings
+The 16 critical items were randomized with 59 fillers and presented to students as
+one of four balanced lists. Forty students from The Ohio State University (10 per list)
+rated the naturalness of each sentence as a description of an event or situation on a
+scale ranging from 1 (very unnatural) to 7 (very natural). The mean scores (and standard deviations) were 4.04 (0.48) and 3.67 (0.50) for the VP argument and adjunct
+conditions, respectively, and 3.99 (0.57) and 3.76 (0.66) for the NP argument and
+adjunct conditions. Argument conditions were rated as slightly better descriptions
+than adjunct conditions [F(1, 12) = 8.502, p < 0.05] in a 4(list) x 2(argument status)
+x 2(attachment site) ANOVA by items, but there were no effects of attachment site
+(Fs < 0.1). The argument preference is predicted by the corpus analysis and forced
+choice judgments, which both demonstrated that the argument-selecting form of the
+verbs and nouns were more accessible than alternative forms without PP arguments.
+Plausibility Ratings
+Both the naturalness ratings and the forced-choice judgments suggested that our head
+nouns and verbs are most naturally used with an argument. Thus, it is not possible to
+match the argument and adjunct conditions for naturalness. We can, however, match
+argument and adjunct conditions on real world plausibility. To estimate plausibility, 40
+students from Rutgers University (10 per list) were asked to rate the likelihood of the
+event in the sentence occurring in the real world, on a scale of 1 (likely) - 7 (unlikely).
+The 16 critical items were randomized with 44 filler sentences, and four lists were
+created. Each item appeared only once per list, and conditions were balanced within
+and across lists. Following Schutze and Gibson (1999), all critical and filler sentences
+were presented in the passive voice (e.g., Many cuts in the staff were announced by the
+administrator) in order to eliminate any potential structural ambiguity. NP-attached
+PPs always followed the subject. VP-attached PPs occurred either after the verb or
+at the end of the sentence, whichever sounded more natural (e.g., Many cuts were
+announced in the meeting by the administrator, but Some exemptions were offered by
+the environmental agency from the start).
+The mean scores (and standard deviations) for the VP argument and adjunct conditions were 2.91 (0.83) and 2.94 (0.84), respectively. The corresponding scores for
+the NP argument and adjunct conditions were 2.78 (1.00) and 3.11 (0.78). In 4(list) x
+2(argument status) x 2(attachment site) repeated measures ANOVAs conducted over
+participant (F1) and item (F2) means, there was no effect of attachment site [Fs < 1.0]
+or argument status [F1(1, 36) = 2.23, p = 0.14; F2(1, 12) = 1.50, p = 0.24], and
+no interaction between the two [Fs < 1.1]. Therefore, any effects of argument status
+obtained in the reading time data are unlikely to be due to differences in plausibility.
+Eye Movement Study
+This experiment was designed to test the prediction that argument PPs would be
+processed more easily than adjunct PPs. This argument status effect is predicted both
+by the PFH and by ASH. The PFH predicts an argument advantage because arguments co-occur more frequently with their heads, and thus a lexical structure with
+the appropriate attachment site will be more strongly available. ASH predicts an
+argument advantage because only argument PPs are lexically specified, and, if they
+
+J Psycholinguist Res (2006) 35:385-403
+
+393
+
+occur frequently, they are likely to be selected over rule-generated adjunct options.
+No effects of attachment site are predicted by ASH, although such an effect was
+predicted by Clifton et al. (1991). Secondarily, we had hoped to test the prediction
+that ease of argument attachment, but not adjunct attachment, would be correlated
+with the argument/adjunct frequency for a given head noun or verb. The PFH would
+predict that ease of PP processing is always a function of the co-occurrence frequency
+between the PP type and the head noun/verb. Unfortunately, differential frequency
+patterns between arguments and adjuncts were found, as described in the Corpus
+Analysis section above. We will return to this issue in the Discussion and explain why
+we could not adequately test hypotheses about the correlation between processing
+load and argument/adjunct frequency.
+Methods
+Participants
+Thirty-two students from Rutgers University participated either for credit in an undergraduate, introductory psychology class, or for a nominal sum. All were native speakers of English, who had normal vision or vision corrected to normal with soft contacts.
+Materials
+We developed 16 sets of sentences like the example in (5), repeated here as (6). The
+full set of critical stimuli is in Appendix B. For every item, the verb remained constant
+across all four conditions, and for 11 items, the same was true of the direct object
+NP. The mean frequency (Francis & Kucera, 1982) of the direct object NP was 58 in
+the first three conditions and 54 in the NP adjunct condition. The length averaged 8.5
+characters in the first three conditions and 8.1 characters in the NP adjunct condition.
+The preposition varied across the four conditions, though the same preposition was
+used in the NP argument and VP adjunct conditions in 15 out of the 16 items.4 The
+noun in the PP also differed across the four conditions. Length and frequencies (Francis & Kucera, 1982) for the noun are provided in Table 2. The nouns in the critical PP
+of the two argument conditions were less frequent, averaging 159.5, than the nouns in
+the two adjunct conditions, which averaged 191.5 Mean length was almost identical:
+6.45 for argument conditions, 6.40 for adjunct conditions.
+(8)
+
+The environmental agency | ...
+a. ... offered | some exemptions | to the business, | this year (VP argument)
+b. ... offered | some exemptions | from the law, | this year (NP argument)
+c. ... offered | some exemptions | from the start, | this year (VP adjunct)
+d. ... offered | some exemptions | over ten dollars, | this year (NP adjunct)
+
+The 16 critical items and 120 filler sentences were randomized, and four lists were
+created. Fifty-three of the filler sentences contained semantic and/or syntactic anomalies from unrelated experiments. Yes/no comprehension questions were created for
+one-third of the items. Each item appeared only once per list, and conditions were
+4 The VP adjunct option may have been somewhat discriminated against if it had to compete against
+an argument option. Counter to this, however, the direct object was a definite NP in 11 of 16 items. Altmann and Steedman (1988), Crain (1980), and Crain and Steedman (1985) have argued that definite
+NPs bias reading time results toward VP-attachment.
+
+394
+Table 2 Length and
+Frequency of the Noun in the
+Critical PP
+
+J Psycholinguist Res (2006) 35:385-403
+Condition
+
+Length
+
+Frequency
+
+VP argument
+NP argument
+VP adjunct
+NP adjunct
+
+7.0
+5.9
+6.2
+6.6
+
+172
+147
+240
+143
+
+balanced within and across lists. For data analysis, each critical item was divided into
+five regions, separated by vertical bars in (8). The first region contained the subject
+NP, the second region contained the verb, the third region contained the direct object
+NP, the fourth region contained the PP, and the fifth region contained the final two
+words, usually a temporal NP or adverbial phrase.
+Procedure
+A dental impression was made for each research participant and attached to a "bite
+bar" in order to hold the participant's head in a fixed position. We also used a stationary headrest and an adjustable chin-rest to help secure the head in a comfortable
+fashion. Eye fixations were measured using a Dr. Bouis monoculor oculometer. The
+device provides two voltage outputs, corresponding to eye position along the X and
+Y-axes. The sensor of the apparatus was first roughly aligned by mechanical means.
+It was then further adjusted to give zero-output voltages when the participant looked
+straight ahead, as well as balanced positive and negative voltages when the participant
+looked at equidistant points along the X and Y-axes. The experimenter then ran a
+calibration routine during which the participant was asked to fixate on nine disparate
+points on the computer screen in order to establish the relationship between X/Y
+voltages and screen position. Unless this could be done with an error rate of less than
+10 pixels in each dimension, the experiment was aborted.
+After successful calibration, participants began a series of 10 practice trials. The participants were simply instructed to read each sentence as it appeared, and be prepared
+to answer comprehension questions after some of the trials. Half of the practice trials
+were followed by a yes/no comprehension question; participants pressed a button to
+indicate their answer. The set-up was re-calibrated between the practice trials and
+the main experiment, using the same criterion. During the experiment, analog eye
+position was digitized (1 kHz) and converted to screen coordinates. Each sentence
+was presented on the screen in its entirety, on a single line. One-third of trials in
+the actual experiment were followed by a yes/no comprehension question. None of
+the questions addressed the attachment of the PP. For each trial, the screen position
+and duration of each fixation were computed and stored. The set-up was recalibrated
+periodically during the experiment to ensure accurate tracking of the eye movements.
+The experiment took less than an hour.
+
+Results
+We computed four dependent measures in each of the regions that were outlined
+in (8). We calculated the duration of the first fixation, the duration of all first pass
+fixations (i.e., summing together multiple fixations in a region so long as there were
+no intervening saccades to another region), and total reading time (i.e., summing
+
+J Psycholinguist Res (2006) 35:385-403
+
+395
+
+together all first and secondary pass fixations). Because the PPs differed in length,
+we also calculated an adjusted first pass fixation measure (as in Ferreira & Clifton,
+1986; Garnsey, Pearlmutter, Myers, & Lotocky, 1997; and many others). We computed
+the average reading time per character for each participant and used the slope and
+intercept to predict the amount of time that would be spent in a region if length were
+the only relevant factor.
+The data from each critical region are summarized, for each of the dependent
+measures, in Tables 3 - 5. The three regions of interest were the direct object region,
+the PP region, and the final region. In general, we expected effects to emerge in the
+PP region. We submitted each dependent measure to a 4(list) x 2(argument status:
+argument or adjunct) x 2(attachment site: NP- or VP-attached) x 3(region) repeated
+measures ANOVA, once using the participant means as input and once using the item
+means.5
+Table 3 Mean First Fixation
+Durations in Milliseconds (ms)
+for the Regions Immediately
+Before, During, and After
+the PP
+
+First fixation durations (ms) by region and condition
+
+VP argument
+NP argument
+VP adjunct
+NP adjunct
+
+Direct object
+
+PP
+
+Final
+
+258
+249
+279
+249
+
+232
+246
+255
+244
+
+268
+267
+292
+290
+
+Table 4 Unadjusted (ms) and Adjusted (Deviations from Predicted in ms) Mean First Pass Fixation
+Durations for the Regions Immediately Before, During, and After the PP
+First pass durations (ms) by region and condition
+
+VP argument
+NP argument
+VP adjunct
+NP adjunct
+
+Direct object
+
+PP
+
+Final
+
+424
+456
+478
+480
+
+399
+409
+445
+515
+
+578
+586
+567
+596
+
+Adjusted first pass durations (dev from predicted in ms) by region and condition
+VP argument
+NP argument
+VP adjunct
+NP adjunct
+
+-93.1
+-75.9
+-47.4
+-32.9
+
+-149.8
+-120.5
+-83.6
+-72.0
+
+-33.9
+-43.5
+-15.5
+5.0
+
+The first fixation data (summarized in Table 3) revealed a main effect of argument
+status, with longer fixations in the adjunct conditions [F1(1, 28) = 6.14, p < 0.05;
+F2(1, 12) = 19.59, p < 0.01]. This effect did not interact with region [Fs < 1.0],
+perhaps due to unexpectedly long fixations on the direct object in the VP adjunct condition. Individual ANOVAs conducted at each region found only one fully reliable
+effect: shorter fixations for argument conditions compared to adjunct conditions in
+the final region [F1(1, 28) = 6.96, p < 0.05; F2(1, 12) = 6.30, p < 0.05]. Surprisingly,
+there was no effect of argument for the first fixation on the PP itself [F1(1, 28) =
+5 We report the Huynh-Feldt (1976) adjusted probability values for analyzes involving three or more
+levels of word position or region as a factor. The degrees of freedom are unadjusted.
+
+396
+Table 5 Mean Total Fixation
+Durations (ms) for the
+Regions Immediately Before,
+During, and After the PP
+
+J Psycholinguist Res (2006) 35:385-403
+Total fixation durations (ms) by region and condition
+
+VP argument
+NP argument
+VP adjunct
+NP adjunct
+
+Direct object
+
+PP
+
+Final
+
+603
+644
+652
+641
+
+541
+580
+653
+722
+
+648
+719
+685
+682
+
+2.37, p > 0.10; F2(1, 12) = 2.16, p > 0.10], although our power to detect an effect of
+the observed size was 0.81 by subjects and 0.75 by items ( = 0.05 for all analyses).
+In the unadjusted first pass reading times (see the upper half of Table 4), we
+again found an effect of argument status [F1(1, 28) = 6.77, p < 0.05; F2(1, 12) =
+13.79, p < 0.01]. In addition, we found the expected interaction with region, though
+the effect was marginal in the analysis by items [F1(2, 56) = 3.21, p < 0.05; F2(2, 24) =
+3.24, p = 0.06]. In contrast to the first fixation data, the effect appeared largest in the
+PP region. This was confirmed in individual ANOVAs conducted at each region. At
+the direct object, argument status was reliable by items, but marginal by participants
+[F1(1, 28) = 3.48, p < 0.10; F2(1, 12) = 9.19, p < 0.05]. This unexpected result may
+help explain the null effect of argument at the PP in the first fixation data. If the PP
+was processed parafoveally at the direct object by some readers, then the first fixation
+on the PP itself might not reliably reflect initial parsing processes. Nonetheless, when
+all first pass fixations in the PP region were considered, the argument status effect was
+fully reliable [F1(1, 28) = 14.69, p < 0.01; F2(1, 12) = 16.67, p < 0.01]. No effects
+were found in the final region.
+The potential effect of attachment site in the overall ANOVAs approached significance in first pass reading times [F1(1, 28) = 3.91, p < 0.10; F2(1, 12) = 3.54, p <
+0.10], with NP-attached conditions slower than VP-attached conditions. Because our
+power to detect an effect of attachment was rather weak in these data ( = 0.59
+by subjects and 0.36 by items, for an effect of the observed size), and because during the PP region, the effect was reliable by participants and marginal by items
+[F1(1, 28) = 4.65, p < 0.05,  = 0.93; F2(1, 12) = 3.51, p < 0.10,  = 0.64], the
+possible attachment effect warrants a closer look. To the extent that this effect is
+real, it is reminiscent of Clifton et al.'s (1991) finding of longer reading times for NPattached PPs compared to VP-attached PPs. Such an effect was predicted by Frazier
+and Clifton (1996), because all PPs should initially be attached as VP arguments. However, when we analyzed the adjusted first pass times (see the lower half of Table 4),6
+only the main effect of argument status was preserved [F1(1, 28) = 10.38, p < 0.01;
+F2(1, 12) = 20.59, p < 0.01].
+The total reading times (see Table 5) exhibited the familiar effect of argument status
+[F1(1, 28) = 6.06, p < 0.05; F2(1, 12) = 10.76, p < 0.01], which interacted with region
+[F1(2, 28) = 6.36, p < 0.01; F2(2, 24) = 3.67, p = 0.05]. In individual ANOVAs by
+region, there were no effects in either the direct object region or the final region. But as
+expected, the argument conditions were read more quickly than the adjunct conditions
+6 These times are skewed in the negative direction because all of our sentences are perfectly grammatical, while in contrast, many of the filler sentences contained anomalies. These anomalous sentences
+did not appear to slow RTs for the critical sentences; reading rates were comparable to other eyetracking studies.
+
+J Psycholinguist Res (2006) 35:385-403
+
+397
+
+during the PP region [F1(1, 28) = 13.98, p < 0.01; F2(1.12) = 8.38, p < 0.05]. There
+was also a trend toward an effect of attachment site, with marginally faster times
+for VP-attached conditions in the overall ANOVAs [F1(1, 28) = 3.76, p < 0.10;
+F2(1, 12) = 3.80, p < 0.10]. At the PP region, this effect was marginally reliable by
+participants, but not by items [F1(1, 28) = 4.10, p = 0.05; F2(1, 12) = 2.59, p > 0.10].
+Discussion
+All four dependent measures indicate that argument attachments are easier than
+adjunct attachments, using stimuli in which the PP argument-taking form of the
+noun/verb is the dominant form. Furthermore, the effect of argument status was
+immediate. The timing of the argument effects in the first fixation and first pass data
+suggests that argument status influenced processing of the PP soon after recognition
+of the relevant words. The early influence of argument status seen in our data is incompatible with parsing heuristics such as minimal attachment that predict an advantage
+by attachment site (Frazier, 1978, 1987). Because the PPs in this experiment were
+all potential primary phrases, global structural principles would apply, even within
+Construal (Frazier & Clifton, 1996).
+In sharp contrast to Clifton et al. (1991), any effects of attachment site in our data
+are quite minor compared to the robust effects of argument status. The influence of
+attachment site was limited to marginal effects in two dependent measures and may
+be attributable to length effects at the PP. Thus, our results provide evidence against
+parsing metrics or parsing preferences that routinely VP-attach PPs without regard
+to detailed lexical representations.
+Early effects of argument status were predicted by accounts in which detailed lexical information guides parsing. However, we are not able to differentiate between
+several specific hypotheses about how lexical guidance occurs. In principle, the major
+hypotheses could be distinguished by regressing argument/adjunct frequency against
+fixation times. For example, the ASH, which we favor, maintains that argument attachments are generated from stored lexical alternatives, while adjunct attachments are
+generated by global syntactic rules. This predicts a negative correlation between the
+frequency with which a noun or verb assigns an argument and the ease of processing
+the argument attachment; while at the same time, there should be no such correlation
+in the processing of adjunct attachments. In contrast, the PFH maintains that argument and adjuncts are represented in the lexical entries of their heads (MacDonald
+et al., 1994), predicting that frequency effects should hold for all attachments. On the
+other hand, models that stipulate an argument preference (Abney, 1989; Schutze &
+Gibson, 1999) do not predict correlations for either arguments or adjuncts.
+In order to test these competing predictions with a regression analysis, the variance
+in argument frequency must approximate the variance in adjunct frequency. Unfortunately, this condition did not hold; the co-occurrence frequency between the adjunct
+categories and the head nouns/verbs was considerably less than the co-occurrence
+frequency between the argument categories and the head nouns/verbs. Our linear
+regressions, provided in Appendix C, are therefore merely suggestive and should not
+be considered an adequate test of these hypotheses.
+Another way to distinguish among some of the hypotheses would be to find positive
+evidence for frequency effects on adjunct attachment. Such a pattern would clearly
+support the PFH over ASH. To the best of our knowledge, only Spivey-Knowlton and
+Sedivy (1995) come close to providing such evidence. They demonstrated in a corpus
+
+398
+
+J Psycholinguist Res (2006) 35:385-403
+
+analysis that for action verbs, with-PPs are more likely to modify the verb than a direct
+object (e.g., changed a tire with... a monkey wrench). In the case of psych/perception
+verbs, with-PPs are more likely to modify a direct object than a verb (e.g., glanced
+at a customer with... ripped jeans). In turn, processing of an ambiguously attached
+with-PP was facilitated when the PP was consistent with attachment to the more frequent site. Because Spivey-Knowlton and Sedivy assumed that all the with-PPs were
+adjuncts, their findings appear to demonstrate that adjuncts are lexically specified
+and, for that reason, produce frequency effects. However, it has long been noted that
+instrument PPs have some argument qualities (see Schutze & Gibson, 1999). Therefore, it might be the case that instrument PPs are lexically specified, but as arguments
+rather than adjuncts. In fact, Ferretti, McRae, and Hatherell (2001) also suggested
+that instruments are lexically specified after finding that verbs prime their prototypical instruments in a lexical decision task. In contrast, they found no evidence that verbs
+primed prototypical locations (e.g., cooked-kitchen), which are indisputably adjuncts.
+While Ferretti et al.'s (2001) evidence that stir primes spoon might seem to provide
+positive evidence that a lexicalized structure for stir contains a slot for an instrument
+with spoon-like features, the finding is actually irrelevant to the question of argument
+status or the possibility that certain adjuncts are lexically specified. Although they
+used word association norms to demonstrate that their verbs were not associatively
+related to their instrument primes, priming is commonly found in lexical decision
+for nouns that are semantically, but not associatively, related (e.g., glove-hat; See
+Lucas, 2000 and Neely, 1991; for reviews). Thus, the finding that stir primes spoon
+is no more informative than if they had found that sneeze primes nose. The priming
+effect is merely evidence that the two words are semantically or situationally related.
+In contrast, Boland, Sudhakar, Lewis, and Blodgett (2001) do report some relevant
+evidence. They replicated the Spivey-Knowlton and Sedivy (1995) finding in locally
+ambiguous sentences. However, Boland et al. did not find comparable "frequency
+effects" in unambiguous constructions that used the same lexical items. This suggests
+that the Spivey-Knowlton and Sedivy effect was not due to differential activation of
+lexicalized structure. Rather, Boland et al. suggest that the so-called frequency effects
+that arise when there is a syntactic ambiguity are actually due to plausibility or semantic association. These constraints can guide syntactic ambiguity resolution, but they
+cannot influence the initial generation of syntactic structure in Boland's (1997) theory.
+While our results are consistent with the PFH, there is some reason to prefer the
+ASH. First, Foraker and McElree (2001) found that verb argument, but not verb
+adjunct, co-occurrence frequencies predicted processing success in an SAT paradigm,
+providing further evidence that arguments and adjuncts are processed differently.
+Second, ASH is more appealing for logical reasons. It is simply not possible to specify
+all of the adjunct attachments that can modify a given head. Adjuncts can be adjoined
+one after another in theoretically limitless numbers, as in (9).
+(9)
+
+Susan pedaled on her Schwinn on the trail in the morning under the sun with
+a happy heart after breakfast with Edgar last Tuesday.
+
+In sum, the ASH can account for parsing behavior when argument attachments
+represent the strongest lexical competitors, and it includes a mechanism that explains
+the parsing behavior of adjuncts. Additional work is needed in order to establish
+(1) how competition effects between lexically generated, but weak, argument attachments and globally generated, but frequent, adjunct attachments are resolved, and
+(2) how constraints combine to resolve adjunct attachments, in general. As these
+
+J Psycholinguist Res (2006) 35:385-403
+
+399
+
+questions are investigated, the differing predictions of the ASH and the PFH will be
+more thoroughly tested.
+Appendix A
+For each head verb and head noun used in our critical stimuli, we note the total frequency (for exact matches) in the Brown corpus. Collapsing across both the parsed
+Brown corpus and the parsed WSJ corpus in the Penn Treebank Corpora, we also
+report the proportion of tokens that co-occurred with a PP of the same role or having
+the same preposition as the argument or adjunct PP in our critical stimuli.
+Appendix B
+The critical items are listed below. The order of conditions from left to right within
+each item is VP argument, NP argument, VP adjunct, and NP adjunct.
+1. The committee hid the secretary's {inclusion from the chairman/inclusion in the
+process/inclusion in their expressions/child with the handicap}, very easily.
+2. The leader withheld his {support from the candidate/support for the candidate/support for the moment/comment about the candidate}, after all.
+3. The two friends showed their {tattoos to the woman/amusement at the story/
+amusement at the party/tattoos on their arms}, without concern.
+4. The busy shopper expressed his {interest to the clerk/interest in a wallet/interest
+in a hurry/complaint about a wallet}, before leaving.
+5. The new guard concealed his {surprise from the visitor/surprise at the decision/surprise at the time/book about the war}, with difficulty.
+6. The losing team gained some confidence {from the coach/in the coach/in the
+end/under the circumstances}, once again.
+7. The suspect admitted his participation {to the police/in the robbery/in the morning/in a disguise}, under questioning.
+8. The rowdy campers acknowledged John's authority {to the cops/over the group/
+over some coffee/about the region}, this morning.
+9. The speaker described people's alienation {to the class/from the system/from his
+perspective/in the south}, in detail.
+10. The environmental agency offered some exemptions {to the business/from the
+law/from the start/over ten dollars}, this year.
+11. The teacher communicated much excitement {to the children/over the project/over the week/in her heart}, during class.
+12. The police detective proposed a search {to the captain/for a weapon/for a
+day/through the city}, right away.
+13. The lawyers delivered employee demands {to the president/for a raise/for a
+while/from last week}, despite criticism.
+14. The administrator announced many cuts {to the reporter/in the staff/in the meeting/of some significance}, confirming rumors.
+15. The female conductor explained Ed's absence {to the people/from the rehearsal/
+from her viewpoint/for an emergency}, very carefully.
+16. The famous author mailed his revisions {to the editor/of the book / for a fee/from
+the margins}, last week.
+
+Head
+frequency
+
+61
+14
+640
+135
+18
+77
+91
+27
+200
+217
+22
+110
+71
+116
+177
+25
+125.1
+3
+124
+7
+323
+44
+56
+41
+93
+22
+2
+32
+58
+43
+16
+53
+9
+57.9
+
+Arguments
+Head
+
+Hid
+Withheld
+Show
+Expressed
+Concealed
+Gained
+Admitted
+Acknowledged
+Described
+Offered
+Communicated
+Proposed
+Delivered
+Announced
+Explained
+Mailed
+Mean
+Inclusion
+Support
+Amusement
+Interest
+Surprise
+Confidence
+Participation
+Authority
+Alienation
+Exemptions
+Excitement
+Search
+Demands
+Cuts
+Absence
+Revisions
+Mean
+
+0.0186
+0
+0.1667
+0
+0
+0.0345
+0.0556
+0.0236
+0.0516
+0.085
+0.1
+0.1667
+0.2051
+0.0192
+0.0732
+0.5
+0.094
+0.1
+0.36
+0
+0.24
+0
+0.36
+0.43
+0.16
+0
+0.26
+0.2
+0.6
+0.26
+0.16
+0.07
+0.36
+0.223
+
+Arguments,
+same role
+0.0186
+0
+0.1667
+0
+0
+0.0345
+0.0860
+0.0236
+0.0516
+0.0622
+0.1
+0
+0.2051
+0
+0.0732
+0.17
+0.062
+0.1
+0.18
+0
+0.23
+0
+0.35
+0.43
+0.05
+0
+0.22
+0.02
+0.53
+0.22
+0.09
+0.05
+0.21
+0.168
+
+PPs,
+same prep
+
+Child
+Comment
+Tattoos
+Complaint
+Book
+Confidence
+Participation
+Authority
+Alienation
+Exemptions
+Excitement
+Search
+Demands
+Cuts
+Absence
+Revisions
+
+Hid
+Withheld
+Show
+Expressed
+Concealed
+Gained
+Admitted
+Acknowledged
+Described
+Offered
+Communicated
+Proposed
+Delivered
+Announced
+Explained
+Mailed
+
+Adjuncts
+Head
+61
+14
+640
+135
+18
+77
+91
+27
+200
+217
+22
+110
+71
+116
+177
+25
+125.1
+213
+35
+0
+14
+175
+56
+41
+93
+22
+2
+32
+58
+43
+16
+53
+9
+53.9
+
+Head
+frequency
+0.0157
+0
+0
+0
+0
+0.0172
+0
+0.0198
+0
+0.0034
+0.02
+0
+0.1154
+0.0541
+0
+0
+0.015
+0.02
+0
+0.05
+0.02
+0
+0.17
+0
+0.05
+0
+0.03
+0.02
+0.02
+0.01
+0
+0
+0.026
+
+0.09
+0.08
+0
+0.02
+0.03
+0.05
+0.06
+0.06
+0.03
+0.01
+0.04
+0.01
+0
+0.045
+
+PPs,
+same prep
+
+0.1191
+0
+0.1667
+0
+0
+0
+0
+0.0556
+0
+0.0758
+0.02
+0
+0
+0
+0
+0
+0.027
+0.02
+0.18
+
+Adjuncts,
+same role
+
+400
+J Psycholinguist Res (2006) 35:385-403
+
+J Psycholinguist Res (2006) 35:385-403
+
+401
+
+Table 6 The Correlation for each Critical Comparison, with the Degrees of Freedom, F-value, and
+p-value. The z-values Indicate how Different the Regression Coefficients are for the Verb or Noun
+Argument/Adjunct Correlations in the Same Row
+Argument
+
+Adjunct
+
+Difference in r's
+
+By proportion of PPs with same preposition as the target PP
+Verb
+
+r = -0.61, F(1, 9) = 5.42, p < 0.05
+
+r = 0.10, F(1, 9) < 1.0, p > 0.10
+
+Noun
+
+r = -0.45, F(1, 14) = 3.57, p = 0.08
+
+r = 0.18, F(1, 13) < 1.0, p > 0.10
+
+z = -1.62,
+p = 0.05
+z = -1.67,
+p = 0.05
+
+By proportion of PPs with same participatory role as the target PP
+Verb
+
+r = -0.62, F(1, 9) = 5.59, p < 0.05
+
+r = -0.18, F(1, 9) < 1.0, p > 0.10
+
+Noun
+
+r = -0.41, F(1, 14) = 2.90, p = 0.11
+
+r = 0.08, F(1, 13) < 1.0, p > 0.10
+
+z = -1.10,
+p = 0.14
+z = -1.29,
+p = 0.10
+
+Not all of the predicted correlations were statistically reliable, and the argument correlations were
+not reliably different from the adjunct correlations in the analysis by participatory roles. Although the
+size of the correlation coefficients was uniformly large for the argument conditions, the small number
+of usable items led to low power:  ranged from 0.39 to 0.64 for the observed effect size. Thus, we are
+inclined to trust the statistically weak correlations in the argument conditions. Interpreting the null
+adjunct effects, in the face of even lower power values, is more difficult
+
+Appendix C
+As described in the Discussion section, we would have liked to distinguish between
+the PFH and the ASH via regression analyzes. The two hypotheses make differential
+predictions about whether negative correlations will be found between fixation times
+and frequency for adjunct PPs. Unfortunately, there was much less variance in the
+adjunct frequency data compared to the argument frequency data, making the lack of
+adjunct correlations uninformative. Thus, we report the regression analyzes primarily
+as a demonstration of the argument correlations, which were predicted by both PFH
+and ASH. We regressed the first fixation data from the final region against frequency
+data obtained in the corpora analysis described in Normative Studies. We chose to
+regress proportions against the first fixation data from the final region for several reasons. This dependent measure provides the earliest measure of processing effects in a
+given region, while the region reflects the argument advantage seen in the ANOVAs.
+We regressed the proportion of argument and adjunct PPs (having the same role
+and/or the same preposition as our target PP) from our corpora analysis against the
+corresponding mean first fixation data from the final region, once for the verbs and
+once for the nouns. For example, we regressed the total proportion of VP argument
+PPs bearing the same role as the target against that target's mean fixation time in the
+VP argument condition.7 As shown in Table 6, negative correlations were found for
+the argument conditions only.
+7 We also considered an alternative, but related, hypothesis. Perhaps the overall frequency of the
+head noun/verb would predict initial fixation duration. On this account, it is not the relative frequency
+of the competing lexical forms that is important, but rather the overall strength of the lexical entry. To
+test this hypothesis, we computed the log frequency of all noun (or verb) forms for each head noun
+(or verb). We regressed the log total frequency against initial fixation duration in the PP region and
+the final region. No reliable or marginal correlations were found (VP-arg at PP, r = -0.34, at Final,
+r = -0.38; NP-arg at PP, r = 0.07, at Final, r = 0.12; VP-adj at PP, r = 0.09, at Final, r = -0.07; NP-adj
+at PP, r = 0.34, at Final, r = -16).
+
+402
+
+J Psycholinguist Res (2006) 35:385-403
+
+We conducted regressions at the PP region to be sure that we did not overlook any
+reliable effects. There were none.
+
+References
+Abney, S. P. (1989). A computational model of human parsing. Journal of Psycholinguistic Research,
+18(1), 129-144.
+Altmann, G., & Steedman, M. (1988). Interaction with context during human sentence processing.
+Cognition, 30, 191-238.
+Boland, J. E. (1997). Resolving syntactic category ambiguities in discourse context: Probabilistic and
+discourse constraints. Journal of Memory and Language, 36, 588-615.
+Boland, J. E., & Boehm-Jernigan, H. (1998). Lexical constraints and prepositional phrase attachment.
+Journal of Memory and Language, 39(4), 684-719.
+Boland, J. E., & Lewis, R. (1998). The lexical generation of syntax and its implications. Proceedings of
+the 39th Annual Meeting of the Psychonomics Society, Dallas.
+Boland, J. E., Sudhakar, M., Lewis, R., & Blodgett, A. (2001). Lexical parsing: Limits on the lexicalization of syntactic generation. Manuscript in preparation, University of Michigan.
+Britt, M. A. (1994). The interaction of referential ambiguity and argument structure in the parsing of
+prepositional phrases. Journal of Memory and Language, 33, 251-283.
+Chomsky, N. (1986). Barriers. Cambridge, MA: MIT Press.
+Chomsky, N. (1995). The minimalist program. Cambridge, MA: MIT Press.
+Clifton, C., Jr., Speer, S. R., & Abney, S. P. (1991). Parsing arguments: Phrase structure and argument structure as determinants of initial parsing decisions. Journal of Memory and Language, 30,
+251-271.
+Crain, S. (1980). Pragmatic constraints on sentence comprehension. Unpublished doctoral dissertation,
+University of California at Irvine.
+Crain, S., & Steedman, M. J. (1985). On not being led up the garden path: the use of context by the
+psychological parser. In: D. Dowty, L. Kartunnen & A. Zwicky (Eds.), Natural Language parsing: Psychological, computational, and theoretical perspectives. Cambridge: Cambridge University
+Press.
+Ferreira, F., & Clifton, C. Jr. (1986). The independence of syntactic processing. Journal of Memory
+and Language, 25, 348-368.
+Ferreira, F., & Henderson, J. M. (1990). Use of verb information in syntactic parsing: Evidence
+from eye movements and word-by-word self-paced reading. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 16(4), 555-568.
+Ferretti, T. R., McRae, K., & Hatherell, A. (2001). Integrating verbs, situation schemas, and thematic
+role concepts. Journal of Memory and Language, 44, 516-547.
+Foraker, S., & McElree, B. (2001). The effects of co-occurrence frequencies on the time-course of
+parsing operations. Poster session presented at the 14th Annual CUNY Conference on Human
+Sentence Processing, Philadelphia.
+Francis, W. N., & Kucera, H. (1982). Frequency analysis of English usage: Lexicon and grammar.
+Boston: Houghton Mifflin.
+Frazier, L. (1978). On comprehending sentences: Syntactic parsing strategies. Unpublished doctoral
+dissertation, University of Connecticut.
+Frazier, L. (1987). Theories of syntactic processing. In: J. L. Garfield (Ed.), Modularity in knowledge
+representation and natural language understanding. (pp. 291-307). Cambridge, MA: MIT Press.
+Frazier, L., & Clifton, C. Jr. (1996). Construal. Cambridge, MA: MIT Press.
+Garnsey, S. M., Pearlmutter, N. J., Myers, E., & Lotocky, M. A. (1997). The contributions of verb bias
+and plausibility to the comprehension of temporarily ambiguous sentences. Journal of Memory
+and Language, 37, 58-93.
+Grimshaw, J. (1990). Argument structure. Cambridge, MA: MIT Press.
+Huynh, H., & Feldt, L. S. (1976). Estimation of the box correction for degrees of freedom from sample
+data in randomized block and split-plot designs. Journal of Educational Statistics, 1, 69-82.
+Jackendoff, R. (1977). X syntax: A study of phrase structure. Cambridge, MA: MIT Press.
+Kegl, J., & Fellbaum, C. (1988). An analysis of obligatory adjuncts: Evidence from the class of measure
+verbs. Proceedings from the Eastern States Conference on Linguistics (ESCOL), 5, 275-288.
+Levin, B. (1993). English verb classes and alternations: A preliminary investigation. Chicago: The
+University of Chicago Press.
+
+J Psycholinguist Res (2006) 35:385-403
+
+403
+
+Lucas, M. (2000). Semantic priming without association: A meta-analytic review. Psychonomic
+Bulletin and Review, 7, 618-630.
+MacDonald, M. C., Pearlmutter, N. J., & Seidenberg, M. S. (1994). Lexical nature of syntactic ambiguity resolution. Psychological Review, 101(4), 676-703.
+Mitchell, D. (1989). Verb guidance and other lexical effects in parsing. Language and Cognitive
+Processes, 4(3/4), 123-154.
+Neely, J. H. (1991). Semantic priming effects in visual word recognition: A selective review of current
+findings and theories. In: D. Besner & G. W. Humphreys (Eds.), Basic processes in reading: Visual
+Word Recognition. Hillsdale, NJ: Erlbaum.
+Pesetsky, D. (1995). Zero Syntax: Experiencers and cascades. Cambridge, MA: MIT Press.
+Pollard, C., & Sag, I. (1994). Head driven phrase structure grammar. Stanford, CA: CSLI Publications.
+Schutze, C., & Gibson, E. (1999). Argumenthood and English prepositional phrase attachment. Journal of Memory and Language, 40, 409-431.
+Speer, S. R., & Clifton, C. Jr. (1998). Plausibility and argument structure in sentence comprehension.
+Memory and Cognition, 26(5), 965-978.
+Spivey-Knowlton, M., & Sedivy, J. (1995). Resolving attachment ambiguities with multiple constraints.
+Cognition, 55, 227-267.
+Steedman, M. (1996). Surface structure and interpretation. Cambridge, MA: MIT Press.
+Stevenson, S. (1998). Parsing as incremental restructuring. In: J. D. Fodor & F. Ferreira (Eds.), Reanalysis in Sentence Processing. (pp. 327-363). Boston: Kluwer.
+Trueswell, J. C., Tanenhaus, M. K., & Garnsey, S. M. (1994). Semantic influences on parsing: Use of
+thematic role information in syntactic ambiguity resolution. Journal of Memory and Language,
+33, 285-318.
+
+

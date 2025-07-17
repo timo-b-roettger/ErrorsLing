@@ -1,0 +1,1047 @@
+Brain & Language 116 (2011) 71-82
+
+Contents lists available at ScienceDirect
+
+Brain & Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Neuromagnetic evidence for a featural distinction of English consonants:
+Sensor- and source-space data
+Mathias Scharinger a,, Jennifer Merickel b, Joshua Riley a, William J. Idsardi a
+a
+b
+
+Department of Linguistics, University of Maryland, College Park, MD, USA
+Department of Linguistics, University of Rochester, Rochester, NY, USA
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 15 November 2010
+Available online 23 December 2010
+Keywords:
+Auditory cortex
+Magnetoencephalography
+Auditory evoked fields
+Mismatch fields
+Place of articulation
+Asymmetric speech processing
+Underspecification
+
+a b s t r a c t
+Speech sounds can be classified on the basis of their underlying articulators or on the basis of the acoustic
+characteristics resulting from particular articulatory positions. Research in speech perception suggests
+that distinctive features are based on both articulatory and acoustic information. In recent years, neuroelectric and neuromagnetic investigations provided evidence for the brain's early sensitivity to distinctive
+features and their acoustic consequences, particularly for place of articulation distinctions. Here, we compare English consonants in a Mismatch Field design across two broad and distinct places of articulation -
+labial and coronal - and provide further evidence that early evoked auditory responses are sensitive to
+these features. We further add to the findings of asymmetric consonant processing, although we do
+not find support for coronal underspecification. Labial glides (Experiment 1) and fricatives (Experiment
+2) elicited larger Mismatch responses than their coronal counterparts. Interestingly, their M100 dipoles
+differed along the anterior/posterior dimension in the auditory cortex that has previously been found to
+spatially reflect place of articulation differences. Our results are discussed with respect to acoustic and
+articulatory bases of featural speech sound classifications and with respect to a model that maps distinctive phonetic features onto long-term representations of speech sounds.
+O 2010 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Speech sounds can be classified on the basis of their active articulators, pertaining to the aspects of how and where they are produced in the vocal tract. In this respect, manner of articulation
+(MoA) describes the way by which speech sounds are produced,
+i.e. with or without constriction in the oral cavity, while place of
+articulation (PoA) indicates where such a constriction occurs (cf.
+Ladefoged, 2001; Reetz & Jongman, 2008; Stevens, 1998). For
+instance, speech sounds produced at or in the vicinity of the lips
+are referred to as labial sounds (e.g. English [v], [w]), while sounds
+produced between the alveolar ridge and the hard palate are
+labeled palato-alveolar, palatal, or more generally, coronal (e.g.
+English [Z], [j]). The differences between [v] and [w], and [Z] and
+[j] relate to differences between fricatives with a narrow constriction ([v], [Z]) and glides with a vowel-like configuration ([w], [j]).
+Naturally, these articulator configurations have particular acoustic
+consequences and characteristics. Together with specific articulator configurations, acoustic cues (``landmarks'', cf. Stevens, 2002;
+Stevens & Blumstein, 1978) have been taken to describe and classify sets of phonetic and phonological features. Not surprisingly,
+ Corresponding author. Address: Department of Linguistics, University of
+Maryland, College Park, MD 20742-7505, USA. Fax: +1 301 405 7104.
+E-mail address: mts@umd.edu (M. Scharinger).
+0093-934X/$ - see front matter O 2010 Elsevier Inc. All rights reserved.
+doi:10.1016/j.bandl.2010.11.002
+
+theories of feature systems differ as to whether the corresponding
+features are predominantly determined by their underlying articulators (Chomsky & Halle, 1968; Halle, 1983) or by their concomitant acoustic properties (e.g. Stevens, 2002).
+A model that rather takes an eclectic position on the form and
+content of feature definitions and which makes some specific predictions for the mapping of distinctive phonetic features onto longterm memory representations for speech sounds during perception
+is the Featurally Underspecified Lexicon model (FUL, Lahiri & Reetz,
+2002, 2010). It employs abstract features that may be related to
+either articulatory or acoustic bases, but not in a necessarily isomorphic way. For instance, the PoA features labial, coronal and
+dorsal stem from the articulatory positions lips, tongue corona,
+and tongue dorsum. However, their usage for both vowels and consonants implies a more abstract classification than is found in
+other theories (e.g. Sagey, 1986). Further, a crucial difference between consonants and vowels according to FUL is that PoA for consonants cannot be simultaneously labial and coronal, while labial
+can be a secondary place of articulation for coronal vowels. On
+the other hand, labial and dorsal can co-occur in both consonants
+and vowels.
+Note that these assumptions regarding abstract phonological
+features bear on articulatory and acoustic bases: The three-way
+PoA distinction for consonants reflects their relative positioning
+in the oral tract, where labial is anterior to coronal, and coronal
+
+72
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+is anterior to dorsal. Due to the complex acoustic structure of labial
+consonants (Stevens, 1998), consonantal PoA cannot be related to
+one acoustic cue (such as the second formant frequency, F2). The
+two-way PoA for vowels, distinguishing between coronal (front)
+and dorsal (back), reflects the positional involvement of the tongue. The primary acoustic cue is F2. Labiality as secondary PoA
+indicates the involvement of the lips. Again, it cannot be attributed
+a single acoustic cue (such as F1 or F2). Thus, PoA distinctions in
+FUL are based on abstract features. These features have a relation
+to their articulatory and acoustic bases, but it is not isomorphic
+or linear (cf. Stevens, 1989). Finally, FUL assumes coronal underspecification. Coronal underspecification describes the assumption
+that the long-term memory representation of coronal consonants
+and vowels has no underlying PoA feature (Lahiri & Reetz, 2002,
+2010). Amongst other phenomena, coronal underspecification accounts for asymmetric assimilation effects, whereby underspecified coronal [n] in lean bacon assimilates to [m] due to the
+following labial consonant [b], but specified labial [m] in cream
+dessert does not assimilate to [n]. Although coronals are underlyingly underspecified, their acoustic-phonetic surface forms naturally provide cues for their PoA.
+In this article, we are interested in neuromagnetic responses to
+the perception of consonantal PoA distinctions labial and coronal,
+as used in FUL. We take FUL as an exemplary framework for this
+study because the development of the theory has directly addressed behavioral and neurophysiological investigations and has
+provided detailed proposals on the basis of the mapping of distinctive phonetic features onto the long-term memory representations
+of speech sounds. The opposition of labial and coronal is especially
+interesting, since the two features cannot be distinguished by a
+solitary acoustic parameter and because FUL predicts that labial
+and coronal should show similar perceptual processing across different manners of articulation. We therefore chose to look at two
+different consonantal MoA for the labial-coronal contrast. Alternative models might predict that PoA cannot be generalized across
+MoA, since PoA differences are accompanied by different acoustic
+effects that crucially dependent on MoA. Such alternative approaches would focus on acoustic, rather than abstract, feature
+representations. Finally, in addition, FUL also claims that coronal
+is unspecified in the long-term memory representation of consonants and vowels. This should have specific effects on the opposition of these features in neurophysiological experiments, at least
+when combined with appropriate linking hypotheses (namely that
+the MMN standard (see below) is equated with the FUL long-term
+memory representation).
+The methodology employed in these experiments is Mismatch
+Negativity (or its magnetic equivalent, the Mismatch Field, MMF;
+Naatanen, 2001; Naatanen & Alho, 1997; Naatanen et al., 1997;
+Naatanen, Paavilainen, Rinne, & Alho, 2007), a technique previously used to test the mapping of acoustic-phonetic surface features to underlying language specific long-term representations
+and to test specific processing predictions of the FUL model (Eulitz
+& Lahiri, 2004). A crucial advantage of Magnetoencephalography
+(MEG) is that the recording also allows for source estimations of
+the underlying brain activity, a measure previously used for testing
+the neuronal basis of PoA distinctions (Obleser, Lahiri, & Eulitz,
+2003, 2004), allowing us to meaningfully compare our results with
+those obtained previously.
+
+2. Testing features in the brain
+Recent behavioral and neurophysiological studies support the
+proposal of abstract features as units of perception and representation in long-term memory (Lahiri & Reetz, 2002, 2010; Poeppel, Idsardi, & van Wassenhove, 2008; Reetz, 1998, 2000; Stevens, 2005).
+
+Coronal underspecification has been successfully tested in both
+consonants (Friedrich, 2005; Friedrich, Lahiri, & Eulitz, 2008; Ghini,
+2001; Lahiri & Marslen-Wilson, 1991; Wheeldon & Waksler, 2004)
+and vowels (Eulitz & Lahiri, 2004; Lahiri & Reetz, 2002, 2010).
+MMN/MMF designs for the investigation of coronal underspecification rely on the creation of a central sound representation through
+the repetitive auditory presentation of the standard. This representation is assumed to reflect language-specific long-term memory
+representations of single segments (Naatanen et al., 1997), affixes
+(Shtyrov & Pulvermuller, 2002a), and words (Pulvermuller, Shtyrov,
+Kujala, & Naatanen, 2004; Pulvermuller et al., 2001; Shtyrov &
+Pulvermuller, 2002b). The infrequently occurring deviant, on the
+other hand, provides a more surface-faithful (input-driven) representation, involving an acoustic and feature-based mismatch to
+the standard representation (Eulitz & Lahiri, 2004; Winkler et al.,
+1999). The MMN as an automatic change detection of the brain
+may be additionally modulated by the featural properties of standard and deviant. In Eulitz and Lahiri (2004), the coronal deviant
+vowel [o] preceded by the dorsal standard vowel [o] elicited an earlier and larger MMN response than the dorsal deviant [o] preceded
+by the coronal vowel [o]. Eulitz & Lahiri assumed that in the first
+case, the dorsal standard [o] activated its fully specified PoA representation. The coronal deviant supplied the mismatching feature
+([coronal vs. [dorsal]), resulting in a larger MMN than in the second
+case, where the coronal standard activated an underspecified representation, for which the dorsal deviant did not supply a mismatching feature ([dorsal] vs. [-]). This principle should hold in general:
+Coronal deviants differing solely along the PoA dimension from
+their standards should always elicit larger MMN effects compared
+to their non-coronal counterparts.
+While there is evidence for the MMN to be also modulated by
+lexical effects (Menning et al., 2005; Pulvermuller & Shtyrov,
+2006), earlier (i.e. preceding) evoked auditory components can
+more directly test acoustic-phonetic aspects of speech perception.
+These components (i.e. the N100 m/M100 and M50, cf. Gage,
+Poeppel, Roberts, & Hickok, 1998; Poeppel et al., 1996; Roberts,
+Ferrari, & Poeppel, 1998; Roberts & Poeppel, 1996; Tavabi, Obleser,
+Dobel, & Pantev, 2007) were used in neurophysiological investigations of acoustic-phonetic and phonological features (Obleser,
+Elbert, Lahiri, & Eulitz, 2003; Obleser, Lahiri et al., 2003, 2004;
+Tavabi et al., 2007). We focus on the M100, which is a component
+of the evoked magnetic field response, with latencies at around
+100 ms post stimulus onset. It is considered an indicator of basic
+speech processing in the auditory cortices (Diesch, Eulitz,
+Hampson, & Ross, 1996; Shestakova, Brattico, Soloviev, Klucharev,
+& Huotilainen, 2004) and reliably elicited by tones, vowels, syllables, and word onsets. The latency and amplitude of the M100
+has been shown to correlate with the fundamental frequency of
+tones (Roberts & Poeppel, 1996; Woods, Alain, Covarrubias, &
+Zaidel, 1995) and the first formant frequency of vowels (Poeppel
+& Marantz, 2000; Roberts et al., 1998). Recent work suggests an
+additional sensitivity to vowel formants ratios in dense vowel
+spaces (Monahan & Idsardi, 2010). Larger ratios between the first
+and third vowel formant (F1/F3) elicited earlier M100 latencies.
+With respect to PoA, Obleser and colleagues investigated the
+equivalent current dipoles (ECDs) underlying the M100 response
+to vowels, consonants, and consonant-vowel syllables. Obleser,
+Lahiri et al. (2004) tested seven naturally spoken German vowels
+and found that dorsal vowels elicited ECDs with a more posterior
+location in the auditory cortex than coronal vowels. Intriguingly,
+the spatial differences only held for the coronal/dorsal, not for
+the labial-coronal/coronal comparison. This suggests that the
+ECD separation is particularly sensitive to mutually exclusive PoA
+features (such as coronal and dorsal), which in this case also map
+to an acoustic difference in the second formant (F2). The ECD distinction in the anterior-posterior dimension for PoA differences
+
+73
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+was replicated with CV syllables containing either a dorsal ([o]) or
+a coronal vowel ([o]), irrespective of the initial consonant, which
+was a labial, coronal, or dorsal stop ([b], [d], [g], Obleser, Lahiri
+et al., 2003). Consonantal differences were reflected in ECD source
+orientations, again distinguishing between coronal and dorsal. Due
+to potentially mutual influences between the consonant and vowel
+in this study, coronal ([t]) and dorsal ([k]) stop consonants were
+separately analyzed as single segments. In order to demonstrate
+that the previous ECD location pattern did not solely result from
+acoustic spectro-temporal characteristics, Obleser, Scott, and Eulitz
+(2006) used dorsal and coronal stops in an intelligible and in an
+unintelligible condition. The unintelligible condition was matched
+to the intelligible condition for spectro-temporal complexity and
+diversity. Intriguingly, dorsal stops elicited more posterior dipoles,
+in accordance with previous findings, but only in the intelligible
+condition. Further, the spatial dipole pattern was not affected by
+the co-occurring voicing feature, which distinguishes between
+[t,k] and [d,g]. In line with the observation that the M100 can be
+modulated by top-down processes (Naatanen & Picton, 1987;
+Naatanen & Winkler, 1999; Sanders, Newport, & Neville, 2002),
+Obleser, Elbert, and Eulitz (2004) showed that the absolute ECD dipole locations differed when attention was shifted away from the
+linguistic stimulus characteristics, while ECDs to dorsal vowels still
+were significantly more posterior than ECDs to coronal vowels.
+Thus, there is evidence that the spatial alignment of the evoked
+auditory M100 follows featural PoA distinctions, especially if these
+are mutually exclusive, which is true for dorsal and coronal for
+both vowels and consonants in German and in English. Further, it
+could be the case that the specific spatial arrangement of dorsal
+and coronal dipoles actually parallels relative articulatory positions, in that speech sounds at more front locations in the vocal
+tract elicit dipoles that are posterior to dipoles of sounds at more
+back locations. Independent evidence for such an assumption
+comes from studies showing an articulatory-based alignment of
+centers of activation in the somatosensory cortex (Picard & Olivier,
+1983; Tanriverdi, Al-Jehani, Poulin, & Olivier, 2009). While our
+experiment is not set up to directly tease apart an articulatory
+and an acoustic approach to dipole locations in the auditory cortex,
+the somatosensory assumption may be worthy to pursue in future
+research with a better controlled stimulus set.
+3. Place of articulation differences in English consonants
+On the basis of previous findings regarding featural speech
+sound representations, we are interested in the PoA distinction between labial and coronal consonants in American English. This distinction is interesting because according to FUL it refers to mutually
+exclusive PoAs for consonants, but not for vowels. Again, note that
+consonantal PoA distinctions are not always mutually exclusive. In
+fact, one of our stimuli, labial [w], may have a secondary PoA,
+dorsal. With respect to the two auditory evoked components -
+MMF and M100 - we expect coronal and labial consonants to yield
+asymmetries in the MMF and separable ECD dipole locations underlying the M100. In particular, if the relative articulator hypothesis is
+correct, we expect the consonantal labial dipoles to be more anterior than the coronal dipoles, since labial consonants are produced
+in a more ``front'' position in the vocal tract than coronals.
+We tested both labial and coronal glides ([w], [j]; Experiment 1)
+and fricatives ([v], [Z]; Experiment 2), for a couple of reasons. First,
+comparing PoA differences across different MoAs enables us to test
+whether PoA effects are in fact independent of MoA within the consonants. Second, our selection lets us compare more vowel-like
+consonants (glides) with less vowel-like consonants (fricatives).
+Finally, labial and coronal oppositions in fricatives have not been
+systematically tested with neuromagnetic methods before. Table 1
+illustrates the experimental material for Experiment 1 and 2.
+
+The respective consonants were embedded in V_V contexts,
+using the vowel [a] in all cases. We opted for naturally spoken
+VCV stimuli in order to ensure that the stimuli resembled natural
+speech as closely as possible. Further, since phonetic research has
+shown that the initial vowel-consonant transition is shaped by
+the final vowel in VCV syllables (Ohman, 1966), we made sure that
+the same vowel preceded and followed the consonant of interest in
+our stimuli. Thus, a constant vowel environment ensures that potential co-articulatory effects on the initial vowel can be attributed
+to the medial consonant of interest, and that differences between
+responses to initial vowels are the result of the subsequent consonant rather than the categorical identity of either of the vowels.
+
+4. Experiment 1
+4.1. Material
+For Experiment 1, we chose the labio-velar and palatal glides
+[w] and [j], and matched the PoA to the labial and palato-alveolar
+fricatives [v] and [Z] in Experiment 2. We assign the labio-velars
+and labio-dentals to the category labial, and likewise, the palatals
+and palatal-alveolars to coronal.
+The consonants of interest were embedded in VCV sequences
+and spoken by a phonetically trained native speaker of English, recorded on a computer with a sampling rate of 44.1 kHz and an
+amplitude resolution of 16 bits, and further processed in PRAAT
+(Boersma & Weenink, 2009). Care was taken that the phonetically
+trained speaker avoided a velar constriction for [w], thus producing
+a pure labial glide. Stimulus sequences in Experiment 1 consisted
+of a 190 ms-vowel portion, followed by the respective consonants
+with an average duration of 112 ms. With a final vowel duration of
+212 ms on average, acoustic stimuli had an overall duration of
+514 ms.
+We used 20 different exemplars of each sequence, in order to
+obtain stimulus material with substantial natural variation and
+in order to ensure that standards activated more abstract representations, such that a pure acoustic explanation of the resulting MMF
+can be excluded (cf. Phillips et al., 2000). From these 20 exemplars,
+we chose 10 for each stimulus sequence with pitch, loudness, and
+intensity characteristics in a relative narrow, but nevertheless variable range.
+In order to assess the co-articulatory influences of the respective medial consonants onto the first vowel [a] of each stimulus,
+we measured formant frequencies (F1, F2) in the middle of the initial vowels (at 100 ms). Fig. 1 illustrates the location of the initial
+vowels in the F2/F1 vowel space.
+Statistically, there were no effects for the first vowel formant, F1
+(all Fs < 3, n.s., based on Linear Mixed Model analyses, cf. Baayen,
+2008; Baayen, Davidson, & Bates, 2008). However, the second vowel formant, F2, differed across place (F(1, 36) = 121.17, p < .001)
+and manner of articulation (F(1, 36) = 13.87, p < .001) of the following consonant. Coronality of the consonant led to a fronting of the
+initial vowel, i.e. to an increase in its F2 value. Furthermore, there
+was a significant interaction of place and manner (F(1, 36) = 10.21,
+p < .01), reflecting stronger fronting by coronal glides than by coronal fricatives.
+
+Table 1
+Design of Experiment 1 and 2. Palatal and palatal-alveolar consonants are subsumed
+under the macro-category coronal, while labio-dental/labio-velar consonants are
+subsumed under the category labial.
+
+Glide
+Fricative
+
+Labial
+
+Coronal
+
+Experiment
+
+[w]
+[v]
+
+[j]
+[Z]
+
+1
+2
+
+74
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+Fig. 1. First and second formant values at 100 ms of the initial vowel [a] of each stimulus, depending on the following consonant context. Note that the F1 axis shows only a
+small portion of the full F1 range, which is indicated in the upper half of the figure.
+
+4.2. Behavioral task
+The stimulus material was tested in a same-different AX discrimination task in which subjects heard every possible opposition
+of the categorical contrasts (3  4) for each exemplar (10) in two
+repetitions, yielding a total of 240 pairs. Twelve native speaker of
+American English (six female; mean age 23) participated in this
+task, but neither in Experiment 1 nor in Experiment 2.
+Subjects' accuracy as measured in d' (Macmillan & Creelman,
+2005) showed acceptable values in all conditions (d' > 1), implying
+that there were no a priori psycho-acoustic differences in discriminability between the stimulus categories.
+4.3. Stimulus organization and presentation
+Stimuli were organized in a classic many-to-one odd-ball paradigm. In Experiment 1, the VCV sequences [aja] and [awa] were
+distributed over two blocks in which they occurred in either standard (p = 0.875, N = 700) or deviant position (p = 0.125, N = 100).
+The number of standards between two deviants varied randomly
+in each block and for each subject. The total number of stimulus
+presentations per block was 800. The inter-stimulus interval varied
+randomly between 1200 and 1400 ms. Each block lasted for about
+20 min. The stimuli presentation was done using the software
+package PRESENTATION (Neurobehavioral Systems).
+4.4. Subjects and procedure
+Fourteen participants (five female, mean age 23.6, SD 6.4), graduate and undergraduate students of the University of Maryland,
+College Park without hearing or neurological impairments participated for class credit or monetary compensation. They were all native speakers of American English and had not participated in the
+behavioral same-different task. Participants gave their informed
+consent and were tested for their handedness, using the Edinburgh
+Handedness Inventory (Oldfield, 1971). The cut-off (exclusion) criterion was 80%, but no subject was excluded for this reason, all
+being strongly enough right-handed. Prior to the main experiment,
+participants' head shapes were digitized, using a POLHEMUS 3
+Space Fast Track system. Together with localization data as measured from two pre-auricular, and three pre-frontal electrodes,
+
+these data allowed us to perform dipole localization analyses, as
+reported in the Analysis section.
+4.5. MEG recording
+For the MEG recording, participants lay supine in a magnetically
+shielded chamber with their heads in a whole-head device of 157
+axial gradiometers (Kanazawa Institute of Technology, Kanazawa,
+Japan). Magnetic field recording were done with a sampling rate
+of 500 Hz, a low-pass filter of 200 Hz, and a notch filter of 60 Hz.
+Before the main experiment, participants were screened with a
+2-tone perception task during which they were instructed to silently count a total of 300 high (1000 Hz) and low (250 Hz) sinusoidal tones, occurring in (pseudo)-random succession. The scalp
+distribution of the resulting averaged evoked M100 field was consistent with the typical M100 source in the supra-temporal auditory cortex (Diesch et al., 1996). Only participants with a reliable
+bilateral M100 response were included in further analyses. One
+participant was excluded on this criterion. Based on the topography of the M100, we selected 10 channels per participant in each
+hemisphere (five source, five sink). The selection was based on
+the strongest average field of the M100 peak.
+The main experiment consisted of a passive oddball paradigm
+as described above. Participants were tested in two blocks that differed as to whether [aja] or [awa] occurred in standard or deviant
+position. If [aja] was standard in block 1, it was deviant in block 2.
+The block order was counter-balanced across subjects.
+In order to reduce eye movements and to keep participants
+awake, they were presented a silent movie during the passive listening task, which was projected onto a screen approximately
+25 cm in front of them. Furthermore, the experimenter guaranteed
+a short break every 10 min. The total experiment lasted for about
+an hour.
+4.6. Data analysis
+MEG raw data were filtered with respect to environmental and
+scanner noise (de Cheveigne & Simon, 2007, 2008). Trial epochs
+with a length of 800 ms (100 ms pre-stimulus interval) were averaged for each condition, using the MegLaboratory Software (Kanazawa Institute of Technology, Japan). Artifact rejection was done by
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+visual inspection. The cut-off criteria were amplitudes higher than
+3 pico-Tesla (pT) or more than 3 consecutive eye blinks within one
+epoch. Due to excessive noise and artifacts in the raw data, one
+participant was excluded from further analyses, since more than
+15% of standard and deviant epochs had to be excluded. Averaged
+data were base-line corrected and band-pass filtered (0.03-30 Hz).
+Amplitudes and peak latencies were calculated on the basis of predefined time frames, using the selected left- and right-hemispheric
+channels from the 2-tone screening. The time frames were selected
+based on visual inspection of the grand averaged data across all
+subjects. These time windows were in accordance with the usual
+time course of MEG components (Ackermann, Hertrich, Mathiak,
+& Lutzenberger, 2001). The first window covered the prominent
+M100 peaks of the initial vowel (between and 75 and 175 ms).
+The second window (225-325 ms) included the M100 of the consonant, while the third window covered the area of the mismatch
+field (MMF; 350-450 ms, ca. 150-250 ms after consonant onset).
+The time course of these windows is illustrated in Fig. 2.
+Mixed Effect Model analyses with subject as random factor
+(MEM, Baayen, 2008; Baayen et al., 2008) were calculated with
+mean magnetic field strengths in the four time windows as independent variable based on the RMS values for the selected leftand right-hemispheric channels. The fixed effects comprised the
+within-subject factors position (standard/deviant), word (aja/awa)
+and hemisphere (left/right). Due to the few-to-many design of an
+oddball paradigm, we randomly selected the same amount of standard epochs than deviant epochs for this analysis, in order to guarantee that the RMS values did not involve unequal variance within
+the factor position. In the RMS analysis across our four time windows, any difference in mismatch responses between the two
+stimuli sequences should produce significant interactions of
+word  position. We used the same factors for the analyses with
+RMS peak latency and peak amplitude as dependent variables.
+
+75
+
+4.7. Dipole fitting
+Equivalent current dipole (ECD) fitting was based on 32 channels surrounding the selected 10 channels from the 2-tone
+screening and followed the procedure of Obleser et al. (2004).
+ECD modeling used a sphere model that was fitted to the head
+shape of each participant. Left and right-hemispheric dipoles
+were modeled separately (Sarvas, 1987). Source parameters of
+the vowel and consonant M100 as well as for the deviants' mismatch field were determined based on the median of the five best
+ECD solutions on the rising slope of each of the components, covering a time range of 10 ms. No solution after the respective
+peaks was included (cf. Scherg, Vajsar, & Picton, 1990). Only solutions with a fit better than 90% were used for the fitting
+calculation.
+For the statistical analyses, we used the dependent measures dipole intensity, orientation (in the sagittal and axial dimension) and
+location in the medial-lateral, anterior-posterior, and inferior-
+superior dimension. Within-subject independent factors comprised word and position.
+4.8. Results
+Generally, effects were larger in the left than in the right hemisphere. MMFs between standard and deviant responses were significantly different between 350 and 450 ms ([aja]: t = 3.69,
+p < 0.01; [awa]: t = 12.98, p < 0.001, Fig. 3, lower panel). In the following, we report significant main effects and interactions involving the factors position and word for all three time frames.
+4.8.1. 75-175 ms
+No amplitude effects were found in this time frame. The latency
+analysis revealed an interaction of word  position (F(1, 932) = 13.58,
+
+Fig. 2. Time course of the MEG responses to the VCV stimuli. M50(V): P50m/M50 of the initial vowel [a]; M100(V): M100 of the initial vowel [a]; M100(C): M100 of the
+consonant; MMF: mismatch field. The onset of deviance in each stimulus is at the offset of the initial vowel (190 ms). The mismatch field is expected between 160 and 260 ms
+post onset of deviance, i.e. between 350 and 450 ms post stimulus onset.
+
+76
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+Fig. 3. Dipole locations in the anterior-posterior and inferior-superior plane in the auditory cortex, based on the consonant M100 (upper panel). Grand averages of RMS
+amplitudes for standards and deviants [aja] and [awa] are plotted in the lower panel.
+
+p < .001), differing across hemispheres, as seen in the three-way interaction hemisphere  word  position (F(1, 932) = 4.03, p < .05). Based
+on RMS peaks, the standards [aja] and [awa] peaked at the same time,
+while the deviant [awa] elicited a significantly earlier M100 (t = 3.65,
+p < .01) in the left hemisphere.
+4.8.2. 225-325 ms
+RMS amplitudes differed between standards and deviants, as
+seen in the main effect of position (F(1, 77) = 16.21, p < .001). This effect was replicated in the peak amplitude analysis (F(1, 74) = 8.14,
+p < .01). The latencies of the RMS peaks differed between position
+and hemispheres (F(1, 74) = 6.13, p < .05), reflecting left-hemispheric
+earlier deviant latencies, and right-hemispheric earlier standard
+latencies.
+4.8.3. 350-450 ms
+The RMS analysis revealed a significant interaction of
+word  position (F(1, 77) = 3.90, p < .05). The difference between
+standard and deviant was greater for [awa] than for [aja]. Latencies
+did not differ.
+
+4.8.4. Dipoles
+Consonant and vowel M100 dipole parameters were analyzed in
+MEMs, separately for each hemisphere. In the left hemisphere, the
+intensity analysis showed a trend for a word effect in the same
+direction as seen in the amplitude analyses. The deviant [awa] produced a stronger mismatch response than the deviant [aja]
+(F(1, 7) = 3.82, p = .11). For the M100 consonant dipole, intensities
+differed in the left hemisphere between standard and deviant
+(F(1, 24) = 11.28, p < .01), and for the M100 vowel dipole, intensities differed on the left (F(1, 29) = 23.40, p < .001) as well as on
+the right hemisphere (F(1, 10) = 9.10, p < .05). The dipole latency
+analysis showed a position effect for the consonant M100 only
+(F(1, 24) = 7.26, p < .01). Deviant responses peaked earlier than
+standard responses.
+M100 consonant dipole orientations differed in the left-hemispheric sagittal plane depending on position (standard, deviant)
+and word ([aja], [awa]), as seen in a significant interaction (position  word: F(1, 24) = 7.02, p < .05). This was driven by the standard [awa] that showed a more vertical orientation than the
+other stimuli. Further, the M100 vowel dipole orientation differed
+across position (F(1, 29) = 11.52, p < .01). Standards were oriented
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+more horizontally, pointing anterior. Finally, dipole locations differed in the anterior-posterior dimension of the left hemisphere.
+There was a trend of an interaction of position  word for the
+M100 consonant dipole (F(1, 24) = 2.67, p = .11), driven by a more
+anterior location of the deviant [awa], compared to the deviant
+[aja] (t = 3.98, p < .05). This interaction was significant for the
+M100 vowel dipole (F(1, 29) = 6.84, p < .05), reflecting again a more
+anterior location of the deviant [awa] (Fig. 3, upper panel).
+4.9. Discussion
+The MMF pattern of Experiment 1 with the English glides [w]
+and [j] showed an interesting amplitude asymmetry. This asymmetry, however, was oriented in the opposite direction than predicted
+by the FUL model. Crucially, while FUL would predict that coronal,
+underspecified [j] should elicit a larger MMF, we found that in fact,
+the labial, specified [w] elicited larger MMF amplitudes, while
+latencies did not differ. Hence, on the basis of our data, we found
+evidence disconfirming the predictions of the FUL theory for directionality effects in mismatch experiments; coronals do not always
+elicit larger MMF amplitudes.
+What could have caused our observed asymmetry, if coronal
+underspecification according to FUL is ruled out? Perhaps, the labial deviant may have recruited more neuronal resources due to
+its underlying articulators (the lips) that are `more front' in the vocal tract, thus providing additional visual cues (cf. among others
+Boysson-Bardies & Vihman, 1991; Dorman & Loizou, 1996;
+MacNeilage, Davis, & Matyear, 1997; Vihman, 1986; Winters,
+1999, see General Discussion). Our behavioral data, however, do
+not lend support to this hypothesis, since the discrimination accuracy did not differ between labials and coronals.
+With respect to the M100 dipoles, the results of Experiment 1
+are in line with the findings of Obleser and colleagues (Obleser,
+Elbert et al., 2004; Obleser, Lahiri et al., 2003, 2004; Obleser
+et al., 2006). As in their studies, dipole localizations in Experiment
+1 differed along the anterior-posterior axis. Deviants with labial
+[w] produced cortical activation with a more anterior dipole than
+deviant segments with coronal [j]. In addition, the consonant
+dipole orientation for [awa] was more vertical. Note that the
+particular location of centers of activation might be interpreted
+as paralleling somatosensory representations. Places of articulation
+involving the lips (hence, being further ``front'' in the vocal tract)
+resulted in more anterior ECDs, compared to places of articulation
+involving the coronal area of the tongue that had more posterior
+ECDs. The relative positions of the dipoles in combination with
+the data by Obleser and colleagues may allow for the interpretation that broad articulatory locations (undoubtedly with very
+characteristic acoustic consequences) are paralleled in cortical
+areas. Again, this can only be a speculation at this point, since
+our experiment does not allow for a precise separation of acoustic
+and articulatory effects and since we would need a real third point,
+viz. dorsals, to back up our relative position hypothesis.
+The reason of why we found significant dipole location differences
+only for deviants may have to do with effects of habituation to the
+standards (cf. Woods & Elmasian, 1986). Repeated presentation of
+standard exemplars leads to a reduction in M100 amplitude, paralleling suppression of activity in response to the predictable somatosensory consequences of self-speech (Dhanjal, Handunnetthi, Patel, &
+Wise, 2008). This may introduce more variance in the dipole
+fitting process, since the surface signal for the inverse solution is less
+robust.
+Taken together, the results of Experiment 1 provide evidence for
+a featural PoA sensitivity of early auditory evoked responses on the
+basis of acoustic information, while we failed to support FUL's
+coronal underspecification view. On the other hand, if the distinction between labial and coronal consonants is based on robust
+
+77
+
+acoustic and articulatory cues and in fact a salient distinction during early stages of speech perception, we expect to find a similar
+pattern of responses with consonants of a different MoA. For that
+reason, we used the fricatives [v] and [Z] in Experiment 2 with
+the same design and setup as in Experiment 1. Note that if the
+source- and sensor-space patterns of Experiment 1 were driven solely by acoustic or articulatory properties of our stimuli, we would
+expect to find a different outcome in Experiment 2, as the place
+distinctions within fricatives and glides are not tied to the same
+set of acoustic values. PoA distinctions of fricatives are less based
+on formant values within the fricatives, but rather on spectral peak
+locations and spectral moments of the frication noise (Jongman,
+Wayland, & Wong, 2000). This can be seen by the co-articulatory
+influences of the fricatives onto their preceding vowels of our stimuli. These influences were more pronounced for the glides [w] and
+[j] that have a more vowel-like formant structure, than for the fricatives [v] and [Z] without such structure. Note also that on a narrower articulatory classification, [w] and [v] and [j] and [Z]
+slightly differ from each other with regard to PoA (e.g. [w] is bilabial, while [v] is labio-dental), while their relative positions within
+the oral tract (front vs. less front) are still preserved. Given lower
+acoustic amplitudes of fricatives, localization results may show
+greater variance in Experiment 2.
+5. Experiment 2
+5.1. Material, subjects, and procedure
+In Experiment 2, the VCV sequences [ava] and [aZa] were distributed over standard and deviant positions as described in Experiment 1. Stimulus sequences in Experiment 2 had similar duration
+properties than in Experiment 1. They consisted of a 190 ms-vowel
+portion, followed by the respective consonants with an average
+duration of 115 ms. Together with final vowel durations of 250 ms
+on average, acoustic stimuli had an overall duration of 555 ms.
+Fifteen participants (seven female, mean age 21.4, SD 2.6), graduate and undergraduate students of the University of Maryland in
+College Park, without hearing or neurological impairments, participated for class credit or monetary compensation. They were all native speakers of American English and had neither participated in
+Experiment 1 nor in the behavioral same-different task. Participants gave their informed consent and were tested for their handedness, using the Edinburgh Handedness Inventory (Oldfield,
+1971). The cut-off (exclusion) criterion was at 80%, but all participants performed above this threshold. Two subjects were excluded
+from further analyses, since their 2-tones screening test did not allow for a reliable M100 localization. They additionally had excessive proportions of artifacts in the denoised data.
+The experimental procedure, MEG recordings, data analyses,
+and dipole fittings were identical to Experiment 1.
+5.2. Results
+The analysis windows for the amplitude and latency data corresponded to those of Experiment 1 (cf. Fig. 2). Again, effects were
+stronger in the left than in the right hemisphere. Dipole analyses
+were based on the M100 of the vowel and the consonant. MMFs as
+significant differences between deviants and standards of the same
+VCV sequence were reliable between 350 and 450 ms post stimulus
+onset ([ava]: t = 32.26, p < 0.001; [aZa]: t = 10.61, p < 0.01, Fig. 4, lower panel). This window was used for the MMF analysis.
+5.2.1. 75-175 ms
+There were no RMS amplitude or latency effects in this time
+window.
+
+78
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+Fig. 4. Dipole locations in the anterior-posterior and inferior-superior plane in the auditory cortex, based on the consonant M100 (upper panel). Grand averages of RMS
+amplitudes for standards and deviants [aZja] and [ava] are plotted in the lower panel.
+
+5.2.2. 225-325 ms
+The RMS amplitude analysis indicated higher deviant than standard amplitudes (F(1, 84) = 16.35, p < .001), while the RMS latencies did not differ. The RMS amplitude effect was replicated in
+the peak amplitude analysis (position: F(1, 78) = 16.00, p < .001).
+5.2.3. 350-450 ms
+The RMS amplitude analysis replicated the mean amplitude findings. Crucially, [ava] produced higher amplitudes (F(1, 84) = 5.40,
+p < .05), which was restricted to the left hemisphere (F(1, 84) =
+5.52, p < .05). Further, [ava] produced a greater mismatch than
+[aZa] (word  position: F(1, 84) = 4.58, p < .05), and more so in the left
+than the right hemisphere. Peak amplitudes showed a similar
+pattern, except that the interaction word  position was marginally
+significant (F(1, 83) = 3.09, p = 0.08). There were no RMS latency
+effects.
+5.2.4. Dipoles
+Dipole parameters were investigated in MEMs separately for
+each time frame and hemisphere. Intensities differed between
+standards and deviants left- (F(1, 31) = 12.84, p < .01) and righthemispheric (F(1, 18) = 23.59, p < .01) for the consonant M100, and
+left-hemispheric only for the vowel M100 (F(1, 25) = 13.51, p < .01).
+
+Word differences were seen as trends and corresponded to the
+analyses in sensor space, yet were not significant. Deviants led to
+earlier consonantal dipole latencies left (F(1, 31) = 12.50, p < .01)
+and right-hemispheric (F(1, 18) = 4.97, p < .05). In the anterior-posterior dimension, dipole locations showed trends for [ava] to be
+more anterior than [aZa]. This was true for the consonantal M100
+dipole (F(1, 26) = 1.86, p = .18) and the vowel M100 dipole (F(1, 21) =
+3.38, p = .07) on the left hemisphere. The consonantal dipole furthermore showed that the trend of a more anterior [ava] dipole held only
+for the deviant position (t = 3.68, p = .08, Fig. 4, upper panel).
+Consonantal dipole orientations in the sagittal plane especially
+differed between standard and deviant in the left hemisphere
+(F(1, 26) = 13.08, p < .01). Compared to standard dipoles, deviant dipoles were oriented less vertical, pointing more into the anterior
+direction.
+5.3. Combined analyses
+In order to assess the place of articulation asymmetry across
+Experiment 1 and 2, we performed a combined RMS amplitude
+and dipole location analysis. The factor place in this analysis comprised the two values coronal (for the stimuli [aja] and [aZa]) and
+labial (for [awa] and [ava]). Additionally, we used the betweenexperiment factor manner (glide, fricative).
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+79
+
+The amplitude analysis showed an interaction of place  position for the MMF (F(1, 160) = 8.34, p < .01), yielding higher amplitudes for labial deviants. Importantly, there were no significant
+effects or interactions with manner (all Fs < 1, n.s.).
+The left-hemispheric dipole location analysis showed a significant interaction of position  place for the consonantal dipole
+(F(1, 49) = 4.24, p < .05). Crucially, labial deviants were located at
+more anterior locations compared to all other stimuli (cf. Fig. 5).
+These results were independent of MoA, as revealed by a lack of
+significant main effects or interactions involving the factor manner
+(all Fs < 1, n.s.).
+Interestingly, the vowel dipole showed a main effect for place
+(F(1, 48) = 8.20, p < .01, cf. Fig. 5). Again, the labial-coronal relation
+was preserved: If the vowel was followed by a labial consonant, its
+ECD was at more anterior locations than if it was followed by a
+coronal consonant. There was a trend for an interaction with position (F(1, 48) = 2.76, p = 0.09), showing that the location difference
+between labials and coronals in the anterior-posterior dimension
+was greater for deviants than for standards. Again, this pattern of
+results was independent of MoA.
+We also tried to account for the dipole localizations with a
+regression analysis of the F2/F1 ratio against the positions in the
+anterior-posterior dimension. This ratio positively correlated with
+the anterior-posterior location of the corresponding dipole
+(r = 0.38, p < 0.05). However, a comparison between the acoustic
+model (with F2/F1) and an acoustic model including the factor
+place (labial/coronal) yielded a significantly better fit for the latter
+model (L-ratio = 7.48, p < 0.01; cf. Pinheiro & Bates, 2000).
+
+deviant [ava] elicited larger MMF responses than the deviant
+[aZa]. This outcome is again not in accordance with the predictions
+of FUL, and again disconfirms the directionality prediction of the
+MMF response.
+In source space, ECDs for coronal [Z] and labial [v] differed on
+the anterior-posterior axis in a similar way than in Experiment
+1, although there was only a trend for [v] to be located at a more
+anterior location than [Z]. We attribute this weaker effect to the
+fact that fricatives are articulated with less amplitude than glides.
+Combined ECD analyses of Experiment 1 and 2 showed that the
+difference in dipole location along the anterior/posterior axis was
+robust: Labials elicited dipoles with more anterior locations than
+coronals. This spatial location was independent of MoA: Anterior-posterior locations did not differ between [w] and [v] or [j]
+and [Z]. A statistical model comparison showed that although the
+ratio of F2 and F1 is the best predictor for an acoustic model
+regarding the ECD location along the anterior/posterior axis, a
+model with the additional fixed effect place (labial/coronal) provided a better fit to the location data. This can be interpreted as
+evidence for top-down categorical influence on the acoustically
+driven dipole location in auditory cortex. Intriguingly, the combined analysis showed the same effect for the vowel ECD location.
+This suggests co-articulatory effects, whereby the acoustic cues for
+labiality or coronality spread onto the initial vowel (cf. Fig. 1). Note
+that this vowel was consistently [a], such that any response differences must be attributed to the following consonants.
+The repercussions of these findings and potential subsequent
+investigations are considered in Section 6.
+
+5.4. Discussion
+
+6. General discussion
+
+The most important result of Experiment 2 is that it replicated
+the sensor- and source-space pattern of Experiment 1. The labial
+
+The main result of our experiments is that the classification of
+speech sounds according to their place of articulation is reflected
+
+Fig. 5. Dipole locations in the anterior-posterior dimension for the consonant M100, pooled data from Experiment 1 & 2. Labial deviants were located more anterior than
+coronal deviants. Based on Obleser et al. (2004), we hypothesize that dorsal (i.e. velar, uvular, etc.) consonants would be about 2.5 mm more posterior in relation to coronal
+consonants.
+
+80
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+in early pre-attentive brain magnetic measures as well as in the
+spatial alignment of the corresponding centers of activities in the
+auditory cortex. The fact that we found the same pattern of results
+for different manners of articulation suggests that PoA information
+is in fact abstract in the sense that it does not refer to a single
+acoustic difference (e.g. within the glides), but rather to several
+acoustic differences underlying the respective PoA. For this reason,
+a featural approach that defines features entirely on the basis of
+their acoustics cannot satisfyingly account for our data. On the
+other hand, we do not deny the importance of acoustic information
+in our experiments. On the basis of our M100 dipole findings, we
+propose that the brain's sensitivity to featural long-term representations is initially based on acoustic information. This acoustic classification is then modulated or warped towards cognitive
+categories that may be expressed as abstract phonological features
+or by reference to broad articulatory positions, such as labial and
+coronal. These PoAs can be considered ``preferred'' articulator positions within which acoustic correlates provide robust cues for feature-based speech sound distinctions. If we take previous ECD
+findings into consideration (Obleser, Elbert et al., 2004; Obleser,
+Lahiri et al., 2003, 2004; Obleser et al., 2006), the relative positioning of dipoles elicited by labials, coronals, and dorsals is such that
+labials precede coronals, and coronals precede dorsals. Again, we
+are aware that this linear hypothesis has to be put to test in an
+experiment with all three PoAs, but we think that this account is
+a sensible conjecture, since the sequence labial-coronal-dorsal describes a relative order of articulatory positions commonly used for
+phonetic descriptions cross-linguistically (cf. Ladefoged, 2001).
+Further, the alignment of lip and tongue positions on the sensory
+strip in the somatosensory cortex (Picard & Olivier, 1983; Tanriverdi
+et al., 2009) is reminiscent of the proposed alignment of articulatory
+positions in the auditory cortex. We hypothesize that the somatosensory sequence is paralleled in the auditory cortex, an assumption
+that is also reasonable with respect to the relatively robust communication between primary somatosensory cortex and superior
+temporal areas of the two cortices.
+We are aware that ECD locations in the auditory cortex are
+primarily based on the acoustic properties of the experimental
+stimuli. In this respect, previous research has established tonotopy
+in the auditory cortex (cf. Diesch & Luce, 1997; Huotilainen et al.,
+1995; Langner, Sams, Heil, & Schulze, 1997; Pantev, Hoke,
+Lutkenhoner, & Lehnertz, 1989; Pantev et al., 1988; Tiitinen
+et al., 1993). Pantev et al. (1989) showed that M100 dipoles elicited
+by tones with a high (subjective) pitch were located more medial
+as opposed to low pitch tones, which were located more lateral
+in the axial plane. Similar results were provided by Huotilainen
+et al. (1995) for magnetic responses (M100 and sustained fields)
+from the supratemporal plane of the auditory cortex. Further
+research showed that more complex (and more speech-like) stimuli showed yielded dipole arrangements which differed in other
+dimensions than the tonotopic axial plane resulting from pure
+tones (Diesch & Luce, 2000; Makela, Alku, & Tiitinen, 2003;
+Obleser, Elbert et al., 2003; Obleser, Lahiri et al., 2003, 2004;
+Shestakova et al., 2002, 2004). The results of Diesch and Luce
+(2000) demonstrated that vowels with high frequency formants
+elicited magnetic responses with dipoles located more to the anterior than dipoles of vowels with low frequency formants. This is
+reminiscent of the findings by Obleser and colleagues (Obleser,
+Lahiri et al., 2003, 2004), where coronal - which was found to elicit
+more anterior ECDs - corresponds to high F2 values. Interestingly,
+Makela et al. (2003) could show that labial vowels led to more
+anterior dipole localizations than non-labial vowels in their experiment. Acoustically, their vowels primarily differed in the dimension of the first formant, which suggests that the acoustic
+distinction between labial and coronal might based on the ratio
+of F2 and F1. Note that the lower frequency bands may provide
+
+cues for PoA distinctions even in fricatives, where the most salient
+cues are spectral peak locations and spectral moments in higher
+frequency bands (Jongman et al., 2000). Formant structures of
+glides, on the other hand, resemble those of their closest vowels
+(cf. Stevens, 1998), such that we were able to use the F2/F1 ratio
+as estimator for the consonant dipole location in the auditory cortex which proved to correlate with the anterior-posterior location
+of the corresponding dipole. This is not a contradiction to our positional hypothesis, whereby relations between articulatory locations are reflected in the auditory cortex. It just so happens that
+the F2/F1 ratio appears to be the most robust acoustic cue for the
+articulator positions labial and coronal. Importantly, this cue is
+crucially dependent on linguistic intelligibility, as suggested by
+previous work (Obleser et al., 2006), which strengthens the view
+that this acoustic-to-articulator mapping (i.e. F2/F1 to PoA) is a solid basis for distinctive feature theory. We do not think that the
+positional hypothesis - albeit not directly tested in our experiments - is a superfluous assumption, since the converging evidence for an articulator-based ECD ordering and our model
+comparison suggest that a pure acoustic account of the dipole locations is not as good as an account comprising categorical, articulatory information. We agree with Obleser et al. (2004) that relations
+between speech sounds may be warped towards a representation
+of perceptually salient contrasts, rather than towards a representation of linear acoustic distances. We further speculate, against a
+simplistic reading of our actual behavior results, that in our experiment, the labial glides and fricatives were perceptually more
+salient due to their visual cues, which in turn may have caused
+their stronger MMF responses.
+Our view that the featural basis is both acoustic and articulatory
+information is bolstered by our coarticulatory finding, as seen in
+the vowel M100 dipole locations, which followed the same pattern
+as the consonants. As seen in Fig. 1, fricatives and especially glides
+exerted a measurable co-articulatory influence on the initial vowel
+of our stimuli. This influence is expressible in slight changes of F2
+and F1, but did not change the vowel category (i.e. the [a] did not
+change to [e]). Obviously, this slight acoustic change transported
+knowledge about the corresponding articulator movements
+responsible for the production of the upcoming consonants.
+Regarding lexical feature specifications, our experiment provided no new evidence for featural underspecification as proposed
+by Lahiri and Reetz (2002). In sensor space, we found that the MMF
+in our MEG study was consistently stronger if the deviants had a
+labial place of articulation. In addition, the contrast between a
+coronal standard and a labial deviant led to a stronger brain magnetic response than vice versa. Since coronals are assumed to be
+underspecified, while labials are specified, our outcome is inconsistent with the Eulitz and Lahiri (2004) findings and proposed explanation. It is worth noting, however, that we used different segment
+types (consonants instead of vowels) and a different language
+(English instead of German), limiting the strict equivalence of our
+results. We leave it open for future research whether the theoretical assumptions regarding the PoA of English glides and fricatives
+have to be revised, or whether the Mismatch Negativity may not be
+the best or most direct way to assess the assumption of coronal
+underspecification for consonants. Note that previous work on
+vowels showed Mismatch Negativity results that were compatible
+with FUL's predictions (Eulitz & Lahiri, 2004; Scharinger, Eulitz, &
+Lahiri, 2010). At this point we cannot completely reconcile these
+findings, a synthesis subsuming both sets of results will almost certainly require additional MMN studies.
+Regarding latencies, our data are less consistent and showed no
+effects for PoA. We attribute this to the selection of naturally
+spoken VCV stimuli, where acoustic and co-articulatory cues might
+have become available at variable times so that we cannot provide
+a concise account of the time course of feature processing and
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+integration. Interestingly, the coronal fricative showed earlier
+latencies in the consonantal M100 and mismatch field time windows, which could have resulted from an earlier availability of
+spectral energy at the consonant onset.
+Taken together, our data indicate that the brain uses featurebased categories to structure the phoneme inventory of a given
+language (here: American English). The responses in source and
+sensor space seemed to be driven primarily by both acoustic information, and modulated by categorical top-down influences. We
+suggest that the features labial and coronal circumscribe particular
+articulatory configurations that result in robust acoustic cues over
+a range of manners of articulation. Our MMF results provide evidence for the assumption that labial and coronal are featurally distinct PoAs for consonants. The corresponding ECDs of their evoked
+auditory M100 responses predominantly differed along the anterior/posterior axis in the auditory cortex. Thus, the brain keeps spatially apart robust acoustic information emerging from distinct
+articulator configurations during early stages of speech perception.
+Acknowledgments
+We would like to thank David Poeppel, Diogo Almeida, and
+Philip Monahan for helpful comments on earlier versions of this
+manuscript. The research for this study was funded by the NIH
+grant 7ROIDC005660-07.
+References
+Ackermann, H., Hertrich, I., Mathiak, K., & Lutzenberger, W. (2001). Contralaterality
+of cortical auditory processing at the level of the M50/M100 complex and the
+mismatch field: A whole-head magnetoencephalography study. Neuroreport,
+12(8), 1683-1687.
+Baayen, H. (2008). Analyzing linguistic data: A practical introduction to statistics using
+R. Cambridge: Cambridge University Press.
+Baayen, H., Davidson, D. J., & Bates, D. M. (2008). Mixed-effects modeling with
+crossed random effects for subjects and items. Journal of Memory & Language,
+59(4), 390-412.
+Boersma, P., & Weenink, D. (2009). PRAAT: Doing phonetics by computer (ver. 5.1.0).
+Amsterdam: Institut for Phonetic Sciences.
+Boysson-Bardies, B., & Vihman, M. M. (1991). Adaptation to language: Evidence
+from babbling and first words in four languages. Language, 297-319.
+Chomsky, N., & Halle, M. (1968). The sound pattern of English. New York: Harper and
+Row.
+de Cheveigne, A. D., & Simon, J. Z. (2007). Denoising based on time-shift PCA. Journal
+of Neuroscience Methods, 165(2), 297-305.
+de Cheveigne, A. D., & Simon, J. Z. (2008). Sensor noise suppression. Journal of
+Neuroscience Methods, 168(1), 195-202.
+Dhanjal, N. S., Handunnetthi, L., Patel, M. C., & Wise, R. J. S. (2008). Perceptual
+systems controlling speech production. Journal of Neuroscience, 28(40),
+9969-9975.
+Diesch, E., Eulitz, C., Hampson, S., & Ross, B. (1996). The neurotopography of vowels
+as mirrored by evoked magnetic field measurements. Brain and Language, 53(2),
+143-168.
+Diesch, E., & Luce, T. (1997). Magnetic fields elicited by tones and vowel formants
+reveal tonotopy and nonlinear summation of cortical activation.
+Psychophysiology, 34(5), 501-510.
+Diesch, E., & Luce, T. (2000). Topographic and temporal indices of vowel spectral
+envelope extraction in the human auditory cortex. Journal of Cognitive
+Neuroscience, 12(5), 878-893.
+Dorman, M. F., & Loizou, P. C. (1996). Relative spectral change and formant
+transitions as cues to labial and alveolar place of articulation. The Journal of the
+Acoustical Society of America, 100, 3825-3830.
+Eulitz, C., & Lahiri, A. (2004). Neurobiological evidence for abstract phonological
+representations in the mental lexicon during speech recognition. Journal of
+Cognitive Neuroscience, 16(4), 577-583.
+Friedrich, C., Lahiri, A., & Eulitz, C. (2008). Neurophysiological evidence for
+underspecified lexical representations: Asymmetries with word initial
+variations. Journal of Experimental Psychology: Human Perception &
+Performance, 34(6), 1545-1559.
+Friedrich, C. K. (2005). Neurophysiological correlates of mismatch in lexical access.
+BMC Neuroscience, 6, 64.
+Gage, N., Poeppel, D., Roberts, T. P., & Hickok, G. (1998). Auditory evoked M100
+reflects onset acoustics of speech sounds. Brain Research, 814(1-2), 236-239.
+Ghini, M. (2001). Asymmetries in the phonology of miogliola. Berlin: Mouton de
+Gruyter.
+Halle, M. (1983). On the origin of the distinctive features. International Journal of
+Slavic Linguistics and Poetics, 27(Supplement), 77-86.
+
+81
+
+Huotilainen, M., Tiitinen, H., Lavikainen, J., Ilmoniemi, R. J., Pekkonen, E., Sinkkonen,
+J., et al. (1995). Sustained fields of tones and glides reflect tonotopy of the
+auditory cortex. NeuroReport, 6(6), 841-844.
+Jongman, A., Wayland, R., & Wong, S. (2000). Acoustic characteristics of English
+fricatives. The Journal of the Acoustical Society of America, 108, 1252-1263.
+Ladefoged, P. (2001). A course in phonetics (4. ed.). Fort Worth: Harcourt College
+Publishers.
+Lahiri, A., & Marslen-Wilson, W. D. (1991). The mental representation of lexical form:
+A phonological approach to the recognition lexicon. Cognition, 38, 245-294.
+Lahiri, A., & Reetz, H. (2002). Underspecified recognition. In C. Gussenhoven & N.
+Warner (Eds.), Laboratory phonology VII (pp. 637-677). Berlin: Mouton de
+Gruyter.
+Lahiri, A., & Reetz, H. (2010). Distinctive features: Phonological underspecification
+in representation and processing. Journal of Phonetics, 38, 44-59.
+Langner, G., Sams, M., Heil, P., & Schulze, H. (1997). Frequency and periodicity are
+represented in orthogonal maps in the human auditory cortex: Evidence from
+magnetoencephalography. Journal of Comparative Physiology A: Neuroethology,
+Sensory, Neural and Behavioral Physiology, 181(6), 665-676.
+Macmillan, N. A., & Creelman, C. D. (2005). Detection theory: A user's guide. Mahwah,
+NJ: Erlbaum.
+MacNeilage, P. F., Davis, B. L., & Matyear, C. L. (1997). Babbling and first words:
+Phonetic similarities and differences. Speech Communication, 22(2-3), 269-277.
+Makela, A. M., Alku, P., & Tiitinen, H. (2003). The auditory N1m reveals the lefthemispheric representation of vowel identity in humans. Neuroscience Letters,
+353(2), 111-114.
+Menning, H., Zwitserlood, P., Schoning, S., Hihn, H., Bolte, J., Dobel, C., et al. (2005).
+Pre-attentive detection of syntactic and semantic errors. Neuroreport, 16(1),
+77-80.
+Monahan, P., & Idsardi, W. J. (2010). Auditory sensitivity to formant ratios: Toward
+an account of vowel normalization. Language and Cognitive Process, 25(6),
+808-839.
+Naatanen, R. (2001). The perception of speech sounds by the human brain as
+reflected by the mismatch negativity (MMN) and its magnetic equivalent
+(MMNm). Psychophysiology, 38, 1-21.
+Naatanen, R., & Alho, K. (1997). Mismatch negativity (MMN) - The measure for
+central sound representation accuracy. Audiology and Neurotology, 2, 341-353.
+Naatanen, R., Lehtokoski, A., Lennes, M., Cheour, M., Huotilainen, M., Ilvonen, A.,
+et al. (1997). Language-specific phoneme representations revealed by electric
+and magnetic brain responses. Nature, 385, 432-434.
+Naatanen, R., Paavilainen, P., Rinne, T., & Alho, K. (2007). The mismatch negativity
+(MMN) in basic research of central auditory processing: A review. Clinical
+Neurophysiology, 118(12), 2544-2590.
+Naatanen, R., & Picton, T. (1987). The N1 wave of the human electric and magnetic
+response to sound: A review and an analysis of the component structure.
+Psychophysiology, 24(4), 375-425.
+Naatanen, R., & Winkler, I. (1999). The concept of auditory stimulus presentation in
+cognitive neuroscience. Psychological Bulletin, 125, 826-859.
+Obleser, J., Elbert, T., & Eulitz, C. (2004). Attentional influences on functional
+mapping of speech sounds in human auditory cortex. BMC Neuroscience, 5(1),
+24. doi:10.1186/1471-2202-5-24.
+Obleser, J., Elbert, T., Lahiri, A., & Eulitz, C. (2003). Cortical representation of vowels
+reflects acoustic dissimilarity determined by formant frequencies. Cognitive
+Brain Research, 15(3), 207-213.
+Obleser, J., Lahiri, A., & Eulitz, C. (2003). Auditory-evoked magnetic field codes place
+of articulation in timing and topography around 100 milliseconds post syllable
+onset. Neuroimage, 20, 1839-1847.
+Obleser, J., Lahiri, A., & Eulitz, C. (2004). Magnetic brain response mirrors extraction
+of phonological features from spoken vowels. Journal of Cognitive Neuroscience,
+16(1), 31-39.
+Obleser, J., Scott, S. K., & Eulitz, C. (2006). Now you hear it, now you don't: Transient
+traces of consonants and their unintelligible analogues in the human brain.
+Cerebral Cortex, 16(8), 1069-1076.
+Oehman, S. E. G. (1966). Coarticulation in VCV utterances: Spectrographic
+measurements. Journal of the Acoustical Society of America, 39(1), 151-168.
+Oldfield, R. C. (1971). The assessment and analysis of handedness: The Edinburgh
+inventory. Neuropsychologia, 9, 97-113.
+Pantev, C., Hoke, M., Lehnertz, K., Lutkenhoner, B., Anogianakis, G., & Wittkowski, W.
+(1988). Tonotopic organization of the human auditory cortex revealed by
+transient auditory evoked magnetic fields. Electroencephalography & Clinical
+Neurophysiology, 69, 160-170.
+Pantev, C., Hoke, M., Lutkenhoner, B., & Lehnertz, K. (1989). Tonotopic organization
+of the auditory cortex: Pitch versus frequency representation. Science,
+246(4929), 486-488.
+Phillips, C., Pellathy, T., Marantz, A., Yellin, E., Wexler, K., Poeppel, D., et al. (2000).
+Auditory cortex accesses phonological categories: An MEG mismatch study.
+Journal of Cognitive Neuroscience, 12, 1038-1105.
+Picard, C., & Olivier, A. (1983). Sensory cortical tongue representation in man.
+Journal of Neurosurgery, 59, 781-789.
+Pinheiro, J. C., & Bates, D. M. (2000). Mixed-effects models in S and S-PLUS. Springer
+Verlag.
+Poeppel, D., Idsardi, W. J., & van Wassenhove, V. (2008). Speech perception at the
+interface of neurobiology and linguistics. Philosophical Transactions of the Royal
+Society London, 363(1493), 1071-1086.
+Poeppel, D., & Marantz, A. (2000). Cognitive neuroscience of speech processing. In A.
+Marantz, Y. Miyashita, & W. O'Neil (Eds.), Image, language, brain (pp. 29-50).
+Cambridge, MA: MIT Press.
+
+82
+
+M. Scharinger et al. / Brain & Language 116 (2011) 71-82
+
+Poeppel, D., Yellin, E., Phillips, C., Roberts, T. P., Rowley, H. A., Wexler, K., et al.
+(1996). Task-induced asymmetry of the auditory evoked M100 neuromagnetic
+field elicited by speech sounds. Cognitive Brain Research, 4(4), 231-242.
+Pulvermuller, F., Kujala, T., Shtyrov, Y., Simola, J., Tiitinen, H., Alku, P., et al. (2001).
+Memory traces for words as revealed by the mismatch negativity. Neuroimage,
+14, 607-616.
+Pulvermuller, F., & Shtyrov, Y. (2006). Language outside the focus of attention: The
+mismatch negativity as a tool for studying higher cognitive processes. Progress
+in Neurobiology, 79, 49-71.
+Pulvermuller, F., Shtyrov, Y., Kujala, T., & Naatanen, R. (2004). Word-specific cortical
+activity as revealed by the mismatch negativity. Psychophysiology, 41, 106-112.
+Reetz, H. (1998). Automatic speech recognition with features. Universitat des
+Saarlandes, Saarbrucken: Unpublished Habilitationsschrift.
+Reetz, H. (2000). Underspecified phonological features for lexical access. Phonus:
+Reports in Phonetics, Universitat des Saarlandes, 5, 161-173.
+Reetz, H., & Jongman, A. (2008). Phonetics: Transcription, productions, acoustics and
+perception. Oxford: Wiley-Blackwell.
+Roberts, T. P., Ferrari, P., & Poeppel, D. (1998). Latency of evoked neuromagnetic
+M100 reflects perceptual and acoustic stimulus attributes. Neuroreport, 9(14),
+3265-3269.
+Roberts, T. P., & Poeppel, D. (1996). Latency of auditory evoked M100 as a function
+of tone frequency. Neuroreport, 7(6), 1138-1140.
+Sagey, E. (1986). The representation of features and relations in non-linear phonology.
+Doctoral Dissertation. Cambridge, MA: MIT.
+Sanders, L. D., Newport, E. L., & Neville, H. J. (2002). Segmenting nonsense: An eventrelated potential index of perceived onsets in continuous speech. Nature
+Neuroscience, 5(7), 700-703.
+Sarvas, J. (1987). Basic mathematical and electromagnetic concepts of the
+biomagnetic inverse problem. Physics in Medicine & Biology, 32, 11-22.
+Scharinger, M., Eulitz, C., & Lahiri, A. (2010). Mismatch negativity effects of
+alternating vowels in morphologically complex word forms. Journal of
+Neurolinguistics, 23, 383-399.
+Scherg, M., Vajsar, J., & Picton, T. W. (1990). A source analysis of the late human
+auditory evoked field. Journal of Cognitive Neuroscience, 1, 336-355.
+Shestakova, A., Brattico, E., Huotilainen, M., Galunov, V., Soloviev, A., Sams, M., et al.
+(2002). Abstract phoneme representations in the left temporal cortex: Magnetic
+mismatch negativity study. Neuroreport, 13(14), 1813-1816.
+Shestakova, A., Brattico, E., Soloviev, A., Klucharev, V., & Huotilainen, M. (2004).
+Orderly cortical representation of vowel categories presented by multiple
+exemplars. Cognitive Brain Research, 21, 342-350.
+
+Shtyrov, Y., & Pulvermuller, F. (2002a). Memory traces for inflectional affixes as shown
+by mismatch negativity. European Journal of Neuroscience, 15, 1085-1091.
+Shtyrov, Y., & Pulvermuller, F. (2002b). Neurophysiological evidence of memory
+traces for words in the human brain. Cognitive Neuroscience and
+Neuropsychology, 13(4), 521-526.
+Stevens, K. (1989). On the quantal nature of speech. Journal of Phonetics, 17, 3-45.
+Stevens, K., & Blumstein, S. E. (1978). Invariant cues for place of articulation in stop
+consonants. Journal of the Acoustical Society of America, 64, 1358-1368.
+Stevens, K. N. (1998). Acoustic phonetics (Vol. 30). Cambridge, MA; London, England:
+The MIT Press.
+Stevens, K. N. (2002). Toward a model for lexical access based on acoustic
+landmarks and distinctive features. The Journal of the Acoustical Society of
+America, 111, 1872-1891.
+Stevens, K. N. (2005). Features in speech perception and lexical access. In D. B.
+Pisoni & R. E. Remez (Eds.), The handbook of speech perception (pp. 125-156).
+Oxford: Blackwell.
+Tanriverdi, T., Al-Jehani, H., Poulin, N., & Olivier, A. (2009). Functional results of
+electrical cortical stimulation of the lower sensory strip. Journal of Clinical
+Neuroscience, 16, 1188-1194.
+Tavabi, K., Obleser, J., Dobel, C., & Pantev, C. (2007). Auditory evoked fields
+differentially encode speech features: An MEG investigation of the P50m and
+N100m time courses during syllable processing. European Journal of
+Neuroscience, 25, 3155-3162.
+Tiitinen, H., Alho, K., Huotilainen, M., Ilmoniemi, R. J., Simola, J., & Naatanen, R.
+(1993). Tonotopic auditory cortex and the magnetoencephalographic (MEG)
+equivalent of the mismatch negativity. Psychophysiology, 30(5), 537-540.
+Vihman, M. M. (1986). Phonological development from babbling to speech: Common
+tendencies and individual differences. Applied Psycholinguistics, 7(1), 3-40.
+Wheeldon, L., & Waksler, R. (2004). Phonological underspecification and mapping
+mechanisms in the speech recognition lexicon. Brain and Language, 90, 401-412.
+Winkler, I., Lehtokoski, A., Alku, P., Vainio, M., Czigler, I., Csepe, V., et al. (1999). Preattentive detection of vowel contrasts utilizes both phonetic and auditory
+memory representations. Cognitive Brain Research, 7(3), 357-369.
+Winters, S. J. (1999). Testing the relative salience of audio and visual cues for stop
+place of articulation. The Journal of the Acoustical Society of America, 106, 2271.
+Woods, D. L., Alain, C., Covarrubias, D., & Zaidel, O. (1995). Middle latency auditory
+evoked potentials to tones of different frequencies. Hearing Research, 85, 69-75.
+Woods, D. L., & Elmasian, R. (1986). The habituation of event-related potentials to
+speech sounds and tones. Electroencephalography and Clinical Neurophysiology,
+65(6), 447-459.
+
+

@@ -1,0 +1,611 @@
+Brain & Language 127 (2013) 6-11
+
+Contents lists available at ScienceDirect
+
+Brain & Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Short Communication
+
+The temporal dynamics of first versus second language production
+Kristof Strijkers a,, Cristina Baus b, Elin Runnqvist a, Ian FitzPatrick c,d, Albert Costa b,e
+a
+
+Laboratoire de Psychologie Cognitive, CNRS and Universite d'Aix-Marseille, 13331 Marseille, France
+Center for Brain and Cognition, CBC, Universitat Pompeu Fabra, Barcelona, Spain
+c
+Institut fur Sprache und Information, Heinrich Heine University, Dusseldorf, Germany
+d
+Radboud University Nijmegen, Donders Institute for Brain, Cognition, and Behavior, Nijmegen, The Netherlands
+e
+Institucio Catalana de Recerca i Estudis Avancats, ICREA, Barcelona, Spain
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 25 July 2013
+Available online 26 August 2013
+Keywords:
+Bilingualism
+Language production
+ERPs
+L2 disadvantage
+Word frequency
+Language control
+
+a b s t r a c t
+In this study we explored the temporal origin of processing differences between first and second language production. Forty highly proficient bilinguals named objects of high and low lexical frequency
+aloud for both L1 and L2 separately while event-related brain potentials (ERPs) were recorded. The first
+electrophysiological differences elicited by response language occurred at the same early P2 peak (140-
+220 ms) where we observed the onset of the lexical frequency effect, but only for those bilinguals who
+started naming in an L1 context and afterwards switched to an L2 naming context. The bilinguals who
+named objects in the reverse direction did not display a language effect in the ERPs. Taken together,
+the data show that the L2 naming disadvantage originates during the onset of lexical access and seems
+to be driven by both representational strength, which is lower for L2 words, and language control
+demands, which are higher for L2 words.
+O 2013 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Speaking in a second language (L2) is more effortful compared
+to first language (L1) production as revealed by slower naming
+latencies, higher error-rates and more frequent tip-of-the-tongue
+states (e.g., Gollan, Montoya, Cera, & Sandoval, 2008; Gollan & Silverberg, 2001; Ivanova & Costa, 2008; Kohnert, Hernandez, &
+Bates, 1998; Sadat, Clara, Alario, & Costa, 2012). While this phenomenon in itself is not surprising, understanding the origin and
+cause behind the L2 disadvantages has led to quite some debate
+in the literature (for a review see Runnqvist, Strijkers, Sadat, &
+Costa, 2011). The goal of the current study was to explore the temporal dynamics of L1 versus L2 object naming with event-related
+potentials (ERPs) in order to shed light on the time course of processing differences between a bilingual's two languages.
+There is disagreement in the field whether the L2 naming disadvantage first occurs at the moment the words associated with a given concept are retrieved (e.g., Runnqvist et al., 2011; Strijkers,
+Costa, & Thierry, 2010) or at a later post-lexical level where the selected words are spelled out into sounds and syllables (e.g., Hanulova, Davidson, & Indefrey, 2011; Indefrey, 2006). Evidence cited in
+favor of the latter stems mainly from two sources: (a) When comparing haemodynamic data between L1 and L2 production, the left
+ Corresponding author. Address: Laboratoire de Psychology Cognitive, Centre
+National de la Recherche Scientifique (CNRS), Universite d'Aix-Marseille, 3, place
+Victor Hugo, 13331 Marseille, France.
+E-mail address: Kristof.Strijkers@gmail.com (K. Strijkers).
+0093-934X/$ - see front matter O 2013 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.bandl.2013.07.008
+
+inferior frontal gyrus (LIFG) is the brain region which most reliably
+shows a language effect across studies (i.e., stronger activated during L2 production; e.g., Indefrey, 2006), and certain models of single word production link the LIFG to post-lexical processing
+(Indefrey & Levelt, 2004); (b) Consistent with the above, a few
+ERP studies comparing L1 and L2 production operations report that
+language differences do not seem to take effect until after the time
+window of lexical selection (e.g., Christoffels, Firk, & Schiller, 2007;
+Guo & Peng, 2007; Hanulova, Davidson, & Indefrey, 2008). For instance, in a go/no-go button-press task Hanulova and collaborators
+(2008; see also Hanulova et al., 2011) made unbalanced bilinguals
+decide upon conceptual (manmade or not) and phonemic information (does the picture name start with a /t/) of an object in L1 or L2.
+The authors observed a similar delay (86 ms) for L1 and L2 at the
+N200 no-go ERP between the conceptual and phonological conditions, leading to the conclusion that up to phonological retrieval
+there are no differences in lexical access between a bilingual's
+two languages.
+However, when employing such covert decision making paradigms the sensitivity to actual speech behavior can be questioned
+on several grounds (see Strijkers & Costa, 2011). And more in general, the spatial and temporal estimates defined by Indefrey and
+Levelt (2004), on which most inferences for a post-lexical locus
+of the language effect depend, do not go uncontested (e.g., Runnqvist et al., 2011; Strijkers & Costa, 2011). In fact, a recent ERP study
+employing a simpler experimental setup (picture naming) and
+which was directly linked to the behavior of interest (overt speech)
+found that L1 and L2 waveforms already started to diverge around
+
+K. Strijkers et al. / Brain & Language 127 (2013) 6-11
+
+190 ms after picture onset (Strijkers et al., 2010), with a time
+course and morphology similar to that elicited by a range of lexical
+sensitive variables (e.g., Costa, Strijkers, Martin, & Thierry, 2009;
+Strijkers, Holcomb, & Costa, 2011; Strijkers et al., 2010). To our
+knowledge this is the only study available that demonstrates early
+differences between L1 and L2 naming within monolingual speaking contexts. A downside, however, was that the language comparisons were done between subjects, leaving open the possibility that
+the early deflections reported reflect different brains rather than
+different languages. Given the potential impact an early language
+effect may have on our understanding of the cognitive and neurophysiological differences underlying bilingual speech production,
+the present study sought to explore the findings of Strijkers et al.
+(2010) in more detail. Crucially, we wanted to do so in a design
+in which the same bilinguals speaking in L1 and L2 could be compared. To this end, early and highly proficient Spanish-Catalan bilinguals were instructed to name objects first in one of their
+languages and afterwards in a separate naming block in the other
+language. If, with such design, we would again observe an early
+ERP effect mimicking that of a lexically sensitive manipulation,
+namely word frequency, then the results would provide strong evidence for earlier temporal differences between first and second
+language processing than previously thought.
+
+2. Results
+2.1. Behavioural results
+We found a main effect of Language (F(1, 38) = 16.11, P < .01),
+with faster naming latencies in L1 compared to L2; a main effect
+of Frequency (F(1, 38) = 59.70, P < .01), with faster naming latencies for low versus high frequency items; and a significant interaction between Language and Frequency (F(1, 38) = 4.85, P = .03),
+with larger frequency effects for L2 (62 ms) than L1 (36 ms) (see
+Fig. 1). The effect of Language Order and the interactions with this
+variable were not significant (all Ps > .10).
+
+7
+
+2.2.1. 140-220 ms
+In this time window low frequency object names elicited more
+positive ERP amplitudes compared to high frequency object names
+at posterior electrode sites (Table 1; Fig. 2a). Independent t-tests
+revealed this effect was significant for Rpar (P = .01; q = .09) and
+Cpar (P = .04; q = .13). Also in this time window we found that object naming in L2 elicited more positive ERP amplitudes compared
+to L1 naming, but only for the participants who initiated picture
+naming in L1 and afterwards changed to L2 (Table 1; Fig. 2b and
+c). The participants who started naming in L2 did not display ERP
+differences between the two languages (Table 1; Fig. 2b and c). Further examination of this interaction highlighted that while the
+ERPs between L1 and L2 were significantly different for LFr
+(P < .01; q = .02), FC (P < .01; q = .02), LC (P = .01; q = .02), Cpar
+(P = .03; q = .04) sites in those bilinguals naming in the L1 ? L2
+direction, the bilinguals performing the task in the L2 ? L1 direction did not show a language effect in the ERPs for any of the clusters tested (all Ps > .10) (see Fig. 2c).
+
+2.2.2. 220-280 ms
+Between 220 and 280 ms after stimulus onset ERPs elicited by
+low frequency items were more negative going compared to those
+elicited by high frequency items at the Lfr cluster (P = .02; q = .09).
+For the language effect similar results were observed as in the previous time window (Table 1; Fig. 2b and c). ERPs elicited by L2
+naming had significantly more positive amplitudes compared to
+those elicited by L1 naming at Lfr (P < .01; q < .01), FC (P < .01;
+q < .01), Rfr (P < .01; q < .01), LC (P = .02; q = .02), RC (P = .02;
+q = .02) and Cpar (P = .03; q = .03) electrode clusters when performing the naming task in the L1 ? L2 direction, but no significant effects were observed for the reverse language direction between
+naming blocks (all Ps > .14) (Fig. 2c).
+
+2.2.3. 280-350 ms
+2.2. ERP results
+A complete overview of the results from the 2 (Lexical Frequency)  2 (Response Language)  9 (Electrode Cluster)  2 (Language Order) repeated measures ANOVAs on all time windows can
+be found in Table 1. Below we will focus on those significant effects
+relevant to the questions addressed in the study.
+
+In this final time window ERPs were again more negative going
+for low versus high frequency object names at the Lfr electrode
+cluster (P = .03; q = .05) and more positive going for low versus
+high frequency object names at Lpar (P < .01; q < .01), Cpar
+(P = .04; q = .06), Rpar (P < .01; q < .01) and Oc sites (P < .01;
+q < .01) (Table 1; Fig. 2a). The ERP results for the language effect
+again mimicked the results of the previous time windows with
+more positive going ERP amplitudes in response to L2 versus L1
+naming for those bilinguals who started the task in L1 (P = .03)
+and no language effect for those bilinguals who started the task
+in L2 (P > .57) (Table 1; Fig. 2c).
+
+2.3. Onset latency analyses
+
+Fig. 1. Naming latencies (in ms) of the lexical frequency and language effects split
+up by language order. L1 represents the first language (Spanish), L2 the second
+language (Catalan), LF stands for low frequency items and HF for high frequency
+items.
+
+Running t-tests on individual electrodes (e.g., Strijkers et al.,
+2010) showed that low and high frequency ERPs started diverging
+reliably and significantly from each other by 148 ms after picture
+onset at PO2, Pz, PO1, CP2, P4, CP1 and P3, and by 156 ms at O1
+and O2. L1 versus L2 ERPs in the L1 ? L2 naming direction started
+to diverge significantly and reliably from each other by 124 ms at
+FC1, C3, Cz, CP5 and CP2, by 140 ms at F3, FC5, C4 and Pz, and by
+200 ms at Fz, FC2, CP1 and P3. In contrast, for the L2 ? L1 naming
+direction none of the electrodes displayed a consecutive series of
+minimum 12 significant t-tests for the contrast between L1 and
+L2 naming.
+
+8
+
+K. Strijkers et al. / Brain & Language 127 (2013) 6-11
+
+Table 1
+Significance table displaying the F-statistics of the 2  2  9  2 repeated-measures ANOVAs performed on the 5 time windows investigated in the ERP analyses. Significant
+effects are highlighted in bold.
+
+a
+
+Factora/Time
+
+0-60 ms
+
+60-120 ms
+
+140-220 ms
+
+220-280 ms
+
+280-350 ms
+
+L
+F
+O
+LO
+FO
+LF
+EL
+EF
+EO
+ELO
+EFO
+ELFO
+
+F<1
+F(1, 38) = 1.9, p = .17
+F(1, 38) = 1.6, p = .14
+F(1, 38) = 3.2, p = .08
+F<1
+F<1
+F<1
+F(8, 304) = 1.5, p = .20
+F<1
+F<1
+F<1
+F(8, 304) = 1.5, p = .19
+
+F<1
+F<1
+F<1
+F<1
+F<1
+F<1
+F<1
+F<1
+F(8, 304) = 1.1, p = .30
+F<1
+F<1
+F<1
+
+F<1
+F(1, 38) = 1.7, p = .18
+F<1
+F(1, 38) = 3.8, p = .05
+F<1
+F<1
+F(8, 304) = 1.3, p = .20
+F(8, 304) = 3.2, p = .02
+F<1
+F(8, 304) = 3.3, p = .02
+F(8, 304) = 1.2, p = .20
+F(8, 304) = 1.5, p = .22
+
+F<1
+F<1
+F<1
+F(1, 38) = 3.8, p = .06
+F(1, 38) = 1.3, p = .24
+F<1
+F(8, 304) = 1.7, p = .15
+F(8, 304) = 7.6, p < .01
+F(8, 304) = 3.6, p = .03
+F(8, 304) = 7.5, p < .01
+F(8, 304) = 3.0, p = .05
+F<1
+
+F(1, 38) = 1.5, p = .22
+F(1, 38) = 3.1, p = .08
+F<1
+F(1, 38) = 4.1, p = .04
+F<1
+F<1
+F(8, 304) = 2.7, p = .05
+F(8, 304) = 27.9, p < .01
+F(8, 304) = 3.4, p = .03
+F(8, 304) = 1.6, p = .10
+F(8, 304) = 1.0, p = .38
+F<1
+
+L = Response Language; F = Lexical Frequency; O = Language Order; E = Electrode Cluster.
+
+3. General discussion
+In this study we traced the time course of L1 versus L2 object
+naming with ERPs in order to gain insights about the temporal dissociation between a bilingual's two languages. For the naming
+latencies the expected L2 naming disadvantage (i.e., slower
+responses for L2 than L1) and the frequency effect (i.e., slower responses for low than high frequency names) were significant. Furthermore, the word frequency effect was larger for naming in L2
+compared to naming in L1 (e.g., Gollan et al., 2008; but see Ivanova
+& Costa, 2008). In the ERPs both phenomena first became apparent
+in the same early time window: Between 140 and 220 ms ERPs
+elicited by low frequency items and L2 naming were more positive
+compared to those elicited by high frequency items and L1 naming,
+replicating the P2-like modulations previously reported for both
+variables (Strijkers et al., 2010). Moreover, the ERP modulations
+of response language were restricted to those bilinguals who
+started naming in L1 and afterwards named in L2, but were absent
+for those who first named objects in L2 and later in L1. Taken together, the results show that cortical differences between first
+and second language production already occur in a time window
+corresponding to the onset of lexical access (e.g., Costa et al.,
+2009; Strijkers et al., 2010), though the presence of this language
+effect depended on the language order in which the bilinguals
+named objects. The latter suggests that the naming disadvantage
+in L2 is generated by a dynamic where the lower representational
+strength of L2 words invokes a stronger reliance on language control compared to the retrieval of L1 words for speech.
+While neurophysiological data from studies contrasting first
+and second language production have been argued to favour a
+post-lexical locus for the L2 disadvantage (e.g., Hanulova et al.,
+2011; Indefrey, 2006), the current data emphasize that such a view
+is incomplete. Just as reported by Strijkers et al. (2010), response
+language modulated the P2 peak, suggesting a lexical origin of
+the L2 naming disadvantage. A first indicator which allows for this
+conclusion is the early onset of the effect (120-140 ms). Even if
+one adopts Indefrey and Levelt's temporal model (2004), hereby
+following the same line of reasoning employed to assign a postlexical origin to the L2 naming disadvantage, the current ERP
+deflections elicited by response language are too early to reflect
+syllabification. A second and better indicator (since it does not rely
+on a hypothetical model) relates to the ERP morphology. The modulations elicited by response language and lexical frequency resulted in early overlapping time courses (within 150 ms) and
+similar positive enhancements for the less accessible representations (low frequency words and L2 words). Analogous P2 deflections in object naming have previously been reported for a range
+of psycholinguistic variables such as lexical frequency (e.g.,
+
+Strijkers et al., 2010; 2011; present data), cognate-status (e.g., Strijkers et al., 2010), response language (e.g., Strijkers et al., 2010;
+present data) and cumulative semantic interference (e.g., Costa
+et al., 2009). Although each of these variables individually might
+be attributed to a processing stage other than lexical selection,
+combining them leaves little room for an interpretation different
+than that the (centro-parietal) P2 modulation in object naming is
+sensitive to the onset of lexical activation (see Strijkers & Costa,
+2011).
+Of course, demonstrating that the L2 disadvantage originates
+when the bilingual brain engages in lexical access does not preclude that it could affect other levels of linguistic information such
+as phonology as well (e.g., Hoshino & Thierry, 2011). Also the current ERP divergences between L1 and L2 naming remained significant later in time (see also Strijkers et al., 2010). This might
+indicate that language has a ubiquitous effect within the linguistic
+system, similarly to what has been argued to occur for lexical frequency (e.g., Graves, Grabowski, Mehta, & Gordon, 2007; Knobel,
+Finkbeiner, & Caramazza, 2008; Strijkers et al., 2010). Because a
+bilingual's L2 is less practiced, all representational knowledge
+linked to L2 words will not be as strongly consolidated in the brain
+as the knowledge linked to L1 words (e.g., less myelinisation for
+less activated neuronal populations; e.g., Hauk & Pulvermuller,
+2004), which will require additional activation and processing time
+for the neural populations representing L2 words to fully ignite.
+The latter does not necessarily mean that the lexical frequency effect and the L2 disadvantage are therefore identical at the cortical
+level. In fact, certain differences between the effects can be appreciated as well. While the frequency effect has a posterior scalp distribution, the language effect is more broadly distributed with its
+maximum over central electrodes. Also, for the later time windows
+(220-280 ms; 280-350 ms), the posterior frequency effect was
+accompanied by a (left) anterior frequency effect displaying more
+negative going ERPs for low compared to high frequency words,
+which possibly reflects the image-specific N300 linked to non-verbal semantics (e.g., Holcomb & McPherson, 1994) and/or the typical N400 when elicited by pictures (e.g., Kutas & Federmeier, 2011).
+In contrast, a similar anterior ERP modulation was not present for
+the language effect. Speculating about reasons for these differences
+is not straightforward, though not observing any distinctions
+would have been more surprising given that the frequency effect
+is based on a comparison between different items while the language effect involves comparing the same items (across participants). In that sense, perhaps the resemblances in electrical brain
+response for both phenomena are more revealing than the differences. Nevertheless, whether or not the language effect can be perceived as a frequency effect in disguise, of importance here is the
+temporal rationale. If the ERP time course of the lexical frequency
+
+K. Strijkers et al. / Brain & Language 127 (2013) 6-11
+
+9
+
+Fig. 2. ERP results of the lexical frequency and language effects plotted for the centro-parietal (Cpar) electrode cluster. (a) ERPs elicited by low (LF) versus high frequency (HF)
+object names. The first ERP differences became apparent in the 140-220 ms time window. The topographical map of the lexical frequency effect (difference wave) for this
+time window is displayed in the figure. (b) ERPs elicited by object naming in the first (L1) versus second language (L2). The topographical map displayed in the figure
+represents the language effect between 140 and 220 ms, where response language interacted with language order. (c) On the right hand side the ERPs elicited by object
+naming in L1 (blue solid line) versus L2 (blue dotted line) are plotted for those participants naming first in L1 and then in L2 (L1 ? L2); on the left hand side the ERPs elicited
+by object naming in L1 (red solid line) versus L2 (red dotted line) are plotted for those participants naming first in L2 and then in L1 (L2 ? L1). The first ERP differences
+became apparent in the 140-220 ms time window, but only for those bilinguals who performed the task in the L1 ? L2 direction. The topographical maps of the language
+effect in this time window for each group are displayed in the figure.
+
+effect is a good index for the onset of lexical access in object naming, than the overlapping temporal pattern observed for the language effect demonstrates that processing differences between a
+bilingual's two language emerge as soon as entering the linguistic
+system.
+This main contribution of the study has to be complemented in
+one important way: The presence of the L2 disadvantage in the
+
+ERPs critically depended on naming directionality. While the P2
+modulation was evident when speaking in L1 and afterwards
+switching to L2 naming, the effect disappeared when switching
+from an L2 to an L1 naming context. Interestingly, a recent ERP
+study exploring long term translation priming reports a similar
+interaction between response language and directionality. Naming
+objects in L1 and subsequently naming their translations in L2
+
+10
+
+K. Strijkers et al. / Brain & Language 127 (2013) 6-11
+
+resulted in a repetition benefit, while for L1 following L2 naming
+no such repetition benefit was observed and instead L1 elicited
+more negative ERP amplitudes compared to L2 (Misra, Guo, Bobb,
+& Kroll, 2012). This finding was interpreted as revealing a decrease
+in the accessibility of L1 representations after L2 speech due to the
+stronger involvement of language control during L2 naming (see
+also Guo, Liu, Misra, & Kroll, 2011; Van Assche, Duyck, & Gollan,
+2013). Finding a similar moderating influence of language directionality in the current study is interesting since it sheds some
+light on the mechanism behind the L2 naming disadvantage. That
+is, processing differences between L1 and L2 naming are not solely
+reflected in an activation imbalance between the more frequently
+used L1 versus L2 words (e.g., Gollan et al., 2008; Gollan et al.,
+2011), but this frequency-lag seems to interact with bilingual language control (e.g., Green, 1998; Kroll, Bobb, Misra, & Guo, 2008).
+Because L2 representations are of a lower frequency than L1 representations, fluent and error-free speech requires a stronger reliance
+on language control in the weaker L2 compared to the dominant L1
+which will result in a more costly processing (e.g., Abutalebi &
+Green, 2007; Bialystok, Craik, & Luk, 2008). In that manner, the
+findings might reveal stronger reactive inhibition of L1 representations during L2 naming than vice versa (global and bilingual-specific: e.g., Abutalebi et al., 2008; Christoffels et al., 2007; Green,
+1998; Kroll et al., 2008; Misra et al., 2012; or local and speakergeneral: e.g., Runnqvist, Strijkers, Alario, & Costa, 2012; Runnqvist
+et al., 2011), which explains the absence of a language effect in the
+ERPs for the L2 ? L1 direction. Because of the L1 inhibition during
+L2 naming, L1 representations will be less accessible on subsequent L1 naming compared to the L1 ? L2 order, hereby masking
+out the early language effect observed for the latter. Another (not
+mutually exclusive) possibility, which fits with the P2 modulation
+encountered (e.g., Strijkers et al., 2011), relates to proactive control
+being sensitive to language (e.g., Runnqvist et al., 2011). Given that
+participants know beforehand in which language to respond, such
+knowledge could enhance accessibility to language-relevant representations in a top-down fashion. Within such framework, the
+weaker representations will require stronger proactive facilitation,
+arguably engendered by the P2 increase for L2 naming in the
+L1 ? L2 direction (see Strijkers et al., 2011). In contrast, when initiating the task in L2, the strong proactive enhancement could
+cause a higher degree of cross-language competition on subsequent L1 naming. If so, an increase in proactive control for accessing L1 words will be required, resulting in the absence of a P2
+language effect. Exploring these possibilities explicitly in future research will be important in order to understand how bilinguals
+control their utterances in monolingual speech contexts.
+For present purposes, the results in this study revealed that the
+temporal dynamics between L1 and L2 naming start to dissociate
+the moment the brain engages in lexical processing and are engendered by an increase in cortical activation during L2 speech, but
+only when switching from an L1 to an L2 naming context. This is
+likely because words in a bilingual's weaker language are less
+accessible and require a stronger recruitment of language control
+compared to words in the dominant language.
+
+4. Methods
+4.1. Participants
+40 early and highly proficient Spanish-Catalan bilinguals (25 females) participated in the study (mean age = 22; S.D = 3). All were
+psychology students at the University of Barcelona, right-handed,
+with normal or corrected-to-normal vision and without any neurological or motor-related deficits. Before the experiment, participants were asked to indicate in a scale from 1 (low proficient) to
+
+5 (native like level) their level of proficiency both in Spanish (L1:
+5) and in Catalan (L2: 4.8).
+4.2. Materials
+64. line-drawings were selected, half with high and the other
+half with low frequency names (mean lemma frequency (LEXESP;
+Sebastian-Galles, Marti, Carreiras, & Cuetos, 2000): low frequency:
+3.9; high frequency: 52). All items were matched for word length,
+cognate-status, imageability, typicality and physical variance (e.g.,
+Thierry, Martin, Downing, & Pegna, 2007). The 64 items were divided in two separate sets of 32 items. These two sets were carefully controlled to have the same lexical frequency differences
+within each set and identical frequency values between sets. In
+that manner, we ended up with 2 fully counterbalanced sets of
+items to ensure that a given participants did not have to name
+translations. Participants named a first set of items in one language
+(L1 or L2) and another set of different items in a subsequent block
+in the other language (L2 or L1). In total 20 participants named the
+pictures in the L1 ? L2 direction and the other 20 participants in
+the L2 ? L1 direction. Within eachblock items were repeated three
+times to ensure sufficient statistical power.
+4.3. Procedure
+Each experimental trial had the following structure: (a) a picture was displayed at the centre of the screen until a response
+was given or for a maximum of 1500 ms; (b) a blank inter-trial
+interval of 1000 ms intervened between picture offset and the onset of a new trial. Response times were measured by a voice key.
+4.4. EEG procedure
+The electroencephalogram (EEG) was continuously recorded
+from 31 scalp locations using tin electrodes embedded in an elastic
+cap. Two bipolar electrodes were placed next to and beneath the
+left eye (EOGH and EOGV) to register eye movements; two other
+electrodes were placed on the participants' right and left mastoid
+(A1 and A2) for off-line referencing and a final electrode was
+placed on the participants' nose as on-line reference channel. The
+EEG was continuously recorded and digitized at 250 Hz. Impedances were reduced to 5 kOhms or less prior to the beginning of
+recording. Before segmentation, the EEG was processed through a
+low-pass filter with a cut-off frequency of 20 Hz and a high-pass
+filter of 0.03 Hz. The raw EEG was segmented off-line in epochs
+of 650 ms starting 200 ms before stimulus onset until 450 ms after
+stimulus onset. Prior to averaging, artefact and eye-movement
+rejection criteria were applied and the data were baseline corrected using the 200 ms pre-stimulus interval. Furthermore, the
+same motor artefact rejection procedure as in Strijkers et al.
+(2010) was applied to ensure that articulation distortions of the
+ERPs were removed from the data.
+4.5. Analyses
+Both for naming latencies and ERPs 2 (Lexical Frequency)  2
+(Response Language)  9 (Electrode Cluster - only for ERPs)  2
+(Language Order - between-subjects factor) repeated measures ANOVAs were conducted. For the ERPs, the ANOVAs were conducted
+on 5 different time-windows centred on peaks visible in the global
+field power averaged over subjects and conditions (0-60 ms;
+60-120 ms; 140-220 ms; 220-280 ms; 280-350 ms), and over 9
+electrode clusters (average over the individual electrodes): Leftfrontal (LFr), right-frontal (RFr), left-central (LC), fronto-central
+(FC), right-central (RC), left-parietal (Lpar), centro-parietal (Cpar),
+right-parietal (Rpar) and occipital (Oc). Where relevant and to help
+
+K. Strijkers et al. / Brain & Language 127 (2013) 6-11
+
+understand significant interactions with electrode cluster, the results from independent two-tailed t-tests will be reported (significant p-values and FDR corrected q-values; Benjamini & Hochberg,
+2000).
+Acknowledgments
+We are grateful to Guillaume Thierry, Wouter Duyck and Judith
+Kroll for their constructive reviews on earlier versions of this manuscript. Kristof Strijkers and Elin Runnqvist received funding for
+this research from the People Programme (Marie Curie Actions)
+of the European Union's Seventh Framework Programme (FP7/
+2007-2013) under REA grant agreement numbers 302807 (K.S.)
+and 329339 (E.R.). Cristina Baus was supported by a post-doctoral
+fellowship JCI-2010-06504 from the Spanish Government. Albert
+Costa was supported by grants from the Spanish Government
+(PSI2008-01191, PSI2011-23033, Consolider Ingenio 2010
+CSD2007-00012) and the Catalan Government (Consolidado SGR
+2009-1521).
+References
+Abutalebi, J., Annoni, J. M., Zimine, I., Pegna, A. J., Seghier, M. L., Hannelore, L. J., et al.
+(2008). Language control and lexical competition in bilinguals: An event-related
+fMRI study. Cerebral Cortex, 18(7), 1496-1505.
+Abutalebi, J., & Green, D. (2007). Bilingual language production: The neurocognition
+of language representation and control. Journal of Neurolinguistics, 20, 242-275.
+Benjamini, Y., & Hochberg, Y. (2000). On the adaptive control of the false discovery
+rate in multiple testing with independent statistics. Journal of Educational and
+Behavioral Statistics, 25, 60-83.
+Bialystok, E., Craik, F., & Luk, G. (2008). Cognitive control and lexical access in
+younger and older bilinguals. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 34(4), 859-873.
+Christoffels, I. K., Firk, C., & Schiller, N. (2007). Bilingual language control: An eventrelated brain potential study. Brain Research, 1147, 192-208.
+Costa, A., Strijkers, K., Martin, C., & Thierry, G. (2009). The time course of word
+retrieval revealed by event-related brain potentials during overt speech.
+Proceedings of the National Academy of Sciences, 106, 21442-21446.
+Gollan, T. H., Montoya, R. I., Cera, C., & Sandoval, T. C. (2008). More use almost
+always means a smaller frequency effect: Aging, bilingualism, and the weaker
+links hypothesis. Journal of Memory and Language, 58, 787-814.
+Gollan, T. H., & Silverberg, N. B. (2001). Tip-of-the-tongue states in Hebrew-English
+bilinguals. Bilingualism: Language and Cognition, 4, 63-83.
+Gollan, T. H., Slattery, T. J., Goldenberg, D., Van Assche, E., Duyck, W., & Rayner, K.
+(2011). Frequency drives lexical access in reading but not in speaking: The
+frequency-lag hypothesis. Journal of Experimental Psychology: General, 140,
+186-209.
+Graves, W. W., Grabowski, T. J., Mehta, S., & Gordon, J. K. (2007). A neural signature
+of phonological access: Distinguishing the effects of word frequency from
+familiarity and length in overt picture naming. Journal of Cognitive Neuroscience,
+19, 617-631.
+Green, D. W. (1998). Mental control of the bilingual lexico-semantic system.
+Bilingualism: Language and Cognition, 1, 67-81.
+Guo, T., Liu, H., Misra, M., & Kroll, J. F. (2011). Local and global inhibition in bilingual
+word production: fMRI evidence from Chinese-English bilinguals. NeuroImage,
+56, 2300-2309.
+Guo, T. M., & Peng, D. L. (2007). Speaking words in the second language: From
+semantics to phonology in 170 ms. Neuroscience Research, 57, 387-392.
+
+11
+
+Hanulova, J., Davidson, D. J., & Indefrey, P. (2011). Where does the delay in L2
+picture naming come from? Psycholinguistic and neurocognitive evidence on
+second language word production. Language and Cognitive Processes, 26,
+902-934.
+Hanulova, J., Davidson, D. J., & Indefrey, P. (2008). The time course of word-form
+encoding in second language word production: An ERP study. In Poster
+presented at the 5th International Workshop on Language Production, Annapolis,
+Maryland.
+Hauk, O., & Pulvermuller, F. (2004). Effects of word length and frequency on the
+human event-related potential. Clinical Neurophysiology, 115, 1090-1103.
+Holcomb, P. J., & McPherson, W. B. (1994). Event-related brain potentials reflect
+semantic priming in an object decision task. Brain and Cognition, 24, 259-276.
+Hoshino, N., & Thierry, G. (2011). Language selection in bilingual word production:
+Electrophysiological evidence for cross-language competition. Brain Research,
+1371, 100-109.
+Indefrey, P. (2006). A meta-analysis of hemodynamic studies on first and second
+language processing: Which suggested differences can we trust and what do
+they mean? In M. Gullberg & P. Indefrey (Eds.), The cognitive neuroscience of
+second language acquisition (pp. 279-304). Malden, MA: Blackwell Publishing.
+Indefrey, P., & Levelt, W. J. M. (2004). The spatial and temporal signatures of word
+production components. Cognition, 92, 101-144.
+Ivanova, I., & Costa, A. (2008). Does bilingualism hamper lexical access in speech
+production? Acta Psychologica, 127, 277-288.
+Knobel, M., Finkbeiner, M., & Caramazza, A. (2008). The many places of frequency:
+Evidence for a novel locus of the lexical frequency effect in word production.
+Cognitive Neuropsychology, 25, 256-286.
+Kohnert, K. J., Hernandez, A. E., & Bates, E. (1998). Bilingual performance on the
+Boston Naming Test: Preliminary norms in Spanish and English. Brain and
+Language, 65, 422-440.
+Kroll, J. F., Bobb, S., Misra, M., & Guo, T. (2008). Language selection in bilingual
+speech: Evidence for inhibitory processes. Acta Psychologica, 128, 416-430.
+Kutas, M., & Federmeier, K. D. (2011). Thirty years and counting: Finding meaning in
+the N400 component of the event-related brain potential (ERP). Annual Review
+of Psychology, 62, 621-647.
+Misra, M., Guo, T., Bobb, S. C., & Kroll, J. F. (2012). When bilinguals choose a single
+word to speak: Electrophysiological evidence for inhibition of the native
+language. Journal of Memory and Language, 67, 224-237.
+Runnqvist, E., Strijkers, K., Alario, F.-X., & Costa, A. (2012). Cumulative semantic
+interference is blind to language: Implications for models of bilingual speech
+production. Journal of Memory and Language, 66, 850-869.
+Runnqvist, E., Strijkers, K., Sadat, J., & Costa, A. (2011). On the temporal and
+functional origin of L2 disadvantages in speech production: A critical review.
+Frontiers in Psychology, 2, 379.
+Sadat, J., Clara, M., Alario, F.-X., & Costa, A. (2012). Characterizing the bilingual
+disadvantage in noun phrase production. Journal of Psycholinguistic Research, 41,
+159-179.
+Sebastian-Galles, N., Marti, M., Carreiras, M., & Cuetos, F. (2000). LEXESP: Lexico
+informatizado del espanol. Ediciones Universitat de Barcelona. Barcelona. [LEXESP:
+Spanish informatized lexic].
+Strijkers, K., & Costa, A. (2011). Riding the lexical speedway: A critical review on the
+time course of lexical selection in speech production. Frontiers in Psychology, 2,
+356.
+Strijkers, K., Costa, A., & Thierry, G. (2010). Tracking lexical access in speech
+production: Electrophysiological correlates of word frequency and cognate
+effects. Cerebral Cortex, 20, 912-928.
+Strijkers, K., Holcomb, P., & Costa, A. (2011). Conscious intention to speak facilitates
+lexical access during overt object naming. Journal of Memory and Language, 65,
+345-362.
+Thierry, G., Martin, C. D., Downing, P., & Pegna, A. J. (2007). Controlling for
+interstimulus perceptual variance abolishes N170 face selectivity. Nature
+Neuroscience, 10, 505-511.
+Van Assche, E., Duyck, W. & Gollan, T. H., 2013. Whole-language and item-specific
+control in bilingual language production. Journal of Experimental Psychology:
+Learning, Memory and Cognition.
+
+

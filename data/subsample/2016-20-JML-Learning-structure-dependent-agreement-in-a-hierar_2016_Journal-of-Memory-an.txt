@@ -1,0 +1,2295 @@
+Journal of Memory and Language 87 (2016) 84-104
+
+Contents lists available at ScienceDirect
+
+Journal of Memory and Language
+journal homepage: www.elsevier.com/locate/jml
+
+Learning structure-dependent agreement in a hierarchical
+artificial grammar
+Julie Franck , Irene Rotondi, Ulrich H. Frauenfelder
+Laboratory of Psycholinguistics, University of Geneva, Geneva, Switzerland
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 16 December 2014
+revision received 5 November 2015
+Available online 10 December 2015
+Keywords:
+Artificial grammar
+Structure-dependency
+Agreement
+Hierarchical structure
+Phrase structure
+Cue
+
+a b s t r a c t
+We present a novel way to implement hierarchical structure and test its learnability in an
+artificial language involving structure-dependent, long-distance agreement relations. In
+Experiment 1, the grammar was exclusively cued by phonological and prosodic markers
+similar to those found in natural languages. Experiment 2 contained additional semantic
+cues in the form of a reference world. At the group level, successful generalization of the
+phrase structure rules to new words was found in both experiments. Analyses of individual
+profiles show that a subset of participants also generalized their knowledge to novel phrase
+structure rules, instantiating a natural extension of the training grammar, based on recursion of coordination. Rule induction improves across-the-board in the presence of semantic
+cues. It is concluded that adults are able to develop, to some extent, abstract knowledge of
+hierarchical, structure-dependent representations despite impoverished input data and
+minimal training.
+O 2015 Elsevier Inc. All rights reserved.
+
+Introduction
+The expressive power of language lies in the organization of words into higher-order phrases organized hierarchically and over which syntactic rules are defined.
+Hierarchical structure is a defining property of the phrase
+structure grammars characterizing natural languages
+(Chomsky, 1965). For example, in the sentence The daughter of our new neighbors sings in a band, the verb `sings'
+agrees with the head of the subject phrase `the daughter',
+and not with the intervening material `our new neighbors'
+that is embedded within the subject phrase. One of the
+major challenges of hierarchical structure for the parser
+is that it underlies phenomena like agreement, movement
+and recursion, which have in common the potential to
+involve long-distance dependencies between syntactically
+
+ Corresponding author at: Laboratory of Psycholinguistics, University
+of Geneva, 40 Bd Pont d'Arve, 1205 Geneva, Switzerland.
+E-mail address: julie.franck@unige.ch (J. Franck).
+http://dx.doi.org/10.1016/j.jml.2015.11.003
+0749-596X/O 2015 Elsevier Inc. All rights reserved.
+
+related units, forcing the parser to keep track of the dependents and their dependencies.
+The nature of the abilities underlying the learning, representation and processing of hierarchical syntactic relations lies at the core of research on artificial grammar
+learning (AGL). The use of simplified grammar systems in
+artificial languages (Reber, 1967) allows manipulating the
+input participants are exposed to, and therefore identifying
+the key information necessary for inducing hierarchical
+structure. This work has addressed questions like whether
+the ability to learn rule systems based on phrase structure
+grammar is specific to humans (e.g., Fitch & Hauser, 2004;
+Gentner, Fenn, Margoliash, & Nusbaum, 2006; Hauser,
+Chomsky, & Fitch, 2002) and whether, and in which conditions, human adults come to induce hierarchical structure
+(e.g., Bahlmann, Schubotz, & Friederici, 2008; Corballis,
+2007; De Vries, Monaghan, Knecht, & Zwitserlood, 2008;
+Lai & Poletiek, 2011; Perruchet & Rey, 2005; Poletiek,
+2002).
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+The first section of the Introduction reviews AGL studies
+that implemented hierarchical structure, focusing on the
+challenges that these studies have met with respect to
+the phenomenon targeted, i.e., mirror recursion, and on
+conditions allowing learning. The second section presents
+an overview of our work. We designed a novel implementation of hierarchical structure in an AG involving
+structure-dependent agreement dependencies, which we
+argue are closer to natural language phenomena than multiple center-embedding. The artificial language created
+involves the basic ingredients of phrase structure grammars, i.e., constituent structure, syntactic categories, grammatical morphology and long-distance dependencies,
+implemented by way of phonological and prosodic cues.
+Experiment 1 explores grammar induction in the absence
+of semantics, whereas Experiment 2 explores it in the presence of semantic cues in the form of a reference world.
+After being exposed to the language for 50 min, adult participants were found to generalize the agreement rule to
+novel words, and a subset of them generalized it to novel
+structures involving phrase structure rules that were not
+part of the training grammar. The data suggest that adults
+show a disposition to represent the grammar of this artificial language in terms of hierarchical phrase structure
+rather than linear structure, in line with the hypothesis
+that our system ``forces us always to go to the hierarchical
+abstract rule and always neglect the more elementary linear physical rule" (Chomsky, 1980).
+Implementing hierarchical structure in an artificial grammar
+Operationalizing hierarchical structure in an artificial
+grammar requires that some of its formal properties be isolated and mapped onto a perceptual signal. Hierarchical
+structure underlies a variety of syntactic phenomena like
+agreement, movement and recursion. These phenomena
+have in common the potential to have intervening material
+in the input word string that separates syntactically
+related units. Whereas a number of studies have explored
+the possibility of implementing phrase structure grammar
+in an artificial language (e.g., Langus, Marchetto, Bion, &
+Nespor, 2012; Moeser & Bregman, 1972; Morgan &
+Newport, 1981; Mori & Moeser, 1983), some of them incorporating movement (Tettamanti et al., 2002, 2009; Valian
+& Coulson, 1988), it is only in the last decade that
+structure-dependent long-distance syntactic dependencies
+have appeared in AGL research, in the phenomenon of multiple center-embedding. Center-embedding allows an arbitrary number of phrases to be nested within higher order
+phrases (e.g., [The rat [the cat killed] ate the malt]), and
+is therefore viewed as exemplifying recursion in natural
+languages. Two major types of center-embedding grammars have been explored: phrase structure grammars
+(PSG) and finite state grammars (FSG). The PSG AnBn (generated, for example, by the rules S ? [ASB] and S ? 0)
+includes strings like AB, A[AB]B and A[A[AB]B]B (e.g.,
+Cho, Szkudlarek, Kukona, & Tabor, 2011; Fitch & Hauser,
+2004; Hochmann, Azadpour, & Mehler, 2008; Zimmerer,
+Cowell, & Varley, 2011, 2014). It involves a type of recursion relying on counting, in which the number of As determines the number of Bs. It is usually contrasted with the
+
+85
+
+corresponding FSG (AB)n (generated by the rules S ?
+[ABS] and S ? 0), which generates structures of the type
+AB, ABAB or ABABAB. This counting recursion grammar
+can be fully described by transitional probabilities
+between a finite set of units. Center-embedding has also
+been explored in phrase structure grammars implementing mirror recursion (S ? [AiSBi], S ? 0), in which As and
+Bs are paired within the constituent structure such that
+A1 is paired with B1, A2 with B2 and A3 with B3 in strings
+like [A3[A2[A1B1]B2]B3] (e.g., Bahlmann & Friederici,
+2006; Bahlmann et al., 2008; Conway, Ellefson, &
+Christiansen, 2003; De Vries, Petersson, Geukes,
+Zwitserlood, & Christiansen, 2012; De Vries et al., 2008;
+Lai & Poletiek, 2011, 2013; Mueller, Bahlmann, &
+Friederici, 2010; Perruchet & Rey, 2005).
+Fitch and Hauser (2004) initiated research with the aim
+of exploring potential differences between humans and
+cotton-top tamarins in their ability to learn a PSG as
+opposed to a FSG. They contrasted sequences generated
+from the PSG AnBn with sequences generated by the FSG
+(AB)n. When trained on the FSG grammar, both humans
+and monkeys discriminated PSG strings in the test phase.
+In contrast, when trained on the PSG grammar, only
+humans were able to reject ungrammatical FSG strings,
+suggesting that they induced the PSG grammar from the
+input. Subsequent studies have questioned the conclusion
+humans actually did represent the abstract structure of AnBn (e.g., De Vries et al., 2008; Hochmann et al., 2008;
+Zimmerer et al., 2011, 2014), and Perruchet and Rey
+(2005) questioned the relevance of the counting recursion
+AnBn grammar as a test case for natural language recursion
+(see also Corballis, 2007). In the materials used by Fitch &
+Hauser, pairings between As and Bs are not needed to discriminate between the two types of strings: discrimination
+could be based on counting or even more rudimentary perceptual processes (like the detection of repetitions or
+switches between female and male voices). Perruchet and
+Rey showed that when the materials involved mirror
+recursion, i.e., genuine center-embedding constraints with
+systematic pairings between the syllables in the strings,
+participants failed to successfully represent the dependencies between the syllables (see also Conway et al., 2003).
+Although some studies have reported successful learning
+of mirror recursion dependencies (Bahlmann & Friederici,
+2006), De Vries et al. (2008, 2012) argue that performance
+actually can rely on surface distinctions, and that even 2level center-embedding could not be learned in an AGL
+setting.
+These results seriously question the learnability of
+center-embedding patterns in artificial grammars. Some
+studies show that learning may nevertheless take place
+to some extent under specific conditions. The first condition concerns the learning procedure. Various studies indicate a beneficial effect of `starting small' (Elman, 1993) or
+`staged input', showing that learning is improved when
+complexity is incrementally added such that participants
+are first exposed to strings with 0-level of embedding
+(adjacent dependencies), followed by 1-level and then 2level embedding (Bahlmann et al., 2008; Conway et al.,
+2003; Fedor, Varga, & Szathmary, 2012; Lai & Poletiek,
+2011). Furthermore, knowledge of 2-level embedding
+
+86
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+structures was also found to correlate with knowledge of
+the 1-level of embedding, suggesting that the structural
+insight developed at the lower levels serves as an anchor
+point for the development of more complex representations (Cho et al., 2011; Fedor et al., 2012).
+The second condition concerns the use of cues to the
+pairings involved in center-embedding. Whereas arbitrary
+pairings fail to give rise to the learning of center-embedded
+dependencies, the presence of phonological cues to the
+pairings improves the learning of paired dependencies
+(Bahlmann et al., 2008; Fedor et al., 2012; Lai & Poletiek,
+2011; Mueller et al., 2010; Zimmerer et al., 2014). Various
+implementations of these cues have been proposed, usually involving shared phonological features between the
+units of the categories as well as shared features between
+the dependents. For example, in Lai and Poletiek (2011)
+the two categories of units A and B systematically differed
+in their vowels (e/i vs. o/u). In addition, pairs of A-syllables
+and B-syllables in the strings were cued by their consonants such that A-syllables had voiced stops (b/g/d) while
+the corresponding B-syllables had the corresponding
+unvoiced stops (p/t/k).
+Prosodic cues also play a role in the learning of mirror
+recursion. In an experiment designed to specifically assess
+its role, Mueller and colleagues (Mueller et al., 2010) tested
+the learning of an A2B2 rule contrasting four conditions:
+Condition 1 in which the A1A2B2B1 quadruplets were spoken in an unsegmented monotone manner, Condition 2 in
+which a descending intonational contour ended each
+quadruplet, Condition 3 in which, in addition to the intonational contour, pauses of 960 ms were introduced between
+quadruplets, and Condition 4 in which an additional pause
+was added between the pushes (i.e., the As: A1A2) and the
+pops (i.e., the Bs: B2B1) emphasizing the centerembedding structure. The language also contained phonological cues. Whereas no learning was observed for Condition 1, significantly above-chance learning was observed
+for the other three conditions, all of which included prosodic cues. In addition, significantly better performance was
+reported for Condition 3 than Condition 2, attesting to
+the beneficial role of pauses marking boundaries between
+the major units of the sentences.
+Finally, despite the well-attested observation that
+semantic relations facilitate the processing of multiple
+center-embedding (e.g., King & Just, 1991; Lewis, 1996),
+we are aware of only one study exploring the role of
+semantics in the processing of center-embedding in an
+AG setting. Fedor et al. (2012) contrasted a grammar
+involving real words of Hungarian whose pairings involved
+close semantic relationships, a grammar involving real
+words of Hungarian (nouns) whose pairings did not
+involve any semantic relationships, a grammar involving
+pseudo-words made out of the same letters as the real
+words and which sounded like Hungarian, and a grammar
+involving pseudo-words similar to those previously used in
+studies conducted with German speakers (Bahlmann et al.,
+2008) and that did not sound like Hungarian words. They
+found that the learning of 2-word pairs at Level 1 (without
+embedding) required fewer training blocks when words
+were semantically related compared to the other three
+conditions. However, the learning of embedding (Levels 2
+
+and 3 involving 4 and 6 words respectively) was facilitated
+by lexical knowledge, with higher performance with real
+words than pseudo-words, with no additional facilitation
+for semantically related words as compared to words unrelated words. Hence, semantic relationships between the
+units of the sequence do not seem to have a facilitatory
+effect in the processing of the embedding structure; rather,
+the finding of an influence of the lexical status suggests the
+involvement of long-term memory knowledge in the processing of short-term memory representations (e.g.,
+Majerus & van der Linden, 2003).
+An interesting debate took place a few decades ago
+about the role of semantics in facilitating the learning of
+another type of complex artificial grammar. Work by
+Moeser and Bregman (1972) suggested that the learning
+of a complex PSG is contingent on the presence of semantic
+cues. The authors created three grammars of differing complexity involving words belonging to four word classes (A,
+B, C, D) and selection restriction constraints defined by
+sentence position and privilege of occurrence (obligatory
+vs. optional constituents). Visual features (e.g., shapes,
+lines, orientation) were used to mark reference of nonsense
+words. The learning of the languages was investigated in
+four conditions. Condition 1 contained only words presented in a written form. Condition 2 contained an arbitrary association between the written words and visual
+objects featured by specific colors, shapes, lines, or orientations. Condition 3 contained a systematic correspondence
+between word classes and the visual objects (in particular,
+words belonging to class A were represented by colored
+rectangles, words belonging to class B were represented
+by blank rectangles with different orientations, words
+belonging to class C were represented by special geometrical figures, and words belonging to class D were represented by lines, dotted or double). Finally, in Condition 4,
+words were associated with visual features representing
+syntactic class membership, as in Condition 3, but here,
+syntactic dependencies were additionally cued by visual
+features. For example the AP constituent (AP ? A (D)) contained a colored rectangle illustrating A with dotted lines
+illustrating class D, such that the dependency of A and D
+was visually realized in the reference world. Results
+showed that the syntactic structure was only learned in
+Condition 4, when both class membership and syntactic
+structure were visually illustrated by semantic/referential
+information. The authors concluded that the learning of
+complex properties of syntax is only possible when these
+properties are reflected in properties of the reference field.
+Morgan and Newport (1981) questioned Moeser and Bregman's interpretation, noting that Condition 4 actually contained a syntactic cue to constituent structure. Indeed, by
+integrating visual information about the various units of
+a constituent within a single object, the referential world
+also provided information that these units were part of
+the same phrase. Hence, the perceptual visual grouping
+of syntactically related units cued constituent structure,
+which may be responsible for what was interpreted as a
+semantic effect. Using a similar grammar and a similar reference world to Moeser and Bregman (1972), Morgan and
+Newport teased apart the role of the grouping cue marking
+constituent structure and the role of semantics, and
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+showed that the grouping cue allowed grammar learning
+while no additional facilitation was provided by the
+semantic cueing of syntactic dependencies. The authors
+concluded that constituent structure is a necessary condition for the learning of complex syntax. It may be cued
+by semantic/referential information, but not necessarily
+so; natural languages are indeed richly endowed with
+devices that mark constituents, and which may serve as
+grouping cues (e.g., intonational or morphological cues,
+see also Green, 1979; and Mori & Moeser, 1983, for similar
+results).
+In sum, the existing artificial grammar literature indicates that getting participants to learn complex hierarchically structured material is not easy. The difficulty has
+led the field to focus on counting or mirror recursion, a
+phenomenon that is easy to implement in an AG (but see
+work by Poletiek, 2002; Saddy, 2012; Shirley, 2014 for
+alternative implementations of recursion). While counting
+recursion significantly departs from recursion in natural
+languages, AG examples of mirror recursion are more like
+the naturally occurring cases. However, as we have noted,
+many studies have questioned the learnability of centerembedding in AG, fueling skepticism of some authors with
+regard to PSG as the right characterization of humans' natural grammatical knowledge (e.g., Perruchet & Rey, 2005).
+But this conclusion may be unwarranted: there are two
+drawbacks to employing center-embedding as the test case
+of hierarchical structure learning in AGL settings. The first
+one has to do with the well-attested fact, already pinpointed in the sixties by Miller and Chomsky (1963), that
+even speakers of natural languages struggle with the processing of mirror recursion once it reaches two levels of
+embedding, possibly due to the high memory demands
+that it imposes to the system. Hence, the inherent parsing
+complexity of mirror recursion in natural languages makes
+it questionable whether AG studies of the learning of deep
+center-embedding are relevant to hierarchical structure
+learning in natural language.1 The second drawback has to
+do with the fact that the instantiation of centerembedding in artificial languages typically rely on arbitrary
+or weakly cued relations. Whereas some artificial languages
+contain no cues to the pairings between the dependents,
+others provided cues in terms of shared phonetic features
+(such as the fact that a voiced consonant has to be paired
+with its unvoiced counterpart) that are, to our knowledge,
+unattested in natural languages. Natural languages typically
+provide the parser with morphological agreement markers
+and crucially semantic information, two key factors known
+to play an important role in keeping track of distant syntactically dependent units.
+The present study avoids these two drawbacks by (a)
+focusing on another type of structure-dependency exemplified in PSG, i.e., agreement, and (b) implementing a rich
+body of natural language cues correlating with the
+
+1
+It is worth noting that despite the parsing difficulty observed for mirror
+recursion in natural language, various proponents of generative grammar
+have consistently taken center-embedding as a paradigmatic case for
+supporting their position (e.g., Fitch & Hauser, 2004; Hauser et al., 2002).
+This drove opponents to exploit the same structure in order to challenge
+the psychological relevance of PSG.
+
+87
+
+grammar and exploring the role of semantic/referential
+cues in complex grammar induction. We employed a hierarchical grammar in which constituent structure is cued by
+pauses, grammatical categories (nouns and verbs) are cued
+by syllabic structure, number (singular and plural) is cued
+by morphological suffixes, and syntactic/semantic roles are
+cued by a referential visual world.
+Overview of the study
+Three major goals motivated our study. The first goal
+was to discover an adequate instantiation of structuredependency in an artificial language. In the present study,
+we explored the learning of a phrase structure grammar in
+AGL through a pervasive phenomenon of natural languages: agreement. Agreement links syntactic units in virtue of their position in the hierarchical structure,
+independently of their linear position. As a result, agreement may involve local as well as long-distance dependencies. Here, we focused on subject-verb number agreement,
+and on the possibility that this dependency can be disturbed by the presence of locally interfering materials.
+Studies of natural subject-verb agreement have highlighted that both speakers and comprehenders are sensitive to `attraction' effects, in which the verb incorrectly
+agrees with a noun phrase that is not the subject (e.g.,
+Bock & Eberhard, 1993; Bock & Miller, 1991; Eberhard,
+Cutting, & Bock, 2005; Franck, Lassi, Frauenfelder, & Rizzi,
+2006; Franck, Soare, Frauenfelder, & Rizzi, 2010;
+Hartsuiker, Anton-Mendez, & van Zee, 2001; Pearlmutter,
+2000; Staub, 2010; Vigliocco & Nicol, 1998; Wagers, Lau,
+& Phillips, 2009). Attraction was reported with subject
+modifiers intervening linearly between the subject and
+the verb (e.g., The key to the cabinets are rusty (Bock &
+Miller, 1991)) as well as with fronted objects, intervening
+structurally but not linearly between the subject and the
+verb (e.g., It's the patients that the nurse feed (Franck
+et al., 2006)). Interference was found to be structuredependent, and best characterized in terms of the hierarchical structure of the sentence (Franck, Frauenfelder, &
+Rizzi, 2007; Franck et al., 2010). In the present AG, sentences with adjacent dependencies analogous to subject
+modifier interference coexist with sentences with longdistance dependencies analogous to fronted object interference. The agreement rule can be formulated in general
+language terms as (1).
+(1)
+
+The verb agrees with the hierarchically highest
+noun in its constituent; if there is no noun in its
+constituent, the verb agrees with the highest
+noun in the immediately preceding constituent.
+
+Three types of structures induced from the grammar were
+used as input sequences for the training phase. They are
+illustrated in (2), together with analog sentences from English (examples of actual sentences are provided in Table 1
+of Experiment 1's Method section). Indices represent
+agreement morphemes (with `i' being the analog to singular and `j' the analog to plural) and underscores represent
+constituent boundaries.
+
+88
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+Table 1
+Examples of sentences used in the experimental conditions of Experiments
+1 and 2.
+Word
+length
+
+Dependency
+
+Structure
+
+Example sentences
+
+2-word
+
+Adjacent
+
+NiVi
+
+Rabi dRi
+The squares move
+
+Rabi dRu
+
+The squares moves
+
+NiVj
+3-word
+
+Adjacent
+
+Ni_NjVj
+
+Ni_NjVi
+
+Non
+adjacent
+
+NiNj_Vi
+
+NiNj_Vj
+
+4-word
+
+Adjacent
+
+NiVi_NjVj
+
+NiVi_NjVi
+
+Non
+adjacent
+
+NiViNj_Vi
+
+NiViNj_Vj
+
+(2)
+
+a.
+b.
+c.
+
+NiVi and NjVj
+NiNj_Vi and
+NjNi_Vj
+Ni_NjVj and
+Nj_NiVi
+
+Rabi_meku dRu
+It's the squares that the circle
+moves
+
+Rabi_meku dRi
+
+It's the squares that the circle
+move
+Rabi meku_dRi
+The squares next to the circle
+move
+
+Rabi meku_dRu
+
+The squares next to the circle
+moves
+lEpu stu_govi sti
+The square moves while the
+circles turn
+
+lEpu stu_govi stu
+
+The square moves while the
+circles turns
+lEpu stu govi_stu
+The square moves the circles
+and turns
+
+lEpu stu govi_sti
+
+The square moves the circles
+and turn
+
+(e.g., The square(s) move(s))
+(e.g., The square(s) next
+to the circle(s) move(s))
+(e.g., It's the square(s)
+that the circle(s) move(s))
+
+A formal characterization of the grammar that captures
+these structures in terms of phrase structure rules is provided in (3). Because they are systematic grammatical cues
+in this language, pauses are incorporated into the grammar. Nodes with the notation [agr = x] (daughter or mother
+nodes) carry the same agreement feature value. We take
+the possible agreement values to be ``Singular" and
+``Plural". Parentheses indicate optional constituents.
+(3)
+
+S ? NP[agr = x] VP[agr = x]
+NP[agr = x] ? N[agr = x] (N Pause)
+VP[agr = x] ? V[agr = x] (NP)
+VP[agr = x]/NP ? V[agr = x] NP/NP
+CP ? NP Pause S/NP
+S/NP ? NP[agr = x] VP[agr = x]/NP
+
+The grammar instantiates an analog of topicalization in
+natural language, illustrated in (2c). Topicalization rules
+allow the possibility to front a NP (CP ? NP Pause S/NP;
+S/NP ? NP[agr = x] VP[agr = x]/NP; movement of the NP
+is indicated by the /NP feature on the mother nodes that
+
+contain it). Following Gazdar (1982), slash propagation
+rules link the fronted NP (S/NP) with its gap (NP/NP). The
+relevance of using a PSG characterization rather than an
+FSG one lies in the fact that even though the latter could
+also potentially describe our training sample, this would
+be at the cost of economy; an FSG description would
+involve considerable redundancies with numerous copies
+of each rule. The powerful mechanism of feature passing
+captures agreement phenomena in a much more efficient
+way. Moreover, the PSG allows us to characterize the generalizations that we expected learners to make based on
+the restricted sample on which we trained them. This
+brings us to the second goal of the study.
+The second goal of the study was to carefully explore
+the nature of the knowledge induced from the input, and
+in particular, whether participants develop an abstract representation of the structure-based, hierarchical agreement
+rule. Determining the nature of the knowledge acquired in
+AG relies on testing the generalizability to new materials.
+Artificial language studies typically test generalization to
+strings that have not been presented during training, but
+that nevertheless employ the same rules as was used in
+training. The possibility that the rule generalizes to rules
+not directly evidenced in the training data has rarely been
+addressed. Morgan and Newport (1981) tested participants' judgments of sentences resulting from the transformation of correct sentences. Participants were informed
+that words from correct sentences had been rearranged,
+and were asked to judge which rearrangement was `better'.
+Sentences were presented in pairs: one obtained by moving as a unit two or three adjacent words which formed a
+constituent, the other one obtained by moving by moving
+as a unit two or three adjacent words which did not form
+a constituent. Participants showed a preference for movements preserving constituent structure, suggesting that
+they used constituent structure as a defining constraint
+on transformations, even though they had never been
+exposed to these transformations. Poletiek (2002)
+addressed the question of the generalization to different
+structures in the learning of a Reber-like recursive grammar, in which participants were trained on 0, 1, 2 levels
+of embedding, and generalization to 3-level embedding
+was explored in the test phase. Participants failed to generalize the recursive principle beyond 2 levels of embedding,
+nevertheless, they were slightly above chance on the 4 and
+5 levels of embedding, suggesting that at least some
+aspects of the self-embedding principle were recognized
+in these multiple applications strings. Nevertheless, the
+low level of performance led the author conclude that
+the knowledge is acquired on the basis of superficial properties of short strings in the input (chunking strategy or
+identification of the symmetrical organization of pushes
+and pops), rather than on the recursive rule itself. In a
+recent study on counting recursion using the locus prediction task, Tabor, Smith, and Cho (2014) found that whereas
+participants trained on 2-level embedding failed to generalize to 3-level embedding, those trained on 3-level
+embedding significantly generalized to 4- and even, to
+some extent, 5-level embedding. The authors suggested
+that the system switches from a finite-state representation
+to a context-free representation once exposed to an input
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+of sufficient complexity, allowing for generalization to take
+place.
+In the present study, two types of generalizations were
+investigated by way of different grammaticality judgment
+tasks. Lexical generalization tested whether participants
+were able to generalize the rule to sentences with the same
+structures as input sentences (2) but involving nouns and
+verbs with new stems. In our grammar, dependent nouns
+and verbs carry the same suffix. Previous research has
+shown early sensitivity to repetition patterns in infants
+in artificial language learning settings (Endress, DehaeneLambertz, & Mehler, 2007; Gervain Macagno, Cogoi, Pena,
+& Mehler, 2008; Marcus, Vijayan, Bandi Rao, & Vishton,
+1999). Hence, if participants represent the agreement rules
+underlying identity patterns in training sentences, this
+knowledge is expected to manifest in their grammaticality
+judgment of sentences involving new lexical materials but
+instantiating the same rule-based identity patterns. Participants were further tested for Syntactic generalization, to
+determine their ability to extend their knowledge of the
+grammar to novel phrase structure rules, different from
+those used to generate the training sentences. Syntactic
+generalization was assessed by asking participants to judge
+the grammaticality of 4-word structures as in (4), although
+they had only been trained on the 2- and 3-word structures
+in (2).
+(4)
+
+a.
+b.
+
+NiVi_NjVj and
+NjVj_NiVi
+NiViNj_Vi and
+NjVjNi_Vj
+
+(e.g., The square moves while
+the circles turn)
+(e.g., The square moves the
+circles and turns)
+
+We hypothesized that if participants developed knowledge
+of the abstract PSG defined in (3), they would plausibly
+naturally incorporate recursion to that grammar, recursion
+being widely recognized as a universal property of natural
+languages (see Nevins, Pesetsky, & Rodrigues, 2009). The
+two phrase structure rules that generate the 4-word sentences of the Syntactic generalization test, defined in (5),
+involve recursion of coordination, by which a constituent
+of a particular type (S or VP) combines with a constituent
+of the same type. Given that all languages appear to possess coordinating constructions (Haspelmath, 2004), we
+hypothesized that people exposed to natural languagelike structures as (2) may expect recursion of coordination
+to be part of the grammar. The possibility that participants
+extend their knowledge of the grammar to structures
+absent from the input hinges on the issue of the poverty
+of the stimulus raised early on by Chomsky (1965).
+(5)
+
+S ? S pause S
+VP[agr = x] ? VP[agr = x] pause VP[agr = x]
+
+With the aim of precisely characterizing the nature of the
+knowledge induced, and more particularly whether participants would privilege simpler grammars over the PSG
+grammar (3), group level analyses were complemented
+with template analyses at the individual level, following
+
+89
+
+Zimmerer et al. (2011, 2014). Templates corresponding to
+partial representations of the PSG were defined a priori
+as plausible alternatives to the target rule. Templates corresponded to simpler grammars that enforced agreement
+between adjacent elements or based on fixed positions in
+the sentence. The development of a systematic approach
+to investigating individual performance was expected to
+provide insights about the nature of the knowledge
+acquired (Visser, Raijmakers, & Pothos, 2009).
+The third goal of the study was to explore the role of
+semantics in the learning of a structure-based dependency.
+Whereas in Experiment 1 participants learned the grammar without semantics, Experiment 2 involved a visual reference world. Training sentences were shown in
+combination with animated geometrical shapes performing causative or non-causative actions. Following the natural language meanings that our artificial PSG was intended
+to parallel, we created semantic interpretations of the artificial sentences: Ns corresponded to objects with distinctive shapes and Vs corresponded to actions that the
+objects engaged in, cueing grammatical categories; the
+numerosity of the shapes correlated with singular and plural suffixes on the N, cueing morphological number; agentivity correlated with subjecthood, cueing the grammatical
+subject, action causativity correlated with the use of transitive or intransitive Vs, cueing the grammatical status of
+the interfering non-subject N (N modifier vs. argument of
+the V). Comparison between Experiments 1 and 2 allowed
+assessing the role of semantic/referential cues in the learning of the hierarchical grammar.
+In sum, by focusing on a pervasive phenomenon of natural languages, agreement, and by creating a highly simplified artificial language that nevertheless involves all
+representational levels of natural languages (morphological, lexical, syntactic, prosodic and semantic in Experiment
+2), we expected to have set up optimal conditions for testing participants' ability to induce hierarchical, structurebased mental representations from a limited input. The
+input was qualitatively impoverished: participants were
+tested on structures the grammar generates but that are
+crucially not presented in training, testing the hypothesis
+that humans naturally form abstract phrasal representations and generalize based on them (Chomsky, 1965,
+1980). Our paradigm also demonstrates that with a quantitatively small inventory of three sentence types and a
+short overall duration (50 min), participants succeeded in
+learning a long-distance agreement dependency, thus
+showing that it is possible, methodologically, to study this
+complex grammatical phenomenon in an AG paradigm.
+
+Experiment 1
+Method
+Participants
+Twenty participants took part in the experiment. They
+were all monolingual French speakers, with ages ranging
+between 18 and 29, with no reported hearing or language
+impairment. They were paid or they received course credit
+for their participation.
+
+90
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+Materials
+A lexicon of 12 words was created. Words were characterized by grammatical category (noun or verb) and number (singular or plural). The distinction between nouns and
+verbs was cued by syllabic structure: CV-CV for nouns and
+CCV for verbs. A total of 4 nominal lexical roots (mek-,
+Rab-, gov-, lEp-) and 2 verbal roots (dR-, st-) were created.
+Two of the nouns were part of the input lexicon over which
+participants were trained (mek-, Rab-) whereas the other
+two were used for the lexical generalization test (`novel'
+words: gov-, lEp-). The distinction between singular and
+plural words was implemented by way of a grammatical
+morpheme on the final vowel, identical for nouns and
+verbs: /u/ for singular words and /i/ for plural words. As
+a result, the input lexicon consisted of two singular nouns
+(meku, Rabu), two plural nouns (meki, Rabi), one singular
+verb (dRu) and one plural verb (dRi). The novel lexicon
+consisted of two singular nouns (govu, lEpu) and one singular verb (stu), two plural nouns (govi, lEpi) and one plural verb (sti). In addition, eight pseudo-words were created
+for the test of lexical knowledge by introducing new final
+vowels /a/ and /o/, but keeping the lexical roots of the
+nouns from the input lexicon (meka, Raba, gova, lEpa,
+meko, Rabo, govo, lEpo).
+Words were then concatenated to build up sentences
+following the structures defined in (2) and (4). Whereas
+3-word sentences were used in the training and test
+phases, 4-word sentences were only used in test. Examples
+of sentences are provided in Table 1. Note that nouns in the
+3-word and 4-word sentences always had different suffixes (i.e., mismatched in number). Constituent structure
+was implemented by way of 200 ms pauses between constituents, pauses being among the prosodic markers of
+syntactic constituency in natural languages (Nespor &
+Vogel, 1986). In addition, a shorter 20 ms pause was added
+between words to ensure word segmentation.
+For testing sessions in which participants were asked to
+judge the grammaticality of the sentences, ungrammatical
+sentences were created with subject-verb number agreement violations (see Table 1). The set of sentences created
+involved a total of eight grammatical and eight ungrammatical 2-word sentences (NV); 16 grammatical 3-word
+sentences (eight sentences N_NV and eight sentences
+NN_V) and 16 ungrammatical 3-word sentences in which
+the verb agreed with the incorrect noun (eight sentences
+N_NV and eight sentences NN_V); eight grammatical 4word sentences (four sentences NV_NV and four NVN_V)
+and eight ungrammatical 4-word sentences (four sentences NV_NV in which the verb in the second constituent
+incorrectly agreed with the noun in the first constituent
+and four NVN_V in which the verb in the second constituent incorrectly agreed with the lower noun of the first
+constituent).
+In order to apply a natural prosody for the sentences, a
+trained female French speaker recorded French sentences
+with the same syntactic structure and the same number
+of phonemes as the artificial sentences, respecting the natural French prosody. The pitch contour of the sentences
+was then extracted using Praat (Boersma & Weenink,
+2007) and applied with the French diphone (fr1) of
+MBROLA speech synthesizer (Dutoit, Pagel, Bataille, &
+
+Van der Vreken, 1996) to the sentences of the experiment.
+The pitch contour of structures N_NV and NV_NV was
+adjusted in order to have the same contour as that for
+the NV sentences. This was possible by reusing the values
+of the pitch contour of the NV recordings with MBROLA.
+This allowed us controlling for the prosody within the various structures.
+To ensure a fair comparison with Experiment 2 in which
+semantics was introduced by way of videos in the training
+phase, the training phase in Experiment 1 also involved a
+video depicting a blue square moving in a random trajectory for 3600 ms. The video was used as a visual attentional control, and failed to provide any semantic cue to
+the artificial language grammar, in contrast to Experiment
+2. The video was created with Apple Keynote and then converted to an .AVI file with Windows Movie Maker 2.0.
+Procedure
+The experiment consisted of several training phases followed by test phases, as illustrated in Table 2. The complexity of the input was progressively increased, starting
+from single words, followed by 2-word sentences involving
+local syntactic dependencies, and then 3-word and 4-word
+sentences involving hierarchical, structure-based dependencies. Staged learning starting small has been shown to
+play a crucial role in the learning of complex dependencies
+in artificial languages (e.g., Lai & Poletiek, 2011; Lany,
+Gomez, & Gerken, 2007).
+Participants were informed that their task was to learn
+an artificial language, and instructions before each new
+phase of the experiment made it clear that the novel words
+or sentences were part of the same language. They were
+first exposed to a phase of lexical familiarization during
+which the four nouns of the initial lexicon were presented
+auditorily. Each word was presented six times in the training while a video with a square moving randomly was presented on the screen. The test phase that followed
+consisted of a word recognition task in which participants
+were presented with words and pseudo-words (i.e., words
+constituted by the same root and /a/ or /o/ final vowels),
+and asked to indicate whether the word had been presented during the training phase. Each noun was presented
+three times in the test phase. Word presentations were
+preceded by a 500 ms fixation cross. Feedback on the accuracy of each response was provided: U for correct answers
+and
+for incorrect answers. This information appeared
+1000 ms after the participant responded, and the next item
+appeared 1000 ms later.
+The following training phases involved sentences. Sentences were always presented twice: first, in isolation,
+and then with the video. Each presentation was announced
+by a 500 ms fixation cross, followed by a 500 ms blank
+screen interval. Participants were asked to listen to the
+sentences and to watch the videos. Training was divided
+into several phases, each followed by a test phase consisting of a grammaticality judgment task. Ungrammatical
+sentences all contained agreement errors. Fifty percent of
+the sentences were grammatical. Participants were asked
+to judge whether the sentence presented was grammatical
+or ungrammatical in the language they had been trained
+on. Each trial started with a 500 ms fixation cross. This
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+Table 2
+Procedure for Experiment 1. The different phases of learning and testing
+(indicated in brackets) with a stimuli description.
+Phase
+
+Stimuli description
+
+Lexical familiarization (initial
+lexicon)
+Test: Word recognition (Lexical
+learning)
+
+Auditory presentation of the 4N
+of the initial lexicon (6)
+Auditory presentation of the 4N
+(3) and of 4 pseudo-words (3)
+(+feedback)
+Auditory presentation of 4NV
+(3)
+Auditory presentation of 4
+grammatical NV (3) and 4
+ungrammatical NV (3)
+(+feedback)
+Auditory presentation of 8 NNV
+(3)
+Auditory presentation of 8
+grammatical NNV (3) and 8
+ungrammatical NNV (3)
+(+feedback)
+Auditory presentation of the 4N
+(6) of the novel lexicon
+(different stem, same suffix)
+Auditory presentation of the 4 N
+(3) and of 4 pseudo-words (3)
+(+feedback)
+Auditory presentation of 4 NV
+(3) sentences with novel words
+Auditory presentation of 4
+grammatical NV (3) and 4
+ungrammatical NV (3)
+(+feedback)
+Auditory presentation of 8
+grammatical NNV (3) and 8
+ungrammatical NNV (3)
+(+feedback)
+Auditory presentation of 8
+grammatical NVNV (3) and 8
+ungrammatical NVNV (3)
+(+feedback)
+
+Rule training: NV
+Test: Grammaticality
+judgment on NV
+(Memorization)
+Rule training: NNV
+Test: Grammaticality
+judgment on NNV
+(Memorization)
+Lexical familiarization (novel
+lexicon)
+Test: Word recognition (Lexical
+learning)
+Rule training: NV
+Test: Grammaticality
+judgment on NV
+(Memorization)
+Test: Grammaticality
+judgment on NNV (Lexical
+generalization)
+Test: Grammaticality
+judgment on NVNV
+(Syntactic generalization)
+
+was followed by the auditory presentation of the trial sentence, and then a question mark, which stayed on the
+screen until a response was given, or for a maximum of
+5000 ms. Feedback was provided for 1000 ms, and the next
+trial began 1000 ms afterwards. The first rule training
+phase involved the presentation of four 2-word sentences
+(NV sentences) repeated three times. The following test
+phase involved four grammatical and four ungrammatical
+NV sentences repeated three times. The second rule training phase introduced eight 3-word sentences (N_NV and
+NN_V) repeated three times. The following test phase contained eight grammatical and eight ungrammatical sentences repeated three times. Participants were then
+trained on a novel lexicon, presented as new words of
+the same language. The same procedure as the previous
+lexical familiarization and lexicon test phases was used
+with new words (i.e., words with new stem roots but the
+same final vowels), repeated six times. Additionally, they
+were trained with four NV sentences with novel words.
+The following test phase involved four grammatical and
+four ungrammatical NV sentences repeated three times.
+Subsequently, the test phase with 3-word sentences
+(N_NV and NN_V) with novel words was presented, involving eight grammatical and eight ungrammatical sentences
+
+91
+
+repeated three times. Finally, the test phase with 4-word
+sentences (NV_NV and NVN_V) with novel words was presented involving eight grammatical and eight ungrammatical sentences repeated three times.
+All participants were trained before being tested. We
+did not include a control group of participants, tested without having undergone the training phrases. A few AG studies did introduce such controls in order to ensure that the
+learning observed in the experimental group was not due
+to unwanted properties of the test materials (e.g., Dulany,
+Carlson, & Dewey, 1984; Perruchet & Pacteau, 1990;
+Redington & Chater, 1996). Although this possibility is
+important in these experiments in which the grammar
+involves sequences of letters (i.e., some sequences like
+MTV may exist in the language), it is not an issue in our
+grammar. Indeed, the minimal units here are pseudowords whose lexical status was carefully checked, and
+even in the case of phonological resemblance with real
+words, such resemblance should not have any impact on
+the learning of the structure-dependent agreement rule.
+The experiment was run using the Presentation software Version 14.7 and lasted approximately 50 min.
+Data analysis
+Four types of learning were investigated. Lexical learning
+was initially assessed by way of a word recognition task
+performed on single nouns. Grammaticality judgment
+was then used to assess three types of learning that could
+have been developed on the basis of the input sentences:
+Memorization was assessed by averaging each participant's
+accuracy for those 2-word and 3-word sentences in the
+Memorization test that has been presented during training.
+Lexical generalization was assessed by testing participants
+on the same 3-word structures as those used in training
+but with words with novel stems. Syntactic generalization
+was assessed by testing 4-word structures that had not
+been introduced in the training, also employing the novel
+words.
+Analyses were conducted on d-prime values calculated
+as the difference between the standardized values of the
+hit rate and the standardized values of the false alarm rate
+(Macmillan & Creelman, 1991). In the context of grammatical judgment paradigms, d-prime is an index of the ability
+to discriminate between grammatical and ungrammatical
+items. In other words, this measure is an index of participants' sensitivity to grammaticality and is roughly invariant when response bias is manipulated.
+Group performance for the four types of learning was
+first investigated using one-sample t-tests in order to
+determine whether it differed from chance, that is,
+whether d-prime values in the various conditions were significantly above 0. Bonferroni corrections were applied
+when necessary. Analyses of variance were then conducted
+on d-prime values: (1) One-way ANOVAs were used to test
+the effect of structure (NV vs. N_NV vs. NN_V) on
+Memorization, that is, on performance to the same sentences as those presented in training; (2) To evaluate generalization, ANOVAs were conducted on the sentences that
+had not been presented in training, with the following factors: Adjacency (Adjacent vs. Non-adjacent dependencies),
+
+92
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+Type of knowledge developed with respect to the agreement rule (Lexical generalization vs. Syntactic generalization) and Memorization (standardized values of the mean
+Memorization scores). Memorization, being a continuous
+variable, was introduced as a covariate in the analyses.
+The theoretical motivation for introducing Memorization
+in the model is that it constitutes a precondition for any
+type of generalization to arise, and may therefore account
+for an important part of the variance due to our variables of
+interest (Adjacency and Type of knowledge). Interactions
+between categorical variables were assessed using pairwise student t-tests.
+The vast majority of AGL studies report group analyses,
+providing a picture of the average learner. However, given
+that performance levels in these studies are usually rather
+low (sometimes barely above 50%), the possibility that participants learn different knowledge of the target grammar
+seems crucial to explore (Pothos, 2007; Visser et al.,
+2009). Following Zimmerer et al. (2011), we analyzed individual performance by way of template analyses, by which
+participants' responses are characterized with regard to
+the various patterns of regularity corresponding to fragments of the target grammar. These templates were
+defined a priori, and participants' response accuracy was
+re-coded accordingly for each template, in order to determine which template best matched participants' performance. This means that if performance is determined by
+a template and performance is systematic, it should be at
+100%. The template under which the participant achieved
+the highest score is considered as the best characterization
+of his/her knowledge of the grammar. We considered dprimes above 1 (corresponding to 69% correct responses
+in our experiment) to represent above-chance performance (binomial tests were conducted showing an almost
+perfect alignment with this criterion, which turned out to
+be slightly more conservative).
+Results
+Group performance analysis
+Data were trimmed off outliers that exceeded 2 SD from
+mean response times per participant per structure (2-, 3or 4-word). As a result, 5.1% of the responses were
+dropped. Resulting mean d-prime values for each structure
+and each type of knowledge are summarized in Table 3.
+
+Table 3
+Mean d-prime values (percentage accurate responses in parentheses) for
+each type of knowledge and sentence structure in Experiment 1.
+Type of knowledge
+
+Adjacent
+
+Non-adjacent
+
+Lexical generalization
+
+N_NV
+1.01 (65%)
+NV_NV
+1.28 (71%)
+1.14 (68%)
+
+NN_V
+0.69 (61%)
+NVN_V
+0.004 (50%)
+0.34 (55%)
+
+Syntactic generalization
+Mean
+
+Mean
+0.85 (63%)
+0.64 (60%)
+0.74 (62%)
+
+in N_NV structures (t(19) = 9.695, p < .001) and NN_V
+structures (t(19) = 11.126, p < .001). The difference
+between N_NV and NN_V was not significant (t(19)
+= 1.720, p = .306).
+Lexical generalization. Performance on 3-word structures
+involving novel words, i.e. words for which no sentence
+had been presented in training, was significantly above
+chance: N_NV (t(19) = 3.183, p = .002) and NN_V (t(19)
+= 1.819, p = .042). Performance did not significantly differ
+for the two structures (t < 1).
+Syntactic generalization. Pairwise comparisons showed
+that performance was significantly above chance for the
+NV_NV structure (t(19) = 4.955, p < .001), but not for
+NVN_V (t(19) = .016, p = .493). Performance on the
+NV_NV structure was significantly better than on the
+NVN_V structure (t(19) = 3.453, p = .003).
+The analysis of variance conducted on generalization
+sentences (those that had not been presented in training)
+with Adjacency and Type of knowledge as factors and
+Memorization as covariate revealed a main effect of
+Memorization (F(1, 18) = 18.729, p < .001), attesting that
+d-prime significantly increased as Memorization increased.
+The main effect of Adjacency was significant (F(1, 18)
+= 8.187, p = .010), with better performance in the Adjacent
+condition (M = 1.144, SE = 0.23) than in the Non-adjacent
+condition (M = 0.343, SE = 0.17). Type of knowledge was
+non significant (F < 1). The interaction between Type of
+Knowledge and Adjacency, illustrated in Fig. 1, was significant (F(1, 18) = 4.562, p = .047): for Lexical generalization,
+
+3
+
+Lexical Generalization
+
+Memorization. Performance on sentences that had been
+presented during training was significantly above chance
+in all structures: NV (M = 3.74, SD = 0.39; t(19) = 42.618,
+p < .001), N_NV (M = 1.19, SD = 1.27; t(19) = 4.210,
+p < .001), and NN_V (M = 0.77, SD = 1.17; t(19) = 2.936,
+p = .004). The one-way ANOVA showed a main effect of
+structure (F(2, 38) = 76.824, p < .001). Post-hoc tests using
+the Bonferroni correction revealed that performance in
+NV structures was significantly better than performance
+
+Syntactic Generalization
+
+2
+
+d-prime
+
+Lexical learning. The mean percentage of correct responses
+to the word recognition task was 95% (SD = 6.4) for the
+input lexicon test and 96% (SD = 5.8) for the novel lexicon
+test. Performance did not differ between the two tests
+(z = 0.528, N-Ties = 12, p = .597).
+
+1
+
+0
+
+-1
+
+Adjacent
+
+Non-Adjacent
+
+Fig. 1. Illustration of the interaction between Type of Knowledge and
+Adjacency in Experiment 1.
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+93
+
+the difference between adjacent and non-adjacent conditions was not significant (t(19) < 1) while performance
+was significantly better in the adjacent condition than in
+the non-adjacent condition for Syntactic generalization (t
+(19) = 3.453, p = .003).
+Individual performance analysis
+Table 4 describes the possible templates defined a priori
+as underlying representations participants may plausibly
+have developed when performing the tasks of lexical
+generalization (for 3-word sentences) and syntactic
+generalization (for 4-word sentences). Templates 1^-3^
+(for 3-word sentences) and 1^-4^ (for 4-word sentences)
+correspond to first noun agreement whereas Templates
+2^-3^ (for 3-word sentences) and 3^-4^ (for 4-word
+sentences) correspond to local agreement. Template NpauseV
+(for both 3-word sentences) corresponds to agreeing the
+last word of the sentence with the last word of the first
+part of the sentence situated before the pause. We consider
+these five templates to be simpler than the target grammar
+in that they can all be easily implemented with finite state
+grammars relying either on adjacent dependencies, fixed
+linear positions or rhyming patterns in the sentences.
+Fig. 2 illustrates individual performance in 3-word sentences involving Lexical generalization. Among the 20 participants tested, eight showed a d-prime value above 1,
+taken as the chance threshold. Seven out of these eight participants satisfied our criterion for having adopted the target agreement rule, while one adopted the 2^-3^ template.
+Hence, when participants performed above chance, they
+were in the vast majority of cases following the agreement
+rule. The 12 remaining participants failed to show any systematic behavior. None of the participants performed
+above chance with templates 1^-3^ and NpauseV.
+Individual performance in the 4-word sentences involving Syntactic generalization is illustrated in Fig. 3. Eleven
+participants showed a d-prime value above 1. Five of them
+significantly adopted the agreement rule, while six of them
+adopted template 3^-4^. The remaining nine participants
+failed to show any systematic behavior.
+
+Fig. 2. Distribution of the highest d-prime value obtained for each
+participant (represented by circles) for the grammatical rule and the
+alternative templates in the condition of generalization to 3-word
+structures in Experiment 1.
+
+Discussion
+Experiment 1 tested adult participants' ability to induce
+the hierarchically-based agreement constraint implemented in the PSG grammar described in (3), and which
+Table 4
+Possible templates for 3-word and 4-word structures in Experiments 1 and
+2.
+Sentence
+
+Template
+
+Definition
+
+3-word
+
+1^-3^
+
+The first and the third words have the same
+number
+The second and the third words have the
+same number
+The noun before the pause and the verb
+have the same number
+
+2^-3^
+NpauseV
+4-word
+
+1^-4^
+3^-4^
+
+The first and the fourth words have the
+same number
+The third and the fourth words have the
+same number
+
+Fig. 3. Distribution of the highest d-prime value obtained for each
+participant (represented by circles) for the grammatical rule and the
+alternative templates in the condition of generalization to 4-word
+structures in Experiment 1.
+
+can be formulated in general language terms as in (1),
+repeated here: ``the verb agrees with the highest noun in
+its constituent; if there is no noun in its constituent, the
+verb agrees with the highest noun in the immediately preceding constituent". Participants were trained on three
+types of structures (NiVi, NiNj_Vi, Ni_NjVj) in which grammatical information was implemented by way of perceptual cues only: syllable structure cued grammatical
+categories (N vs. V), morphological suffixes cued number
+(Singular vs. Plural) with an identity relation between
+agreeing elements, pauses cued constituent structure.
+Different levels of knowledge were tested by way of
+
+94
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+grammaticality judgment tasks. Group performance analyses
+showed above-chance performance for the Memorization
+test in which participants were presented with the same
+sentences as those presented in training (NiVi, Ni_NjVj,
+and NiNj_Vi). Previous research has demonstrated the
+power of memory mechanisms at play in human adults
+(e.g., Eichenbaum & Cohen, 2001). Hence, it is no surprise
+that our participants developed memory representations
+for the 2- and 3-word sentences they heard during training. More relevant to our research question, we found
+above-chance performance in the Lexical generalization
+test for Ni_NjVj structures, involving a local dependency,
+but crucially also for NiNj_Vi structures involving a nonadjacent relation. This finding suggests that some abstract
+representation of the structure-dependent agreement rule
+was extracted from the training samples (the nature of the
+knowledge acquired in the General discussion). We also
+found that participants were able to generalize the rule
+learned over 3-word sentences to new 4-word sentences,
+but only when they involved an adjacent dependency, as
+is the case in the NiVi_NjVj structure. Performance was at
+chance when sentences involved both a local and a nonlocal dependency, as in NiViNj_Vi sentences in which both
+verbs have to agree with the highest noun (locally for the
+first V, at a distance for the second V). Having to deal with
+both local and non-local dependencies in a new structure
+may have contributed to overload the system and prevent
+it from fully generalizing the knowledge developed on the
+basis of the input. Hence, whereas Lexical generalization
+was insensitive to adjacency (similar performance was
+found for adjacent and non-adjacent relations) syntactic
+generalization showed a significant drop of performance
+in the non-adjacent condition. In that condition, participants were at chance.
+The heterogeneity of the group revealed by the template analyses illustrates the relevance of looking at individual profiles. Considering Lexical generalization in 3word sentences, seven out of the 20 participants tested
+performed above chance in line with the hierarchical
+agreement constraint. Five of them also performed above
+chance on the novel 4-word sentences to which they had
+not been exposed during training. Template analyses
+showed that when participants were not adopting the
+agreement rule, some of them nevertheless adopted an
+alternative template above chance. The alternative templates adopted above chance always involved adjacent
+words: one participant adopted the linear template 2^-3^
+in 3-word sentences (in which the 2nd and 3rd elements
+agree), whereas six participants adopted template 3^-4^
+(in which the 3rd and 4th elements agree) in 4-word sentences. The finding that a significant subset of participants
+(6 out of 20) showed systematic performance in line with
+the 3^-4^ template suggests a propensity to adopt a linear
+rule relating two adjacent words in these sentences.
+Finally, a significant number of the participants failed to
+show any systematic preference for any of the templates
+(12 in 3-word sentences, 9 in 4-word sentences). It is possible that these participants followed a system which we
+have not considered. It is also possible that they continuously modified their response strategies during the task,
+which would also result in overall lower than chance
+
+performance, or that they failed to use any rule at any time
+(see General discussion).
+One may argue that, since the dependency involves
+vowel repetition (dependent on structure) and the same
+vowels are used in training and in test sessions, rule generalization does not involve abstract knowledge. To address
+this question, three aspects of the grammar need to be distinguished. The first aspect concerns the learning of lexicosyntactic properties: number (singular and plural) and
+grammatical categories (nouns and verbs). These properties rely on the forming of categories. In order to learn
+number categories, participants need to identify the constancy of the final vowel (/u/ for singular words, /i/ for plural words) in the context of the other phonemic
+information present in the sentences, i.e., the stems that
+vary between training and generalization. That is, they
+have to engage into a process of information filtering in
+order to focus on the vowels and ignore the stems. The second type of categorization process bears on the identification of nouns and verbs; in order to succeed in the lexical
+generalization task, participants need to know that for
+example, `Meki' learned during training, may generalize
+to `Govi' (another noun), but not to `sti' (a verb). If this distinction is not made, then a sequence involving two nouns
+like `Rabi Meku' will be processed similarly to a sequence
+involving a noun and a verb like `Rabi dru'; whereas the
+former is licit, the latter is not. Here, the dimension along
+which nouns and verbs are categorized is more abstract
+in that it relies on the identification of the syllable structure of nouns and verbs (CV-CV vs. CCV). Thus, even
+though the same vowel was kept for training and test
+items, two processes of categorization are required in the
+lexical generalization task: categorization of units with
+the same ending, and categorization of units with the same
+syllable structure. Categorization is traditionally conceived
+of as a process of abstraction, by which a unit is categorized according to its resemblance to an abstract prototype
+of the category (Posner & Keele, 1968). However, it has also
+been argued that categories can be formed by generalization from stored exemplars (e.g., Nosofsky & Zaki, 2002).
+In this view, lexical generalization to the new test words
+may rely on their similarity with trained words, without
+the need of assuming abstract representations. However,
+the key component of our grammar lies in the relational,
+agreement dependency by which a verb has to carry the
+same number feature as its subject, defined by its position
+in the syntactic/prosodic structure. Thus, for the grammaticality judgments about the 3-word test sentences to be
+based on their similarity to the trained 3-word exemplars,
+the unit over which this process would need to take place
+is the whole sentence, not single words. Although one cannot exclude that training sentences were stored as chunks
+to which new 3-word sentences are compared and judged
+in virtue of their prosodic and phonological similarity, it is
+even less plausible that 4-word test sentences would be
+judged by such a similarity-based process given that only
+3-word exemplars were stored during training.
+In sum, results from Experiment 1 suggest that at least
+some adults are able to learn enough of the hierarchical
+agreement rule to be able to extend it to new words and
+to new structures. Nevertheless, this ability is limited in
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+various respects. First, although group performance is
+overall above chance in the generalization tests, only a
+subset of participants actually exceeded chance level
+(one third in Lexical generalization, one fourth in Syntactic
+generalization). Importantly, the highest d-prime values
+were obtained with the target rule template, with some
+participants reaching very high performance levels (6 participants reached a performance above 80% for the Lexical
+generalization, 3 participants reached a performance equal
+or above 80% for the Syntactic generalization). This suggests that, once adopted, this template was followed more
+systematically than when other templates were adopted.
+Second, generalization of the rule to new words was considerably reduced when the dependents were separated
+by an intervening word (NiNj_Vi) as compared to when
+they were adjacent (Nj_NiVi). This finding suggests that
+adjacency or linearity still plays a role in guiding participants' rule extraction, at least in the experimental context
+explored here. This is in line with the finding, in natural
+languages, that the parser sometimes builds ungrammatical, locally coherent structures (e.g., Christianson,
+Hollingworth, Halliwell, & Ferreira, 2001; Tabor,
+Galantucci, & Richardson, 2004) and that it is occasionally
+misled by a local feature attracting the agreement dependency in both production and comprehension (e.g., Bock
+& Miller, 1991; Franck et al., 2006; Nicol, Forster, &
+Veres, 1997; Staub, 2010; Wagers et al., 2009). Third,
+although participants appeared globally able to generalize
+the agreement rule to novel, longer sentences with adjacent dependencies, they failed to do so when they involved
+non-adjacent dependencies. Nevertheless, here again a
+subset of participants showed systematic performance in
+line with the target rule, suggesting that syntactic generalization actually does take place in some individuals,
+although it may need additional training and/or additional
+cueing in order to show up at the group level.
+Artificial grammar studies have shown that
+non-adjacent dependencies are more difficult to learn
+and are helped by the presence of additional cues: in
+particular, semantic cues (e.g., Fedor et al., 2012;
+Moeser & Bregman, 1972; Morgan & Newport, 1981;
+Mori & Moeser, 1983). In the next experiment, we
+explored whether the presence of semantic cues,
+implemented by way of a visual reference world, would
+facilitate the learning and generalization of our hierarchical grammar.
+Experiment 2
+Method
+Participants
+Twenty participants took part in the experiment. They
+were all monolingual French speakers, aged between 20
+and 37, with no reported hearing or language impairment.
+They were paid or received course credit for their
+participation.
+Materials
+The materials consisted of the same artificial language
+used in Experiment 1. In addition, nouns and sentences
+
+95
+
+during the Lexicon Familiarization and the Rule Training
+phases were associated with a short video, depicting a
+reference world. Nouns were mapped to colored geometric shapes (a square, a circle, an oval and a star) corresponding to the four nominal roots. A single shape
+represented singular nouns whereas a group of three
+identical geometrical shapes represented plural nouns,
+such that noun suffixes were correlated with the
+numerosity of the shapes in the reference world. Verbs
+were associated with actions: the verb used in the initial
+training lexicon ``dRu/dRi" was associated with the action
+``to move" while the verb used in the novel lexicon ``stu/
+sti" was associated with the action ``to turn". These
+actions were selected such that they could have either a
+causative or a non-causative meaning. Depending on the
+agreement dependency, 3-word structures could either
+be parsed as intransitive (semantically non-causative) or
+as transitive (semantically causative): NiNj_Vi sentences
+were represented as intransitive (e.g., The squaresi next
+to the circlej movei) whereas Nj_NiVi sentences were transitive (e.g., It is the circlej that the squaresi movei). The
+videos associated with the sentences lasted 3600 ms in
+total. The shapes involved in the action were already on
+the screen at the beginning of the video. The sentence
+presentation started 720 ms after the beginning of the
+video. Fig. 4 illustrates examples of materials used in
+the Lexicon familiarization and Rule training phases.
+
+Procedure
+The procedure was the same as in Experiment 1 except
+for the two lexicon training and test phases. During the
+lexical familiarization, participants were first presented
+with the nouns and the pictures that illustrated them.
+The singular version of the noun (or plural version) was
+first presented auditorily, followed by the appearance of
+the corresponding image on the left side of the screen for
+880 ms. The plural version (or singular version) was then
+presented auditorily, followed by the corresponding image
+on the right side of the screen. Each noun was presented
+six times in its singular form and six times in its plural
+form. The side of the screen where singular and plural
+nouns were presented was counterbalanced. Subsequently,
+participants were asked to perform a picture-matching
+task. Twenty-four trials were presented with the following
+structure: a fixation cross was shown in the center of the
+screen for 500 ms followed by the simultaneous presentation of two pictures for 4.56 s. Shortly after the presentation of the pictures (800 ms), a noun was presented
+auditorily. One picture illustrated the noun while the distractor picture illustrated either the same noun with a variation of number or a different noun with the same number.
+Participants had to select the right image by pressing a
+button on the response box.
+The following phases involved rule learning. The same
+procedure as in Experiment 1 was followed. During the
+rule test phase, as in Experiment 1, sentences were
+presented only auditorily without the accompanying
+videos.
+The experiment was run using the Presentation software Version 14.7 and lasted approximately 50 min.
+
+96
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+Fig. 4. Schematic representation of the procedure for the lexical familiarization (on the left) and the rule training phase (on the right). Text represents the
+auditory stimuli participants listened to while looking at the videos on the computer screen. The example presented on the right refers to the NiNj_Vi
+sentence (e.g., The squaresi next to the circlej movei).
+
+Data analysis
+The same analyses as for Experiment 1 were performed.
+In addition, performance in Experiment 1 was compared to
+performance in Experiment 2 to assess the effect of semantics. An analysis of variance was performed with as withinsubjects variables: Type of knowledge (Lexical Generalization vs. Syntactic Generalization) and Adjacency (Adjacent
+vs. Non-adjacent), and Experiment as between-subjects
+variable (Experiment 1 vs. Experiment 2). As in previous
+analyses, standardized values of the mean Memorization
+scores were used as a covariate.
+Results
+Group performance analysis
+Data were cleaned for outliers, which were defined as
+reaction times above 2SD from mean response times per
+participant per structure (2-, 3- or 4- words). As a result,
+5% of the responses were dropped. Mean d-prime values
+for each type of knowledge and structure are summarized
+in Table 5.
+Lexical learning. The mean percentage of correct responses
+to the picture-matching task was 95% (SD = 5.2) for the initial lexical test and 97% (SD = 5.3) for the novel lexicon test.
+Performance did not differ between the two tests
+(z = 1.241, N-Ties = 15, p = .215).
+Memorization. Performance was significantly above chance
+for all structures: NV (M = 3.6, SD = 0.59; t(19) = 27.742,
+p < .001), N_NV (M = 0.73, SD = 1.41; t(19) = 2.311,
+p = .016), and NN_V (M = 0.94, SD = 1.29; t(19) = 3.267,
+p = .002). The one-way ANOVA showed a main effect of
+
+Table 5
+Mean d-prime values (percentage accurate responses in parentheses) for
+each type of knowledge and sentence structure in Experiment 2.
+
+Lexical generalization
+Syntactic generalization
+Mean
+
+Adjacent
+
+Non -adjacent
+
+N_NV
+1.50 (73%)
+NV_NV
+1.58 (74%)
+1.54 (74%)
+
+NN_V
+1.18 (68%)
+NVN_V
+0.58 (60%)
+0.88 (64%)
+
+Mean
+1.34 (71%)
+1.08 (67%)
+1.21 (69%)
+
+structure (F(2, 38) = 57.292, p < .001). Post-hoc tests using
+the Bonferroni correction revealed that performance on
+NV was significantly better than performance on N_NV
+(t(19) = 9.743, p < .001) and NN_V (t(19) = 10.146,
+p < .001). The difference between N_NV and NN_V was
+not significant (t < 1).
+Lexical generalization. Performance was significantly above
+chance for both the N_NV structure (t(19) = 4.937, p < .001)
+and the NN_V structure (t(19) = 3.264, p = .002). The two
+structures did not significantly differ from one another (t
+(19) = 1.582, p = .130).
+Syntactic generalization. Both structures showed abovechance performance: NV_NV (t(19) = 4.686, p < .001) and
+NVN_V (t(19) = 1.994, p = .030). Performance on the
+NV_NV structure was significantly better than on the
+NVN_V structure (t(19) = 2.653, p = .016).
+The analysis of variance conducted on generalization
+sentences, that is, those that had not been presented in
+
+97
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+training, revealed a main effect of Memorization
+(F(1, 18) = 26.674, p < .001), attesting that d-prime
+significantly increased as Memorization increased. It also
+showed a main effect of Adjacency (F(1, 18) = 13.875,
+p = .002) indicating better performance in the Adjacent
+condition than in the Non-adjacent condition. Type of
+knowledge did not reach significance (F(1, 18) = 2.668,
+p = .120), nor did the interaction between Type of
+Knowledge and Adjacency (F(1, 18) = 1.762, p = .201).
+Individual performance analysis
+The distribution of best fitting templates for each
+participant in 3-word structures is illustrated in Fig. 5.
+Twelve participants had their highest d-prime value for
+the hierarchical subject-verb agreement rule and nine of
+them performed above chance (defined as a d-prime
+above 1). The performance of the remaining eleven
+participants was at chance for all templates.
+Distribution of participants across the 4-word sentences templates and the agreement rule is illustrated in
+Fig. 6. Nine of them had their highest d-prime value for
+the hierarchical subject-verb agreement rule and performed above chance. Six of these participants had a dprime above 1 both for NV_NV and NVN_V structures
+(NV_NV: 2.32, 3.396, 1.567, 2.015, 2.599, 3.396); NVN_V:
+2.295, 2.986, 1.666, 1.567, 2.682, 1.908). The other three
+participants had a d-prime above 1 only for the NV_NV
+structures (NV_NV: 3.156, 3.290, 2.746; NVN_V: 0.105,
+0.642, 0.613). Six participants of those with the highest
+d-prime value for the agreement rule performed above
+chance also for the three-word sentences, while two of
+them performed slightly below chance for the three-word
+sentences. Over the remaining 11 participants, 3 performed above chance with the 3^-4^ template while the
+other participants were below chance for all templates.
+
+Fig. 6. Distribution of the highest d-prime value obtained for each
+participant (represented by circles) for the grammatical rule and the
+alternative templates in the condition of generalization to 4-word
+structures in Experiment 2.
+
+Comparison between Experiment 1 and Experiment 2
+Mean d-prime values for Lexical Generalization and
+Syntactic Generalization for each structure in both experiments are illustrated in Fig. 7.
+The analysis of variance shows a significant effect of
+Memorization on d-prime scores (F(1, 37) = 46.397,
+p < .001). A main effect of the Experiment was found (F
+(1, 37) = 46.397, p < .001) indicating that performance was
+significantly better in Experiment 2 (M = 1.20, SD = 1.15),
+involving semantics, as compared to Experiment 1
+(M = 0.74, SD = 0.89). Tests for within-subjects effects
+showed a significant effect of Adjacency (F(1, 37)
+= 18.752, p < .001), in line with what was found in Experiments 1 and 2, indicating better performance in the adjacent condition than in the non-adjacent condition. A
+significant interaction between Type of Knowledge and
+Adjacency was also observed (F(1, 37) = 6.152, p = .018),
+replicating the finding of Experiment 1. Whereas Syntactic
+2
+
+Experiment 1 - Without semantics
+
+Experiment 2 - With semantics
+
+d-prime
+
+1
+
+0
+N_NV
+
+NN_V
+
+Lexical Generalization
+
+Fig. 5. Distribution of the highest d-prime value obtained for each
+participant (represented by circles) for the grammatical rule and the
+alternative templates in the condition of generalization to 3-word
+structures in Experiment 2.
+
+NV_NV
+
+NVN_V
+
+Syntactic Generalization
+
+Type of Knowledge
+-1
+
+Fig. 7. Mean d-prime values for Lexical and Syntactic Generalization for
+each type of sentence structure in Experiments 1 and 2.
+
+98
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+generalization was significantly better in the adjacent condition than in the non-adjacent condition (t(39) = 4.359,
+p < .001), adjacency played no significant role in Lexical
+generalization (t(39) = 1.522, p = .136). Type of Knowledge
+did not reach significance (F(1, 37) = 2.437, p = .127).
+Experiment failed to interact with the other factors.
+Discussion
+Experiment 2 investigated participants' learning of the
+artificial language created for Experiment 1, with additional semantic cues presented in the form of a reference
+world. The motivation for adding semantic cues was the
+finding of a rather poor performance in Experiment 1,
+and more particularly the failure to generalize the hierarchical agreement rule to novel structures involving nonadjacent dependencies.
+Results from Experiment 2 at the group level showed
+above chance performance for all three of the types of
+knowledge we investigated: Memorization, Lexical Generalization and Syntactic Generalization. Importantly, performance was found to be (1) better overall than performance
+in Experiment 1 without semantics, (2) statistically above
+chance even for novel structures involving non-adjacent
+dependencies (NVN_V), while it was at chance in Experiment 1.
+Template analyses showed again important interindividual variability. A total of nine participants
+performed above chance when generalizing the rule to sentences with novel words in 3-word structures, against seven
+in Experiment 1. Nine participants also succeeded in generalizing the rule to structures involving four words that had
+not been presented during training, whereas only 5 did so in
+Experiment 1. None of the participants scored above chance
+on any of the alternative templates for the 3-word lexical
+generalization (in contrast to one participant in Experiment
+1), while three of them best matched the local 3^-4^ template when generalizing to new 4-word structures (six in
+Experiment 1). Like in Experiment 1, the highest systematicity in performance was observed for the target rule template, suggesting a stronger degree of confidence on the part
+of the participants who adopted that template as compared
+to those who adopted an alternative, non-hierarchical.
+These observations suggest that semantics in the form
+of visual referential information improved the learning of
+the target agreement rule that hierarchically constrains
+dependencies between constituents in the sentences.
+Moreover, referential information also contributed to
+reduce the adoption of alternative, non-target rules.
+Improvement in the learning of the target rule was
+observed across the board, that is, both when the rule
+had to generalize to novel words, and when it had to generalize to novel structures, which suggests that semantics
+played a role in the process of abstracting out some general
+properties of our complex phrase structure grammar. The
+precise role of semantics is discussed in the next section.
+General discussion
+The innovation of our work lies in two aspects. First, we
+created an artificial grammar instantiating hierarchical
+
+phrase structure with structure-dependent, long-distance
+agreement relations. Most AGL studies concerned with
+the learning of complex systems have concentrated on
+mirror recursion grammars, instantiating multiple centerembedding despite their inherent well-attested difficulty
+in natural language parsing (Bahlmann & Friederici,
+2006; Bahlmann et al., 2008; Conway et al., 2003; De
+Vries et al., 2008, 2012; Fedor et al., 2012; Fitch &
+Hauser, 2004; Hochmann et al., 2008; Lai & Poletiek,
+2011, 2013; Mueller et al., 2010; Perruchet & Rey, 2005;
+Zimmerer et al., 2011, 2014). Although a few other AGL
+studies implemented various types of complex hierarchical
+grammars, none of them have employed structuredependent, long-distance dependencies (Langus et al.,
+2012; Moeser & Bregman, 1972; Morgan & Newport,
+1981; Mori & Moeser, 1983; Tettamanti et al., 2002,
+2009; Valian & Coulson, 1988). The key phenomenon of
+our grammar, subject-verb agreement, is a paradigmatic
+case of a natural syntactic phenomenon that speakers
+and comprehenders easily deal with in many natural languages. The structure-dependent nature of the artificial
+rule defined in (1) and formalized in (3) allows not only
+local but also long-distance dependencies between the
+subject and the verb, such that it could not be predicted
+on the basis of either adjacency or fixed linear position criteria. Input sentences involved structures analogous to
+structures known to generate attraction errors in natural
+language (modifier attraction and object attraction,
+Franck et al., 2010). Although the constraints on agreement
+could potentially be described by a highly redundant finite
+state grammar, they are more parsimoniously captured by
+phrase structure rules, made explicit in (3) and (5). The
+second innovation of the present study lies in the fact that
+it not only addresses the possibility that participants
+developed sufficiently abstract knowledge of the grammar
+to generalize it to a new lexicon; it also addresses the possibility that they extended it to novel phrase structure
+rules, different from those used to generate the input sentences participants were trained on. These novel rules
+allow for a phenomenon analogous to recursion of coordination, which was argued to be a good candidate for grammar extension due to its universal presence in natural
+languages (Haspelmath, 2004).
+Learnability of structure-dependency in a hierarchical
+artificial grammar
+Experiment 1 contained purely formal cues to the AG.
+Various cues that are typically found in natural languages
+were introduced in order to maximize the transparency
+of the PSG in the input sentences: constituent structure
+was cued by prosodic boundaries at constituents' edges,
+grammatical categories (verb and noun) were cued by syllabic structure, and morphological number (singular and
+plural) was cued by suffixes, such that agreeing units carried identity markers. Results at the group level showed
+that participants were able to generalize the agreement
+rule to a new lexicon. Their performance reached significance both in the condition of adjacent dependency (Ni_NjVj) and in the condition of non-adjacent dependency
+(NiNj_Vi), suggesting that they represented the agreement
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+constraint as a function of constituent structure. Participants at the group level also showed above-chance performance when generalizing the rule to a novel structure
+when it involved adjacent dependencies (NiVi_NjVj). Analyses of individual performance showed that a nonnegligible subset of participants (5 out of 20) reached a
+rather high level of performance, suggesting that they did
+extend their knowledge to the novel rules.
+The results support the hypothesis that participants
+overall learned the hierarchical agreement rule, and the
+PSG that underlies it. This finding shows that a complex
+grammar with hierarchical long-distance dependencies
+can be learned in an environment of purely formal cues.
+We believe that the reason for this success lies in participants' propensity to hierarchically structure their representations (see next section) when various perceptual
+cues, typical of natural languages, correlate with grammatical properties of the AG. The syntax of natural languages is
+also, to some extent, backed up by phonological and prosodic distributional regularities. For example, for languages
+as diverse as English, Dutch, French and Japanese, phonological properties provide rather consistent cues distinguishing closed and open class words (e.g., Monaghan,
+Christiansen, & Chater, 2007) or nouns and verbs (e.g.,
+Onnis & Christiansen, 2008) and AGL studies support the
+hypothesis that multiple cues (e.g., statistical, prosodic,
+phonological, visual) correlating with different aspects of
+the grammar facilitate the learning of non-adjacent dependencies (e.g., Newport & Aslin, 2004; Pena, Bonatti, Nespor,
+& Mehler, 2002; Van den Bos, Christiansen, & Misyak,
+2012).
+Experiment 2 contained additional semantic information in the form of a referential world of animated shapes
+of various numerosities, performing causative and noncausative actions. Performance at the group level was
+found to be significantly better in Experiment 2 than in
+Experiment 1, for both lexical generalization and syntactic
+generalization involving both adjacent and non-adjacent
+dependencies. In particular, group level performance was
+found to be above-chance for the generalization to novel
+structures involving non-adjacent dependencies, while it
+was at chance in Experiment 1 without the reference
+world. Moreover, template analyses showed that the number of participants performing according to the target rule
+for lexical generalization and syntactic generalization
+increased across the board in Experiment 2. Whereas 9
+participants succeeded in generalizing the rule to structures involving four words that had not been presented
+during training, only 5 did so in Experiment 1. Referential
+information not only contributed to increasing the probability that participants adopted the target rule, but it also
+contributed to reducing the probability that they adopt
+an alternative, linear rule. Whereas 7 participants adopted
+such a linear template above chance in Experiment 1, only
+3 did so in Experiment 2. The finding that semantic
+information reduced the adoption by participants of linear
+templates suggests that the learning system did not simply
+exploit correlations between low-level visual information
+and acoustical features, independently of the structure that
+these features cue. Rather, the system appears to be able to
+exploit the mapping between semantic and structural
+
+99
+
+representations to uncover the complex hierarchical grammar, similarly to natural language learning.
+Our data support the conclusion that the presence of
+semantic cues provided by referential information is not
+necessary, since participants in Experiment 1 did show
+learning to some extent, is inconsistent with Moeser and
+Bregman (1972) who found that semantics was necessary
+for the learning of a complex PSG grammar. The two experiments differ in at least two significant respects. First, the
+key property of the grammar tested here is agreement,
+implemented by way of a highly perceptually salient cue
+(two dependents share the same ending). Moeser and
+Bregman tested constituency rules defined on categories
+of words with no such salient perceptual feature (e.g., only
+one category A word can appear in a sentence) as well as
+selection restriction rules (e.g., a word of category D can
+only follow word of category A). Second, we used a ``starting small" training procedure while participants were
+immediately confronted with the 80 complex sentences
+in Moeser and Bregman's study. These two factors may
+explain our participants' greater facility to learn the grammar in the absence of semantics. Our finding that semantics improves learning also is inconsistent with Morgan
+and Newport (1981) who found that once the constituent
+structure of Moeser & Bregman's grammar was properly
+cued, semantics showed no additional facilitatory effect.
+In our experiment, referential information did not provide
+perceptual grouping cues to constituent structure, as was
+the case in Bregman and Moeser's study, and which Morgan and Newport argued was the cause of the semantic
+effect found by these authors. However, a closer look at
+the Morgan and Newport study suggests that the constituent grouping condition that they assumed to contain
+cues to constituent structure without what they refer to
+as `explicit semantics' already contains semantic information: word categories are coded by distinct perceptual features (like shapes, colours, borders) and words that cluster
+together within a constituent are spatially close to one
+another (e.g., a rectangle close to an undulating line, indicating that the undulation relates to the rectangle). The
+additional information provided in the explicit semantic
+condition is implemented by way of merging the two
+words together within a single object (a rectangle with
+an undulating border). It is plausible that both conditions
+(spatial proximity of the two word referents and their
+merging in a single object) had the same effect of linking
+the two words together at the semantic level, exactly like
+natural languages have the option to express `a rectangle
+that has undulating borders' and an `undulating rectangle'.
+Thus, both conditions provided semantic information,
+which may explain why both of them showed high performance levels, and why no additional improvement was
+found in the explicit semantic condition.
+Semantics may have influenced rule induction in Experiment 2 in at least two different, but non-exclusive ways.
+First, by providing additional cues to various properties
+of the grammar. In particular, shapes and actions could
+be mapped onto the nominal and verbal word classes;
+numerosity of the shapes could be mapped onto noun suffixes, agency could be mapped onto subjecthood, helping
+identify the relevant noun entering into the agreement
+
+100
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+relation, causativity of the action could be mapped onto
+verb subcategorization such that the non-subject noun be
+either interpreted as the verbal object (when the action
+is causative) or as a noun modifier (and the action is
+non-causative). Importantly, referential information was
+only used during training; it was absent during testing.
+Hence, even though referential information may have facilitated the identification of the subject of the sentence during the learning phase of the experiment (in which case the
+agreement relation could be processed independently of
+syntactic structure, on the basis of the mapping with the
+agent illustrated in the animation), participants needed
+to have developed an abstract representation of the agreement relation in order to correctly process test sentences,
+which were not visually illustrated. That is, semantics
+may have played a role in the learning process, allowing
+the formation of a more abstract representation of the sentence necessary in the testing phases.
+Second, semantics may have contributed to rule induction by providing a support to the memory component
+involved in the tracking of long-distance dependencies
+during training. Referential information was available
+while the sentence unfolded, and remained on the screen
+until the end of the sentence. Animations may therefore
+have provided a visual support for memory representations and retrieval, in particular when the parser reached
+the verb, and had to retrieve a long-distance subject, as is
+the case in NiNj_Vi and NiViNj_Vi structures. In line with
+this possibility, Conway et al. (2003) reported that the
+same mirror recursion grammar that failed to show learning when presented auditorily gave rise to above-chance
+performance when presented visually, and argued that this
+may be due to visual stimuli being presented simultaneously, reducing memory demands as compared to the
+sequential nature of auditory stimuli. Also, Fedor et al.
+(2012) found that the type of vocabulary influenced the
+learning of center-embedding relations: the closer semantically and phonologically the words from the AG were to
+the native language of the participants, the better the
+learning. The finding that both semantic and phonological
+knowledge from the native language impacted the learning
+of a hierarchical artificial grammar suggests that this role
+may be mediated by long-term memory representations
+for language, in line with findings showing sensitivity to
+the same factors in working memory tasks (e.g., Majerus
+& van der Linden, 2003).
+Nature of the knowledge acquired
+Even though group performance reached significant
+levels of learning in most conditions, suggesting that participants developed representations of the PSG rules
+defined in (3), performance is far from the high levels of
+mastery observed in adults speaking their native language.
+This observation, together with the important variability at
+the individual level, raises questions about the nature of
+the knowledge acquired in this artificial setting.
+From early on, the field of artificial language learning
+has been divided into two major views with respect to
+the nature of the knowledge that can be induced in an
+AG. The view developed in early studies by Reber and col-
+
+leagues to account for performance with grammars based
+on complex transition rules claims that the knowledge
+acquired is an abstract set of implicit rules, presumably
+similar in format to natural language knowledge (Reber,
+1967, 1993). More recently, similar claims have been made
+by various authors for mirror recursion AG (e.g., Bahlmann
+& Friederici, 2006; Bahlmann et al., 2008; Fitch & Hauser,
+2004; Lai & Poletiek, 2011; Mueller et al., 2010). The other
+view argues that pattern detection in AGL rather relies on
+fragmentary, exemplar-based knowledge. Performance
+can indeed often be above chance simply on the basis of
+the knowledge of the beginning or the end of the
+sequences, or of bigrams or trigrams in the input (e.g.,
+Perruchet & Pacteau, 1990; Redington & Chater, 1996).
+For example, Perruchet and Pacteau (1990) found that participants performed as well on a grammaticality judgment
+of a Reber-like grammar when trained only on isolated
+pairs of letters as when they were trained on whole letter
+strings. Along similar lines, Dulany et al. (1984) argued
+that participants do infer a variety of simple `microrules'
+rather than an integrated representation of the target
+grammar (Pothos, 2007).
+However, another conception of the knowledge has
+more recently been developed in AG studies, coming from
+probabilistic approaches to grammar induction within the
+Bayesian framework for rational inductive inference (e.g.,
+Perfors, Tenenbaum, Griffiths, & Xu, 2011). According to
+this view, learners employ two powerful domain-general
+capacities. One is the capacity to represent various forms
+of structured grammars, including finite state but also
+more complex phrase structure systems. The other capacity lies in a Bayesian engine for statistical inference that
+computes the respective probabilities of these structured
+representations given the input data. The question then
+becomes how a learner can select, among multiple a priori
+possible representations, the one that best describes the
+input. In this view, the inductive bias that favors the hierarchical representation of the input does not stem from an
+innate, domain-specific knowledge of language, but from
+the propensity of the system to prefer simpler representations over more complex ones. The Bayesian model developed by Perfors et al. (2011) seeks a grammar weighting
+that balances the tradeoff between simplicity and fit to
+the input data. The authors modeled the learning of
+structure-dependency in auxiliary fronting, based on a limited sample of natural child-directed speech. Results
+showed that even though the model started with equal
+probabilities assigned to various candidate grammars
+(memorized sequences, various types of FSG, various types
+of PSG), as the amount of input data accumulated, the type
+of grammar preferred by the model changed: when
+exposed to a small input, the memorized sequences were
+preferred. As the training set was sampled more thoroughly, finite state grammars scored higher. When the
+sampling was very extensive, grammars with phrase structure rules scored the highest. When tested on new,
+attested examples that were not included in the training
+corpus, hierarchical phrase structure grammars were
+found to exhibit the best generalization. The results overall
+suggest that the system increasingly favors phrase structure
+representations because they lead to a better trade-off
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+between simplicity and fit to the input data than alternative grammars: memorized sequences and finite state
+grammars are either too complex or fit the data too poorly.
+Inspection of our results at the individual level suggests
+that even though generalization tests at the group level
+only reached a moderate level of performance, some participants reached high d0 values: in Experiment 1, 6 participants had a d-prime above 1.6 in the Lexical
+generalization test (corresponding to about 80% correct),
+while 3 of them also reached that level in the Syntactic
+generalization task. These levels of performance are even
+higher in the presence of semantics where 8 participants
+exceeded 80% for Lexical generalization and 6 participants
+for Syntactic generalization. Such levels of performance
+could hardly have been reached if participants had applied
+alternative, simpler FSG grammatical templates. It suggests that this subset of participants may not only have
+developed abstract representations of the underlying
+phrase structure rules of the input sentences; they also
+extended them to novel rules relying on a recursion device
+based on coordination, by which a sentence can combine
+with another sentence while a VP can combine with
+another VP. These novel rules were argued to provide a
+natural extension of the PSG implemented in the training,
+and the finding that more than one third of the participants
+showed above 80% performance level despite the very limited input provides evidence for a device able to represent
+grammar beyond the input (Chomsky, 1965, 1980).
+Whether the learning system actually shows a bias
+towards inducing hierarchical structure over linear structure remains to be determined. Template analyses show
+that when participants reach the above-chance threshold
+of a d-prime of 1, they almost always adopt the hierarchical template. Nevertheless, in order to be able to conclude
+in favor of a bias towards hierarchical organization, one
+would need to explore induction from an input grammar
+that could equally be described by a hierarchical and a linear template, in order to determine whether participants
+still preferentially adopt the hierarchical one, despite the
+possibility of adopting the linear one.
+A number of participants showed a highest d-prime
+value for one of the simpler, FSG templates for the lexical
+generalization test over 3-word sentences, suggesting that
+these templates provided a better fit than the target grammar. Nevertheless, the d-prime values observed for these
+templates were lower than those of participants for whom
+the target grammar scored highest, and crucially, only one
+of them showed a d-prime above 1, considered as above
+chance. In line with the observations reported by Perfors
+et al. (2011), we suggest that these participants may actually be in a phase of transition from a simple grammar
+towards the more complex hierarchical target grammar.
+Whereas all participants would start by developing simple
+FSG templates, they would vary in the amount of input
+necessary to transit to the more complex grammar. That
+is, participants showing a best fit for an alternative template would actually represent an intermediate level of
+development of knowledge, through which all participants
+would transit at various speeds. It is important to note that
+the training phase contained a very limited number of
+input data (four two-word sentences repeated three times,
+
+101
+
+eight three-word sentences repeated three times) compared to, for example, Perfors et al. (2011) who trained
+the model on more than 2000 sentences. Under this
+hypothesis, fewer participants are expected to adopt these
+templates if more input sentences were presented.
+Analyses of individual performance in generalizing to
+novel structures involving recursion shows that a subset
+of participants adopted an alternative template more often
+than chance would predict. Although d-prime values were
+lower than those observed for the target grammar, 6 participants in Experiment 1 and 3 in Experiment 2 showed
+values above 1, suggesting some systematicity in their
+behavior. Importantly, these participants all selected the
+3^-4^ template (making the 3rd and 4th words agree), suggesting a propensity to adopt a finite state linear grammar
+based on adjacent dependencies. The combination of participants reaching a very high level of performance for
+the target grammar on these structures, together with participants reaching a lower but nevertheless above-chance
+performance for the finite state template, suggests that
+here again the latter subset may actually be in the process
+of evolving towards a PSG, and that increasing the input
+data may have led this subgroup to eventually adopt the
+PSG grammar, in line with computer simulations reported
+by Perfors and colleagues.
+We have conducted several template analyses based on
+various regularities in the materials and determined how
+well they accounted for individual participant performance. There is, however, another regularity that was also
+present in 3- and 4-word sentences that turns out to align
+perfectly with the target rule: in 3- and 4-word grammatical sentences, the final word before the pause never
+rhymes with the final word of the sentence, while in
+ungrammatical sentences, the opposite is true as these
+two words systematically rhyme. Could participants have
+relied on this finite-state, `non-rhyme' heuristic rather than
+on a seemingly more complex phrase-structure grammar?
+We believe not, for two reasons. The first reason is that
+although this non-rhyme heuristic applies to 3- and 4word sentences, its opposite applies for the regularity in
+2-word sentences which constitute the most minimal configuration that participants are first exposed to: in 2-word
+grammatical sentences, the two words rhyme, while they
+do not rhyme in the ungrammatical sentences. Even
+though participants were successively trained and tested
+on 2-word sentences and then on 3-word sentences, such
+that the two structures did not appear within the same
+testing phase, participants were aware that they were
+learning a single artificial language, and that they would
+be confronted with sentences of increasing difficulty arising from this common unique grammar. Thus, in order to
+follow the non-rhyme regularity in 3- and 4- words tests,
+they would need to inhibit the knowledge acquired during
+the previous learning step. This is even less plausible given
+that Lexical generalization and Syntactic generalization
+tasks are presented after a second stage of training of 2word sentences involving novel words, again rhyming
+(see Table 2). That is, participants would first learn that
+the two related words need to rhyme in 2-word sentences,
+then they would learn that they cannot rhyme in the
+3-word training sentences and the Memorization test
+
+102
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+involving the same sentences, then they would again learn
+that the two words need to rhyme when confronted with
+the novel lexicon in 2-word sentences, and then again they
+would have to change this knowledge when tested for Lexical and Syntactic generalization. Such switching back and
+forth between a rhyme and a non-rhyme rule seems
+implausible, and if applied, not necessarily simpler than
+the phrase structure grammar underlying the target rule.
+The second reason is that if participants were following
+the non-rhyme heuristic, their performance would not
+improve in the presence of semantics given that the animations failed to provide any visual correlate to that rule.
+The visual representation of objects and actions, of object
+numerosity and of agenthood cannot be mapped onto the
+acoustical features of the non-rhyme rule. That is, referential information fails to back-up the fact that the final word
+before the pause and the final word of the sentence do not
+rhyme. Rather, visual scenes provide information mapping
+various properties of the target grammar (grammatical categories, number, subjecthood), and the improved performance in Experiment 2 can therefore naturally be
+explained by the hypothesis that participants used these
+cues to back-up their representation of that grammar.
+Empirical evidence would ultimately be required to disentangle the two explanations more firmly. One possibility
+would be to incorporate, in the 3- and 4-word grammatical
+training sentences, other sentences in which the last word
+before the pause and the last word of the sentence rhyme.
+That property would be met in sentences containing number matching nouns, that is, sentences in which the two
+nouns have the same ending (e.g., Rabi meki_dRi).
+Finally, although we have been assuming that the
+device solicited by our learning task was the language system, two features of the task may require that we qualify
+this position. The first one is our systematic use of feedback, which deviates from natural language learning where
+such feedback is relatively rare. However, feedback was
+required given the particular starting small learning procedure that we used: at each step, we needed to make sure
+that participants had learned the materials, in order to be
+able to test their ability to generalize it. In order to test participants' knowledge at each level, we used a grammaticality judgment task, which has the advantage of providing a
+rather direct window on participants' representations, but
+the drawback of confronting them with ungrammatical
+materials, which may disturb their representations established during training. Feedback was therefore necessary
+to reduce the perturbing influence of ungrammatical materials and maximize the chances of observing learning,
+allowing us to reach our goal, which was to examine the
+type of knowledge that was developed. Yet, we are aware
+that we cannot draw direct conclusions about generalization in learning without feedback. The second feature of
+our task that may qualify our assumption that the language system underlies learning is that we used a simplified grammar, with a maximal number of cues, which
+may have led participants to rely on analytic, problemsolving devices. Although we admit that characterizing
+grammar complexity is non trivial, if the criterion is the
+minimal number of necessary rules, our grammar is more
+complex than the counting or mirror recursion grammars
+
+classically studied in AGL. Moreover, the generalization
+task used is also more complex than that used in those
+studies in that it involves extending the rule to new structures. Yet, a significant portion of the participants appears
+to have adopted the complex hierarchical rule, despite the
+limited input. By comparison, the model in Perfors et al.
+(2011) needed to be trained on more than 2000 sentences,
+while only a few dozen sufficed to our participants. Thus,
+although there is no direct evidence against the hypothesis
+that problem-solving devices were solicited to perform the
+task, the finding that the complex hierarchical rule rather
+than simpler, linear templates was induced brings some
+support to the assumption that language learning underlies performance. Note that the possibility that the knowledge developed actually reflects transfer from their
+knowledge of French, given the similarity of the properties
+of our AGL to French, cannot be ruled out on the basis of
+the current evidence either. This is an inevitable drawback
+of using an AGL mimicking natural languages. One way out
+to this problem in future studies, while still preserving the
+advantage of working with an AGL that contains natural
+language features, would be to test speakers of a language
+that does not have the specific key property of the artificial
+grammar, i.e., agreement here (e.g., Chinese).
+In sum, this study provides, to our knowledge, the first
+attempt to test the possibility that when exposed to an
+artificial grammar involving long-distance, structurebased dependencies, adults develop abstract representations of this grammar and extend it to phrase structure
+rules that were not exemplified in the input. The data are
+consistent with the hypothesis that participants initially
+develop finite-state representations, only partially
+accounting for the input data, and then switch to a more
+complex, phrase structure grammar as evidence accumulates. However, at present, the possibility that performance
+in 3- and 4- words generalization tests was driven by a
+finite-state grammar based on a non-rhyme regularity
+can only be questioned by arguments like those provided
+above, and further research is therefore necessary to back
+up our claim. Moreover, like any other AGL studies, it is
+unclear whether learning relies on the language system
+or on a more general analytic hypothesis-testing device.
+Nevertheless, the methods developed in the present study
+provide a new tool for exploring the type of knowledge
+that is developed in the learning of an artificial grammar,
+and the possibility that one type of representations (presumably here phrase-structure representations) is privileged over another type (finite-state representations).
+Future research including an experimental design allowing
+tracking the underlying representations as evidence accumulates may bring key insight about the evolution of the
+learning process (Cho et al., 2011).
+
+Conclusion
+A novel type of phrase structure grammar was studied
+in an AG paradigm, aiming at mimicking structuredependency in natural languages, while preserving the
+extreme poverty of artificial grammars. The target phenomenon instantiated, agreement, crucially relies on the
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+hierarchical position of the co-dependent elements, allowing for both local and non-local dependencies to arise. The
+grammar contains constituent structure, grammatical categories, grammatical morphemes and the syntactic device
+of constituent fronting. Learning conditions were optimized by following a starting small procedure and by maximizing the number of cues; phonological and prosodic
+cues in Experiments 1 and 2, and additional semantic cues
+in Experiment 2.
+Results show that rule induction improves across-theboard in the presence of semantic cues. Although individual analyses show that not all participants induced the
+grammar, a significant subset of them succeeded not only
+in generalizing their knowledge to novel words, but also
+in extending their knowledge beyond the input to novel
+structures. These novel structures instantiate a natural
+extension of the initial grammar used to generate the
+training sentences, involving recursive rules. The finding
+that adults appear to be able to develop, to some extent,
+abstract knowledge of hierarchical, structure-dependent
+representations despite partial input data and minimal
+training opens a new avenue for behavioral and modeling
+research interested in how these complex representations
+are induced from low level processes.
+Acknowledgments
+The research was funded by the Fonds National Suisse
+de la Recherche (105311-109987) to J. Franck and U.
+Frauenfelder. We wish to thank Gerry Altmann, Pierre Barrouillet, Kepa Erdozia, Itziar Laka, Christophe Pallier, Pierre
+Perruchet, Luigi Rizzi, Doug Saddy, Ur Shlonsky, Whit
+Tabor and Vitor Zimmerer for enriching discussions on this
+work, as well as three anonymous reviewers for their
+thoughtful comments on the first version of the paper.
+Nevertheless, we take complete responsibility for the content of the paper.
+References
+Bahlmann, J., & Friederici, A. D. (2006). FMRI investigation of the
+processing of simple linear and embedded hierarchical structures:
+An artificial grammar task. Journal of Cognitive Neuroscience,
+Supplement, 126.
+Bahlmann, J., Schubotz, R. I., & Friederici, A. D. (2008). Hierarchical
+artificial grammar processing engages Broca's area. NeuroImage, 42,
+525-534.
+Bock, J. K., & Eberhard, K. M. (1993). Meaning, sound and syntax in English
+number agreement. Language and Cognitive Processes, 8, 57-99.
+Bock, J. K., & Miller, C. A. (1991). Broken agreement. Cognitive Psychology,
+23, 35-43.
+Boersma, P., & Weenink, D. (2007). Praat: Doing phonetics by computer.
+Cho, P. W., Szkudlarek, E., Kukona, A., & Tabor, W. (2011). An artificial
+grammar investigation into the mental encoding of syntactic
+structure. In Proceedings of the 33rd annual meeting of the cognitive
+science society (Cogsci2011) (pp. 1679-1684). Boston, MA: The
+Cognitive Science Society.
+Chomsky, N. (1965). Aspects of the theory of syntax (Vol. 119). Cambridge:
+The MIT press.
+Chomsky, N. (1980). Rules and representations. New York: Columbia
+University Press.
+Christianson, K., Hollingworth, A., Halliwell, J. F., & Ferreira, F. (2001).
+Thematic roles assigned along the garden path linger. Cognitive
+Psychology, 42, 368-407.
+Conway, C. M., Ellefson, M. R., & Christiansen, M. H. (2003). When less is
+less and when less is more: Starting small with staged input. In R.
+
+103
+
+Alterman & D. Kirsch (Eds.), Proceedings of the 25th annual conference
+of the cognitive science society (pp. 270-275). NJ: Lawrence Erlbaum.
+Corballis, M. C. (2007). Recursion, language, and starlings. Cognitive
+Science, 31, 697-704.
+De Vries, M. H., Monaghan, P., Knecht, S., & Zwitserlood, P. (2008).
+Syntactic structure and artificial grammar learning: The learnability
+of embedded hierarchical structures. Cognition, 107, 763-774.
+De Vries, M. H., Petersson, K. M., Geukes, S., Zwitserlood, P., &
+Christiansen, M. H. (2012). Processing multiple non-adjacent
+dependencies: Evidence from sequence learning. Philosophical
+Transactions of the Royal Society B: Biological Sciences, 367, 2065-2076.
+Dulany, D. E., Carlson, R. A., & Dewey, G. I. (1984). A case of syntactical
+learning and judgment: How conscious and how abstract? Journal of
+Experimental Psychology: General, 113, 541-555.
+Dutoit, T., Pagel, V., Bataille, F., & Van der Vreken, O. (1996). The mbrola
+project: Towards a set of high-quality speech synthesizers free of use
+for non-commercial purposes. In Proceedings of the fourth international
+conference on spoken language processing (Vol. 3, pp. 1393-1396).
+Philadelphia.
+Eberhard, K., Cutting, J. C., & Bock, K. (2005). Making syntax of sense:
+Number agreement in sentence production. Psychological Review, 112,
+531-559.
+Eichenbaum, H., & Cohen, N. J. (2001). From conditioning to conscious
+recollection: Memory systems of the brain. New York: Oxford University
+Press.
+Elman, J. L. (1993). Learning and development in neural networks: The
+importance of starting small. Cognition, 48, 71-99.
+Endress, A. D., Dehaene-Lambertz, G., & Mehler, J. (2007). Perceptual
+constrains and learnability of simple grammars. Cognition, 105,
+577-614.
+Fedor, A., Varga, M., & Szathmary, E. (2012). Semantics boosts syntax
+in artificial grammar learning tasks with recursion. Journal of
+Experimental Psychology: Learning, Memory, and Cognition,
+38, 776.
+Fitch, W. T., & Hauser, M. D. (2004). Computational constraints on
+syntactic processing in a nonhuman primate. Science, 303, 377-380.
+Franck, J., Frauenfelder, U. H., & Rizzi, L. (2007). A syntactic analysis of
+interference in subject-verb agreement. MIT Working Papers in
+Linguistics, 53, 173-190.
+Franck, J., Lassi, G., Frauenfelder, U. H., & Rizzi, L. (2006). Agreement and
+movement: A syntactic analysis of attraction. Cognition, 101, 173-216.
+Franck, J., Soare, G., Frauenfelder, U. H., & Rizzi, L. (2010). Object
+interference in subject-verb agreement: The role of intermediate
+traces of movement. Journal of Memory and Language, 62, 166-182.
+Gazdar, G. (1982). Phrase Structure Grammar. In P. Jacobson & G. K.
+Pullum (Eds.), The nature of syntactic representation (pp. 131-186).
+Dordrecht: Reidel Inc.
+Gentner, T. Q., Fenn, K. M., Margoliash, D., & Nusbaum, H. C. (2006).
+Recursive syntactic pattern learning by songbirds. Nature, 440,
+1204-1207.
+Gervain, J., Macagno, F., Cogoi, S., Pena, M., & Mehler, J. (2008). The
+neonate brain detects speech structure. In Proceedings of the national
+academy of sciences of the United States of America (Vol. 105, pp.
+14222-14227).
+Green, T. R. (1979). The necessity of syntax markers: Two experiments
+with artificial languages. Journal of Verbal Learning and Verbal
+Behavior, 18, 481-496.
+Hartsuiker, R. J., Anton-Mendez, I., & van Zee, M. (2001). Object attraction
+in subject-verb agreement construction. Journal of Memory and
+Language, 45, 546-572.
+Haspelmath, M. (2004). Coordinating constructions: An overview.
+Coordinating Constructions, 58, 3-40.
+Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002). The faculty of language:
+What is it, who has it, and how did it evolve? Science, 298, 1569-1579.
+Hochmann, J. R., Azadpour, M., & Mehler, J. (2008). Do humans really learn
+AnBn artificial grammars from exemplars? Cognitive Science, 32,
+1021-1036.
+King, J., & Just, M. A. (1991). Individual differences in syntactic processing:
+The role of working memory. Journal of Memory and Language, 30,
+580-602.
+Lai, J., & Poletiek, F. H. (2011). The impact of adjacent-dependencies and
+staged-input on the learnability of center-embedded hierarchical
+structures. Cognition, 118, 265-273.
+Lai, J., & Poletiek, F. H. (2013). How ``small" is ``starting small" for learning
+hierarchical centre-embedded structures? Journal of Cognitive
+Psychology, 25, 423-435.
+Langus, A., Marchetto, E., Bion, R. A. H., & Nespor, M. (2012). Can prosody
+be used to discover hierarchical structure in continuous speech?
+Journal of Memory and Language, 66, 285-306.
+
+104
+
+J. Franck et al. / Journal of Memory and Language 87 (2016) 84-104
+
+Lany, J., Gomez, R. L., & Gerken, L. A. (2007). The role of prior experience in
+language acquisition. Cognitive Science, 31, 481-507.
+Lewis, R. L. (1996). Interference in short-term memory: The magical
+number two (or three) in sentence processing. Journal of
+Psycholinguistic Research, 25, 93-115.
+Macmillan, N. A., & Creelman, C. D. (1991). Detection theory: A user's guide.
+New York: Cambridge University Press.
+Majerus, S., & van der Linden, M. (2003). Long-term memory effects on
+verbal short-term memory: A replication study. British Journal of
+Developmental Psychology, 21, 303-310.
+Marcus, G. F., Vijayan, S., Bandi Rao, S., & Vishton, P. M. (1999). Rule
+learning by seven-month-old infants. Science, 283, 77-80.
+Miller, G. A., & Chomsky, N. (1963). Finitary models of language users. In
+R. D. Luce, R. R. Bush, & E. Galanter (Eds.). Handbook of mathematical
+psychology (Vol. 2, pp. 419-491). New York: Wiley and Sons.
+Moeser, S. D., & Bregman, A. S. (1972). The role of reference in the
+acquisition of a miniature artificial language. Journal of Verbal
+Learning and Verbal Behavior, 11, 759-769.
+Monaghan, P., Christiansen, M. H., & Chater, N. (2007). The phonologicaldistributional coherence hypothesis: Cross-linguistic evidence in
+language acquisition. Cognitive Psychology, 55, 259-305.
+Morgan, J. L., & Newport, E. L. (1981). The role of constituent structure in
+the induction of an artificial language. Journal of Verbal Learning and
+Verbal Behavior, 20, 67-85.
+Mori, K., & Moeser, S. D. (1983). The role of syntax markers and semantic
+referents in learning an artificial language. Journal of Verbal Learning
+and Verbal Behavior, 22, 701-718.
+Mueller, J. L., Bahlmann, J., & Friederici, A. D. (2010). Learnability of
+embedded syntactic structures depends on prosodic cues. Cognitive
+Science, 34, 338-349.
+Nespor, M., & Vogel, I. (1986). Prosodic phonology. Berlin: Walter de
+Gruyter.
+Nevins, A., Pesetsky, D., & Rodrigues, C. (2009). Piraha exceptionality: A
+reassessment. Language, 85, 355-404.
+Newport, E. L., & Aslin, R. N. (2004). Learning at a distance I. Statistical
+learning of non-adjacent dependencies. Cognitive Psychology, 48,
+127-162.
+Nicol, J. L., Forster, K. I., & Veres, C. (1997). Subject-verb agreement
+processes in comprehension. Journal of Memory and Language, 36,
+569-587.
+Nosofsky, R. M., & Zaki, S. R. (2002). Exemplar and prototype models
+revisited: Response strategies, selective attention, and stimulus
+generalization. Journal of Experimental Psychology: Learning, Memory,
+and Cognition, 28, 924.
+Onnis, L., & Christiansen, M. H. (2008). Lexical categories at the edge of the
+word. Cognitive Science, 32, 184-221.
+Pearlmutter, N. J. (2000). Linear versus hierarchical agreement feature
+processing in comprehension. Journal of Psycholinguistic Research, 29,
+89-98.
+Pena, M., Bonatti, L. L., Nespor, M., & Mehler, J. (2002). Signal-driven
+computations in speech processing. Science, 298, 604-607.
+Perfors, A., Tenenbaum, J. B., Griffiths, T. L., & Xu, F. (2011). A tutorial
+introduction to Bayesian models of cognitive development. Cognition,
+120, 302-321.
+Perruchet, P., & Pacteau, C. (1990). Synthetic grammar learning: Implicit
+rule abstraction or explicit fragmentary knowledge? Journal of
+Experimental Psychology: General, 119, 264-275.
+
+Perruchet, P., & Rey, A. (2005). Does the mastery of center-embedded
+linguistic structures distinguish humans from nonhuman primates?
+Psychonomic Bulletin & Review, 12, 307-313.
+Poletiek, F. H. (2002). Implicit learning of a recursive rule in an artificial
+grammar. Acta Psychologica, 111(3), 323-335.
+Posner, M. I., & Keele, S. W. (1968). On the genesis of abstract ideas.
+Journal of Experimental Psychology, 77, 353-363.
+Pothos, E. M. (2007). Theories of artificial grammar learning. Psychological
+Bulletin, 133, 227-244.
+Reber, A. S. (1967). Implicit learning of artificial grammars. Journal of
+Verbal Learning and Verbal Behavior, 6, 855-863.
+Reber, A. S. (1993). Implicit learning and tacit knowledge: An essay on the
+cognitive unconscious. New York: Oxford University Press.
+Redington, M., & Chater, N. (1996). Transfer in artificial grammar
+learning: A reevaluation. Journal of Experimental Psychology: General,
+125, 123-138.
+Saddy, D. (2012). Variations on the recursive signal. Paper presented at the
+ICREA International Symposium on Biolinguistics, Barcelona, Spain.
+Shirley, E. J. (2014). Representing and remembering Lindenmayer-grammars.
+(Unpublished doctoral dissertation). Center for Integrative
+Neuroscience and Neurodynamics, Department of Psychology and
+Clinical Language Sciences, University of Reading, UK.
+Staub, A. (2010). Response time distributional evidence for distinct
+varieties of number attraction. Cognition, 114, 447-454.
+Tabor, W., Smith, G., & Cho, P. W. (2014). Evidence for a phase transition
+in learning a recursive artificial grammar. In Paper presented at the
+20th annual architectures and mechanisms for language processing.
+Edinburgh, Scotland.
+Tabor, W., Galantucci, B., & Richardson, D. (2004). Effects of merely local
+syntactic coherence on sentence processing. Journal of Memory and
+Language, 50, 355-370.
+Tettamanti, M., Alkadhi, H., Moro, A., Perani, D., Kollias, S., & Weniger, D.
+(2002). Neural correlates for the acquisition of natural language
+syntax. NeuroImage, 17, 700-709.
+Tettamanti, M., Rotondi, I., Perani, D., Scotti, G., Fazio, F., Cappa, S. F., &
+Mora, A. (2009). Syntax without language: Neurobiological evidence
+for cross-domain syntactic computations. Cortex, 45, 825-838.
+Valian, V., & Coulson, S. (1988). Anchor points in language learning: The
+role of marker frequency. Journal of Memory and Language, 27(1),
+71-86.
+Van den Bos, E., Christiansen, M. H., & Misyak, J. B. (2012). Statistical
+learning of probabilistic nonadjacent dependencies by multiple-cue
+integration. Journal of Memory and Language, 67, 507-520.
+Vigliocco, G., & Nicol, J. (1998). Separating hierarchical relations and word
+order in language production: Is proximity concord syntactic or
+linear? Cognition, 68, B13-B29.
+Visser, I., Raijmakers, M. E. J., & Pothos, E. M. (2009). Individual strategies
+in artificial grammar learning. The American Journal of Psychology, 122,
+293-307.
+Wagers, M. W., Lau, E. F., & Phillips, C. (2009). Agreement attraction in
+comprehension: Representations and processes. Journal of Memory
+and Language, 61, 206-237.
+Zimmerer, V. C., Cowell, P. E., & Varley, R. A. (2011). Individual behavior in
+learning of an artificial grammar. Memory & Cognition, 39, 491-501.
+Zimmerer, V. C., Cowell, P. E., & Varley, R. A. (2014). Artificial grammar
+learning in individuals with severe aphasia. Neuropsychologia, 53,
+25-38.
+
+
