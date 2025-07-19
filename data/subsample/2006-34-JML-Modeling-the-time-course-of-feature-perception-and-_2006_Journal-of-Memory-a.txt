@@ -1,0 +1,2236 @@
+Journal of Memory and Language 55 (2006) 553-571
+
+Journal of
+Memory and
+Language
+www.elsevier.com/locate/jml
+
+Modeling the time course of feature perception and feature
+information retrieval q
+Christopher Kent *, Koen Lamberts
+Department of Psychology, University of Warwick, Coventry CV4 7AL, UK
+Received 24 March 2006; revision received 27 July 2006
+
+Abstract
+Three experiments investigated whether retrieval of information about different dimensions of a visual object varies
+as a function of the perceptual properties of those dimensions. The experiments involved two perception-based matching tasks and two retrieval-based matching tasks. A signal-to-respond methodology was used in all tasks. A stochastic
+feature-sampling model was applied to the results from individual participants to estimate the speed of feature perception and the speed of feature information retrieval. Generally, the speed at which dimensions were retrieved was linearly
+related to the speed at which they were perceived. Features that were quickly perceived were also quickly retrieved. The
+data have implications for theories of perception and memory.
+ 2006 Elsevier Inc. All rights reserved.
+Keywords: Perception; Memory; Object recognition; Response times; Matching
+
+All memory experiments require a participant to perceive a set of stimuli and then, after a delay, perform
+some task with the information that they are able to
+retrieve about those stimuli. It is no surprise, therefore,
+that there is a large volume of work investigating the
+interaction between the encoding of stimulus information and the subsequent retrieval of that information
+(for a recent review see Neath & Surprenant, 2005).
+However, given that both perception and retrieval do
+not occur instantaneously, there is surprisingly little systematic research investigating the relationship between
+the time course of perception and the time course of
+retrieval. This is even more surprising given that large
+
+q
+
+This research was supported by Biotechnology and Biological Sciences Research Council Grant BBS/B/08914.
+*
+Corresponding author. Fax: +44 (0) 24 765 24225.
+E-mail address: c.kent@warwick.ac.uk (C. Kent).
+
+literatures on the time course of perception and on the
+time course of retrieval have evolved independently of
+each other. In this article, we describe an approach that
+allows investigators to measure both the speed at which
+object features are perceived and the speed at which
+information about those features is retrieved from memory. We report three experiments that used this
+approach, and investigate the relationship between the
+time course of feature perception and the time course
+of feature information retrieval.
+The most convincing evidence of differential processing rates in both perception and retrieval comes from
+studies employing a signal-to-respond methodology.
+Signal-to-respond methodologies are designed to provide information about the time course of processing
+by interrupting task execution after various time intervals (e.g., Dosher, 1976; Meyer, Irwin, Osman, & Kounios, 1988; Pachella, 1974; Reed, 1973, 1976; Wickelgren,
+1977). By plotting a measure of accuracy against
+
+0749-596X/$ - see front matter  2006 Elsevier Inc. All rights reserved.
+doi:10.1016/j.jml.2006.08.010
+
+554
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+response-signal interval, the shape of the speed-accuracy trade-off curve between take-off (the intercept, before
+which time no useable information is gained) and
+asymptote (after which time there is no gain in performance for continued processing, and which is often
+taken to represent maximum discriminability in perception and memory strength in retrieval) can be used to
+inform about the rate of information processing. In this
+article, we are primarily concerned with differences in
+the rates of information accumulation between different
+dimensions of visually presented objects.
+Although the time course of information retrieval has
+been extensively studied (e.g., Atkinson & Juola, 1973;
+Burrows & Okada, 1975; Corbett, 1977; Dosher, 1976;
+Dosher & Rosedale, 1991; Gronlund & Ratcliff, 1989;
+Hintzman & Caulton, 1997; Hintzman & Curran,
+1994; McElree & Dosher, 1989, 1993; Morin, DeRosa,
+& Shultz, 1967; Mulligan & Hirshman, 1995; Ratcliff,
+1978; Ratcliff & McKoon, 1982; Ratcliff & Murdock,
+1976; Reed, 1973, 1976; Thomas, Milner, & Haberlandt,
+2003), there have been few studies directly investigating
+the differences in the time course of feature information
+retrieval between different attributes of the same item.
+The majority of studies that have looked at within-item
+retrieval differences have been designed to investigate the
+differences between the time courses of different retrieval
+processes (e.g., recognition and recall). Therefore, previous studies have typically used stimuli (letters, words,
+and sentences) and procedures that are designed to rely
+on different retrieval mechanisms (e.g., Corbett, 1977;
+Dosher, 1984; Dosher & Rosedale, 1991; Hintzman &
+Caulton, 1997; Hintzman & Curran, 1994; McElree &
+Dosher, 1989, 1993; Ratcliff, 1981; Ratcliff & McKoon,
+1982, 1989). Generally, studies have found evidence for
+different asymptotic levels of performance between the
+processes under study and differences in the rate and
+take-off of retrieval, although differences in the temporal
+dynamics are less often reported (e.g., Corbett, 1977;
+Corbett & Wickelgren, 1978; Dosher, 1976; Hintzman
+& Caulton, 1997; Hintzman & Curran, 1994; McElree
+& Dosher, 1989, 1993; Mulligan & Hirshman, 1995).
+In the visual domain, results from a variety of perceptual processing tasks have demonstrated that different
+visual features are processed at different speeds. For
+example, when participants are asked, under signal-torespond conditions, to make identity judgments of realistic objects, it is clear that some dimensions enter the
+decision process faster than other dimensions. This finding has been observed in categorization tasks (e.g., Lamberts, 1995, 1998, 2000, 2002), in recognition tasks (e.g.,
+Brockdorff & Lamberts, 2000; Lamberts, Brockdorff, &
+Heit, 2002), and in perceptual matching tasks (e.g., Kent
+& Lamberts, 2006; Lamberts et al., 2002). In a different
+approach to the issue, Moutoussis and Zeki (1997a; see
+also Bartels and Zeki, 1998, 2006) have demonstrated
+perceptual asynchrony between different visual features.
+
+In a task, where the color and direction of motion of a
+pattern of squares varied continuously, participants
+were shown to reliably misbind color and direction of
+motion. Further, Moutoussis and Zeki (1997b) demonstrated that color is perceived before orientation, which
+is perceived before motion.
+In this article, we focus on differences in retrieval
+rates of features of visually presented objects. We
+assume that a single process governs retrieval in the
+tasks that we used. We use the term `perception' to refer
+to the processes through which stimulus feature information is acquired from the environment, and we use
+the term `retrieval' to refer to the processes that make
+feature information available from memory. Before,
+suggesting an approach to investigating within-item
+retrieval rates based on the perceptual matching paradigm (e.g., Ratcliff, 1981), we first look at the similarities
+between encoding and retrieval, and develop the hypothesis that retrieval rates are related to perception rates.
+At a physiological level, there is evidence that visual
+perception and visual memory involve shared neural
+substrates (e.g., Slotnick, 2004; Ungerleider, 1995). We
+might expect, therefore, to observe close links between
+encoding and retrieval at a behavioral level. Because
+memory representations are intimately linked with the
+procedure through which they were encoded, the more
+closely the cue re-instantiates the original encoding context, the easier retrieval will be (e.g., Barsalou, 1999,
+2003; Kolers, 1973; Kolers & Roediger, 1984; Thomson
+& Tulving, 1970; Tulving, 1983). Therefore, we would
+expect manipulations of the congruency between encoding and retrieval processes to affect response times and
+accuracy.
+Congruency effects have been reported in various
+memory tasks. Thomas et al. (2003; see also Anders
+and Lillyquist, 1971; Anderson, Bothell, Lebiere, and
+Matessa, 1998; Kahana and Caplan, 2002; Sternberg,
+1969) demonstrated an advantage in accuracy and
+RT for forward recall over backward recall of word
+lists. Thomas et al. (2003) interpreted this finding as
+a congruency effect, by suggesting that retrieval order
+mimics encoding order. In the forward (congruent)
+recall condition, items can be reported as they are
+retrieved, whereas backward recall requires a list to
+be scanned multiple times. Reingold (2002; see also
+Ray and Reingold, 2003) manipulated the visual congruency between study and test phases of an image
+recognition task. At study, participants viewed images
+either in a central mode or in a peripheral mode. In
+the central mode, images were viewed through a small
+gaze-contingent window centered at fixation (with the
+periphery blocked out). In the peripheral mode,
+participants could only view the image through the
+periphery of their visual field. At test, recognition
+was more accurate when gaze mode was congruent
+between encoding and retrieval (central-central and
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+peripheral-peripheral), than for incongruent conditions
+(central-peripheral and peripheral-central).
+The effects of the overlap between encoding and
+retrieval on retrieval accuracy and (most importantly)
+retrieval response times, raise challenging questions
+about the relation between the time course of perceptual
+encoding and the time course of subsequent retrieval.
+Overlap effects on response times will emerge if the time
+course of retrieval processes is somehow congruent with
+the time course of perceptual processes at initial encoding [as suggested by Thomas et al. (2003)]. However, the
+congruence relation between the time courses of these
+two processes can still have many different forms. A
+strong version of the congruence hypothesis may posit
+complete concordance between the time course of perception and the time course of retrieval, with retrieval
+mechanisms essentially reinstating the original encoding
+processes. However, given the stochastic nature of both
+perception and retrieval, such a strong link seems unlikely. A less extreme version of the congruence hypothesis
+may posit that the rates of retrieval and perception are
+related, with factors that affect perception rates of features also affecting rates of retrieval of information
+about those features. According to both hypotheses, features that are perceived quickly should also be retrieved
+quickly. In the experiments presented in this article, we
+attempted to obtain information about the relationship
+between the speed at which features are perceived, and
+the speed at which information about those features is
+retrieved.
+One approach to measuring the relationship between
+perceptual processing rates and retrieval processing rates
+is to investigate the temporal dynamics of perception
+and retrieval within an object matching framework. In
+a perceptual matching task, participants are required to
+judge, whether two concurrently presented objects are
+the same or different. Because both objects are present
+at the same time, features from both objects must be perceived, but there is minimal demand on memory and
+retrieval. In addition, two forms of the perceptual
+matching tasks can be used. In a simultaneous perceptual
+matching task, the two objects are presented with the
+same onset. In a sequential perceptual matching task,
+one object is pre-exposed before the other object is presented. If the first object is pre-exposed for long enough,
+then it can reasonably be assumed that the features of
+the first object have been perceptually processed.
+Greater memory demands can be induced within the
+general matching framework by varying the interval
+between the presentations of the two objects. In a
+delayed matching task, the first object is presented and
+then removed before the second object is presented.
+Because the objects are not present at the same time, features from the second object must be perceived and
+information about features from the first object must
+be retrieved (e.g., Ratcliff, 1981). We have previously
+
+555
+
+argued that delayed perceptual matching is a form of
+perceptual recognition (Kent & Lamberts, 2006).
+Both simultaneous and sequential perceptual matching tasks can be used to estimate perceptual processing
+rates, whereas delayed matching tasks can be used to
+estimate joint perception and retrieval rates. This
+approach has been used in two previous studies. Lamberts et al. (2002) carried out a series of four experiments, using color images of complex objects and
+scenes as stimuli. The first experiment involved simultaneous presentation of pairs of stimuli. The participant
+simply had to decide whether the stimuli were the same
+or different, with unlimited time to respond. Three types
+of stimuli were used: identical (all features matched),
+similar (one critical feature mismatched), and different
+(all features mismatched). Using a median split on the
+RTs, the similar stimuli were divided up into fast stimulus pairs (where the mismatching feature was detected
+quickly) and slow stimulus pairs (where the mismatching
+feature was detected slowly). The slow and fast pairs
+were used in three further signal-to-respond experiments, to test the hypothesis that perceptual and retrieval rates would vary between the fast-similar and slowsimilar pairs. In Experiments 2 and 3, simultaneous
+and sequential matching tasks were used to measure
+the perceptual processing rates of the critical features
+in the fast and slow stimulus pairs. Experiment 4 used
+a recognition task to measure joint perception and
+retrieval rates. By fitting a formal model to the speed-accuracy trade-off data from Experiments 2 to 4, Lamberts
+et al. (2002) were able to demonstrate that the critical
+features in the fast-similar pairs had faster perceptual
+processing rates and faster retrieval rates than the critical features in the slow-similar pairs, supporting at least
+a weak version of the congruence hypothesis.
+However, Kent and Lamberts (2006) noted two
+potential limitations of the method employed by Lamberts et al. (2002). First, the feature structure of the complex stimuli was unknown, which meant that processing
+rates were estimated by averaging across a wide range of
+different features. This averaging process may have
+introduced artifacts into the estimates of the processing
+rates. Second, because the study phase contained many
+items, the estimates of retrieval rates may have been contaminated by additional (but unexplained) processing,
+such as searching for the relevant stimulus among the
+training set. Kent and Lamberts addressed these criticisms by using stimuli with a known feature structure,
+and by using a delayed perceptual matching task instead
+of a typical recognition task with many study items.
+Kent and Lamberts (2006) used images of rendered
+objects composed of three binary dimensions in four
+perceptual matching tasks: simultaneous matching,
+sequential matching, unfilled-delayed matching, and
+filled-delayed matching. The delayed matching tasks
+involved a 5 s gap between presentation and removal
+
+556
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+ture. A full image could not be used as the probe because
+participants may have retrieved the associated label and
+thus matched the stimuli based on their labels and not
+the intended physical features. In the feature-image
+matching tasks the target stimulus was one of the image
+stimuli. In the feature-label matching tasks, only the
+CVC label that corresponded to a target stimulus was
+presented. Using the label instead of an object meant
+that the procedural differences between the perceptionbased tasks and retrieval-based tasks could be minimized, which represents a significant improvement over
+the experiments in the previous two studies (Kent &
+Lamberts, 2006; Lamberts et al., 2002). In the simultaneous matching tasks, the probe feature and target (or
+associated CVC label) appeared at the same time. In
+the sequential matching tasks, the probe was presented
+first before the target (or associated CVC label) was presented. We used a signal-to-respond procedure in all
+four tasks. Processing of the probe and target was interrupted at unpredictable time intervals from target onset
+(which in the simultaneous matching task coincided with
+probe onset). We would expect accuracy to be higher in
+the sequential tasks compared to the simultaneous task,
+because perceptual processing of the probe can start
+before the target is displayed. The data from the feature-image matching tasks provide a measure of the time
+it takes to perceive a feature. The data from the featurelabel matching tasks provide an estimate of the joint perception and retrieval time of a feature. In order to estimate the rate at which participants perceived a feature
+and the rate at which participants retrieved information
+about a feature, we fitted a simple formal model to the
+speed-accuracy data. If the congruence hypothesis is
+correct, there should be a systematic, positive relation
+between the perception rates and the retrieval rates of
+object features.
+
+of the first stimulus and presentation of the second stimulus. Thus, when the second stimulus was presented,
+information about the first stimulus had to be retrieved.
+In the unfilled-delayed matching task there was a blank
+screen between presentation of the first and second stimulus. In the filled-delayed matching task, the participant
+had to answer a simple mathematical question between
+presentation of the first and second stimulus. It was
+argued that the filled-delayed matching task would
+impose greater retrieval demands (and hence slow the
+retrieval process) because the filler task impaired maintenance of the information about the first stimulus in
+memory. Indeed, the formal modeling results supported
+this idea, with slower retrieval rates in the filled-delayed
+matching task compared to the unfilled-delayed matching task. However, contrary to Lamberts et al. (2002),
+there was no demonstrable relationship between perception rates and retrieval rates of individual features. The
+perception rates varied between the different stimulus
+dimensions, but there was no evidence for any differences in retrieval rates between dimensions.
+In the three experiments we report here, we attempted to shed further light on these contradictory results, by
+using a different methodology for the measurement of
+feature-information retrieval rates. In each experiment,
+the main stimuli were simple visual objects with three
+binary dimensions. First, the participants were required
+to learn to associate a unique label (a non-word CVC
+string) with each of the objects. The associations allowed
+us to present either the stimulus itself or the label associated with that stimulus in a matching task. We used
+four tasks to measure the perception rates and the
+retrieval rates (see Fig. 1). In all four tasks, participants
+were required to judge whether a probe feature was the
+same as the corresponding feature in the target stimulus.
+The probe was always an image containing a single fea-
+
+1000
+
+1000
+
+RI + 500
+
+RI + 500
+
+Feedback
+
+SI
+
+500
+
+Simultaneous
+Feature-Image
+
+Sequential
+Feature-Image
+
+RI + 500
+
+Feedback
+
+SI
+
+100
+
+500
+
++
+
+1000
+
+RI + 500
+
+SI
+
+100
+
+500
+
++
+
+Feedback
+
+1000
+
+100
+
+1000
+
+SI
+
+1000
+
+cav
+
+Feedback
+
+cav
+
+100
+
+500
+
++
+Simultaneous
+Feature-Label
+
++
+Sequential
+Feature-Label
+
+Fig. 1. Sequence of events in each of the four tasks. Numbers refer to the duration (in ms) of each stage. Arrows indicate the order of
+stages. SI, signal interval; RI, response interval.
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+Experiment 1
+Method
+Participants
+Five postgraduate students (4 men and 1 woman,
+aged 23-34) from the University of Warwick participated in return for 6 (approximately $10.50) per hour.
+Materials and stimuli
+Stimuli were presented on a 17-inch CRT monitor
+set to a resolution of 1280 * 1024 pixels at a refresh
+rate of 75 Hz. The viewing distance to the centre of
+the monitor was 1 m. Participants responded via a
+Razer Copperhead high-precision gaming mouse connected to the USB port of the Pentium 4 computer
+used to control the experiment. Assignment of left
+and right mouse buttons to ``same'' and ``different''
+responses was counterbalanced across participants.
+The response signal was a 2120 Hz tone, 100 ms
+in duration. Instructions and feedback appeared in
+24-point Arial font centered horizontally and vertically
+on the monitor.
+Image stimuli were schematic faces (see Fig. 2) composed of three binary dimensions: eye color (green or
+blue), nose shape (cross or triangle), and mouth expression (smiling or sad). Each feature was combined with
+every other combination of features to yield 8 face images. The faces were pink circles, 175 pixels wide and 175
+pixels high (subtending approximately 2.64 of visual
+angle in each direction). The letter cues (labels) for each
+face were three letter non-word CVCs: cav, dak, gan, laz,
+mas, paf, taj, and wab. The assignment of labels to the
+faces was randomized for each participant. The labels
+were displayed in white 48-point Arial font. The background throughout the experiment remained a uniform
+grey.
+In the simultaneous and sequential matching tasks,
+the probe stimuli were single face-features, embedded
+in the normal position within a face outline (see
+Fig. 1). The face-features were presented at the horizontal centre of the screen, and at least 37 pixels to the left
+of the vertical centre. The labels and faces were presented at least 37 pixels to the right of the vertical centre of
+the screen and were positioned randomly 0-375 pixels
+above or below the horizontal centre of the screen.
+The vertical location was randomized to avoid cueing
+the location of the relevant dimension in the face.
+Design
+There were two matching tasks (simultaneous matching and sequential matching) and two target stimulus
+types (faces and labels). The tasks and target stimulus
+types were combined to make four trial types. On each
+trial the participant was required to judge whether a
+face-feature was the same as the corresponding feature
+
+557
+
+in the target face image (feature-image matching) or
+cued face-image (feature-label matching). In the simultaneous task, both the face-feature and the target face or
+label were presented at the same time. In the sequential
+matching task, the face-feature was shown first for
+1000 ms, after which the target face or label was presented. A response signal was given at one of four possible
+signal intervals. The signal intervals varied between the
+target types, because pilot data indicated that performance took longer to rise above chance level in the feature-label matching task than in the feature-image
+matching task. For the feature-image matching tasks
+the signal intervals were 150, 250, 350, and 500 ms.
+For the feature-label matching tasks the signal intervals
+were 300, 450, 600, and 750 ms. The start of the signal
+interval was marked by the onset of the target face or
+label (in the simultaneous matching task, this onset coincided with the onset of the face-feature).
+Blocks of feature-image matching and feature-label
+matching were presented in a randomized order. A
+learning block was always run immediately before a
+block of feature-label matching trials. Each learning session was terminated once the participant had successfully learnt the mapping between labels and faces (using a
+criterion of 3 consecutive blocks of 8 trials without
+error). Successful completion of the learning task
+required that the participants retained information
+about all three dimensions for each stimulus. The simultaneous matching and sequential matching trials were
+mixed within blocks.
+Procedure
+Before each learning session, the participants were
+allowed to preview all 8 faces, with the corresponding
+labels. A face appeared at the center of the screen with
+the label below. Participants could cycle through the faces and labels by pressing the left mouse button. Presentation of faces and labels was randomized per block of 8
+presentations. The participants were allowed as much
+time to view each face and label and cycle through the
+faces and labels as many times as they wanted. The participant could proceed to the learning stage at any time
+by pressing the right mouse button.
+In the learning stage, a label appeared at the top of
+the screen and the 8 faces appeared in a 4 * 2 array,
+centered on the vertical and horizontal midpoint of
+the display. Each face was centered in one of the
+array cells (260 * 260 pixels). Each face was separated
+from its neighbors by at least 84 pixels. The assignment of faces to array cells was randomized on each
+trial. Participants were required to left-click the face
+that corresponded to the label. There was no time
+pressure on the participant to respond. Once the
+participant had selected a response, auditory correct/
+incorrect feedback was given. After the response, the
+correct face remained on screen with the label, while
+
+558
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+Fig. 2. Top row: two sample stimuli from Experiment 1, showing features along the three dimensions: eye color (blue or green), nose
+shape (cross or triangle), and mouth expression (happy or sad). Middle row: two sample stimuli from Experiment 2 showing features
+along the three dimensions: sail color (blue or red stripe), flag orientation (0 or 45), and porthole shape (circular or square). Bottom
+row: two sample stimuli from Experiment 3 showing features along the three dimensions: balloon color (blue and white check or red
+and white check), rope orientation (vertical or diagonal), and gondola shape (cuboidal or cylindrical). (For interpretation of the
+references to color in this figure legend, the reader is referred to the web version of this paper).
+
+the other faces disappeared. The participant could
+then study this screen for as long as he or she wanted,
+before clicking either mouse button to continue. Stimulus presentation was randomized per block of 8 trials. Once participants had correctly identified 3
+
+successive blocks of 8 stimuli, they proceeded to a feature-label matching block.
+Each trial in the matching tasks started with a
+small white fixation cross at the horizontal and vertical centre of the screen for 500 ms, followed by a
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+blank screen for 100 ms. On the simultaneous matching trials, both the face-feature and target face or label
+were presented after fixation. On the sequential matching trials the face-feature was displayed on screen for
+1000 ms, followed by the target face or label. In both
+tasks, the participants were told to respond ``same''
+only if the face-feature matched the corresponding feature in the target face (in feature-image matching) or
+the face that corresponded to the label (in feature-label matching). The participants were required to
+respond as soon as a response signal was detected.
+The screen went blank at the onset of the response
+signal. Participants were given timing feedback
+500 ms after they responded. ``Too slow'' appeared if
+they responded after 350 ms of response signal onset
+and ``Too fast'' appeared if they responded before
+the onset of the response signal. Feedback remained
+on screen for 1000 ms. There was an inter-trial interval
+of 1000 ms in all tasks.
+In total, each participant completed 3072 matching
+trials. Half of the trials (1536) were same and half
+were different. Half of the trials involved simultaneous
+matching and half involved sequential matching. Half
+of the trials involved feature-image matching and half
+involved feature-label matching. A third of the trials
+(1024) involved matching the eye color dimension, a
+third the nose shape, and a third the mouth
+expression.
+
+Results and discussion
+Learning
+It took participants an average of 9.2 blocks (73.6 trials) to reach criterion in the first learning session. It took
+an average of 4.27 blocks (34.17 trials) to reach criterion
+for all subsequent learning sessions. After the first learning session, there was an average of less than 0.90 errors
+per learning session. The low error rate suggests that
+participants remembered the mapping between labels
+and images with little difficulty.
+Matching
+We analyzed the data for the feature-label matching
+and feature-image matching trials separately, because
+different signal intervals were used for the two trial
+types. In the following analyses, all the data were transformed to improve conformity to the normality assumption. ANOVAs were calculated on arcsine transformed
+proportions (see Kirk, 1995). We report the untransformed means in the figures and tables. The F and
+MSE values relate to the transformed data. We excluded
+trials where responses were made before or 350 ms after
+the onset of the response signal. Excluded trials constituted 14% of the total number of trials.
+Fig. 3 shows the proportion of correct responses as a
+function of RT (signal interval + lag) for each dimension for all four trial types. We carried out a 2 (task) * 3
+
+Proportion Correct
+
+Simultaneous Feature-Image
+
+Sequential Feature-Image
+
+1.00
+
+1.00
+
+0.80
+
+0.80
+
+0.60
+
+0.60
+
+0.40
+
+0.40
+
+0.20
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+0.20
+300
+
+Proportion Correct
+
+Simultaneous Feature-Label
+1.00
+
+0.80
+
+0.80
+
+0.60
+
+0.60
+
+0.40
+
+0.40
+
+600
+
+800
+RT
+
+1000
+
+Data Expression
+Data Shape
+Data Color
+Model Expression
+Model Shape
+Model Color
+400
+
+500
+
+600
+
+700
+
+800
+
+Sequential Feature-Label
+
+1.00
+
+0.20
+400
+
+559
+
+1200
+
+0.20
+400
+
+600
+
+800
+
+1000
+
+1200
+
+RT
+
+Fig. 3. Observed (points) and predicted (lines; predictions were made with the general model) proportion of correct responses as a
+function of RT (signal interval + lag) for Experiment 1. Each panel shows a different task and stimulus type. The different dimensions
+are represented by different points and lines.
+
+560
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+(dimension) * 4 (signal interval) repeated measurements
+ANOVA on the proportion of correct responses for the
+feature-image and feature-label matching data. There
+was a main effect of task on accuracy for the feature-image matching data, F(1, 4) = 459.82, p < .001,
+MSE = 0.01, and for the feature-label matching data,
+F(1, 4) = 30.62, p < .006, MSE = 0.03, responses were
+more accurate in the sequential matching task than in
+the simultaneous matching task for both trial types.
+There was a main effect of dimension on accuracy for
+both trial types, F(2, 8) = 18.33, p < .002, MSE = 0.07
+and F(2, 8) = 15.72, p < .003, MSE = 0.05, for the feature-image and feature-label matching data, respectively, eye color was the most accurately matched
+dimension, followed by the nose shape and mouth
+expression for both the feature-image and feature-label
+matching data. There was a main effect of signal interval
+on accuracy for the feature-image matching data,
+F(3, 12) = 99.27, p < .001, MSE = 0.02, and for the feature-label matching data, F(3, 12) = 40.86, p < .001,
+MSE = 0.03, responses were more accurate at the longer
+signal intervals for both trial types. For the feature-image matching data there was a significant interaction
+between task and signal interval, F(2, 8) = 4.04,
+p < .035, MSE = 0.02, with a greater difference in accuracy at the shorter signal intervals. There was also a significant interaction between dimension and signal
+interval for the feature-image matching data,
+F(6, 24) = 5.8, p < .002, MSE = 0.01, with smaller differences in accuracy between the dimensions at the longest
+signal interval. No other interactions were significant.
+Model-based analysis
+In order to explore the relationship between the
+speed of perceptual processing and the speed of retrieval, we fit a simple feature sampling model to the data
+from individual participants. In the modeling, we
+assumed that information about a dimension is sampled and accumulated over time from the visual object
+and, depending on the task, from memory. The sampling time of a dimension was always assumed to be
+exponentially distributed. This assumption has been
+used successfully in models of perceptual processing
+(e.g., Brockdorff & Lamberts, 2000; Carrasco, McElree,
+Denisova, & Giordano, 2003; Kent & Lamberts, 2005;
+Lamberts, 1998, 2000; Lamberts et al., 2002; Lamberts
+& Freeman, 1999; Loftus & McLean, 1999; Sakai &
+Inui, 2002) and in models of retrieval processing (e.g.,
+Corbett, 1977; Corbett & Wickelgren, 1978; Dosher,
+1976; Hintzman & Caulton, 1997; Hintzman & Curran,
+1994; McElree & Dosher, 1993; Mulligan & Hirshman,
+1995; Ratcliff, 1978; Ratcliff & Murdock, 1976). Kent
+and Lamberts (2006) have also used the exponential
+sampling time distribution assumption to model the
+time course of perception and the time course of
+retrieval simultaneously.
+
+According to the model, in all tasks, the probability
+hp(t) of perceptually processing dimension p at or before
+time t after stimulus onset is given by
+hp t 1/4 1  exp1/2qp t  tres ;
+
+1
+
+in which qp is the perceptual processing rate for
+dimension p and tres is residual processing time
+(including, for example, the time to plan and execute
+a motor response, as well as the initial latency period
+before information processing takes off). In the modeling, the residual processing time was assumed to be
+constant across all the object dimensions. However,
+the perceptual processing rates were free to vary between the different dimensions, reflecting such influences as saliency on the speed at which dimensions are
+processed.
+Retrieval of information from memory was modeled
+in a similar manner to perceptual processing. However,
+in the tasks requiring retrieval (the feature-label matching tasks), the participant needed to perceptually process
+the label cueing the target stimulus, before retrieving
+information from the target stimulus. Therefore, an
+additional constant tread was used to represent the time
+it took participants to read the label, before retrieval
+began. Thus, the probability mp(t) of retrieving dimension p at or before time t is given by
+mp t 1/4 1  exp1/2rp t  tres  tread ;
+
+2
+
+in which rp is the retrieval rate of dimension p.
+Eqs. (1) and (2) make it possible to calculate the
+probability of responding correctly in any of the conditions of the experiment. Following Kent and Lamberts
+(2006), we assumed that perception and retrieval processes for a given feature are stochastically independent
+from each other. To be able to match the target face feature to the probe face-feature in the simultaneous feature-image matching task, the feature must be
+perceived in both the face-feature and the face stimulus.
+Therefore, the probability of matching at or before time
+t is given by
+pmatchjsimFI ; t 1/4 f1  exp1/2qp t  tres g2
+1/4 hp t2 ;
+
+3
+
+where simFI refers to the simultaneous feature-image
+matching condition, and p refers to the face-feature.
+However, in the sequential feature-image matching condition, perceptual processing of the face-feature can
+start 1000 ms before the target stimulus is presented.
+Thus, the probability of matching at or before time t is
+given by
+pmatchjseqFI ; t 1/4 f1  exp1/2qp t  tres  1000g
+ f1  exp1/2qp t  tres g
+1/4 hp t  1000hp t;
+
+4
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+in which seqFI refers to the sequential feature-image
+matching condition.
+To be able to successfully match in the simultaneous
+feature-label matching task, the face-feature must be
+perceived and the relevant feature retrieved from the
+cued face. Thus, the probability of matching at or before
+time t is given by
+pmatchjsimFL ; t 1/4 f1  exp1/2qp t  tres g
+ f1  exp1/2rp t  tres  tread g
+1/4 hp tmp t;
+
+5
+
+where simFL refers to the simultaneous feature-label
+matching condition. In the sequential feature-label
+matching task, the probability of matching becomes
+pmatchjseqFL ; t 1/4 f1  exp1/2qp t  tres  1000g
+ f1  exp1/2rp t  tres  tread g
+1/4 hp t  1000mp t;
+
+6
+
+in which seqFL refers to the sequential feature-label
+matching condition.
+We assumed that if a participant successfully managed to match the probe feature to the target feature,
+a correct response would always be given. However,
+not all correct responses will have arisen from the
+matching process. On trials where participants did not
+complete the matching process before time t, we
+assumed that responses would be based on guessing
+(which produces an expected 50% correct response rate).
+Thus, the probability of a correct response at or before
+time t in any of our tasks was given by
+pcorrect; t 1/4 pmatch; t  0:51/21  pmatch; t;
+
+7
+
+in which p(match, t) is the probability of completing
+matching by time t, as in Eqs. (3)-(6).
+We estimated the best-fitting parameters for the model by maximizing the log likelihood of the proportion
+correct data given the model predictions (see Lamberts,
+1995). The model had free parameters for the 3 perceptual rates (qs) and the 3 retrieval rates (rs), as well as 2
+residual time parameters (tresSim for the simultaneous
+matching tasks, and tresSeq for the sequential matching
+tasks)1 and tread. No relationship was assumed between
+the perceptual rates and the retrieval rates, as both were
+free to vary independently of each other. The best-fitting
+parameters, log likelihood values, and the correlation
+1
+
+Two separate tres parameters were estimated because participants may have had more time to prepare a response in the
+sequential matching task than in the simultaneous matching
+task. Because of the fixed duration of the probe pre-exposure, it
+would be expected that the residual time for the sequential
+matching task would be less than in the simultaneous matching
+task. In all three experiments, tres was markedly smaller in the
+sequential matching tasks than in the simultaneous matching
+tasks, supporting this assumption.
+
+561
+
+between the perception rates and retrieval rates are given
+in Table 1 for each participant. The averaged predicted
+choice proportions are shown in Fig. 3. The correlations
+between the perceptual rates and the retrieval rates were
+positive for all participants, and the model correctly predicted the pattern of data (see Fig. 3). Four participants
+showed strong positive correlations, supporting the congruence hypothesis. However, Participant 2's correlation
+was only moderately positive (q = .47).
+Additionally, Participant 2's tread value was 0, which
+suggests that the model struggled to adequately fit the
+data. We will discuss this anomaly later. As expected,
+the residual time parameter values in the sequential
+matching tasks were smaller than the residual time values
+in the simultaneous matching tasks, presumable because
+the participants had more time to prepare a response in
+the sequential matching tasks. The eye color dimension
+was perceived faster than either the nose shape or mouth
+expression dimension for all the participants. The eye color dimension was also retrieved faster than either the nose
+shape or mouth expression, except for Participant 2. For
+Participants 3 and 5 there was also a reversal of small magnitude in the nose shape and mouth expression retrieval
+rates compared to the perception rates.
+To examine, whether these departures from the predicted ordinal relationship between perception rates
+and retrieval rates were reliable, we fit a restricted model
+to the data. The restricted model was identical to the
+more general model, with the exception that the retrieval
+rate parameters were a linear transformation of the perception rates, such that rp = a + qpb. In addition, we
+restricted b to be non-negative, so that the linear model
+would only fit well to data sets that indicated a congruent linear relationship between perception rates and
+retrieval rates. For the linear model, the best-fitting
+parameters, log-likelihood values, and likelihood-ratio
+test results (comparing the fit of the general and linear
+model) are given in Table 2.
+Only Participant 2's data were not adequately predicted by a linear relationship between the perceptual
+and retrieval rates. Participant 2's parameter value
+for tread was 0 in both the general model and the linear
+model. This parameter would have taken a negative
+value had it not been constrained to be greater than
+or equal to 0. This unusual value suggests that Participant 2 had an advantage in the retrieval tasks, relative
+to the other participants, perhaps using a different
+encoding or retrieval strategy. Regardless, Participant
+2's data are evidence against the strong congruence
+hypothesis, because eye color was perceived fastest
+but retrieved only the second fastest. The conclusion
+from Experiment 1 is that there was a strong positive
+relationship between perception rates and retrieval
+rates for all but one participant. However, the relationship between perception rates and retrieval rates is
+not strictly deterministic, and retrieval of feature
+
+562
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+Table 1
+Best-fitting parameter values, log likelihood, and perception-retrieval rate correlations for individual participants from the general
+model for Experiment 1
+Parameter
+
+qExpression
+qShape
+qColor
+rExpression
+rShape
+rColor
+tresSim
+tresSeq
+tread
+ln(L)
+q
+
+Value
+Participant 1
+
+Participant 2
+
+Participant 3
+
+Participant 4
+
+Participant 5
+
+0.00366
+0.00376
+0.00624
+0.00174
+0.00253
+0.00382
+292.176
+192.920
+170.481
+114.191
+.939
+
+0.00602
+0.00731
+0.01213
+0.00229
+0.00542
+0.00466
+304.165
+207.673
+0
+99.575
+.471
+
+0.00536
+0.00379
+0.00773
+0.00196
+0.00210
+0.00351
+298.133
+172.183
+202.970
+120.232
+.883
+
+0.00272
+0.00389
+0.00821
+0.00047
+0.00084
+0.00172
+263.562
+130.414
+211.341
+121.535
+.996
+
+0.00775
+0.00630
+0.01491
+0.00324
+0.00381
+0.00462
+350.168
+245.708
+108.042
+119.009
+.835
+
+Note. q refers to the processing rate; r refers to the retrieval rate; tres refers to the residual time (sim refers to the simultaneous matching
+tasks, and seq refers to the sequential matching tasks); tread refers to the time to process the label; ln(L) is the log likelihood value of the
+data given the model predictions; q is the correlation between the perceptual rates (qs) and the retrieval rates (rs).
+
+Table 2
+Best-fitting parameter values and log likelihood for individual participants from the linear model for Experiment 1
+Parameter
+
+qExpression
+qShape
+qColor
+b
+a
+tresSim
+tresSeq
+tread
+ln(L)
+k
+
+Value
+Participant 1
+
+Participant 2
+
+Participant 3
+
+Participant 4
+
+Participant 5
+
+0.00341
+0.00392
+0.00597
+0.7961
+0.0008
+285.478
+187.227
+178.458
+114.907
+1.43
+
+0.00551
+0.00816
+0.00959
+0.7200
+0.0016
+293.811
+190.811
+0
+106.873
+14.59*
+
+0.00505
+0.00396
+0.00794
+0.3745
+0.0004
+299.584
+172.800
+204.325
+121.669
+2.87
+
+0.00270
+0.00395
+0.00818
+0.22609
+0.0001
+263.681
+131.008
+209.908
+121.621
+0.17
+
+0.00749
+0.00639
+0.01489
+0.1271
+0.0025
+349.589
+243.512
+109.176
+119.981
+1.94
+
+Note. q refers to the processing rate; b and a are the slope and intercept, respectively, of the non-decreasing linear function that relates
+perception rates and retrieval rates; tres refers to the residual time (sim refers to the simultaneous matching tasks, and seq refers to the
+sequential matching tasks); tread refers to the time to process the label; ln(L) is the log likelihood value of the data given the model
+predictions; k is the likelihood ratio test statistic between the general model and the linear model, with 1 df.
+*
+p < .001.
+
+information can have a different time course from previous feature perception.
+Inspection of Fig. 3 demonstrates that there tended to
+be relatively small differences in accuracy between the
+mouth expression dimension and nose shape dimension
+in the perceptual tasks, whereas there was a sizeable difference in the estimated retrieval rates for these two dimensions. This finding suggests that there may be some
+qualitative differences, as well as quantitative differences,
+between the time course of perception and the time course
+of retrieval for some participants (see Table 1). Although
+the rates for the mouth and nose features may simply have
+been very close, an alternative explanation is that in the
+perceptual matching tasks, participants may have perceived the nose and mouth features as a single emergent
+
+feature (e.g., Treisman & Paterson, 1984). Another possible explanation is that perfect perceptual dependency
+existed between the nose and mouth features (e.g., Lamberts & Freeman, 1999; Townsend, Hu, & Ashby,
+1980). Because both the nose shape and mouth expression
+can be construed as shape dimensions, emergence or
+dependency may have been induced.
+In Experiment 2, we replicated the design of Experiment 1, but with different stimuli. The stimuli in
+Experiment 2 (images of sail boats) had features
+defined by color, orientation, and shape (which also
+were the defining dimensions of the faces in Experiment
+1). However, the different appearance of the stimuli in
+Experiment 2 might produce differences in the time
+course of feature perception and retrieval. Therefore,
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+the primary purpose of Experiment 2 was to provide a
+further, independent assessment of the relation between
+the time course of perception and the time course of
+retrieval.
+
+563
+
+attached to the boat body. The same labels were used
+as in Experiment 1.
+Design and procedure
+The design and procedure were identical to Experiment 1.
+
+Experiment 2
+Results and discussion
+Method
+Participants
+Five female postgraduate students (aged 23-30) from
+the University of Warwick participated in return for 6
+(approximately $10.50) per hour.
+Materials and Stimuli
+The same materials were used as in Experiment 1.
+Only the stimuli differed from Experiment 1. The image
+stimuli were eight 3D rendered sail boats that differed
+along three binary dimensions: sail stripe color (red or
+blue); flag orientation (0 or 45); and porthole shape
+(circular or square). Examples of two boat stimuli are
+shown in Fig. 2. The boats were 181 pixels (2.73 visual
+degrees) high and 203 pixels (3.06 visual degrees) or
+222 pixels (3.35 visual degrees) wide for the 0 and 45
+flag, respectively. All probe features were shown
+
+Proportion Correct
+
+1
+
+Matching
+As in Experiment 1, we excluded trials with responses
+that were made 350 ms after the response signal or
+before the start of the response signal. Excluded trials
+constituted 12% of the total number of trials.
+Fig. 4 shows the proportion of correct responses as a
+function of RT for all four trial types. There was a main
+effect of task (simultaneous or sequential) on accuracy
+1
+
+0.8
+
+0.8
+
+0.6
+
+0.6
+
+0.4
+
+0.4
+
+0.2
+300
+1
+
+Proportion Correct
+
+Simultaneous Feature-Image
+
+Learning
+It took an average of 10.8 blocks (86.4 trials) to reach
+criterion in the first learning session. It took an average
+of 4.27 blocks (34.18 trials) to reach criterion in all
+subsequent sessions, with an average of 0.83 errors per
+session. Again, the low error rate suggests that participants had little difficulty remembering the mapping
+between labels and images.
+
+400
+
+500
+
+600
+
+700
+
+800
+
+Simultaneous Feature-Label
+
+0.2
+300
+1
+
+0.8
+
+0.8
+
+0.6
+
+0.6
+
+0.4
+
+0.4
+
+0.2
+400
+
+600
+
+800
+RT
+
+1000
+
+1200
+
+0.2
+400
+
+Sequential Feature-Image
+
+Data Orientation
+Data Shape
+Data Color
+Model Orientation
+Model Shape
+Model Color
+400
+
+500
+
+600
+
+700
+
+800
+
+Sequential Feature-Label
+
+600
+
+800
+
+1000
+
+1200
+
+RT
+
+Fig. 4. Observed (points) and predicted (lines; predictions were made with the general model) proportion of correct responses as a
+function of RT (signal interval + lag) for Experiment 2. Each panel shows a different task and stimulus type. The different dimensions
+are represented by different points and lines.
+
+564
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+for the feature-image matching data, F(1, 4) = 237.37,
+p < .001, MSE = 0.33, and for the feature-label matching data, F(1, 4) = 113.41, p < .001, MSE = 0.02, with
+more accurate responding in the sequential matching
+tasks. There was a main effect of dimension on accuracy
+for the feature-image matching data, F(2, 8) = 129.83,
+p < .001, MSE = 0.03, and for the feature-label matching data, F(2, 8) = 4.489, p < .050, MSE = 0.13, with
+more accurate responding when the sail color dimension
+was being matched, followed by the flag orientation
+dimension. There was a main effect of signal interval
+on accuracy for the feature-image matching data,
+F(3, 12) = 38.48, p < .001, MSE = 0.38, and the feature-label matching data, F(3, 12) = 40.17, p < .001,
+MSE = 0.22, with more accurate responding at the longer signal intervals. There was a task by dimension interaction, F(2, 8) = 9.61, p < .008, MSE = 0.04, and a three
+way interaction between task, dimension, and signal
+interval, F(6, 24) = 17.96, p < .001, MSE = 0.02, for
+the feature-image matching data. No other interaction
+was significant for either the feature-image or featurelabel matching accuracy data.
+Model-based analysis
+We fit the same set of models to the individual participants' data from Experiment 2 as we did to the data
+from Experiment 1. We first fit the most general model,
+which had 3 perceptual rate parameters (qs), 3 retrieval
+rate parameters (rs), 2 tres parameters (one for simultaneous matching and one for sequential matching), and
+tread. The general model generally fit the data well. The
+best-fitting parameters are given in Table 3 along with
+the correlation between perception rates and retrieval
+rates and the log likelihood values. The model predictions averaged across participants can be seen in
+
+Fig. 4. Again, for all participants there was a strong
+positive correlation between the perceptual rates and
+the retrieval rates, except for Participant 4, who showed
+a strong negative relationship. Again, the tread parameter
+was 0, suggesting that the model struggled to fit the data
+from Participant 4.
+The model predicted the general trends in the data
+correctly, particularly for the sail color and flag orientation comparisons. The most important discrepancy
+between observed and predicted proportions occurred
+for the porthole shape dimension in the simultaneous
+feature-image matching task, where the model overestimated the proportion of correct responses at the three
+longest signal intervals. In the sequential feature-image
+matching task, the model underestimated the proportion
+of correct responses for the porthole shape dimension. It
+is not clear what caused these discrepancies. The porthole shape dimension was perceived more slowly than
+the other two dimensions, and it appears that performance on the porthole dimension in the simultaneous
+feature-image matching task never exceeded chance
+levels, even at the longest signal intervals. For every participant except Participant 1, accuracy initially dropped
+and then increased in the simultaneous feature-image
+matching task, which the model in its current form can
+not predict. In the sequential matching task, the
+1s pre-exposure of the porthole led to a considerable
+improvement in performance, which exceeded the
+improvement predicted by the model. The model predictions for the porthole shape dimension represent a compromise between the observed patterns in the two
+feature-image matching tasks.
+For all the participants, except Participant 4, the sail
+color was perceived and retrieved fastest, followed
+by the flag orientation, and then the porthole shape,
+
+Table 3
+Best-fitting parameter values, log likelihood, and perception-retrieval rate correlations for individual participants from the general
+model for Experiment 2
+Parameter
+
+qExpression
+qShape
+qColor
+rExpression
+rShape
+rColor
+tresSim
+tresSeq
+tread
+ln(L)
+q
+
+Value
+Participant 1
+
+Participant 2
+
+Participant 3
+
+Participant 4
+
+Participant 5
+
+0.01201
+0.00621
+0.00325
+0.00327
+0.00306
+0.00234
+329.548
+217.410
+43.712
+119.380
+0.882
+
+0.00564
+0.00299
+0.00145
+0.00215
+0.00175
+0.00156
+301.266
+171.670
+199.456
+129.245
+0.999
+
+0.01305
+0.00485
+0.00244
+0.00408
+0.00298
+0.00180
+267.376
+87.848
+66.747
+136.856
+0.949
+
+0.00583
+0.00418
+0.00226
+0.00145
+0.00203
+0.00233
+236.565
+51.656
+0
+140.793
+0.974
+
+0.01613
+0.00714
+0.00293
+0.00603
+0.00405
+0.00254
+329.701
+186.100
+47.203
+119.973
+0.992
+
+Note. q refers to the processing rate; r refers to the retrieval rate; tres refers to the residual time (sim refers to the simultaneous matching
+tasks, and seq refers to the sequential matching tasks); tread refers to the time to process the label; ln(L) is the log likelihood value of the
+data given the model predictions; q is the correlation between the perceptual rates (qs) and the retrieval rates (rs).
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+supporting both the weak and strong congruence
+hypothesis. However, Participant 4's data directly contradict the strong version of the congruence hypothesis.
+For Participant 4, the sail color was perceived faster
+than either of the other dimensions, but retrieved more
+slowly than the other two dimensions.
+As for Experiment 1, we also fit the restricted model
+that assumed a linear relation between the retrieval rates
+and the perception rates. Table 4 shows the best-fitting
+parameter values, log likelihood and likelihood ratio statistics of the linear model fit to each individual's data.
+The linear model did not fit the data worse than the general model for any participant, except for Participant 4.
+The tread value was 0 for Participant 4, and would have
+been negative if not constrained to be greater than or
+equal to 0. Participant 4's data offer evidence against
+the congruence hypothesis. All the other participants'
+data supported the congruence hypothesis, with features
+that were quickly perceived also quickly retrieved.
+Thus far, we have analyzed and interpreted performance differences between stimulus dimensions entirely
+in terms of processing rates. However, a possible alternative explanation of the results from Experiments 1
+and 2 could be that there were differences between stimulus dimensions in overall availability of information,
+irrespective of time constraints. This could occur, for
+instance, if the value of a dimension corresponding to
+a label had been forgotten. This alternative account
+could potentially explain the observed differences in
+overall levels of accuracy between dimensions, and could
+predict differences between dimensions in asymptotic
+levels of accuracy with increasing response time. The signal intervals in Experiments 1 and 2 were too short to
+measure performance at asymptote, so the results did
+not allow us to rule out the alternative interpretation.
+However, the learning data from the two experiments
+
+565
+
+did provide some evidence that accuracy across dimensions would have asymptoted at ceiling if longer signal
+intervals had been used in the matching tasks. If participants had forgotten the image-label mapping or could
+not retrieve one or more dimensions, accuracy levels
+without time pressure (as was the case in the learning
+phase) would reflect this inability to retrieve. However,
+when we analyzed the first block of learning from each
+learning session (excluding the initial session), we found
+that participants made errors on fewer than 3% of trials
+in Experiment 1 and 2% of trials in Experiment 2. Such a
+low error rate in retraining suggests that participants
+had no difficulty in retrieving information about any
+of the dimensions when given unlimited time to respond.
+However, procedural differences between the training
+tasks and the matching tasks imply that this evidence
+is still not sufficient to conclusively rule out the differential retrievability account. We therefore carried out a
+third experiment that employed a different set of stimuli
+and used a wider range of response signal intervals in an
+attempt to measure performance at asymptote.
+
+Experiment 3
+Method
+Participants
+Two female postgraduate students (aged 29 and 30)
+from the University of Warwick participated in return
+for 6 (approximately $10.50) per hour.
+Materials and stimuli
+The same equipment was used as Experiments 1 and
+2. The stimuli differed from Experiments 1 and 2. The
+image stimuli were eight 3D rendered images of hot air
+
+Table 4
+Best-fitting parameter values and log likelihood for individual participants from the linear model for Experiment 2
+Parameter
+
+qExpression
+qShape
+qColor
+b
+a
+tresSim
+tresSeq
+tread
+ln(L)
+k
+
+Value
+Participant 1
+
+Participant 2
+
+Participant 3
+
+Participant 4
+
+Participant 5
+
+0.01177
+0.00628
+0.00318
+0.1026
+0.0022
+328.641
+215.195
+46.288
+119.976
+1.19
+
+0.00565
+0.00299
+0.00145
+0.1424
+0.0013
+301.453
+171.974
+198.964
+129.246
+0.003
+
+0.012171
+0.00489
+0.00233
+0.2240
+0.0014
+2.592476
+0.772819
+66.106
+138.106
+2.50
+
+0.00592
+0.00436
+0.00238
+0
+0.0019
+246.630
+61.919
+0
+145.468
+9.35*
+
+0.01569
+0.00726
+0.00289
+0.2825
+0.0018
+328.349
+185.219
+51.954
+120.240
+0.53
+
+Note. q refers to the processing rate; b and a are the slope and intercept, respectively, of the non-decreasing linear function that relates
+perception rates and retrieval rates; tres refers to the residual time (sim refers to the simultaneous matching tasks, and seq refers to the
+sequential matching tasks); tread refers to the time to processes the label; ln(L) is the log likelihood value of the data given the model
+predictions; k is the likelihood ratio test statistic between the general model and the linear model, with 1 df.
+*
+p < .005.
+
+566
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+balloons that differed along three binary dimensions:
+balloon check color (red or blue); rope orientation (vertical or angled); and gondola shape (cylindrical or cuboidal). Examples of 2 balloon stimuli are shown in Fig. 2.
+The balloons were 417 pixels high (approximately 5.92
+visual degrees) and 229 pixels wide (approximately
+3.25 visual degrees). All probes consisted of a single feature (the other features were not visible in the probes).
+The same labels were used as in Experiment 1.
+Design and procedure
+The design and procedure were identical to Experiment 1, with the exception of an extra response signal
+condition. The response intervals used were: 100, 200,
+400, 800, and 2000 ms in the feature-image matching
+tasks and 200, 400, 800, 1500, and 3000 ms in the feature-label matching task.
+Results and discussion
+Learning
+Participant 1 needed 5 blocks (40 trials) and Participant 2 needed 3 blocks (24 trials) to reach criterion in the
+first learning session. In all subsequent learning sessions,
+Participants 1 and 2 needed an average of 3.13 and 3
+blocks, respectively, to reach criterion, with an average
+error rate of less than 1% for both participants. This
+extremely low error rate suggests that participants had
+no difficulty in remembering the mapping between labels
+and images.
+Matching
+As in the previous two experiments, we excluded trials with responses that were made more than 350 ms
+after the onset of the response signal or before the start
+of the response signal. Excluded trials constituted 6% of
+the total number of trials for both participants.
+Figs. 5 and 6 show the proportions of correct
+responses for Participants 1 and 2, respectively. Both
+participants' data show very similar patterns, with accuracy increasing as response interval increases and reaching an equal asymptote at the longest two intervals for
+all three dimensions. For both participants, the balloon
+color dimensions was most accurate, followed by the
+gondola shape dimension, with the rope orientation
+dimension showing the lowest levels of accuracy. Accuracy was higher in the sequential matching tasks than in
+the simultaneous matching tasks. The overall pattern of
+data is similar to the data from the previous two experiments, except that accuracy appears to have reached
+asymptote at the longer response intervals employed in
+Experiment 3.
+Model-based analysis
+We again fit the general model with unconstrained
+perception and retrieval rates to the data from both par-
+
+ticipants. The model predictions are shown in Figs. 5
+and 6 for Participants 1 and 2, respectively. The best-fitting parameters, log likelihood, and correlation between
+the perception rates and the retrieval rates are given in
+Table 5. The model fit well and reproduced all the main
+trends in the data. There was a strong positive correlation between the perception rates and the retrieval rates
+for both participants, with the speed of perception and
+retrieval fastest for the balloon color, followed by gondola shape, and then rope orientation. As in Experiments 1 and 2, the residual time parameter was larger
+in the simultaneous matching tasks than in the sequential matching tasks.
+Next, we fit the linear model, which assumes that the
+retrieval rates are a linear transform of the perception
+rates, to both participants' data. The best-fitting parameters and log likelihood values are given in Table 6. The
+linear model did not fit significantly worse than the general model, v2(1) = 0.02, p > .2, and v2(1) = 0.53,
+p > .25, for Participants 1 and 2, respectively. Both participants' data support the congruence hypothesis, with
+dimensions that were perceived quickly, also retrieved
+quickly.
+The main aim of Experiment 3 was to rule out the
+possibility that differences in retrievability, but not in
+retrieval speed, produced the observed differences in performance between dimensions in Experiments 1 and 2.
+Figs. 5 and 6 show apparently equal asymptotes for all
+three dimensions. To confirm the visual interpretation
+we fit a series of models with varying asymptote and rate
+parameters to both participants' data. The first model
+assumed that both rates and asymptotes varied between
+the different dimensions. This model version was identical to the general model used previously, except that we
+multiplied the expression for retrieval probability mp(t)
+in Eq. (2) by a positive availability likelihood parameter,
+separately estimated for each dimension, such that the
+asymptote of the retrieval probability function over time
+for a given dimension was equal to the value of the
+parameter for that dimension. This model fit the data
+from Participant 1 significantly better than the
+previously applied general model, ln(L) = 114.29,
+v2(3) = 35.656, p < .001. However, a restricted version
+of this model with only a single asymptote parameter
+(which applied to all three dimensions) did not fit the
+data worse than the version with three asymptotes,
+ln(L) = 114.854, v2(2) = 1.14, p > .5. Together, these
+comparisons indicate that one asymptote parameter is
+essential for explaining the data from Participant 1,
+but that it is not necessary to assume that the asymptotes differed between dimensions. A further, critical
+comparison indicated that asymptote differences were
+also not sufficient to explain the differences between
+the dimensions. A model version with three asymptote
+parameters (one for each dimension), but with only a
+single retrieval rate parameter for all dimensions, fit
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+567
+
+Simultaneous Feature-Image
+1
+
+Proportion Correct
+
+Data Orientation
+Data Shape
+
+0.8
+
+Data Color
+Model Orientation
+0.6
+
+Model Shape
+Model Color
+
+0.4
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+2000
+
+2500
+
+Sequential Feature-Image
+
+Proportion Correct
+
+1
+
+0.9
+
+0.8
+
+0.7
+
+0.6
+0
+
+500
+
+1000
+
+1500
+
+Simultaneous Feature-Label
+
+Proportion Correct
+
+1
+
+0.8
+
+0.6
+
+0.4
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+2500
+
+3000
+
+3500
+
+Sequential Feature-Label
+
+Proportion Correct
+
+1
+
+0.8
+
+0.6
+
+0.4
+0
+
+500
+
+1000
+
+1500
+
+2000
+RT
+
+Fig. 5. Observed (points) and predicted (lines; predictions were made with the general model) proportion of correct responses as a
+function of RT (signal interval + lag) for Participant 1 in Experiment 3. Each panel shows a different task and stimulus type. The
+different dimensions are represented by different lines.
+
+568
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+Simultaneous Feature-Image
+1
+
+Proportion Correct
+
+Data Orientation
+Data Shape
+
+0.8
+
+Data Color
+Model Orientation
+0.6
+
+Model Shape
+Model Color
+
+0.4
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+2000
+
+2500
+
+Sequential Feature-Image
+
+Proportion Correct
+
+1
+
+0.9
+
+0.8
+0
+
+500
+
+1000
+
+1500
+
+Simultaneous Feature-Label
+
+Proportion Correct
+
+1
+
+0.8
+
+0.6
+
+0.4
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+2500
+
+3000
+
+3500
+
+Sequential Feature-Label
+
+Proportion Correct
+
+1
+
+0.8
+
+0.6
+
+0.4
+0
+
+500
+
+1000
+
+1500
+
+2000
+RT
+
+Fig. 6. Observed (points) and predicted (lines; predictions were made with the general model) proportion of correct responses as a
+function of RT (signal interval + lag) for Participant 2 in Experiment 3. Each panel shows a different task and stimulus type. The
+different dimensions are represented by different lines.
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+Table 5
+Best-fitting parameter values, log likelihood, and perception-
+retrieval rate correlations for both participants from the general
+model for Experiment 3
+Parameter
+
+qExpression
+qShape
+qColor
+rExpression
+rShape
+rColor
+tresSim
+tresSeq
+tread
+ln(L)
+q
+
+Value
+Participant 1
+
+Participant 2
+
+0.01199
+0.00851
+0.00673
+0.00256
+0.00216
+0.00202
+304.039
+219.450
+8.418
+132.118
+0.997
+
+0.01859
+0.01216
+0.01119
+0.00701
+0.00383
+0.00243
+319.562
+199.515
+80.841
+84.205
+0.983
+
+Note. q refers to the processing rate; r refers to the retrieval rate;
+tres refers to the residual time (sim refers to the simultaneous
+matching tasks, and seq refers to the sequential matching tasks);
+tread refers to the time to process the label; ln(L) is the log
+likelihood value of the data given the model predictions; q is the
+correlation between the perceptual rates (qs) and the retrieval
+rates (rs).
+
+569
+
+retrievability is not correct, and that the differences
+between the dimensions reflect differences in processing
+rates.
+We carried out additional model comparisons for
+Participant 2 as well. For this participant, the three
+additional asymptote parameters did not yield a significant improvement in the overall model fit,
+ln(L) = 81.93, v2(3) = 4.55, p > .20, which shows that
+there was no need to assume that asymptotic performance differed from 100% accuracy for this participant.
+A model version with a single retrieval rate but with
+three asymptote parameters fit the data much worse
+than the version with three retrieval rates and three
+asymptotes, ln(L) = 95.154, v2(2) = 26.45, p < .001.
+An explanation of the results from Participant 2 in
+terms of asymptote differences alone was therefore
+rejected. For both participants, the model comparisons
+show that the rate differences are the cause of the different performance patterns across dimensions, and not
+differences in retrievability. This provides further
+support for our interpretation of the results from
+Experiments 1 and 2.
+
+General discussion
+Table 6
+Best-fitting parameter values, log likelihood for both participants from the linear model for Experiment 3
+Parameter
+
+qExpression
+qShape
+qColor
+b
+a
+tresSim
+tresSeq
+tread
+ln(L)
+k
+
+Value
+Participant 1
+
+Participant 2
+
+0.01202
+0.00848
+0.00674
+0.1019
+0.0013
+304.029
+219.448
+8.417
+132.126
+0.02
+
+0.01804
+0.01270
+0.01078
+0.6451
+0.0044
+318.413
+198.784
+82.454
+84.468
+0.53
+
+Note. q refers to the processing rate; b and a are the slope and
+intercept, respectively, of the non-decreasing linear function
+that relates perception rates and retrieval rates; tres refers to the
+residual time (sim refers to the simultaneous matching tasks,
+and seq refers to the sequential matching tasks); tread refers to
+the time to process the label; ln(L) is the log likelihood value of
+the data given the model predictions; k is the likelihood ratio
+test statistic between the general model and the linear model,
+with 1 df.
+
+the data, significantly worse than the model version with
+three retrieval rates and three asymptotes,
+ln(L) = 119.71, v2(2) = 10.85, p < .005. The conclusion
+from the model applications to the data from Participant 1 is, therefore, that an account in terms of feature
+
+The findings from all three experiments support the
+conclusion that the rate at which information is
+retrieved appears to be at least linearly related to the
+rate at which information was encoded, with dimensions that are quickly perceived also being quickly
+retrieved. Across the three experiments, the model that
+assumed a linear relation between perception rates and
+retrieval rates could not be rejected for 10 out of the
+12 participants. However, in both Experiments 1 and
+2, there was one participant who demonstrated a notably different pattern of rates between perception and
+retrieval. For Participant 2 in Experiment 1, the fastest
+perceived dimension was only the second fastest
+dimension retrieved. In Experiment 2, Participant 4
+showed a negative relationship between the perception
+rates and the retrieval rates. These two participants
+provide evidence against the strong version of the congruence hypothesis (retrieval processes reinstate encoding processes), but they do not necessarily invalidate
+the weak congruence hypothesis. Although the weak
+congruence hypothesis predicts a positive correlation
+between perception rates and retrieval rates, it does
+allow the possibility that certain encoding or retrieval
+strategies may also affect the ordering with which
+information about features is retrieved.
+The data from the three experiments support the
+findings from Lamberts et al. (2002), who found evidence for a relationship between perception rates and
+retrieval rates using a different methodology. However,
+the findings from the three experiment disagree with
+
+570
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+
+the results in Kent and Lamberts (2006), who failed to
+find a relationship between the perception rates and the
+retrieval rates. We propose that the apparent inconsistency of these results is due to the different time scales
+of retention in the different studies. Kent and Lamberts
+(2006) used a very short time scale, whereby participants were required to hold and maintain information
+about a simple object for just 5 s. However, in the current experiments and in the relevant experiment in
+Lamberts et al. (2002), the participants needed to hold
+and maintain information over a much longer time
+interval. If information is held and rehearsed in an easily accessible temporary short-term store, any discrepancies between feature information retrieval rates may
+be too small to detect. Information retrieval from a relatively long-term durable store (which is not being
+actively rehearsed) may be more likely to reflect the
+time course of perceptual processing, as differences
+between retrieval rates become more apparent. Additionally, future work will need to explore more specifically how feature information is encoded, and how
+different kinds of representation may produce different
+retrieval patterns. For example, is the correlation
+between perception rates and retrieval rates only present for visual stimuli, as we have demonstrated, or does
+it also hold for stimuli that can only be encoded verbally? Perhaps the two participants in Experiments 1 and
+2 who did not demonstrate a clear relationship between
+perceptual rates and retrieval rates, encoded the stimuli
+differently to the other participants, possibly relying on
+a verbal encoding strategy. Representational form may,
+in turn, interact with the timescale of memory. At
+shorter time scales, participants may prefer to use a
+rote verbal rehearsal method, while at longer time
+intervals a visual representation may serve better.
+Our results have implications for formal theories of
+memory. If the congruence hypothesis (even in its weakest form) is correct, as our data indicate, there is an intricate connection between the time course of information
+storage and the time course of subsequent retrieval. This
+implies that a full understanding of retrieval processes
+cannot be achieved without an understanding of the initial stimulus encoding processes. Therefore, it may be
+impossible to formulate a valid model of information
+retrieval without specifying how stimulus properties that
+are known to affect the time course of encoding (such as
+feature saliency) also affect the time course of retrieval.
+Our experiments represent only a first step towards such
+an account.
+
+References
+Anders, T. R., & Lillyquist, T. D. (1971). Retrieval time in
+forward and backward recall. Psychonomic Science, 22,
+205-206.
+
+Anderson, J. R., Bothell, D., Lebiere, C., & Matessa, M. (1998).
+An integrated theory of list memory. Journal of Memory and
+Language, 38, 341-380.
+Atkinson, R. C., & Juola, J. F. (1973). Factors influencing the
+speed and accuracy of word recognition. In S. Kornblum
+(Ed.), Attention and Performance IV (pp. 583-612). New
+York: Academic Press.
+Barsalou, L. W. (1999). Perceptual symbol systems. Behavioral
+and Brain Sciences, 22, 577-660.
+Barsalou, L. W. (2003). Abstraction in perceptual symbol
+systems. Philosophical Transactions of the Royal Society of
+London Series B-Biological Sciences, 358, 1177-1187.
+Bartels, A., & Zeki, S. (1998). The theory of multistage
+integration in the visual brain. Proceedings of the Royal
+Society of London Series B-Biological Sciences, 265,
+2327-2332.
+Bartels, A., & Zeki, S. (2006). The temporal order of binding
+visual attributes. Vision Research, 46, 2280-2286.
+Brockdorff, N., & Lamberts, K. (2000). A feature-sampling
+account of the time course of old-new recognition judgment.
+Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 25, 77-102.
+Burrows, D., & Okada, R. (1975). Memory retrieval from long
+and short lists. Science, 188, 1031-1033.
+Carrasco, M., McElree, B., Denisova, K., & Giordano, A. M.
+(2003). Speed of visual processing increases with eccentricity. Nature Neuroscience, 6, 699-700.
+Corbett, A. T. (1977). Retrieval dynamics for rote and visual
+image mnemonics. Journal of Verbal Learning and Verbal
+Behavior, 16, 233-246.
+Corbett, A. T., & Wickelgren, W. A. (1978). Semantic memory
+retrieval: analysis by speed accuracy tradeoff functions.
+Quarterly Journal of Experimental Psychology, 30, 1-15.
+Dosher, B. A. (1976). Retrieval of sentences from memory:
+speed-accuracy study. Cognitive Psychology, 8, 291-310.
+Dosher, B. A. (1984). Discriminating pre-experimental (semantic) from learned (episodic) associations: a speed accuracy
+study. Cognitive Psychology, 16, 519-555.
+Dosher, B. A., & Rosedale, G. (1991). Judgments of semantic
+and episodic relatedness: common time-course and failure
+of segregation. Journal of Memory and Language, 30,
+125-160.
+Gronlund, S. D., & Ratcliff, R. (1989). Time course of item and
+associative information: implications for global memory
+models. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 15, 846-858.
+Hintzman, D. L., & Caulton, D. A. (1997). Recognition
+memory and modality judgments: a comparison of
+retrieval dynamics. Journal of Memory and Language,
+37, 1-23.
+Hintzman, D. L., & Curran, T. (1994). Retrieval dynamics of
+recognition and frequency judgments: evidence for separate
+processes of familiarity and recall. Journal of Memory and
+Language, 33, 1-18.
+Kahana, M. J., & Caplan, J. B. (2002). Associative asymmetry
+in probed recall of serial lists. Memory & Cognition, 30,
+841-849.
+Kent, C., & Lamberts, K. (2006). The time course of perception
+and retrieval in matching and recognition. Journal of
+Experimental Psychology: Human Perception and Performance, 32, 920-931.
+
+C. Kent, K. Lamberts / Journal of Memory and Language 55 (2006) 553-571
+Kent, C., & Lamberts, K. (2005). An exemplar account of the
+bow and set size effects in absolute identification. Journal of
+Experimental Psychology: Learning, Memory, and Cognition, 31, 289-305.
+Kirk, R. E. (1995). Experimental design: Procedures for the
+behavioral sciences. Pacific Grove, CA: Brooks/Cole.
+Kolers, P. A. (1973). Remembering operations. Memory &
+Cognition, 1, 347-355.
+Kolers, P. A., & Roediger, H. L. III, (1984). Procedures of
+mind. Journal of Verbal Learning and Verbal Behavior, 23,
+425-449.
+Lamberts, K. (1995). Categorization under time pressure.
+Journal of Experimental Psychology: General, 124, 161-180.
+Lamberts, K. (1998). The time course of categorization. Journal
+of Experimental Psychology: Learning, Memory, and Cognition, 24, 695-711.
+Lamberts, K. (2000). Information-accumulation theory of
+speeded categorization. Psychological Review, 107, 227-260.
+Lamberts, K. (2002). Feature sampling in categorization and
+recognition of objects. Quarterly Journal of Experimental
+Psychology, 55A, 141-154.
+Lamberts, K., Brockdorff, N., & Heit, E. (2002). Perceptual
+processes in matching and recognition of complex pictures.
+Journal of Experimental Psychology: Human Perception and
+Performance, 28, 1176-1191.
+Lamberts, K., & Freeman, R. P. J. (1999). Building object
+representations from parts: tests of a stochastic sampling
+model. Journal of Experimental Psychology: Human Perception and Performance, 25, 904-926.
+Loftus, G. R., & McLean, J. (1999). A front end to a theory of
+picture recognition. Psychonomic Bulletin & Review, 6,
+394-411.
+McElree, B., & Dosher, B. A. (1989). Serial position and set size
+in short-term-memory: the time course of recognition.
+Journal of Experimental Psychology--General, 118,
+346-373.
+McElree, B., & Dosher, B. A. (1993). Serial retrieval-processes
+in the recovery of order information. Journal of Experimental Psychology: General, 122, 291-315.
+Meyer, D. E., Irwin, D. E., Osman, A. M., & Kounios, J.
+(1988). The dynamics of cognition and action: mental
+processes inferred from speed-accuracy decomposition.
+Psychological Review, 95, 183-237.
+Morin, R., DeRosa, D., & Shultz, V. (1967). Recognition
+memory and reaction time. In A. F. Sanders (Ed.), Attention
+and performance (pp. 298-305). Amsterdam: North-Holland
+Publishing Company.
+Moutoussis, K., & Zeki, S. (1997a). A direct demonstration of
+perceptual asynchrony in vision. Proceedings of the Royal
+Society of London Series B-Biological Sciences, 264,
+393-399.
+Moutoussis, K., & Zeki, S. (1997b). Functional segregation and
+temporal hierarchy of the visual perceptive systems. Proceedings of the Royal Society of London Series B-Biological
+Sciences, 264, 1407-1414.
+Mulligan, N., & Hirshman, E. (1995). Speed accuracy trade-offs
+and the dual process model of recognition memory. Journal
+of Memory and Language, 34, 1-18.
+
+571
+
+Neath, I., & Surprenant, A. M. (2005). Mechanisms of memory.
+In K. Lamberts & R. L. Goldstone (Eds.), Handbook of
+cognition (pp. 221-238). London: Sage.
+Pachella, R. G. (1974). The interpretation of reaction time
+information-processing research. In B. H. Kantowitz (Ed.),
+Human information processing: Tutorials in performance and
+cognition. Hillsdale, NJ: Erlbaum.
+Ratcliff, R. (1978). A theory of memory retrieval. Psychological
+Review, 85, 59-109.
+Ratcliff, R. (1981). A theory of order relations in perceptual
+matching. Psychological Review, 88, 552-572.
+Ratcliff, R., & McKoon, G. (1982). Speed and accuracy in the
+processing of false statements about semantic information.
+Journal of Experimental Psychology: Human Learning and
+Memory, 8, 16-36.
+Ratcliff, R., & McKoon, G. (1989). Similarity information
+versus relational information: differences in the time course
+of retrieval. Cognitive Psychology, 21, 139-155.
+Ratcliff, R., & Murdock, B. B. (1976). Retrieval processes in
+recognition memory. Psychological Review, 83, 190-214.
+Ray, C. A., & Reingold, E. M. (2003). Long-term perceptual
+specificity effects in recognition memory: the transformed
+pictures paradigm. Canadian Journal of Experimental Psychology, 57, 131-137.
+Reed, A. V. (1973). Speed-accuracy trade-off in recognition
+memory. Science, 181, 574-576.
+Reed, A. V. (1976). List length and time course of recognition
+in immediate memory. Memory & Cognition, 4, 16-30.
+Reingold, E. M. (2002). On the perceptual specificity of
+memory representations. Memory, 10, 365-379.
+Sakai, K., & Inui, T. (2002). A feature-segmentation model of
+short-term visual memory. Perception, 31, 579-589.
+Slotnick, S. D. (2004). Visual memory and visual perception
+recruit common neural substrates. Behavioural and Cognitive Neuroscience Reviews, 3, 207-221.
+Sternberg, S. (1969). Memory-scanning: mental processes
+revealed by reaction-time experiments. American Scientist,
+57, 421-457.
+Thomas, J. G., Milner, H. R., & Haberlandt, K. F. (2003).
+Forward and backward recall: different response time
+patterns, same retrieval order. Psychological Science, 14,
+169-174.
+Thomson, D. M., & Tulving, E. (1970). Associative encoding
+and retrieval: weak and strong cues. Journal of Experimental
+Psychology, 86, 255-262.
+Townsend, J. T., Hu, G. G., & Ashby, G. F. (1980). A test of
+visual feature sampling independence with orthogonal
+straight lines. Bulletin of the Psychonomic Society, 15,
+163-166.
+Treisman, A., & Paterson, R. (1984). Emergent features,
+attention, and object perception. Journal of Experimental
+Psychology: Human Perception and Performance, 10, 12-31.
+Tulving, E. (1983). Elements of episodic memory. New York:
+Oxford University Press.
+Ungerleider, L. G. (1995). Functional brain imaging studies of
+cortical mechanisms for memory. Science, 270, 769-775.
+Wickelgren, W. A. (1977). Speed-accuracy tradeoff and information processing dynamics. Acta Psychologica, 41, 67-85.
+
+

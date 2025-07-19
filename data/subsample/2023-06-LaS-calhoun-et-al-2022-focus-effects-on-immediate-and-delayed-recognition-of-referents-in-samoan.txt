@@ -1,0 +1,1321 @@
+1101396
+
+research-article2022
+
+LAS0010.1177/00238309221101396Language and SpeechCalhoun et al.
+
+Language
+and Speech
+
+Article
+
+Focus Effects on Immediate
+and Delayed Recognition of
+Referents in Samoan
+
+Language and Speech
+2023, Vol. 66(1) 175-201
+(c) The Author(s) 2022
+Article reuse guidelines:
+sagepub.com/journals-permissions
+https://doi.org/10.1177/00238309221101396
+DOI: 10.1177/00238309221101396
+journals.sagepub.com/home/las
+
+Sasha Calhoun
+
+Victoria University of Wellington, New Zealand
+
+Mengzhu Yan
+
+Huazhong University of Science and Technology, China
+
+Honiara Salanoa
+Fualuga Taupi
+
+National University of Samoa, Samoa
+
+Emma Kruse Va'ai
+
+Victoria University of Wellington, New Zealand; National University of Samoa, Samoa
+
+Abstract
+This paper looks at the effect of focus-marking on the immediate and delayed recognition of referents
+in Samoan. Focus-marking on a word can imply the presence of alternatives to that word which
+are relevant to the interpretation of the utterance. Consistent with this, psycholinguistic evidence
+is growing that alternatives to focus-marked words are selectively activated in the immediate
+processing of an utterance and longer term memory. However, most of this research is on Western
+Germanic languages which primarily use prosodic prominence to mark focus. We explore this
+in two experiments using immediate and delayed probe recognition tasks in the under-studied
+language Samoan, which primarily uses syntactic focus-marking. Participants heard short narratives
+ending in a critical sentence in which the object word was either focused or not, using a cleft-like
+construction. In the first experiment, probe recognition, alternatives to the object word which were
+either mentioned or unmentioned in the narrative were responded to more slowly if the object was
+focus-marked. In the second experiment, delayed recognition, participants were faster to correctly
+recognize mentioned alternatives, and slower to reject unmentioned, if the object was focus-marked.
+Both results are consistent with immediate and longer-term activation of focus alternatives. There
+was no significant effect of focus-marking on recognition of the object word itself.
+Keywords
+Samoan, Austronesian, focus, discourse processing, alternatives, discourse referents
+Corresponding author:
+Sasha Calhoun, Victoria University of Wellington, PO Box 600, Wellington 6140, New Zealand.
+Email: sasha.calhoun@vuw.ac.nz
+
+176
+
+1
+
+Language and Speech 66(1)
+
+Introduction
+
+Across all languages, one of the key tasks for a listener for successful comprehension is to attend
+to and keep track of the different referents in a discourse, and their role in relation to a shared discourse model (e.g., see Chafe, 1976; Krifka, 2008; Roberts, 1996; Vallduvi, 2016). This can be
+especially challenging as referents are often not explicitly mentioned, but merely implied. Focusmarking plays a key role in allowing listeners to do this. Focus-marking indicates that the marked
+referent updates the current proposition, or assertion, adding a new entry to the discourse model
+(e.g., see Calhoun, 2010; Vallduvi, 2016). Furthermore, and crucially for the concerns of this study,
+focus-marking can imply the presence of alternatives that are relevant for the interpretation of the
+utterance (although not necessarily in the case of broad focus, see further next section) (Calhoun,
+2010; Krifka, 2008; Rooth, 1985, 1992). For example, in the following the cleft and the contrastive
+accent (marked with CAPS) indicate focus. This marks that the guest is the update to the known
+information that someone ate the cake. It further implies that there is a set of people, plausible
+alternatives to the guest such as the host, who could have eaten the cake, who are available in the
+discourse context or able to be accommodated.
+(1) It was the GUEST who ate the cake.
+
+There is long-standing evidence from psycholinguistic studies that focused words are attended
+to more closely than unfocused words, and that they are remembered better (Akker & Cutler, 2003;
+Birch et al., 2000; Birch & Garnsey, 1995; Cutler, 1976; Cutler et al., 1997; Cutler & Fodor, 1979;
+Gernsbacher & Jescheniak, 1995; Ip & Cutler, 2020; Kember et al., 2021; Yan & Calhoun, 2019).
+In recent years, there has been growing interest in exploring the implications for speech processing
+of the function of focus-marking of indicating alternatives, or contrast. This research has shown
+that focus-marking, or at least contrastive accenting, is used anticipatorily by listeners to search for
+contrastive referents in a visual display (Braun et al., 2019; Braun & Biezma, 2019; Dahan et al.,
+2002; Ito & Speer, 2008; Kim et al., 2015; Kurumada et al., 2014; Watson et al., 2008; Weber et al.,
+2006). Furthermore, studies using cross-modal priming have shown that alternatives to focusmarked words seem to be activated more strongly and for longer than other semantic associates,
+consistent with the focus-marking indicating these alternatives are relevant to discourse interpretation (Braun & Tagliapietra, 2010; Gotzner et al., 2016; Husband & Ferreira, 2016; Yan & Calhoun,
+2019). Finally, studies have shown that mentioned alternatives to focus-marked words are remembered better than to unfocused words (Fraundorf et al., 2010, 2013; Gotzner, 2017; Kember et al.,
+2021; Spalek et al., 2014).
+However, most of the psycholinguistic work in this area has been done on one type of focusmarker, contrastive pitch accenting, and on a small set of closely related Western Germanic languages: English, Dutch, and German (though see recent work by Wang et al., 2010; Ip & Cutler,
+2020; Yan & Calhoun, 2019, 2020 and Yan et al., submitted on Mandarin; Kember et al., 2021 on
+Korean; Tjuka et al., 2020 on Vietnamese; and Ventura et al., 2020 on Italian). These languages
+have very similar prosodic systems, and prosodic prominence is a primary marker of focus in all of
+them (e.g., see Calhoun, 2010; Fanselow et al., 2016; Kugler & Calhoun, 2020). Across languages,
+however, there are also morphosyntactic means of marking focus, which are more important than
+the prosodic means in some languages (although syntactic and prosodic markers often work in
+concert, as in (1)) (Fery & Ishihara, 2016). While there have been some studies looking at effects
+of syntactic focus-marking, particularly clefting, in speech processing (e.g., Birch et al., 2000;
+Birch & Garnsey, 1995; Yan & Calhoun, 2019, 2020), very few have been conducted on languages
+for which morphosyntactic markers are a more important means of focus-marking than prosody
+
+Calhoun et al.
+
+177
+
+(though see Kember et al., 2021). In this study, we looked at the effect of focus-marking on the
+immediate and delayed recognition of alternatives to referents in discourse in the Austronesian
+language Samoan. Samoan has been shown to primarily mark focus using a cleft-like fronting
+structure (Calhoun, 2015; Mosel & Hovdhaugen, 1992). We show similar focus effects to those
+that have been found for more studied Germanic languages (see especially Gotzner, 2017). This
+evidence gives cross-linguistic validity to the construct of focus as indicating alternatives and the
+processing effects that follow from that.
+In section 1.1, we further define focus in terms of its role in marking alternatives and review
+evidence for how focus is marked in Samoan. In section 1.2, we review psycholinguistic research
+looking at the role of focus-marking in activation of words and their alternatives in immediate
+processing, which is defined as processing while the utterance is being spoken or immediately
+afterward. In section 1.3, we review studies looking at memory for focused words and their alternatives in later processing, which is defined as any time after subsequent utterances have been
+heard.
+
+1.1 Focus and focus-marking in Samoan
+Starting from at least the seminal work of Rooth (1985, 1992), it is widely claimed that focusmarking introduces, in addition to the ordinary semantic value of a referent in a proposition, a
+focus semantic value indicating "the presence of alternatives that are relevant for the interpretation
+of linguistic expressions" (Krifka, 2008, p. 247). In (1), the focus semantic value would be {ate(x,
+the cake)--x  E}, where E is the set of people who could have eaten the cake. The focus-marking
+indicates that resolving this set will be relevant to the interpretation of the utterance, for example,
+by generating an implicature that other salient people in the discourse, such as the host, did not eat
+the cake (e.g., see Krifka, 2008; Vallduvi, 2016). There is a considerable literature on how focusmarking interacts with focus particles, such as only, to guide interpretation (e.g., see Beaver &
+Clark, 2008; Beck, 2016; Gotzner & Spalek, 2019); as well as particular syntactic constructions,
+such as clefts (e.g., see Lambrecht, 2001).
+While this view of focus has been very influential in the theoretical literature, there are some
+issues that remain debated. The first is whether all focus-marking indicates alternatives, or only
+certain types, sometimes framed as whether there is a difference between the marking of "focus"
+and "contrast," for example, with contrastive versus "neutral" pitch accents (e.g., see Calhoun,
+2010). That is, it is debated whether an utterance such as the following, with canonical word order
+and no emphatic or contrastive accents (although still a "default" nuclear accent on cake) would
+imply alternatives.
+(2) The guest ate the cake.
+
+This debate is not directly at issue in this study, however, our view, which draws on the position in
+Calhoun (2009, 2010) is that this utterance is ambiguous between a broad and narrow focus reading. That is, on its own, this utterance would be unlikely to be interpreted as conveying narrow
+focus on `cake'; however, said in an appropriate cueing context, for example, after "The host ate
+the fruit, . . ." alternatives would be implied, that is, the availability of alternatives differs pragmatically according to the salience of alternatives in the context. This leaves the question of
+whether alternatives to the whole utterance can be implied in a broad focus reading. The first
+author has argued elsewhere that this is the case (Calhoun, 2009, 2010), drawing on Bolinger
+(1965); however, from a processing point of view, it is more difficult to see the value or feasibility
+for a listener to activate such alternatives. We leave this issue for future research.
+
+178
+
+Language and Speech 66(1)
+
+The second issue is the nature of the alternative set. In a "permissive" view, which is largely
+assumed within the theoretical semantics literature, alternatives are constrained only by semantic
+type, for example, the alternatives to x would be the set of individuals including unlikely referents
+like a gorilla or a chair (Goodhue, 2022; Katzir, 2013; Rooth, 1985; Wagner, 2005). However, in
+the processing literature reviewed below, alternatives are usually assumed to be much more
+"restricted," to contextually plausible alternatives to the focus. In accordance with the latter view,
+focus-marking of alternatives has been likened to a bridging inference, to an antecedent set available or accommodated in the discourse context (Vallduvi, 2016, note he calls this "contrast").
+There is some psycholinguistic evidence consistent with the "permissive" view (see Gotzner &
+Spalek, 2019), but this is an open issue that needs more research, which is outside the scope of this
+paper. Under either view, the alternative set must include at least contextually plausible alternatives
+to the focus, whether or not these have been explicitly mentioned in the discourse.
+Samoan is a Polynesian language in the Austronesian family (Mosel & Hovdhaugen, 1992, p.
+4). In a production study, Calhoun (2015) used a question-answering task in response to picture
+prompts to elicit focus from native speakers. The syntactic and prosodic form of the responses were
+analyzed. She found that in broad focus, the most common realization was in canonical verb-subject-object (VSO) order, as in (3a). The most consistent means of marking focus in Samoan was by
+fronting it in a cleft-like construction, preceded by the `o particle (`o-fronting), as in (3b) which
+unambiguously marks narrow focus on the object (from the experimental materials for this study,
+see section 3.1.2): 1
+(3)
+
+a. Sa
+`ai e
+le
+ml
+le keke.
+PAST EAT ERG DET GUEST DET cake
+"The guest ate the cake." (Broad Focus)
+
+ b. `O
+[le keke ]F sa
+`ai
+e
+le
+ml.
+PRES DET
+CAKE PAST EAT ERG DET guest
+" It was [ the cake ]F that the guest ate." (Object Focus)
+
+To our knowledge, this is the most thorough study looking at the use of different types of focusmarking in Samoan; however, the results are consistent with other research in this area on Samoan
+(Calhoun, 2017; Mosel & Hovdhaugen, 1992; Yu & Stabler, 2017). `O-fronting constructions are
+reported to be widespread in marking focus in Polynesian languages (including with the cognate
+ko particle) and are usually analyzed as clefts (Brown & Koch, 2016). Fronting seems to be very
+common as a primary focus marker in verb-initial languages in general (Kugler & Calhoun, 2020).
+It is not reported that `o-fronting constructions carry the extra pragmatic implications noted for
+clefts in English and other languages, such as presupposition of the material in the main clause or
+exhaustivity of the focus (Lambrecht, 2001; Onea, 2019), which is consistent with these being
+primary focus markers.
+Calhoun (2015) further claimed that the default position of the nuclear accent is initial in
+Samoan, that is, on the verb in canonical order sentences and on the focused constituent in the
+`o-fronting construction. Samoan is an intonation language (Calhoun, 2015; Orfitelli & Yu, 2009;
+Yu & Stabler, 2017). Prosodic words are usually marked by a rising accent whose peak was associated with the stressed mora of the lexical head (labeled L + H* in Calhoun, 2015). Calhoun's
+(2015) claim was partly made on the basis of the semantic association with focus, which fits with
+the initial position being predicative in Polynesian languages (see Calhoun, 2017). It was also
+made on phonetic/phonological grounds: the initial constituent in Samoan is always produced with
+a strong L + H* accent, which usually has the largest pitch range of all the accents in the intonation
+
+Calhoun et al.
+
+179
+
+phrase, whereas on later constituents the accent can be reduced ((!)H*) or not present, including in
+broad focus.
+Our recent research has shown that, while focus may be signaled by both syntactic and prosodic
+cues in the `o-fronting construction, the syntactic cue is perceptually more important (Calhoun
+et al., 2021). In one experiment, participants heard short narratives ending in a critical sentence in
+which the placement of the pitch accent (on subject or object) and the syntactic construction
+(canonical order or `o-fronting of the subject or object) were co-varied. They were asked to choose
+which question, implying focus on the subject or object, was asked to which the critical sentence
+was the response. Participants were more likely to choose the cleft consistent with the focus (e.g.,
+object cleft for object focus), while nuclear accent placement had no effect. In the other experiment, participants heard the same sentences without context, and were asked to choose which word
+was the most prominent. Prominence judgments were strongly influenced by focus, that is, participants were more likely to judge the phonetically most prominent word to be the most prominent if
+it was `o-fronted.
+
+1.2 Focus in immediate processing
+The role of focus-marking in indicating both the salience of focused words and their alternatives
+has implications for immediate lexical processing. We expect focus-marked words to be attended
+to more closely and more strongly activated. Indeed, this was found with early phoneme-monitoring experiments in English and Dutch (Akker & Cutler, 2003; Cutler, 1976; Cutler et al., 1997;
+Cutler & Fodor, 1979), and more recently Chinese (Ip & Cutler, 2020), which found that target
+phonemes are recognized faster in focused words or in words where the preceding intonation contour predicts that they will be in focus, whether or not the word itself was pitch accented. This was
+also shown in early experiments using the probe recognition task (Birch et al., 2000; Birch &
+Garnsey, 1995; Gernsbacher & Jescheniak, 1995). The probe recognition task has been shown to
+tap into listeners' representations of the underlying structure of events in a discourse (Gernsbacher
+& Jescheniak, 1995; Glenberg et al., 1987; McKoon & Ratcliff, 1980). In Gernsbacher and
+Jescheniak (1995), participants heard short extracts from a spoken discourse like the following in
+which the key word was either accented or not:
+(4)I swear, my friend Vicki, every time we go to a garage sale, she just goes crazy. I mean like last
+Saturday we went to one near campus, `n she just had to buy an ASHTRAY/ashtray, `n y'know. . .
+
+This was followed by a probe, ashtray, and participants had to respond whether that was in the
+preceding utterance. They showed participants were faster to respond when the key word was
+accented. Birch and Garnsey (1995) replicated this finding in a written task with focus-marking by
+it-clefts (see further next section). However, in Birch et al. (2000), again using a written task with
+it-clefts, they found the effect only held when the key word was not the subject of the sentence.
+Following from its role in indicating salient alternatives, focus-marking should lead listeners to
+anticipate a contrastive referent. This has indeed been shown in multiple eye-tracking studies in
+English, Dutch and German (e.g., Braun et al., 2019; Braun & Biezma, 2019; Dahan et al., 2002;
+Dennison, 2010; Ito & Speer, 2008; Kim et al., 2015; Kurumada et al., 2014; Watson et al., 2008;
+Weber et al., 2006). For example, in Ito and Speer (2008), participants' eye movements were
+tracked while following instructions to decorate a Christmas tree selecting from a board with 40-
+52 ornaments varying in color and type (e.g., green ball, blue angel). When hearing instructions
+with a contrastive accent on the adjective (e.g., after green ball, "now hang the BLUE. . ."), participants looked anticipatorily at, for example, a blue ball, and took longer to fixate on the correct
+
+180
+
+Language and Speech 66(1)
+
+referent if this was actually, for example, a blue angel. Later work has used the visual world paradigm to explore selective attention to alternatives arising from inferences related to focus-marking
+(Braun et al., 2019; Dennison, 2010; Kim et al., 2015; Kurumada et al., 2014).
+Finally, and most importantly for our purposes, focus-marking should selectively activate alternatives to the focused word, and maintain their activation for integration in the discourse model.
+Interest in this question has been growing in recent years and evidence is building that this is the
+case (Braun & Tagliapietra, 2010; Gotzner, 2017; Gotzner et al., 2016; Husband & Ferreira, 2016;
+Yan & Calhoun, 2019, 2020). It is well-established that for single words, lexical activation
+"spreads" to semantically related words, resulting in a priming effect for subsequently presented
+semantically related target words (Swinney et al., 1979). However, the priming effect is variable
+for words in sentence contexts (Norris et al., 2006). Using cross-modal priming, Braun and
+Tagliapietra (2010) showed that this variability may be related to focus-marking and the type of
+semantic relationship. In their study, participants heard primes such as In Florida, he photographed
+a flamingo (in Dutch), with or without contrastive accenting on flamingo. They found listeners
+were primed for contrastive alternative targets, for example, pelican, only when the prime word
+was contrastively accented (compared to a control prime In Florida, he photographed a celebrity).
+However, for other non-contrastive semantic associates, for example, pink, there was weak priming in both accent conditions. A later study by Husband and Ferreira (2016) in English, using a
+similar design, found a somewhat different pattern of results. They found that non-contrastive
+associates were selectively deactivated following primes where the prime word was contrastively
+accented only after a delay (750 ms from the offset of the prime word). They attribute this to a
+selection mechanism, where focus-marking maintains activation of alternatives as relevant to discourse interpretation, but not other semantic associates. In our own study in Chinese (Yan &
+Calhoun, 2019), again using a similar design, we found priming of contrastive associates after
+primes with focus-marking on the prime word, but not when the prime word was not focus-marked,
+after a delay of 1500 ms from the offset of the prime word. Non-contrastive associates were not
+primed in either condition. That study was interested in the effect of different types of focusmarking, and found the priming effects when the prime word was prosodically and syntactically
+focus-marked (prominent in a cleft), but not when it was only syntactically focus-marked. In sum,
+these studies give evidence for the selective activation of alternatives to focus-marked words, at
+least after a short delay (750 ms-1500 ms) from the offset of the word.
+These cross-modal priming studies establish selective activation of focus alternatives out of
+context. However, similar effects have been shown in discourse contexts (Gotzner, 2017; Gotzner
+et al., 2016; Yan & Calhoun, 2020). Some of the early probe recognition experiments (Birch et al.,
+2000; Birch & Garnsey, 1995) also investigated whether focus-marking affected response times to
+semantically related words to the key word, and found no effect; however, these studies did not
+distinguish between alternatives and other non-contrastive semantic associates. More recently,
+Gotzner et al. (2016) have shown focus effects in recognition of alternatives using the probe recognition task (see also Gotzner, 2017). In Gotzner et al.'s (2016) study, participants heard dialogues such as the following (in German):
+(5) a. Context (speaker 1):
+In the fruit bowl, there are peaches, cherries, and bananas.
+b. Continuation sentence (speaker 1):
+I bet Carsten has eaten cherries and bananas.
+c. Critical sentence (speaker 2):
+No, he (i) only (ii) even (iii) _ ate peaches.
+
+Calhoun et al.
+
+181
+
+The context sentence introduced three members of a set. In the continuation sentence, two of these
+three were mentioned again to equalize mentions across the dialogue. The continuation sentence
+contained the third member, preceded by the focus particles only (5ci) or even (5cii) or neither
+(5ciii). The object noun peaches was always produced with a "neutral" accent (H*L). After a delay
+of 2050 ms, participants saw a probe word on the screen which was either a mentioned alternative
+in the dialogue (e.g., cherries), an unmentioned alternative in the same set (e.g., melons) or unrelated (e.g., clubs). They found that participants were slower to correctly recognize mentioned alternatives and correctly reject unmentioned alternatives when they were preceded by a focus particle
+(only or even). They argue that this is because focus-marking, with focus particles, triggers a search
+for alternatives in the context, which strengthens the activation of the whole alternative set of the
+focused word, not just the mentioned alternatives, in order to resolve their interpretation in the
+discourse. In short-term processing, focus-marking therefore makes it harder to distinguish between
+mentioned and unmentioned members of that set (see further Gotzner & Spalek, 2019). In a second
+experiment, they showed similar interference effects of focus-marking in a lexical decision task for
+mentioned and unmentioned targets in the same discourse contexts. In a later experiment, Gotzner
+(2017, ch. 6) compared marking with contrastive (L + H*) and non-contrastive accents (H*) on the
+recognition of mentioned alternative probes in similar discourse contexts. In that experiment, she
+found no effect of prosodic focus-marking when the probe was presented immediately after the
+critical sentence, but a strong facilitation effect after a delay of one filler sentence. This shows that
+while the strengthened activation of alternatives may be detrimental for some tasks in short-term
+processing, it is helpful in longer term processing (see further next section).
+
+1.3 Focus in later processing
+As we have seen, focus plays a role in marking referents to be added to the discourse model, and
+their alternatives which are relevant for interpretation. Such marking indicates that these referents
+and alternatives are likely to be referred to again later in the discourse, and the listener should
+therefore keep them activated. In this section, we review evidence for this longer-term activation,
+defined as after at least one further utterance has been said in the interaction.
+Better memory for focused words was shown in early experiments involving written stimuli in
+English by Birch and Garnsey (1995) and Birch et al. (2000). In Birch and Garnsey (1995) participants read blocks of 10 sentences such as the following:
+(6) a. It was a medal that would be awarded to the new champion of the race.
+b. The inscription on the medal stated the date and time of the race.
+
+The key word medal was either focused in an it-cleft (6a) or not (6b). Participants were faster
+and more accurate in correctly recalling that medal was in the previous block of sentences when it
+was focused than when it was not. This effect was recently shown in an experiment with a very
+similar design, but with spoken materials, in English and Korean by Kember et al. (2021). That
+experiment was concerned with the relative effectiveness of prosodic prominence and syntactic
+focus cues for memory, and found that while for both languages accuracy and speed was best when
+the focus was prosodically and syntactically marked, when these were separated, syntactic cues
+were relatively more important in Korean. This is useful for our purposes as the authors suggest
+syntactic focus is used relatively more than prosodic focus-marking in Korean compared to English.
+The role of focus-marking in recall of alternatives was tested by Fraundorf et al. (2010) (see also
+Fraundorf et al., 2013). In their study, participants heard a context sentence introducing two alternative sets in English, followed by a critical sentence selecting one member of each, such as:
+
+182
+
+Language and Speech 66(1)
+
+(7) a.Both the British and the French biologists had been searching Malaysia and Indonesia for the
+endangered monkeys.
+b. Finally, the British spotted one of the monkeys in Indonesia and planted a radio tag on it.
+
+In the critical sentence, one or both of the key words (British/ Indonesia) had contrastive pitch
+accents (L + H*), as opposed to "neutral" accents (H*). Participants heard 48 such narratives, and
+shortly afterward had to fill in sentence prompts like "the ______spotted one of the monkeys
+in______" from presented mentioned alternatives such as British and Indonesian. They found
+that participants were more accurate at recalling the correct alternative if it was contrastively
+accented. In a further experiment, participants heard the same narratives and then had to verify
+statements that had either the correct alternative (e.g., British), the mentioned alternative (e.g.,
+French) or an unmentioned alternative from the same set (e.g., Portuguese). In this case the verification task was carried out the following day. Participants were more accurate at discriminating
+between the correct and mentioned alternatives if they were contrastively accented. There was a
+weak trend for participants to be less accurate at discriminating unmentioned alternatives if they
+were contrastively accented, although this was not significant. The authors state their results are
+consistent with focus-marking leading to better encoding of the alternative set. Similar results were
+shown by Spalek et al. (2014), using blocks of 10 narratives like (5) in German, in a task in which
+participants were asked to then recall the members of each set they had heard (e.g., fruit) (see also
+Gotzner, 2017, ch. 3). Recall accuracy for alternatives was highest when the focus was marked
+with a focus particle (although this did not affect accuracy for the focus word itself). Tjuka et al.
+(2020) also showed similar results for a study with a similar design in Vietnamese, but using prosodic focus-marking. They also showed more accurate recall of mentioned alternatives when they
+were focus-marked, but this was only significant for female speakers. Recently, Yan et al. (submitted) looked at focus effects on delayed recognition in Mandarin Chinese. Using a similar design to
+Kember et al. (2021), participants heard blocks of 10 sentences with contrastive prosodic focus on
+either the subject or object and then had to respond to 10 probes as to whether they were in the
+sentences. They showed that participants were slower at correctly rejecting probes which were
+contrastive alternatives to the subject word if the subject had been focused-marked than when it
+was not, but focus-marking did not affect other semantic associates. The contrastive alternatives
+were unmentioned as there were no contexts with the sentences. This effect only held for the first
+quarter of the experiment, which the authors attribute to task learning effects. There were no focus
+effects on accuracy of recall.
+These experiments show that listeners are more accurate at recalling mentioned alternatives
+after a delay (which can range from a few minutes to a day) if the target word is focus-marked, that
+is, focus-marking facilitates recall of mentioned focus alternatives (see also Gotzner & Spalek,
+2019). None of these studies measured speed of recall, although Gotzner (2017, ch. 6) found mentioned alternatives were correctly recognized faster when the target word was prosodically focusmarked after a delay of one sentence, again suggesting focus-marking facilitates delayed recall or
+recognition. The finding for mentioned alternatives is opposite to immediate processing, where
+listeners were slower to correctly recognize mentioned alternatives when the target word was
+focus-marked (see section 1.2). This was hypothesized to be because focus-marking activates the
+whole alternative set, making it harder for the listener to distinguish between mentioned and
+unmentioned alternatives. The question is why this difficulty does not also apply to mentioned
+alternatives in delayed recognition. Gotzner and Spalek (2019, p. 15) propose this is because, over
+time, "increased processing effort leads to an improved representation of the actually mentioned
+alternatives," as being the most likely to be mentioned in further discourse. They propose that in
+later processing, the whole alternative set, and therefore unmentioned alternatives, are no longer
+
+Calhoun et al.
+
+183
+
+active in the mental model of the discourse, as they are unlikely to be relevant to the further discourse, but rather just the focused word and mentioned alternatives. However, to our knowledge,
+there is little direct evidence about activation of unmentioned alternatives in delayed processing, as
+most of the studies reviewed above only looked at recall or recognition of mentioned alternatives.
+Yan et al. (submitted) found focus-marking slowed correct rejection of unmentioned alternatives in
+delayed processing, suggesting the whole alternative set remains activated in delayed processing.
+However, in their experiment sentences were presented out of context, so there were no mentioned
+alternatives. It may be that the whole alternative set remains activated in later processing only in
+this limited case. Our experiment allows us to test activation of unmentioned alternatives in
+context.
+
+2
+
+Aims of this study
+
+As we have seen, psycholinguistic evidence shows that focus-marking leads to higher, and longer
+lasting, activation of focused words and their alternatives, whether or not these are mentioned in
+the discourse. This is consistent with the role of focus in marking the presence of alternatives that
+are relevant for discourse interpretation. However, the vast majority of this research has been done
+on a small number of closely related languages (English, Dutch and German). Further, most of this
+research has looked at focus-marking by prosodic prominence. While some involved syntactic
+focus-markers, such as clefts, and focus particles, almost none of the psycholinguistic research has
+involved languages for which syntactic focus-marking is primary. In this study, we extend this
+research to the understudied language Samoan, for which syntactic focus-marking appears to be
+primary.
+In the present study, we look at the role of focus-marking in immediate and long-term processing of syntactically focused words and their alternatives in Samoan. We ask whether focus-marking facilitates the immediate (Experiment 1) and delayed recognition (Experiment 2) of object
+referents and their mentioned and unmentioned alternatives. As discussed above, we predict that
+correct recognition of mentioned alternatives should differ in immediate and delayed tasks. In
+immediate processing, focus-marking leads to greater activation of the alternative set making it
+harder to distinguish between mentioned and unmentioned alternatives, leading to slower responses.
+However, in delayed recognition, focus-marking privileges activation of mentioned alternatives,
+making these easier to correctly recognize. Existing research does not allow us to make a clear
+prediction about unmentioned alternatives: if the whole alternative retains some activation in later
+processing, they should be harder to correctly reject as unmentioned (as in immediate processing),
+but if only mentioned alternatives remain activated in later processing, they should be similar to
+unrelated controls.
+
+3
+
+Experiment 1: probe recognition task
+
+Experiment 1 used an adapted version of the probe recognition task, as developed by Gotzner et al.
+(2016), to investigate the role of focus-marking in activating and accessing focused words and their
+alternatives in discourse contexts in Samoan (see also Birch et al., 2000; Birch & Garnsey, 1995;
+Gernsbacher & Jescheniak, 1995; Gotzner, 2017). Participants heard short narratives in which the
+object in the critical sentence was either focus-marked, using the `o-fronting construction, or not.
+This was followed by a probe word, which was one of the object word, an alternative mentioned in
+the narrative, a plausible unmentioned alternative, or an unrelated word. We expected the object
+word to be recognized more quickly if it was focused (Birch et al., 2000; Birch & Garnsey, 1995;
+Gernsbacher & Jescheniak, 1995). However, we expected the mentioned and unmentioned
+
+184
+
+Language and Speech 66(1)
+
+alternatives to be recognized more slowly if the objects were focus-marked, as focus-marking
+increases the activation of the alternative set, making it more difficult to distinguish between mentioned and unmentioned alternatives in immediate processing (Gotzner et al., 2016).
+
+3.1 Method
+3.1.1 Participants. There were 56 native Samoan-speaking participants (42 women and 14 men),
+recruited from among students and staff at the National University of Samoa, Apia, Samoa. Of
+these, 48 participants completed a Samoan version of the Bilingual Language Profile (BLP) (Birdsong et al., 2012; Calhoun et al., 2021), which assessed their relative language dominance in
+Samoan and English and collected other demographic information. These participants were aged
+17-65, mean 24 years. Their mean language dominance score was -44 (range -108 to 61, on a
+scale 218), suggesting participants were on average slightly Samoan dominant. Unfortunately,
+the remaining eight participants did not complete the BLP. However, since neither age nor language dominance score were significant predictors in the experiment results (see further below), it
+was decided to include them. All participants received a phone topup voucher as thanks for their
+participation. The study was approved by the Human Ethics Committee at Victoria University of
+Wellington (approval number 23369).
+3.1.2 Materials and design
+Materials. For the critical items, 40 short narratives were constructed like the example in
+Table 1 (see Supplementary Materials for full list). Each included a short context that introduced two alternatives to the subject in the critical sentence, for example, le ml ma lona
+to'alua "the guest and her husband", as well as three alternatives to the object in the critical
+sentence, for example, `o le pai, `o le falaoa ma le keke `a pie, bread and cake." Alternatives
+were introduced to both the subject and object so that either form of the critical sentence would
+be pragmatically plausible. The following sentence repeated one of the subject alternatives and
+two of the object alternatives, so that all the alternatives would be mentioned the same number
+of times in the narrative. Finally, the critical sentence repeated the other subject alternative and
+Table 1. Example Stimulus Item for Experiments 1 and 2.
+Context
+Sa fa'atau e le ml ma lona to'alua meaai: `o le pai, `o le falaoa ma le keke.
+`The guest and her husband bought some food: a pie, bread and cake.'
+Continuation
+Sa u'u e le tamloa le falaoa ma le pai.
+`The husband carried the bread and the pie.'
+Critical Sentence
+Focused
+`O le keke sa `ai e le ml.
+`It was the cake that the guest ate.'
+Unfocused
+`O le ml sa `aia le keke.
+`It was the guest who ate the cake.'
+Probe Words
+Object
+le keke
+Mentioned
+le falaoa
+Unmentioned
+le si
+Unrelated
+le kolisi
+
+`the cake'
+`the bread'
+`the papaya'
+`the college'
+
+Calhoun et al.
+
+185
+
+the last object alternative. Crucially, there were two forms of the critical sentence, one in which
+the object noun was focused using the `o-fronting construction (see section 1.1), and the other
+in which the object noun was not focused (as the subject noun was). Recall that, while these
+constructions are translated as clefts in English, this is the most common means of marking
+focus in Samoan, and these constructions are not reported to have extra pragmatic implications
+as they do in English (see section 1.1).
+For each narrative, a set of four probe words were constructed, consisting of the object noun in
+the critical sentence, one of the alternatives to the object mentioned in the narrative, another plausible alternative to the object unmentioned in the narrative, and an unrelated word that could not be
+an alternative to either the subject or the object. The position of the critical object and mentioned
+alternative in the context sentence was balanced across items, that is, a third of the time the critical
+object was the first item in the triplet, a third second and a third last, and the same for the mentioned
+alternative.
+All the critical sentences described a simple event using a transitive verb in the past tense, with
+subject and object singular nouns. The verb was always ergative.2 As much as possible, the subject,
+verb and object words were chosen to be among the 2000 most frequent in Samoan, according to
+the only available corpus to our knowledge (Hunkin, 2001). As this is a relatively small corpus, in
+some cases words outside this list were used, where they were judged to be frequently used in
+Samoan by the third author (a native speaker and educator). Each probe word was only used once
+over all the items in the experiment (including the fillers). In addition, care was taken so that as
+much as possible the probe words for one item could not be plausible alternatives for any other
+item.
+In addition to the critical items, 20 filler items were constructed. These had the same contextcontinuation-critical sentence format as the critical item narratives, except that the syntactic constructions used in the three sentences were varied, different numbers or no alternatives to the
+different arguments were mentioned in the context sentence, and these were not always repeated in
+either the continuation or critical sentence. This was to distract participants from the form of the
+critical narratives. For each filler narrative, a single probe was chosen. Over the filler items, half of
+these were words mentioned in the narrative and half were not, of the latter, half were related to
+mentioned items and half were not. This was so that over all the items there were an equal number
+of probe words that had, and had not, been mentioned in the narrative.
+Recordings. The narratives were recorded by a female native speaker of Samoan aged in her
+mid-forties. She moved to New Zealand as an adult and is a university teacher of Samoan. The
+recordings were made directly to hard drive at a sampling rate of 44.1 kHz with Praat (Boersma
+& Weenink, 2018), using a USB-based head-mounted microphone in a soundproof room at
+Victoria University of Wellington. The speaker read aloud each in turn, including both versions
+of the critical sentence, at a comfortable pace. She was encouraged to read each critical sentence
+as a natural continuation of the preceding sentences in the narrative. Sentences with any hesitations or disfluencies were rerecorded. After recording, each sentence (context-continuationcritical) was cut into a separate sound file, removing silences at the start and end. The intensity
+in each of these files was scaled to 50 dB for consistency.
+Figure 1 shows the pitch track for the critical sentences in the example in Table 1 (recordings
+available in the Supplementary Material). The figure shows a ToBI-style analysis of the intonational contours for each sentence. This was done by the first author following the scheme
+
+186
+
+Language and Speech 66(1)
+
+Figure 1. Pitch tracks for example critical sentences with intonation annotation. (a) Focus on the object.
+(b) Focus on the subject.
+
+Calhoun et al.
+
+187
+
+Table 2. The Mean F0 (in Hz), Duration (in ms) and Mean Intensity (in dB) of the Stressed Syllable of the
+Cleft Head and the Argument in the Main Clause by Sentence Condition (Object or Subject Cleft).
+Cleft
+
+Position
+
+F0
+
+(SD)
+
+Duration
+
+(SD)
+
+Intensity
+
+(SD)
+
+Object
+Object
+Subject
+Subject
+
+Head
+Main Clause
+Head
+Main Clause
+
+195.3
+161.2
+202.4
+176.8
+
+29.6
+22.0
+31.4
+36.8
+
+210.2
+197.9
+211.4
+214.5
+
+76.6
+71.5
+69.3
+67.1
+
+57.3
+51.4
+59.2
+53.5
+
+5.9
+3.7
+4.6
+5.2
+
+developed in Calhoun (2015, 2017) which drew on Orfitelli and Yu (2009). These intonational
+realizations were typical for the critical sentences, which were very stable across the utterances. As
+can be seen, the focused constituent in the `o-cleft (le keke "the cake" in Figure 1(a) and le ml
+"the guest" in Figure 1(b)) forms its own phonological phrase, ending with a high phrase tone (H-),
+with a high rising pitch accent (L + H*) on the focused word (aligned with the stressed mora,
+which is penultimate in Samoan). The rest of the sentence is produced with a lower pitch range,
+although there is an accent on every content word. There is also an H- phrase tone immediately
+before the post-verbal object in Figure 1(b), as is typical in Samoan (see Yu, 2021 and Calhoun,
+2017 for discussion of the function of these tones). Table 2 shows acoustic measures (mean F0,
+duration, and mean intensity) of the stressed syllable of the cleft head and the argument in the main
+clause, which were generated using a Praat script. (Recall that in the experiments the target word
+was the object, so "focused" refers to the head in the object clefts and "unfocused" refers to the
+main clause argument in the subject clefts). These measures show that, for both object and subject
+clefts, the cleft head was more acoustically prominent than the argument in the main clause, at least
+for F0 and intensity; duration was more similar between the two. Therefore, both the phonological
+and acoustic analysis show that, as well as being syntactically focus-marked, the constituent in the
+`o-cleft is the most prosodically prominent in these sentences; see further section 1.1 and Calhoun
+(2015).
+Design. The experiment followed a within-subjects design. The 40 narratives, two focus conditions (focused/unfocused) and four probe conditions (object, mentioned, unmentioned, unrelated) resulted in 320 experimental stimuli. These were distributed across eight lists of 40
+stimuli following a Latin Square design. Each participant saw only one list, or a total of five
+items per condition (focus*probe) per participant. The order of items was randomized per
+participant.
+3.1.3 Procedure. The experiment was run using OpenSesame software, version 3.2.4 (Mathot
+et al., 2012). Instructions were presented on screen at the start of the experiment. Participants
+were told that they would hear a series of short stories about unrelated events. Immediately after
+each story, a word would appear on the screen, and they had to press a labeled key on the keyboard to indicate IOE "YES" or LEAI "NO" as to whether that word was in the story they just
+heard. They were asked to base this on the exact wording in the stories. As the correct answer in
+the critical trials could be either YES or NO, the position of these keys was counterbalanced
+across participants, so for half the YES label was on the "z" key and NO on "m," and vice versa
+for the other half.
+For each trial, the participants saw a small, hand-drawn picture of a Samoan woman's face in
+the center of the screen, as in piloting participants said that they found it easier to be able to picture
+a speaker while listening to the stimuli. With this picture on screen, there was first a 1000 ms
+
+188
+
+Language and Speech 66(1)
+
+silence, after which participants heard the context, continuation and critical sentence (see Table 1)
+in sequence, each followed by an 800 ms silence (including after the critical sentence). After this,
+the probe word appeared in the middle of the screen (replacing the picture), and participants had to
+press the appropriate key as to whether they had heard the word in the story. Response times were
+measured from the onset of the appearance of the probe word.
+Before the main experiment, there were 12 practice trials, with stimuli similar to the critical and
+filler stimuli in the main experiment. In the practice trials, participants were given feedback after
+each trial as to whether their answer was correct. For the first four trials, if a participant did not
+respond within 1500 ms, they heard a beep to encourage them to respond more quickly, although
+they could still respond after this. For the remaining eight practice trials, if they took longer than
+1000 ms to respond, there was an encouragement to respond more quickly. If the participant did not
+respond within 4000 ms, the experiment moved on to the next trial. Participants whose accuracy
+was below 80% and/or average response time above 1100 ms in the practice were asked to redo the
+practice before moving on the main experiment. These steps were taken as this pool of participants
+were generally not familiar with psycholinguistic-type experiments requiring them to respond "as
+quickly as they could," and so needed encouragement to respond fast enough to be able to see differential effects of experimental conditions on response times. In the main experiment, if a participant did not respond within 4000 ms the experiment also moved on to the next trial, but there was
+no feedback after each trial. Trials were presented in three blocks: the first of 12 items and the
+second two of 24 items. After each block participants were required to break for seven seconds but
+could take longer if they wished. At the end of the break, if their average response time had been
+more than 1100 ms in the previous block, they were again encouraged to respond quickly before
+restarting, but were not asked to redo the block.
+The experiment sessions took place in a quiet room at the National University of Samoa.
+Participants were seated at laptops wearing closed-ear headphones. The experiment was conducted
+before Experiment 2 in the same experimental session. The total session lasted around an hour.
+Participants filled in the BLP survey online before the experimental session, or if not, after completing the experiments.
+
+3.2 Results
+A total of 2219 responses to critical trials were recorded from 56 participants (i.e., excluding nonresponses). One participant responded to only 21/40 trials, and was excluded from the analysis.
+Among the remaining participants, there were only two trials without responses, from different
+participants. Response times less than 200 ms were excluded as this would be too fast to be a genuine response to the stimulus (0 exclusions). This left 2174 responses for analysis. Both the response
+accuracy, and the response times for correct responses, were analyzed.
+3.2.1 Accuracy. Overall accuracy was 90.6%, ranging from 62.5% to 100%. Four participants with
+accuracy less than 75% were excluded as they were outliers compared to the accuracy of the other
+participants (more than 2 s.d. below the mean) suggesting their responses may not be sufficiently
+reliable. This left 2078 responses for analysis.
+A mixed effect logistic regression model was built to investigate the effect of Focus condition
+(focused, unfocused) and Probe condition (object, mentioned, unmentioned, unrelated) on accuracy using the lme4 package (Bates et al., 2015) in R (R Core Team, 2020). In the initial model,
+fixed effects were Focus and Probe condition and their interaction and the position of the trial in
+the experiment, with random intercepts of participant and probe word. The model including the
+interaction did not converge. An ANOVA of the model without the interaction showed Probe
+
+Calhoun et al.
+
+189
+
+Table 3. ANOVA Table of the Final Model for RTs in Experiment 1.
+
+ProbeCond
+FocCond
+TrialPosition
+ProbeCond: FocCond
+
+2
+
+Df
+
+Pr(>2 )
+
+81.93
+0.01
+9.63
+8.25
+
+3.00
+1.00
+1.00
+3.00
+
+<0.001
+0.919
+0.002
+0.041
+
+condition significantly improved the model (2 = 39.5, p < .001). Focus condition was not significant, nor was trial.
+The final model included Probe condition as a fixed effect and participant and probe word as
+random intercepts. Estimates were extracted from the model using the effects package (Fox, 2003).
+This showed accuracy was higher for object (97.6%) and unrelated (98.6%) probes, and lower for
+mentioned (89.1%) and unmentioned (92.3%) probes. Post hoc tests conducted using the emmeans
+package (Lenth, 2020), with the FDR adjustment, showed that object and unrelated probes were
+not significantly different from each other, nor were mentioned and unmentioned probes, but each
+of the former pair were significantly different from each of the latter pair (object-unrelated:
+z = -1.2, p = .227; object-mentioned: z = 4.4, p < .001; object-unmentioned: z = 3.3, p = .001; unrelated-mentioned: z = -5.3, p < .001; unrelated-unmentioned: z = -4.3, p < .001; mentioned-unmentioned: z = -1.2, p = .227).
+3.2.2 Response time. For the analysis of response times (RTs), only correct responses were included,
+a total of 1901. As the RTs were not normally distributed, a log transform was applied, which was
+the best transform out of no transform, inverse normal, no transform and inverse square root. Linear mixed effects modeling was used to evaluate the effect of Focus and Probe condition on RTs.
+The initial model included Focus and Probe condition, their interaction and the position of the trial
+in the experiment as fixed effects, as well as a random slope for the Focus-Probe interaction by
+participant and a random intercept for probe word. Models including the interaction of Focus,
+Probe, and each of participant gender, age, and language dominance score were built but did not
+converge, and further investigation showed none of these participant factors looked to be significant. The step function in the lmerTest package (Kuznetsova et al., 2017) was used to remove nonsignificant effects. An ANOVA of the fixed effects in the final model is shown in Table 3; the model
+included random intercepts for participant and probe word.
+Figure 2 shows the estimated RTs from the model extracted using effects and plotted using the
+ggplot2 package (Wickham, 2016). As can be seen, responses were considerably faster for object
+probes than the other types, with unmentioned probes slightly slower than mentioned and unrelated. The strongest effects of focus appear to be for mentioned and unrelated probes, in opposite
+directions. The model also included an effect of the position of the trial, which showed that on
+average participants got slightly faster over the course of the experiment (  = -0.001, SE = 0,
+t = -3.1).
+Planned comparisons were carried out to explore the Focus-Probe condition interaction using
+emmeans, with the FDR correction. The first set of comparisons looked at the effect of focus by
+probe type. This showed that mentioned probes were recognized marginally significantly slower
+when the object was focused (t = 1.9, p = .082) and unrelated probes marginally significantly faster
+when focused (t = -2, p = .07), but there was no focus effect for object probes (p = .73) or unmentioned probes (p = .71). The marginally significant effect of focus for unrelated probes suggests
+responses to probes following critical sentences with subject focus (unfocused condition) may
+
+190
+
+Language and Speech 66(1)
+
+Figure 2. Back-transformed fitted RTs in milliseconds by Focus and Probe condition in Experiment 1.
+Error bars show standard error of the means.
+
+have been slower. To allow for this, each probe type was compared to the unrelated probes in each
+focus condition. These comparisons showed object probes were recognized faster than unrelated
+regardless of focus (focus condition: t = -4.4, p < .001; unfocused: t = -5.7, p < .001. Unmentioned
+probes were also recognized slower than unrelated, but only in the focus condition (t = 3.1, p = .004).
+No other comparisons with unrelated probes within the same focus condition were significant
+(p > .1). The final comparisons looked at whether there was a difference between mentioned and
+unmentioned probes: it was found that mentioned probes were recognized significantly faster than
+unmentioned in the unfocused condition (t = -2.5, p = .022), but not focused (p = .25).
+
+3.3 Summary
+Experiment 1 used a probe recognition task to explore the effect of focus-marking on the object in
+the critical sentence on the recognition of object probes and their mentioned and unmentioned
+alternatives in a preceding narrative. Participants were accurate and fast to recognize object probes,
+which is unsurprising as they had been mentioned in the preceding critical sentence. There was no
+
+Calhoun et al.
+
+191
+
+effect of focus on accuracy for object probes, which can likely be attributed to ceiling effects;
+however, there was also no effect on response time, which is different to previous studies (Birch
+et al., 2000; Birch & Garnsey, 1995; Gernsbacher & Jescheniak, 1995). We discuss possible reasons for this in section 5.
+It was predicted that participants would find it more difficult to correctly recognize mentioned alternatives, and correctly reject unmentioned alternatives when the object word was
+focused in the critical sentence, as this strengthens the activation of all alternatives, making it
+harder to correctly distinguish between them. Accuracy was lower for mentioned and unmentioned probes than either object or unrelated probes, but this was not affected by focus-marking.
+This likely shows that the context sentence, which introduced an alternative set (e.g., food in
+Table 1), was sufficient to provide some activation of the alternatives, making it relatively more
+difficult to distinguish between mentioned and unmentioned alternatives. Accuracy was not a
+sufficiently sensitive measure to show effects of focus-marking in immediate recognition.
+However, for response times, we did see effects of focus-marking in the predicted direction (see
+Gotzner et al., 2016). Response times for mentioned alternatives were marginally significantly
+slower when the object was focused than not focused. This comparison was not significant for
+unmentioned alternatives, but these were slower than unrelated probes in the focused condition
+only (which corrects for a possible effect of responses to subject clefts, i.e., unfocused object,
+being slower in general). Furthermore, we saw that responses to mentioned alternatives were
+significantly faster than unmentioned when the object was unfocused but not when it was
+focused. This is consistent with the object focus-marking strengthening activation of all alternatives, and therefore making it harder to distinguish mentioned from unmentioned, in the latter
+case but not the former.
+Experiment 1 investigated the role of focus-marking in the immediate processing of focused
+words and their alternatives in Samoan. As reviewed in section 1.3, focus-marking has also been
+shown to affect activation and memory longer-term, that is, after a delay in which other utterances
+are heard. Experiment 2 in the following section sets out to investigate this.
+
+4
+
+Experiment 2: delayed recognition task
+
+Experiment 2 used an adapted version of the delayed recall task from Spalek et al. (2014) to investigate the role of focus-marking in memory for referents and their mentioned and unmentioned
+alternatives in discourse contexts in Samoan (see also Birch et al., 2000; Birch & Garnsey, 1995;
+Gotzner, 2017). Participants heard the same narratives from Experiment 1, however, this time in
+blocks of six. In Spalek et al. (2014), the task was to recall the mentioned referents. Here, we again
+used probe recognition, as we wished to investigate recognition of mentioned and unmentioned
+alternatives. As far as we are aware, this is a novel adaptation with this task. We predicted participants would be more accurate and faster at recognizing object words and their mentioned alternatives if they were focus-marked, as focus-marking enhances encoding of the alternative set,
+including at least mentioned alternatives (Birch et al., 2000; Birch & Garnsey, 1995; Fraundorf
+et al., 2010; Spalek et al., 2014). For unmentioned alternatives, if the whole alternative set retains
+some activation in delayed processing, these should be harder to correctly reject, but if it does not,
+these should be similar to unrelated controls.
+
+4.1 Method
+4.1.1 Participants. There were 54 participants who took part in Experiment 2 after completing
+Experiment 1 in the same experiment session (see section 3.1.1).
+
+192
+
+Language and Speech 66(1)
+
+4.1.2 Materials and design. The materials used were the same as in Experiment 1, see section 3.1.2.
+The design of the materials was also the same, including the division of items into eight lists.
+4.1.3 Procedure. The procedure was the same as in Experiment 1 (see section 3.1.3), except for the
+following differences. Participants were told that they would hear six stories in a row, that they
+needed to listen carefully to and try to remember. At the end of each block of six stories, they would
+be shown a series of six words relating to the six stories in turn. They had to press the appropriate
+key to indicate whether that word was in one of the stories they just heard.
+The presentation of each story was the same as in Experiment 1. There was a 1000 ms pause
+after each story during which the screen was blank. At the end of each block of six stories (approximately 2 min), there was a screen asking the participants to press any key when they were ready to
+start the word recognition. The six probe words were then presented in succession. Each was preceded by the hand-drawn Samoan woman's face for 1000 ms, to cue each story in the preceding
+block. After this, the probe word appeared in the middle of the screen (replacing the picture), and
+participants had to press the appropriate key as to whether they had heard the word in one of the
+stories.
+Before the main experiment, there were two practice blocks of six stories each. In the practice
+trials, participants were given feedback on whether their response was correct. In the first practice
+block, if a participant did not respond within 1500 ms, they heard a beep to encourage them to
+respond more quickly, although they could still respond after this. For the second practice block, if
+the participant took longer than 1000 ms to respond, they received an encouragement to respond
+more quickly. If they did not respond within 4000 ms, the experiment moved on to the next trial.
+After each block of stories + probes (including the practices) participants heard a 7s recording of
+lively traditional Samoan drumming. In piloting, it was found this was helpful to clear participant's
+minds of the previous block of stories before hearing the next, and to keep their energy up. After
+the recording, participants could restart when they were ready.
+There were 10 blocks of 6 stories plus 6 probes: each 4 critical and 2 filler items. For each of the
+8 lists, the grouping of stories into blocks was systematically varied, and the stories were presented
+in a fixed random order in each block. This was because, as the order of stories and probes in each
+block needed to match, it was not practical to randomly vary the order of stories by participant.
+
+4.2 Results
+A total of 2157 responses were recorded from 54 participants. There were 3 trials without responses,
+from different participants. Response times less than 200 ms were excluded as this would be too fast
+for a genuine response to the stimulus. One participant's response time was less than 200 ms for
+18/40 stimuli; as this is likely to indicate insufficient attention to the task, all their responses were
+excluded (plus 28 further exclusions from other participants). This left 2089 responses for analysis.
+Both the response accuracy, and the response times for correct responses, were analyzed.
+4.2.1 Accuracy. Overall accuracy was 69.7%, ranging from 35% to 89.7%. Four participants whose
+accuracy was 50% or less were excluded as they were outliers compared to the accuracy of the
+other participants (more than 2 s.d. below the mean) suggesting their responses may not be sufficiently reliable. This left 1930 responses for analysis.
+A mixed effect logistic regression model was built to investigate the effect of Focus condition
+(focused, unfocused) and Probe condition (object, mentioned, unmentioned, unrelated) on accuracy using the lme4 package. In the initial model, fixed effects were Focus and Probe condition
+and their interaction and the position of the trial in the experiment, with random intercepts
+
+Calhoun et al.
+
+193
+
+Table 4. ANOVA Table of the Final Model for RTs in Experiment 2.
+
+ProbeCond
+FocCond
+TrialPosition
+ProbeCond: FocCond
+
+2
+
+Df
+
+Pr(>2)
+
+27.44
+0.34
+28.30
+5.16
+
+3.00
+1.00
+1.00
+3.00
+
+<0.001
+0.557
+<0.001
+0.161
+
+of participant and probe word. The final model included Probe condition as the only factor that
+significantly improved the model (2= 40.7, p < .001), and participant and probe word as random
+intercepts. Focus condition and the interaction of Focus and Probe, were not significant, nor was
+trial.
+Estimates were extracted from the model using the effects package. This showed accuracy was
+higher for unmentioned (79.3%) and unrelated (82.9%) probes, lower for object probes (72.4%),
+and lowest for mentioned probes (58.9%). Post hoc tests conducted using the emmeans package,
+with the FDR adjustment, showed that unmentioned and unrelated probes were not significantly
+different from each other, object probes were significantly different from unrelated and marginally
+significantly different to unmentioned, and mentioned significantly different from all the other
+types (unrelated-unmentioned: p = .27; object-unrelated: z = -2.9, p = .005; object-unmentioned:
+z = -1.9, p = .077; object-mentioned: z = 3.1, p = .004; unrelated-mentioned: z = -5.9, p < .001; mentioned-unmentioned: z = -1.2, p < .001).
+4.2.2 Response time. For the analysis of response times (RTs), only correct responses were included,
+a total of 1387. As the RTs were not normally distributed, a log transform was applied, which was
+the best transform out of no transform, inverse normal, no transform and inverse square root. Linear mixed effects modeling was used to evaluate the effect of Focus and Probe condition on RTs.
+The initial model included Focus and Probe condition, their interaction and the position of the trial
+in the experiment as fixed effects, as well as a random slope for the Focus-Probe interaction by
+participant and a random intercept for probe word. The step function in the lmerTest package was
+used to remove non-significant effects. Models including the interaction of Focus, Probe and each
+of participant gender, age and language dominance score were also each tested using step but none
+of these factors, or their sub-interactions or simple effects, were significant. An ANOVA of the
+fixed effects in the final model is shown in Table 4; while the interaction of Focus and Probe condition was not significant, it is retained in the model as it is of central theoretical interest. A random
+slope of probe condition by participant was retained by step, but the model did not converge so it
+was removed. The final model included random intercepts for participant and probe word.
+Figure 3 shows the estimated RTs from the model extracted using effects and plotted using
+ggplot2. As can be seen, responses were generally faster for object and mentioned probes than
+unmentioned and unrelated. There seem to be small effects of focus, in that focus-marking facilitated response time for object and mentioned probes, and slowed responses for unmentioned, with
+no effect on unrelated. The model also included an effect of the position of the trial, which showed
+that on average participants got slightly faster over the course of the experiment (  = -0.002,
+SE = 0, t = -5.32).
+Planned comparisons were carried out to explore the Focus-Probe condition interaction using
+emmeans, with the FDR correction. The first set of comparisons looked at the effect of focus by
+probe type, and showed that none of the differences between the focused and unfocused condition
+by probe type were significant (p > .1). The second set of comparisons compared each probe type
+
+194
+
+Language and Speech 66(1)
+
+Figure 3. Back-transformed fitted RTs in milliseconds by Focus and Probe condition in Experiment 2.
+Error bars show standard error of the means.
+
+to the control, unrelated probes, in the same focus condition. These comparisons showed object
+probes were recognized faster than unrelated regardless of focus (focus: t = -3.5, p = .003; unfocused: t = -2.4, p = .041). Mentioned probes were also recognized faster than unrelated, but only in
+the focus condition (t = -2.7, p = .023). No other comparisons with unrelated probes within the
+same focus condition were significant (p > .1). The final comparisons looked at whether there was
+a difference between mentioned and unmentioned probes: it was found that mentioned probes were
+recognized significantly faster than unmentioned in the focused condition (t = -3.7, p = .002), but
+not unfocused (p = .24).
+
+4.3 Summary
+Experiment 2 used a delayed recognition task to explore the effect of focus-marking on the object
+in the critical sentence on the memory for object probes and their mentioned and unmentioned
+alternatives in a preceding narrative. It was predicted that focus-marking would strengthen the
+memory for focused words, their mentioned alternatives and the alternative set, which should make
+
+Calhoun et al.
+
+195
+
+it easier for participants to correctly recognize object probes and their mentioned alternatives, and
+harder to correctly reject unmentioned alternatives. In terms of accuracy, participants found it
+harder to correctly recognize object and mentioned probes, compared to correctly rejecting unmentioned and unrelated probes. Accuracy was higher for object than mentioned probes, likely because
+they occurred later in the narratives. Like in Experiment 1, there was no effect of focus-marking on
+accuracy, which was different to previous studies for object probes (Birch & Garnsey, 1995;
+Kember et al., 2021). There was also no effect of focus-marking on accuracy of recognition of
+alternatives, unlike some previous studies (Fraundorf et al., 2010; Spalek et al., 2014; Tjuka et al.,
+2020), see further next section.
+For response time, we found the opposite trend for probe type than with accuracy, that is, participants were faster to respond to object and mentioned probes, and slower for unmentioned and
+unrelated. In terms of focus-marking, we saw some predicted effects. For object probes, a weak
+tendency for faster responses in the focused condition was found (see Figure 3); although this was
+not significant. Mentioned probes were recognized faster when the object was focused, but not
+when it was not, in the comparison with unrelated probes. For unmentioned probes, there was a
+tendency for slower responses in the focused condition, but this was not significant. However,
+mentioned probes were recognized faster than unmentioned in the focus condition, but not unfocused. These findings are most consistent with the proposal that the whole alternative set retains
+some activation in later processing (but less than the mentioned alternatives), and unmentioned
+alternatives are therefore harder to correctly reject; however, the comparison with unrelated probes
+did not reach significance. This may have been partly because, as there were less correct responses
+than in Experiment 1, the experiment had less power. However, the other view, that only mentioned
+alternatives are active in later processing, cannot be ruled out with these results.
+
+5
+
+Discussion
+
+This paper reported on two experiments looking at the effect of focus-marking on the immediate
+and delayed recognition of object referents and their alternatives in Samoan. Focus-marking is
+predicted to strengthen activation of focused words and their alternatives in a discourse, and aid
+longer-term recognition. In the experiments, participants heard short narratives which ended in a
+critical sentence in which the object was one of a set, which had two mentioned alternatives earlier
+in the narrative. The object was either focus-marked, with the `o-fronting construction, or unfocused. The participants then saw a probe word which was one of the object word, a mentioned or
+unmentioned alternative or an unrelated word, and had to respond as quickly as possible whether
+the word was in the narrative. In the first experiment, testing focus effects in immediate processing,
+participants heard one narrative at a time. It was shown that, contrary to predictions, focus-marking
+had no effect on the accuracy or speed of recognition of object referents. However, in line with
+predictions, mentioned and unmentioned alternatives were recognized more slowly when the
+object was focus-marked (mentioned in comparison with unfocused and unmentioned, unmentioned in comparison with unrelated). This is consistent with focus-marking strengthening activation of the alternative set, making it harder to distinguish between mentioned and unmentioned
+alternatives in immediate processing. In the second experiment, testing focus effects in longer-term
+processing, participants heard blocks of six narratives at a time. In this experiment, object words
+were recognized numerically faster when they were focus-marked than not, but this was not significant. In line with predictions, mentioned alternatives were recognized faster (in comparison
+with unmentioned and unrelated). This is consistent with focus-marking enhancing longer term
+memory of mentioned alternatives in the alternative set. For unmentioned alternatives, these were
+correctly rejected significantly slower than mentioned when they were focus-marked, and
+
+196
+
+Language and Speech 66(1)
+
+numerically slower than unrelated, though the latter did not reach significance. These findings are
+most consistent with the whole alternative set retaining some activation in later processing (though
+less than mentioned alternatives), making these harder to reject. Overall, results of the experiments
+were broadly consistent with previous research, carried out mainly on Western Germanic languages, on the effect of focus-marking on the immediate and delayed recognition of alternatives in
+discourse; showing for the first time these effects in the under-studied language Samoan.
+To our knowledge, this is the first time that experimental evidence consistent with focusmarking as indicating the presence of alternatives has been shown for focus marked syntactically
+in a language in which syntactic focus-marking is thought to be primary. While previous research
+has indicated the clefted constituent is also the most prosodically prominent in Samoan (Calhoun,
+2015), our previous study showed the syntactic cue is perceptually much more important
+(Calhoun et al., 2021), that is, we found that prominence placement does not affect focus judgments in cleft sentences, where focus is consistently judged to be on the cleft head (see section
+1.1). This strengthens the argument that it is focus-marking which drives the alternatives effect,
+rather than, increased acoustic salience associated with prosodic prominence leading to stronger
+encoding, or lexically specific effects related to particular focus particles or constructions. For
+example, while these focus effects have been found using cleft structures in English, these are
+not primary focus markers in that language, so they give rise to extra meaning effects, namely a
+presupposition of the material in the cleft (see section 1.1), which could conceivably drive the
+processing effects. This is not the case in Samoan, however, where cleft structures are the primary means of marking focus, and they are not reported to have these extra meaning effects (see
+section 1.1). Therefore, these findings are consistent with focus-marking itself indicating the
+presence of alternatives relevant to interpretation, while the type and strength of the focusmarking and the context affects the pragmatic availability of different alternatives (see section
+1.1 and Calhoun, 2009, 2010).
+These results contribute to an emerging picture of the effect of focus on activating alternatives
+(see references in section 1). Focus-marking triggers a search for alternatives to the focused word,
+which are likely to be relevant to the interpretation of the utterance and the ongoing discourse (see
+Gotzner & Spalek, 2019). This activates a set of alternatives, which includes at least contextually
+plausible alternatives, whether mentioned or not (the set may be wider than this, see section 1.1).
+Other semantically associated words may be initially activated as part of general lexical activation
+processes, but this activation weakens quickly as the focus-marking indicates they are not relevant
+to further interpretation. Evidence from eye-tracking studies suggests that alternatives can be predictively activated by focus-marking, though to our knowledge this has not yet been explored in
+tasks where the alternatives are not visually available. Activation of the alternative set makes it
+more difficult to distinguish mentioned and unmentioned alternatives in immediate processing, as
+our results and studies reviewed in section 1.2 show. That is, in immediate processing, all alternatives are activated, creating interference in distinguishing those that had been already mentioned.
+In longer term processing, focus-marking triggers further resolution and encoding of the alternative set, given that this set is likely to be relevant to the upcoming discourse (see Gotzner & Spalek,
+2019). The focused word and mentioned alternatives remain activated in the mental model of the
+discourse. This makes mentioned alternatives easier to recall and quicker to recognize when the
+target is focus-marked, as our results and those reviewed in section 1.3 show. As for the wider
+alternative set, including unmentioned alternatives, our results, and those in Yan et al. (submitted),
+indicate that these can be activated in later processing as well, slowing down correct rejection of
+unmentioned alternatives. We suggest that it is the alternative set itself which is stored, for example,
+for (1), people who could have eaten the cake, rather than all of the members, so that in a recognition task this still causes interference as the unmentioned alternatives are recognized as being part
+
+Calhoun et al.
+
+197
+
+of an active alternative set, but then need to be checked as not being one of its active members.
+Further research is needed on this point, however.
+Our results help to substantiate the assumption in much of this work that these focus effects are
+common to speech processing across languages, with differences between languages lying in how
+focus is marked, and the relative importance of different focus markers (Kember et al., 2021; Yan,
+2020; Yan & Calhoun, 2019). We have shown similar focus effects to those previous shown mainly
+for Western Germanic languages in Samoan, an understudied language unrelated to any in this
+literature (to our knowledge). This builds on a number of recent studies widening the range of
+languages studied in relation to focus processing (Kember et al., 2021; Tjuka et al., 2020; Yan &
+Calhoun, 2019, 2020; Yan et al., submitted).
+In general, the pattern of results in the two experiments reported here for Samoan was similar to
+those found in previous experiments, mostly on Germanic languages, in line with the expected
+effects of focus-marking on processing of referents (see section 1). However, there were some
+comparisons in which null results were found, or not all relevant comparisons reached significance. We believe these are due to differences in the designs of the experiments, rather than crosslinguistic differences in the effect of focus on speech processing. In Experiment 1, no effect of
+focus-marking was found on the speed of recognition of object referents; different to previous
+experiments in English (Birch et al., 2000; Birch & Garnsey, 1995; Gernsbacher & Jescheniak,
+1995). Similarly, in Experiment 2, there was only a non-significant trend for focus-marked objects
+to be recognized more quickly, and there was no effect on accuracy. One reason for this could have
+been that in the "not focused" condition, the object word was sentence final (see Table 1), that is,
+immediately before the presentation of the probe in Experiment 1. The processing advantage of
+recency could therefore have obscured the processing advantage of focus in the comparison with
+the focused condition, potentially in both experiments. In Gernsbacher and Jescheniak (1995), this
+was avoided by having a filler phrase (`n y'know, see (4)) after the key word. We wished to avoid
+this here as Gotzner (2017, ch. 6) showed having a filler sentence after the critical sentence was
+sufficient to make recognition like longer term memory (with a processing advantage for mentioned referents), and we wished to measure immediate processing in this experiment. In Birch and
+Garnsey (1995), the positional effect was avoided by comparing key words in two very different
+constructions (see (6)). This was less viable as the focus properties of different available constructions in Samoan are much less studied, so we could have introduced other unwanted confounds. It
+is less clear why there was no significant effect of focus-marking on memory for object words for
+either accuracy or response time, unlike previous studies in English and Korean (Birch et al., 2000;
+Birch & Garnsey, 1995; Kember et al., 2021); although there was a numerical trend in the predicted
+direction for response time. One possible explanation is insufficient power in this experiment,
+because only correct responses were included.
+In Experiment 1, the effect of focus-marking on recognition of mentioned and unmentioned
+alternatives was very similar to that found by Gotzner et al. (2016) for German (although those
+authors do not present planned comparison tests). This is despite Gotzner et al. (2016) comparing
+the effect of focus particles (e.g., only) to words marked with "neutral" accents (which arguably
+can encode focus); while here we compared syntactic focus-marking to no marking (focus-marking
+on a different constituent). However, in Experiment 2, we did not find an effect of focus-marking
+on accuracy for delayed recognition of alternatives, unlike some previous studies (Fraundorf et al.,
+2010; Spalek et al., 2014; Tjuka et al., 2020). The task used in those studies was different, however,
+in Spalek et al. (2014) and Tjuka et al. (2020) participants were asked to freely recall mentioned
+referents, rather than respond to a probe, whereas in Fraundorf et al. (2010) participants had to
+verify which of two mentioned referents was used in a particular sentence. For the probe recognition task, response time is likely to be a more sensitive measure than accuracy, as it is a continuous
+
+198
+
+Language and Speech 66(1)
+
+rather than binary variable, and we show a similar pattern across conditions with this measure to
+the previous studies with accuracy (Fraundorf et al., 2010, do not report response times).
+In conclusion, across languages, focus-marking plays a key role in indicating the presence of
+alternatives which are relevant to the interpretation of the utterance. Therefore, appropriate processing of focus-marking is important to successful comprehension in discourse contexts, and integration of focused information into the discourse model. Our study has shown key psycholinguistic
+evidence for syntactic focus-marking strengthening the activation of alternatives in spoken narratives in Samoan. It is hoped that this will help motivate further studies looking at the processing
+effects of focus in diverse languages, to broaden the cross-linguistic basis of evidence in this area.
+Acknowledgements
+Thanks to Associate Editor Petra Schumacher and two anonymous reviewers for detailed and insightful comments on earlier drafts of this paper. Fa'afetai lava/thanks very much to Niusila Faamanatu-Eteuati for her
+help constructing the Samoan materials. Also to Tofilau Dr. Faguele Suaalii and the staff in the Faculties of
+Arts and Education at the National University of Samoa for being wonderful hosts to the first author and for
+help in recruiting participants. Fa'afetai/thanks to all the participants for taking part.
+
+Funding
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This work was supported by the Marsden Fund Council (grant number 15-VUW-015) from
+New Zealand Government funding, managed by the Royal Society Te Aprangi.
+
+ORCID iDs
+Sasha Calhoun
+
+https://orcid.org/0000-0002-6381-3215
+
+Mengzhu Yan
+
+https://orcid.org/0000-0003-3201-8152
+
+Supplemental material
+Supplemental material for this article is available online.
+
+Notes
+1.
+
+2.
+
+In this paper we follow Samoan orthography, where most letters are equivalent to the IPA symbol,
+except < V > = /V:/, <`> = // and < g > = //. Abbreviations in the morpheme glosses are (largely following Mosel and Hovdhaugen (1992, p. xix)): DET = determiner, ERG = ergative, PAST = past tense,
+PRES = presentative.
+Samoan is morphologically ergative. In a transitive sentence the patient is unmarked for case while the
+agent takes the particle e (Mosel & Hovdhaugen, 1992). There are a large number of verbs which show
+transitive morphology in English, but intransitive in Samoan (e.g., va'ai "see"). These were avoided.
+
+References
+Akker, E., & Cutler, A. (2003). Prosodic cues to semantic structure in native and nonnative listening.
+Bilingualism: Language and Cognition, 6(2), 81-96. https://doi.org/10.1017/S1366728903001056
+Bates, D., Machler, M., Bolker, B., & Walker, S. (2015). Fitting linear mixed-effects models using lme4.
+Journal of Statistical Software, 67(1), 1-48. https://doi.org/10.18637/jss.v067.i01
+Beaver, D., & Clark, B. (2008). Sense and sensitivity: How focus determines meaning. Blackwell.
+Beck, S. (2016). Focus sensitive operators. In C. Fery & S. Ishihara (Eds.), The Oxford handbook of information structure. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199642670.013.007
+Birch, S. L., Albrecht, J. E., & Myers, J. L. (2000). Syntactic focusing structures influence discourse processings. Discourse Processes, 30(3), 285-304. https://doi.org/10.1207/S15326950dp3003_4
+
+Calhoun et al.
+
+199
+
+Birch, S. L., & Garnsey, S. M. (1995). The effect of focus on memory for words in sentences. Journal of
+Memory and Language, 34(2), 232-267. https://doi.org/10.1006/jmla.1995.1011
+Birdsong, D., Gertken, L., & Amengual, M. (2012, January). Bilingual Language Profile: An easy-to-use
+instrument to assess bilingualism. https://sites.la.utexas.edu/bilingual/, COERLL, University of Texas
+at Austin
+Boersma, P., & Weenink, D. (2018). Praat: Doing phonetics by computer (version 6.0.37) [Computer program]. http://www.praat.org
+Bolinger, D. (1965). Forms of English: Accent, morpheme and order. Harvard University Press.
+Braun, B., Asano, Y., & Dehe, N. (2019). When (not) to look for contrastive alternatives: The role of pitch
+accent type and additive particles. Language and Speech, 62(4), 751-778. https://doi.org/10.1177
+/0023830918814279
+Braun, B., & Biezma, M. (2019). Prenuclear L*+H activates alternatives for the accented word. Frontiers in
+Psychology, 10, Article 1993. https://doi.org/10.3389/fpsyg.2019.01993
+Braun, B., & Tagliapietra, L. (2010). The role of contrastive intonation contours in the retrieval of contextual alternatives. Language and Cognitive Processes, 25(7-9), 1024-1043. https://doi.org/10.1080
+/01690960903036836
+Brown, J., & Koch, K. (2016). Focus and change in Polynesian languages. Australian Journal of Linguistics,
+36, 304-349. https://doi.org/10.1080/07268602.2015.1134298
+Calhoun, S. (2009). What makes a word contrastive: Prosodic, semantic and pragmatic perspectives. In D.
+Barth-Weingarten, N. Dehe, & A. Wichmann (Eds.), Where prosody meets pragmatics: Research at the
+interface (pp. 53-78). Emerald.
+Calhoun, S. (2010). The centrality of metrical structure in signaling information structure: A probabilistic
+perspective. Language, 86, 1-42. https://doi.org/10.1353/lan.0.0197
+Calhoun, S. (2015). The interaction of prosody and syntax in Samoan focus marking. Lingua, 165B, 205-229.
+https://doi.org/10.1016/j.lingua.2014.11.007
+Calhoun, S. (2017). Exclusives, equatives and prosodic phrases in Samoan. Glossa: A Journal of General
+Linguistics, 2(1), Article 11. https://doi.org/10.5334/gjgl.196
+Calhoun, S., Wollum, E., & Kruse Va'ai, E. (2021). Prosodic prominence and focus: Expectation affects
+interpretation in Samoan and English. Language and Speech, 64, 346-380. https://doi.org/10.1177
+/0023830919890362
+Chafe, W. (1976). Givenness, contrastiveness, definiteness, subjects, topics, and point of view. In C. N. Li
+(Ed.), Subject and topic (pp. 25-55). Academic Press.
+Cutler, A. (1976). Phoneme-monitoring reaction time as a function of preceding intonation contour. Attention,
+Perception, & Psychophysics, 20(1), 55-60. https://doi.org/10.3758/BF03198706
+Cutler, A., Dahan, A., & van Donselaar, W. (1997). Prosody in the comprehension of spoken language: A
+literature review. Language and Speech, 40(2), 141-201.
+Cutler, A., & Fodor, J. A. (1979). Semantic focus and sentence comprehension. Cognition, 7(1), 49-59.
+https://doi.org/10.1016/0010-0277(79)90010-6
+Dahan, D., Tanenhaus, M. K., & Chambers, C. G. (2002). Accent and reference resolution in spoken-language
+comprehension. Journal of Memory and Language, 47(2), 292-314. https://doi.org/10.1016/S0749596X(02)00001-3
+Dennison, H. Y. (2010). Processing implied meaning through contrastive prosody [PhD thesis, University of
+Hawai'i at Mnoa].
+Fanselow, G., Fery, C., & Ishihara, S. (2016). Syntactic and prosodic reflexes of information structure in
+Germanic. In C. Fery & S. Ishihara (Eds.), The Oxford handbook of information structure. Oxford
+University Press. https://doi.org/10.1093/oxfordhb/9780199642670.013.40
+Fery, C., & Ishihara, S. (Eds.). (2016). The Oxford handbook of information structure. Oxford University
+Press.
+Fox, J. (2003). Effect displays in R for generalised linear models. Journal of Statistical Software, 8(15), 1-27.
+Fraundorf, S. H., Benjamin, A. S., & Watson, D. G. (2013). What happened (and what did not): Discourse
+constraints on encoding of plausible alternatives. Journal of Memory and Language, 69(3), 196-227.
+https://doi.org/10.1016/j.jml.2013.06.003
+
+200
+
+Language and Speech 66(1)
+
+Fraundorf, S. H., Watson, D. G., & Benjamin, A. S. (2010). Recognition memory reveals just how
+CONTRASTIVE contrastive accenting really is. Journal of Memory and Language, 63(3), 367-386.
+https://doi.org/10.1016/j.jml.2010.06.004
+Gernsbacher, M. A., & Jescheniak, J. D. (1995). Cataphoric devices in spoken discourse. Cognitive
+Psychology, 29(1), 24-58. https://doi.org/10.1006/cogp.1995.1011
+Glenberg, A., Meyer, M., & Lindem, K. (1987). Mental models contribute to foregrounding during text comprehension. Journal of Memory and Language, 26(1), 69-83.
+Goodhue, D. (2022). All focus is contrastive: On polarity (verum) focus, answer focus, contrastive focus and
+givenness. Journal of Semantics, 39, 117-158. https://doi.org/10.1093/jos/ffab018
+Gotzner, N. (2017). Alternative sets in language processing. Springer International Publishing. https://doi.
+org/10.1007/978-3-319-52761-1
+Gotzner, N., & Spalek, K. (2019). The life and times of focus alternatives: Tracing the activation of alternatives to a focused constituent in language comprehension. Language and Linguistics Compass, 13(2),
+Article e12310. https://doi.org/10.1111/lnc3.12310
+Gotzner, N., Wartenburger, I., & Spalek, K. (2016). The impact of focus particles on the recognition and
+rejection of contrastive alternatives. Language and Cognition, 8(1), 59-95. https://doi.org/10.1017/langcog.2015.25
+Hunkin, G. A. (2001). A corpus of contemporary colloquial Samoan [MA thesis, Victoria University of
+Wellington].
+Husband, E. M., & Ferreira, F. (2016). The role of selection in the comprehension of focus alternatives.
+Language, Cognition and Neuroscience, 31(2), 217-235. https://doi.org/10.1080/23273798.2015.1083
+113
+Ip, M. H. K., & Cutler, A. (2020). Universals of listening: Equivalent prosodic entrainment in tone and nontone languages. Cognition, 202, Article 104311. https://doi.org/10.1016/j.cognition.2020.104311
+Ito, K., & Speer, S. R. (2008). Anticipatory effects of intonation: Eye movements during instructed visual
+search. Journal of Memory and Language, 58(2), 541-573. https://doi.org/10.1016/j.jml.2007.06.013
+Katzir, R. (2013). A note on contrast. Natural Language Semantics, 21, 333-343.
+Kember, H., Choi, J., Yu, J., & Cutler, A. (2021). The processing of linguistic prominence. Language and
+Speech, 64, 413-436. https://doi.org/10.1177/0023830919880217
+Kim, C. S., Gunlogson, C., Tanenhaus, M. K., & Runner, J. T. (2015). Context-driven expectations about
+focus alternatives. Cognition, 139, 28-49. https://doi.org/10.1016/j.cognition.2015.02.009
+Krifka, M. (2008). Basic notions of information structure. Acta Linguistica Hungarica, 55, 243-276.
+Kugler, F., & Calhoun, S. (2020). Prosodic encoding of information structure: A typological perspective. In
+C. Gussenhoven & A. Chen (Eds.), The Oxford handbook of language prosody (pp. 454-467). Oxford
+University Press.
+Kurumada, C., Brown, M., Bibyk, S., Pontillo, D. F., & Tanenhaus, M. K. (2014). Is it or isn't it: Listeners make
+rapid use of prosody to infer speaker meanings. Cognition, 133(2), 335-342. https://doi.org/10.1016/j.
+cognition.2014.05.017
+Kuznetsova, A., Brockhoff, P. B., & Christensen, R. H. B. (2017). lmerTest package: Tests in linear mixed
+effects models. Journal of Statistical Software, 82(13), 1-26. https://doi.org/10.18637/jss.v082.i13
+Lambrecht, K. (2001). A framework for the analysis of cleft constructions. Linguistics, 39(3), 463-516.
+Lenth, R. (2020). emmeans: Estimated marginal means, aka least-squares means (R package version 1.4.8)
+[Computer software manual]. https://github.com/rvlenth/emmeans
+Mathot, S., Schreij, D., & Theeuwes, J. (2012). Opensesame: An open-source, graphical experiment builder
+for the social sciences. Behavior Research Methods, 44(2), 314-324.
+McKoon, G., & Ratcliff, R. (1980). The comprehension processes and memory structures involved in
+anaphoric reference. Journal of Verbal Learning and Verbal Behavior, 19(6), 668-682. https://doi.
+org/10.1016/S0022-5371(80)90355-2
+Mosel, U., & Hovdhaugen, E. (1992). Samoan reference grammar. Oxford University Press.
+Norris, D., Cutler, A., McQueen, J. M., & Butterfield, S. (2006). Phonological and conceptual activation in speech comprehension. Cognitive Psychology, 53(2), 146-193. https://doi.org/10.1016/j.
+cogpsych.2006.03.001
+
+Calhoun et al.
+
+201
+
+Onea, E. (2019). Exhaustivity in it-clefts. In C. Cummins & N. Katsos (Eds.), The Oxford handbook
+of experimental semantics and pragmatics. Oxford University Press. https://doi.org/10.1093/
+oxfordhb/9780198791768.013.17
+Orfitelli, R., & Yu, K. (2009, May 1-3). Intonational phonology of Samoan. Proceedings of the 16th
+Austronesian Formal Linguistics Association Conference, University of California, Santa Cruz.
+R Core Team. (2020). R: A language and environment for statistical computing [Computer software manual].
+https://www.R-project.org/
+Roberts, C. (1996). Information structure in discourse: Towards an integrated formal theory of pragmatics. In
+J. H. Yoon & A. Kathol (Eds.), OSU working papers in linguistics No. 49 (pp. 91-136). The Ohio State
+University. (Revised version in Semantics and Pragmatics, 5, 1-69, 2012.)
+Rooth, M. (1985). Association with focus [Unpublished doctoral dissertation]. MIT, Cambridge, MA.
+Rooth, M. (1992). A theory of focus intepretation. Natural Language Semantics, 1, 75-116.
+Spalek, K., Gotzner, N., & Wartenburger, I. (2014). Not only the apples: Focus sensitive particles improve
+memory for information-structural alternatives. Journal of Memory and Language, 70, 68-84. https://
+doi.org/10.1016/j.jml.2013.09.001
+Swinney, D. A., Onifer, W., Prather, P., & Hirshkowitz, M. (1979). Semantic facilitation across sensory
+modalities in the processing of individual words and sentences. Memory & Cognition, 7(3), 159-165.
+https://doi.org/10.3758/BF03197534
+Tjuka, A., Nguyen, H. T. T., & Spalek, K. (2020). Foxes, deer, and hedgehogs: The recall of focus alternatives
+in Vietnamese. Laboratory Phonology: Journal of the Association for Laboratory Phonology, 11(1),
+Article 16. https://doi.org/10.5334/labphon.253
+Vallduvi, E. (2016). Information structure. In M. Aloni & P. Dekker (Eds.), The Cambridge handbook of
+formal semantics (pp. 728-755). Cambridge University Press.
+Ventura, C., Grice, M., Savino, M., Kolev, D., Brilmayer, I., & Schumacher, P. (2020). Attention allocation in a language with post-focal prominences. NeuroReport, 31, 624-628. https://doi.org/10.1097/
+WNR.0000000000001453
+Wagner, M. (2005). Prosody and recursion [Unpublished doctoral dissertation]. MIT, Cambridge, MA.
+Wang, L., Bastiaansen, M., Yang, Y., & Hagoort, P. (2010). The influence of information structure on
+the depth of semantic processing: How focus and pitch accent determine the size of the n400 effect.
+Neuropsychologia, 49, 813-820. https://doi.org/10.1016/j.neuropsychologia.2010.12.035
+Watson, D. G., Tanenhaus, M. K., & Gunlogson, C. A. (2008). Interpreting pitch accents in online comprehension: H* vs. L+ H*. Cognitive Science, 32(7), 1232-1244. https://doi.org/10.1080/03640210802138755
+Weber, A., Braun, B., & Crocker, M. W. (2006). Finding referents in time: Eye-tracking evidence for the role
+of contrastive accents. Language and Speech, 49(3), 367-392. https://doi.org/10.1177/0023830906049
+0030301
+Wickham, H. (2016). ggplot2: Elegant graphics for data analysis. Springer-Verlag. https://ggplot2.
+tidyverse.org
+Yan, M. (2020). Prosodic and syntactic focus in speech processing in Mandarin Chinese (PhD thesis, Victoria
+University of Wellington). http://researcharchive.vuw.ac.nz/handle/10063/8963
+Yan, M., & Calhoun, S. (2019). Priming effects of focus in Mandarin Chinese. Frontiers in Psychology, 10,
+Article 1985. https://doi.org/10.3389/fpsyg.2019.01985
+Yan, M., & Calhoun, S. (2020). Rejecting false alternatives in Chinese and English: The interaction of
+prosody, clefting, and default focus position. Laboratory Phonology: Journal of the Association for
+Laboratory Phonology, 11(1), Article 17. https://doi.org/10.5334/labphon.255
+Yan, M., Calhoun, S., & Warren, P. (submitted). The role of prominence in activating focused words and their
+alternatives in Mandarin: Evidence from lexical priming and recognition memory.
+Yu, K. (2021). Tonal marking of absolutive case in Samoan. Natural Language & Linguistic Theory, 39,
+291-365. https://doi.org/10.1007/s11049-020-09470-2
+Yu, K., & Stabler, E. (2017). (In)variability in the Samoan syntax/prosody interface and consequences for
+syntactic parsing. Laboratory Phonology, 8(1), Article 185. https://doi.org/10.5334/labphon.113
+
+

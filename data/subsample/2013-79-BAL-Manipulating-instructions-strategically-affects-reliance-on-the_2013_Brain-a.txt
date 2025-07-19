@@ -1,0 +1,1086 @@
+Brain & Language 125 (2013) 203-214
+
+Contents lists available at SciVerse ScienceDirect
+
+Brain & Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Manipulating instructions strategically affects reliance on the ventral-lexical
+reading stream: Converging evidence from neuroimaging and reaction time
+Jacqueline Cummine a,b, Layla Gould c, Crystal Zhou b, Stan Hrybouski b, Zohaib Siddiqi b, Brea Chouinard a,
+Ron Borowsky c,
+a
+b
+c
+
+Department of Speech Pathology and Audiology, University of Alberta, Edmonton, Alberta, Canada T6G 2G4
+Centre for Neuroscience, University of Alberta, Edmonton, Alberta, Canada T6G 2G4
+Department of Psychology, University of Saskatchewan, Saskatoon, Saskatchewan, Canada S7N 5A5
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Available online 24 May 2012
+Keywords:
+Ventral-lexical
+Dorsal-sublexical
+Visual processing streams
+Reading
+Naming RT
+fMRI
+
+a b s t r a c t
+Neurobiology of reading research has yet to explore whether reliance on the ventral-lexical stream during word reading can be enhanced by the instructed reading strategy, or whether it is impervious to such
+strategies. We examined Instructions: name all vs. name words (based on spelling), Word Type: regular
+words vs. exception words, and Word Frequency (WF) in print (log10 HAL WF) in an experiment while measuring fMRI BOLD and overt naming reaction time (RT) simultaneously. Instructions to name words
+increased overall reliance on the ventral-lexical stream, as measured by visible BOLD activation and
+the WF effect on RT, with regular words showing the greatest effects as a function of this reading strategy.
+Furthermore, the pattern of joint effects of these variables on RT supports the notion of cascaded, not parallel, processing. These results can be accommodated by dual-stream cascaded models of reading, and
+present a challenge to single-mechanism parallel processing models.
+O 2012 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Many neurobiological models of basic reading processes subscribe to the notion that participants rely on the ventral visual processing stream while reading aloud familiar words for which they
+have a whole-word/lexical representation, and that the dorsal visual processing stream is relied on while participants read aloud
+unfamiliar letter strings that they must `sound out' using sublexical
+serial reading strategies (Borowsky, Esopenko, Cummine, & Sarty,
+2007; Borowsky et al., 2006; Cohen, Dehaene, Vinckier, Jobert, &
+Montavont, 2008; Herbster, Mintun, Nebes, & Becker, 1997; Hickok
+& Poeppel, 2007; Indefrey & Levelt, 2004; Jobard, Crivello, & Tzourio-Mazoyer, 2003; Joubert et al., 2004; Price & Devlin, 2003).
+Words in the English language can be roughly categorized into
+two groups in terms of their mapping from orthography onto phonology as either regular words (REGs), which follow the more regular mappings (e.g., cone, gave) and thus can be read correctly
+through either stream, or exception words (EXCs), which have
+exceptional mappings (e.g., one, have) and thus can only be read
+correctly through the ventral-lexical stream. Research on basic
+reading processes commonly includes a standard naming task with
+words plus novel letter strings (or nonwords), and participants are
+
+ Corresponding author. Address: Dept. of Psychology, 9 Campus Drive, University of Saskatchewan, Saskatoon, SK, Canada S7N 5A5. Fax: +1 306 966 6630.
+E-mail address: ron.borowsky@usask.ca (R. Borowsky).
+0093-934X/$ - see front matter O 2012 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.bandl.2012.04.009
+
+required to simply name aloud all of the stimuli presented to them.
+A critical question is whether reliance on the ventral-lexical stream
+for REGs and EXCs can change as a function of reading strategy, or
+if ventral-lexical activation is a relatively involuntary process like
+simple associative memory (e.g., automatic spreading activation,
+see McNamara, 2005, for a review). Specifically, would instructions
+to only name items that spell words increase reliance on the ventral-lexical stream? Existing models of the neurobiology of reading
+have yet to consider such strategic effects. The focus of the research reported here is the extent to which the ventral-lexical
+stream is activated by REGs and EXCs when the participants are instructed to name all stimuli vs. instructions to name only items
+that spell words.
+1.1. Ventral-lexical and dorsal-sublexical streams
+The ventral-lexical stream has been associated with lexically
+based reading tasks (e.g., reading familiar words, Cohen & Dehaene,
+2009; Price, 2010; Schurz et al., 2010). This stream has been
+reported to include such regions as the inferior occipitotemporal
+region (Borowsky et al., 2006; Cohen et al., 2008; Pugh et al.,
+2000; Simos et al., 2007), the inferior temporal gyrus (Borowsky
+et al., 2006; Hickok & Poeppel, 2004; Pugh et al., 2000; Sandak
+et al., 2004) and the middle temporal gyrus (Borowsky et al.,
+2006; Hickok & Poeppel, 2004; Pugh et al., 2000; Sandak et al.,
+2004; Simos et al., 2002). In contrast, the dorsal-sublexical stream
+
+204
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+has been associated with sublexical spelling-to-sound reading
+tasks (e.g., reading unfamiliar letter strings, Cohen et al., 2008;
+Pugh et al., 2000). Regions associated with the dorsal-sublexical
+stream include the parietal lobe (particularly when a decision task
+is used) and the temporal and frontal lobes of the left hemisphere,
+specifically the posterior portion of the superior temporal gyrus
+(STG; Pugh et al., 2000; Sandak et al., 2004; Simos et al., 2002),
+the inferior parietal lobule (including the supramarginal gyrus
+and the angular gyrus, McDermott, Petersen, Watson, & Ojemann,
+2003; Newman & Joanisse, 2011; Pugh et al., 2000; Sandak et al.,
+2004; Schurz et al., 2010; Shaywitz et al., 2002), the supplementary
+motor area (SMA; Cohen et al., 2008; Cummine, Sarty, & Borowsky,
+2010), and the precentral gyrus/BA6 (Bokde, Tagamets, Friedman,
+& Horwitz, 2001; Cohen et al., 2008; Gold, Balota, Kirchhoff et al.,
+2005).
+The behavioral aspects of the ventral-lexical, dorsal-sublexical
+models of reading are based on the traditional dual-route models
+of basic reading processes (e.g., Coltheart, Curtis, Atkins, & Haller,
+1993; Coltheart, Davelaar, Jonasson, & Besner, 1977; Coltheart,
+Rastle, Perry, Langdon, & Ziegler, 2001; see also Borowsky, Owen,
+& Fonos, 1999; Owen & Borowsky, 2003, for discussion on single
+vs. dual-route models). The dual-route models postulate a lexical
+route where orthographic lexical (i.e., whole-word spelling) representations are mapped onto phonological lexical (i.e., whole-word
+sound) representations, and a sublexical route where graphemic
+(i.e., letter or groups of letter) representations are mapped onto
+the phonemic (i.e., basic speech sound) representations that they
+most commonly correspond to. The lexical route is also referred
+to as the addressed phonology route in that it is relied on to address
+correct pronunciations for words that we are familiar with (i.e.,
+sight vocabulary), whereas the sublexical route is also referred to
+as the assembled phonology route in that it can be relied on to
+assemble correct pronunciations for words as long as they have
+regular and consistent sublexical spelling-to-sound mappings
+(i.e., phonetic decoding).
+Several behavioral experiments have been reported that have
+successfully manipulated reliance on these lexical and sublexical
+pathways, supporting the notion that they are under strategic control. For example, Monsell, Patterson, Graham, Hughes, and Milroy
+(1992) reported that familiar EXC words, which can only be read
+correctly via the lexical route, were named faster and more accurately when presented with other such words than if mixed with novel nonwords, which can only be named correctly via the sublexical
+route. Other extensions of reading route reliance effects have also
+been reported in the behavioral literature (e.g., Borowsky, Owen, &
+Masson, 2002; Rastle & Coltheart, 1999; Reynolds & Besner, 2005;
+Zevin & Balota, 2000; see Balota, Yap, & Cortese, 2006 for a thorough
+review of these and other visual word recognition phenomena). Furthermore, recent neuropsychological research by Gold, Balota, Cortese et al. (2005) showed that individuals with semantic dementia
+(including loss of semantic and lexical input) rely more on the sublexical route than normal controls or individuals with Alzheimer's
+dementia. Earlier neuropsychological research has also established
+that individuals with acquired dyslexia show evidence for a double
+dissociation between the lexical and sublexical routes, where individuals with surface dyslexia have a dysfunctional lexical route
+and thus rely on their sublexical route as evidenced by intact nonword and/or REG word reading, but make regularisation errors to
+EXC words (e.g., pronouncing pint to rhyme with mint; Marshall &
+Newcombe, 1980; Shallice, Warrington, & McCarthy, 1983),
+whereas individuals with phonological dyslexia have a dysfunctional sublexical route and thus rely on their lexical route as
+evidenced by intact familiar EXC word reading, but make errors
+when trying to name nonwords (e.g., Patterson, 1982; Shallice &
+
+Warrington, 1980). This same double dissociation on route reliance
+has also been shown in the developmental reading literature (e.g.,
+Castles & Coltheart, 1993; McDougall, Borowsky, MacKinnon, &
+Hymel, 2005). We also note at this point that an alternative account
+to route reliance effects has also been proposed in the behavioral
+research literature, one which relies on a time criterion for responding that gets shifted as a function of the other types of word stimuli
+that accompany the target stimuli, and not on any change in reliance
+on the lexical and sublexical reading routes per se (Kinoshita &
+Lupker, 2002, 2003). It would seem that a functional imaging experiment that clearly demonstrates an increase (or decrease) in activation on the lexical or sublexical reading streams as a function of a
+reading strategy manipulation would support the notion of strategic
+control of reliance on that reading stream, and bring neuroimaging
+evidence to bear on this debate.
+1.2. Manipulating reliance on reading streams
+Previous work from our lab and others has demonstrated that
+the contribution of the ventral-lexical and dorsal-sublexical
+streams varies as a function of manipulating the stimuli to be read
+(e.g., Borowsky et al., 2006; Cohen et al., 2008; Cummine, Borowsky, Vakorin, Bird, & Sarty, 2008; Cummine et al., 2010). For example, using a sparse-sampling technique with a gap in image
+acquisition to allow participants to name letter strings aloud,
+Borowsky et al. showed that reading EXCs predominantly activates
+the ventral-lexical stream, whereas naming pseudohomophones
+(nonwords designed to sound like familiar words when pronounced through sublexical spelling-sound mappings, e.g., phocks)
+predominantly activates the dorsal-sublexical stream. Particularly
+important to the present work, REGs and EXCs have been used in
+varying ways to examine the contribution of the ventral-lexical
+and dorsal-sublexical streams in word recognition research (e.g.,
+Binder, Medler, Desai, Conant, & Liebenthal, 2005; Cummine
+et al., 2008, 2010). Under normal instructions, REGs have been
+shown to be read correctly by relying on ventral-lexical processing
+and/or sublexical-dorsal processing, whereas EXCs are named correctly by way of lexical-ventral processing, as sublexical reading of
+these stimuli would result in incorrect phonological codes (e.g.,
+pronouncing have to rhyme with gave). Another stimulus characteristic whose effects can be diagnostic of lexically-based reading
+is printed word frequency (WF) and the effect it has on word identification reaction time (RT). We now turn to a discussion of how
+WF effects may be used as converging evidence for when the ventral-lexical stream is being relied on during reading.
+1.3. Word frequency effect as a measure of lexical processing
+If lexical processing can be forced by instructions to name only
+the stimuli that spell words, then one way to detect this is by measuring the WF effect: the greater the reliance on a frequency-sensitive lexical system, the greater the WF effect on naming RTs
+should be. There are several models of how WF effects can manifest in the lexical system (e.g., Borowsky & Besner, 1993; McCann
+& Besner, 1987; McClelland & Rumelhart, 1981; Morton, 1979;
+Reynolds & Besner, 2005). For example, WF could affect the connections between orthographic lexical representations and representations downstream (e.g., the semantic system), whereby the
+more often the stimulus has been encountered in print, the faster
+the rate of activation in these systems, and the faster a response
+can be made (Borowsky & Besner, 1993).
+Word Type (REG, EXC) and WF have typically been shown to
+interact on naming RT, whereby EXCs are slower on average, and
+elicit a greater WF effect, which has typically been accounted for
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+in terms of dual route models of reading (e.g., Andrews, 1982;
+Monsell et al., 1992; Paap & Noel, 1991; Seidenberg, Waters,
+Barnes, & Tanenhaus, 1984; and see Cummine et al., 2010, for a detailed account of this interaction in the SMA). Given that EXCs must
+be read lexically in order to be named correctly, it makes sense that
+they should show a larger WF effect than REGs. The additional time
+that EXCs require relative to REGs has typically been accounted for
+by a conflict resolution process at the level of phonological output,
+where lexical and sublexical processes converge and a single phonological response must be selected. The WF effect on naming RT
+has been shown to be diluted (i.e., smaller) under conditions when
+more sublexical processing is occurring, and is largest under conditions when more lexical processing is occurring (e.g., Borowsky
+et al., 2002). Given that EXCs, by definition, can generate two different pronunciations via the two reading streams, instructions
+to name words only may serve to focus processing on only the lexical-ventral stream by requiring a lexical verification of the stimulus before naming it, and produce even larger WF effects than
+when instructions to name all stimuli are used.
+The strategic effects of instructions have yet to be explored in
+research on the neurobiology of reading, and so the experiment
+we report here has the potential to help constrain such models.
+If instructions to name words (based on spelling) are effective at
+forcing maximal ventral-lexical processing, then they should also
+increase the size of WF effect relative to instructions to name all
+stimuli. Name words instructions should also slow responding
+overall, due to the time required to verify that the stimulus does
+indeed spell a word (or in other words, make a lexical decision)
+prior to making a response. Such strategic effects, if they occur,
+will elucidate whether ventral-lexical processing can be strategically controlled, or whether ventral-lexical processing is operating
+like an associative memory system that is impervious to strategic
+control by instruction. The dual-stream (ventral-lexical, dorsalsublexical) models seem particularly well-suited to handle such
+an effect of reading strategy, whereby processing along the ventral-lexical stream would be enhanced through conscious efforts
+by the participant trying to read lexically through the orthographic lexical system. The ability of the alternative single mechanism parallel distributed processing (PDP) models (e.g.,
+Desroches, McNorgan, Minas, & Booth, 2012; Plaut & Booth,
+2000) to account for such effects will be considered later in the
+Discussion.
+
+1.4. Hypotheses
+Our hypotheses explore whether reliance on the ventral-lexical
+stream when reading words can be increased by manipulating the
+naming instructions from name all to name words (based on spelling): (1) To the extent that processing along the ventral-lexical
+stream can be strategically forced by instructions to name words,
+there should be more visible activation, and a greater WF effect
+on RT, relative to instructions to name all stimuli. (2) Furthermore,
+to the extent that processing of REGs can be strategically forced
+through the ventral-lexical stream by name words instructions,
+there should be more visible activation in the ventral-lexical
+stream, and a greater WF effect on RT, for REGs in the name words
+condition relative to the name all condition. (3) EXCs, which are
+thought to be read lexically under both types of instructions,
+should show substantial visible activation in the ventral-lexical
+stream, and the WF effect on RT, under both sets of instructions,
+relative to REGs. If EXCs show additional visible activation, or WF
+effect on RT, under the name words instructions relative to the
+name all condition, these increases would reflect the more optimal
+reliance on the ventral-lexical stream without any dilution from
+monitoring of processing along the dorsal-sublexical stream.
+
+205
+
+2. Materials and methods
+2.1. Participants
+Twenty participants took part in the study. Inclusion criteria
+consisted of normal or corrected to normal vision and English as
+a first language. The sample of participants were 14 females (average age = 22 years, 13 right handed), and 6 males (average age
+24 years, 5 right handed). The participants' consent was obtained
+according to the Declaration of Helsinki (2008) and the experiment
+was performed in compliance with the relevant laws and institutional guidelines, and was approved by the University of Alberta
+Health Research Ethics Board.
+2.2. Stimuli
+One hundred and twenty-six pairs of monosyllabic REGs and
+EXCs matched for initial onset and length were used as critical
+stimuli (Patterson & Hodges, 1992). These stimuli appear to be very
+well matched on several of the variables available from the E-Lexicon Database (http://elexicon.wustl.edu/, Balota et al., 2007), as
+we found that Word Type (REG = 0, EXC = 1) did not correlate significantly with log10 HAL WF (r = .036, p = .57), bigram frequency
+by position (r = .033, p = .60), bigram mean frequency, (r = .051,
+p = .42), bigram sum frequency (r = .036, p = .57), number of
+morphemes (r = .058, p = .357), or number of phonemes
+(r = .082, p = .20). These words can be considered to be of fairly
+high familiarity, as their mean WF is relatively high (log10 HAL
+WF mean = 9.63). A set of 128 pronouncible nonwords were also
+generated from the critical words by changing one or two letters.
+For each instruction condition, a total of 190 stimuli were presented in two runs (63 REGs, 63 EXCs, and 64 nonwords), such that
+every participant was presented with each stimulus only once, and
+stimuli were cycled through instruction conditions across participants so that each stimulus was presented equally often under
+each instruction set.
+2.3. Procedure and apparatus
+For the name all stimuli condition, participants were instructed
+to read aloud each letter string as quickly and accurately as possible. For the name words condition, participants were instructed to
+read aloud each letter string that spelled a word as quickly and
+accurately as possible. Participants responded vocally during a regular, periodic gap in the image acquisition that followed the offset
+of each volume of image acquisition. That is, a letter string was presented at the offset of an image acquisition for 1850 ms, providing
+a silent gap for participants to name aloud the letter string. Letter
+strings were randomly selected, without repetition, and back-projected one at a time on a screen such that they were visible to the
+participants through the mirror on the head coil.
+All images were acquired on a 1.5 T Siemens Sonata scanner and
+were positioned along the anterior-posterior-commissure line.
+Anatomical scans included a high resolution axial T1 MPRAGE sequence with the following parameters: TR = 2000 ms, TE = 4.38 ms,
+number of slices = 112, base resolution 256  256, voxel size
+1  1  1 mm, scan time 4 min 48 s. For the functional blood oxygenated level dependent (BOLD) images, four runs/sessions of 160
+volumes of 36 slices, axial spin-echo echo planar images (EPIs)
+were obtained. The time required to obtain each image volume
+was the repetition time TR = 3700 ms, with a 1850 ms gap of no
+image acquisition in each TR, gradient echo time was TE = 40 ms
+and a 64  64 acquisition matrix was used with a 128  128 reconstruction matrix that improved pixel resolution through zero-filling prior to Fourier transform reconstruction.
+
+206
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+The EPI slice thickness was 4 mm with no gap between slices.
+The first five image volumes were used to achieve a steady state
+of image contrast and were discarded prior to analysis. The
+remaining 155 image volumes in each run were comprised of 31/
+32 REGs, 32/31 EXCs, 32 nonwords, and 60 rest/fixations. For the
+name all stimuli condition, each run consisted of 95 image volumes, during which the participant responded to the presented
+stimuli (i.e., EXCs, REGs and nonwords), and 60 image volumes
+during which the participant rested. For the name words only condition, each run consisted of 63 image volumes, during which the
+participant responded to the presented stimuli (i.e., EXCs and
+REGs), 32 image volumes (i.e., nonwords), during which the participant did not respond to the presented stimuli, and 60 image volumes during which the participant rested. The total session time
+was approximately 10 min (160 volumes  TR = 3700 ms). The total functional experiment time was approximately 40 min (160
+volumes  4 sessions  TR = 3700 ms). A computer running
+EPrime software (Psychology Software Tools, Inc., http://www.pstnet.com) was used to trigger each image acquisition in synchrony
+with the presentation of visual stimuli. Responses were made during the 1850 ms gaps in image acquisition and were recorded over
+the MRI intercom as there was no noise interference from the MRI
+during the acquisition gap.
+2.4. Method for measuring naming onset reaction time
+Vocal responses were recorded at 96 KHz, 24 bit, through the
+intercom using an Olympus LS11 digital recorder. These recordings
+were then analyzed using PRAAT software (Boersma & Weenink,
+2011), and the speech spectrograms and formants were used to
+help identify vocalization onset relative to the gradient noise of
+the MRI. Given that we used a sparse-sampling (gap paradigm)
+fMRI method that allows the participant to respond during a gap
+in image acquisition (e.g., Borowsky et al., 2006; Cummine, Stockdale-Winder, Crossley, & Borowsky, 2009; Cummine et al., 2010;
+Esopenko, Borowsky, Cummine, & Sarty, 2008), the stimulus onset
+was synchronized with the last gradient sound before the gap. This
+provided an acoustic marker for stimulus onset on the recording
+while the gap allowed for a clear recording of the participant's vocal response.
+2.5. fMRI analyses
+The fMRI data were analyzed using an event-related method. All
+pre-processing and statistical analyses for anatomical and functional images were performed with AFNI (Cox, 1996). All data were
+subject to several levels of pre-processing including spatial realignment and coregistration of experimental runs, slice timing correction, motion correction, normalization to a standardized Talairach
+and Tournoux (1988) space, and smoothing using a full width at
+half maximum (FWHM) 8 mm kernel. First level modelling, for
+each participant, included identification of a stimulus indicatortime-series of ones, representing the stimulus of interest, and zeros
+that corresponded to the presentation of the other stimuli. The impulse response functions (IRFs) for each stimulus type were estimated using a general linear model (GLM) approach.
+For each participant, contrast maps were created that separated
+out activation strictly unique to a stimulus type (e.g., EXCs vs.
+REGs) or condition (e.g., name words vs. name all) and activation
+that was shared between two stimuli or conditions (e.g., Borowsky
+et al., 2005, 2006, 2007; Cummine et al., 2010). For example, let C
+denote one of the stimulus types, REGs or EXCs. For each stimulustype, C, and for each subject, two maps were computed. A threshold map FC(p) of F-values (h) and a visibility, or intensity map, VC(p)
+(IRF maximum amplitude), where p is a voxel coordinate were created. The F-value represents the ratio of the data variance to the
+
+variance remaining after the IRF model fit. We used an F-value
+threshold of greater than 1.79 (p 6 .05) to define an active voxel,
+which corresponds to the significance level of the overall GLM
+model for the experiment. The corresponding activation map for
+C was defined as MC(p) = KC,h(p) VC(p) where KC,h(p) = 1 if FC(p) P h
+and zero otherwise where h = 1.79 is the threshold above which we
+considered a voxel to be activated. Letting A and B denote a pair of
+stimulus types (e.g., REGs and EXCs), unique maps (Muni) and conjunction maps (Mconj) were defined for paired stimuli A and B for
+each subject according to:
+
+Muni p 1/4 1/2K A;h pV A p  K B;h pV B p1/21  K A;h pK B;h p;
+
+1
+
+Mconj p 1/4 K A;h pK B;h pV A p  V B p=2:
+
+2
+
+The unique map represents a difference (A [ B)/(A \ B) and
+shows task subtraction for activations that are not common to conditions A and B. In the representation of Eq. (1), unique activation
+to A is represented as a positive intensity and unique activation
+to B is represented as a negative intensity. The conjunction map
+of Eq. (2) is a map of average A and B intensities and represents
+an intersection A \ B showing activation shared to both conditions
+A and B (i.e., a shared activation map). The activation maps were
+calculated for the combinations of the two instruction conditions,
+name all and name words, and the two word types REGs and EXCs,
+as well as for the two instruction conditions for the nonwords. The
+unique and conjunction maps, as computed for each participant,
+were based on the initial contrast images for each word or nonword relative to rest, and were averaged across the participants
+in each experiment to produce the final unique and intersection
+maps. All procedures are consistent with those previously used
+from our lab (e.g., Borowsky et al., 2005, 2006, 2007, in press; Cummine et al., 2010; Esopenko et al., 2012).
+Using Analysis of Functional NeuroImages (AFNI; Cox, 1996;
+Version 12_31_1431), unique and intersection map voxels for each
+participant separated by 1.1 mm distance were clustered and clusters of volume less than 100 lL were clipped out. Mean activation
+maps in Talairach coordinates were determined voxel-wise for
+each map type along with the corresponding one sample t statistic
+for each voxel mean. The maps that follow show regions of activation containing voxels that surpass the activation threshold at the
+group level t(18) = 1.734, p = .05 (one-tailed). A cluster size threshold of 317 vmul (p = .01 with a correction for multiple comparisons) was applied at the group level. Given that our focus is on
+interpreting the presence of activation in the maps, and not on
+where there is an absence of activation, we felt that minimizing
+the Type I error rate (i.e., minimizing the rejection of the null
+hypothesis when there is really no difference between conditions)
+was relatively more important than the Type II error rate (accepting the null hypothesis when there is actually a very small difference). As such, we used a correction for multiple comparisons at
+p = .01 instead of p = .05. One of the participants had to be excluded
+for excessive head motion.
+
+3. Results
+3.1. fMRI data
+3.1.1. Name words
+Activation common to both EXCs and REGs in the name words
+condition was primarily localized to the ventral-lexical stream
+and included bilateral middle (R: 51 -50 7, L: -53 -21 -6) and inferior (R: 44 -53 -6, L: -53 -52 -6) temporal gyri (Fig. 1a). Additional
+activation unique for REGs included left inferior temporal gyrus
+(ITG; L: -62 -39 -10) (Fig. 1b).
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+207
+
+Fig. 1. Activation for the name only words condition. A. Shared activation between exception and regular words is primarily localized to the ventral visual processing stream. B.
+Unique activation for exception words (yellow) and regular words (blue) were localized to the ventral visual processing stream. Activation for the name all stimuli condition. C.
+Shared activation between exception and regular words is primarily localized to the ventral visual processing stream. D. Unique activation for exception words (yellow) and
+regular words (blue) were localized to the ventral visual processing stream (individual voxel-wise threshold, p < .05, cluster extent >317 vmul, p < .01, group level threshold,
+t(18) = 1.734, p = .05, one-tailed test against zero). Left (L) and right (R) hemispheres are marked (red) at the anterior of each brain image.
+
+3.1.2. Name all
+Activation common to both EXCs and REGs in the name all condition was primarily localized to the ventral-lexical stream and included bilateral lingual gyri, (R: 14 -79 -13, L: -7 -86 -13), inferior
+(R: 59 -45 -5, L: -53 -50 -11) and middle temporal gyri (MTG; R: 52
+-13 -6, L: -55 -3 -9) (Fig. 1c). There was little unique activation for
+either stimulus type (Fig. 1d).
+3.1.3. Exception words
+Activation common to both name words and name all instructions for EXCs included bilateral inferior (R: 58 -51 -8, L: -54 -49
+-8), middle (R: 55 -8 -9, L: -56 -18 -6) and superior (R: 55 2 -5,
+L: -57 -13 4) temporal gyri (Fig. 2a). Additional unique activation
+was found for the name words condition in left inferior temporal
+gyri (L: -54 -55 -12) and right lateral occipital gyrus (R: 38 -80
+4). Additional unique activation was found for the name all condition in bilateral inferior frontal gyri (R: 42 38 -6, L: -43 28 -6)
+(Fig. 2b).
+3.1.4. Regular words
+Activation common to both name words and name all instructions for REGs included bilateral inferior (R: 53 -60 -8, L: -52 -49
+-8), middle (R: 53 -55 5, L: -57 -15 -4) and superior (R: 49 -9 3,
+L: -57 -16 7) temporal gyri (Fig. 2c). Additional unique activation
+was found for the name words condition in the right lateral occipital gyrus (R: 38 -79 12) (Fig. 2d).
+
+3.1.5. Nonwords
+Activation common to both name words and name all instructions for nonwords (NWs) included bilateral inferior (R: 53 -52 7, L: -55 -48 -11) and superior (R: 48 5 -5, L: -46 9 -5) temporal gyri
+and left insula (L: -38 5 10) (Fig. 3a). Additional unique activation
+was found for the name all condition in the bilateral inferior temporal gyri (R: 49 -43 0, L -55 -40 -10), right middle temporal gyrus
+(R: 51 -16 -2), left anterior insula (L: -37, 24, 5), and left motor (L: 55 -7 38) (Fig. 3b).
+3.1.6. ANOVA of word type and instruction
+An ANOVA was conducted that included two within-subject
+factors (e.g., word type and instructions) and subjects as a random
+factor. Mean activation maps in Talairach coordinates were determined voxel-wise for each map type along with the corresponding
+one sample t-statistic for each voxel mean. The maps that follow
+show regions of activation containing voxels that surpass an activation threshold at the group level, t(18) = 4.112, p < .05 (twotailed) for the interaction map, and t(18) = 1.689, p < .05 (onetailed) for the difference maps of exception words vs. regular
+words in the name words condition and exception words vs. regular
+words in the name all condition. A cluster size threshold of
+317 vmul (corrected p = .01) was applied at the group level. Activation for the word type (REG, EXC)  Instruction (name words, name
+all) interaction effect was found in the left middle temporal gyrus
+(L: -62 -29 0) and right inferior frontal gyrus (R: 61 6 7) (Fig. 3c). In
+order to further explore the nature of this effect in the left MTG, a
+
+208
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+Fig. 2. Activation for naming exception words. A. Shared activation between the name only words condition and the name all stimuli condition was localized primarily to the
+ventral visual processing stream. B. Additional unique activation for the name only words condition shows greater contribution of the ventral visual processing stream
+relative to the name all stimuli condition. Activation for the naming of regular words. C. Shared activation between the name only words condition and the name all stimuli
+condition was localized primarily to the ventral visual processing stream. D. Additional unique activation for the name only words condition shows greater contribution of the
+ventral visual processing stream relative to the name all stimuli condition (individual voxel-wise threshold, p < .05, cluster extent >317 vmul, p < .01, group level threshold,
+t(18) = 1.734, p = .05, one-tailed test against zero). Left (L) and right (R) hemispheres are marked (red) at the anterior of each brain image.
+
+contrast of EXC vs. REG at each level of Instructions was examined.
+For the name words condition, there was no remaining activation
+for EXC vs. REG (Fig. 3d left), supporting the results from the conjunction maps for the name words condition in Fig. 1a that activation in that region is similarly shared for both word types, which
+also fits with the instructional demands to verify lexical status
+prior to naming. For the name all condition, the contrast of EXC
+vs. REG showed that there was remaining activation for EXCs in
+the left middle temporal gyrus (L: -60 -31 4; Fig. 3d right), which
+also fits with the notion that under instructions to name all stimuli,
+only the EXCs have to be read lexically.
+3.2. Behavioral naming data
+The naming onset RT data were first aggregated by participant
+as a function of Instructions (Name All, Name Words) and Word
+Type (REG, EXC). Medians of the correctly named item RTs were
+submitted to a 2  2 general linear model ANOVA, with Word Type
+and Instructions as repeated measures factors. The median naming
+RTs are presented in Fig. 4a. There were significant main effects of
+Instructions, F(1, 19) = 7.626, MSe = 4659, p = .01, and Word Type,
+F(1, 19) = 4.970, MSe = 239, p = .04, and no significant interaction,
+F(1, 19) = .049, MSe = 442, p = .83. Paired t-tests were conducted
+to evaluate the effect of Word Type at each level of instruction,
+and showed a significant effect of Word Type under instructions
+to name all, t(19) = 2.430, SEM = 2.74, p = .03, and no significant
+
+difference under instructions to name words, t(19) = 1.124,
+SEM = 7.78, p = .28.
+The accuracy data were aggregated by participant as a function
+of Instructions and Word Type, and the mean accuracy rates were
+submitted to a 2  2 general linear model ANOVA, with Word Type
+and Instructions as repeated measures factors. The mean accuracy
+rates are presented in Fig. 4b. There were significant main effects of
+Instructions, F(1, 19) = 17.292, MSe = .001, p = .001, and Word Type,
+F(1, 19) = 5.245, MSe = .001, p = .03, and no significant interaction,
+F(1, 19) = 1.062, MSe = .001, p = .32. Paired t-tests were conducted
+to evaluate the effect of Word Type at each level of instruction,
+and showed no significant effect of Word Type under instructions
+to name all, t(19) = 1.630, SEM = .004, p = .12, and approached significance under instructions to name words, t(19) = 1.893,
+SEM = .009, p = .07.
+In order to evaluate the effects of Word Frequency (WF, i.e.,
+log10 HAL Word Frequency) as a continuous variable, general linear
+model regressions were conducted on each participant's correct
+RTs, with RT as the dependent variable, and WF as a continuous
+independent variable, separately for each combination of Instructions and Word Types. The resulting WF coefficients for each Word
+Type and Instruction set were then aggregated over participants
+(e.g., Borowsky et al., 2002), and submitted to a 2  2 general linear
+model ANOVA, with Word Type and Instructions as repeated measures factors. Fig. 4c shows the mean coefficients above the adjusted means (i.e., adjusted for WF, or in other words, with WF
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+209
+
+Fig. 3. Activation for naming nonwords. A. Shared activation between name words and name all is primarily localized to the lower level visual processing regions. B. Additional
+unique activation for the name all condition (orange) was found in the dorsal-sublexical stream, particularly the left supramarginal gyrus and insular regions (individual
+voxel-wise threshold, p < .05, cluster extent >317 vmul, p < .01, group level threshold, t(18) = 1.734, p = .05, one-tailed test against zero). Activation for the word
+type  instruction effect. C. Activation for the word type  instruction interaction includes regions in the left ventral visual processing stream and right inferior frontal gyri
+(individual voxel-wise threshold, p < .05, cluster extent >317 vmul, p < .01, group level threshold, t(18) = 4.112, p = .05, two-tailed). Activation for the difference map of
+exception words and regular words. D. Name words: Activation for exception words (yellow) was found in left anterior temporal gyri. Activation for regular words (blue) was
+found in bilateral inferior frontal gyri (individual voxel-wise threshold, p < .05, cluster extent >317 vmul, p < .01, group level threshold, t(18) = 1.689, p = .05, one-tailed test
+against zero). Name all: Activation for exception words (yellow) was found in left ventral visual processing regions. Activation for regular words (blue) was found in right
+medial frontal gyri (individual voxel-wise threshold, p < .05, cluster extent >317 vmul, p < .01, group level threshold, t(18) = 1.689, p = .05, one-tailed test against zero). Left (L)
+and right (R) hemispheres are marked (red) at the anterior of each brain image.
+
+effects partialled out). There was a significant main effect of
+Instructions on the size of WF effect, F(1, 19) = 15.182, MSe = 82,
+p = .001, which represents an Instruction by WF interaction on
+naming RT, whereby the WF effects are greater under name words
+instructions. There was no significant main effect of Word Type on
+the size of WF effect, F(1, 19) = 2.425, MSe = 98, p = .14, nor was
+there a significant Word Type by Instruction interaction on the size
+of WF effect, F(1, 19) = 1.024, MSe = 102, p = .32. The t-tests of
+parameter estimates from this general linear model indicated that
+the coefficients relating WF to RT in each combination of Word
+Type and Instruction were significantly different from 0, name all
+REG b = 4.1 ms/log10WF, t (19) = 2.345, SEM = 1.732, p = .03,
+name all EXC b = 9.8 ms/log10WF, t (19) = 5.053, SEM = 1.936,
+p < .001, name words REG b = 14.2 ms/log10WF, t (19) = 5.801,
+SEM = 2.447, p < .001, name words EXC b = 14.2 ms/log10WF, t
+(19) = 6.238, SEM = 2.467, p < .001. Paired t-tests were then conducted to determine if the WF effect differs as a function of Word
+Type at each level of Instructions, and revealed that the WF effect is
+significantly different for REGs and EXCs under name all instructions, t(19) = 2.061, SEM = 2.775, p = .05, which represents the standard WF by Word Type interaction that is typically reported in the
+
+literature, whereas the WF effect did not differ significantly for
+REGs and EXCs under the name words instructions, t(19) = .342,
+SEM = 3.484, p = .74. Paired t-tests were also conducted to evaluate
+the hypotheses that the WF effect differs as a function of Instructions, at each level of Word Type. The WF effect was found to differ
+significantly between name all and name words instructions for
+REGs, t(19) = 3.206, SEM = 3.161, p = .01, and approached a significant difference between these instructions for EXCs, t(19) = 1.963,
+SEM = 2.857, p = .06. Given that these tests were hypothesis driven,
+a one-tailed test would be justified and this difference could be
+considered significant at p = .03.
+Given that the partialling of WF effects resulted in an adjustment
+to the cell means for the combinations of Word Type and Instructions, these adjusted mean RTs were also compared through a
+2  2 general linear model ANOVA, with Word Type and Instructions as repeated measures factors, and the same paired t-tests as
+conducted on the median RTs. There was a significant main effect
+of Instructions, F(1, 19) = 25.459, MSe = 2718, p < .001, no significant
+effect of Word Type, F(1, 19) = 2.225, MSe = 499, p = .15, and no significant interaction, F(1, 19) = 1.386, MSe = 414, p = .254. For the
+paired t-tests, the same pattern of significant and non-significant ef-
+
+210
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+(A)
+
+(B)
+
+(C)
+
+(-14.2)
+
+(-15.4)
+
+(-9.8)
+(-4.1)
+
+Fig. 4. A. Median naming onset RT (in ms) as a function of instructions and word type. B. Mean Proportion Accurate as a function of instructions and word type. C. Adjusted
+mean naming onset RT (in ms) as a function of instructions and word type. Averaged coefficients relating word frequency to RT (ms/unit of log10 HAL word frequency) in
+parentheses.
+
+fects was found as was obtained with the unadjusted median RTs
+earlier: a significant effect of Word Type under instructions to name
+all, t(19) = 3.086, SEM = 4.15, p = .01, and no significant difference
+under instructions to name words, t(19) = .243, SEM = 8.60, p = .81.
+
+all condition, reflecting optimal reliance on the ventral-lexical
+stream, perhaps due to less dilution of the WF effect from monitoring of processing along the dorsal-sublexical stream.
+
+4.1. Name words instructions
+4. Discussion
+Our experiment provided direct functional and behavioral evidence that reliance on the ventral-lexical stream can be strategically enhanced by instructions to name words only. Consistent
+with our hypotheses, we found greater reliance on the ventral-lexical stream, for the name words condition, as evidenced by additional unique activation when compared to the name all
+condition, for both EXCs and REGs. More activation is also visible
+in the name words conjunction maps relative to the name all conjunction maps. Converging with greater WF effects, these findings
+support the notion that processing along the ventral-lexical stream
+can be strategically forced by instructions. In addition, REGs can be
+strategically forced through the ventral-lexical stream by name
+words instructions, as evidenced by unique activation in the
+ventral-lexical stream for the name words instructions, and an
+increased WF effect on RT compared to the name all instructions.
+Furthermore, EXCs were read lexically relative to REGs, as they
+showed unique activation in the ventral-lexical stream for the
+name words instructions, and the greater WF effect on RT, under
+both sets of instructions. Finally, EXCs showed additional unique
+activation in the ventral-lexical stream, and a greater effect of
+WF on RT, under the name words instructions relative to the name
+
+When stimuli were presented under task instructions that required participants to name words only, we found evidence for
+shared bilateral activation in the ventral-lexical stream including
+inferior, middle and superior temporal gyri. Furthermore, given
+that a traditional subtractive contrast map showed no differences
+between REGs and EXCs for the name words condition, the intensity
+of the shared activation must be fairly similar for both word types.
+Additional shared activation was found in bilateral cingulate and
+supplementary motor association cortex. Unique activation was
+found in the ventral-lexical stream for REGs (e.g., bilateral inferior
+temporal gyri; although we note the limitations of using fMRI to
+examine the anterior inferior temporal region, Wise & Price,
+2006). These results provide compelling evidence that the reliance
+on the ventral-lexical stream can be strategically altered depending on the nature of the task instructions. Converging with this
+interpretation is the behavioral result of a WF by Instruction interaction on RT, whereby the WF effects are greatest under name
+words instructions, and additivity between Instructions and Word
+Type, whereby the effect of Instructions was an overall slowing effect (representing lexical verification prior to naming, or in other
+words, making a lexical decision) which did not interact with Word
+Type.
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+4.2. Name all instructions
+When stimuli were presented under task instructions that required participants to name all stimuli, the shared activation map
+for REGs and EXCs demonstrated activation in the bilateral ventral
+visual processing streams from the occipital cortex through to the
+anterior temporal lobes. In addition, regions of activation included
+the bilateral supplementary motor association cortex. What is particularly important to our hypotheses was the finding that EXCs
+produced additional unique activation in the ventral-lexical stream
+including left middle temporal gyri. Furthermore, given that a traditional subtractive contrast map for the name all condition
+showed differences favoring EXCs over REGs in the ventral-lexical
+stream, the intensity of the unique activation is significantly greater for EXCs. Given that EXCs can only be correctly read by way of a
+lexical representation in memory, we expected activation for these
+stimuli to be largely constrained to the ventral-lexical stream. Converging with this interpretation is the behavioral result that the
+WF effect was also greater for EXCs than REGs under these typical
+naming instructions, and represents the standard Word Type by
+WF interaction (Cummine et al., 2010).
+4.3. Exception words
+Regardless of task instructions, EXC naming produced a substantial volume of activation in the ventral-lexical stream. This
+finding is consistent with the notion that EXCs rely on ventral-lexical based strategies for correct pronunciation. Converging with
+this interpretation is the behavioral result of greater WF effects
+for EXCs in the name words condition.
+4.4. Regular words
+Similar to EXC naming, REG naming produced activation that
+was predominantly ventral. While these stimuli can utilize information from both the dorsal-sublexical processing stream and
+the ventral-lexical stream, the visible activation suggests that participants appeared to rely on the ventral-lexical processing stream.
+The relatively high average WF for these items likely allowed most
+participants to rely on their ventral-lexical stream, and rarely required the dorsal-sublexical reading stream. Converging with this
+interpretation is the behavioral result of a significant WF effect
+for REGs even under the name all instructions. Furthermore, the
+name words condition produced relatively greater WF effects for
+REGs compared to the name all condition, providing further support for the notion that task instructions can encourage participants to strategically rely on the ventral-lexical reading system.
+4.5. Nonwords
+Shared activation for nonwords between the name words only
+condition and the name all stimuli condition appeared to be more
+constrained in the left ITG (whereas the word maps showed activation in left ITG, MTG and STG) and showed no activation in the
+SMA, which has been suggested to be the locus of selection for phonological output when both the lexical and sublexical streams are
+computing phonology (Cummine et al., 2010). Given that the proportion of nonwords was 1/3 in this experiment, and that participants only named the nonwords in the name all condition, the
+degree of dorsal activation was not quite as extensive as when
+we have had participants name only nonwords in a blocked design
+(e.g., the pseudohomophone condition from Borowsky et al., 2006).
+Additional unique activation for the name all condition showed a
+greater contribution of the dorsal-sublexical stream, particularly
+the left supramarginal gyrus (which has been shown to be involved
+
+211
+
+in phonological processing, e.g., Price, Moore, Humphreys, & Wise,
+1997) through to the sensory and motor cortices and the anterior
+insula.
+4.6. Ventral-lexical, dorsal-sublexical model of reading
+Overall, our findings are consistent with the dual-stream (ventral-lexical, dorsal-sublexical) models of reading, and advance
+our knowledge about strategic reliance on the ventral-lexical
+stream in basic word recognition (Price, 2010; Cohen et al., 2008;
+Borowsky et al., 2006; Borowsky et al., 2007; Fiebach, Friederici,
+Muller, & von Cramon, 2002; Hickok & Poeppel, 2007; Posner &
+Raichle, 1994; Pugh et al., 2000). Specifically, the ventral-lexical
+processing stream is involved when participants read familiar
+words or words that require lexical processing to be named correctly. EXCs must be named by ventral-lexical processes given
+their atypical spelling-to-sound correspondences, and consequently, these stimuli produced marked ventral processing in both
+the name words and name all conditions. Although REGs can, by
+definition, be read by either or both systems, the relatively high
+frequency of all the words used in the experiment produced activation primarily in ventral-lexical regions that was increased as a
+function of instructions to name words. Given that both EXCs and
+REGs showed increased ventral-lexical activation as a function of
+instructions to read lexically, this strategic effect can be described
+as one where optimal reliance on ventral-lexical processing is engaged, and no dilution of WF effects occurs, suggesting that activation/monitoring of the dorsal-sublexical stream is likely being
+minimized. These dual-stream models are well-equipped to handle
+such strategic effects, as the instruction to name words simply
+encourages the participant to rely on one distinct processing
+stream over the other. Furthermore, our functional imaging results
+clearly demonstrate an increase in activation in the ventral-lexical
+reading stream as a function of a name words reading strategy, and
+thus support the idea of strategic control of reliance on the ventrallexical stream, particularly over any account that does not subscribe to such strategic reliance (e.g., Kinoshita & Lupker, 2002,
+2003).
+4.7. Single-mechanism PDP models
+Single-mechanism PDP Models (e.g., Desroches et al., 2012;
+Plaut & Booth, 2000) may find the current results to be a bit of a
+challenge. Such models have been developed to account for the basic effect of Word Type (REG, EXC), and the Word Type by WF
+interaction, on RT by a `division-of-labor' between an Orthography-Phonology (O-P) pathway and an Orthography-Semantics-
+Phonology (O-S-P) pathway (e.g., Harm & Seidenberg, 2004,
+although ``pathway'' is a bit of a misnomer here since these models
+subscribe to parallel distributed processing (PDP), and so activation
+occurs in parallel across the entire network). Larger WF effects for
+EXCs are thought to occur due to the additional WF-sensitive connections involved in the O-S-P pathway, compared to the O-P
+pathway that REG reading is thought to rely on. There is no distinct
+orthographic lexicon in these models, unlike the dual-stream models, and so instructions to read by first checking the orthographic
+lexicon (name words, based on spelling) raises a challenge in and
+of itself. Waiting (to any degree) for the O units to settle on the
+word's pattern of activation and using that information to gate processing in the S and P units might be a solution, but such ``stagelike'' or ``cascaded'' processing is counter to the Parallel definition
+of these models (Plaut & Booth, 2000; and see the debate by
+Borowsky and Besner (2006), Plaut and Booth (2006), and Besner
+and Borowsky (2006) for additional discussion of these issues).
+Alternatively, perhaps the level of familiarity with the stimulus
+
+212
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+Grapheme to Phoneme
+Conversion
+(ant.Insula)
+
+Phonological
+Lexical
+System
+
+Phonological
+Output
+System
+
+(post.Insula IF)
+
+(SMA-M1)
+
+Orthographic
+Encoding
+Orthographic
+Lexical
+System
+(IT-MT)
+
+Instructions
+
+Semantic
+System
+(IT-MT-AT-Frontal-PreM)
+
+Word Frequency
+
+Word Type
+
+Fig. 5. Example of a dual-stream, ventral-lexical, dorsal-sublexical, cascaded processing framework for basic reading processes. The effects of instructions and word type are
+additive on RT, and thus these variables affect systems where the onset of activation is temporally separable, whereas word frequency interacts with both instructions and
+word type, overadditively on RT, and thus these variables affect systems in common.
+
+in the network is assessed by monitoring how close activation patterns in the O and S (and perhaps even P) units are to the basins of
+attraction that represent word knowledge (e.g., such as Borowsky
+and Masson's (1996), simulation of lexical decision in such models). However, this account would be easier to defend if activation
+in regions known to be involved in S and P processing (including
+regions in the parietal-frontal network) were also found to be more
+active under the name word instructions of the experiment reported here. Finally, and perhaps most challenging, is the presence
+of additive effects on RT (i.e., Instructions and Word Type) in the
+same range of RTs that also show overadditive interactions (i.e.,
+WF by Instructions interaction, and the standard WF by Word Type
+interaction under the typical name all condition). Although a sigmoid activation function within a single-mechanism PDP model
+has been explored as a means to account for both additivity and
+overadditive interactions (Plaut & Booth, 2000), this approach is
+problematic as additive effects can only arise equidistant from
+the center of the sigmoid input-output function, yet additive effects occur regularly within the very same range of RTs as overadditive effects, as demonstrated in the research reported here, and
+elsewhere (see Borowsky & Besner, 2006 for a review).
+Additive effects in the same range of RTs as overadditive effects
+are still best accounted for by the additive factors logic originally
+developed by Sternberg (1969; Borowsky & Besner, 1993). Additive
+effects of two variables is easily accounted for by implementing the
+effects of the two variables at two different timepoints in processing, which can be thought of as two systems with stage-like processing. These systems may be in cascade (e.g., Borowsky &
+Besner, 1993; Coltheart et al., 2001; McClelland & Rumelhart,
+1981) - all that is necessary is at least some delay between the initiation of activation in one system compared to the other1. Such a
+delay is parsimonious with the known behavior of real neural net1
+There has recently been some confusion about the interpretation of cascaded
+processing with regards to parallel vs. stage-like models of basic reading processes.
+We note that ``additive factors logic can be applied to a continuous (or ``cascade'')
+processing framework'' (Borowsky & Besner, 1993, p. 834) and ``cascaded processing
+can also yield additive effects of two factors on RT'' (Borowsky & Besner, 2006, p.181;
+see also McClelland, 1979). Although Laszlo, Stites and Federmeier (2012, see also
+Laszlo & Federmeier, 2011) have argued that cascaded processing does not fit with
+stages-of-processing models, such a statement is incorrect as cascaded processing fits
+very well within this framework. Indeed, cascaded processing could be argued to be
+problematic for any exclusively-parallel processing model, as these models would be
+challenged by any degree of delay in the onset of activation between subsystems (i.e.,
+cascaded processing), given that the assumption of parallel processing implies that all
+subsystems are activated simultaneously.
+
+works, and thus it can also be argued to be a necessary characteristic
+in all neurobiological models. Overadditive effects of two variables
+can be accounted for by implementing the effects of the two variables
+within the same system of processing (e.g., by affecting its activation
+rate, threshold, or baseline activation level). Dual-stream models of
+reading can readily handle the overadditive interactions of WF with
+Instructions and Word Type and the additivity between Instructions
+and Word Type as long as cascaded processing (i.e., some degree of
+delay of activation in systems downstream), is assumed. For example,
+one can account for the overadditive interaction between Instructions and WF by assuming that Instructions have a relatively early effect along with WF (Instructions to name words serving to gate
+processing through the Orthographic Lexical system, and WF affecting the connections from the Orthographic Lexical system to other later word-level representation systems downstream; e.g., Borowsky &
+Besner, 1993, 2006). One can also account for the overadditive interaction between WF and Word Type under typical naming instructions by assuming that WF affects the same later word-level
+representation system that is affected by Word Type (e.g., the Phonological Output system, or buffer, in the SMA, see Cummine et al.,
+2010). Given that WF has both a relatively early and a relatively later
+effect, there must be at least one cascaded system to separate the effects of Instructions from interacting with the effects of Word Type on
+RT. Given that Word Type has already been shown to have an effect as
+far downstream/late as the SMA/Phonological Output system, the observed additivity between Instructions and Word Type would be easily accounted for by this framework (see Fig. 5 for an example of such
+a framework, and Borowsky & Besner, 1993, 2006, for examples of
+activation functions and thresholds that yield additive and overadditive joint effects). Although REG and EXC words can be processed
+along both routes (although not correctly in the case of EXC words),
+the selection of a phonological output has to occur fairly late. For
+example, an EXC word like pint would yield two different pronunciations along the lexical and sublexical streams, whereas a REG word
+like mint would yield the same pronunciation along both streams.
+It would not be until the phonological output system that an actual
+selection between the two pronunciations in the case of an EXC word,
+or the acceptance of both pronunciations in the case of a REG word,
+would need to take place.
+5. Conclusion
+Our findings are particularly important for neurobiological
+models of reading, and for researchers interested in the strategic
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+effects of instructions on reading processes. We provided a direct
+demonstration that participants can increase their reliance on the
+ventral-lexical processing stream as a function of task instructions
+to read lexically (i.e., name words, as based on spelling), both in
+terms of fMRI activation and WF effects on RT. We argue that these
+strategic effects of Instructions, as well as the pattern of joint effects on RT between Instructions, WF and Word Type, are best handled by dual-stream (ventral-lexical, dorsal-sublexical) models of
+reading, with cascaded (as opposed to parallel) processing. As such,
+these results also provide an interesting challenge to single-mechanism, parallel distributed processing, models.
+
+Acknowledgments
+This research was partially supported by the Natural Sciences
+and Engineering Research Council (NSERC) of Canada in the form
+of research grants to J.C. and R.B., and a research assistantship to
+L.G. The lead author (J.C.) and senior author (R.B.) contributed
+equally to this work. Correspondence should be addressed to Ron
+Borowsky (ron.borowsky@usask.ca) at Department of Psychology,
+University of Saskatchewan, 9 Campus Drive, Saskatoon, SK, Canada S7N 5A5, or Jacqueline Cummine (jcummine@ualberta.ca) at
+the Department of Speech Pathology and Audiology, University of
+Alberta, 8205 114St, 2-70 Corbett Hall, Edmonton, AB, T6G 2G4.
+
+References
+Andrews, S. (1982). Phonological recoding: Is the regularity effect consistent?
+Memory & Cognition, 10, 565-575.
+Balota, D. A., Yap, M. J., Cortese, M. J., Hutchison, K. A., Kessler, B., Loftis, B., et al.
+(2007). The English lexicon project. Behavior Research Methods, 39, 445-459.
+Balota, D. A., Yap, M. J., & Cortese, M. J. (2006). Visual word recognition: The journey
+from features to meaning (a travel update). In M. Traxler & M. A. Gernsbacher
+(Eds.), Handbook of psycholinguistics (2nd ed., pp. 285-375). Amsterdam:
+Academic Press.
+Besner, D., & Borowsky, R. (2006). Postscript: Plaut and Booth's (2006) new
+simulations - What have we learned? Psychological Review, 113, 194-195.
+Binder, J. R., Medler, D. A., Desai, R., Conant, L. L., & Liebenthal, E. (2005). Some
+neuropsychological constraints on models of word naming. NeuroImage, 27,
+677-693.
+Boersma, P. & Weenink, D. (2011). Praat: Doing phonetics by computer [Computer
+program]. Version 5.2.34. <http://www.praat.org/> Retrieved 03.08.11.
+Bokde, A. L. W., Tagamets, M. A., Friedman, R. B., & Horwitz, B. (2001). Functional
+interactions of the inferior frontal cortex during the processing of words and
+wordlike stimuli. Neuron, 30, 609-617.
+Borowsky, R., & Besner, D. (1993). Visual word recognition: A multistage activation
+model. Journal of Experimental Psychology: Learning, Memory, and Cognition, 19,
+813-840.
+Borowsky, R., & Besner, D. (2006). Parallel distributed processing and lexicalsemantic effects in visual word recognition: Are a few stages necessary?
+Psychological Review, 113, 181-193.
+Borowsky, R., Cummine, J., Owen, W. J., Friesen, C. K., Shih, F., & Sarty, G. (2006).
+FMRI of ventral and dorsal processing streams in basic reading processes:
+Insular sensitivity to phonology. Brain Topography, 18, 233-239.
+Borowsky, R., Esopenko, C., Cummine, J., & Sarty, G. (2007). Neural representations
+of visual words and objects: A functional MRI study on the modularity of
+reading and object processing. Brain Topography, 20, 89-96.
+Borowsky, R., Esopenko, C., Gould, L., Kuhlmann, N., Sarty, G. & Cummine, J. (in
+press). Localisation of function for noun and verb reading: Converging evidence
+for shared processing from fMRI activation and reaction time. Language and
+Cognitive Processes (Special Section on the Cognitive Neuroscience of Language).
+Borowsky, R., Loehr, J., Friesen, C. K., Kraushaar, G., Kingstone, A., & Sarty, G. (2005).
+Modularity and intersection of `what', `where', and `how' processing of visual
+stimuli: A new method of fMRI localization. Brain Topography, 18, 67-75.
+Borowsky, R., Owen, W. J., & Fonos, N. (1999). Reading speech and hearing print:
+Constraining models of visual word recognition by exploring connections with
+speech perception. Canadian Journal of Experimental Psychology (Special Issue:
+Visual Word Recognition) (5), 294-305.
+Borowsky, R., Owen, W. J., & Masson, M. E. J. (2002). Diagnostics of phonological
+lexical processing: Pseudohomophone naming advantages, disadvantages, and
+baseword frequency effects. Memory & Cognition, 30, 969-987.
+Borowsky, R., & Masson, M. E. J. (1996). Semantic ambiguity effects in wordidentification. Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 22, 63-85.
+Castles, A., & Coltheart, M. (1993). Varieties of developmental dyslexia. Cognition,
+47, 149-180.
+
+213
+
+Cohen, L., Dehaene, S., Vinckier, F., Jobert, A., & Montavont, A. (2008). Reading
+normal and degraded words: Contribution of the dorsal and ventral visual
+pathways. NeuroImage, 40, 353-356.
+Cohen, L., & Dehaene, S. (2009). Ventral and dorsal contribution to word reading. In
+M. S. Gazzaniga (Ed.), Cognitive neuroscience (4th ed.. MIT Press.
+Coltheart, M., Curtis, B., Atkins, P., & Haller, M. (1993). Models of reading aloud:
+Dual-route and parallel-distributed-processing approaches. Psychological
+Review, 100, 589-608.
+Coltheart, M., Davelaar, E., Jonasson, J., & Besner, D. (1977). Access to the internal
+lexicon. In S. Dornic (Ed.), Attention and performance VI (pp. 535-555). Hillsdale,
+NJ: Erlbaum.
+Coltheart, M., Rastle, K., Perry, C., Langdon, R., & Ziegler, J. (2001). DRC: A dual route
+cascaded model of visual word recognition and reading aloud. Psychological
+Review, 108(1), 204-256.
+Cox, R. W. (1996). AFNI: Software for analysis and visualization of functional
+magnetic resonance neuroimages. Computers and Biomedical Research, 29,
+162-173. AFNI 3-d anatomical brain available at: http://afni.nimh.nih.gov/
+old/afni/astrip+orig.HEAD (and BRIK).
+Cummine, J., Borowsky, R., Vakorin, V., Bird, J., & Sarty, G. (2008). The relationship
+between naming reaction time and functional MRI parameters in Broca's area.
+Magnetic Resonance Imaging, 26, 824-834.
+Cummine, J., Sarty, G., & Borowsky, R. (2010). Localizing the frequency  regularity
+word reading interaction in the cerebral cortex. Neuropsychologia, 48,
+2147-2157.
+Cummine, J., Stockdale-Winder, F., Crossley, M., & Borowsky, R. (2009). Language
+function and dyslexia following hemispherectomy for intractable epilepsy.
+Epilepsy and Behaviour, 15, 470-475.
+Declaration of Helsinki (2008). World Medical Association Declaration of Helsinki:
+Ethical Principles for Medical Research Involving Human Subjects. Available
+from: http://www.who.int/en/.
+Desroches, A. S., McNorgan, C., Minas, J. E., & Booth, J. R. (2012). Lexicality effects
+constrain models of the neural basis of reading development. Brain and
+Language: (Special Issue on Neurobiology of Reading), submitted for publication.
+Esopenko, C., Borowsky, R., Cummine, J., & Sarty, G. E. (2008). Mapping the semantic
+homunculus: A functional and behavioural analysis of overt semantic
+generation. Brain Topography, 21, 22-35.
+Esopenko, C., Gould, L., Cummine, J., Sarty, G., Kuhlmann, N., & Borowsky, R. (2012).
+A neuroanatomical examination of embodied cognition: Semantic generation to
+action-related stimuli. Frontiers in Human Neuroscience (Special Section on
+Semantic Richness Effects) 6. http://dx.doi.org/10.3389/fnhum.2012.00084.
+Fiebach, C. J., Friederici, A. D., Muller, K., & von Cramon, D. Y. (2002). FMRI evidence
+for dual routes to the mental lexicon in visual word recognition. Journal of
+Cognitive Neuroscience, 14, 11-23.
+Gold, B. T., Balota, D. A., Kirchhoff, B. A., & Buckner, R. L. (2005). Common and
+dissociable activation patterns associated with controlled semantic and
+phonological processing: Evidence from FMRI adaptation. Cerebral Cortex, 15,
+1438-1450.
+Gold, B. T., Balota, D. A., Cortese, M. J., Sergent-Marshall, S. D., Snyder, A. Z., Salat, D.
+H., et al. (2005). Differing neuropsychological and neuroanatomical correlates of
+abnormal reading in early-stage semantic dementia and dementia of the
+Alzheimer type. Neuropsychologia, 43, 833-846.
+Harm, M. W., & Seidenberg, M. S. (2004). Computing the meanings of words in
+reading: Cooperative division of labor between visual and phonological
+processes. Psychological Review, 111, 662-720.
+Herbster, A. N., Mintun, M. A., Nebes, R. D., & Becker, J. T. (1997). Regional cerebral
+blood flow during word and nonword reading. Human Brain Mapping, 5, 84-92.
+Hickok, G., & Poeppel, D. (2004). Dorsal and ventral streams: A framework for
+understanding aspects of the functional anatomy of language. Cognition, 92,
+67-99.
+Hickok, G., & Poeppel, D. (2007). The cortical organization of speech processing.
+Nature Reviews Neuroscience, 8, 393-402.
+Indefrey, P., & Levelt, W. J. M. (2004). The spatial and temporal signatures of word
+production components. Cognition, 92, 101-144.
+Jobard, G., Crivello, F., & Tzourio-Mazoyer, N. (2003). Evaluation of the dual route
+theory of reading: A metanalysis of 35 neuroimaging studies. NeuroImage, 20,
+693-712.
+Joubert, S., Beauregard, M., Walter, N., Bourgouin, P., Beaudoin, G., Leroux, J., et al.
+(2004). Neural correlates of lexical and sublexical processes in reading. Brain
+and Language, 89, 9-20.
+Kinoshita, S., & Lupker, S. J. (2002). Effects of filler type in naming: Change in time
+criterion or attentional control of pathways? Memory and Cognition, 30,
+1277-1287.
+Kinoshita, S., & Lupker, S. J. (2003). Priming and attentional control of lexical and
+sublexical pathways in naming: A re-evaluation. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 29, 405-415.
+Laszlo, S., & Federmeier, K. D. (2011). The N400 as a snapshot of interactive
+processing: Evidence from regression analyses of orthographic neighbor and
+lexical associate effects. Psychophysiology, 48, 176-186.
+Laszlo, S., Stites, M., & Federmeier, K. D. (2012). Won't get fooled again: An eventrelated potential study of task and repetition effects on the semantic processing
+of items without semantics. Language and Cognitive Processes, 27, 257-274.
+Marshall, J. C., & Newcombe, F. (1980). The conceptual status of deep dyslexia: An
+historical perspective. In M. Coltheart, K. Patterson, & J. C. Marshall (Eds.), Deep
+dyslexia (pp. 1-21). London: Routledge & Kegan Paul Ltd.
+McCann, R. S., & Besner, D. (1987). Reading pseudohomophones: Implications for
+models of pronunciation assembly and the locus of word-frequency effects in
+
+214
+
+J. Cummine et al. / Brain & Language 125 (2013) 203-214
+
+naming. Journal of Experimental Psychology: Human Perception and Performance,
+13, 14-24.
+McClelland, J. L. (1979). On the time relations of mental processes: A framework for
+analyzing processes in cascade. Psychological Review, 86, 287-330.
+McClelland, J. L., & Rumelhart, D. E. (1981). An interactive activation model of
+context effects in letter perception: Part 1. An account of basic findings.
+Psychological Review, 88, 375-407.
+McDermott, K. B., Petersen, S. E., Watson, J. M., & Ojemann, J. G. (2003). A procedure
+for identifying regions preferentially activated by attention to semantic and
+phonological relations using functional magnetic resonance imaging.
+Neuropsychologia, 41, 293-303.
+McDougall, P., Borowsky, R., MacKinnon, G. E., & Hymel, S. (2005). Process
+dissociation of sight vocabulary and phonetic decoding in reading: A new
+perspective on surface and phonological dyslexias. Brain and Language, 92,
+185-203.
+McNamara, T. (2005). Semantic priming: Perspectives from memory and word
+recognition. New York, NY: Psychology Press.
+Monsell, S., Patterson, K., Graham, A., Hughes, C. H., & Milroy, R. (1992). Lexical and
+sublexical translations of spelling to sound: Strategic anticipation of lexical
+status. Journal of Experimental Psychology: Learning, Memory, and Cognition, 18,
+452-467.
+Morton, J. (1979). Facilitation in word recognition: Experiments causing change in
+the logogen model. In P. A. Kolers, W. E. Wrolstad, & M. Bouma (Eds.). Processing
+visible language (Vol. 1, pp. 259-268). New York: Plenum Press.
+Newman, R. L., & Joanisse, M. F. (2011). Modulation of brain regions involved in
+word recognition by homophonous stimuli: An fMRI study. Brain Research, 1367,
+250-264.
+Owen, W. J., & Borowsky, R. (2003). Examining the interactivity of lexical
+orthographic and phonological processing. Canadian Journal of Experimental
+Psychology, 57, 290-303.
+Paap, K. R., & Noel, R. W. (1991). Dual route models of print to sound: Still a good
+horse race. Psychological Research Psychologische Forschung, 53, 13-24.
+Patterson, K. E. (1982). The relation between reading and phonological coding:
+Further neuropsychological observations. In A. W. Ellis (Ed.), Normality and
+pathology in cognitive functions (pp. 77-111). San Diego, CA: Academic Press.
+Patterson, K., & Hodges, J. (1992). Deterioration of word meaning: Implications for
+word reading. Neuropsychologia, 30, 1025-1040.
+Plaut, D. C., & Booth, J. R. (2000). Individual and developmental differences in
+semantic priming: Empirical and computational support for a singlemechanism account of lexical processing. Psychological Review, 107, 786-823.
+Plaut, D. C., & Booth, J. R. (2006). More modelling but still no stages: Reply to
+Borowsky and Besner. Psychological Review, 113, 196-200.
+Posner, M. I., & Raichle, M. E. (1994). Images of mind. New York: Scientific American
+Library.
+Price, C. J. (2010). The anatomy of language: A review of 100 fMRI studies published
+in 2009. Annals of the New York Academy of Sciences, 1191, 62-88.
+Price, C. J., & Devlin, J. T. (2003). The myth of the visual word form area. NeuroImage,
+19, 473-481.
+
+Price, C. J., Moore, C. J., Humphreys, G. W., & Wise, R. J. S. (1997). Segregating
+semantic from phonological processes during reading. Journal of Cognitive
+Neuroscience, 9, 727-733.
+Pugh, K. R., Mencl, W. E., Jenner, A. R., Katz, L., Frost, S. J., Lee, J. R., et al. (2000).
+Functional neuroimaging studies of reading and reading disability
+(developmental dyslexia). Mental Retardation and Developmental Disabilities
+Research Reviews, 6, 207-213.
+Rastle, K., & Coltheart, M. (1999). Lexical and nonlexical phonological priming in
+reading aloud. Journal of Experimental Psychology: Human Perception and
+Perception, 25, 461-481.
+Reynolds, M., & Besner, D. (2005). Basic processes in reading: A critical review of
+pseudohomophone effects in reading aloud and a new computational account.
+Psychonomic Bulletin & Review, 12, 622-646.
+Sandak, R., Mencl, W. E., Frost, S. J., Rueckl, J. G., Katz, L., Moore, D. L., et al. (2004).
+The neurobiology of adaptive learning in reading: A contrast of different
+training conditions. Cognitive, Affective, & Behavioral Neuroscience, 4, 67-88.
+Schurz, M., Sturm, D., Richlan, F., Kronbichler, M., Ladruner, G., & Wimmer, H.
+(2010). A dual-route perspective on brain activation in response to visual
+words: Evidence for a length by lexicality interaction in the visual word form
+area (VWFA). NeuroImage, 49, 2649-2661.
+Seidenberg, M. S., Waters, G. S., Barnes, M. A., & Tanenhaus, M. (1984). When does
+irregular spelling or pronunciation influence word recognition? Journal of Verbal
+Learning and Verbal Behavior, 23, 383-404.
+Shaywitz, B. A., Shaywitz, S. E., Pugh, K. R., Mencl, W. E., Fulbright, R. K., Skudlarski,
+P., et al. (2002). Disruption of posterior brain systems for reading in children
+with developmental dyslexia. Biological Psychiatry, 52, 101-110.
+Shallice, T., & Warrington, E. K. (1980). Single and multiple component central
+dyslexic syndromes. In M. Coltheart, K. Patterson, & J. C. Marshall (Eds.), Deep
+dyslexia (pp. 119-145). London: Routledge & Kegan Paul.
+Shallice, T., Warrington, E. K., & McCarthy, R. (1983). Reading without semantics.
+The Quarterly Journal of Experimental Psychology, 35A, 111-138.
+Simos, P. G., Breier, J. I., Fletcher, J. M., Foorman, B. R., Castillo, E. M., & Papanicolaou,
+A. C. (2002). Brain mechanisms for reading words and pseudowords: An
+integrated approach. Cerebral Cortex, 12, 297-305.
+Simos, P. G., Fletcher, J. M., Sarkari, S., Billingsley-Marshall, R., Denton, C. A., &
+Papanicolaou, A. C. (2007). Intensive instruction affects brain magnetic activity
+associated with oral word reading in children with persistent reading
+disabilities. Journal of Learning Disabilities, 40, 37-48.
+Sternberg, S. (1969). Memory-scanning: Mental processes revealed by reactiontime experiments. American Scientist, 57, 421-457.
+Talairach, J., & Tournoux, P. (1988). Co-planar stereotaxic atlas of the human brain.
+New York, NY: Thieme Medical Publishers, Inc.
+Wise, R. J. S., & Price, C. J. (2006). Functional neuroimaging of language. In R. Cabeza
+& A. Kingstone (Eds.), Handbook of functional neuroimaging of cognition (2nd ed.,
+pp. 191-228). Cambridge, MA: The MIT Press.
+Zevin, J. D., & Balota, D. A. (2000). Priming and attentional control of lexical and
+sublexical pathways during naming. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 26, 121-135.
+
+

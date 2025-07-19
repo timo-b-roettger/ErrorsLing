@@ -1,0 +1,1280 @@
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+https://doi.org/10.1007/s10936-023-09957-0
+
+Implicit Statistical Learning in L2 Sentence Processing:
+Individual Cognitive Differences
+On-Soon Lee1
+Accepted: 26 March 2023 / Published online: 4 April 2023
+(c) The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2023
+
+Abstract
+This study investigates whether statistical learning ability, conceptualized as a cognitive
+ability to learn regularities implicitly, is a good predictor for L2 learners' online language processing performance. Native-English-speaking adults, as a control group, and
+native-Korean-speaking adult L2 learners of English participated. They completed: (a)
+an artificial grammar learning task containing nonadjacent dependencies in sequences of
+non-words, to test statistical learning ability; and (b) a self-paced English reading task
+containing relative clauses (RC) in which the "filler" and the "gap" formed a long-distance
+dependency, to test language processing. Both tasks' stimuli were presented element-byelement to mimic the incremental nature of online language processing. The results for
+the L1 group show that higher accuracy scores on the artificial grammar learning task did
+not predict higher sentence comprehension scores. The results for the L2 group, however,
+show a marginally significant correlation between accuracy scores on the artificial grammar learning task and sentence comprehension scores. For both groups, the reading time
+difference between grammatical and ungrammatical items in the artificial grammar learning task did predict the speed of reading times for items with RCs with a long-distance
+dependency in the sentence processing task: Larger differences in RTs in the artificial
+grammar task correlated with slower reading at the critical region of English RCs. These
+findings suggest a similar mechanism for online first and second language processing of
+core syntactic phenomena and for statistical learning ability that involves implicitly tracking distributional relations across elements.
+Keywords Implicit statistical learning * Cognitive mechanism * L2 sentence processing *
+Artificial grammar learning * Individual difference * English RC
+
+On-Soon Lee
+oslee@scnu.ac.kr
+1
+
+Institute of General Edcation, Sunchon National University, 255 Jungang-ro, Sunchoen-si,
+Jellanam-do, Korea
+
+13
+
+1038
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+Introduction
+Implicit statistical learning - the ability to track and generalize frequent patterns or regularities in a language - allows language learners to uncover the distribution of elements or patterns in language input, such as frequency or conditional probability (Pacton & Perruchet,
+2008; Saffran, 2003). Over the past two decades, much research has focused on statistical
+learning (SL), and particularly, in the field of cognitive psychology, on sensitivity to distributional patterns in sequential input (Gomez, 2002; Gomez & Gerken, 1999, 2000; Gomez
+& Maye, 2005; Onnis, Waterfall, & Edelman, 2008; Saffran, Aslin, & Newport, 1996; Saffran, Newport, & Aslin, Saffran et al. 1996a, b; Takahashi and Lidz, 2008; Thompson and
+Newport, 2007). Similarly, language acquisition research has conceptualized this ability
+as the ability to learn language implicitly, meaning without explicit instruction. Implicit
+learning is defined as the ability to be "automatic, associative, nonconscious, and unintentional" (Kaufman et al., 2010, p. 321). There seems to be a common consensus that statistical learning is a basic cognitive mechanism, which, as an instance of implicit learning,
+may be related to a mechanism involved in language acquisition and processing. Without
+intending to suggest that statistical learning and implicit learning are identical, this study
+follows Pacton and Perruchet (2008) and Conway and Christiansen (2006) in "consider[ing]
+implicit learning and statistical learning to refer to the same underlying phenomenon: inducing structure from input following exposure to multiple exemplars" (p. 357).1
+Some first language (L1) studies have demonstrated that humans are very skilled in
+detecting and generalizing rules from verbal and non-verbal input, in both auditory and
+visual modalities. In two seminal studies, Saffran and her colleagues investigated whether
+infants and adults use statistical patterns in auditory sequential sound strings (Saffran et al.,
+1996; Saffran, Newport, & Aslin, Saffran et al. 1996a, b). They demonstrated that after even
+a short period of exposure to patterned sequential input, both infants and adults are able
+to distinguish boundaries between non-words in sound strings. Other research has found
+that the statistical distribution of cues between non-words is critical to learning a range of
+pattern types, from basic regularities to structural phrase rules (Takahashi & Lidz, 2008;
+Thompson & Newport, 2007). Taken together, these studies' findings provide strong support
+for the existence of a statistical learning mechanism - the ability to implicitly detect statistical patterns from sequential input, after brief exposure - that is involved in many aspects
+of acquiring language. From the theoretical perspective, according to Siegelman and Frost
+(2015), "the ability to pick up regularities in the world is taken as a domain-general central
+mechanism by which cognitive systems discover the underlying structural properties of any
+input" (p. 105). As Siegelman and Frost pointed out, the domain-general capacity of statistical learning provides the cognitive system with cues regarding structural properties of written and spoken words, thus serving a crucial role in language acquisition.
+Considering the relationship between statistical learning and language, some scholars have conducted extensive investigations comparing and seeking correlations between
+implicit statistical learning and other language abilities (e.g., reading ability, psychometric
+1
+
+While there are subtle differences between implicit learning and statistical learning (see Hamrick & Rebuschat, 2012, pp. 365-366, for a review), both focus on how learners take in new information from sequential
+input, which is why researchers such as Pacton and Perruchet (2008) and Conway and Christiansen (2006)
+treat implicit and statistical learning as a "single underlying phenomenon." In addition, both have been measured by artificial grammar learning in studies in which learners are first exposed to artificial language and
+then tested to see how much they have learned.
+
+13
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+1039
+
+intelligence, sentence comprehension). Some recent research along these lines has further
+explored whether differences in individual ability might explain variations in the learning
+of regularities in language. Results from some research indicate that variation in statistical learning is related to the language abilities of monolingual adult groups (Arciuli &
+Simpson, 2012; Conway, Bauernschmidt, Huang, & Pisoni, 2010; Kaufman et al., 2010;
+Misyak & Christiansen, 2012; Misyak, Christiansen, & Tomblin, 2010; Spencer, Kaschak,
+Jones, & Lonigan, 2014). Exploring individual cognitive differences in statistical learning
+is important because the findings can provide direct evidence for an underlying cognitive
+mechanism2 shared by statistical learning and sentence processing, which might extend to
+a relationship between statistical learning and language acquisition. In this vein, statistical
+learning ability can be taken as a general ability to predict the ease or difficulty of language
+acquisition (e.g., Conway & Pisoni, 2008).
+While a few prior studies have taken a statistical learning approach to investigate individual cognitive differences in various aspects of L2 acquisition, their findings have been
+mixed (Granena, 2013; McDonough & Trofimovich, 2016; Onnis, Chun, & Lou-Magnuson,
+2018; Robinson, 2005). Early work by Robinson (2005) examined the relationship between
+variation in artificial grammar learning ability and variation in the ability to learn rules in
+Samoan by L2 learners, but found no correlation. McDonough and Trofimovich (2016), on
+the other hand, found a significant relationship between statistical learning ability and the
+ability to learn L2 morphosyntactic patterns. Due to such inconsistent findings, the role of
+variation in statistical learning as a good predictor of individual L2 learners' performance
+remains unclear.
+In sum, overall, L1 studies support the power of statistical learning as an underlying cognitive mechanism in language ability, but relatively little research has focused on whether
+a statistical learning mechanism is involved in second or foreign language acquisition and
+processing by examining individual differences in statistical learning. Furthermore, research
+on the statistical learning approach has not elucidated whether first language and second
+language processing share a similar domain-general cognitive mechanism. The current
+study investigates whether L1-Korean L2 learners of English attend to statistical patterns in
+online processing by examining the relation between variation in the participants' statistical learning and variation in their L2 sentence processing. The findings provide empirical
+evidence for a shared cognitive mechanism in L1 and L2 learning, and contribute to our
+understanding of statistical learning in L2 acquisition and processing.
+
+Background
+Statistical Learning and Learning Rules
+Statistical learning refers to the process by which learners acquire information about distributions of elements in the input (e.g., Saffran, 2003). For example, by keeping track of
+transitional probability from one syllable to the next for every syllable in a continuous
+stream, learners can distinguish between a word and another word. Statistical learning may
+2
+
+While "cognitive mechanism/process" has a broad meaning in psychology, in this study, "cognitive mechanism" is used as a general term to refer to the mental processes involved in learning language, such as taking
+in new information, forming new knowledge, and connecting new knowledge to prior knowledge.
+
+13
+
+1040
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+apply to many areas of language acquisition, including speech segmentation (Saffran et
+al., 1996; Saffran, Newport, & Aslin, Saffran et al. 1996a, b) and the detection of syntactic
+generalizations (Gomez & Gerken, 1999). Some researchers hold that the human capacity to
+abstract patterns and relationships from sequential input is related to the ability to detect and
+generalize rules while acquiring language (see Rebuschat & Williams, 2012 for a review).
+That is, when learners can track a statistical pattern in a new language, they can acquire the
+particular structure on the basis of the statistical pattern of the order of words.
+The theoretical motivation for these assumptions comes from an early study by Reber
+(1967), who argued that it is possible to implicitly acquire an abstract representation of
+structure and grammar. In order to examine how implicit learning is operationalized in the
+process of learning a grammar, Reber adopted an artificial grammar learning (AGL) paradigm. The learning materials included letter sequences, such as VXXVS and TPPPTS, generated according to the grammar. After being exposed to these sequences for a short period,
+the participants completed a grammaticality judgment test on new letter sequences, both
+grammatical and ungrammatical. Findings showed above-chance performance, suggesting
+incidental acquisition of statistical patterns in letter sequences.
+Later, researchers in the field of language acquisition applied this idea to explain how
+infants learn. This line of research has tested two assumptions of the statistical learning
+approach. The first assumption is that language learners rely heavily on learning mechanisms to extract information from their linguistic environment. The second assumption is
+that statistical learning is a useful skill for detecting relationships among small elements
+(e.g., phonemes, words, phrases) in language. The last two decades have witnessed increasing interest in the contribution of statistical learning to language acquisition, including sensitivity to distributional cues (i.e., conditional or transitional probabilities).
+Since the work of Saffran and her colleagues, researchers have extensively adopted the
+artificial grammar learning paradigm in order to examine the role of statistical learning at the
+level of syntax acquisition. The role of statistical learning has been documented with regard
+to several syntactic phenomena, including syntax-like regularities (Gomez & Gerken, 1999)
+and phrase structure (Onnis et al., 2008; Takahashi & Lidz, 2008; Thompson & Newport,
+2007). Like the earliest research in the field, Gomez and Gerken (1999) initially investigated
+whether 12-month-old infants could learn a very simple word order in an artificial language. The results showed that infants successfully distinguished grammatical strings from
+ungrammatical strings. These results support the findings of Saffran and her colleagues that
+infants can extract and learn a linguistic property of an artificial language from sequential
+linguistic input. In addition, Gomez and Gerken's (1999, 2000) work shows that infants are
+capable of abstracting a simple structure from linguistic experience. Similarly, Thompson
+and Newport (2007) and Takahashi and Lidz (2008) found that learners can use statistical
+patterns and learn the abstract representation of a rule inherent in an artificial language. Taking these studies' results together, one possible conclusion is that statistical patterns within
+and across phrases are very useful for learning syntactic rules. As such, many researchers
+believe that learners' sensitivity to rules in an artificial language is closely associated with
+their abilities to learn structures and to learn natural languages. However, this conclusion is
+far from certain. Even though previous work has successfully demonstrated learners' ability
+to abstract a rule from input, the theoretical assumption of a correlation between the ability
+to track a rule in an artificial grammar learning paradigm and the ability to acquire an actual
+language has rarely been tested in L2 studies. To provide direct evidence of how statistical
+
+13
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+1041
+
+learning is operationalized in language acquisition and processing, the current study examines variation in statistical learning ability in an artificial grammar learning task along with
+L2 learners' online sentence processing performance in a self-paced reading task.
+
+Variation in Statistical Learning and Language Performance
+Some research on the ability to detect the statistical properties of a grammar has further
+focused on individual variation in statistical learning in efforts to provide direct evidence
+of a relation between statistical learning and language acquisition and processing. Recent
+research has explored individual differences in the performance of statistical learning tasks
+(i.e., visual or auditory artificial grammar learning tasks), and how these differences may
+be related to individual variation in other aspects of language learning (e.g., reading skills,
+self-paced reading of complex sentences, word-definition tasks, vocabulary skills, literacy
+skills). Many of the findings to date suggest that statistical learning ability and language
+learning ability are related (Arciuli & Simpson, 2012; Conway et al., 2010; Misyak & Christiansen, 2012; Misyak et al., 2010).
+One such study was conducted by Misyak and Christiansen (2012). They employed two
+auditory statistical learning tasks and two language comprehension tasks, and measured
+several factors involved in learning language: lexical knowledge, reading experience, verbal working memory, short-term memory span, fluid intelligence, and cognitive motivation. Their results showed correlations between individual variation in statistical learning
+tasks and learners' performance in language comprehension tasks, suggesting that statistical learning ability can be a predictor of learners' language performance. Specifically, the
+participants with higher sensitivity to statistical properties, as manifested in their ability to
+detect and generalize such regularities, showed better performance in language comprehension. In addition, no measure except for statistical learning scores was a good predictor
+of performance in language comprehension, indicating that statistical learning is a better
+predictor of individual variations in language performance.3 These findings support the
+assumption that there is a relationship between statistical learning on one hand and language
+acquisition and processing on the other: learners who are more sensitive to regularities in
+input would have an advantage in learning a language.
+As described above, L1 studies have mainly focused on empirically examining the relationship between statistical learning ability and language abilities. On the other hand, L2
+studies have considered artificial grammar learning as a way to measure L2 learners' implicit
+learning ability. The similarity between implicit learning and statistical learning has been
+accepted in the field of cognitive psychology (e.g., Granena, 2013; McDonough & Trofimovich, 2016; Siegelman, Bogaerts, Christiansen, & Frost, 2017) in that statistical learning
+occurs without explicit instruction in the course of artificial grammar learning. Ellis (2006a,
+b) has provided extensive discussion of L2 acquisition as contingency learning through an
+implicit learning mechanism. In earlier L2 research, Robinson (2005) used an implicit arti3
+
+The reliability of artificial grammar learning tasks to measure statistical learning ability and individual
+differences has been questioned (Kalra et al., 2019; Salthouse, McGuthry, & Hambrick, 1999; Stark-Inbar,
+Raza, Taylor, & Ivry, 2017). Recent L1 studies (and a few L2 studies) have shown significant correlations
+between statistical learning and language comprehension, indicating that it might be a better predictor of
+variations in language performance than some other measures (e.g., working memory; McDonough & Trofimovich, 2016; Misyak & Christiansen, 2012). However, further research is needed to ascertain the reliability
+of artificial grammar learning tasks.
+
+13
+
+1042
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+ficial grammar learning task to see if the findings from previous studies with L1 speakers
+(Knowlton & Squire, 1996; Reber, Walkenfeld, & Hernstadt, 1991) could be generalized to
+L2 speakers. Robinson's study tested the ability to abstract a rule from an artificial grammar by using visual stimuli. The study also extended previous research by examining the
+role of implicit learning ability, as measured by artificial grammar learning, in learning a
+rule of word arrangement in a natural language (i.e., Samoan). Robinson found that (a) the
+L2 learners successfully abstracted a rule in the artificial grammar learning task, as the L1
+speakers did in studies by Reber et al. (1991) and Knowlton and Squire (1996); and (b) the
+L2 learners' success in the artificial grammar learning task was not closely related to their
+acquisition of the rule in the natural language.
+However, Robinson's (2005) findings alone are not sufficient to reveal how implicit artificial grammar learning might or might not be related to L2 language learning. Recent work
+by McDonough and Trofimovich (2016) investigated whether an aural test of statistical
+learning, adapted from a task used by Gomez (2002), could predict L2 learners' learning of
+morphosyntactic patterns (a word order of SVO or OVS in simple transitive sentences) in
+Esperanto. Their findings showed that statistical learning ability was a significant predictor
+of Esperanto pattern learning but not of working memory capacity. Extending this finding,
+they also found a significant relationship between statistical learning ability and the learning
+of the patterns of English double object constructions. They concluded that scores on the
+artificial grammar learning task were predictive of individual differences in the L2 learners'
+pattern learning in Esperanto and English. These findings, which contradict those of Robinson (2005), suggest the need for further investigation of the relationship between statistical
+learning ability and individual differences in second/foreign language learning.
+The inconsistent findings of these previous studies could be due to the limitations of
+using offline measures across different modalities of AGL tasks (e.g., the auditory AGL task
+in McDonough & Trofimovich, 2016 vs. the visual AGL task in Robinson, 2005; Reber et
+al., 1991), which might obscure a correlation between statistical learning ability, as assessed
+through test scores in the AGL tasks, and L2 learning performance. Siegelman, Bogaerts,
+and Frost (2016) pointed out that offline test scores used to assess the final learning stage
+in an AGL task do not provide information on the participants' implicit learning of statistical regularities across time, and furthermore, that the previous studies administered their
+offline tests only after the learning phase (i.e., the familiarization phase), although learners'
+memory and encoding abilities might affect the learning process. At this point, it seems difficult to differentiate the abilities needed to abstract statistical regularities from the ability
+to learn to do so. Consequently, what research has treated as "statistical learning ability"
+might reflect the joint contribution of several components. To mitigate the issues caused
+by using offline measures, the current study also includes an online measure, reading times
+(RTs) of sequences of four non-words, using the RT difference between ungrammatical and
+grammatical strings (according to the AGL), to reflect how well each individual has learned
+the statistical regularities of such sequences. A few previous studies have used RTs to assess
+learners' statistical learning ability, in particular for visual AGL tasks, assuming faster
+responses for predictable sequences (Bertels et al., 2016; Bertels, Franco, & Destrebecqz,
+2014). Importantly, in a very few L1 studies, a significant correlation between offline accuracy scores on statistical learning tasks and performance on sentence processing tasks (i.e.,
+RTs) has been found (e.g., Misyak et al., 2010), but this correlation has rarely been tested in
+L2 studies. To fill this gap, the current study uses both offline (accuracy scores) and online
+
+13
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+1043
+
+(RTs) measures of the participants' performance on the AGL task to provide direct evidence
+of whether statistical learning ability and L2 learners' performance are related to each other.
+In sum, while statistical learning ability has been linked to individual differences in first
+language acquisition, its role in explaining individual differences in L2 sentence processing has yet to be established. The current study's aim is to expand the findings of previous
+studies in two ways. First, it explores whether statistical learning is related to L2 sentence
+processing by comparing L2 learners' judgment accuracy scores and reading time difference scores on an artificial grammar learning task to their comprehension accuracy scores
+and reading times on an L2 sentence processing task. Second, it explores whether L1 and
+L2 speakers share a similar cognitive mechanism underlying both statistical learning and
+language processing by comparing English L1 and L2 groups' performance. The study thus
+fills a gap and contributes to the existing literature on statistical learning, and further, illuminates the role of implicit learning processes in language learning.
+
+Research Questions
+As this literature review indicates, monolingual speakers' sensitivity to statistical patterns
+in sequential input facilitates various aspects of language acquisition. This fact in turn suggests that statistical learning, as an important aspect of learners' cognitive ability, is likely
+to affect learners' L2 sentence processing. Yet these relationships have not been empirically tested with L2 speakers. This study therefore addresses this gap by investigating the
+relationship between L2 learners' statistical learning ability and their L2 processing ability.
+It further examines whether English L1 speakers and L2 learners share a similar cognitive
+mechanism for processing sentences by looking at variations in statistical learning and English sentence processing. The following research questions are addressed:
+(1) What are the relationships between English L2 learners' statistical learning ability
+(measured by their judgment accuracy scores and reading time difference scores on an
+artificial grammar learning task) and their ability to process English relative clauses
+(measured by their comprehension accuracy scores and reading times on a self-paced
+reading task)?
+(2) Which of the variables predicts the individual differences in language processing in L1
+and L2 groups?
+
+Experiment
+Participants
+Two groups participated in the study. The L1 group comprised 53 English native speakers, all undergraduates at an American university. The L2 group comprised 110 L1-Korean
+learners of English as a second language (85 women and 25 men; mean age = 21.3, SD = 1.7,
+range 19-26), all of them undergraduates at a Korean university. Their English proficiency was advanced, based on their TOEIC test scores (mean score = 907.3 [Max = 990],
+
+13
+
+1044
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+SD = 62.5, range = 770-990).4 Most of them were majoring in English, English education,
+or linguistics. The participants' mean length of residence in English-dominant countries
+(e.g., the United States, the United Kingdom, Canada, Australia) was six months (SD = 1.63,
+range = 0-8 years), and their mean length of exposure to English grammar was 11 years
+(SD = 2.7, range = 6-19 years). All participants received a small monetary compensation.
+
+Materials
+The study used two types of tasks: (a) an artificial grammar learning (AGL) task, which is
+typically used to assess participants' statistical learning ability; and (b) a self-paced reading
+task with English relative clauses.
+
+Artificial Grammar Learning task
+For the artificial grammar learning task stimuli, this study adopted a grammar involving a
+nonadjacent dependency rule from Gomez's (2002) study. Example (1) shows nonadjacent
+dependencies formed between the first position (pel, dak, or vot) and the final position (jic,
+rud, or tood) of four-element sequences, with 24 different sets of intervening non-words
+(e.g., rob gik). The transitional probability between pel and rob is much lower than that
+between pel and jic. As Gomez showed, based on this statistical pattern, learners can detect
+and generalize the rule underlying the linear dependency between pel as the first word and
+jic as the last word. For the initial familiarization phase, 72 grammatical sentences were
+generated from this grammar and presented in two blocks. For the test phase, 40 sentences,
+both grammatical and ungrammatical, were generated, the latter by using incorrect elements
+in the nonadjacent dependency. In (1a), for instance, jic follows pel after two intervening
+words in a grammatical string; when the final non-word is tood instead of jic, as in (2a),
+the string is ungrammatical according to the grammar to which the participants had been
+exposed.
+(1) a. pel rob gik jic.
+b. dak vot juf rud.
+c. vot vev fuf tood.
+(2) a. * pel deg dap tood.
+b. * dak bov bul jic.
+c. * vot bup cag rud.
+The AGL task was visual in order to create a situation similar to that of the subsequent
+self-paced English reading task. As illustrated in Fig. 1, the artificial grammar learning task
+consisted of an instruction phase, a familiarization phase, and a test phase.
+Before starting the task, participants were informed that they would read a series of
+four-word sentences in an artificial language (i.e., a made-up language), all of which were
+possible sentences according to the artificial grammar.
+4
+
+No correlation was found between English proficiency scores and statistical learning scores (r = .157) or
+between English proficiency scores and comprehension question accuracy (r = .108), indicating that the participants' proficiency did not affect their performance on the experimental tasks. English proficiency is not
+treated as a variable in this study's analyses.
+
+13
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+1045
+
+Fig. 1 Procedure of the artificial grammar learning task
+
+The task was presented on a computer running E-prime (Version 3.0). For the familiarization phase, each four-word sentence was presented automatically on the computer
+screen, one at a time, in random order. First, a fixation point appeared on the screen for 250
+milliseconds (ms). Then, each word of the sentence appeared for 250 ms on the left side of
+the computer screen; finally, the whole sentence consisting of the four words appeared and
+remained on the computer screen for one second. The next item would then automatically
+begin. The familiarization phase lasted approximately five minutes. In the following test
+phase, each sentence was presented in a word-by-word noncumulative moving window
+paradigm, similar to the procedure in a self-paced reading task, and each participant judged
+if each sentence was grammatical. Before they began this phase, the participants were told
+that they would be tested in order to see how much they had learned from reading the series
+of sentences in the previous phase. They were asked to judge the sentences' acceptability
+carefully but as quickly as possible. Accuracy was determined by correct judgments. Reading times were measured for each word; for the final word, the time was measured from the
+onset of the word to immediately before the acceptability judgment question appeared on
+the screen (i.e., between the key press to make the final word appear and the key press to
+make the acceptability question appear). In this phase, participants read 40 sentences from
+the made-up language to which they had been exposed during the training phase; half of the
+40 sentences were grammatical, and the other half were ungrammatical.
+This task design has the same motivation as tests of serial reaction times (SRT; Nissen &
+Bullemer, 1987) and visual statistical learning tasks (VSL tasks; Bertels et al., 2014; Bertels
+et al., 2016). The rationale for both paradigms is that if participants implicitly learned the
+statistical pattern in the sequence of four words, their RTs (the online measure) should be
+faster when the final element is predictable (i.e., grammatical), and slower when the final
+element is unexpected (i.e., ungrammatical); and their judgment scores (the offline measure)
+should show whether the participants had implicitly learned the statistical regularities during their short period of exposure to the input (i.e., depending on whether their judgment
+scores showed generally above-chance-level performance, as in previous studies). This
+design thus allows the study to directly examine learners' processing of nonadjacent dependencies in the artificial language. Unlike previous statistical learning methods and in order
+to facilitate comparison, this paradigm is designed to reveal the continuous time course of
+statistical processing by visually, but not aurally, presenting the non-words, similar to a selfpaced reading paradigm.
+
+13
+
+1046
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+Self-paced Reading Task
+The self-paced reading task in English was conducted on a computer running E-Prime (Version 3.0). Each sentence was presented one word at a time on the computer screen, left to
+right, in a noncumulative, moving window manner, as the participant pushed the space bar
+(Just et al., 1982).
+The self-paced reading task consisted of 16 experimental stimuli sentences (eight subject
+relative clauses as in [3b] and eight object relative clauses, as in [3a]), along with 32 fillers.
+Participants also answered a yes/no comprehension question, as in (3c), after reading each
+sentence.
+(3) a. The novelist that the poet admired ____ wrote two masterpieces last year.
+ . The novelist that ____ admired the poet wrote two masterpieces last year.
+b
+c. Did the poet admire the novelist? [comprehension question]
+All fillers were complex sentences (none with relative clauses): 16 conjoined constructions
+(e.g., Steven called Jennifer and invited her to be in his film) and 16 bi-clausal constructions
+(e.g., Even though Tom drove his car slowly, he got a speeding ticket). Accuracy was determined by correct yes/no responses. Every sentence had seven regions, and reading times
+were recorded for each region of a sentence.
+In the artificial grammar, the nonadjacent dependency formed between the first position
+(e.g., Example [1a]: pel) and the final position (e.g., Example [1a]: jic) with the two intervening words (e.g., rob gik) is similar to the long-distance dependency formed in English
+object relative clauses. According to Gibson's (1998) Dependency Locality Theory (DLT),
+the distance of dependencies affects integration costs in language comprehension. In an
+object relative clause (e.g., The novelist that the poet admired ____ wrote two masterpieces
+last year.), the total integration cost is greater than in a subject relative clause (e.g., The
+novelist that ____ admired the poet wrote two masterpieces last year.) because of the differences in linear distance, as calculated by the number of new referential elements intervening
+within the dependencies. No new referential elements at all intervene between the head noun
+(the novelist) and the corresponding gap in the subject relative clause, so the integration cost
+is zero. In the object relative clause, two referential elements (poet, admired) intervene
+between the head noun (the novelist) and its gap. The integration cost for the dependency in
+such an object relative clause is therefore two units, compared to zero for the dependency
+in a subject relative clause. Thus, the integration cost at the embedded verb (admired) in an
+object relative clause is greater than it is at the same position in a subject relative clause.
+By Gibson's criteria, an object relative clause, but not a subject relative clause, involves a
+long-distance dependency, as does the nonadjacent dependency in the AGL task. Therefore,
+the critical items in the self-paced reading task employed in this study are the sentences with
+object relative clauses; the responses to these are the data for the analysis of a correlation
+between the RT difference scores (ungrammatical vs. grammatical) in the AGL and the RTs
+in the English sentence reading task. The English task also includes sentences with subject
+relative clauses to provide a baseline for reading times.
+
+13
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+1047
+
+Procedures and Data Analysis
+In individual sessions, each participant completed the artificial grammar learning task first,
+and the self-paced English reading task next. They then completed a language background
+survey. Each session took approximately 40 min. Following the standard procedure in studies of this type, the participants' statistical learning ability was calculated in terms of their
+accuracy rate on the grammaticality judgment task (hereafter, AGL accuracy) and in terms
+of their ungrammatical-grammatical RT difference scores at the last word of the four-word
+strings (hereafter, AGL RT difference), based on only correct responses on the grammaticality judgment task. Because there were 40 sentences (20 grammatical and 20 ungrammatical)
+in the test phase, the maximum number of correct responses was 40. The reading times at
+each word were recorded during the test phase. The RTs of interest for the data analysis
+were those on the final word. While most previous studies used an offline measure (i.e., AGL
+accuracy), the online measure of AGL RT difference has been used in a few studies of statistical learning, whose findings support the assumption that AGL RT differences between
+ungrammatical and grammatical strings reflect whether learners learned a pattern in an AGL
+task (e.g., Misyak et al., 2010).
+In this self-paced task, the reading time for each word was measured from the word onset
+to the participant's press of the space bar that made the word disappear. The self-paced
+design means that an RT should be faster when the participant encounters an expected word
+after reading the previous word (i.e., the participant predicted the current word), and slower
+if the participant encounters an unexpected word (i.e., the participant did not predict the
+current word). Thus, RTs reflect the ease or difficulty of learning relationships among words
+or of processing sentences. The reason to analyze only the RTs on the final word (although
+the self-paced reading task measures the reading times of each word) is to mitigate the task
+difference, which could obscure correlations between statistical learning ability and L2 performance. Assuming that RTs are indirectly modulated by the grammaticality of a string of
+four non-words, RT difference scores between ungrammatical and grammatical strings on
+the AGL task should reflect AGL learning ability; therefore, the current study compares the
+results of its offline measures and its online measures by examining correlations between
+the offline results (AGL accuracy and English self-paced reading task comprehension accuracy scores) and the online results (AGL RT difference and RTs at the critical region of the
+English self-paced reading task).
+In the self-paced reading task, the participants' accuracy rates on the comprehension
+questions and reading times at the critical region (e.g., the vicinity of the main verb wrote
+in [3]) were recorded. The main verb is the critical region because it is where a slowdown
+would reflect difficulty keeping track of the long-distance dependency between the head
+noun (e.g., the novelist [3a]) and its gap (e.g., underscore [3a]), which occurs right before
+the main verb. Only RTs for items with correct responses in the grammaticality judgment
+task of the AGL task and correct responses to the comprehension questions on the English
+sentence task are included in the data analysis.
+
+Predictions
+Following the rationale of a traditional SRT paradigm, the final word is the area of interest in
+the current study because, if participants track the nonadjacent dependencies in the strings,
+
+13
+
+1048
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+then they would read increasingly faster to the final word in the grammatical sentences
+while they would slow down when they encounter the final word in the ungrammatical
+sentences, as the latter case would violate their expectation (Misyak et al., 2010; Nissen &
+Bullemer, 1987). Therefore, AGL RT differences at the critical final word are taken to reflect
+a participant's ability to keep track of the nonadjacent dependency formed between the pair
+of the first word (e.g., pel as in [1a]) and the final word (e.g., jic as in [1a]). Thus, a large
+difference in RTs at the final word between ungrammatical (longer RTs) and grammatical
+(shorter RTs) conditions in an AGL, indicating that learners are sensitive to nonadjacent
+dependency rules between words, should predict a higher speed in the vicinity of critical
+regions in English object relative clauses.
+To directly examine the relationship between statistical learning ability and sentence processing, this study looks at the relationship between AGL accuracy and AGL RT difference
+at the critical region (i.e., final word)5 for the artificial grammar learning task, and comprehension accuracy rates and reading times at the critical region (i.e., the vicinity of the main
+verb) for the self-paced reading task. The study predicts that better statistical learners will
+show greater accuracy in comprehending English object relative clauses, reflected in faster
+reading times at the critical region, than poorer statistical learners. This prediction would
+be borne out by correlations between AGL accuracy and comprehension accuracy rates on
+the reading task, and by correlations between AGL RT difference and reading times at the
+critical region of the object relative clauses in the reading task,6 a typical comparison used
+in L2 processing research (see Juffs & Rodriguez, 2015 for a review). If such correlations
+appear, they could suggest a shared mechanism between L1 and L2 processing. Specifically,
+looking at online measures rather than offline measures provides information about learners'
+ability to learn (e.g., how well learners notice, or how sensitive learners are to the statistical
+pattern of the input). A better ability to learn predicts faster responses (i.e., reaction times/
+reading times at the critical region) based on the learners' ability to predict sequences (Siegelman et al., 2017, p. 7). Both relations were examined by conducting linear regressions. In
+the measurement of reading times, the current study followed Ferreira and Clifton's (1986)
+widely used method for calculating residual reading times.
+
+5
+
+Reading times at the critical word (the final word of the artificial grammar learning task) were not trimmed
+because the length of each non-word at the final position presented in an artificial grammar learning task is
+the same. Reading times at the final word were measured as the period between the onset of the final word
+until right before the judgment question appeared on the screen.
+6
+
+A reviewer suggested that the correlation between ungrammatical-grammatical RT difference scores at the
+final word and the object relative clause-subject relative clause RT difference at the critical region might
+explain the link between the two tasks, indicating whether statistical learning ability can be a good predictor of L2 sentence processing. However, this study is interested specifically in the correlation between AGL
+RT difference and the speed of RTs at the critical region of object relative clauses, due to the similarity
+between the nonadjacent dependency in the AGL task and the long distance dependency in English object
+relative clauses (see Sect. 3.2.2). This study includes subject relative clauses in the English sentence task to
+provide a baseline, given that the processing asymmetry between subject and object relative clauses is well
+documented. However, it also includes an analysis of correlations between the AGL RT difference and the
+subject-object relative clause RT difference in order to better understand the possible links between statistical
+learning ability and L2 learners' performance.
+
+13
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+1049
+
+Results
+Descriptive Statistics
+Two preliminary analyses were conducted. The first used the participants' AGL accuracy
+and AGL RT difference scores. The second used the comprehension accuracy rates and
+reading times at the critical regions in the self-paced reading task. Table 1 provides descriptive statistics for the scores on all of the tasks by the L1 and L2 groups. In what follows,
+we will first discuss the L1 group's results on both tasks, and then the L2 group's results on
+both tasks.
+On the AGL task, the L1 group's average AGL accuracy in judging the acceptability of
+the test items with nonadjacent dependencies was 64.69% (SD = 23.92), which is significantly higher than chance (t(52) = 19. 620, p < .01), and the average reading time (RT) at the
+critical region was 2241.20 ms (SD = 1334.30). The average AGL accuracy differed numerically in grammatical and ungrammatical conditions (grammatical: 67.17%; ungrammatical:
+61.32%; t(52) = 1.896, p = .064). In addition, the average reading times at the critical region
+differed significantly in the grammatical and ungrammatical conditions (grammatical:
+2094.16 ms; ungrammatical: 2388.23 ms; t(52) = 1.960, p < .05): the participants read more
+slowly on the final word in the ungrammatical condition, in which the final word would be
+unexpected based on what they had learned. These results indicate that the English native
+group was able to distinguish grammatical strings from ungrammatical strings in the AGL,
+showing that they had learned the artificial grammar. Overall, the L1 participants' AGL
+accuracy results in this study are similar to those previously reported for English-nativespeaking participants (69.2%, SD = 24.7) in auditory AGL tasks (e.g., Misyak & Christiansen, 2012), suggesting that they successfully learned the AGL during the learning session.
+For the self-paced reading task, the L1 group's mean comprehension accuracy was
+86.72% (SD = 16.14) for subject relative clauses (SR), 73.13% (SD = 20.90) for object relative clauses (OR), and 90.26% (SD = 4.0) for fillers. The mean residual reading time at the
+critical region was 116.77 ms (SD = 478. 30) for subject relative clauses and 350.342 ms
+(SD = 581.04) for object relative clauses. These differences are significant (accuracy rate:
+F(1,52) = 62.419, p < .01; RT: F(1,52) = 6.745, p = .012). The subject-object asymmetry was
+expected based on abundant research on sentence processing, which has demonstrated that
+the filler-gap dependency in English object relative clauses makes them relatively difficult
+to comprehend during real-time processing. It also indicates a similarity in the linear pattern
+in both tasks including nonadjacent dependences among words (i.e., the strings of four nonwords and the object relative clause condition).
+For the L2 group, on the AGL task, their accuracy was 68.35% (SD = 23.06) and their
+average reading time at the last word was 1665.60 ms (SD = 979.03). Their accuracy scores
+are higher than chance level (t(109) = 31.902, p < .01), and similar to those of L2 learners
+(54.12%) reported in a previous study using an auditory AGL task (McDonough & Trofimovich, 2016). The grammaticality judgment rate on the AGL task differed between the
+ungrammatical and grammatical conditions (grammatical: 75.45%; ungrammatical: 60.82%,
+t(109) = 5.052, p < .01). Likewise, reading times differed at the critical region between the
+ungrammatical and grammatical conditions (grammatical: 1583.37 ms; ungrammatical:
+1898.55 ms; t(109) = -2.445, p < .05). Thus, like the native group, the L2 group read more
+slowly at the final word of ungrammatical strings, presumably due to the word's unexpect-
+
+13
+
+13
+
+L2
+
+L1
+
+64.69 (23.92)
+10-100
+68.35 (23.06)
+28-100
+
+2241.20 (1334.30)
+677.93-6131.65
+1665.60 (979.03)
+340.75-5261.53
+
+Table 1 Descriptive statistics of the two tasks
+AGL task
+AGL accuracy
+Critical region RTs
+% (SD)
+ms (SD)
+Observed range (%)
+Observed range (ms)
+
+260.45
+(979.73)
+
+259.03 (1476.70)
+
+AGL RT difference
+ms (SD)
+
+Self-paced reading task
+Comprehension accuracy
+% (SD)
+Observed range (%)
+SR
+OR
+86.72 (16.14)
+73.13 (20.90)
+38-100
+13-100
+84.19 (17.34)
+79.63 (20.6)
+38-100
+25-100
+Filler
+90.26 (4.0)
+78-94
+88.24 (6.4)
+53-94
+
+Critical region RTs
+ms (SD)
+Observed range (ms)
+SR
+116.77 (478.30)
+-271.95-1137.75
+62.93(241.50)
+-366.99-995.51
+
+OR
+350.34 (581.04)
+-183.65-2480.62
+184.031 (389.26)
+2265.35-2087.90
+
+1050
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+1051
+
+edness based on what they had learned. This means that the L2 learners learned the AG rules
+during the learning phase.
+For the self-paced English reading task, the L2 group's mean comprehension accuracy
+was 84.19% (SD = 17.34) for subject relative clauses, 79.63% (SD = 20.60) for object relative clauses, and 88.24% (SD = 6.4) for fillers. The mean reading time at the critical region
+was 62.93 ms (SD = 241.50) for subject relative clauses, and 184.031 ms (SD = 389.26) for
+object relative clauses. Thus, the L2 group's comprehension accuracy and reading speed,
+like those of the L1 group, showed an asymmetry between subject and object relative
+clauses, reflecting the greater difficulty of processing object relative clauses (accuracy rate:
+F(1,109) = 21.956, p < .01; RT: F(1,109) = 13.647, p < .01), and again indicating that the linear pattern of object relative clauses is similar to the pattern of nonadjacent dependencies
+in the AGL task.
+As Table 1 shows, the fillers provide baseline data that confirms the reliability of the
+measures, with numerically higher comprehension accuracy scores on fillers in the L1 group
+(90.26%) than in the L2 group (88.24%). Unexpectedly, given previous findings on L1 and
+L2 sentence processing, in this study, the L2 group had higher comprehension question
+accuracy scores on object relative clauses than the L1 group (73.31% for the L1 group vs.
+79.63% for the L2 group). A tentative explanation for this discrepancy is that the particular
+language group in this study (i.e., Korean) might process object RCs with relative ease due
+to properties of their L1 (i.e., Korean's SOV or OSV word order). Unlike English, in Korean
+neither subject nor object relative clauses have a distance between the head noun and its gap,
+and in addition scrambling is allowed. Given these L1 properties, if the participants' L1 processing strategies are applicable to their L2 sentence processing, processing English object
+relative clauses, with their OSV-like word order (e.g., the novelist the poet admired), might
+be relatively easy (e.g., MacDonald & Christiansen, 2002; Reali & Christiansen, 2007). If
+so, the Korean L2 learners would have a processing advantage for English object relative
+clauses. Thus, although the lack of a significant difference in the self-paced reading task
+between the L1 and L2 groups is unexpected, this finding is not spurious. It might suggest
+that native-like processing is possible in learners with relatively advanced proficiency and
+in cases where they have a processing advantage.
+For easier comparison between L1 and L2 groups on all these measures, a repeated
+MANOVA was conducted. There were significant group effects on some measures
+(F(6,156) = 2.295, p < .05). First, however, for the AGL there was no significant difference between the two groups on the judgment scores (F(1, 161) = .980, p = .324), or on the
+ungrammatical-grammatical RT difference at the final word (F(1,161) = 2.607; p = .108). As
+for the self-paced reading task, no significant between-group difference was found in the
+accuracy rates on subject and object relative clauses, but there was a significant difference
+between the L1 group and the L2 group in their reading times at the critical region of object
+relative clauses (F(1,161) = 4.485, p = .036). These findings indicate that while both groups
+showed learning in the AGL task, the L2 group unexpectedly showed much faster reading
+times for object relative clauses in the English self-paced reading task than the L1 group.
+This unexpected finding remains unexplained, although, as mentioned above, it might be
+due to features of the L2 participants' L1. Another possibility is that it might suggest that
+bilingualism has cognitive benefits that facilitate processing of complex structures (e.g.,
+Onnis et al., 2018; Wang & Saffran, 2014; Weiss, Poepsel, & Gerfen, 2015). In other words,
+the L2 group might have had a cognitive advantage over the L1 group that facilitated the
+
+13
+
+1052
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+former's real-time processing. However, this speculation must be addressed in more depth
+in future research.
+These results show that all the participants, both L1 and L2, were able to identify the
+nonadjacent dependency inherent in the AGL task. The numerically higher scores observed
+in this study's visual AGL task compared to the scores on auditory AGL tasks reported in
+previous studies (McDonough & Trofimovich, 2016; Misyak & Christiansen, 2012) confirm
+the validity of the visual AGL task paradigm, as methodologically comparable to the auditory version (see Fiser & Aslin, 2002 and Yim & Windsor, 2010 for reviews).
+
+Correlations Between the Groups' Scores and Reading Times on the Two Tasks
+To answer the first research question of whether L2 learners' statistical learning ability is
+related to their ability to process English relative clauses, Table 2 shows the correlations
+between the two groups' scores and RTs on the two tasks: AGL accuracy and AGL RT difference on the AGL task; and comprehension accuracy rates, reading times at the critical
+region of relative clauses, and RT difference at the critical region between subject and object
+relative clauses in the self-paced reading task.
+For the L1 group, a marginally significant correlation, albeit weak, was found between
+AGL accuracy (with its nonadjacent dependency rule) and RTs at the critical words of object
+relative clauses, which indicates that the L1 participants with higher AGL learning scores
+also had faster reading times on the self-paced reading task (r = - .27, p = .05). This means
+that statistical learning ability, as measured offline through the visual AGL task, might moderate real language processing performance. No significant correlation between AGL accuracy and any other task measure was found (comprehension question accuracy rates on OR
+[r = .076] and SR [r = .045] sentences in the self-paced English reading task). This finding
+differs from Misyak and Christiansen's (2012) finding of a positive correlation between
+scores on an AGL task with a nonadjacent dependency rule and combined accuracy rates for
+SRs and ORs (r = .42) in an L1 group.
+More interestingly, the current study does show a relation between the L1 group's AGL
+RT difference and RTs at the critical region (region 6; before the main verb) of the self-paced
+reading task for object relative clauses (r = .417, p = .002) but not subject relative clauses.
+These findings indicate that the larger the English native speakers' AGL RT differences
+are, the slower they read object relative clauses. This finding is partially consistent with
+a previous L1 finding of a significant correlation between AGL RT difference and RTs for
+sentence processing. Although the positive relation between AGL RT difference and RTs
+on object relative clauses was not predicted, this finding indicates that statistical learning,
+measured by AGL task might predict the performance of processing object relative clauses.
+While subject relative clauses were included mainly to provide a baseline, a supplementary
+analysis found the correlation between RT difference in the AGL task and RT difference at
+the critical region in the self-paced reading task (subject vs. object RCs) to be significant
+(r = .316, p = .021): a large difference in RTs at the final word of the AGL task leads to a large
+difference in RTs at the critical region of subject and object RCs in the English self-paced
+reading task. This finding implies that the AGL RT differences are related to participants'
+sensitivity to the long distance dependency in object relative clauses. It thus reflects the
+similarity between the nonadjacent dependency between the first and final positions in the
+
+13
+
+1
+0.191*
+0.154
+0.091
+0.06
+0.152
+0.094
+
+- 0.019
+- 0.013
+0.075
+0.093
+4
+
+1
+0.06
+0.098
+
+4
+
+- 0.082
+
+1
+0.183
+0.488**
+0.313**
+0.790**
+
+1
+0.377**
+0.365**
+0.203
+0.839**
+0.213
+5
+
+5
+
+1
+0.119
+0.336**
+0.124
+0.654**
+
+1
+0.194
+0.114
+0.283*
+0.814**
+6
+
+6
+
+1
+0.162
+- 0.150
+- 0.020
+
+- 0.201
+0.075
+7
+
+1
+0.164
+
+7
+
+1
+- 0.079
+
+- 0.492**
+
+1
+0.180
+9
+
+9
+
+1
+0.241*
+
+- 0.485**
+8
+
+1
+0.118
+
+8
+
+1
+
+1
+10
+
+10
+
+Note. AGL Accuracy = judgment accuracy rate on AGL task; AGL RT Diff = RT difference at the final word between grammatical and ungrammatical conditions of AGL
+task; OR Acc = comprehension question accuracy rate on ORs; SR Acc = comprehension question accuracy rate on SRs; OR RT6 = RT at region 6 of OR sentences (the word
+before the main verb); OR RT7 = RT at region 7 of OR sentences (main verb); SR RT6 = RT at region 6 of SR sentences (the word before the main verb); SR RT7 = RT at region
+7 of SR sentences (main verb); RC RT6 Diff = subject-object relative clause RT difference at region 6; RC RT7 Diff = subject-object relative clause RT difference at region 7
+
+p < .09; *p < .05; ** p < .01
+
+Table 2 Correlations: L1 and L2 groups' scores and RTs on the two tasks
+Group
+1
+2
+3
+L1
+1 AGL Accuracy
+1
+2 AGL RT Diff
+0.007
+1
+3 OR Acc
+0.076
+1
+- 0.163
+4 SR Acc
+0.045
+0.605**
+- 0.125
+5 OR RT6
+0.417**
+- 0.266
+- 0.151
+6 OR RT7
+0.071
+- 0.06
+- 0.203
+7 SR RT6
+0.171
+- 0.135
+- 0.029
+8 SR RT7
+0.071
+0.072
+0.117
+9 RC_RT6_Diff
+0.316*
+- 0.201
+- 0.142
+10 RC_RT7_Diff
+- 0.095
+- 0.037
+- 0.247
+1
+2
+3
+L2
+1 AGL Accuracy
+1
+2 AGL RT Diff
+1
+- 0.074
+3 OR Acc
+0.162
+1
+- 0.055
+4 SR Acc
+0.543**
+- 0.021
+- 0.043
+*
+5 OR RT6
+0.111
+0.197
+0.202*
+6 OR RT7
+0.051
+0.104
+0.111
+7 SR RT6
+0.032
+0.181
+0.01
+8 SR RT7
+0.023
+0.165
+0.148
+9 RC RT6 Diff
+0.103
+0.129
+0.221*
+10 RC RT7 Diff
+0.029
+0.038
+- 0.017
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+1053
+
+13
+
+1054
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+AGL and the dependency between the head noun and the corresponding gap in English
+object relative clauses.
+For the L2 group, a marginally significant correlation was found between AGL accuracy
+and comprehension question accuracy on object relative clauses in the self-paced reading
+task (r = .16, p = .09), but no correlation was found between AGL accuracy and any other
+task measure. However, AGL RT difference was positively related to RTs at the critical
+region (region 6) of the object relative clause sentences (r = .197, p = .011) in the self-paced
+reading task. This finding for the L2 group is similar to that for the L1 group: the smaller
+the RT difference scores on the AGL task, the faster the RTs on the object relative clauses;
+and the larger the RT difference scores on the AGL task, the slower the RTs on the object
+relative clauses. Again, this finding indicates that RT-based measures of AGL might predict
+the speed of processing object relative clauses, although the positive relation between AGL
+RT difference and RTs on object relative clauses was not predicted.
+In sum, the study found a marginally significant relationship between statistical learning scores (i.e., AGL accuracy) and RTs at the critical word of object relative clauses in the
+L1 group, and a marginally significant relationship between statistical learning scores and
+comprehension accuracy on object relative clauses in the L2 group. In addition, the study
+found a moderate correlation between AGL RT difference scores and RTs on ORs, but not
+SRs, in the self-paced reading task for both L1 and L2 groups. A possible explanation for
+this finding of a positive correlation of RTs between the two tasks might be that good statistical learners are slower at online processing at the critical region of object RCs, when they
+must hold all the available information (e.g., syntactic, semantic, and pragmatic) in mind
+while processing the incoming information that will resolve the temporary ambiguity in
+these syntactically complex sentences (see, e.g., Juffs & Rodriguez, 2015 for some discussion). On the other hand, poor statistical learners might be faster at the same critical region
+of the object RC sentences, reading more quickly because they have already abandoned
+any attempt at comprehension. In any case, despite being unexpected, the most important
+findings of this study show the correlation between AGL RT difference and RTs on object
+RCs in both L1 and L2 groups. Moreover, these results are consistent with those reported
+by Misyak et al. (2010) in their L1 study, which showed a correlation between the Englishnative-speaker participants' RTs on an AGL task and their RTs on object relative clauses,
+but not subject relative clauses. Thus, the current study extends Misyak and Christiansen's
+(2012) conclusion that individual differences in an AGL task predict individual differences
+in the processing of object relative clauses.
+
+Predictors Among the Task Measures
+To answer the second research question of which of the variables predict individual differences in language processing in L1 and L2 groups, a linear regression analysis was conducted with one variable as a predictor (AGL RT difference) and one dependent measure
+(RT on object relative clauses in the self-paced reading task), based on the finding of the
+only significant correlation for both groups: the correlation between RTs on the AGL task
+and RTs on object relative clauses in the self-paced reading task. This analysis will lead
+to deeper understanding of the premise that L1 and L2 speakers share a similar cognitive
+mechanism underlying both statistical learning and language processing. Table 3 presents a
+
+13
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+1055
+
+Table 3 Regression analysis for the two groups
+Group
+Model
+Variable
+Adjust- F
+B
+
+Sig.
+R2
+T
+entered
+ed R2
+L1
+1
+AGL RT
+0.174
+0.157
+10.712
+0.200
+0.417
+3.273
+0.002
+difference
+L2
+1
+AGL RT
+0.059
+0.050
+6.713
+0.115
+0.242
+2.591
+0.011
+difference
+Note. AGL RT difference = reading time difference scores between grammatical and ungrammatical
+conditions at the final word of AGL task
+
+summary of the analysis of variance for the regression models for predicting performance
+on the processing of object relative clauses by the two groups.
+As Table 3 shows, AGL RT difference at the final word between grammatical and ungrammatical conditions of the AGL task was found to be a significant predictor for reading times
+at the critical region of the object relative clause sentences in the self-paced English reading task for both groups. For the L1 group, AGL RT difference at the final element of the
+four-element sequences accounted for 15.7% of the variance in RTs at the critical region
+of object relative clause sentences (F(1,52) = 10.712, p = .002, R-squared = .174, adjusted
+R-squared = .157). As for the standardized coefficient of beta, a positive beta weight indicated that RT difference scores at the last element in the pairs in the artificial grammar learning task predicted the speed of reading times at the critical region of object relative clauses
+( = .417, t = 3.273, p = .002).
+For the L2 group, the predictive power observed was similar but weaker than for the L1
+group. For the L2 group, RT difference at the final element of the AGL task's sequences
+accounted for 5% of the variance in RTs of object relative clause sentences (F(1,109) = 6.719,
+p = .011, R-squared = .059, adjusted R-squared = .050). As for the standardized coefficient of
+beta, the positive beta weight also indicated that RT difference scores at the final word of the
+AGL task predicted the speed of reading times at the critical region of object relative clauses
+( = .242, t = 2.591, p = .011).
+
+Discussion
+This study investigated whether implicit statistical learning ability is related to L2 learners' performance in processing English relative clauses. Descriptively, a correlation of marginal significance between AGL accuracy and RTs for processing object RCs was found in
+L1 group; in addition, a correlation of marginal significance between AGL accuracy and
+comprehension accuracy in comprehending object RCs was found in L2 group. These L2
+findings confirm previous findings in L1 studies. The novel finding of this study is the significant correlation between L2 learners' performance in processing English object relative
+clauses and their statistical learning ability, based on a visual AGL task paradigm requiring
+the detection of an abstract rule for a relation between non-words. The positive correlation
+consistently appeared in both L1 and L2 groups: AGL RT difference at the final element of
+the non-word sequences between grammatical and ungrammatical conditions of the AGL
+task predicted both groups' performance in processing English object relative clauses, but
+not subject relative clauses.
+
+13
+
+1056
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+This finding identifies statistical learning ability as an individual difference variable modulating L2 learners' processing ability for object relative clauses, thus extending previous
+research with L1 speakers (e.g., Misyak & Christiansen, 2012; Misyak et al., 2010) as well
+as a few recent studies with L2 learners (e.g., Granena, 2013; McDonough & Trofimovich,
+2016). As discussed earlier, the ability to detect the key pattern in the AGL task - the nonadjacent dependency between two non-words with two intervening non-words - and the
+ability to process object relative clauses - which have a long-distance dependency between
+a filler and its gap - may involve a similar processing mechanism. In both cases, searching
+for and tracing dependency relations during online processing is key. Based on the strong
+association of the key pattern, the contribution of statistical learning ability, as measured by
+RT differences in the AGL task, to the processing of object relative clauses appears to be
+significant in both groups.
+Hence, a reading time difference in the AGL task was a significant predictor of reading
+times of object relative clauses for both groups. This finding is interesting because it indicates that tracking a nonadjacent dependency rule in an artificial language and processing an
+object relative clause in a natural language involve similar mechanisms, for both L1 speakers and L2 learners. In addition, the L2 learners' individual variation in statistical learning
+ability predicted their individual performance in processing object relative clauses, as other
+studies have found for L1 speakers. The results suggest that L1 speakers and L2 learners
+may share a common cognitive mechanism for statistical learning.
+Moreover, this study's findings offer new insights into the nature of statistical learning.
+First, the small yet significant role of statistical learning in the L2 processing of object relative clauses, which include a filler-gap dependency, may seem rather trivial. However, this
+is not the case, because the successful learning of nonadjacent dependencies is much more
+difficult than the learning of simple regularities (e.g., McDonough & Trofimovich, 2016).
+Even for L1 adult speakers, tracking such dependencies during online processing is not
+particularly easy (e.g., Newport & Aslin, 2004). For example, any noun, within a relative
+clause, might be a subject or an object (Juffs & Rodriguez, 2015). The complexity of such a
+task might lead to the current study's finding that good statistical learners are slower readers,
+taking more time to capture the complex structure of object RCs. This finding also extends
+the previous research of Misyak et al. (2010) with L1 adults, despite the positive correlation,
+which is unlike Misyak et al.'s RT findings for L1 adults. The findings illuminate how both
+abilities are operationalized by providing reading time data from this study's new combination of tasks. The majority of previous studies found a correlation only between scores on
+a judgment test in an AGL task and scores on offline tasks testing language abilities (e.g.,
+reading skills, literacy ability, intelligence, accuracy of sentence comprehension). Yet offline
+measures have missed an important observation, which is how learners read sentences if
+they are good at learning rules in AGL (e.g., Siegelman et al., 2017). This indicates that they
+use statistical patterns in both cases. Regarding implicit statistical learning, this study's finding that L2 learners are successful at learning a rule in an artificial language without explicit
+instruction extends the previous findings reported by Robinson (2005).
+Second, this study's results suggest that online language processing of core syntactic
+phenomena requires a statistical learning ability: the ability to implicitly track distributional
+relations between non-words. In existing L2 acquisition research, a major question in the
+field of L2 real-time sentence processing is the extent to which L2 learners process sentences as native speakers do. The current study showed that for L2 learners, just as for native
+
+13
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+1057
+
+speakers, the statistical learning ability to identify a nonadjacent dependency pattern may
+modulate their processing of object relative clauses - because their reading time difference
+at the critical element in the AGL task between grammatical and ungrammatical conditions
+was positively correlated with their reading times at the critical region of object relative
+clause sentences. This result suggests that a statistical learning approach may provide a unified account for L1 and L2 processing.
+However, the findings present three puzzles. First, previous studies have found significant correlations between AGL accuracy and comprehension accuracy in processing
+English relative clauses in L1 groups (e.g., Misyak & Christiansen, 2012), while the current study found such a correlation only for the L2 group, with marginal significance. One
+possible explanation is that the nonadjacent dependency in the artificial grammar learning
+task has no meaning, whereas comprehending relative clauses includes interpreting formmeaning mappings. There are no such mappings in an artificial grammar learning task.
+The earlier L2 study by Robinson (2005) also pointed out that artificial grammar learning
+does not include processing meaning, which might affect incidental learning. Nevertheless,
+the findings reported here are not spurious. While previous studies have reported correlations between AGL accuracy and comprehension question scores, the current study found
+a significant correlation in reading times that showed the participants to be sensitive to
+nonadjacent patterns in both tasks. This sensitivity decreased their response time at the final
+element in the grammatical condition in the AGL task, because they expected it after reading
+the first element, despite the presence of the subsequent two intervening elements. However,
+in the self-paced reading task, they took more time in the vicinity of the main verb in English object relative clause sentences, after reading a filler and a relative pronoun (i.e., that),
+perhaps because processing object RCs required them to combine pragmatic and syntactic
+information. Thus, the current study's findings indicate that learners' statistical learning
+ability is related to at least one component of processing object relative clauses.
+Second, the current study found a significant correlation between AGL RT difference
+and RTs of object RCs, and this finding is partially consistent with a finding of L1 studies.
+However, a positive correlation between the two measures was not expected: A large AGL
+RT difference leads to a slower speed of processing object RCs in both groups. One possible
+account for this finding might be that good statistical learners, who showed a larger AGL RT
+difference, might take more time because they are dealing with all the available information
+at the same time during online processing, while the poor statistical learners do not attempt
+to do so. Still, these explanations are speculative, and this issue should be addressed in depth
+in future research.
+Finally, the current study only found the reading time correlation with object relative
+clauses, not subject relative clauses. Theoretically, many linguists have agreed that object
+relative clauses, but not subject relative clauses, have a long-distance dependency between
+the filler and its gap (e.g., Gibson, 1998; O'Grady, 1997). In addition, a number of studies in
+the field of language acquisition and psycholinguistics have confirmed that object relative
+clauses create a nonadjacent dependency, which is similar to that of the AGL task. This may
+explain why the study found no correlation between the RTs on the AGL task and on subject
+relative clauses. The same asymmetry was also observed in Misyak et al.'s (2010) on-line
+processing task with an L1 group.
+
+13
+
+1058
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+Conclusion
+This study reported on a possible correlation between the ability of adult English speakers,
+both L1 and L2, to identify a nonadjacent dependency in an artificial language and their
+ability to process a nonadjacent dependency in English. It showed that implicit statistical
+learning, as measured through offline and online measures by the AGL task, is related to one
+component of natural language sentence processing. The findings suggest the possibility
+that research from a statistical learning approach may eventually lead to a unified account of
+L1 and L2 processing, as we find more evidence of a shared cognitive mechanism involved
+in implicit statistical learning, first language acquisition, and second language acquisition.
+Acknowledgements I am grateful to Dr. William O'Grady for his comments and suggestions.
+
+Declarations
+Conflict of Interest I wish to submit an original article entitled "implicit statistical learning in L2 sentence
+processing: Individual cognitive differences" for consideration by Journal of Psycholinguistic Research. I
+confirmed that this work is original and has not been published elsewhere, nor it is currently under consideration for publication. I declare that they no conflict of interest.
+Ethical Approval The University of Hawai'i (UH) Human Studies Program approved this study as exempt
+from federal regulations pertaining to the protection of human research participants. The authority for the
+exemption applicable to this study is documented in the Code of Federal Regulations at 45 CRF 46(2). All
+procures performed in studies involving human participants were in accordance with the ethical standards of
+the University of Hawai'i (UH) Human Studies Program.
+Informed Consent Informed consent was obtained from all individual participants included in the study.
+
+References
+Arciuli, J., & Simpson, I. C. (2012). Statistical learning is related to reading ability in children and adults.
+Cognitive Science, 36, 286-304.
+Bertels, J., Boursain, E., Destrebecqz, A., & Gaillard, V. (2016). Visual statistical learning in children and
+young adults: How implicit? Frontiers in Psychology, 5, 1-11.
+Bertels, J., Franco, A., & Destrebecqz, A. (2014). How implicit is visual statistical learning? Journal of
+Experimental Psychology: Learning Memory and Cognition, 38(5), 1425-1431.
+Conway, C., Bauernschmidt, A., Huang, S., & Pisoni, D. (2010). Implicit statistical learning in language
+processing: Word predictability is the key. Cognition, 114(3), 356-371.
+Conway, C., & Christiansen, M. (2006). Statistical learning within and between modalities. Psychological
+Science, 17(10), 905-912.
+Conway, C., & Pisoni, D. (2008). Neurocognitive basis of implicit learning of sequential structure and its
+relation to language processing. Annals of the New York Academy of Science, 1145(1), 113-131.
+Ellis, N. C. (2006a). Language acquisition as rational contingency learning. Applied Linguistics, 27, 1-24.
+Ellis, N. C. (2006b). Selective attention and transfer phenomena in L2 acquisition: Contingency, cue competition, salience, interference, overshadowing, blocking, and perceptual learning. Applied Linguistics,
+27, 164-194.
+Ferreira, F., & Clifton, C. (1986). The independence of syntactic processing. Journal of Memory and Language, 25, 348-368.
+Fiser, J., & Aslin, R. (2002). Statistical learning of new visual feature combinations by infants. Proceedings
+of the National Academy of Sciences, 99(24), 15822-15826.
+Gibson, E. (1998). Linguistic complexity: Locality of syntactic dependencies. Cognition, 68(1), 1-76.
+Gomez, R. L. (2002). Variability and detection of variant structure. Psychological Science, 13, 431-436.
+
+13
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+1059
+
+Gomez, R. L., & Gerken, L. A. (1999). Artificial grammar learning by one-year-olds leads to specific and
+abstract knowledge. Cognition, 70, 109-135.
+Gomez, R. L., & Gerken, L. A. (2000). Infant artificial language learning and language acquisition. Trends in
+Cognitive Sciences, 4, 178-186.
+Gomez, R. L., & Maye, J. (2005). The developmental trajectory of nonadjacent dependency learning.
+Infancy, 7, 183-206.
+Granena, G. (2013). Individual differences in sequence learning ability and second language acquisition in
+early childhood and adulthood. Language Learning, 63, 665-703.
+Hamrick, P., & Rebuschat, P. (2012). How implicit is statistical learning? In P. Rebuschat, & J. N. Williams
+(Eds.), Statistical learning and language acquisition (pp. 365-382). Boston: Walter de Gruyter.
+Juffs, A., & Rodriguez, G. A. (2015). Second language sentence processing. Routledge.
+Just, M. A., Carpenter, P. A., & Woolley, J. D. (1982). Paradigms and processes in reading comprehension.
+Journal of Experimental Psychology: General, 111, 228-238.
+Kalra, P., Gabrieli, J. D. E., & Finn, A. S. (2019). Evidence of stable individual differences in implicit learning. Cognition, 190, 199-211.
+Kaufman, S., DeYoung, C., Gray, J., Jimenez, L., Brown, J., & Mackintosh, N. (2010). Implicit learning as
+an ability. Cognition, 116, 321-340.
+Knowlton, B., & Squire, L. (1996). Artificial grammar learning depends on implicit acquisition of both
+abstract and exemplar-specific information. Journal of Experimental Psychology: Learning Memory
+and Cognition, 22, 169-181.
+MacDonald, M. C., & Christiansen, M. H. (2002). Reassessing working memory: Comment on Just and
+Carpenter (1992) and Waters and Caplan (1996). Psychological Review, 109(1), 35-54.
+McDonough, K., & Trofimovich, P. (2016). The role of statistical learning and working memory in L2 speakers' pattern learning. The Modern Language Journal, 100, 428-445.
+Misyak, J. B., & Christiansen, M. H. (2012). Statistical learning and language: An individual differences
+study. Language Learning, 62, 302-331.
+Misyak, J. B., Christiansen, M. H., & Tomblin, B. (2010). On-line individual differences in statistical learning
+predict language processing. Frontiers in Psychology, 1(31), 1-11.
+Newport, E. L., & Aslin, R. N. (2004). Learning at a distance I: Statistical learning of nonadjacent dependencies. Cognitive Psychology, 48, 127-162.
+Nissen, M. J., & Bullemer, P. (1987). Attentional requirements of learning: Evidence from performance measures. Cognitive Psychology, 19, 1-32.
+O'Grady, W. (1997). Syntactic development. University of Chicago Press.
+Onnis, L., Chun, W., & Lou-Magnuson, M. (2018). Improved statistical learning abilities in adult bilinguals.
+Bilingualism: Language and Cognition, 21(2), 427-433.
+Onnis, L., Waterfall, H. R., & Edelman, S. (2008). Learn locally, act globally: Learning language from variation set cues. Cognition, 109(3), 423-430.
+Pacton, S., & Perruchet, P. (2008). An attention-based associative account of adjacent and nonadjacent dependency learning. Journal of Experimental Psychology: Learning Memory and Cognition, 34, 80-96.
+Reali, F., & Christiansen, M. H. (2007). Processing of relative clauses is made easier by frequency of occurrence. Journal of Memory and Language, 57, 1-23.
+Reber, A. S. (1967). Implicit learning of artificial grammars. Journal of Verbal Learning and Verbal Behavior, 6, 855-863.
+Reber, A. S., Walkenfeld, F., & Hernstadt, R. (1991). Implicit and explicit learning: Individual differences and
+IQ. Journal of Experimental Psychology: Learning Memory and Cognition, 17, 888-896.
+Rebuschat, P., & Williams, J. N. (2012). Statistical learning and language acquisition. Boston: Walter de
+Gruyter.
+Robinson, P. (2005). Cognitive abilities, chunk-strength, and frequency effects in implicit artificial grammar
+and incidental L2 learning: Replications of Reber, Walkenfeld, and Hernstadt (1991) and Knowlton
+and Squire (1996) and their relevance for SLA. Studies in Second Language Acquisition, 27, 235-268.
+Saffran, J. R. (2003). Statistical language learning: Mechanisms and constraints. Current Directions in Psychological Science, 12, 110-114.
+Saffran, J. R., Aslin, R., & Newport, E. L. (1996a). Statistical learning by 8-month-old infants. Science, 274,
+1926-1928.
+Saffran, J. R., Newport, E. L., & Aslin, R. (1996b). Word segmentation: The role of distributional cues. Journal of Memory and Language, 35, 606-621.
+Salthouse, T., McGuthry, K. E., & Hambrick, D. (1999). A framework for analyzing and interpreting differential aging patterns: Application to three measures of implicit learning. Aging Neuropsychology and
+Cognition, 6(1), 1-18.
+
+13
+
+1060
+
+Journal of Psycholinguistic Research (2023) 52:1037-1060
+
+Siegelman, N., Bogaerts, L., Christiansen, M., & Frost, R. (2017). Towards a theory of individual differences
+in statistical learning. Philosophical Transactions of the Royal Society B, 372(1711), art. 20160059.
+https://doi.org/10.1098/rstb.2016.0059
+Siegelman, N., Bogaerts, L., & Frost, R. (2016). Measuring individual differences in statistical learning: Current pitfalls and possible solutions. Behavior Research Methods, 49, 418-432.
+Siegelman, N., & Frost, R. (2015). Statistical learning as an individual ability: Theoretical perspectives and
+empirical evidence. Journal of Memory and Language, 81, 105-120.
+Spencer, M., Kaschak, M. P., Jones, J. L., & Lonigan, C. J. (2014). Statistical learning is related to early
+literacy-related skills. Reading and Writing, 28, 467-490.
+Stark-Inbar, A., Raza, M., Taylor, J. A., & Ivry, R. (2017). Individual differences in implicit motor learning:
+Task specificity in sensorimotor adaptation and sequence learning. Journal of Neurophysiology, 117,
+412-428.
+Takahashi, E., & Lidz, J. (2008). Beyond statistical learning in syntax. In A. Gavarro & M. J. Freitas (Eds.),
+Language acquisition and development: Proceedings of GALA 2007 (pp. 446-456). Cambridge, MA:
+Cambridge Scholars.
+Thompson, S. P., & Newport, E. L. (2007). Statistical learning of syntax: The role of transitional probability.
+Language Learning and Development, 3(1), 1-42.
+Wang, T., & Saffran, J. R. (2014). Statistical learning of a tonal language: The influence of bilingualism and
+previous linguistic experience. Frontiers in Psychology, 5, 1-9.
+Weiss, D. J., Poepsel, T., & Gerfen, C. (2015). Tracking multiple inputs: The challenge of bilingual statistical
+learning. In P. Rebuschat (Ed.), Implicit and explicit learning of languages (pp. 167-190). Amsterdam:
+John Benjamins.
+Yim, D., & Windsor, J. (2010). The roles of nonlinguistic statistical learning and memory in language skills.
+Korean Journal of Communication Disorders, 15(3), 381-396.
+Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a
+publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+13
+
+

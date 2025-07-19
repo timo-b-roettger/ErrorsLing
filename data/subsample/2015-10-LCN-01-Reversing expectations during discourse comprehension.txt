@@ -1,0 +1,2402 @@
+Language, Cognition and Neuroscience
+
+ISSN: 2327-3798 (Print) 2327-3801 (Online) Journal homepage: www.tandfonline.com/journals/plcp21
+
+Reversing expectations during discourse comprehension
+Ming Xiang & Gina Kuperberg
+To cite this article: Ming Xiang & Gina Kuperberg (2015) Reversing expectations during
+discourse comprehension, Language, Cognition and Neuroscience, 30:6, 648-672, DOI:
+10.1080/23273798.2014.995679
+To link to this article: https://doi.org/10.1080/23273798.2014.995679
+
+Published online: 24 Dec 2014.
+
+Submit your article to this journal
+
+Article views: 1256
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 21 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=plcp21
+
+Language, Cognition and Neuroscience, 2015
+Vol. 30, No. 6, 648-672, http://dx.doi.org/10.1080/23273798.2014.995679
+
+Reversing expectations during discourse comprehension
+Ming Xianga* and Gina Kuperbergb,c
+a
+Language and Processing Laboratory, Department of Linguistics, University of Chicago, Chicago, IL 60615, USA; bNeurocognition
+Laboratory, Department of Psychology, Tufts University, Medford, MA 02155, USA; cDepartment of Psychiatry, Massachusetts General
+Hospital, Bldg 149, 13th Street, Charlestown, MA 02129, USA
+
+(Received 9 July 2014; accepted 24 November 2014)
+In two event-related potential experiments, we asked whether comprehenders used the concessive connective, even so, to
+predict upcoming events. Participants read coherent and incoherent scenarios, with and without even so, e.g. `Elizabeth had
+a history exam on Monday. She took the test and aced/failed it. (Even so), she went home and celebrated wildly', as they
+rated coherence (Experiment 1) or simply answered intermittent comprehension questions (Experiment 2). The semantic
+function of even so was used to reverse real-world knowledge predictions, leading to an attenuated N400 to coherent versus
+incoherent target words (`celebrated'). Moreover, its pragmatic communicative function enhanced predictive processing,
+leading to more N400 attenuation to coherent targets in scenarios with than without even so. This benefit however, did not
+come for free: the detection of failed event predictions triggered a later posterior positivity and/or an anterior negativity
+effect, and costs of maintaining alternative likelihood relations manifest as a sustained negativity effect on sentence-final
+words.
+Keywords: discourse processing; concessive connectives; prediction; event structures; N400; P600; late negativity; ERP
+
+Successful language comprehension draws heavily upon
+our experience in the real world. This real-world knowledge, stored within long-term memory, is recruited by the
+comprehension system to aid the construction of a
+discourse model. It tells us whether what we hear or
+read is plausible, implausible, true or false. Moreover, as
+language unfolds online, we continually draw upon this
+stored knowledge to facilitate our comprehension of
+sentences describing familiar events or states (MarslenWilson, Brown, & Tyler, 1988; McRae, Ferretti, and
+Amyote, 1997; Warren & McConnell, 2007), as well as
+discourse describing familiar relationships between events
+and states (Keenan, Baillet, & Brown, 1984; Singer &
+Halldorson, 1996; van Dijk & Kintsch, 1983).
+At the same time, however, language offers us the
+remarkable ability to construct discourse models that do
+not necessarily conform to our real-world knowledge.
+Moreover, there is emerging evidence that such models
+can sometimes (although not always) facilitate the processing of incoming words during comprehension (Nieuwland, 2013; Nieuwland & Martin, 2012; Nieuwland & van
+Berkum, 2006). For simplicity, we will refer to any such
+discourse model as an `alternative world model' - a
+separate set of events and relations that are established in
+some mental space that is different from the default realworld knowledge, stored within long-term memory.1 For
+example, when reading Harry Potter, we may well expect
+to encounter events of magic and wizardry that are quite
+
+*Corresponding author. Email: mxiang@uchicago.edu
+(c) 2014 Taylor & Francis
+
+different from our everyday reality. And, if asked to
+entertain the possibility, `if humans were living on the
+moon...', we would not be surprised to hear about facts
+and events that are quite different from what happens on
+planet Earth.
+Concessive connectives and `even so'
+Importantly, we do not only construct alternative world
+models when reading fiction or carrying out counterfactual reasoning. We use such models all the time during
+everyday communication through our use of small words
+or phrases, like but, however, even so and although. These
+so-called concessive connectives set up an alternative
+world model by introducing a presupposition (Lagerwerf,
+1998; Lakoff, 1971) or conventional implicature (Grice,
+1975) that an upcoming proposition will contrast with, or
+contradict, a previously held assumption or expectation
+based on world knowledge (Blakemore, 2002; Lakoff,
+1971). The rich inherent meaning of these lexical items
+also provides the comprehender with explicit information
+about how the upcoming proposition should be linked to
+its preceding discourse context. In this sense, they
+function to pragmatically constrain the incremental process of discourse comprehension, helping us to infer the
+relevance of any upcoming information (Blakemore,
+2002; Wilson & Sperber, 1993). This pragmatic constraining function sets concessive connectives apart from the
+fictional scenarios or counterfactuals mentioned above.
+
+Language, Cognition and Neuroscience
+These also set up alternative world models. However, they
+do not necessarily provide sufficient linguistic information
+about exactly how upcoming propositions will link to the
+discourse context.
+Although concessive connectives are often used in
+everyday communication, there have been very few
+psycholinguistic studies examining their influences on
+online comprehension (but see Murray, 1994, 1997). In
+the present study, we examine the effects of one particular
+concessive connective on word-by-word discourse comprehension - even so. Even so is a concessive connective
+that is commonly used to link propositions across sentence
+boundaries. It is derived from the scalar term, even, which
+introduces a presupposition that the event under discussion is very low in its likelihood, but asserts that the
+utterance is nevertheless true (Karttunen & Peters, 1979).
+At the discourse level, even so inherits the scale-reversing
+property of even: it functions to establish an alternative
+world model in which the possible causal relationships
+between events are reversed from what would follow from
+our real-world knowledge. In addition, as discussed
+above, even so, like other concessive connectives, acts to
+pragmatically constrain the discourse context by `narrowing down' the number of potential relationships to
+those that causally opposite-to-expected (see Noveck &
+Spotorno, 2013, for a more general discussion of this type
+of `narrowing down' effect in communication and discussed further below).
+To illustrate the scale-reversing function of even so,
+consider the four types of three-sentence scenarios shown
+in Table 1. In the scenarios where the final sentence does
+not begin with Even so (the `plain scenarios'), coherence
+arises purely from the real-world relationship between the
+particular event described in the final sentence and the
+events and states described in the preceding context. For
+
+649
+
+example, in the plain coherent scenario, `... Elizabeth
+took the test and aced it. She went home and celebrated...', our real-world knowledge tells us that these
+events are causally related, whereas in the plain incoherent
+scenario, `... Elizabeth took the test and failed it. She went
+home and celebrated...', it tells us that these events are
+unlikely to follow on from one another.
+In the scenarios where the final sentence begins with
+Even so (the `even-so scenarios'), these relationships are
+reversed: coherence is evaluated in relation to the alternative world model set up under even so, rather than realworld knowledge. For example, the even-so coherent
+scenario, `... Elizabeth took the test and failed it. Even
+so, she went home and celebrated...', is coherent, despite
+the fact that the relationships between the events/states
+described do not match our long-term real-world knowledge. And the even-so incoherent scenario, `... Elizabeth
+took the test and aced it. Even so, she went home and
+celebrated...', is incoherent, despite the fact that the
+events described are consistent with our real-world
+knowledge.
+In the present study, we asked participants to read
+discourse scenarios similar to those described above. Based
+on a large psycholinguistic literature showing that we are
+able to integrate multiple linguistic cues quickly and
+incrementally during online word-by-word language comprehension (e.g. Altmann & Steedman, 1988; MacDonald,
+Pearlmutter, & Seidenberg, 1994; Tanenhaus, SpiveyKnowlton, Eberhard, & Sedivy, 1995; Traxler, Bybee, &
+Pickering, 1997; van Berkum, 2009), we expected that
+comprehenders would integrate even so relatively quickly
+to establish an alternative world model. Our main questions
+concerned whether, when and how comprehenders would
+use this alternative world model to predict and process
+incoming information as it unfolded, word by word.
+
+Table 1. Example stimuli and characteristics.
+Scenario type
+(n = 45 per
+condition)
+1. Coherent
+2. Incoherent
+3. Even-so
+Coherent
+4. Even-so
+Incoherent
+
+Example
+Elizabeth had a history exam on Monday. She took the test
+and aced it. She went home and celebrated wildly
+Elizabeth had a history exam on Monday. She took the test
+and failed it. She went home and celebrated wildly
+Elizabeth had a history exam on Monday. She took the test
+and failed it. Even so, she went home and celebrated wildly
+Elizabeth had a history exam on Monday. She took the test
+and aced it. Even so, she went home and celebrated wildly
+
+SSV of
+critical worda
+
+Clozeb
+
+Constraintb
+
+Coherence
+ratingsc
+
+0.179 [0.078]
+
+0.42 [0.32]
+
+0.52 [0.26]
+
+4.8 [0.2]
+
+0.174 [0.079]
+
+0.03 [0.09]
+
+0.40 [0.24]
+
+1.7 [0.4]
+
+0.174 [0.079]
+
+0.31 [0.28]
+
+0.44 [0.25]
+
+3.3 [1.0]
+
+0.179 [0.078]
+
+0.04 [0.11]
+
+0.40 [0.24]
+
+2.4 [1.0]
+
+Note: Means are shown with standard deviations in square brackets. The critical word in each of the example sentences is underlined (although this was
+not the case in the experiment itself).
+a
+LSA was used to calculate SSV between the critical word and its preceding content words.
+b
+Cloze probability and constraint are represented as the proportion of total responses from 40 participants.
+c
+Coherence ratings, on a 1-5 scale, were collected during the ERP recording session in Experiment 1. 5: very coherent; 1: incoherent.
+
+650
+
+M. Xiang and G. Kuperberg
+
+Prediction, generative models and event-related
+potentials
+The term prediction has been used by different researchers
+in different ways. While early models assumed that it
+necessarily entailed committing to specific lexical items
+(Forster, 1981) in a strategic, all-or-nothing fashion (we
+either predict or we don't) (Becker, 1980, 1985), here we
+make no such assumptions. We use the term prediction
+and expectation interchangeably and conceive of prediction as influencing a Bayesian prior - an assessment of the
+probability of accessing information at a particular
+representational level ahead of encountering all the
+linguistic information required to activate, retrieve or
+compute this representation. We assume that predictions
+are generated at multiple levels of representation and that
+rather than being deterministic, they are probabilistic in
+nature: that is, multiple predictions at a particular representational level are held with differing probabilities that
+add up to 100% in total. Thus, a very strong prediction
+corresponds to a near-certain (e.g. 99%) probability of
+belief in a particular upcoming representation, and a weak
+prediction corresponds to many low probability beliefs in
+multiple possible upcoming representations.
+We view such probabilistic predictions as a consequence of a dynamic hierarchical generative process
+by which our brains draw upon high-level stored representations and contextual information to construct a
+generative model that best explains the sensory input we
+encounter. This type of framework is proving powerful not
+only for understanding language processing (e.g. Farmer,
+Brown, & Tanenhaus, 2013; Feldman, Griffiths, & Morgan, 2009; Fine, Jaeger, Farmer, & Qian, 2013; Hale,
+2001; Kleinschmidt & Jaeger, in press; Kuperberg, 2014;
+Levy, 2008; Norris, 2006; Norris & McQueen, 2008) but
+also many other aspects of perception and cognition
+(Clark, 2013; Friston, 2005; Griffiths, Kemp, & Tenenbaum, 2008; Jacobs & Kruschke, 2011; Rao & Ballard,
+1999). According to this framework, probabilistic predictions are propagated from higher- to lower-level representational layers, and any residual error between these
+predictions and the input to each layer (implicit prediction
+error) serves as the feed-forward signal from lower to
+higher-level representational layers. This implicit prediction error (or Bayesian surprise) is, in turn, used to update
+our predictions in an ongoing attempt to refine the
+generative model and `explain away' the bottom-up input
+(see Kuperberg, 2014).
+In this study, we are primarily concerned with activity
+at three layers of representation (see Kuperberg, 2013, for
+discussion): (1) event sequences, which describe our
+knowledge about the necessary and likely temporal,
+spatial, causal and other relationships that link multiple
+events and states together to form sequences of events,
+sometimes known as scripts, frames or narrative schemas
+
+(Fillmore, 2006; Schank & Abelson, 1977; Sitnikova,
+Holcomb, & Kuperberg, 2008; Zwaan & Radvansky,
+1998); (2) event structures, which describe our finegrained knowledge about specific events (e.g. in an
+`arresting' event, it is more likely that a policeman arrests
+a burglar than the other way around, McRae et al., 1997),
+our knowledge about similar events (e.g. the similarities
+between a `teaching event' and an `instructing' or
+`mentoring' event), as well as our coarser-grained knowledge about the prototypical semantic-thematic roles
+(Agent, Patient, Experiencer, Stimulus, etc.) played by
+participants in actions and states (Jackendoff, 2002); and
+(3) semantic (or conceptual) features, which describes our
+knowledge of the perceptual features and functional
+properties of conceptual entities and categories, e.g. our
+knowledge that a `boy' has the properties of being
+<human>, <male>, <young>, etc.
+These representational layers interface with one another
+through statistical dependencies that describe the regularities between them, and, during language processing,
+predictions generated at higher layers influence the priors
+at lower layers through these dependencies. Thus, at any
+given time, the situation-level representation of context will
+interact with our stored knowledge of event sequences,
+influencing probabilistic predictions about upcoming event
+structures, which will, in turn influence probabilistic
+predictions about upcoming semantic features (indeed,
+this propagation of implicit predictions may sometimes
+continue down to lower representational layers, including
+word-form, pre-lexical and perceptual representations).
+We conceive of even so as exerting its influence at the
+event sequence layer of representation by explicitly
+signalling to the comprehender to expect an opposite-toexpected causal relationship. Under the framework we just
+described, this prediction will propagate down to constrain
+the prior probability distribution at the event structure
+layer, narrowing it down from including many different
+kinds of event structures (with causal, spatial, temporal
+and other relationships with the context) that are each held
+with relatively low probabilities, to a specific type of
+event structure that is held with higher probability. This, in
+turn, will lead to strong (high probability) predictions
+about upcoming semantic features at the representation
+layer below.
+One way of examining how these types of probabilistic
+predictions interact with incoming information as it
+unfolds in real time is through event-related potentials
+(ERPs) -an online neural measure of cognitive processing.
+It has been proposed that ERPs associated with auditory
+speech processing are a direct reflection of implicit
+prediction error within a hierarchical predictive coding
+system (Friston, 2005; Wacongne, Changeux, & Dehaene,
+2012; Wacongne et al., 2011), and recent evidence
+suggests that this may also be true of semantic processing
+(Rabovsky & McRae, 2014), with different ERP
+
+Language, Cognition and Neuroscience
+components reflecting both the representational level of
+a prediction error (Kuperberg, 2014) and the certainty of
+our original predictions (Kuperberg, 2013, 2014). In this
+study, we focus on three sets of ERP components: the
+N400, the posterior late positivity or P600 and the late
+negativities.
+The N400 is a negative-going waveform with a centroparietal scalp distribution, seen between 300 and 500 ms
+after word onset. It reflects changes in activity within
+semantic memory that are induced by incoming stimuli
+(Kutas & Federmeier, 2011), and it can be formalised as
+reflecting implicit prediction error at the level of semantic
+features (Rabovsky & McRae, 2014). Of particular
+relevance to the present study is evidence that the
+amplitude of the N400 can be influenced by implicit
+predictions generated at higher representational levels
+(e.g. event sequences or event structures). If an incoming
+word's coarse-grained (Bornkessel-Schlesewsky & Schlesewsky, 2008; Paczynski & Kuperberg, 2011, 2012) or
+finer-grained (Ferretti, Kutas, & McRae, 2007; Metusalem
+et al., 2012; Paczynski & Kuperberg, 2012) semantic
+features match these implicit predictions, the N400 evoked
+by that word is attenuated. Moreover, pragmatic communicative cues (for example, commas, e.g. Nieuwland,
+Ditman, & Kuperberg, 2010, Experiment 2, or speech
+dysfluencies, e.g. Corley, MacGregor, & Donaldson,
+2007) can play an important role in determining whether
+or not comprehenders are able to fully use a discourse
+context and stored event knowledge to generate implicit
+predictions leading to facilitated semantic processing
+during online comprehension.
+Although the N400 is influenced by predictions
+generated at the event structure layers, and it reflects
+implicit prediction error at the level of semantic features, it
+is actually not directly sensitive to prediction errors at the
+event structure layer itself (see Kuperberg, 2013, for
+discussion and Federmeier, Wlotko, De Ochoa-Dewald,
+& Kutas, 2007; Lau, Holcomb, & Kuperberg, 2013; Van
+Petten & Luka, 2012, for consistent evidence). Rather, the
+costs of disconfirmed predictions at the level of event
+structure manifest as waveforms that peak after the N400
+time window.
+The first of these is a posteriorly distributed late positivegoing ERP component - the so-called P600, which peaks
+between 500 and 800 ms after stimulus onset (Kuperberg,
+2007). Although the P600 was originally characterised as
+the ERP component produced by words that violated the
+syntactic constraints of predicted events structures
+(Hagoort, Brown, & Groothusen, 1993; Osterhout &
+Holcomb, 1992, 1993), it is now clear that it can also be
+evoked by violations of strong semantic constraints on
+event structure (see Kuperberg, 2007, for a review).
+Specifically, it is triggered when the sentential or discourse
+context encourages a strong near-certain prediction for a
+particular event structure (a prediction with near-100%
+
+651
+
+probability), and this conflicts with the event structure that
+is computed by initial attempts to integrate the bottom-up
+input. It may reflect prolonged attempts to (re)-analyse the
+context and input to come up with a new discourse model
+(Kuperberg, 2007; Paczynski & Kuperberg, 2012). In
+Bayesian terms, it may reflect `unexpected surprise' that
+triggers a switch to a new generative cause at the level of
+event sequences that better explains (and allows us to
+rapidly adapt to) the input (see Courville, Daw, &
+Touretzky, 2006; Qian, Jaeger, & Aslin, 2012; Yu, 2007;
+Yu & Dayan, 2005; discussed by Kuperberg, 2013, 2014).
+The second set of waveforms that can be seen when
+event structure predictions are disconfirmed by an input is
+a group of late negativities, which also peak past the N400
+time window and often have a more widespread or frontal
+distribution than the N400. Unlike the P600, these late
+negativities are not evoked by violations of a single nearcertain event structure prediction. Rather, they are seen
+when the context constrains for one event structure with
+medium-high probability and another event structure with
+lower probability, and the bottom-up input leads the less
+probable event structure to be selected (e.g. Baggio, Van
+Lambalgen, & Hagoort, 2008; Bott, 2010; Lee & Federmeier, 2006, 2009; Paczynski, Jackendoff, & Kuperberg,
+2014; Wittenberg, Paczynski, Wiese, Jackendoff, &
+Kuperberg, 2014; Wlotko & Federmeier, 2012). In this
+sense, they correspond to implicit prediction error at the
+level of event structures (see Kuperberg, 2014).
+In the present study, we examined these ERPs to ask
+four questions about how and when predictions established by even so are used during online discourse
+processing.
+1. Reversed and enhanced semantic expectations under
+even so?
+Our first question was whether, under even so, our implicit
+predictions about upcoming semantic features, if any,
+would be based on an alternative world model or based
+on the stored long-term real-world knowledge. Previous
+studies using other constructions that set up alternative
+world models have provided different answers to this
+question. Sometimes, stored long-term real-world knowledge appears to dominate the initial stages of semantically processing incoming words, as indexed by the N400.
+For example, in a study of counterfactuals, Fergurson
+et al. (2008, Experiment 2) asked participants to read
+sentences like, `If cats were not carnivores, families could
+feed their cats a bowl of fish/carrots...'. They showed that
+the real-world consistent (but alternative world inconsistent) word, fish, elicited a smaller N400 than the real-world
+inconsistent (but alternative world consistent) word,
+carrots (see also Ferguson, Sanford, & Leuthold, 2008,
+Experiment 1 and Ferguson & Sanford, 2008, for related
+eye tracking results). At other times, however, an
+
+652
+
+M. Xiang and G. Kuperberg
+
+alternative world model can override long-term real-world
+knowledge to facilitate semantic processing of incoming
+words (e.g. Nieuwland, 2013; Nieuwland & Martin, 2012;
+Nieuwland & van Berkum, 2006; also see Ferguson &
+Breheny, 2011; Hald, Steenbeek-Planting, & Hagoort,
+2007). For example, in another study of counterfactuals,
+Nieuwland and Martin (2012; also see Nieuwland, 2013)
+asked participants to read sentences like, `If NASA had
+not developed its Apollo Project, the first country to land
+on the moon would have been Russia/America surely',
+and showed that the N400 was smaller to Russia than to
+America.
+One factor that seems to be crucial in determining
+whether we draw upon long-term real-world knowledge or
+an alternative world model to facilitate subsequent semantic processing is whether the discourse context is
+pragmatically constraining - that is, whether it provides
+explicit information about how the upcoming proposition
+will be linked to it. This is nicely illustrated by the
+counterfactual experiments described above. In the study
+by Ferguson et al. (2008, Experiment 2), the preceding
+discourse context does not constrain for a particular event
+or state: people will have quite different opinions (or little
+to say) about the most likely thing that people will feed
+a non-carnivorous cat. In the studies by Nieuwland and
+Martin (2012) and Nieuwland (2013), however, the
+discourse is more constraining: given how well known
+the America-Russia space race is, most people will expect
+the upcoming event to describe the opposite of what
+actually happened.
+Returning to the present study, we hypothesised that
+the pragmatic constraining function of even so would lead
+comprehenders to draw upon the alternative world model
+established and generate strong (high probability) predictions about an upcoming real-world inconsistent event and
+semantic features consistent with this event, leading to
+more semantic facilitation of congruous incoming words.
+Indeed, given this pragmatic constraining function, these
+predictions might be stronger (higher probability) than
+those generated in the plain scenarios.
+To test these hypotheses, we examined the modulation
+of the N400 across two contrasts. First, we compared the
+coherent and incoherent even-so scenarios. If comprehenders reverse their expectations under the scale-reversing
+function of even so, then we should see a smaller N400
+(more semantic facilitation) to critical words like celebrated in the even-so coherent (but real-world inconsistent) scenarios (e.g. `... Elizabeth took the test and failed
+it. Even so, she went home and celebrated...'). Second,
+we contrasted the even-so and the plain coherent scenarios. If comprehenders enhance their semantic expectations under the pragmatic constraining function of even so,
+then we should also see a smaller N400 to celebrated in
+the even-so coherent scenarios than in the coherent plain
+
+scenarios (e.g. `... Elizabeth took the test and aced it. She
+went home and celebrated...').
+2. Costs of disconfirmed event structure predictions
+under even so?
+Our second question was whether we would see any
+evidence in the ERP waveform of encountering input that
+disconfirmed any high probability predictions of upcoming event structures established under even so. As noted
+above, the costs of violating event structure predictions do
+not manifest directly on the N400 itself (Federmeier et al.,
+2007; Kuperberg, 2013; Lau et al., 2013; Van Petten &
+Luka, 2012), but appear later, on components that peak
+past the N400 time window -a stage at which the event
+structure has been fully computed from the bottom-up
+input.
+We considered two possibilities. The first was that even
+so would lead comprehenders to generate a single strong
+high certainty prediction for one specific type of event
+that has a real-world inconsistent causal relationship with
+the preceding event. On this account, if integration of the
+bottom-up input yields a real-world consistent causal
+relationship, the resulting conflict would trigger prolonged
+attempts to (re)-analyse the context and input to come up
+with a new discourse model (Kuperberg, 2007, 2013).
+This might manifest as a larger posteriorly distributed late
+positive-going P600 to targets like celebrated in incoherent even-so scenarios than in incoherent plain scenarios.
+The second possibility was that, rather than commit
+with near-100% certainty to a single real-world inconsistent event structure under even so, comprehenders would
+consider the possibility of encountering a real-world
+consistent event structure with some lower probability.
+On this account, integration of the bottom-up input would
+ultimately select the less probable but real-world consistent structure over the more probable but real-world
+inconsistent structure, and this selection cost might
+manifest as a larger late anteriorly distributed sustained
+negativity to targets in the incoherent even-so scenarios
+than in the incoherent plain scenarios (e.g. Baggio et al.,
+2008; Bott, 2010; Paczynski et al., 2014; Wittenberg et al.,
+2014). Note that the two possibilities outlined above are
+not mutually exclusive because the certainty of event
+structure prediction might vary between participants and/
+or between trials.
+3. Wrap-up costs of assessing overall discourse
+coherence against the alternative world established
+under even so
+Our third question was whether even so would lead to
+independent costs associated with assessing a discourse
+model that is coherent under a set of likelihood relations
+that differ from our default real-world knowledge. These
+
+Language, Cognition and Neuroscience
+costs might not necessarily be apparent at the point of the
+critical word itself. However, they might manifest later as
+a sustained negativity on the sentence-final word - the
+point at which overall discourse coherence is `wrapped
+up' and evaluated.
+A larger sustained negativity is often seen on the final
+words of sentences that are implausible (versus plausible)
+in relation to real-world knowledge, even when the
+implausibility or anomaly occurs mid-sentence (e.g. De
+Grauwe, Swain, Holcomb, Ditman, & Kuperberg, 2010;
+Ditman, Holcomb, & Kuperberg, 2007; Hagoort, 2003;
+Hagoort & Brown, 2000). This is presumably because it is
+harder to assess overall coherence if the overall discourse
+model mismatches long-term real-world knowledge than if
+it matches real-world knowledge. If similar wrap-up costs
+are incurred when the comprehension system evaluates
+overall coherence against a set of reversed likelihood
+relationships established under even so (the alternative
+world model), this would predict a larger sustained
+negativity effect on sentence-final words in the even-so
+scenarios than in the plain scenarios, even when both are
+coherent. Moreover, it should be even harder to come up
+with a final representation of meaning when overall
+coherence is evaluated against a set of reversed likelihood
+relationships, and the scenario turns out to be incoherent,
+predicting the largest sustained negativity on the final
+words of the even-so incoherent scenarios.
+
+4. Effects of task
+Our final set of questions concerned the effects of task on
+comprehending both the plain and the even-so scenarios.
+Task can influence processing in several different ways. It
+can influence the degree to which comprehenders attend
+to different aspects of discourse, including the semantic
+relationships between propositions. This can, in turn,
+influence the strength/certainty of our predictions, which,
+as discussed above, can influence the neural mechanisms
+engaged at multiple stages of processing. To examine the
+effects of task in this study, we carried out two experiments. In Experiment 1, participants were asked to
+explicitly rate the coherence of each discourse scenario.
+In Experiment 2, participants were asked to read the
+scenarios and to answer intermittent comprehension questions about their content.
+
+Experiment 1
+In Experiment 1, participants read the four types of threesentence scenarios described in Table 1. The factors of
+Coherence and Even-so were fully crossed, and we
+measured ERPs on both critical words (e.g. celebrated)
+as well as on the final words of the third sentence. After
+each scenario, participants explicitly judged the coherence
+
+653
+
+of the final sentence in relation to the previous context.
+This encouraged them to pay close attention to the internal
+semantic relationships between the propositions.
+Importantly, we matched general schema-based semantic relationships between the critical word and the
+`bag of words' in the context across all four conditions
+using latent semantic analysis (LSA, see the section
+`Methods'). This allowed us to determine whether readers
+based their expectations on specific types of relationships
+between events, e.g. the fact that students are likely to
+celebrate after doing well on exams (Kuperberg, Paczynski, & Ditman, 2011; St. George, Mannes, & Hoffman,
+1997; Yang, Perfetti, & Schmalhofer, 2007), or on more
+general, unstructured word associations based around a
+particular schema (Schank & Abelson, 1977), e.g. the
+general association between successful/failed exams and
+parties afterwards (see Otten & van Berkum, 2007;
+Paczynski & Kuperberg, 2012, for discussion).2
+Our starting point was the plain scenarios. We asked
+whether, with these task instructions, readers would
+generate predictions about likely upcoming events/states,
+leading to facilitated semantic processing of incoming
+words whose semantic features were associated with these
+events. Based on a previous study in which we contrasted
+causally coherent and incoherent plain discourse scenarios
+while participants carried out a similar explicit coherence
+judgement task. (Kuperberg et al., 2011), we hypothesised
+that we would see a smaller N400 on critical words in the
+plain coherent than in the plain incoherent scenarios.
+Having established how the plain scenarios were
+processed, we then turned to the effects of even so. We
+make the following hypotheses based on the discussion in
+the General Introduction: (1) If comprehenders are able to
+draw upon the alternative world model previously generated under even so, and use this to reverse their predictions about the real-world likelihood of upcoming events,
+the N400 should be smaller to critical words in the
+coherent than the incoherent even-so scenarios, just as in
+the plain scenarios; indeed, if predictions established
+under even so are stronger (higher probability) than in
+the plain scenarios, then the N400 to critical words in the
+coherent even-so scenarios should be even smaller than in
+the coherent plain scenarios. (2) If even so leads to strong
+reverse predictions about upcoming events, then disconfirmation of these event predictions by the bottom-up
+input should lead to prolonged neural costs (past the N400
+time window) to critical words in the even-so incoherent
+versus the plain incoherent scenarios. Finally, (3) if,
+during sentence-final wrap-up, evaluating coherence
+against the temporary alternative world model established
+under even so incurs more costs than evaluating coherence
+against long-term real-world knowledge, then sentencefinal words in the even-so coherent scenarios should
+produce a larger negativity than sentence-final words in
+
+654
+
+M. Xiang and G. Kuperberg
+
+the plain coherent scenarios; moreover, this negativity
+should be still larger on sentence-final words in the
+incoherent even-so scenarios.
+
+Methods
+Construction and characterisation of stimuli
+One hundred and eighty sets of two-sentence scenarios
+were constructed, each with four conditions (45 scenarios
+per condition; see Table 1). In all scenarios, a critical word
+appeared in the final sentence but before the sentence-final
+word. The number of words between the critical word and
+the sentence-final word varied between 0 and 3 across
+trials, but was matched between conditions within a
+scenario. The number of words between the critical word
+and the sentence initial word (excluding Even so) mostly
+varied between 1 and 4 words (with only a few scenarios
+with more than four words), but once again this was
+matched between conditions within a scenario.
+The four conditions were constructed by crossing two
+factors: Even-so (the presence or absence of the phrase,
+Even so at the beginning of the final sentence: plain or
+even-so scenarios) and Coherence (the coherence of the
+critical word in relation to its preceding context: coherent
+or incoherent scenarios). In the plain coherent and the
+plain incoherent conditions, the final sentence was identical: differences in coherence arose because of differences
+in the first two sentences. In the even-so scenarios,
+coherence was reversed: the original plain coherent
+scenarios became the even-so incoherent scenarios, and
+the original plain incoherent scenarios became the even-so
+coherent scenarios. The critical word was thus identical in
+all four conditions.
+Lexical predictability of critical words and lexical
+constraint of discourse contexts: offline cloze norming
+The 180 sets of scenarios were counterbalanced across
+four lists using a Latin Square design. For each scenario,
+the critical word and all words following it were removed
+and replaced by an ellipsis, e.g. `Elizabeth had a history
+exam on Mon. She took the test and aced it. She went
+home and...'. Cloze ratings of these stems were conducted
+as an online survey using SurveyMonkey.com, with
+participants recruited from Tufts University and other
+neighbouring areas. Participants were asked to read the
+scenario stems and to complete the unfinished last
+sentence by writing down the most likely ending. Initially,
+40 native English speakers (30 female, 10 male, average
+age: 23.3) participated (10 per list). Cloze probabilities for
+each of the four scenario types were calculated based on
+the percentage of respondents who produced a word that
+matched the critical word exactly. Based on the initial
+results, we modified 13 of the scenarios that did not show
+any difference between coherent and incoherent scenarios
+
+and carried out a second cloze study on these 13 new
+items with another set of 40 native English speakers (29
+female, 11 male, average age: 26.2). We used these 13
+new items to replace the old 13 items and then recalculated the cloze probability for each item across the entire
+stimulus set.
+Cloze probabilities for each scenario type are given in
+Table 1. A 2 x 2 repeated-measures analysis of variance
+(ANOVA) with Coherence and Even-so as within-items
+factors revealed a main effect of Coherence, F(1, 179) =
+329, p < .001, and a main effect of Even-so, F(1, 179) =
+22, p < .001. There was also an interaction between the
+two factors, F(1, 179) = 21, p < .001. Follow-up paired ttests examining effects of Coherence at each level of
+Even-so showed that, as expected, the even-so and the
+plain coherent scenarios had significantly higher cloze
+probabilities than their corresponding incoherent conditions [plain coherent vs. plain incoherent: t(179) = 16, p <
+.001; even-so coherent vs. even-so incoherent: t(179) =
+13, p < .001], but that the difference in cloze probability
+between the coherent and incoherent conditions was larger
+in the plain than in the even-so scenarios. Follow-up ttests examining effects of Even-so at each level of
+Coherence showed that the cloze probability of critical
+words in the plain coherent scenarios was significantly
+higher than in the even-so coherent scenarios, t(179) = 5,
+p < .001, but that there was no significant difference in
+cloze probability between the plain and even-so incoherent scenarios, t(179) = 0.16, p > .8.
+In addition to calculating cloze probabilities, we also
+calculated the contextual lexical constraint for each type
+of scenario context by finding the most common completion across participants who saw that context, regardless
+of whether or not it matched the critical word, and tallying
+the number of subjects who provided this completion, see
+Table 1. For example if, for a given scenario, our designed
+critical word was `disappointed' and 3 out of 10 people
+provided `disappointed' as their answer, then the cloze
+probability would be 0.3 for this scenario, but if 5 out of
+the 10 people provided `confused' as their answer, then
+the lexical constraint probability for this context would be
+0.5. A 2 x 2 repeated-measures ANOVA with Coherence
+and Even-so as within-items factors again revealed a main
+effect of Coherence, F(1, 179) = 22, p < .001, a main
+effect of Even-so, F(1, 179) = 5.7, p < .05, and an
+interaction between the two, F(1, 179) = 7.4, p < .01.
+Follow-up paired t-tests showed that the lexical constraint
+of the plain coherent contexts was greater than the plain
+incoherent contexts, t(179) = 5, p < .001, while the
+difference between the even-so coherent and incoherent
+contexts was only marginally significant, t(179) = 1.9, p <
+.06. In addition, the lexical constraint of the plain coherent
+contexts was greater than the even-so coherent scenario
+contexts, t(179) = 3.6, p < .001, but there was no
+
+Language, Cognition and Neuroscience
+difference in lexical constraint between the plain and
+even-so incoherent scenario stems, t(179) = 0.76, p > .9.
+Latent semantic analysis
+LSA, a measure of semantic relatedness, Landauer &
+Dumais 1997; Landauer, Foltz, & Laham, 1998) was
+carried out on the final stimulus set, on a term-to-term
+basis, to examine the semantic similarity values (SSVs)
+between the critical word and previous content words
+across the context of each scenario. A paired t-test
+revealed no significant differences between the plain
+coherent and plain incoherent scenarios, t(179) = 1.55,
+p > .10. Note that, because of how the stimuli were
+constructed, SSVs were the same for the plain coherent
+and even-so incoherent conditions, and for the plain
+incoherent and even-so coherent conditions. See Table 1
+for SSVs in all four scenario types.
+Set-up of lists for the ERP experiment
+The final set of experimental scenarios was divided into
+four lists, counterbalanced using a Latin Square design.
+During the ERP experiment, each participant viewed only
+one list and therefore only one condition of each scenario,
+but across all participants, each scenario and critical word
+was seen in all four conditions. Each list had 180
+scenarios, 45 from each condition. The order of items
+was randomised within each list separately.
+Participants in the ERP experiment
+Twenty-nine native English speakers initially participated
+in the ERP study (two participants were subsequently
+excluded for extensive ocular and muscular artefacts, see
+below). All participants were undergraduate students
+recruited from local universities. They were all righthanded, as assessed using the Edinburgh handedness
+inventory (Oldfield, 1971), with normal or corrected-tonormal vision, and no history of neurological disorders.
+Participants were paid for their participation and gave full
+consent according to the guidelines of the Tufts University
+Human Subjects Committee. The 27 subjects included in
+the data analysis had an average age of 20 years (SD: 1.7)
+and 14 were males.
+Stimulus presentation
+Participants sat in a quiet and dimly lit room, separated
+from the experimenter and control computers. Their task
+was to rate each scenario on a 1-5 scale, based on how
+naturally the third sentence followed on from the previous
+two sentences. For half of the participants, a score of 1
+meant `it does not follow at all' and 5 meant `it follows
+very naturally'; and for the other half, the scoring was
+reversed for counterbalancing purpose. Before starting the
+
+655
+
+experiment, each participant read 12 practice scenarios to
+ensure that they understood the task.
+Stimuli were presented on a computer monitor, in white
+font, centred on a black background Participants were
+randomly assigned to one of the four lists. Each trial
+began with the word `READY' on the screen, which cued
+the participant to press a button to begin reading the threesentence scenario. The first two context sentences were
+presented one after another as whole sentences. Participants read these two sentences at their own pace, pressing
+a button to move on to the second sentence. They then
+saw a fixation cross (`+') in the middle of the screen for
+500 ms, followed by a blank screen for 100 ms, and then
+the last sentence was presented word by word. Each word
+was centred in the middle of the screen and was presented
+for 350 ms, followed by an interstimulus interval (ISI) of
+150 ms. In the even-so scenarios, the phrase Even so was
+presented as a whole. Because it consists of two words, it
+appeared on the screen for 400 ms followed by an ISI of
+150 ms. The last word of the final sentence appeared with
+a period and was presented for 800 ms. A 400 ms ISI
+followed this final word, and then a `?' appeared on the
+screen which cued participants to make their rating
+responses. Participants indicated their responses by pressing one of the five buttons on the response pad.
+ERP recording
+The EEG response was recorded from 29 electrodes
+(Electro-Cap International, Inc., Eaton, OH; see Figure 1
+for montage). Additional electrodes were placed below the
+left eye and at the outer canthus of the right eye to monitor
+vertical and horizontal eye movements. There were also
+two mastoid electrodes (A1, A2) and the EEG signal was
+referenced to the left mastoid online. The EEG signal was
+amplified by an Isolated Biometric Amplifier (SA Instrumentation Co., San Diego, California) with a band pass of
+0.01-40 Hz. It was continuously sampled at 200Hz and
+the impedance was kept below 5k Ohm.
+ERP analysis
+Trials contaminated with eye artefact (with max-min
+amplitudes exceeding 70 v, as well as visual inspection)
+or amplifier blockage were excluded from analyses. After
+artefact rejection, averaged ERPs, time-locked to critical
+words, were obtained by calculating the mean amplitude
+(relative to a 100 ms pre-stimulus baseline). At the critical
+word, we carried out analyses across two time windows.
+To capture the peak of the N400 in all four conditions, we
+used a 350-450 ms time window. To capture the late
+positivity/P600 in all four conditions, and to avoid
+component overlap with the earlier N400 effect, we used
+a 600-800 ms time window. Examination of the waveforms also revealed a late, sustained anteriorly distributed
+
+656
+
+M. Xiang and G. Kuperberg
+
+negativity effect, which we captured between 800 and
+1000 ms. At the sentence-final word, visual inspection of
+the waveform revealed a prolonged negativity, which was
+captured with a 300-1000 ms time window.
+We initially carried out two omnibus repeated-measures
+ANOVAs in which the scalp was subdivided into several
+3-electrode regions along its anterior - posterior distribution, at both mid and peripheral sites (each region
+contained 3-electrode sites, see Figure 1). In the midregions omnibus ANOVA, the within-subject variables
+were Coherence (two levels: coherent, incoherent), Evenso (two levels: plain, even-so) and Region (five levels:
+prefrontal, frontal, central, parietal, occipital). In the
+peripheral regions omnibus ANOVA, the within-subjects
+variables were Coherence (two levels: coherent, incoherent), Even-so (two levels: plain, even-so), Region (two
+levels: frontal, parietal) and Hemisphere (two levels: left,
+right). For further follow-ups, we focused on the subgroup
+of regions that showed most modulation across conditions
+(smallest p-values; largest F-values in omnibus ANOVAs
+analyses carried out in each region).
+In each subgroup of regions, we carried out 2 (Coherence) x 2 (Even-so) x Region ANOVAs; any interactions
+between Coherence and Even-so were followed up by (1)
+by examining the effects of Coherence at each level of
+Even-so and (2) by examining the effects of Even-so at
+each level of Coherence. In all analyses, the Greenhouse
+and Geisser (1959) correction was applied to repeated
+measures with more than one degree of freedom, and a
+significance level of alpha = .05 was used for all
+comparisons.
+
+Results
+Behavioural results
+The coherence ratings for each of the four scenario types are
+given in Table 1. A 2 x 2 ANOVA confirmed a significant
+main effect of Coherence, F(1, 26) = 131, p < .001. It also
+revealed a main effect of Even-so, reflecting higher overall
+coherence ratings in the plain than the even-so scenarios, F
+(1, 26) = 33, p < .001. In addition, there was a significant
+interaction between these two variables, F(1, 26) = 33,
+p < .001. Planned follow-up comparisons examining the
+effects of Coherence on the plain and even-so scenarios
+separately indicated that, as expected, the coherent scenarios were always rated as significantly more coherent than
+the incoherent scenarios [plain: coherent vs. incoherent: t
+(26) = 32, p < .001; even-so: coherent vs. incoherent: t(26)
+= 2.45, p < .05], although the difference was larger in the
+plain than in the even-so scenarios. Follow-ups examining
+the effects of Even-so in the coherent and incoherent
+scenarios separately showed that the coherent plain scenarios were rated as more coherent than the coherent even-so
+scenarios, t(26) = 7.6, p < .001, and the incoherent plain
+scenarios were rated as more incoherent than the incoherent
+even-so scenarios, t(26) =-2.9, p < .01. In other words, the
+plain coherent and plain incoherent scenarios were rated as
+more coherent and incoherent respectively than their
+corresponding even-so scenarios, which received ratings
+that were in between these two extremes.
+
+Event-related potentials
+Critical word
+At the critical word, 20% of trials were rejected for
+artefact (plain coherent: 19%; plain incoherent: 19%;
+even-so coherent 20%; even-so incoherent: 20%). A 2 x
+2 within-subjects ANOVA showed that the rejection rate
+did not differ between the coherent and incoherent
+scenarios [no main effect of Coherence F(1, 26) < .1,
+p > .9], or between the even-so and plain scenarios [no
+effect of Even-so F(1, 26) = .9, p > .3]. There was also no
+interaction between these two factors, F(1, 26) < .1,
+p > .9.
+N400: 350-450 ms
+
+Figure 1. Electrode montage, showing each 3-electrode region
+used for analysis. Regions in dark grey were part of the midregions omnibus ANOVA and regions in light grey were part of
+the peripheral regions omnibus ANOVA.
+
+There was a main effect of Coherence, reflecting a
+widespread N400 effect across the even-so and plain
+scenarios [mid-regions: F(1, 26) = 40.8, p < .001;
+peripheral regions: F(1, 26) = 36.7, p < .001], which
+was largest in frontal, central and parietal mid-regions
+(interaction between Coherence and Region in the midregions analysis, F(4, 104) = 4.3, p < .01, with follow-ups
+showing the effect of Coherence in each of these three
+regions, Fs > 23, p < .001. To determine how effects of
+Coherence were modulated by Even-so, we collapsed
+
+Language, Cognition and Neuroscience
+across these three frontal, central and parietal mid-regions
+(9-electrode sites in total).
+In this 9-electrode region, Coherence was modulated
+by Even-so [Coherence x Even-so interaction: F(1, 26) =
+5.4, p < .05]. There were significant N400 effects of
+Coherence in both the plain scenarios, F(1, 26) = 7, p <
+.05, and the even-so scenarios, F(1, 26) = 40, p < .001.
+However, the magnitude of the N400 effect in the even-so
+scenarios was larger than in the plain scenarios (see Figure
+2B). This larger N400 Coherence effect was driven by a
+smaller N400 to coherent critical words in the even-so
+than the plain coherent scenarios, F(1, 26) = 5.3, p < .053
+(see Figure 3A; note that voltage map in Figure 3A shows
+a positivity between 350 and 450 ms because the plain
+condition was subtracted from the even-so condition). In
+contrast, there was no difference in the N400 evoked by
+incoherent critical words in the plain and even-so incoherent scenarios, F(1, 26) < 1, p > .4 (see Figure 3B).
+Late posterior positivity/P600: 600-800 ms
+Collapsed across the even-so and plain scenarios, there
+was a P600 effect over parietal (left, right and mid) and
+mid-occipital regions [interactions between Coherence and
+Region in the mid-regions analysis, F(4, 104) = 9.5, p <
+.001, and in the peripheral regions analysis, F(3, 78) =
+14.2, p < .001, with follow-ups showing the effect of
+
+657
+
+Coherence in each of these four regions, all Fs > 6.8, ps <
+.05]. To determine how the effect of Coherence was
+modulated by Even-so, we collapsed across these four
+regions: left, mid and right parietal and mid-occipital
+regions (12-electrode sites in total).
+In this 12-electrode parietal-occipital region, there was
+a three-way interaction between Coherence, Even-so and
+Region, F(2, 52) = 4.9, p < .05. Follow-ups showed a
+P600 effect of Coherence in both the plain scenarios [at
+left and right parietal regions, F(1, 26)s > 4.7, ps < .05
+Figure 2A], and in the even-so scenarios [at the right
+parietal region and the mid-occipital region, F(1, 26)s >
+6.4, ps < .05, Figure 2B]. Once again, the effect was larger
+in the even-so scenarios than in the plain scenarios. This
+time, however, the larger effect in the even-so scenarios
+was driven by a larger late positivity to incoherent even-so
+than incoherent plain critical words [Figure 3B, in the
+occipital region, F(1, 26) = 8.2, p < .01, and in the right
+parietal region, F(1, 26) = 4.3, p < .05]; there was no
+significant difference in the late positivity evoked by
+coherent critical words in the even-so and plain coherent
+scenarios in any of these regions (all ps > .05, Figure 3A).
+Late anterior negativity: 800-1000 ms
+Analysis within this time window revealed an Even-so x
+Coherence x Region interaction in the mid-regions analysis,
+
+Figure 2. Grand-averaged waveforms to critical words in Experiment 1 (coherence rating task) showing effects of Coherence at
+electrodes Fz, Cz and Pz.
+Panel A: waveforms to critical words in plain coherent (black solid) and plain incoherent (red dotted) scenarios.
+Panel B: waveforms to critical words in even-so coherent (black solid) and even-so incoherent (red dotted) scenarios.
+Voltage maps show differences in ERPs between incoherent and coherent critical words (incoherent minus coherent) between 350-450
+ms (N400) and 600-800 ms (P600).
+
+658
+
+M. Xiang and G. Kuperberg
+
+Figure 3. Grand-averaged waveforms to critical words in Experiment 1 (coherence rating task) showing effects of Even-so at electrodes
+Fz, Cz and Pz.
+Panel A: waveforms to critical words in coherent plain (black solid) and coherent even-so (blue dotted) scenarios.
+Panel B: waveforms to critical words in incoherent plain (black solid) and incoherent even-so (blue dotted) scenarios.
+Voltage maps show differences in ERPs between even-so and plain critical words (even-so minus plain) between 350-450 ms and 600-
+800 ms.
+
+F(4, 104) = 16.6, p < .001. Some of this effect was driven by
+the late positivity effect continuing into the late time
+window at the posterior-parietal site. But in the prefrontal
+region (electrode sites FP1, FP2, FPz), there was a larger
+negativity to critical words in the even-so incoherent
+scenarios than in the other three scenarios [all ts(26) > 2.6,
+ps < .05, see Figures 2 and 3].
+
+Sentence-final word
+At the sentence-final word, 28% of trials were rejected for
+artefact (plain coherent 24%; plain incoherent: 27%; evenso coherent: 29%; and even-so incoherent: 32%). There
+was a near-significant effect of Coherence [F(1, 26) = 4.0,
+p = .056] because there were slightly more rejected
+incoherent than coherent trials, and an effect of Even-so
+[F(1, 26) = 9.8, p < .01] because there were slightly more
+rejected even-so than plain trials, but there was no
+interaction between the two factors.
+Sentence-final negativity: 300-1000 ms
+Activity on the sentence-final words was captured over a
+prolonged 300-1000 ms time window, shown in Figure 4.
+As expected, there was a larger sustained negativity on
+
+sentence-final words in the incoherent than the coherent
+scenarios [main effects of Coherence: mid-regions, F(1,
+26) = 24, p < .001; peripheral regions, F(1, 26) = 15, p <
+.01 analyses]. In addition, there was a main effect of
+Even-so, with a larger negativity on sentence-final words
+in the even-so than the plain scenarios [mid-regions: F(1,
+26) = 24, p < .001; peripheral regions: F(1, 26) = 15, p <
+.01]. Finally, in the mid-regions analysis, there was an
+interaction between Even-so, Coherence and Region, F(4,
+104) = 3.4, p < .05. To follow-up this three-way
+interaction, we carried out pair-wise comparisons at two
+6-electrode regions: posterior (combining the parietal and
+occipital 3-electrode regions) and frontal (combining the
+frontal and central 3-electrode regions).
+In the posterior 6-electrode region, the final words of
+the even-so incoherent scenarios evoked the largest
+negativity (differing significantly from the three other
+conditions, Fs > 13, ps < .01), while the final words of the
+plain coherent scenarios evoked the smallest negativity.
+The final words of the plain incoherent and even-so
+coherent scenarios each evoked medium-sized sustained
+negativities, which were smaller than in the even-so
+incoherent scenarios (Fs > 13, ps < .01), but larger than
+in the plain coherent scenarios (Fs > 4, ps < .05). In the
+
+Language, Cognition and Neuroscience
+
+659
+
+the plain scenarios. In addition, in the even-so scenarios,
+we also saw an effect of coherence on a late anterior
+negativity between 800 and 1000 ms. At the sentencefinal word, we saw effects of both Coherence and Evenso. Finally, the pattern of these ERP findings across the
+four conditions dissociated from participants' offline
+behavioural coherence judgements of the same sentences.
+We discuss each of these findings in turn.
+The plain scenarios
+
+Figure 4. Grand-averaged waveforms to sentence-final words
+in Experiment 1 (coherence rating task). ERPs to sentence-final
+words in all four conditions are shown at electrodes Fz, Cz and
+Pz. Plain coherent: black solid line; plain incoherent: blue dashed
+line; even-so coherent: green solid line; even-so incoherent: red
+dotted line.
+
+The significant N400 effect of Coherence in the plain
+scenarios is consistent with our previous findings (Kuperberg et al., 2011), in which we contrasted causally
+coherent and incoherent plain discourse scenarios while
+participants carried out a similar explicit coherence
+judgement task. Just as in this previous study, the N400
+in this study was attenuated on the coherent critical words,
+even though its general schema-based semantic relatedness with the preceding context (as operationalised by
+LSA) was matched with the incoherent scenarios (see
+Table 1). This tells us that, when participants actively
+attend to discourse relationships, they are able to construct
+a full discourse model from the context, use this model to
+access stored information about event relationships, and
+generate predictions about likely upcoming events and
+their associated semantic features, leading to facilitated
+processing of incoming words whose semantic features
+match these predictions.
+In the present study, the N400 effect was followed by a
+small P600 effect, which we did not see in our previous
+study (Kuperberg et al., 2011). The reason for this is
+unclear, but one possibility is that the presence of the
+even-so scenarios themselves encouraged comprehenders
+to engage in additional analysis in attempts to make sense
+of all incoherent sentences (see endnote 6).
+The even-so scenarios
+
+frontal 6-electrode region, however, there was no difference in the amplitude of the negativities evoked by
+sentence-final words of the even-so coherent, even-so
+incoherent and plain incoherent scenarios (Fs < 3, ps >
+.05), which all evoked a more negative waveform than the
+sentence-final words of the coherent plain scenarios (Fs >
+6, ps < .05).
+
+Discussion
+In this experiment, participants made explicit judgements
+about the coherence of each scenario. In both the plain and
+the even-so scenarios, we saw both N400 and P600 effects
+of coherence on the critical words. In the even-so
+scenarios, however, both these effects were larger than in
+
+The N400 attenuation to critical words in the coherent
+versus incoherent even-so scenarios indicates that readers
+were able to draw upon the alternative world model set up
+under even so rather than stored long-term real-world
+knowledge, to facilitate semantic processing of upcoming
+words. Moreover, our finding that the N400 Coherence
+effect was actually larger in the even-so than the plain
+scenarios, and that this was due to an attenuation of the
+N400 to the even-so coherent (versus plain coherent)
+critical words, indicates that the event structure and
+semantic predictions, set up under even so, were stronger
+(higher probability) than those generated in the plain
+scenarios on the basis of default world knowledge. We
+argue that this is because even so narrowed down
+the number of potential upcoming event structures to
+those that were causally real-world inconsistent, unlike in
+
+660
+
+M. Xiang and G. Kuperberg
+
+the plain scenarios where they may have considered
+multiple possible upcoming event structures (based on
+causal, spatial and temporal relationships with the preceding context), each with lower probability.
+The larger P600 on critical words in the incoherent
+even-so than in the incoherent plain scenarios suggests
+that, when these high probability predictions were violated, prolonged neural costs were incurred. More specifically, we argue that, under even so, at least on some trials,
+comprehenders predicted a real-world inconsistent event
+with high certainty (near-100% probability), and that the
+P600 was triggered by conflict between this event
+structure and the structure produced by initial attempts to
+integrate incoming critical words. We suggest that the
+P600 itself reflected prolonged attempts to integrate the
+context and critical words to construct a new discourse
+model (see Kuperberg, 2007, 2013; Paczynski & Kuperberg, 2012).4
+In addition to producing the late posteriorly distributed
+positivity/P600 effect, we also saw evidence of a late
+sustained anteriorly distributed negativity effect on critical
+words in the incoherent even-so (versus the incoherent
+plain) scenarios. We suggest that, at least on some even-so
+trials, comprehenders kept alive the possibilities of both a
+real-world inconsistent and a real-world consistent
+upcoming event structure. That is, the late sustained
+anterior negativity effect reflected the maintenance of
+these alternative event structures and the process of
+selecting the (less probable) real-world consistent event
+structure as the bottom-up information from the critical
+word was integrated (see Baggio et al., 2008; Lee &
+Federmeier, 2009; Paczynski et al, 2014; Wittenberg et al.,
+2014, for similar interpretations of late sustained negativities in other situations).
+
+The sentence-final word
+Our findings at the sentence-final word suggest that the
+costs of generating an alternative world model under even
+so did not come for free: in addition to the prolonged
+sentence-final negativity effect in the incoherent (versus
+coherent) plain scenarios, we also saw a larger sentencefinal negativity effect in the even-so coherent scenarios
+than in the plain coherent scenarios. Moreover, at posterior sites, the effects of Coherence and Even-so appeared to
+be additive: the sentence-final negativity effect was
+maximal in the even-so incoherent scenarios, indicating
+that still more wrap-up costs were incurred when the
+integration of the sentence-final word mismatched the
+alternative world model that had been originally anticipated under even so (at frontal sites, the negativities
+evoked by the sentence-final words in the even-so
+coherent, even-so incoherent and plain incoherent scenarios were all of the same magnitude).
+
+Dissociation between online ERP findings and offline
+behavioural data
+The pattern of ERP findings at the critical word dissociated from the pattern of offline discourse coherence
+ratings across the four conditions: despite clear semantic
+facilitation (a smaller N400) on critical words in the evenso versus the plain coherent scenarios, participants rated
+the same even-so coherent scenarios as less coherent than
+the plain coherent scenarios (3.3 vs. 4.8, Table 1).
+Moreover, despite prolonged neural costs associated with
+processing the even-so (versus plain) incoherent critical
+words, participants rated the same even-so incoherent
+scenarios as less incoherent than the plain incoherent
+scenarios (2.4 vs. 1.7, Table 1).
+We think that these dissociations arose because participants' offline retrospective coherence judgements about
+the coherence of the even-so scenarios were influenced by
+their long-term real-world knowledge. For example, the
+even-so incoherent scenario, `Elizabeth took the test and
+aced it. Even so, she went home and celebrated' sounds
+quite odd, but the relationship between the events themselves matches real-world knowledge, and this may have
+led participants to rate it as less incoherent than the
+incoherent plain scenarios. Similarly, although the even-so
+coherent scenario, `Elizabeth took the test and failed it.
+Even so, she went home and celebrated' sounds quite
+natural, the real-world relationship between the two main
+events mismatches our real-world knowledge; given time
+to think about its coherence, this mismatch may have led
+participants to rate it as less coherent than the plain
+coherent scenarios.
+We also suggest that similar factors influenced the
+cloze ratings of the even-so scenarios, which also
+dissociated from the online ERP data. For example,
+when asked to produce a specific word after the context,
+`Alice was walking home from work at night. A stranger
+was following her. Even so, she felt...', although 5 out of
+the 10 participants that were given this particular item
+produced the word `safe', one participant actually produced `uncomfortable', suggesting that, during these
+offline cloze judgements, some participants might have
+ignored even so altogether and continued the sentence on
+the basis of the default real-world event relations.
+Another factor to consider is that, on a substantial
+subset of the items, although participants clearly had
+committed to a continuation that was semantically inconsistent with the default real-world knowledge, they did not
+necessarily converge on exactly the same lexical item. For
+example, for the scenario, `John tried out for the comedy
+troupe. His lines were all mumbled and unintelligible.
+Even so, the director asked him to...', the target critical
+word was `join', but some participants produced other
+coherent options, such as `stay'.
+
+Language, Cognition and Neuroscience
+Together, these findings underline two important
+points. First, online neural activity does not always mirror
+participants' offline coherence judgements and cloze
+ratings: our ERP results suggest that, with limited time
+before the next word appeared, online semantic facilitation
+of the mid-sentence critical words, as reflected by the
+amplitude of the N400, was driven by the alternative
+world model established under even so, whereas our
+offline ratings, and, as discussed above, neural activity at
+the sentence-final word, were partially driven by longterm real-world knowledge. Second, they show that
+enhanced prediction for a particular type of event does
+not necessarily imply prediction or commitment to one
+specific lexical item. We will return to the relationships
+between cloze ratings, lexical prediction, event structure
+prediction, semantic facilitation and N400 modulation in
+the General Discussion.
+Experiment 2
+In this second experiment, we presented a new set of
+participants with the same experimental stimuli. This time,
+however, participants were asked simply to read the
+scenarios and answer intermittent, randomly dispersed
+comprehension questions about these scenarios.
+Once again, our starting point was the plain scenarios.
+In Experiment 1, and in our previous study examining the
+use of real-world causal knowledge across sentence
+boundaries (Kuperberg et al., 2011), we showed that,
+when explicitly asked to judge coherence, readers are able
+to retrieve and use quite specific knowledge about likely
+relationships between real-world events to predict upcoming events and facilitate semantic processing of incoming
+words consistent with these events, as reflected by an
+attenuation of the N400. This, however, does not imply
+that we always use event knowledge to facilitate semantic
+processing of incoming words during online comprehension; there are times in which semantic processing can be
+driven primarily by more general stored knowledge about
+unstructured schema-based semantic relationships
+between words or concepts (see Kuperberg et al., 2011;
+Lau et al., 2013; Otten & van Berkum, 2007; Paczynski &
+Kuperberg, 2012, for discussion). Whether we use context
+to go beyond this more general unstructured schema-based
+knowledge depends on whether we are able to establish a
+deep discourse representation of the context and use this
+to retrieve and predict stored upcoming event representations before the semantic features of the incoming word
+becomes available. This, in turn, depends on many factors
+(see General Discussion). One of these factors is task
+demands.
+Thus, in Experiment 2, our first question was whether,
+in the plain scenarios, without an explicit task requirement
+to judge coherence, readers would still be able to construct
+a deep discourse model to predict upcoming events and
+
+661
+
+facilitate semantic processing of incoming critical words.
+Alternatively, semantic processing of critical words might
+simply be driven by an interaction between whatever
+contextual representation had been constructed at the time
+the bottom-up semantic input became available and more
+general, unstructured schema-based stored semantic relationships. As LSA was matched between the coherent and
+incoherent plain scenarios, this would predict no difference between the N400 produced by critical words in the
+two conditions.
+Having established how the plain scenarios were
+processed with a comprehension task, we then asked
+about the effect of even so. Our question here was whether
+readers would still be able to reverse and enhance their
+semantic expectations, as they did in Experiment 1. If so,
+then we should see similar semantic facilitatory effects on
+the N400 to those seen in Experiment 1: a smaller N400
+on critical words in even-so coherent versus even-so
+incoherent scenarios, and a smaller N400 on critical words
+in even-so coherent versus plain coherent scenarios,
+despite these being matched on schema-based lexical
+relationships. We might also see evidence of costs of
+disconfirmed event structure predictions, manifested as
+prolonged ERP effects past the N400 time window.
+Finally, we asked whether, in the absence of an explicit
+coherence judgement, we would still see a sentence-final
+wrap cost associated with even so.
+Methods
+Participants and procedure
+Twenty-five undergraduates initially participated in
+Experiment 2 (inclusion criteria were the same as in
+Experiment 1). Three subjects were subsequently
+excluded from data analysis because of extensive ocular
+movements. Two additional subjects were excluded
+because we later found out that they had participated in
+our earlier stimuli norming studies. We report data from
+the remaining 20 subjects (9 males and 11 females; mean
+age: 20).
+The procedure of this experiment was largely the same
+as for Experiment 1. The only difference was that, after
+the 400 ms ISI that followed the final word of each trial,
+no prompt appeared to cue participants to give an explicit
+coherence rating. Rather, on 25% of trials, a comprehension question appeared, requiring a yes/no response,
+which probed participants' understanding of the scenarios.
+For instance, in the example scenario in Table 1,
+participants received the question, `Did Elizabeth care
+how she did on the test?' The planned correct answer for
+this particular question was `yes' for the plain coherent
+and the even-so incoherent versions, and `no' for the plain
+incoherent and the even-so coherent versions. Throughout
+the stimuli set, the `yes' and `no' answers were counterbalanced so that participants did not anticipate a `yes' or
+
+662
+
+M. Xiang and G. Kuperberg
+
+`no' answer for a particular condition. Participants were
+told in advance that only some of the scenarios would be
+followed by a comprehension question, and that they
+simply needed to read and understand each discourse
+scenario and answer the questions when they came up.
+
+Results
+Behavioural results
+Overall accuracy in answering the comprehension questions was 87% (SD: 4.41%). A 2 x 2 repeated-measures
+ANOVA revealed no main effects of either Coherence or
+Even-so (all Fs < 1, ps >.6), but there was a significant
+interaction between the two factors, F(1, 19) = 22, p <
+.001. Paired t-tests showed that participants were significantly more accurate on questions following the plain
+coherent scenarios (91.72%, SD: 8.07) than the plain
+incoherent scenarios (80.88%; SD: 14.56), t(19) = 3.2, p <
+.01, but they were less accurate on questions following the
+even-so coherent (82.51%; SD: 8.97) than the even-so
+incoherent scenarios (92.08%; SD: 5.43), t(19) = 3.7, p <
+.01. Tests examining the effect of Even-so on the coherent
+and incoherent scenarios separately confirmed this pattern:
+questions following the plain coherent scenarios were
+answered more accurately than those following the evenso coherent scenarios, t(19) = 3.2, p < .01, but questions
+following the plain incoherent scenarios were answered
+less accurately than those following the even-so incoherent scenarios, t(19) = 3.2, p < .01.
+
+Event-related potentials
+Critical word
+At the critical word, 17% of trials were rejected for
+artefact. A 2 x 2 repeated-measures ANOVA showed no
+effect of Coherence or Even-so on the rejection rate and
+no interaction between the two factors (all Fs < 1, p > .4).
+N400: 350-450 ms
+Within the 350-450 ms time window, there was a threeway interaction between Coherence, Even-so and Region
+(approaching significance in the mid-regions ANOVA, F
+(4, 76) = 2.5, p = .09, and significant in the peripheral
+regions ANOVA, F(1, 19) = 5.5, p < .05). Follow-ups
+showed a two-way interaction between Coherence and
+Even-so in the mid-parietal and the two peripheral parietal
+regions (all Fs > 4.8, ps < .05).
+Further follow-ups, collapsing across the mid-parietal
+and the two peripheral parietal regions (9 electrodes),
+revealed no N400 effect of Coherence in the plain
+scenarios [F(1, 19) < .1, p > .6; Figure 5A],5 but a clear
+N400 effect of Coherence in the even-so scenarios [F(1,
+19) = 9.3, p < .01, Figure 5B]. As in Experiment 1, this
+larger N400 coherence effect in the even-so scenarios was
+
+largely driven by an attenuation of the N400 to critical
+words in the coherent even-so (vs. coherent plain)
+scenarios [F(1, 19) = 4.2, p < .05; see Figure 6A; again
+the voltage map in Figure 6A shows a positivity between
+350 and 450 ms because the waveforms evoked in the
+plain scenarios was subtracted from those evoked in the
+even-so scenarios]; there was no significant difference in
+the N400 evoked by the critical words in the incoherent
+even-so and the incoherent plain scenarios [F(1, 19) = 3.4,
+p > .05, Figure 6B].
+P600: 600-800 ms
+Collapsed across the plain and even-so scenarios, there
+was a Coherence x Region interaction in the 600-800 ms
+window [mid-regions: F(4, 76) = 4.3, p < .05; peripheral
+regions: F(1, 19) = 11.3, p < .01], with follow-ups
+showing P600 effects in mid-parietal, mid-occipital and
+right occipital regions [F(1, 19)s > 7, p < .05]. There were
+no further interactions involving Coherence and Even-so
+over these regions (p > .4), indicating that the magnitude
+of the P600 Coherence effect did not differ between the
+even-so and the plain scenarios.
+Late anterior negativity: 800-1000 ms
+Analysis within this time window revealed an Even-so x
+Coherence x Region interaction in the mid-regions analysis
+[F(4, 76) = 5.1, p < .05]. Follow-ups at the prefrontal region
+showed marginally larger negativities to critical words in
+the even-so incoherent scenarios, relative to the even-so
+coherent scenarios [t(19) = 1.9, p < .08] and the plain
+incoherent scenarios [t(19) = 2, p < .06], but not to the plain
+coherent scenarios [t(19) < 1, p > .3; see Figures 5 and 6].
+Sentence-final word: 300-600 ms
+At the sentence-final word, 26% of trials were rejected for
+artefact. A 2 x 2 within-subjects ANOVA showed no
+effect of Coherence, Even-so and no interaction between
+the two factors (all Fs < 2, p > .2). Visual inspection of the
+ERP waveform on the sentence-final word suggests that
+there were effects of both Coherence and Even-so, but
+these effects were not as prolonged as in Experiment 1.
+We therefore chose the 300-600 ms time window for data
+analysis.
+The waveforms for the sentence-final word are presented in Figure 7. The mid-regions omnibus ANOVAs
+revealed a main effect of Coherence [mid-regions: F(1, 19)
+= 4.8, p < .05] while the peripheral regions ANOVA
+showed a main effect of Coherence [F(1, 19) = 6.0, p < .05]
+and a marginal interaction between Coherence and Region
+[F(1, 19) = 4.1, p < .06]. There were also main effects of
+Even-so [mid-regions: F(1, 19) = 4.7, p < .05; peripheral:
+F(1, 19) = 5.0, p < .05], as well as interactions between
+Even-so and Region [mid-regions: F(4, 76) = 3.7, p < .05;
+peripheral: F(1, 19) = 4.6, p < .05].
+
+Language, Cognition and Neuroscience
+
+663
+
+Figure 5. Grand-averaged waveforms to critical words in Experiment 2 (comprehension task) showing effects of Coherence at
+electrodes Fz, Cz and Pz.
+Panel A: waveforms to critical words in plain coherent (black solid) and plain incoherent (red dotted) scenarios.
+Panel B: waveforms to critical words in even-so coherent (black solid) and even-so incoherent (red dotted) scenarios.
+Voltage maps show differences in ERPs between incoherent and coherent critical words (incoherent minus coherent) between 350-450
+ms (N400) and 600-800 ms (P600).
+
+To determine how this negativity was modulated across
+the four sentence types, we carried out pair-wise comparisons in the same 6-electrode posterior (parietal-occipital)
+and 6-electrode anterior (central-frontal) regions as in
+Experiment 1. In the posterior region, the pattern of effects
+was similar to that seen in Experiment 1, but modulation
+was generally weaker. Sentence-final words of the even-so
+incoherent scenarios again appeared to evoke the largest
+negativity. This was significantly larger than the negativity
+produced by sentence-final words in the plain coherent
+scenarios, F(1, 19) > 12, p < .01, and marginally larger
+than the sentence-final negativities of the plain incoherent
+and even-so coherent scenarios (Fs < 4, ps < .08). These
+latter conditions each produced negativities that were
+marginally larger than in the plain coherent scenarios
+(Fs < 3, ps < .1), but that did not differ from one another,
+F(1, 19) < 1, p > .9. In the anterior 6-electrode region, the
+pattern was similar to that seen in Experiment 1: the final
+words of even-so incoherent, even-so coherent and plain
+incoherent scenarios each produced significantly larger
+sustained negativities than the final words of the plain
+coherent scenarios (all Fs > 6, ps < .05), and the amplitude
+of these negativities did not differ from one another (all
+Fs < 2, ps > .2).
+
+Discussion
+In this experiment, a different set of participants read the
+same stimuli as in Experiment 1, this time answering
+intermittent comprehension questions about the scenarios,
+rather than explicitly rating their causal coherence. On
+these intermittent trials, comprehension questions following the plain coherent scenarios were answered more
+accurately than those following the even-so coherent
+scenarios, but questions following the plain incoherent
+scenarios were answered less accurately than those
+following the even-so incoherent scenarios. This mirrors
+the pattern of offline behavioural judgements seen in
+Experiment 1 (see Discussion of Experiment 1 for a
+possible interpretation). We also saw some similarities, as
+well as some differences, between the two experiments in
+the pattern of ERP results.
+The plain scenarios
+In the plain scenarios, we saw no N400 effect of
+coherence at all. This contrasts with the findings of an
+N400 coherence effect in two previous experiments that
+examined processing of LSA-matched plain scenarios
+using a coherence judgement task: Experiment 1 and
+Kuperberg et al. (2011). We suggest that, in the absence of
+
+664
+
+M. Xiang and G. Kuperberg
+
+Figure 6. Grand-averaged waveforms to critical words in Experiment 2 (comprehension task) showing effects of Even-so at electrodes
+Fz, Cz and Pz.
+Panel A: waveforms to critical words in coherent plain (black solid) and coherent even-so (blue dotted) scenarios.
+Panel B: waveforms to critical words in incoherent plain (black solid) and incoherent even-so (blue dotted) scenarios.
+Voltage maps show differences in ERPs between even-so and plain critical words (even-so minus plain) between 350-450 ms and
+600-800 ms.
+
+any explicit requirement to judge discourse coherence,
+comprehenders did not construct a deep representation of
+context in time to access stored information about likely
+upcoming event relationships and predict upcoming
+events and semantic features before the semantic features
+of the incoming words became available (see Kuperberg
+et al., 2011; Paczynski & Kuperberg, 2012, for discussion). This is not to say that context was not used at all;
+however, it served mainly to activate more general
+schema-based semantic relationships rather than specific
+knowledge about events. As LSA - a measure of these
+schema-based semantic relatedness between the critical
+word and its context - was matched between the coherent
+and incoherent plain scenarios, this meant that there was
+no difference in N400 amplitude evoked by critical words
+in the plain coherent and incoherent scenarios (see Hoeks,
+Stowe, & Doedens, 2004; Kolk, Chwilla, van Herten, &
+Oor, 2003; Kuperberg, 2007; Kuperberg et al., 2003;
+Kuperberg, Caplan, Sitnikova, Eddy, & Holcomb, 2006;
+Nieuwland & van Berkum, 2005; Paczynski & Kuperberg,
+2012, for other examples of the N400 not patterning with
+overall coherence or plausibility). Of note, however, as in
+Experiment 1, we did see a P600 effect on the critical
+words in the incoherent versus coherent plain scenarios.6
+
+The even-so scenarios
+Unlike in the plain scenarios, we did see a reduction of the
+N400 to coherent versus incoherent critical words in the
+even-so scenarios. In other words, despite the coherent
+and incoherent scenarios also being matched on lexical
+schema-based relationships, and there being no explicit
+requirement to judge coherence, comprehenders were able
+draw upon the alternative world model established under
+even so and use this to predict upcoming real-world
+unexpected events and facilitate the semantic processing
+of incoming words.
+Unlike in Experiment 1, we did not see an enhanced
+P600 effect to the incoherent even-so versus incoherent
+plain critical words. We suggest that this was because,
+with a comprehension task, comprehenders were less
+likely to commit, with near certainty, to one specific
+type of event continuation under even so, leading to less
+conflict when the even-so incoherent critical words came
+to be integrated. There was, however, a near-significant
+late sustained anterior negativity effect for this contrast.
+Sentence-final words
+Finally, on sentence-final words, we observed effects of
+both Even-so and Coherence. At posterior sites, these
+
+Language, Cognition and Neuroscience
+
+665
+
+words in the even-so coherent than the plain coherent
+scenarios. To our knowledge, this is the first study to show
+that a concessive connective can lead both to a reversal and
+an enhancement of online semantic expectations during
+discourse comprehension. Here we return to the four sets of
+questions outlined at the end of the General Introduction.
+We will then consider the more general implications of our
+findings for understanding the neurocognitive mechanisms
+engaged in online discourse comprehension, as well as for
+understanding the functional significance of the N400, and
+subsequent ERP components.
+
+Figure 7. Grand-averaged waveforms to sentence-final words
+in Experiment 2 (comprehension task). ERPs to sentence-final
+words in all four conditions are shown at electrodes Fz, Cz and
+Pz. Plain coherent: black solid line; plain incoherent: blue dashed
+line; even-so coherent: green solid line; even-so incoherent: red
+dotted line.
+
+effects again seemed to be additive, with the largest
+negativity produced by sentence-final words in the evenso incoherent scenarios. This suggests that additional
+wrap-up costs were incurred as participants drew upon a
+different likelihood scale (the alternative world established
+under even so), rather than real-world knowledge, to
+evaluate final discourse coherence, even when participants
+did not explicitly judge discourse coherence.
+
+General discussion
+In two experiments, we asked when and how comprehenders use the concessive connective, even so during online
+discourse comprehension. Our findings on the N400 were
+clear: in both experiments, the N400 was smaller to critical
+words in the even-so coherent than the even-so incoherent
+scenarios. Moreover, the N400 was also smaller to critical
+
+1. Even so reverses and enhances semantic predictions
+during online discourse comprehension
+Our first question was whether the reversed set of
+likelihood relations set up under the scalar reversal
+function of even so would lead to reversed semantic
+expectations, thereby facilitating the initial stages of
+accessing or retrieving the semantic features of congruous
+incoming words. Our findings clearly indicate that they
+could: in both experiments, the N400 in the even-so
+scenarios was smaller to critical words that were coherent
+than those that were incoherent in relation to their context,
+even though the message conveyed in the coherent evenso scenarios mismatched long-term real-world knowledge.
+These findings are consistent with previous studies of
+fictional scenarios and counterfactuals, showing that
+comprehenders can use alternative world models set up
+by a discourse context to modulate (Hald et al., 2007) and
+even fully reverse expectations based on real-world
+knowledge, so long as these contexts are pragmatically
+constraining (cf. Fergurson et al., 2008, Experiment 2, and
+Nieuwland et al., 2012; Nieuwland, 2013). What distinguishes the present findings from this previous work is
+that both the set-up of the alternative world model and the
+pragmatic discourse constraint were determined by a
+simple, but yet semantically rich, concessive connective.
+Indeed, even so seemed to have set up stronger
+expectations that those generated in the plain scenarios:
+in both experiments, the N400 was smaller to critical
+words in the coherent even-so than in the coherent plain
+scenarios (see Murray, 1994, for consistent behavioural
+results). In the plain scenarios, where there was no
+pragmatic cue to indicate what type of upcoming event
+they might encounter, comprehenders are likely to have
+entertained multiple possibilities, each with a relatively
+low probability. We argue that, under even so, they are
+more likely to have predicted a specific type of event
+structure (one that was causally inconsistent with realworld knowledge) with fairly high probability. This
+constraining function of even so, in turn, led to a higher
+probability of predicting the semantic features associated
+with incoming words in the even-so coherent scenarios
+and more semantic facilitation when these features were
+
+666
+
+M. Xiang and G. Kuperberg
+
+accessed (see Lau et al., 2013, for evidence that top-down
+semantic prediction can lead to a reduced N400 to
+expected words, even in single word contexts). This, of
+course, raises the question of whether this type of
+enhanced expectation effect is unique to concessive
+connectives, or whether it is also induced by other
+discourse connectives like `and so' or `because', which
+do not reverse expectations but also specify a specific
+relationship between events and states. We are currently
+carrying follow-up studies to address this question
+directly.
+
+2. Costs of disconfirmed event predictions under even so
+Further evidence that even so led comprehenders to
+predict a particular event type with higher probability
+than in the plain scenarios comes from the prolonged
+processing costs (activity past the N400 time window)
+observed when such predictions were disconfirmed by
+the input. Of note, we saw two such effects -a late
+posteriorly distributed P600 effect (seen just in Experiment 1) and a late anteriorly distributed negativity effect
+(significant in Experiment 1 and near-significant in
+Experiment 2).
+We suggest that the P600 was produced on trials in
+which comprehenders committed with high certainty
+(near-100% probability), to a real-world inconsistent
+event. When this highly certain prediction was violated,
+the resulting conflict between the predicted real-world
+inconsistent and bottom-up real-world consistent event
+structure triggered prolonged attempts to integrate the
+incoming word to construct a new situation model. The
+interpretation of the late anterior negativity effect is less
+clear. However, one possibility is that it was produced on
+trials in which comprehenders considered both the possibility that they would encounter a real-world inconsistent upcoming event structure (with relatively high, but not
+near-certain probability) and a real-world consistent event
+structure (with lower probability), and that it reflected the
+cost of selecting a (less probable) real-world consistent
+event structure and suppressing the more probable realworld inconsistent event structure, as the critical word was
+integrated. Similar late negativity effects have been
+associated with selecting relatively low probability specific events (Wlotko & Federmeier, 2012) as well as
+selecting `alternative' or non-canonical event structures,
+such as in aspectual coercion (Bott, 2010; Paczynski et al.,
+2014), aspectual shift (Baggio et al., 2008), light verb
+constructions (Wittenberg et al., 2014), ambiguous noun-
+verb homographs (Lee & Federmeier, 2006, 2009) and
+non-literal language or jokes (e.g. Coulson & Kutas, 2001;
+Coulson & Van Petten, 2007).
+
+3. The assessment of overall coherence against the
+`alternative world' established under even so leads to
+costs at sentence-final wrap-up
+Our third question was whether the establishment of an
+alternative world model under even so, would lead to
+delayed processing costs. We found that it did. These costs
+manifest as a prolonged negativity effect of even so on
+sentence-final words. This sentence-final negativity effect
+was qualitatively similar to the wrap-up effect of coherence seen in both the even-so and the plain scenarios, and,
+at posterior sites, the two effects were additive. This
+suggests that some wrap-up costs were incurred when the
+final discourse model was evaluated against a set of nondefault likelihood event relations established under even
+so, and that even more wrap-up costs were incurred when
+this overall discourse model was found to be incoherent.
+In both experiments, the additive effects of Even-so
+and Coherence were evident primarily at posterior sites.
+At more frontal sites, the final words of the coherent evenso, incoherent plain, and incoherent even-so scenarios all
+evoked a negativity effect of the same magnitude, which
+was larger than that seen in the coherent plain scenarios.
+We suggest that this more frontal component of the
+sentence-final negativity reflected a general engagement
+of working memory resources that maintained multiple
+representations, rather than actually evaluating them
+against each other for coherence. If this interpretation is
+correct, then it would suggest that there would be similar
+working memory costs associated with maintaining both
+the real-world and alternative world model under even so
+much earlier in the sentence (see King & Kutas, 1995;
+Kluender & Kutas, 1993; Munte, Schiltz, & Kutas, 1998;
+Nieuwland & van Berkum, 2008; van Berkum, Brown,
+Hagoort, & Zwitserlood, 2003, for evidence of early onset
+and sustained negativity effects associated with maintaining multiple representations within working memory over
+multiple words). In the present study, we were unable to
+address this question because corresponding words in the
+even-so scenarios and the plain scenarios were confounded by baseline differences (the even-so scenarios started
+with a connective, whereas the plain scenarios did not). It
+will therefore be important to address this in future
+studies. It will also be important to determine whether
+there are costs associated with even so itself - the point at
+which the presupposition of a reversed likelihood scale
+was calculated - and to determine how such costs might
+manifest in the ERP waveform.
+
+4. Task can impact multiple stages of online discourse
+comprehension
+Finally, our findings show that task made an important
+difference to how both the plain and even-so scenarios
+were processed, at multiple stages of comprehension.
+
+Language, Cognition and Neuroscience
+In the plain scenarios, task influenced the type of stored
+real-world knowledge that was used to influence semantically processing of incoming words. With a requirement to
+explicitly judge discourse coherence (Experiment 1), comprehenders were able to construct a deep situation-level
+representation of context and use it to access their stored
+knowledge of real-world event relationships to predict
+upcoming events and semantic features, thereby facilitating
+semantic processing of incoming coherent words. With no
+such requirement, however, comprehenders simply drew
+upon their more general stored knowledge about unstructured relationships between words/concepts within a particular schema. Because these schema-based relationships
+were matched (through LSA) between conditions, we saw
+no N400 amplitude difference between critical words of the
+plain coherent and incoherent scenarios [Experiment 2; also
+see Experiment 3 in endnote 6, in which we also saw no hint
+of a coherence N400 effect on the plain scenarios when we
+pooled together results on the two plain scenarios from a
+larger number of participants (n = 36)].
+In the even-so scenarios, task made less of a qualitative
+difference to N400 modulation. This is because the pragmatic communicative constraint of even so led comprehenders to narrow down their expectations and anticipate a realworld inconsistent event structure, regardless of whether
+there was an explicit task requirement to focus on discourse
+relationships. On the other hand, task did make some
+difference to the neural mechanisms that comprehenders
+engaged when these event structure predictions were
+violated: the enhancement of the P600 on the even-so
+(versus plain) incoherent critical words was only seen when
+participants made active judgements (Experiment 1). We
+suggest that this is because the requirement to judge
+coherence, together with the discourse pragmatic function
+of even so, led comprehenders to commit with near certainty
+to a specific type of event structure, ahead of integrating the
+critical word, at least on some trials. As discussed above,
+this, in turn, led to more conflict as the real-world consistent
+critical word was integrated, which triggered additional
+bottom-up attempts to integrate the incoming word, leading
+to increased P600. This is consistent with frameworks
+holding that task is one of several factors that can lower
+the threshold for triggering a P600 effect to semantically
+incoherent words that conflict with alternative analyses
+(e.g. Kuperberg, 2007). It is also consistent with previous
+work suggesting that the P600 is closely linked to comprehenders' detection of incoherence (e.g. Sanford, Leuthold,
+Bohan, & Sanford, 2011).
+
+General implications and functional relevance of the
+N400 and P600 in discourse comprehension
+Beyond speaking to the specific role of concessive connectives in discourse comprehension, our findings highlight
+
+667
+
+some general points about the functional significance of the
+N400 and later ERP components.
+First, our findings underline the fact that, while N400
+modulation often patterns with offline ratings of semantic
+discourse coherence, this is by no means always the case
+(see Paczynski & Kuperberg, 2011, 2012 and references
+therein for many other examples). In the present study, we
+saw no N400 effect of coherence at all in the plain
+scenarios in Experiment 2. Furthermore, in both experiments, the N400 coherence effect was larger in the evenso than the plain scenarios, despite the difference in
+coherence ratings being larger in the plain scenarios.
+The reason why the N400 does not always pattern with
+offline coherence or plausibility ratings is because it is not
+a direct reflection of a process of evaluating a representation of discourse meaning against stored knowledge in
+order to asses `plausibility' or `coherence' during online
+comprehension (see also Kuperberg, Choi, Cohn, Paczynski, & Jackendoff, 2010; Paczynski & Kuperberg,
+2011, 2012, for further discussion). Rather, is best
+characterised as reflecting changes in the activity within
+semantic memory induced by incoming words (Kutas &
+Federmeier, 2011; DeLong et al., 2011; Lau et al., 2008),
+or the implicit semantic prediction error in shifting from a
+prior to a posterior distribution of semantic features on the
+basis of new input (Rabovsky & McRae, 2014). Whether
+or not the N400 will pattern with coherence or plausibility
+will therefore depend on the prior distribution of semantic
+features, which as we have argued, will depend on the
+probability of predicting a particular event structure just
+before a target's semantic features become available. The
+probability/strength of such prediction at the event structure layer will depend on many factors (see Kuperberg
+et al., 2011, and references therein for discussion). In this
+study, we have highlighted the pragmatic constraining
+function of certain words (here, even so) as well as task
+demands.
+This study also underlines the fact that the N400 is
+sensitive to implicit predictions of semantic features, but
+that this does not always or necessarily equate to lexical
+pre-activation or prediction (the co-activation of semantic
+features together with phonological or orthographic form
+and sometimes syntactic features). Of course, semantic
+and lexical expectations often go hand-in-hand: we have
+known for some time that lexical predictability/constraint,
+as operationalised by cloze probability, is an important
+determinant of N400 amplitude (e.g. Federmeier et al.,
+2007; Kutas & Hillyard 1984). However, the two can be
+dissociated. For example, a context can constrain for a
+particular group of semantic features without necessarily
+constraining for a specific lexical item (e.g. Federmeier &
+Kutas, 1999; Paczynski & Kuperberg, 2011, 2012), and it
+is possible for comprehenders to predict a particular event
+structure, without necessarily predicting a specific lexical
+item (see Kuperberg, 2013, for discussion). Moreover, as
+
+668
+
+M. Xiang and G. Kuperberg
+
+discussed in Experiment 1, offline cloze ratings may not
+necessarily reflect fast word-by-word lexical prediction.
+Finally this study also adds to the growing evidence
+that activity within the N400 time window does not
+always reflect the final stages of semantically integrating
+an incoming word into its context. We have argued that
+the late posterior positivity/P600 ERP component is
+triggered by the conflict between a strong (near-certain)
+prediction and bottom-up input that violates this prediction, and that it reflects a switch to a new (generative)
+model (representation relationships between events) as the
+incoming word is integrated into the context.7 We have
+also suggested that the late negativity effect is evoked
+when we predict more than one event or event structure,
+and the less probable of these event structures is selected
+as the incoming word is integrated. If these interpretations
+are correct, then this would imply that different individuals, at different times, might use exactly the same
+context to predict event structures with different strengths/
+certainties, leading them to mount either a P600 or a late
+anterior negativity response if these predictions are
+violated. It would also imply that these responses are
+likely to vary within individuals, with a given comprehender engaging quite different mechanisms depending on
+the degree to which their wider linguistic (and nonlinguistic) environment encourages strong or weak prediction (see Kuperberg, 2013, 2014, for discussion; and
+Kleinschmidt & Jaeger, in press, for a formalisation in the
+domain of speech perception). It will be important for
+future studies to examine this type of inter- and intraindividual variation more closely.
+
+Conclusion
+To conclude, we have shown that the concessive connective, even so, leads to a reversal of expectations such that
+comprehenders can use discourse-internal information to
+override the effects of stored long-term world knowledge.
+Moreover, comprehenders are able to make maximal use
+of the pragmatic discourse constraint of even so to
+enhance their expectations about the upcoming events,
+leading to facilitated semantic processing of incoming
+words, even in contexts that are not highly lexically
+constraining, as indexed by cloze probability. This benefit
+of even so, however, did not come for free: we also
+observed global costs of constructing and maintaining an
+alternative world under even so, manifesting on the final
+word of the scenarios. Together, our results show that,
+although stored knowledge provides an important background for language comprehension, we are nonetheless
+able to use concessive connectives to construct, constrained and integrate new information into an abstract
+mental model amazingly quickly, even when this model
+mismatches our real-world experience.
+
+Acknowledgement
+The authors thank Abigail Swain, Eric Fields, Kristina Fanucci
+for their assistance in data collection, and Ellen Lau and Einat
+Shetreet for their helpful comments.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+Funding
+This work was funded by the National Institute of Mental Health
+(R01MH071635 to G.R.K.).
+
+Notes
+1. Our use of `alternative world model' in this sense should not
+be confused with the concept of `possible worlds' in formal
+semantics.
+2. In fact, most studies of sentence and discourse processing
+have not matched general schema-based lexical relationships
+in this way and have therefore not been able to distinguish
+between these two possibilities (see Kuperberg et al., 2011;
+Otten & van Berkum, 2007; Paczynski & Kuperberg, 2012,
+for discussion). For example, even in the classic example of
+an N400 effect, `She liked to take her coffee with cream and
+sugar/dog' (Kutas & Hillyard, 1980), the attenuation of the
+N400 to sugar (versus dog) could, in theory, be driven by its
+closer semantic relationship with the general schema of coffee
+drinking, rather than by a more specific expectation of the
+most likely thing, after cream, that someone would put inside
+her coffee. Those studies that have used such schemamatched stimuli reveal a mixed picture, as discussed further
+in Experiment 2.
+3. To exclude the possibility that the smaller N400 to critical
+words in the even-so coherent versus the plain coherent
+scenarios was driven purely by their later position in the
+sentence (see Van Petten & Kutas, 1990, for effects of word
+position on the N400), we looked at the N400 on the word
+following the critical word. We found no difference between
+these two conditions between 350 and 450 ms, F(1, 26) =
+0.66, p > .4, suggesting word position alone did not produce
+this N400 difference.
+4. Note that the enhanced P600 was driven entirely by a larger
+P600 to the incoherent critical words in the even-so (versus
+plain) scenarios, and that there was no P600 difference
+between the coherent even-so and plain scenarios. This
+indicates that the enhanced N400 reduction in the coherent
+even-so (versus the plain) scenarios cannot be simply
+explained by temporal and spatial overlap between the N400
+and the P600 components at the scalp surface: if the N400 to
+coherent critical words in the even-so (versus plain) scenarios
+was being artificially `pulled down' by an overlapping P600,
+we would have seen a larger (more positive-going) P600 to
+these coherent even-so (versus coherent plain) critical words.
+5. A potential concern is that the lack of a N400 may be due to
+overlap of an earlier positivity. Visual inspection of more
+electrodes did indeed show that, at some of the central-
+posterior electrode sites, there was an early positivity between
+approximately 200-350 ms that appeared larger to critical
+words in the plain incoherent scenarios than the plain
+coherent scenarios. We carried out statistics within this time
+window to contrast these two conditions, collapsing across
+the 5-electrode sites where this effect seemed to be largest
+
+Language, Cognition and Neuroscience
+(CP1, CP2, Pz, P3, P4), but found no significant effect, F(1,
+19) = 2.2, p > .1. In addition, we also redid the N400 analysis
+within the 350-450 ms time window, with a new baseline
+between 200 and 300 ms, i.e. we re-baselined right before the
+N400 time window. If the early difference masked the N400
+in some way, we might expect to see a N400 difference
+emerge between the plain coherent and plain incoherent
+scenarios. This is not what we found: the effect of Coherence
+in the plain scenarios was non-significant, F(1, 19) < .1, p >
+.5, but remained significant in the even-so scenarios, F(1, 19)
+= 6.1, p < .05. Based on these two analyses, we think it is
+unlikely an early divergence in the waveforms masked the
+N400 effect in the plain scenarios.
+6. A potential concern is that the absence of a N400 effect in
+Experiment 2 was due to a lack of statistical power due to the
+smaller number of participants run in Experiment 2 than in
+Experiment 1 (20 vs. 27). It is also possible that, in both
+Experiments 1 and 2, the P600 seen to the plain scenarios was
+due to the presence of so many even-so incoherent scenarios
+in the experimental environment, which may have encouraged
+comprehenders to engage in additional analysis to all types of
+incoherent critical words. Finally, the presence of this P600 in
+the plain scenarios may have masked any N400 on the scalp
+surface due to component overlap. To address these three
+concerns, we carried out an additional Experiment 3 in which
+a new group of 16 individuals read the same plain scenarios,
+but with no even-so scenarios in the experimental set. They
+carried out the same comprehension task as used in Experiment
+2. Results are reported in Supplementary material at: http://
+www.nmr.mgh.harvard.edu/kuperberglab/publications.htm. To
+summarise our findings: (1) we saw no N400 or P600
+coherence effect (although, as in Experiments 1 and 2, we did
+see a prolonged negativity effect on the sentence-final word of
+the incoherent versus coherent plain scenarios, indicating that
+participants were engaged in comprehending the sentences)
+and (2) when we pooled the ERPs evoked by critical words
+in the plain scenarios of Experiments 2 and 3 to give a total
+of 36 participants (exceeding the number of participants in
+Experiment 1), we still did not see any sign of a N400 effect.
+Based on these results, it seems unlikely that statistical power
+alone explains the absence of N400 in Experiment 2, or that
+the absence of the N400 effect in Experiment 2 was simply
+an artefact of component overlap. Finally, the absence of a
+P600 effect in Experiment 3 provides some preliminary
+support for the idea that the large number of even-so
+scenarios in the wider experimental environment, leading
+to the P600 effect to the plain scenarios in both Experiments
+1 and 2, although this is speculative and requires systematic
+follow-up.
+7. In some of our previous discussions of the P600 component,
+we have described these type of near certainty event predictions as arising from a `semantic memory based analysis', i.e.
+stemming from the interaction between context and real-world
+knowledge stored in long-term semantic memory. By definition, incoming words that violate strong semantic memorybased predictions will, when fully integrated, yield an event
+representation that is highly implausible/impossible (see Paczynski & Kuperberg, 2012, for recent discussion). What the
+present study shows is that a P600 can also be produced when
+event predictions are based on an `alternative world model' and
+full integration of a target word outputs a discourse representation that is highly incoherent but not necessarily `implausible'
+with respect to real-world knowledge.
+
+669
+
+References
+Altmann, G., & Steedman, M. (1988). Interaction with context
+during human sentence processing. Cognition, 30, 191-238.
+doi:10.1016/0010-0277(88)90020-0
+Baggio, G., Van Lambalgen, M., & Hagoort, P. (2008). Computing
+and recomputing discourse models: An ERP study. Journal of
+Memory and Language, 59(1), 36-53. doi:10.1016/j.jml.2008.
+02.005
+Becker, C. A. (1980). Semantic context effects in visual word
+recognition: An analysis of semantic strategies. Memory &
+Cognition, 8, 493-512. doi:10.3758/BF03213769
+Becker, C. A. (1985). What do we really know about semantic
+context effects during reading? In D. Besner, T. G. Waller, & E.
+M. McKinnon (Eds.), Reading research: Advances in theory
+and practice (Vol. 5, pp. 125-169). Toronto: Academic Press.
+Blakemore, D. (2002). Relevance and linguistic meaning.
+Cambridge: Cambridge University Press.
+Bornkessel-Schlesewsky, I., & Schlesewsky, M. (2008). An
+alternative perspective on "semantic P600" effects in language comprehension. Brain Research Reviews, 59, 55-73.
+doi:10.1016/j.brainresrev.2008.05.003
+Bott, O. (2010). The processing of events. Amsterdam: John
+Benjamins.
+Clark, A. (2013). Whatever next? Predictive brains, situated agents,
+and the future of cognitive science. Behavioral and Brain
+Sciences, 36, 181-204. doi:10.1017/S0140525X12000477
+Corley, M., MacGregor, L. J., & Donaldson, D. I. (2007). It's the
+way that you, er, say it: Hesitations in speech affect language
+comprehension. Cognition, 105, 658-668. doi:10.1016/j.
+cognition.2006.10.010
+Coulson, S., & Kutas, M. (2001). Getting it: Human eventrelated brain response to jokes in good and poor comprehenders. Neuroscience Letters, 316(2), 71-74. doi:10.1016/
+S0304-3940(01)02387-4
+Coulson, S., & Van Petten, C. (2007). A special role for the right
+hemisphere in metaphor comprehension: An ERP study. Brain
+Research, 1146, 128-145. doi:10.1016/j.brainres.2007.03.008
+Courville, A. C., Daw, N. D., & Touretzky, D. S. (2006).
+Bayesian theories of conditioning in a changing world.
+Trends in Cognitive Sciences, 10, 294-300. doi:10.1016/j.
+tics.2006.05.004
+De Grauwe, S., Swain, A., Holcomb, P. J., Ditman, T., &
+Kuperberg, G. R. (2010). Electrophysiological insights into
+the processing of nominal metaphors. Neuropsychologia, 48,
+1965-1984. doi:10.1016/j.neuropsychologia.2010.03.017
+DeLong, K. A., Urbach, T. P., Groppe, D. M., & Kutas, M.
+(2011) Overlapping dual ERP responses to low cloze
+probability sentence continuations. Psychophysiology, 48,
+1203-1207. doi:10.1111/j.1469-8986.2011.01199.x
+Ditman, T., Holcomb, P. J., & Kuperberg, G. R. (2007). An
+investigation of concurrent ERP and self-paced reading
+methodologies. Psychophysiology, 44, 927-935. doi:10.1111/
+j.1469-8986.2007.00593.x
+Farmer, T. A., Brown, M., & Tanenhaus, M. K. (2013). Prediction,
+explanation, and the role of generative models in language
+processing. Behavioral and Brain Sciences, 36, 211-212.
+doi:10.1017/S0140525X12002312
+Federmeier, K. D., & Kutas, M. (1999). A rose by any other name:
+Long-term memory structure and sentence processing. Journal
+of Memory and Language, 41, 469-495. doi:10.1006/
+jmla.1999.2660
+Federmeier, K. D., Wlotko, E. W., De Ochoa-Dewald, E., &
+Kutas, M. (2007). Multiple effects of sentential constraint on
+word processing. Brain Research, 1146, 75-84. doi:10.1016/
+j.brainres.2006.06.101
+
+670
+
+M. Xiang and G. Kuperberg
+
+Feldman, N. H., Griffiths, T. L., & Morgan, J. L. (2009). The
+influence of categories on perception: Explaining the perceptual magnet effect as optimal statistical inference. Psychological Review, 116, 752-782. doi:10.1037/a0017196
+Ferguson, H. J., & Breheny, R. (2011). Eye movements reveal
+the time-course of anticipating behaviour based on complex,
+conflicting desires. Cognition, 119, 179-196. doi:10.1016/j.
+cognition.2011.01.005
+Ferguson, H. J., & Sanford, A. J. (2008). Anomalies in real and
+counterfactual worlds: An eye-movement investigation. Journal of Memory and Language, 58, 609-626. doi:10.1016/j.
+jml.2007.06.007
+Ferguson, H. J., Sanford, A. J., & Leuthold, H. (2008). Eyemovements and ERPs reveal the time course of processing
+negation and remitting counterfactual worlds. Brain Research,
+1236, 113-125. doi:10.1016/j.brainres.2008.07.099
+Ferretti, T. R., Kutas, M., & McRae, K. (2007). Verb aspect and
+the activation of event knowledge. Cognition, 33, 182-196.
+doi:10.1037/0278-7393.33.1.182
+Fillmore, C. (2006). Frame semantics. In D. Geeraerts (Ed.),
+Cognitive linguistics. Basic readings (pp. 373-400). Berlin:
+Mouton de Gruyter. (Originally published in Linguistics in
+the morning calm. 1982. Linguistic society of Korea (ed.),
+Seoul: Hanshin Publishing Company, pp. 111-137).
+Fine, A. B., Jaeger, T. F., Farmer, T. A., & Qian, T. (2013). Rapid
+expectation adaptation during syntactic comprehension. PLoS
+One, 8(10): e77661. doi:10.1371/journal.pone.0077661
+Forster, K. I. (1981). Priming and the effects of sentence and
+lexical contexts on naming time: Evidence for autonomous
+lexical processing. Quarterly Journal of Experimental Psychology, 33, 465-495. doi:10.1080/14640748108400804
+Friston, K. (2005). A theory of cortical responses. Philosophical
+Transactions of the Royal Society B: Biological Sciences,
+360, 815-836.
+Greenhouse, S. W., & Geisser, S. (1959). On methods in the
+analysis of profile data. Psychometrika, 24, 95-112.
+doi:10.1007/BF02289823
+Grice, H. P. (1975). Logic and conversation. In P. Cole & J.
+Morgan (Eds.), Syntax and semantics (Vol. 3, pp. 41-58).
+New York, NY: Academic Press.
+Griffiths, T. L., Kemp, C., & Tenenbaum, J. B. (2008). Bayesian
+models of cognition. In Ron Sun (Ed.), The Cambridge
+handbook of computational cognitive modeling (pp. 59-100).
+Cambridge: Cambridge University Press.
+Hagoort, P. (2003). Interplay between syntax and semantics
+during sentence comprehension: ERP effects of combining
+syntactic and semantic violations. Journal of Cognitive
+Neuroscience, 15, 883-899.
+Hagoort, P., & Brown, C. M. (2000). ERP effects of listening to
+speech: Semantic ERP effects. Neuropsychologia, 38, 1518-
+1530. doi:10.1016/S0028-3932(00)00052-X
+Hagoort, P., Brown, C., & Groothusen, J. (1993). The syntactic
+positive shift (SPS) as an ERP measure of syntactic
+processing. In S. M. Garnsey (Ed.), Language and cognitive
+processes. Special issue: Event-related brain potentials in
+the study of language (Vol. 8, pp. 439-483). Hove: Lawrence
+Erlbaum Associates.
+Hald, L. A., Steenbeek-Planting, E. G., & Hagoort, P. (2007).
+The interaction of discourse context and world knowledge
+in online sentence comprehension. Evidence from the N400.
+Brain Research, 1146, 210-218. doi:10.1016/j.brainres.2007.
+02.054
+Hale, J. (2001). A probabilistic Earley parser as a psycholinguistic model. Paper presented at the Proceedings of the
+North American Chapter of the Association for Computational Linguistics on Language technologies (NAACL'01),
+
+Association for Computational Linguistics, Stroudsburg,
+PA (pp. 1-8).
+Hoeks, J. C. J., Stowe, L. A., & Doedens, G. (2004). Seeing
+words in context: The interaction of lexical and sentence
+level information during reading. Brain Research: Cognitive
+Brain Research, 19(1), 59-73. doi:10.1016/j.cogbrainres.
+2003.10.022
+Jacobs, R. A., & Kruschke, J. K. (2011). Bayesian learning
+theory applied to human cognition. Wiley Interdisciplinary
+Reviews: Cognitive Science, 2(1), 8-21. doi:10.1002/wcs.80
+Jackendoff, R. (2002). Foundations of language: Brain, meaning, grammar, evolution. Oxford: Oxford University Press.
+Karttunen, L., & Peters, S. (1979). Conventional implicature. In C.
+K. Oh and D. A. Dinneen (Eds.), Syntax and semantics 11:
+Presuppositions (pp. 1-55). New York, NY: Academic Press.
+Keenan, J. M., Baillet, S. D., & Brown, P. (1984). The effects of
+causal cohesion on comprehension and memory. Journal of
+Verbal Learning and Verbal Behavior, 23(2), 115-126.
+doi:10.1016/S0022-5371(84)90082-3
+King, J. W., & Kutas, M. (1995). Who did what and when?
+Using word- and clause-related ERPs to monitor working
+memory usage in reading. Journal of Cognitive
+Neuroscience, 7, 376-395. doi:10.1080/0169096890840
+6365
+Kleinschmidt, D., & Jaeger, F. (in press) Robust speech
+perception: Recognizing the familiar, generalizing to the
+similar, and adapting to the novel. Psychological Review.
+Kluender, R., & Kutas, M. (1993). Bridging the gap: Evidence
+from ERPs on the processing of unbounded dependencies.
+Journal of Cognitive Neuroscience, 5, 196-214. doi:10.1016/
+0010-0277(72)90028-5
+Kolk, H. H. J., Chwilla, D. J., van Herten, M., & Oor, P. J. W.
+(2003). Structure and limited capacity in verbal working
+memory: A study with event-related potentials. Brain and
+Language, 85(1), 1-36. doi:10.1016/S0093-934X(02)00548-5
+Kuperberg, G. R. (2007). Neural mechanisms of language
+comprehension: Challenges to syntax. Brain Research,
+1146, 23-49. doi:10.1016/j.brainres.2006.12.063
+Kuperberg, G. R. (2013). The pro-active comprehender: What
+event-related potentials tell us about the dynamics of reading
+comprehension. In B. Miller, L. Cutting, & P. McCardle
+(Eds.), Unraveling the behavioral, neurobiological, and genetic components of reading comprehension (pp. 176-192).
+Baltimore, MD: Paul Brookes.
+Kuperberg, G. R. (2014). What event-related potentials tell us
+about predictive coding in language comprehension: A
+commentary on Rabovsky & McRae, "Simulating the N400
+ERP component as semantic network error: Insights from a
+feature-based connectionist attractor model of word meaning" (Manuscript under review).
+Kuperberg, G. R., Caplan, D., Sitnikova, T., Eddy, M., &
+Holcomb, P. J. (2006). Neural correlates of processing
+syntactic, semantic, and thematic relationships in sentences.
+Language and Cognitive Processes, 21, 489-530.
+doi:10.1080/01690960500094279
+Kuperberg, G. R., Choi, A., Cohn, N., Paczynski, M., &
+Jackendoff, R. (2010). Electrophysiological correlates of
+complement coercion. Journal of Cognitive Neuroscience,
+22, 2685-2701. doi:10.1162/jocn.2009.21333
+Kuperberg, G. R., Holcomb, P. J., Sitnikova, T., Greve, D., Dale,
+A. M., & Caplan, D. (2003). Distinct patterns of neural
+modulation during the processing of conceptual and syntactic
+anomalies. Journal of Cognitive Neuroscience, 15, 272-293.
+doi:10.1017/S0048577299971202
+Kuperberg, G. R., Paczynski, M., & Ditman, T. (2011).
+Establishing causal coherence across sentences: An ERP
+
+Language, Cognition and Neuroscience
+study. Journal of Cognitive Neuroscience, 23, 1230-1246.
+doi:10.1037/0033-2909.123.2.162
+Kutas, M., & Federmeier, K. D. (2011). Thirty years and
+counting: Finding meaning in the N400 component of the
+event-related brain potential (ERP). Annual Review of
+Psychology, 62, 621-647. doi:10.1146/annurev.psych.
+093008.131123
+Kutas, M., & Hillyard, S. A. (1980). Reading senseless sentences:
+Brain potentials reflect semantic incongruity. Science, 207,
+203-205. doi:10.1126/science.7350657
+Kutas, M., & Hillyard, S. A. (1984). Brain potentials during
+reading reflect word expectancy and semantic association.
+Nature, 307, 161-163. doi:10.1038/307161a0
+Lagerwerf, L. (1998). Causal connectives have presuppositions
+(PhD thesis). Catholic University of Brabant, Holland
+Academic Graphics, The Hague.
+Lakoff, G. (1971). On generative semantics. In D. Steinberg &
+L. Jakobovits (Eds.), Semantics: An interdisciplinary reader
+in philosophy, linguistics and psychology (pp. 232-296).
+Cambridge: Cambridge University Press.
+Landauer, T. K., & Dumais, S. T. (1997). A solution to Plato's
+problem: The latent semantic analysis theory of acquisition,
+induction, and representation of knowledge. Psychological
+Review, 104, 211-240. doi:10.1037/0033-295X.104.2.211
+Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An
+introduction to latent semantic analysis. Discourse Processes, 25, 259-284. doi:10.1080/01638539809545028
+Lau, E. F., Holcomb, P. J., & Kuperberg, G. R. (2013)
+Dissociating N400 effects of prediction from association in
+single word contexts. Journal of Cognitive Neuroscience, 25,
+484-502. doi:10.1016/j.neuroimage.2012.04.054
+Lau, E. F., Phillips, C., & Poeppel, D. (2008). A cortical network
+for semantics: (de)constructing the N400. Nature Reviews
+Neuroscience, 9, 920-933. doi:10.1038/nrn2532
+Lee, C., & Federmeier, K. D. (2006). To mind the mind: An
+event-related potential study of word class and word class
+ambiguity. Brain Research, 1081, 191-202. doi:10.1016/j.
+bandl.2007.06.002
+Lee, C.-L., & Federmeier, K. D. (2009). Wave-ering: An ERP
+study of syntactic and semantic context effects on ambiguity
+resolution for noun/verb homographs. Journal of Memory
+and Language, 61, 538-555. doi:10.1016/j.jml.2009.08.003
+Levy, R. (2008). Expectation-based syntactic comprehension. Cognition, 106, 1126-1177. doi:10.1016/j.cognition.2007.05.006
+MacDonald, M. C., Pearlmutter, N. J., & Seidenberg, M. S.
+(1994). The lexical nature of syntactic ambiguity resolution.
+Psychological Review, 101, 676-703.doi:10.1037/0033295X.101.4.676
+Marslen-Wilson, W., Brown, C. M., and Tyler, L. K. (1988).
+Lexical representations in spoken language comprehension.
+Language and Cognitive Processes, 3(1), 1-16. doi:10.1080/
+01690968808402079
+McRae, K., Ferretti, T. R., and Amyote, L. (1997). Thematic
+roles and verb-specific concepts. Language and Cognitive
+Processes, 12, 137-176. doi:10.1080/016909697386835
+Munte, T. F., Schiltz, K., & Kutas, M. (1998). When temporal
+terms belie conceptual order: An electrophysiological analysis. Nature, 3, 71-73.
+Murray, J. D. (1994). Logical connectives and local coherence.
+In R. F. Lorch & E. J. O'Brien (Eds.), Sources of cohesion in
+text comprehension (pp. 107-125). Hillsdale, NJ: Lawrence
+Erlbaum Associates.
+Murray, J. D. (1997). Connectives and narrative text: The role of
+continuity. Memory & Cognition, 25, 227-236. doi:10.3758/
+BF03201114
+
+671
+
+Nieuwland, M. S. (2013). "If a lion could speak...": Online
+sensitivity to propositional truth-value of unrealistic counterfactual sentences. Journal of Memory and Language, 68(1),
+54-67. doi:10.1016/j.jml.2012.08.003
+Nieuwland, M. S., Ditman, T., & Kuperberg, G. R. (2010). On
+the incrementality of pragmatic processing: An ERP investigation of informativeness and pragmatic abilities. Journal of
+Memory and Language, 63, 324-346. doi:10.1016/j.
+jml.2010.06.005
+Nieuwland, M. S., & Martin, A. E. (2012). If the real world were
+irrelevant, so to speak: The role of propositional truth-value
+in counterfactual sentence comprehension. Cognition, 122
+(1), 102-109. doi:10.1016/j.cognition.2011.09.001
+Nieuwland, M. S., & van Berkum, J. J. A. (2005). Testing the
+limits of the semantic illusion phenomenon: ERPs reveal
+temporary semantic change deafness in discourse comprehension. Cognitive Brain Research, 24, 691-701.
+doi:10.1016/j.cogbrainres.2005.04.003
+Nieuwland, M. S., & van Berkum, J. J. A. (2006). When peanuts
+fall in love: N400 evidence for the power of discourse.
+Journal of Cognitive Neuroscience, 18, 1098-1111.
+doi:10.1037/0033-2909.123.2.162
+Nieuwland, M. S., & van Berkum, J. J. A. (2008). The
+neurocognition of referential ambiguity in language comprehension. Language and Linguistics Compass, 2, 603-630.
+doi:10.1111/j.1749-818X.2008.00070.x
+Norris, D. (2006). The Bayesian Reader: Explaining word
+recognition as an optimal Bayesian decision process. Psychological Review, 113, 327-357. doi:10.1037/0033295X.113.2.327
+Norris, D., & McQueen, J. M. (2008). A Bayesian model of
+continuous speech recognition. Psychological Review, 115,
+357-395. doi:10.1037/0033-295X.115.2.357
+Noveck, I., & Spotorno, N. (2013). Narrowing. In L. Goldstein
+(Ed.) Brevity (pp. 280-296). Oxford: Oxford University Press.
+Oldfield, R. C. (1971). The assessment and analysis of handedness: The Edinburgh inventory. Neuropsychologia, 9(1), 97-
+113. doi:10.1016/0028-3932(71)90067-4
+Osterhout, L., & Holcomb, P. J. (1992). Event-related brain
+potentials elicited by syntactic anomaly. Journal of Memory
+and Language, 31, 785-806. doi:10.1016/0749-596X(92)
+90039-Z
+Osterhout, L., & Holcomb, P. J. (1993). Event-related potentials
+and syntactic anomaly: Evidence of anomaly detection during
+the perception of continuous speech. Language and Cognitive
+Processes, 8, 413-437. doi:10.1080/01690969308407584
+Otten, M., & van Berkum, J. J. A. (2007). What makes a
+discourse constraining? Comparing the effects of discourse
+message and scenario fit on the discourse-dependent N400
+effect. Brain Research, 1153, 166-177. doi:10.1016/j.
+brainres.2007.03.058
+Paczynski, M., & Kuperberg, G. R. (2011) Electrophysiological
+evidence for use of the animacy hierarchy, but not thematic
+role assignment, during verb-argument processing. Language
+and Cognitive Processes, 26, 1402-1456. doi:10.1080/
+01690965.2011.580143
+Paczynski, M., & Kuperberg, G. R. (2012). Multiple influences
+of semantic memory on sentence processing: Distinct effects
+of semantic relatedness on violations of real-world event/
+state knowledge and animacy selection restrictions. Journal
+of Memory and Language, 67, 426-448. doi:10.1016/j.
+jml.2012.07.003
+Paczynski, M., Jackendoff, R., & Kuperberg, G. R. (2014). When
+events change their nature. Journal of Cognitive Neuroscience, 26, 1905-1917. doi:10.1016/j.jml.2014.02.002
+
+672
+
+M. Xiang and G. Kuperberg
+
+Qian, T., Jaeger, T. F., & Aslin, R. N. (2012). Learning to
+represent a multi-context environment: more than detecting
+changes. Frontiers in Psychology, 3, 228. doi:10.3389/
+fpsyg.2012.00228
+Rabovsky, M., & McRae, K. (2014). Simulating the N400 ERP
+component as semantic network error: Insights from a featurebased connectionist attractor model of word meaning. Cognition, 132(1), 68-89. doi:10.1016/j.cognition.2014.03.010
+Rao, R. P. N., & Ballard, D. H. (1999). Predictive coding in the
+visual cortex: A functional interpretation of some extraclassical receptive-field effects. Nature Neuroscience, 2(1),
+79-87. doi:10.1038/4580
+Sanford, A. J., Leuthold, H., Bohan, J., & Sanford, A. J. S.
+(2011). Anomalies at the borderline of awareness: An ERP
+study. Journal of Cognitive Neuroscience, 23, 514-523.
+doi:10.1037/0096-1523.24.6.1656
+Schank, R. C., & Abelson, R. P. (1977). Scripts, plans, goals,
+and understanding: An inquiry into human knowledge
+structures. Hillsdale, NJ: Lawrence Erlbaum Associates.
+Singer, M., & Halldorson, M. (1996). Constructing and validating motive bridging inferences. Cognitive Psychology, 30(1),
+1-38. doi:10.1006/cogp.1996.0001
+Sitnikova, T., Holcomb, P., & Kuperberg, G. R. (2008).
+Neurocognitive mechanisms of human comprehension. In
+T. F. Shipley & J. M. Zacks (Eds.), Understanding events:
+How humans see, represent, and act on events (pp. 639-
+683). Oxford: Oxford University Press.
+St. George, M., Mannes, S., & Hoffman, J. E. (1997). Individual
+differences in inference generation: An ERP analysis. Journal
+of Cognitive Neuroscience, 9, 776-787. doi:10.1162/jocn.
+1997.9.6.776
+Tanenhaus, M. K., Spivey-Knowlton, M. J., Eberhard, K. M., &
+Sedivy, J. C. (1995). Integration of visual and linguistic
+information during spoken language comprehension. Science, 268, 1632-1634. doi:10.1126/science.7777863
+Traxler, M. J., Bybee, M. D., & Pickering, M. J. (1997).
+Influence of connectives on language comprehension: Eyetracking evidence for incremental interpretation. Quarterly
+Journal of Experimental Psychology: Human Experimental
+Psychology, 50, 481-497. doi:10.1080/027249897391982
+van Berkum, J. J. A. (2009). The neuropragmatics of "simple"
+utterance comprehension: An ERP review. In U. Sauerland &
+K. Yatsushiro (Eds.), Semantics and pragmatics: From
+experiment to theory (pp. 276-316). Basingstoke: Palgrave
+Macmillan.
+van Berkum, J. J. A., Brown, C. M., Hagoort, P., & Zwitserlood, P.
+(2003). Event-related brain potentials reflect discourse-referential ambiguity in spoken language comprehension. Psychophysiology, 40, 235-248. doi:10.1111/1469-8986.00025
+
+van Dijk, T. A., & Kintsch, W. (1983). Strategies of discourse
+comprehension. New York, NY: Academic Press.
+Van Petten, C., & Kutas, M. (1990). Interactions between
+sentence context and word frequency in event-related brain
+potentials. Memory & Cognition, 18, 380-393. doi:10.3758/
+BF03197127
+Van Petten, C., & Luka, B. J. (2012). Prediction during language
+comprehension: Benefits, costs, and ERP components.
+International Journal of Psychophysiology, 83, 176-190.
+doi:10.1016/j.ijpsycho.2011.09.015
+Wacongne, C., Changeux, J.-P., & Dehaene, S. (2012). A
+neuronal model of predictive coding accounting for the
+mismatch negativity. Journal of Neuroscience, 32, 3665-
+3678. doi:10.1523/JNEUROSCI.5003-11.2012
+Wacongne, C., Labyt, E., van Wassenhove, V., Bekinschtein, T.,
+Naccache, L., & Dehaene, S. (2011). Evidence for a
+hierarchy of predictions and prediction errors in human
+cortex. Proceedings of the National Academy of Sciences,
+108, 20754-20759. doi:10.1073/pnas.1117807108
+Warren, T., & McConnell, K. (2007). Investigating effects of
+selectional restriction violations and plausibility violation
+severity on eye-movements in reading. Psychonomic Bulletin
+& Review, 14, 770-775. doi:10.3758/BF03196835
+Wilson, D., & Sperber, D. (1993). Linguistic form and relevance.
+Lingua, 90(1-2). 1-25. doi:10.1016/0024-3841(93)90058-5
+Wittenberg, E., Paczynski, M., Wiese, H., Jackendoff, R., &
+Kuperberg, G. (2014). The difference between "giving a
+rose" and "giving a kiss": Sustained neural activity to the
+light verb construction. Journal of Memory and Language,
+73, 31-42. doi:10.1016/j.jml.2014.02.002
+Wlotko, E. W., & Federmeier, K. D. (2012). So that's what you
+meant! Event-related potentials reveal multiple aspects of
+context use during construction of message-level meaning.
+NeuroImage, 62(1), 356-366. doi:10.1016/j.neuroimage.
+2012.04.054
+Yang, C. L., Perfetti, C. A., & Schmalhofer, F. (2007). Eventrelated potential indicators of text integration across sentence
+boundaries. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 33(1), 55-89. doi:10.1037/02787393.33.1.55
+Yu, A. J. (2007). Adaptive behavior: humans act as Bayesian
+learners. Current Biology, 17(22), R977-980. doi:10.1016/j.
+cub.2007.09.007
+Yu, A. J., & Dayan, P. (2005). Uncertainty, neuromodulation,
+and attention. Neuron, 46(4), 681-692. doi:10.1016/j.neuron.
+2005.04.026
+Zwaan, R. A., & Radvansky, G. A. (1998). Situation models in
+language comprehension and memory. Psychological Bulletin, 123, 162-185. doi:10.1037/0033-2909.123.2.162
+
+

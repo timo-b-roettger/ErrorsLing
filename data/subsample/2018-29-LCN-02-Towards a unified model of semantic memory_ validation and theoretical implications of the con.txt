@@ -1,0 +1,1503 @@
+Language, Cognition and Neuroscience
+
+ISSN: 2327-3798 (Print) 2327-3801 (Online) Journal homepage: www.tandfonline.com/journals/plcp21
+
+Towards a unified model of semantic memory: validation
+and theoretical implications of the conceptual feature
+rating space
+Joshua Troche
+To cite this article: Joshua Troche (2018) Towards a unified model of semantic memory:
+validation and theoretical implications of the conceptual feature rating space, Language,
+Cognition and Neuroscience, 33:6, 698-709, DOI: 10.1080/23273798.2017.1408852
+To link to this article: https://doi.org/10.1080/23273798.2017.1408852
+
+Published online: 01 Dec 2017.
+
+Submit your article to this journal
+
+Article views: 279
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=plcp21
+
+LANGUAGE, COGNITION AND NEUROSCIENCE, 2018
+VOL. 33, NO. 6, 698-709
+https://doi.org/10.1080/23273798.2017.1408852
+
+REGULAR ARTICLE
+
+Towards a unified model of semantic memory: validation and theoretical
+implications of the conceptual feature rating space
+Joshua Troche
+Department of Communication Sciences and Disorders, University of Central Florida, Orlando, FL, USA
+ABSTRACT
+
+ARTICLE HISTORY
+
+The representation of abstract and concrete concepts has long been a debated question in the
+literature. In previous work, we created a semantic space which was able to model abstract and
+concrete concepts in a single multidimensional space. In this study, we tested the validity of our
+semantic space by comparing it with Latent Semantic Analysis in a word relatedness task during
+eyetracking. We measured reaction time, gaze measures, and pupil dilation. The results of our
+study revealed that the newly created space was valid and not just a product of our data. Our
+ability to simulate a high dimensional semantic space represents a step forward in our
+understanding of the representation of concepts.
+
+Received 21 March 2017
+Accepted 15 November 2017
+
+Introduction
+Cognitive representational differences between concrete
+and abstract words have been an extensive focus of
+semantic memory research. Many have postulated that
+concrete concepts such as DOG and HAMMER are represented in the brain differently than abstract concepts
+such as LOVE and MAGNITUDE as they require separate
+orthogonal representational systems (e.g. language
+versus visual semantics; Paivio, 1991). These putative
+multiple semantics approaches have been buoyed by
+performance discrepancies between concrete and
+abstract words across various cognitive-linguistic
+domains; a phenomenon termed the word concreteness
+effect. There is a growing push in the literature that
+strives to find a way to model abstract and concrete concepts in a manner that allows for comparisons across
+concepts of differing concreteness (Reilly, Peelle, &
+Grossman, 2007; Vigliocco, Vinson, Lewis, & Garrett,
+2004). These models attempt to more parsimoniously
+model the representation of concepts relative to more
+classic theories of abstract/concrete concept representation. The paucity of research into the representation
+of abstract concepts, however, has made it difficult to
+describe a unified model, and for this reason theories
+such as the Dual Coding Theory (Paivio, 1991), remain
+the dominant account of abstract-concrete word
+representation.
+We recently reported an innovative way of elucidating
+the cognitive topography of abstract concepts and concrete concepts using a combination of factor analysis
+CONTACT Joshua Troche
+
+jtroche@ucf.edu
+
+(c) 2017 Informa UK Limited, trading as Taylor & Francis Group
+
+KEYWORDS
+
+Word concreteness effect;
+semantic memory; concreteabstract; pupillometry;
+eyetracking
+
+and hierarchical clustering (Crutch, Troche, Reilly, &
+Ridgway, 2013; Troche, Crutch, & Reilly, 2014). The validity of these data, however, remains an open question.
+In this study, we used eyetracking and a word relatedness task to determine the validity of the previously
+reported data.
+Concreteness is a psycholinguistic construct that
+describes the extent to which an object can be experienced through the senses (Paivio, Yuille, & Madigan,
+1968). The concreteness effect can be described as the
+collective advantage that concrete concepts have over
+abstract concepts in a variety of domains. This advantage
+has been seen in recall accuracy (Walker & Hulme, 1999),
+word recognition(Schwanenflugel, Harnishfeger, &
+Stowe, 1988), word list memory (Allen & Hulme, 2006),
+naming latency (Bleasdale, 1987), age of acquisition (Gilhooly & Logie, 1980), and sensitivity to neurological
+injury (Bonner et al., 2009; Breedin, Saffran, & Coslett,
+1994; Franklin, Howard, & Patterson, 1995; Jefferies, Patterson, Jones, & Lambon Ralph, 2009; Warrington, 1975,
+1981). Two dominant theories attempt to explain the
+concreteness effect: the Context Availability Model
+(Schwanenflugel et al., 1988; Schwanenflugel & Shoben,
+1983) and the Dual Coding Theory (DCT; Clark & Paivio,
+1991; Paivio, 1991).
+The CAM proposes the dissociation between abstract
+and concrete concepts is due to differences in verbal
+context. In the CAM, verbal context can be understood
+as information (supplied by discourse or the individual's
+prior knowledge) that allows for the enriched association
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+between concepts. Increased association is postulated to
+lead to a richer representation of the concept in the brain
+(Schwanenflugel et al., 1988; Schwanenflugel & Shoben,
+1983). Concrete concepts, therefore, display the advantage seen in the concreteness effect due to greater availability of contextual information. Stronger availability of
+contextual information for concrete concepts can be
+illustrated by comparing a concrete concept such as
+DOG with an abstract concept such as MAGNITUDE.
+While associated perceptual information for a concept
+such as DOG (e.g. leash, bowl) is readily available, analogous relations for a concept such as MAGNITUDE are less
+available.
+Dual Coding Theory (DCT) is an expansive theory that
+not only explains the concreteness effect but also can be
+understood as a more general cognitive theory (Paivio,
+2013). DCT is premised upon the existence of two parallel
+semantic systems. One component system is dedicated
+to verbal semantics (i.e. linguistic associations), whereas
+the other is dedicated to sensory-based feature knowledge (i.e. imaginal semantics). Paivio argues that these
+systems (or codes) are dissociable but also highly interactive. Concrete words have both sensory and verbal representations and are as such dually coded. In contrast,
+abstract words inherently lack sensory salience and are,
+therefore, exclusively coded within the verbal semantic
+system.
+Both the DCT and CAM argue that the impoverished
+representations of abstract concepts have led to differences between abstract and concrete concepts. More
+recently, two theories have moved from attempting
+to explain the differences between abstract and concrete concepts in a quantitative way to a qualitative
+one. The first theory postulated by Crutch and colleagues (Crutch & Jackson, 2011; Crutch & Warrington,
+2005) argues that abstract and concrete concepts
+differ based on their relative reliance on association
+or similarity. They postulate that abstract concepts
+rely more heavily on associations while concrete concepts rely more heavily on similarity. In other words,
+concrete concepts such as DOG would rely more
+heavily on a similar concept such as CAT than an
+associated concept such as LEASH to support the
+concept. On the other hand, LOVE would rely more
+on an associated concept such as HATE than a similar
+concept such as AFFECTION.
+Kousta and colleagues (Kousta, Vigliocco, Vinson,
+Andrews, & Del Campo, 2011; Vigliocco et al., 2013)
+offer a theory that focuses on the role of emotion information. Weak embodiment theories have argued that
+emotion may play a role in the representation of concepts (Andrews, Vigliocco, & Vinson, 2009). Kousta
+and colleagues, however, frame their theory similarly
+
+699
+
+to DCT and argue that concrete concepts are supported
+by both the verbal and sensorimotor systems. They
+differ in that Kousta and colleagues argue that abstract
+concepts are not only supported by verbal systems but
+also by emotion information. At first glance this theory
+would seem to be incompatible with well-established
+concreteness effects in the literature, however, Kousta
+et al. (2011; Vigliocco et al., 2013) found that when
+certain psycholinguistic characteristics, such as imageability and context availability, are controlled for, the
+concreteness effect disappears and even slightly
+reverses. These findings have been supported by
+more recent work (Moffat, Siakaluk, Sidhu, & Pexman,
+2015; Newcombe, Campbell, Siakaluk, & Pexman,
+2012) although they are not without controversy (See
+Paivio, 2013).
+These theories offer weak embodiment accounts for
+the representation of abstract concepts. Embodied theories hold that the brain decomposes objects into discrete sets of features and stores such features within a
+massively distributed network mirroring perception
+(e.g. visual features are stored proximal to the visual
+cortex; Barsalou, 2008; Gallese & Lakoff, 2005; Martin,
+2007). Determining the features of concrete concepts
+has been mostly investigated through the use of
+feature listing approaches (Cree & McRae, 2003;
+Garrard, Lambon-Ralph, Hodges, & Patterson, 2001;
+Tyler, Moss, Durrant-Peatfield, & Levy, 2000). While this
+approach has shown some utility for abstract concepts
+(Wiemer-Hastings & Xu, 2005) these feature listing
+approaches are better suited for concrete concepts.
+This is best illustrated by trying to determine the features
+of DRILL as opposed to the features of MAGNITUDE. From
+a psycholinguistic perspective, it became increasingly
+clear that discerning the semantic topography of
+abstract concepts as well as concrete concepts would
+require a unique approach that extended beyond sensorimotor features. Crutch and colleagues piloted a solution to the shortcomings of the feature listing
+approach in the form of the abstract conceptual
+feature (ACF) rating approach (Crutch, Williams,
+Ridgway, & Borgenicht, 2012). This method involved participants rating 50 abstract concepts on a 7 point Likert
+scale across a variety of cognitive dimensions. Our
+group, along with Crutch and colleagues, then expanded
+on the previous work and had participants rate 400
+nouns (200 abstract & 200 concrete) across an increased
+list of dimensions.
+These two forays into feature rating approaches
+helped to elucidate the representation of abstract concepts, but weaknesses in our approach remained. The
+original dimensions of the ACF were biased towards
+abstract concepts which lead to an underspecified
+
+700
+
+J. TROCHE
+
+representation of concrete concepts in our model. It
+was, therefore, necessary for our most recent feature
+rating approach (Troche, Crutch, & Reilly, 2017) to
+include a greater number of dimensions that could elucidate the representation of concrete and abstract concepts. In the conceptual feature rating (CFR) approach
+(the word abstract was removed from the approach
+to indicate how this approach focuses on all concepts
+not just abstract) participants were asked to rate concepts across a variety of dimensions on a 7 point
+Likert scale. We increased the corpus of words to
+include not only a greater number of abstract and concrete concepts but also a number of words of middling
+concreteness which were not included in our previous
+work. This allowed us to create a continuous semantic
+space which is closer to the true nature of concepts
+as opposed to the bimodal space we had previously
+created. The greatest difference between the ACF and
+the CFR approach were the dimensions chosen to be
+included. We kept the previous dimensions of
+Emotion, Polarity, Social Interaction, Thought, Morality,
+Time, Space, and Quantity but also included the dimensions of Visual Form, Auditory, Tactile, Olfactory/Gustatory, Visual Colour, and Self-Generated Motion.
+We reduced our 14 dimensions using a factor analysis and found that, as with our previous work, the
+dimensions reduced into three latent variables representing endogenous information (e.g. emotion,
+thought, polarity), exogenous information (e.g. perceptual salience) and magnitude information (e.g. time,
+space, quantity). Since the data reduced to three
+dimensions, we could successfully plot the ratings in
+a three-dimensional space to create a visualisation of
+our semantic space. We also ran a cluster analysis to
+determine the way the items clustered in our newly
+created semantic space. Inspection of this space and
+a cluster analysis revealed that each of the latent variables played a distinct role in the representation of
+concepts. The exogenous variable was the main
+driving factor in separating concepts across concrete
+(high exogenous) and abstract (low exogenous) lines.
+The endogenous information, however, led to binding
+of concepts such that words high in endogenous information were drawn together regardless of their level of
+concreteness (e.g. father & chocolate with love & hope).
+The magnitude information was found to play a major
+role in fine-grained distinctions between concepts such
+as HATE and DISLIKE.
+The stability of our findings across multiple iterations
+of our feature rating approach was indicative of the
+reliability of this approach. It was, however, necessary
+to formally test the validity of the Conceptual Feature
+Rating (CFR) semantic space. We determined we could
+
+test the validity of the semantic space by determining
+how well the space could model the relatedness of concepts. In our semantic space, items that are close in distance should be more related. Therefore, participants
+performed a word relatedness task in order to determine
+if the semantic space could successfully model relatedness. This also involved, however, finding a model for
+us to compare to our own. Latent Semantic Analysis
+(LSA) another common and well-researched method of
+determining word relatedness (Landauer & Dumais,
+1997) was considered an ideal method of comparison
+due to the similarities in the approach with our own
+and the well-documented validity of this approach
+(Howard & Kahana, 1999, 2002; Zaromb et al., 2006).
+Both LSA and CFR create a multidimensional semantic
+space. They also both determine relatedness between
+concepts based on the distance between concepts in
+their respective space. For LSA, this space metric is
+angle cosine while for our space the distance metric is
+Euclidean distance.
+We compared our space to the LSA space through the
+use of the word relatedness task in which participants
+were asked to determine which words of a triad were
+most related. Associates were either close in the CFR
+space or close in the LSA space. Items were also drawn
+from the three corners of the semantic space to determine the validity of the entire space and ensure that
+one portion of the space was not more valid than
+another.
+
+Method
+Experiment overview
+In this experiment, we tested the validity of CFR semantic
+space. We did this by comparing our model to another
+common metric (Latent Semantic Analysis; Landauer &
+Dumais, 1997) on a word relatedness task. LSA was an
+ideal metric with which to compare our semantic space
+due to the similarities in their approach with our own
+and due to the well documented validity of the LSA
+space for determining semantic relatedness (Howard &
+Kahana, 1999, 2002; Zaromb et al., 2006).
+
+Participants
+Participants (N = 23) were recruited through the LINSLHS participant pool as well as through the community.
+Participants were native English speakers, eight of whom
+were male. Mean age was 22.61 years (range 18-35);
+mean education was 15.52 years (range = 12-20). Participants were compensated either course credit or $10 for
+their time.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+Experiment design
+Participants were shown a triad of words as can be seen
+in Figure 1. They were asked to determine which of the
+two bottom words was most associated or related with
+the top word. It has been suggested that the speed
+and ease in which such a task is performed is directly
+related to the relationship between the associates
+(Crutch et al., 2012). The more highly associated the
+words are the more quickly, and easily the relationship
+can be recognised. The two associated words were
+either close in the conceptual feature rating (CFR)
+space or close in the LSA space. It is important to recall
+that both the CFR and LSA ratings create a semantic
+space through which distance metrics describe object
+relatedness. Distance in our space is related to the
+ratings we gathered on each concept in our original
+work. Each word was rated across 14 dimensions and,
+therefore, two items would be close in this space if
+they were rated similarly across these 14 dimensions.
+For the LSA space, distance was determined through
+lexical co-occurrence (Landauer & Dumais, 1997). In
+other words, the more two words tended to occur in literature the closer they would be in the space. The items
+for the triads were drawn from the edges of the semantic
+space (i.e. Words high in the endogenous, exogenous, or
+magnitude factor). This was done to determine if some
+portions of the semantic space were more valid than
+others. For the sake of clarity & continuity throughout
+the rest of the methods and results the endogenous
+factor will be named Factor 1, the exogenous Factor 2
+and the magnitude Factor 3.
+
+Materials and procedure
+Ninety word triads in total were created. Thirty of the
+triads were created with items high in Factor 1, 30 high
+in Factor 2, and 30 high in Factor 3. Of those subgroups,
+15 were close in our semantic space and 15 were close in
+the LSA space.
+The relatedness between concepts in our space is
+related to their distance. Therefore, the Euclidean distance ((x1 - x2)2 + (y1 - y2)2 + (z1 - z2)2) between each
+of the words was determined. Items with distances
+
+Figure 1. Example triad.
+
+701
+
+close to zero were more related than those further from
+zero. For LSA, the relatedness between concepts is
+related to the cosine of angles and vectors between concepts. Items with cosines closer to 1 are more related than
+cosines closer to zero. Cosine values were determined
+using the matrix comparison feature of the LSA Boulder,
+Colorado website (Landauer & Dumais, 1997). The list of
+750 words was input into the matrix comparison
+feature, and the output was the cosines between all of
+the concepts. To create equivalence across the two relatedness measures, both were subjected to a Blom transformation (Blom, 1958) which is a transformation that
+involves inverse ranking the scores and creating a standardised measure. This also placed the variables in a similar
+metric. The CFR space scores were then reverse scaled
+so that for both scales, higher numbers meant a stronger
+relationship between concepts. Due to the transformation
+of the data, the scores were no longer distance metrics
+but relatedness scores. The higher the relatedness score
+the more related the concepts were.
+The triads consisted of three items. The probe and
+target were highly related to each other while the
+probe and distractor item remained somewhat related
+but to a lesser extent than the target and probe. Items
+were considered highly related if the target and probe
+had relatedness scores between 2.75 and 2.0. Distractor
+items were deemed related to a lesser extent if their
+relatedness to the probe was between 1.5 and 1.0.
+Since the Blom transformation is a standardising transformation, these relatedness scores are equivalent to z
+scores or standard deviations. In other words, a relatedness score of 2.0 in either metric meant the relatedness
+between words was closer than 97.72% of words while
+a relatedness score of 1.0 meant the relatedness
+between words was closer than 84.13% of words.
+The triads were created using the following procedure
+to reduce bias in the stimulus selection procedure. First,
+the 50 words with the highest ratings per factor were isolated. These 50 words were then placed in a randomised
+order. We also created 3 levels of relatedness: 2.75-2.50,
+2.49-2.25, 2.24-2.0. Fifteen triads per factor were highly
+related in the CFR space while 15 were highly related
+in the LSA space; therefore the 15 triads were required
+to have 5 items in the 2.75-2.50 range, 5 in the 2.49-
+2.25 range, and 5 in the 2.24-2.0 range. These 15 relatedness ranges were also randomised. A visualisation of the
+number of items per metric, factor and relatedness range
+can be seen in Figure 2. From the randomised list of
+words and ranges, the top word and range were
+selected. The word with the highest relatedness score
+to the probe that was within the relatedness range was
+chosen. If the relatedness score between this target
+and probe in the current relatedness metric was 1.0
+
+702
+
+J. TROCHE
+
+Figure 2. Items per metric, factor, and relatedness range.
+
+greater than the relatedness score in the opposing
+metric, it was chosen as the target for that probe word.
+If it was not greater than 1.0, then the word with next
+highest relatedness score to the probe within the relatedness range was chosen. If none of the words within
+that relatedness range were greater than 1.0, then the
+next word in the randomised word list would be
+chosen until a word within that relatedness range with
+a difference greater than 1.0 was found. Once the
+target and probe were determined a list of words with
+relatedness scores of 1.0-1.5 to the probe were compiled
+for the current relatedness metric. This list was compared
+to the same list in the other relatedness metric. The
+difference between items found on both lists was calculated, and the word with the smallest difference between
+metrics was chosen as the distractor. This procedure was
+repeated for all factors and relatedness metrics until 90
+triads in total were created. A flow chart of the procedure
+can be seen in Figure 3.
+The triads were well matched across all factors and
+relatedness metrics. The average relatedness between
+probe and target across factor, metric and factor by
+metric can be found in Table 1. The average relatedness
+between probe and distractor across factor, metric and
+factor by metric can be found in Table 2.
+Words in the triads were written in Arial font with a
+57 font size all in lowercase. The position of the
+
+distractor and target were pseudorandomized such
+that an equal number of targets were displayed on the
+left and right. This was done to control for the well documented left looking bias in vision (Altmann, Saleem,
+Kendall, Heilman, & Rothi, 2006; Guo, Hall, Hall, Meints,
+& Mills, 2007). Items were displayed on a 21-inch
+screen with a resolution of 1680 x 1050 using Experiment Centre 3.0 stimulus presentation software from
+Sensomotoric Instruments (SMI). Attached to the
+monitor was a RED 120 Hz eye tracking unit from Sensomotoric Instruments. This unit along the iViewX 2.0 programme recorded eye movements and pupil size.
+Reaction time was also recorded through the iViewX programme based on keyboard button press. Participants
+were seated 24 inches from the screen, and they completed a five-point calibration on screen before the
+experiment began.
+Participants were each read the same instructions
+and then completed four practice trials. A trial consisted of a fixation cross followed by a random triad.
+The fixation cross was displayed for 5000 ms and the
+triad for 10,000 ms for a total trial time of 15,000 ms.
+There were 90 trials for a total run time of 22 min
+and 30 s. Participants indicated their selection for the
+triad using keyboard button press. The triad would
+not advance on selection but remain for the entire
+10,000 ms stimulus time.
+
+Table 1. Average distance between target and probe.
+
+Table 2. Average distance between distractor and probe.
+
+Metric
+
+Metric
+
+Factor
+
+CFR
+
+LSA
+
+Total
+
+Factor
+
+CFR
+
+LSA
+
+Total
+
+Factor 1
+Factor 2
+Factor 3
+Total
+
+2.40
+2.35
+2.39
+2.38
+
+2.42
+2.36
+2.39
+2.39
+
+2.41
+2.36
+2.39
+
+Factor 1
+Factor 2
+Factor 3
+Total
+
+1.20
+1.23
+1.23
+1.22
+
+1.24
+1.23
+1.26
+1.24
+
+1.22
+1.23
+1.25
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+703
+
+Figure 3. Flowchart of triad creation procedure.
+
+Data analysis
+There were four outcome measures: reaction time
+revisits to target, total fixations of the target, latency to
+peak pupil dilation.
+
+Reaction time
+It has been suggested that in odd-one-out tasks or relatedness tasks the length of time taken to complete the
+task is a reflection of the ease of which a theme can be
+determined amongst the items (Crutch, Connell, & Warrington, 2009). In other words, items that are highly
+related will lead to a quicker response than those that
+are more distant. The more related the word, the
+greater the reduction in reaction time.
+Total fixations
+In eyetracking, fixation is the point in time when the eye
+settles on one point, and a saccade is a quick rapid movement to the next fixation. Increases in total fixations
+during a word relatedness task have been suggested to
+
+be indicative of task difficulty. Specifically, when the
+relationship between the target and probe becomes
+weaker the total number of fixations increases (Noyes,
+1980; Phillips, 1981; Rayner, 1998; Rayner & Fisher, 1987).
+
+Total revisits
+Revisits are classified as the moment when a fixation
+occurs to an area of interest that has already had a
+prior fixation. A fixation is only counted as a revisit if
+the participant has fixated outside of the area of interest
+and has now fixated again inside of the area of interest.
+Revisits have been argued to occur in greater frequency
+when task difficulty increases (Rayner, 1998).
+Latency to peak
+Eye movements can be recorded during eyetracking
+studies, but pupil size changes (pupillometry) can be
+recorded as well. Early work in pupillometry indicated
+that the pupil responds to changes in light but also to
+changes in arousal (Hess & Polt, 1960). It has also been
+
+704
+
+J. TROCHE
+
+suggested that the pupil responds to changes in cognitive load (Kahneman & Jackson, 1966). While we know
+pupil diameter increases as an effect of cognitive load,
+there are several variables which represent nuanced
+measures of cognitive load. In this study, we examined
+latency to peak. Latency to peak, which is the time it
+takes for the pupil to reach its max diameter, has been
+indicated as a sensitive measure of processing load (Koelewijn, Shinn-Cunningham, Zekveld, & Kramer, 2014; Van
+Der Meer et al., 2010; Zekveld, Kramer, & Festen, 2011). As
+processing load increases the latency to peak pupil
+dilation increases as well.
+These four outcomes measures were input into 4
+linear mixed effect models using the lme4 package
+(Bates & Sarkar, 2006) in the R environment (R Core
+Team, 2017). The fixed effects were relatedness metric
+which had two levels (CFR; LSA) and factor which had
+three levels (Factor1; Factor2; Factor3). We also included
+the random effects of subject and item to see if these
+improved our model.
+
+Results
+Accuracy
+Overall, participants correctly responded for 1793 of
+2070 trials (86.6%). Accuracies broken down by
+factor, metric and factor by metric can be found in
+Table 3.
+
+Linear mixed effect models
+Four separate Linear Mixed Effect Models were performed for the four outcome measures. Models were
+built up first with fixed effects, then by adding random
+effects, and finally interactions. The improvement in fit
+was determined using chi-square tests on the log-likelihood values (See Table 4). Means and standard errors
+for each outcome measure by metric and factor can be
+found in Tables 5 and 6.
+
+Reaction time
+For RT, the best model included the fixed effects of
+metric and factor, as well as the random effects of
+subject and item but not factor by metric (Table 4).
+There were significant fixed effects of metric [t(6) =
+Table 3. Triad accuracy.
+Metric
+Factor
+Factor 1
+Factor 2
+Factor 3
+Total
+
+CFR
+
+LSA
+
+Total
+
+86.4%
+88.1%
+84.9%
+86.5%
+
+87.5%
+87.2%
+85.5%
+86.7%
+
+87.0%
+87.7%
+85.2%
+86.6%
+
+-4.261, p < .05] and factor [t(6) = -3.898, p < .05]. RTs
+for CFR word pairs were significantly faster than LSA
+word pairs [t(6) = -3.898, p < .05; Table 7]. Pairwise comparisons using linear mixed effects models with Bonferonni correction revealed that word pairs drawn from
+Factor 1 (Table 8) had significantly slower RTs than
+both word pairs drawn from Factor 2 [t(6) = -4.288,
+p < .05] and Factor 3 [t(6) = -4.403, p < .05].
+
+Total fixations
+For total number of target fixations, the best model
+included fixed effects for metric and factor but not
+factor by metric. The best model also included the
+random effects of subject and item (Table 4). There
+were significant fixed effects of metric [t(6) = -2.51, p
+< .05] and factor [t(6) = -4.241, p < .05]. Fixations for
+CFR word pairs were significantly fewer than LSA word
+pairs [t(6) = -2.51, p < .05; Table 7]. Pairwise comparisons
+using linear mixed effects models with Bonferonni correction revealed that word pairs drawn from Factor 1
+(Table 8) had significantly more fixations than both
+word pairs drawn from Factor 2 [t(6) = -4.430, p < .05]
+and Factor 3 [t(6) = -3.924, p < .05].
+Total revisits
+For total revisits to target, the best model included fixed
+effects for metric and factor but not factor by metric. The
+best model also included the random effects of subject
+and item (Table 4). There were significant fixed effects of
+metric [t(6) = -2.165, p < .05] and factor [t(6) = -2.371,
+p < .05]. There were significantly fewer revisits for CFR
+word pairs as compared to LSA word pairs [t(6) = -2.165,
+p < .05; Table 7]. Pairwise comparisons using linear mixed
+effects models with Bonferonni correction revealed that
+word pairs drawn from Factor 1 (Table 8) were trending
+towards a higher number of revists as compared to pairs
+drawn from Factor 2 [t(6) = -2.108, p = .11] and Factor 3
+[t(6) = -2.363, p = .08] but this did not reach statistical
+significance.
+Latency to peak
+For latency to peak pupil dilation, the best model
+included the fixed effects of metric, factor, as well as
+the random effects of subject and item but not factor
+by metric (Table 4). There were significant fixed effects
+of metric [t(6) = -3.548, p < .05] and factor [t(6) =
+-3.144, p < .05]. Latencies to peak for CFR word pairs
+were significantly shorter than LSA word pairs [t(6) =
+-3.548, p < .05; Table 7]. Pairwise comparisons using
+linear mixed effects models with Bonferonni correction
+revealed that word pairs drawn from Factor 1 (Table 8)
+had significantly longer latencies to peak pupil
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+705
+
+Table 4. Chi-square table of model fit for linear mixed effect models by outcome measure.
+Outcome
+
+Fixed Effects
+
+Rand Effects
+
+DF
+
+AIC
+
+BIC
+
+LogLik
+
+Deviance
+
+Chisq
+
+Chi DF
+
+Metric
+Factor
+5
+35,547
+35,575
+-17,768
+35,537
+Metric
+Factor
+Metric*Factor Subj
+6
+35,549
+35,583
+-17,768
+35,537
+0.001
+1
+Metric Factor
+Subj Item
+6
+35,364
+35,398
+-17,676
+35,352
+184.436
+1
+Metric
+Factor
+Metric*Factor Subj
+Item
+7
+35,366
+35,842
+-17,676
+35,352
+0.001
+1
+Fixations
+Metric
+Factor
+5
+10,498
+10,526
+-5243.8
+10,488
+Metric
+Factor
+Metric*Factor Subj
+6
+10,497
+10,531
+-5242.7
+10,485
+2.160
+1
+Metric Factor
+Subj Item
+6
+10,469
+10,503
+-5228.5 10,457
+28.380
+1
+Metric
+Factor
+Metric*Factor Subj
+Item
+7
+10,470
+10,509
+-5228
+10,456
+1.074
+1
+Revisits
+Metric
+Factor
+5
+6585.6
+6613.8
+-3287.8
+6575.6
+Metric
+Factor
+Metric*Factor Subj
+6
+6587.1
+6620.9
+-3287.5
+6575.1
+0.516
+1
+Metric Factor
+Subj Item
+6
+6571.4
+6605.2
+-3279.7
+6559.4
+15.664
+1
+Metric
+Factor
+Metric*Factor Subj
+Item
+7
+6573.1
+6612.5
+-3279.5
+6559.1
+0.304
+1
+Latency
+Metric
+Factor
+5
+35,898
+35,896
+-17,929
+35,858
+Metric
+Factor
+Metric*Factor Subj
+6
+35,870
+35,904
+-17,929
+35,858
+0.091
+1
+Metric Factor
+Subj Item
+6
+35,800
+35,834
+-17,894
+35,858
+70.005
+1
+Metric
+Factor
+Metric*Factor Subj
+Item
+7
+35,802
+35,842
+-17,894
+35,858
+0.034
+1
+Note: Bolded model is the model with the best fit. AIC = Akakie Information Criterion, BIC = Bayesian Information Criterion, LogLik = Log Likelihood.
+
+Sig.
+
+RT
+
+amplitude than both word pairs drawn from Factor 2 [t
+(6) = -3.825, p < .05] and Factor 3 [t(6) = -3.180, p < .05].
+
+Discussion
+Outcome variables
+The results of our experiment revealed the validity of our
+newly created semantic space. For a word relatedness
+task our space was better able to model relatedness as
+compared to the LSA space. This trend was seen across
+all four of our outcome variables. These findings, along
+with the fact that the LSA has been consistently found
+to be valid in the literature (Howard & Kahana, 1999,
+2002; Zaromb et al., 2006), point to the validity of our
+space. It should be noted that there were a few limitations in this study.
+
+Concreteness effects
+One trend of note in our results was that across our
+outcome variables, triads drawn from the Endogenous
+space were more difficult and required a greater processing load than triads created from the other two
+factors regardless of the space they were drawn from
+(i.e. CFR or LSA). Compared to the other areas of the
+CFR space, the Endogenous space was more likely to
+contain abstract concepts and, therefore, the items
+
+Table 6. Mean and standard error for outcome measures by
+factor.
+
+Measure
+
+Fixation
+
+Fixation
+Revisit
+Latency
+
+Mean
+
+Std. Error
+
+3337.78
+2884.62
+5.83
+5.56
+1.82
+1.68
+2234.22
+1876.02
+
+50.13
+43.39
+0.11
+0.11
+0.04
+0.04
+49.21
+42.77
+
+0.763
+0.001
+0.855
+
+Abstract concepts have often been seen as a thorn in
+the side of researchers attempting to understand and
+
+RT
+
+LSA
+CFR
+LSA
+CFR
+LSA
+CFR
+LSA
+CFR
+
+0.472
+0.001
+0.582
+
+Theoretical implications
+
+Measure
+
+Metric
+
+0.142
+0.001
+0.300
+
+drawn from this space for this experiment were also
+more abstract than items drawn from the other
+regions. The greater number of abstract items in the
+Endogenous region is likely because items high in
+emotional/social features are more likely to be abstract
+(Kousta et al., 2011), although as we noted in our previous work the endogenous factor did pull concepts
+irrespective of their concreteness together (e.g. LOVE;
+CHOCOLATE). Because the endogenous items were
+more likely to be abstract and since we saw this as
+main effect with both spaces (i.e. CFR and LSA) we
+interpret this effect of factor as occurring due to the
+concreteness effect, the collective advantage of concrete concepts over abstract concepts in a variety of
+domains. While some recent work has challenged the
+concreteness effect (Kousta et al., 2011), our work and
+the vast body of literature indicate the validity of this
+effect (Allen & Hulme, 2006; Schwanenflugel, Akin, &
+Luh, 1992; Walker & Hulme, 1999).
+
+Table 5. Mean and standard error for outcome measures by
+metric.
+RT
+
+0.979
+0.001
+0.990
+
+Revisit
+Latency
+
+Factor
+
+Mean
+
+Std. Error
+
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+
+3527.09
+2886.10
+2920.41
+6.37
+5.32
+5.39
+1.87
+1.69
+1.68
+2343.19
+1867.63
+1954.54
+
+64.05
+55.97
+50.05
+0.15
+0.13
+0.12
+0.05
+0.05
+0.05
+63.11
+53.07
+52.17
+
+706
+
+J. TROCHE
+
+Table 7. Pairwise comparisons for outcome measures by metric.
+Measure
+RT
+Fixation
+Revisit
+Latency
+
+Metric
+LSA
+LSA
+LSA
+LSA
+
+CFR
+CFR
+CFR
+CFR
+
+Mean difference
+
+Std. Error
+
+Sig.
+
+453.16
+0.27
+0.14
+358.20
+
+116.30
+0.11
+0.07
+100.95
+
+0.01
+0.04
+0.03
+0.01
+
+create a complete theory of semantic memory. The
+concreteness effect led researchers to describe concrete and abstract concepts as uniquely distinct
+objects and the dominant theory at the moment, the
+dual coding theory, postulates that distinct parallel
+systems support the representation of abstract and
+concrete concepts. In the Conceptual Feature Rating
+space, we were able to model concepts in a unified
+space. The location and relatedness of the objects in
+the space had to do with their overall reliance on
+Exogenous information, Endogenous information, and
+Magnitude information. Each of these factors played a
+distinct role in how the concepts were represented in
+the space. The Exogenous information played an
+important role in the separation of concepts along concrete and abstract lines. This can be seen as a factor
+analogous to imageability. The endogenous information, however, bound concepts regardless of their
+level of concreteness. The concepts of LOVE and CHOCOLATE (high in endogenous information) were considered related while MAGNITUDE and CORN (low in
+endogenous information) were highly unrelated.
+These findings fit well with the assertion that emotion
+and other internal states can change the way a
+concept is understood and represented (Andrews
+et al., 2009; Kousta et al., 2011). Finally, the magnitude
+information seemed to play an important role in the
+fine-grained distinctions between concepts. For
+instance the difference between HATE and DISLIKE.
+Overall our space represents a graded view of concreteness which fits well with work that has described concreteness not as a bimodal distribution but as a
+
+continuous distribution (Kousta et al., 2011; Vigliocco
+et al., 2013). This finding also represents a paradigm
+shift in the way we describe and understand the relationship between abstract and concrete concepts. Previous
+work has focused on the differences between abstract
+and concrete concepts, but these theories have made
+it difficult to understand the relationship between
+these concepts in a single semantic memory system.
+Our work allows us to not only describe the differences
+between abstract and concrete concepts which have
+been well documented but also to investigate the way
+these concepts interact. This makes it possible to move
+past the artificial dichotomy of concrete-abstract and
+to describe concepts in a more meaningful way. It is
+important to note that this work does not negate previous findings or seminal theories of the differences
+between abstract and concrete concepts but it does
+allow us to describe and understand the way concepts
+interact as part of a larger semantic memory system.
+Understanding concepts in this manner will allow us to
+move forward in creating better evaluation and treatment techniques for not just concrete but also abstract
+concepts as well. We remain with very few evaluation
+and treatment options for abstract concepts even
+though these concepts are often the most susceptible
+to loss and the most important for interpersonal communication (Bonner et al., 2009; Breedin et al., 1994;
+Franklin et al., 1995; Jefferies et al., 2009; Warrington,
+1975, 1981).
+It should be noted that there were a few limitations
+for this work. According to a power analysis using the
+R package SIMR (Green & MacLeod, 2016), we were
+slightly underpowered (N = 23, .63) as a sample size of
+28 would be required to reach .80 power. Participants
+also had a decent amount of variability in their performance, although running a linear mixed effects model with
+random effects for subject and item did account for this
+variability in our statistical model.
+
+Future directions
+Table 8. Pairwise comparisons for outcome measures by factor.
+Measure
+RT
+Fixation
+Revisit
+Latency
+
+Factor
+1
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+2
+
+2
+3
+3
+2
+3
+3
+2
+3
+3
+2
+3
+3
+
+Mean difference
+
+Std. Error
+
+Sig.
+
+640.99
+606.68
+-34.31
+1.05
+0.98
+-0.07
+0.18
+0.19
+0.01
+475.56
+388.65
+-86.91
+
+149.50
+68.89
+123.31
+.238
+.125
+.169
+0.09
+0.04
+0.08
+124.30
+61.11
+112.03
+
+0.01
+0.01
+0.84
+0.01
+0.01
+0.99
+0.11
+0.08
+0.99
+0.01
+0.03
+0.70
+
+Note: Significance score adjusted for multiple comparisons using a Bonferonni
+correction.
+
+At this time we remain with a limited amount of ratings
+since our previous work contained 750 nouns. Even
+though compared to other psycholinguistic databases
+this is few ratings; this current work displays that the
+original method we used to gather the ratings is valid
+in creating a unified semantic space. The method can
+be quickly used to scale up the work and include a
+greater number of concepts including not just nouns
+but possibly verbs as well.
+We also cannot, at this time make an assessment as to
+whether we are modelling similarity or association or a
+combination of both in our semantic space. This
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+distinction, which has been shown by Crutch and colleagues to be an important distinction in the concreteness literature is an important area of future study.
+Future work should also explore the neuroanatomical
+framework of the Conceptual Feature Rating space. The
+three factors (Endogenous, Exogneous, Magnitude)
+seem to map well on to the brain, but none of our previous work can say with certainty where these factors
+might live in the brain or how they interact. Work
+using functional neuroimaging and lesion models
+might help elucidate this question.
+Now that we have validated the method used to
+gather the ratings, we believe the method itself may
+hold value in helping us understand the changes in the
+semantic memory system due to certain progressive
+neurological diseases. Alzheimer's disease, frontotemporal dementia, corticobasal degeneration, and Parkinson's disease are just a few neurodegenerative diseases
+that cause deficits in the semantic memory system, deficits which we still do not completely understand (Grossman et al., 2004; Piatt, Fields, Paolo, Koller, & Troster,
+1999; Reilly, Peelle, Antonucci, & Grossman, 2011; Reilly,
+Troche, & Grossman, 2011). By allowing individuals with
+these diseases to complete the Conceptual Feature
+Rating approach and comparing their ratings to agematched controls we may be able to better characterise
+the semantic deficits in these disorders. Due to the widespread neuroanatomical nature of the semantic system,
+after norming, the conceptual feature rating approach
+might hold efficacy as an early diagnostic tool for differential diagnosis. Overall the Conceptual Feature Rating
+method and its accompanying data remain an important
+foundation for further investigation into the normal functioning of the semantic system as well as understanding
+disorders of the semantic system.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+References
+Allen, R., & Hulme, C. (2006). Speech and language processing
+mechanisms in verbal serial recall. Journal of Memory and
+Language, 55(1), 64-88.
+Altmann, L. J. P., Saleem, A., Kendall, D., Heilman, K. M., & Rothi,
+L. J. G. (2006). Orthographic directionality and thematic role
+illustration in English and Arabic. Brain and Language, 97(3),
+306-316. doi:10.1016/j.bandl.2005.12.003. Retrieved from
+http://www.sciencedirect.com/science/article/pii/
+S0093934X05003445
+Andrews, M., Vigliocco, G., & Vinson, D. (2009). Integrating
+experiential and distributional data to learn semantic representations. Psychological Review, 116(3), 463-498. doi:10.
+1037/a0016261
+
+707
+
+Barsalou, L. W. (2008). Grounded cognition. Annual Review of
+Psychology, 59, 617-645.
+Bates, D., & Sarkar, D. (2006). The lme4 package. Retrieved from
+https://cran.r-project.org/web/packages/lme4/
+Bleasdale, F. A. (1987). Concreteness-dependent associative
+priming: Separate lexical organization for concrete and
+abstract words. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 13(4), 582-594. doi:10.
+1037/0278-7393.13.4.582
+Blom, G. (1958). Statistical estimates and transformed betavariables.
+Bonner, M. F., Vesely, L., Price, C., Anderson, C., Richmond, L.,
+Farag, C., ... Grossman, M. (2009). Reversal of the concreteness
+effect
+in
+semantic
+dementia.
+Cognitive
+Neuropsychology, 26(6), 568-579. doi:919094196 [pii] 10.
+1080/02643290903512305 [doi]
+Breedin, S. D., Saffran, E. M., & Coslett, H. B. (1994). Reversal of
+the concreteness effect in a patient with semantic dementia.
+Cognitive Neuropsychology, 11(6), 617-660.
+Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. Educational Psychology Review, 3(3), 149-210.
+Cree, G. S., & McRae, K. (2003). Analyzing the factors underlying
+the structure and computation of the meaning of chipmunk,
+cherry, chisel, cheese, and cello (and many other such concrete nouns). Journal of Experimental Psychology: General,
+132(2), 163-201.
+Crutch, S. J., Connell, S., & Warrington, E. K. (2009). The
+different representational frameworks underpinning
+abstract and concrete knowledge: Evidence from odd-oneout judgements. The Quarterly Journal of Experimental
+Psychology, 62(7), 1377-1390. doi:10.1080/17470210802
+483834
+Crutch, S. J., & Jackson, E. C. (2011). Contrasting graded effects
+of semantic similarity and association across the concreteness spectrum. The Quarterly Journal of Experimental
+Psychology, 64(7), 1388-1408. doi:10.1080/17470218.2010.
+543285
+Crutch, S. J., Troche, J., Reilly, J., & Ridgway, G. R. (2013). Abstract
+conceptual feature ratings: The role of emotion, magnitude,
+and other cognitive domains in the organization of abstract
+conceptual knowledge. Frontiers in Human Neuroscience, 7,
+186. doi:10.3389/fnhum.2013.00186
+Crutch, S. J., & Warrington, E. K. (2005). Abstract and concrete
+concepts have structurally different representational frameworks. Brain, 128(3), 615-627. Retrieved from http://brain.
+oxfordjournals.org/content/128/3/615.abstract
+Crutch, S. J., Williams, P., Ridgway, G. R., & Borgenicht, L. (2012).
+The role of polarity in antonym and synonym conceptual
+knowledge: Evidence from stroke aphasia and multidimensional ratings of abstract words. Neuropsychologia, 50,
+2636-2644.
+Franklin, S., Howard, D., & Patterson, K. (1995). Abstract word
+anomia. Cognitive Neuropsychology, 12(5), 549-566.
+Gallese, V., & Lakoff, G. (2005). The brain's concepts: The role of
+the sensory-motor system in conceptual knowledge.
+Cognitive Neuropsychology, 22(3-4), 455-479. doi:10.1080/
+02643290442000310
+Garrard, P., Lambon-Ralph, M. A., Hodges, J. R., & Patterson, K.
+(2001). Prototypicality, distinctiveness, and intercorrelation:
+Analyses of the semantic attributes of living and nonliving
+concepts. Cognitive Neuropsychology, 18(2), 125-174.
+doi:10.1080/02643290042000053. Retrieved from https://
+
+708
+
+J. TROCHE
+
+search.ebscohost.com/login.aspx?direct=true&db=
+pbh&AN=4431035&site=ehost-live
+Gilhooly, K., & Logie, R. (1980). Age-of-acquisition, imagery, concreteness, familiarity, and ambiguity measures for 1,944
+words. Behavior Research Methods &amp; Instrumentation,
+12(4), 395-427. doi:10.3758/BF03201693
+Green, P., & MacLeod, C. J. (2016). SIMR: An R package for power
+analysis of generalized linear mixed models by simulation.
+Methods in Ecology and Evolution, 7(4), 493-498. doi:10.
+1111/2041-210X.12504
+Grossman, M., McMillan, C., Moore, P., Ding, L., Glosser, G., Work,
+M., & Gee, J. (2004). What's in a name: Voxel-based morphometric analyses of MRI and naming difficulty in Alzheimer's
+disease, frontotemporal dementia and corticobasal degeneration. Brain, 127(3), 628-649. doi:10.1093/brain/awh075
+Guo, K., Hall, C., Hall, S., Meints, K., & Mills, D. (2007). Left gaze
+bias in human infants, rhesus monkeys, and domestic
+dogs. Perception, 36, 409-418.
+Hess, E. H., & Polt, J. M. (1960). Pupil size as related to interest
+value of visual stimuli. Science, 132(3423), 349-350. doi:10.
+2307/1706082. Retrieved from http://www.jstor.org/stable/
+1706082
+Howard, M. W., & Kahana, M. J. (1999). Contextual variability and
+serial position effects in free recall. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 25(4), 923-941.
+Howard, M. W., & Kahana, M. J. (2002). When does semantic
+similarity help episodic retrieval? Journal of Memory and
+Language, 46(1), 85-98. doi:10.1006/jmla.2001.2798.
+Retrieved from http://www.sciencedirect.com/science/
+article/pii/S0749596X01927986
+Jefferies, E., Patterson, K., Jones, R. W., & Lambon Ralph, M. A.
+(2009). Comprehension of concrete and abstract words in
+semantic dementia. Neuropsychology, 23(4), 492-499.
+doi:10.1037/a0015452
+Kahneman, D., & Jackson, B. (1966). Pupil diameter and load on
+memory. Science, 154(3756), 1583-1585. doi:10.2307/
+1720478. Retrieved from http://www.jstor.org/stable/
+1720478
+Koelewijn, T., Shinn-Cunningham, B. G., Zekveld, A. A., & Kramer,
+S. E. (2014). The pupil response is sensitive to divided attention during speech processing. Hearing Research, 312(0),
+114-120. doi:10.1016/j.heares.2014.03.010. Retrieved from
+http://www.sciencedirect.com/science/article/pii/
+S0378595514000422
+Kousta, S. T., Vigliocco, G., Vinson, D. P., Andrews, M., & Del
+Campo, E. (2011). The representation of abstract words:
+Why emotion matters. Journal of Experimental Psychology:
+General, 140(1), 14-34. doi:10.1037/a0021446
+Landauer, T. K., & Dumais, S. T. (1997). A solution to Plato's
+problem: The latent semantic analysis theory of acquisition,
+induction, and representation of knowledge. Psychological
+Review, 104(2), 211-240.
+Martin, A. (2007). The representation of object concepts in the
+brain. Annual Review of Psychology, 58, 25-45.
+Moffat, M., Siakaluk, P. D., Sidhu, D. M., & Pexman, P. M. (2015).
+Situated conceptualization and semantic processing: Effects
+of emotional experience and context availability in semantic
+categorization and naming tasks. [Journal article].
+Psychonomic Bulletin &amp; Review, 22(2), 408-419. doi:10.
+3758/s13423-014-0696-0
+Newcombe, P. I., Campbell, C., Siakaluk, P. D., & Pexman, P. M.
+(2012). Effects of emotional and sensorimotor knowledge
+
+in semantic processing of concrete and abstract nouns.
+Frontiers in Human Neuroscience, 6, 275. doi:10.3389/fnhum.
+2012.00275
+Noyes, L. (1980). The positioning of type on maps: The effect of
+surrounding material on word recognition time. Human
+Factors: The Journal of the Human Factors and Ergonomics
+Society, 22(3), 353-360.
+Paivio, A. (1991). Dual coding theory: Retrospect and current
+status. Canadian Journal of Psychology/Revue Canadienne
+de Psychologie, 45(3), 255-287.
+Paivio, A. (2013). Dual coding theory, word abstractness, and
+emotion: A critical review of Kousta et al. (2011). Journal of
+Experimental Psychology: General, 142(1), 282-287.
+Paivio, A., Yuille, J. C., & Madigan, S. A. (1968). Concreteness,
+imagery, and meaningfulness values for 925 nouns. Journal
+of Experimental Psychology, 76(1, Pt.2), 1-25. doi:10.1037/
+h0025327
+Phillips, R. J. (1981). Searching for a target in a random arrangement of names: An eye fixation analysis. Canadian Journal of
+Psychology/Revue Canadienne de Psychologie, 35(4), 330-346.
+doi:10.1037/h0081192
+Piatt, A. L., Fields, J. A., Paolo, A. M., Koller, W. C., & Troster, A. I.
+(1999). Lexical, semantic, and action verbal fluency in
+Parkinson's disease with and without dementia. Journal of
+Clinical and Experimental Neuropsychology, 21(4), 435-443.
+doi:10.1076/jcen.21.4.435.885. Retrieved from http://www.
+tandfonline.com/doi/abs/10.1076/jcen.21.4.435.885
+Rayner, K. (1998). Eye movements in reading and information
+processing: 20 years of research. Psychological Bulletin, 124
+(3), 372-422.
+Rayner, K., & Fisher, D. (1987). Letter processing during eye fixations in visual search. Perception & Psychophysics, 42(1), 87-
+100. doi:10.3758/bf03211517
+R Core Team. (2017). R: A language and environment for statistical computing: R foundation for statistical computing.
+Retrieved from https://www.R-project.org
+Reilly, J., Peelle, J. E., Antonucci, S. M., & Grossman, M. (2011).
+Anomia as a marker of distinct semantic memory impairments in Alzheimer's disease and semantic dementia.
+Neuropsychology, 25(4), 413-426. doi:10.1037/a0022738
+Reilly, J., Peelle, J. E., & Grossman, M. (2007). A unitary semantics
+account of reverse concreteness effects in semantic dementia. Brain and Language, 103(1-2), 86-87. doi:10.1016/j.bandl.
+2007.07.057. Retrieved from http://www.sciencedirect.com/
+science/article/pii/S0093934X07001769
+Reilly, J., Troche, J., & Grossman, M. (2011). Language processing
+in dementia (pp. 336-368). Oxford: Wiley-Blackwell.
+Schwanenflugel, P. J., Akin, C., & Luh, W. (1992). Context availability and the recall of abstract and concrete words.
+Memory & Cognition, 20(1), 96-104.
+Schwanenflugel, P. J., Harnishfeger, K. K., & Stowe, R. W. (1988).
+Context availability and lexical decisions for abstract and
+concrete words. Journal of Memory and Language, 27(5),
+499-520. doi:10.1016/0749-596x(88)90022-8
+Schwanenflugel, P. J., & Shoben, E. J. (1983). Differential context
+effects in the comprehension of abstract and concrete verbal
+materials. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 9(1), 82-102.
+Troche, J., Crutch, S. J., & Reilly, J. (2014). Clustering, hierarchical
+organization, and the topography of abstract and concrete
+nouns. Frontiers in Psychology, 5, 360. doi:10.3389/fpsyg.
+2014.00360.eCollection2014
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+Troche, J., Crutch, S. J., & Reilly, J. (2017). Defining a conceptual
+topography of word concreteness: Clustering properties of
+emotion, sensation, and magnitude among 750 English
+words. [Original Research]. Frontiers in Psychology, 8(1787).
+doi:10.3389/fpsyg.2017.01787. Retrieved from https://www.
+frontiersin.org/article/10.3389/fpsyg.2017.01787
+Tyler, L. K., Moss, H. E., Durrant-Peatfield, M. R., & Levy, J. P. (2000).
+Conceptual structure and the structure of concepts: A distributed account of category-specific deficits. Brain and
+Language, 75(2), 195-231. Retrieved from http://www.
+sciencedirect.com/science/article/pii/S0093934X00923538
+Van Der Meer, E., Beyer, R., Horn, J., Foth, M., Bornemann, B.,
+Ries, J., ... Wartenburger, I. (2010). Resource allocation and
+fluid
+intelligence:
+Insights
+from
+pupillometry.
+Psychophysiology, 47(1), 158-169.
+Vigliocco, G., Kousta, S.-T., Della Rosa, P. A., Vinson, D. P.,
+Tettamanti, M., Devlin, J. T., & Cappa, S. F. (2013). The
+neural representation of abstract words: The role of
+emotion. Cerebral Cortex. doi:10.1093/cercor/bht025.
+Retrieved from http://cercor.oxfordjournals.org/content/
+early/2013/02/13/cercor.bht025.abstract
+Vigliocco, G., Vinson, D. P., Lewis, W., & Garrett, M. F. (2004).
+Representing the meanings of object and action words:
+The featural and unitary semantic space hypothesis.
+Cognitive Psychology, 48(4), 422-488.
+
+709
+
+Walker, I., & Hulme, C. (1999). Concrete words are easier to
+recall than abstract words: Evidence for a semantic contribution to short-term serial recall. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 25(5), 1256-
+1271.
+Warrington, E. K. (1975). The selective impairment of semantic
+memory. Quarterly Journal of Experimental Psychology, 27
+(4), 635-657.
+Warrington, E. K. (1981). Concrete word dyslexia. British Journal
+of Psychology, 72(2), 175-196.
+Wiemer-Hastings, K., & Xu, X. (2005). Content differences for
+abstract and concrete concepts. Cognitive Science, 29(5),
+719-736.
+Zaromb, F. M., Howard, M. W., Dolan, E. D., Sirotin, Y. B., Tully, M.,
+Wingfield, A., & Kahana, M. J. (2006). Temporal associations
+and prior-list intrusions in free recall. Journal of
+Experimental Psychology: Learning, Memory, and Cognition,
+32(4), 792-804.
+Zekveld, A. A., Kramer, S. E., & Festen, J. M. (2011). Cognitive load
+during speech perception in noise: The influence of age,
+hearing loss, and cognition on the pupil response. Ear and
+Hearing,
+32(4),
+498-510.
+doi:10.1097/AUD.
+1090b1013e31820512bb. Retrieved from http://journals.
+lww.com/ear-hearing/Fulltext/2011/07000/Cognitive_Load_
+During_Speech_Perception_in_Noise_.8.aspx
+
+

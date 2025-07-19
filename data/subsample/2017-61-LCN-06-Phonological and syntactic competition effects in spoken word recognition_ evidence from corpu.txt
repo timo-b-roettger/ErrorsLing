@@ -1,0 +1,1510 @@
+Language, Cognition and Neuroscience
+
+ISSN: 2327-3798 (Print) 2327-3801 (Online) Journal homepage: www.tandfonline.com/journals/plcp21
+
+Phonological and syntactic competition effects in spoken
+word recognition: evidence from corpus-based statistics
+Jie Zhuang & Barry J. Devereux
+To cite this article: Jie Zhuang & Barry J. Devereux (2017) Phonological and syntactic
+competition effects in spoken word recognition: evidence from corpus-based statistics,
+Language, Cognition and Neuroscience, 32:2, 221-235, DOI: 10.1080/23273798.2016.1241886
+To link to this article: https://doi.org/10.1080/23273798.2016.1241886
+
+(c) 2016 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 09 Nov 2016.
+
+Submit your article to this journal
+
+Article views: 2453
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=plcp21
+
+LANGUAGE, COGNITION AND NEUROSCIENCE, 2017
+VOL. 32, NO. 2, 221-235
+http://dx.doi.org/10.1080/23273798.2016.1241886
+
+REGULAR ARTICLE
+
+Phonological and syntactic competition effects in spoken word recognition:
+evidence from corpus-based statistics
+Jie Zhuanga,b and Barry J. Devereuxb
+a
+
+Brain Imaging and Analysis Center, Duke University, Durham, NC 27710, USA; bCentre for Speech, Language and the Brain, Department of
+Psychology, University of Cambridge, Cambridge, UK
+ABSTRACT
+
+ARTICLE HISTORY
+
+As spoken language unfolds over time the speech input transiently activates multiple candidates at
+different levels of the system - phonological, lexical, and syntactic - which in turn leads to shortlived between-candidate competition. In an fMRI study, we investigated how different kinds of
+linguistic competition may be modulated by the presence or absence of a prior context (Tyler
+1984; Tyler et al. 2008). We found significant effects of lexico-phonological competition for
+isolated words, but not for words in short phrases, with high competition yielding greater
+activation in left inferior frontal gyrus (LIFG) and posterior temporal regions. This suggests that
+phrasal contexts reduce lexico-phonological competition by eliminating form-class inconsistent
+cohort candidates. A corpus-derived measure of lexico-syntactic competition was associated with
+greater activation in LIFG for verbs in phrases, but not for isolated verbs, indicating that lexicosyntactic information is boosted by the phrasal context. Together, these findings indicate that
+LIFG plays a general role in resolving different kinds of linguistic competition.
+
+Received 15 December 2015
+Accepted 12 September 2016
+
+Introduction
+Understanding a spoken utterance involves neurocognitive processes at different levels of representation - acoustic, phonological, lexical, semantic, and syntactic. Because
+speech is necessarily heard sequentially over time,
+language comprehension is underpinned by continuous
+processes of resolving transient ambiguities at each of
+these levels. At both the lexico-phonological and syntactic
+processing levels, research on whether and how multiple
+candidate representations are activated and compete for
+selection has generated several cognitive models
+(Clifton, Frazier, & Connine, 1984; Ferreira & Clifton, 1986;
+Luce & Pisoni, 1998; Macdonald, 1992; MacDonald, Pearlmutter, & Seidenberg, 1994; Marslen-Wilson, 1987;
+Marslen-Wilson & Welsh, 1978; McClelland & Elman,
+1986; Trueswell & Tanenhaus, 1994). For example, at the
+lexical level, the cohort model (Gaskell & Marslen-Wilson,
+1997; Marslen-Wilson, 1987; Marslen-Wilson & Tyler,
+1980; Marslen-Wilson & Welsh, 1978; Tyler & MarslenWilson, 1977) proposes that during spoken word processing, word-initial sounds (e.g. "/ael/" of "alligator") simultaneously activate a cohort of word candidates
+("alcohol", "albatross", "alligator") sharing the same initial
+sound sequence ("/ael/"). As more of the speech signal
+
+CONTACT Barry J. Devereux
+
+KEYWORDS
+
+Cohort competition;
+lexico-syntactic competition;
+subcategorisation frames;
+corpus data; argument
+structure
+
+unfolds, some members of the cohort become inconsistent with the perceptual input and their level of activation
+decays. Words in the cohort that continue to be consistent
+with the speech input continue to increase in activation,
+until a point is reached when only one word remains consistent with the input (the uniqueness point). At the
+uniqueness point, the correct word can be determined
+unambiguously and all other competitors decay from
+the cohort. Contextual information can facilitate the comprehension process by constraining the set of cohort competitors to those that are acceptable given the context -
+for example, those cohort members that are grammatically appropriate to the context (Marslen-Wilson, 1987;
+Tyler, 1984; Tyler & Wessels, 1983). Using a gating paradigm, Tyler (1984) showed a higher drop-out rate of
+word candidates from the initial cohort pool when the
+word was preceded by a strongly grammatically constraining sentence context (i.e. where the context constrains the following word to a particular grammatical
+class, such as <noun>) compared to either a weakly constraining context or to words presented in isolation (no
+sentential context). This suggests that word candidates
+that are perceptually consistent with available input in
+the unfolding utterance are continuously evaluated
+against the current context and drop out of the cohort
+
+barry@csl.psychol.cam.ac.uk
+
+(c) 2016 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly cited.
+
+222
+
+J. ZHUANG AND B. J. DEVEREUX
+
+pool when they are incongruent with grammatical constraints. Similarly, eye tracking data where French participants listened to spoken instructions suggest that a
+gender-marked article preceding the noun functions to
+eliminate the early activation of the gender-inconsistent
+cohort members (Dahan, Swingley, Tanenhaus, & Magnuson, 2000; Magnuson, Tanenhaus, & Aslin, 2008). Studies
+such as these demonstrate that cohort competition
+effects during word recognition are subject to the topdown influence of contextual constraints.
+Processes of competition and constraint may also be
+fundamental mechanisms in how the appropriate syntactic structure for a sentence is constructed. As a sentence unfolds, multiple possible syntactic structures will
+be consistent with the currently available input. For constraint-satisfaction models of sentence processing, many
+syntactic possibilities are generated but their likelihood is
+constrained by lexical information (Hagoort, 2005; MacDonald et al., 1994; Marslen-Wilson, 1973; Vosse &
+Kempen, 2000). Indeed, behavioural and neuroimaging
+studies suggest that in the presence of unresolved syntactic ambiguities, people are sensitive to the likelihood
+or preferences of the competing syntactic possibilities,
+such that more likely alternatives are stronger competitors (e.g. MacDonald et al., 1994; Novais-Santos et al.,
+2007; Rodd, Longe, Randall, & Tyler, 2010; Shapiro,
+Nagel, & Levine, 1993; Trueswell & Tanenhaus, 1994;
+Tyler et al., 2011; Tyler & Marslen-Wilson, 1977). For
+example, when a verb is encountered, the multiple possible argument structures licenced by the verb vary in
+their likelihood for the verb, and so constraint-satisfaction models will posit that the more likely argument
+structures will be the stronger competitors.
+However, it is unclear whether syntactic information
+associated with a verb is automatically activated whenever it is heard. Although such information must be activated in order to understand the word's syntactic role
+when it appears as part of a larger utterance, it may
+not be relevant to recognising the word in isolation.
+One proposal is that lexico-syntactic information is only
+triggered when the word appears in a context requiring
+greater linguistic (i.e. syntactic or morphological) processing (Longe, Randall, Stamatakis, & Tyler, 2007; Tyler,
+Randall, & Stamatakis, 2008). Evidence for this claim is
+that written verbs produce greater activation than
+nouns in left posterior middle temporal gyrus (LpMTG;
+BA 21) when they are in phrasal contexts (e.g. "you
+drive", "a battle"), but not when they occur in isolation
+(Tyler et al., 2008). Furthermore, verbs in minimal
+phrasal contexts show greater activation than isolated
+verbs in left inferior frontal gyrus (LIFG) as well as
+LpMTG, implicating both of these regions in the processing of verbs' lexico-syntactic information. In these earlier
+
+studies, however, the syntactic information associated
+with words was investigated at the level of their formclass (i.e. noun or verb). In the present study we aim
+to test the hypothesis regarding the automaticity
+of lexico-syntactic processing by investigating the
+activation of lexico-syntactic knowledge at a more finegrained level, within the verb class, by modelling the
+processing implications of verbs' subcategorisation
+frame (i.e. argument structure) information. To this end,
+we use a new corpus-based approach to measuring
+a particular aspect of verb lexico-syntactic processing,
+namely activation of and competition between subcategorisation frame possibilities for verbs.
+In parallel to the cognitive models, contemporary
+neural models have revealed a left-lateralised frontotemporal network underpinning fundamental language
+functions (e.g. Boatman, 2004; Dronkers, Wilkins, Van
+Valin, Redfern, & Jaeger, 2004; Hickok, 2012; Hickok &
+Poeppel, 2004, 2007; Indefrey & Levelt, 2004; Scott &
+Wise, 2004; Tyler & Marslen-Wilson, 2008). Syntactic representations are mainly supported by the LIFG and left
+posterior temporal regions in a dynamic network
+(Papoutsi, Stamatakis, Griffiths, Marslen-Wilson, & Tyler,
+2011; Tyler et al., 2011; Tyler & Marslen-Wilson, 2008;
+Tyler, Cheung, Devereux, & Clarke, 2013), in which LIFG
+functions to integrate component words into a coherent
+syntactic structure (Hagoort, 2005, 2013). In terms of cognitive competition processes, the LIFG has long been
+claimed to play a domain-general role of selection
+among competing representations (Badre, Poldrack,
+Pare-Blagoev, Insler, & Wagner, 2005; Miller & Cohen,
+2001; Thompson-Schill, Bedny, & Goldberg, 2005;
+Thompson-Schill, D'Esposito, Aguirre, & Farah, 1997).
+Supporting evidence has come from consistent activation of LIFG across various selection and competition
+studies, including lexical competition (Zhuang, Randall,
+Stamatakis, Marslen-Wilson, & Tyler, 2011; Zhuang,
+Tyler, Randall, Stamatakis, & Marslen-Wilson, 2014),
+semantic competition (Rodd, Davis, & Johnsrude, 2005),
+and sentential syntactic competition (January, Trueswell,
+& Thompson-Schill, 2008).
+To explore the relationship between brain mechanisms for lexico-phonological and lexico-syntactic processing, we performed an fMRI study in which participants
+listened and made lexical decisions to a series of
+spoken nouns and verbs, presented either in isolation
+or preceded by a short grammatical context. In the grammatical context condition, each noun and verb (e.g.
+"book", "examine") was preceded by a function word
+(e.g. "the", "you") which constrains the target word's
+form-class to either noun or verb (e.g. "the book", "you
+examine"). Compared to words presented in isolation,
+these minimal phrasal contexts should function to
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+reduce the cohort of word-form competitors of the stems
+to only those candidates which are form-class consistent
+with the phrasal context, as found in behavioural studies
+(Dahan et al., 2000; Tyler & Wessels, 1983). Any cohort
+competition effect found in the isolated word condition
+should be attenuated when isolated nouns and verbs
+occur in constraining contexts, because in these contexts
+a smaller number of grammatically congruent word candidates remain in the cohort. For syntactic competition,
+however, we predict a reverse activation pattern - a
+greater syntactic competition effect for verbs presented
+in phrases, where the phrasal context triggers the activation of competing argument structure possibilities
+for the verb, and a reduced syntactic competition
+effect for verbs presented in isolation, where verb
+lexico-syntactic knowledge is not relevant.
+Investigating lexico-phonological and syntactic processing through the prism of competition necessitates
+measures of both lexical competition over cohort
+members and syntactic competition over the parse possibilities consistent with a given utterance. For our
+stimuli, lexico-phonological competition is measured by
+"cohort size" - the number of word candidates in a
+cohort that share the same initial two phonemes with
+the target word (e.g. "/ael/" of "alligator") (Tyler, Voice,
+& Moss, 2000; Zhuang et al., 2011). Lexico-syntactic competition is competition over the different subcategorisation frame (i.e. argument structure) possibilities that are
+consistent with the verb. In cognitive psychology and
+cognitive neuroscience studies, the likelihood of different subcategorisation frames for verbs has typically
+been estimated from behavioural experiments, where,
+for example, participants write down continuations to
+incomplete sentences or rate sentences for naturalness
+(e.g. Connine, Ferreira, Jones, Clifton, & Frazier, 1984;
+Garnsey, Pearlmutter, Myers, & Lotocky, 1997; NovaisSantos et al., 2007; Shapiro et al., 1993). However, some
+studies suggest that the resultant behavioural frequencies may not provide an accurate reflection of the true
+frequency of occurrence of each subcategorisation
+frame with a given verb in corpus data (Merlo, 1994;
+Roland & Jurafsky, 1998). In particular, the probability
+that a participant chooses a particular frame for a verb
+may not reflect the frequency with which that frame is
+used with the verb in natural language. On the assumption that argument structure expectations associated
+with verbs reflect statistical data on people's experience
+of verbs in the language (Garnsey et al., 1997; Lapata,
+Keller, & Walde, 2001; Merlo, 1994), we utilised a novel
+approach to describing verb lexico-syntactic knowledge,
+where competition between different subcategorisation
+frame possibilities for a verb is measured by the
+entropy of the conditional probability distribution of
+
+223
+
+subcategorisation frames given the verb, estimated
+from corpus data. When the competing possibilities are
+equally likely, the entropy of the distribution will be
+high, and when one competitor is significantly more
+likely than the others, entropy will be low. If, as we
+predict, phrasal context triggers lexico-syntactic processing, then verbs with greater syntactic competition as
+measured by entropy should show greater activation in
+regions involved in competition and selection processes,
+such as LIFG. In contrast, for verbs in isolation we predict
+a reduced or null syntactic competition effect. Our predictions therefore posit a double-dissociation pattern
+for lexico-phonological and lexico-syntactic competition
+in the isolated words and phrases conditions.
+
+Methods
+Participants
+Sixteen healthy volunteers (5 males, 11 females, aged
+18-34 years) took part in this study. All were native
+speakers of British English with normal hearing and
+were right-handed (Edinburgh Handedness Inventory;
+Oldfield, 1971). They gave informed consent and were
+compensated for their time. This study was approved
+by the Cambridgeshire 3 Research Ethics Committee, UK.
+
+Design and materials
+We first selected a set of 160 nouns and 160 verbs from
+the CELEX database (Baayen, Piepenbrock, & van Rijn,
+1993). The nouns and verbs were matched in imageability, frequency, number of syllables, and number of phonemes. All words were form-class-unambiguous,
+meaning they could only occur as either a noun or
+verb, as determined by their frequencies in CELEX. We
+obtained measures of lexico-phonological competition
+for each noun and verb stem using cohort size, that is,
+the total number of words sharing the first two phonemes with the target word (e.g. "/ael/" of "alligator")
+(Tyler et al., 2000; Zhuang et al., 2011). Lexico-phonological competition increases when cohort size becomes
+larger with more word candidates competing with
+each other in the cohort.
+For verbs only, we also manipulated syntactic competition since each verb can be used with a variety of subcategorisation frame possibilities, which differ in their
+relative likelihood for the verb. Using VALEX, a lexicon
+of verb subcategorisation frame behaviour derived
+from large corpora (Korhonen, Krymolowski, & Briscoe,
+2006), we obtained the relative frequency with which
+each verb was used with the 163 subcategorisation
+frames specified by VALEX. We adopted an
+
+224
+
+J. ZHUANG AND B. J. DEVEREUX
+
+information-theoretic framework for measuring competition between subcategorisation frames, in which the
+notion of competition corresponds to the uncertainty
+or unpredictability associated with a verbs' relative frequency distribution over the frames. Specifically, we
+measured syntactic competition for verbs as the
+entropy over subcategorisation frame relative frequency
+distributions (see e.g. Moscoso del Prado Martin, Kostic, &
+Baayen, 2004; Tabak, Schreuder, & Baayen, 2005, for a
+similar approach to calculating uncertainty over inflection possibilities). For verbs that tend to have a few
+highly preferred frames (e.g. replace, with transitive
+frames) the entropy of the subcategorisation frame distribution will be very low, whereas for verbs that tend
+to be used equally often with many different frames
+(e.g. argue), the entropy of the subcategorisation frame
+distribution will be high (Figure 1).
+On the hypothesis that the activation of and competition between different subcategorisation frame options
+is an important factor in verb processing, we would
+expect that a verb that primarily occurs with a single
+frame and only rarely occurs with other frames differs
+from a verb that occurs with many frames with similar frequency, even if the verbs have the same number of subcategorisation frame options. Furthermore, by utilising a
+measure of verbs' syntactic behaviour derived from
+corpora, we avoid having to investigate syntactic processing effects through the use of syntactically or semantically anomalous conditions, such as designs with
+
+Figure 1. Relative frequency distribution across subcategorization frames (SCFs) for a low entropy verb ("replace") and a
+high entropy verb ("argue"). SCF codes refer to the subcategorisation frame classification scheme used in VALEX (Korhonen
+et al., 2006). "Replace" occurs with just two frames over 98%
+of the time; with the NP complement frame (SCF 24, e.g. "He
+replaced the door") and with the NP-PP frame (SCF 49, e.g.
+"He replaced the gold with silver"). "Argue" has high entropy
+because it occurs with many different frames; as well as the NP
+and NP-PP frames it also occurs with the intransitive frame
+(SCF 22; "They argued"), the sentential complement frame (SCF
+104; "He argued that it was wrong"), the PP frame (SCF 87, "He
+argued with me"), and so on.
+
+grammatical errors, violations of verb argument structure
+(Raettig, Frisch, Friederici, & Kotz, 2010), or implausible
+interpretations (Price, 2010). The entropy measure gives
+a continuous measure of syntactic competition, which
+was matched across the high and low cohort competition
+conditions of the experiment.
+Words were presented both as isolated stems and in
+phrases. For the phrasal condition, each word was preceded by a function word which constrained its formclass to either a noun or verb (e.g. "a monkey", "you
+examine"). Three articles ("a", "the", and "this") and
+three pronouns ("I", "they", and "you") were used as preceding contexts for the nouns and verbs in the phrase
+conditions, respectively. To avoid repetition of the
+same stem words across the isolated word condition
+and the phrase condition for any participant, the
+stimuli within each condition were divided into
+matched halves to form two experimental versions.
+Each participant only received one of the two versions,
+such that each participant heard all 320 nouns and
+verbs only once, half in the isolated stem condition
+and half in the phrase condition.
+Our use of a single one-syllable determiner or
+pronoun as the grammatical context in the phrase condition assumes that even such a minimal linguistic
+context is sufficient to trigger automatic syntactic processing of the verb (in particular, activation of verb subcategorisation frame possibilities) that is absent in the
+isolated word condition. Although a richer lexico-syntactic context (i.e. if the verb was embedded in a complete
+sentence) may make detailed lexico-syntactic processing
+of the verb more likely and even obligatory, a richer
+context would also introduce acoustic, semantic and syntactic structure variability that is irrelevant to our experimental questions and which would not be present in the
+isolated word condition. Previous research (Tyler et al.,
+2008) has shown that a minimal context is sufficient to
+generate increased activation for verbs relative to
+nouns and relative to verbs in isolation.
+We used a lexical decision task and included an equal
+number (320) of non-words as fillers, half of which were
+in the isolated word condition and half in the phrase condition with the same preceding pronouns and articles.
+We also included two baseline conditions, one of
+which was composed of 80 null events (silence), and
+the other of 280 items of envelope-shaped musical rain
+(MuR). Similar to speech, the MuR items contain a
+complex and rapidly changing frequency composition
+(Uppenkamp, Johnsrude, Norris, Marslen-Wilson, & Patterson, 2006). MuR can be used to separate low-level
+acoustic processing from lexical processing, as it activates the primary auditory receiving areas (Heschl's
+gyrus and planum temporale) to a similar level as
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+speech, but produces less activation than speech in secondary auditory regions such as the anterior and superior
+STS/STG (Scott, Blank, Rosen, & Wise, 2000; Tyler et al.,
+2010). One hundred and sixty of the MuR stimuli had
+normal pitch while the other 120 were made lowpitched by reducing the pitch of the original MuR
+items. This contrast enabled us to use a high/low judgement of pitch task with the MuR stimuli, which was
+chosen to approximate the attentional demands of the
+lexical decision task that was used with the words and
+non-words. Half of the MuR items were matched for duration to the real words, and the other half was matched
+for duration to phrases. Non-word and baseline items
+were the same across the two experimental versions.
+Noun and verb phrases were naturally longer (on
+average by 198 ms) than stems due to the presence of
+the function word. To account for this, duration was partialled out as an extraneous covariate in the analyses on
+both the behavioural and imaging data.
+
+Procedure
+The stimuli were recorded by a female native speaker of
+British English at a sampling rate of 44,100 Hz and downsampled (22,050 Hz, 16 bit resolution, Mono-channel) for
+presentation with the experimental software. To make
+the stimulus sounds as natural as possible, the words
+and non-words were recorded once in isolation and
+once in phrases, rather than splicing the isolated words
+from the recordings of the phrases. The mean duration
+was 628 ms (SD = 113 ms) for the isolated words and
+833 ms (SD = 123 ms) for the phrases.
+The experiment consisted of two versions. In each
+version half of the stimuli were presented as isolated
+words, and half as phrases. Half of the participants
+were randomly allocated to each version. Each experimental version was composed of 1000 items: 320 real
+words (160 stem words, 160 phrases), 320 non-words,
+280 musical rain items and 80 null events. The
+nonword filler and baseline items were randomly interspersed with the real word stimuli with the same order
+across the two versions.
+Spoken stimuli were delivered to participants during
+scanning via the high-quality Nordic Neuro Labs (NNL)
+electrostatic headphones. Participants were instructed
+to make a lexical decision to real words and nonwords in isolation or in phrases (i.e. the second word
+in the phrases) by pressing response keys using their
+right hand index finger for real words and middle
+finger for non-words, and also to the pitch of MuR
+items (normal pitch MuR or low-pitch MuR with index
+and middle fingers, respectively). No task was required
+on the silence trials. Participants were asked to
+
+225
+
+respond as quickly and accurately as possible on each
+trial. Response times were recorded from the beginning
+of the target word for both words in isolation and in
+phrases.
+
+MRI acquisition and imaging analysis
+Scanning was performed on a 3 T Tim Trio (Siemens,
+Munich, Germany) at the MRC Cognition and Brain
+Sciences Unit, Cambridge, UK, using a gradient-echo
+EPI sequence with head coils. Each functional scan consisted of 32 oblique axial slices, 3 mm thick (0.75 mm
+gap between slices) with in-plane resolution of 3 mm.
+Repetition time (TR) = 3.4 s, acquisition time (TA) = 2 s,
+echo time (TE) = 30 ms, flip angle 78, and field of view
+= 192 mm x 192 mm. MPRAGE T1-weighted scans were
+acquired for anatomical localisation.
+We used a fast sparse imaging protocol (Hall et al.,
+1999) in which speech sounds were presented in the
+1.4 seconds of silence between scans. There was a
+silent gap of 100 ms between the end of a scan and
+the onset of the subsequent stimulus, minimising the
+influence of preceding scanning noise on the perception
+of the speech sounds, especially their onsets. The time
+between successive stimuli was naturally jittered under
+this protocol since the duration of each stimulus varies,
+which increases the chance of sampling the peak of
+the haemodynamic response.
+Pre-processing and statistical analysis were carried
+out in SPM5 (Wellcome Institute of Cognitive Neurology,
+London, UK. www.fil.ion.ucl.ac.uk), under MATLAB
+(Mathworks Inc., Sherborn, MA, USA). EPI images were
+realigned to the first EPI image (excluding five initial
+lead-in images) to correct for head motion, then spatially
+normalised to a standard MNI (Montreal Neurological
+Institute) EPI template, using a cutoff of 25 mm for the
+discrete cosine transform functions. Statistical modelling
+was done in the context of the general linear model as
+implemented in SPM5, using a 8 mm full-width halfmaximal Gaussian smoothing kernel.
+In the fixed effect analysis for each participant, we
+used a parametric modulation design (Buchel, Wise,
+Mummery, Poline, & Friston, 1996; Henson, 2003) to
+model the experimental conditions. Two analyses were
+performed with the first model focussing on phrasal
+context effect and cohort competition (cohort size)
+effect over nouns and verbs, and the second model on
+lexico-syntactic competition (entropy) effect for the
+verbs (the two analyses reflect the fact that cohort size
+is defined for both nouns and verbs but subcategorisation frame entropy is defined only for the verbs). In the
+first analysis, the design matrix of each scanning
+session consisted of five independent events (isolated
+
+226
+
+J. ZHUANG AND B. J. DEVEREUX
+
+words, word phrases, non-words, MuR, and null events)
+with the first two events (isolated words, word phrases)
+modulated by three parametric modulators: stimulus
+duration, word frequency, and cohort size (log-transformed). All three modulators were composed of continuous data, and they were orthogonolised in a serial
+order from left to right, so the duration and frequency
+difference among items was partialled out for the
+effect of cohort competition (as is standard for SPM parametric modulator analysis). In the second analysis, the
+design matrix of each scanning session consisted of six
+independent events (verbs in isolation, verb phrases,
+nouns, non-words, MuR, and null events) with the first
+two events (verbs in isolation, verb phrases) modulated
+by three parametric modulators: stimulus duration,
+word frequency, and syntactic competition (entropy).
+As in the first analysis, all modulators were composed
+of continuous data, and they were orthogonolised in
+the same serial order (stimulus duration and word frequency were partialled out for the effect of syntactic
+competition).
+In addition to the syntactic competition effect,
+another approach to investigating the neural basis of
+syntactic representation is to compare nouns and
+verbs. Verbs substantially differ from nouns in that they
+serve a key grammatical function in sentences by combining other words in a sentence into a coherent representation. Because of the rich grammatical
+information in verbs (such as information about licenced
+and preferred argument structures) which is absent in
+nouns, comparing nouns and verbs provides an
+additional means of exploring the neural substrate of
+syntactic processing. An additional analysis was therefore performed to contrast nouns and verbs. The
+design matrix of each scanning session was composed
+of four independent events (all words, non-words, MuR,
+and null events) with the first event modulated by six
+modulators: stimulus duration, word frequency, nouns
+in isolation, verbs in isolation, noun phrases, and verb
+phrases. All the modulators were treated in parallel,
+with each modulator orthogonolised against all other
+modulators. For each of the four experimental modulators, stimulus duration and word frequency were partialled out as extraneous variables.
+Trials were modelled using a canonical haemodynamic response function, and the onset of each stimulus was taken as the onset of the trial in the SPM analysis
+model. For word phrases, we took the beginning of the
+function words as trial onset since the mean duration
+of the function words was only 215 ms and BOLD
+signals are insensitive to such short time differences.
+The data for each participant were first analysed using
+the fixed effects model and then combined into a
+
+group random effects analysis. Activations were thresholded at p < .005, uncorrected, at the voxel level, and
+significant clusters are reported only when they survive
+p < .05, cluster-level corrected for multiple comparisons,
+unless otherwise stated. SPM coordinates are reported
+in MNI space. Regions were identified by using the AAL
+atlas (Tzourio-Mazoyer et al., 2002) and Brodmann templates as implemented in MRIcron (http://www.MRicro.
+com/MRicron).
+Since this study was aimed at investigating modulation within the language processing network, a bilateral fronto-temporo-parietal mask was applied to all
+the contrasts in the group random effects analyses
+(Bozic, Tyler, Su, Wingfield, & Marslen-Wilson, 2013;
+Diaz et al., 2014; Zhuang et al., 2011). This mask consisted
+of bilateral IFG (BA 44, 45, 47), insula, anterior cingulate,
+STG, MTG, angular gyri, inferior parietal lobule, and
+supramarginal gyri. The mask covered the typical left
+perisylvian language areas that are of theoretical interest
+and their right hemisphere homologues (Dronkers et al.,
+2004; Friederici, 2012; Hickok & Poeppel, 2004, 2007;
+Petersson & Hagoort, 2012; Tyler & Marslen-Wilson,
+2008), while excluding regions not typically involved in
+language processing. For visualisation, the volumetric
+statistically thresholded activation maps were projected
+onto the PALS-B12 surface atlas in CARET version 5.6.
+
+Results
+Behavioural results
+The data from two stimulus items ("hurtle", "you renege")
+were removed due to high error rate (100%). Only data
+from correct responses (93.6%) were included in the
+reaction time analyses. The reaction times were
+inverse-transformed to account for the outliers in the
+data (Ratcliff, 1993; Ulrich & Miller, 1994), then analysed
+across items (F2). Error analyses are not reported as the
+overall error rate is quite low (5.4%), and not more
+than 9.0% in any of the experimental conditions.
+As duration was significantly correlated with RTs (r =
+0.29, p < .001), we partialled it out as a covariate in the
+analyses. In an ANCOVA on all items with duration partialled out, there was a significant effect of phrasal
+context, F2(1, 633) = 7.37, p < .01, with word phrases
+(mean RT = 891 ms) being recognised faster (16 ms)
+than words in isolation (mean RT = 907 ms), indicating
+a facilitatory effect of grammatical context. Cohort size
+(log-transformed) significantly correlated with RTs for
+words in isolation, r = 0.12, p < .05, but not for word
+phrases, r = -0.001, p > .1. To test whether the
+correlation between cohort size and RT for words in isolation differed from the correlation between cohort size
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+and RT for words in phrases, we performed a Steiger's Z
+test for non-independent correlations (Steiger, 1980;
+www.psychmike.com/dependent_correlations.php), and
+observed a significant difference (Z = 2.09, p = .036), indicating that increasing cohort competition inhibited the
+recognition process of words in isolation, but not
+words in phrases. In other words, phrasal contexts facilitate spoken word recognition by eliminating form-class
+inappropriate candidates and in doing so attenuate the
+influence of cohort competition. The correlation
+between RTs and syntactic competition (entropy) for
+verbs in isolation was not significant, r = -.05, p > .1,
+nor was it significant for verb phrases, r = -0.06, p > .1.
+The absence of syntactic competition effects indicate
+that the behavioural data collected for the lexical
+decision task during scanning may not be sensitive to
+lexico-syntactic information.
+
+Imaging results
+We first established that the task and stimuli elicited activation within those regions of the brain typically activated in language tasks by directly contrasting the
+activation resulting from MuR items (compared to
+silence) and real words (including all isolated words
+and phrases, compared to MuR). The contrast of MuR
+minus silence tapped into the neural basis of low-level
+acoustic processing, whilst words minus MuR examined
+the fundamental features of the spoken language processing network over and above that due to sound processing. Greater neural activation for MuR items
+compared to silence was focussed primarily in the bilateral STG (BA 41, 42, 22), extending into bilateral MTG (BA
+22, 21), inferior parietal lobule and supramarginal gyri
+(BA 40) and LIFG (BA 45). These results replicate previous
+studies showing that the purely acoustic features of
+speech-like sounds (as represented by MuR) are processed mainly in bilateral STG around Heschl's gyrus.
+Words were associated with significantly greater activation than MuR primarily along bilateral MTG (BA 21,
+22), extending into bilateral anterior STG (BA 22, 38)
+and LIFG (BA 44, 45, 47). In accordance with previous
+studies (e.g. Davis & Johnsrude, 2003), these two
+effects show a hierarchical activation pattern with lowlevel acoustic information analysed in bilateral Heschl's
+gyri and surrounding STG, while more inferior and
+anterior regions (e.g. bilateral MTG, LIFG) are involved
+in higher level lexical processing.
+To investigate the effect of phrasal context, we subtracted words in isolation from word phrases, while partialling out stimulus duration as an extraneous variable.
+Word phrases elicited more activation than isolated
+words in LIFG (BA 44, 45, 47), and left middle and
+
+227
+
+posterior MTG (BA 21, 22) (Table 1 and Figure 2(a)). The
+IFG activation is consistent with previous findings on syntactic processing (e.g. Caplan, Alpert, Waters, & Olivieri,
+2000; Hagoort, 2005; Santi & Grodzinsky, 2010;
+Thothathiri, Kim, Trueswell, & Thompson-Schill, 2012;
+Tyler et al., 2010, 2011). To visualise the phrasal context
+effect, we took the significant clusters (Figure 2(a)) as
+ROIs (regions of interest) using MarsBaR (http://
+marsbar.sourceforge.net/), and extracted the mean
+value of activation within the ROIs for words in isolation
+and word phrases separately (Figure 2(b)).
+To examine the brain mechanisms of lexico-phonological competition and whether this competition effect
+varied as a function of phrasal contexts, we correlated
+cohort size with neural activation in the isolated word
+and phrase conditions, separately. For isolated words,
+increasing cohort competition generated greater activation in the LIFG (BA 45), bilateral posterior MTG/STG
+(BA 21, 22), extending into left supramarginal gyrus
+and inferior parietal lobule (BA 40) (Table 1 and
+Figure 3(a)). However, for the phrases there was no significant effect of cohort competition even at a lower
+voxel threshold of p <.01, uncorrected, and p < .05,
+cluster-level corrected. We performed an interaction
+analysis by subtracting the cohort competition effect in
+phrases from the cohort competition effect in isolated
+words, and observed a significant effect in the LIFG (BA
+44, 45) and bilateral posterior regions including posterior
+MTG/STG, supramarginal gyri and angular gyri (BA 21, 22,
+39; see Table 1 and Figure 3(b)).
+We further investigated the cohort competition effect
+using independent ROIs from previous research on
+lexical competition (Bozic, Tyler, Ives, Randall, &
+Marslen-Wilson, 2010). We constructed two ROIs based
+on the competition effect activation peaks ([-48 18 4]
+and [54 30 0], in LIFG and RIFG) reported by Bozic et al.
+(2010) with a sphere of radius 10 mm. We then extracted
+the mean activity of each ROI in the isolated word and
+phrase conditions, respectively. As shown in Figure 3(c),
+and consistent with the interaction effect reported
+above, neural activity for isolated words was significantly
+higher than that in the phrase condition in the LIFG ROI,
+t(15) = 4.08, p < .001, and also in the RIFG ROI, t(15) =
+2.03, p < .05.
+As described above, we investigated the neural signatures of lexico-syntactic processing in two ways: by investigating the syntactic competition (entropy) effect within
+the verbs alone and by contrasting verbs and nouns. We
+correlated neural activity and syntactic competition for
+verbs in isolation and phrase conditions, separately,
+and found no significant effects of syntactic competition
+for verbs in isolation even when we lowered the
+threshold to p < .01, voxel-level uncorrected, and
+
+228
+
+J. ZHUANG AND B. J. DEVEREUX
+
+Table 1. Areas of activity for phrasal syntactic effect, cohort competition effect in isolated words, and entropy effect in verb phrases.
+Cluster-level
+Regions
+
+Coordinates
+
+Pcor
+
+Extent
+
+Voxel-level Pcor
+
+Z
+
+x
+
+y
+
+z
+
+<0.001
+
+1270
+
+0.001
+
+654
+
+0.059
+0.812
+0.859
+0.113
+0.385
+0.744
+
+4.5
+3.42
+3.36
+4.3
+3.86
+3.5
+
+-34
+-50
+-40
+-58
+-48
+-44
+
+34
+12
+22
+-20
+-40
+-46
+
+-2
+12
+20
+-2
+2
+10
+
+Cohort competition effect in isolated words
+L pMTG, pSTG, SMG, IPL
+21, 22, 40
+
+<0.001
+
+1638
+
+R pMTG, pSTG
+
+21, 22
+
+<0.001
+
+1172
+
+LIFG
+
+45
+
+0.026
+
+399
+
+0.162
+0.481
+0.515
+0.283
+0.544
+0.547
+0.288
+0.784
+0.881
+
+4.15
+3.72
+3.68
+3.95
+3.66
+3.65
+3.94
+3.41
+3.28
+
+-64
+-50
+-50
+50
+46
+46
+-44
+-42
+-46
+
+-48
+-28
+-68
+-52
+-46
+-36
+24
+22
+14
+
+20
+44
+10
+18
+12
+14
+4
+12
+2
+
+0.216
+0.596
+0.785
+0.807
+0.927
+0.962
+0.825
+0.843
+0.896
+
+4.05
+3.61
+3.41
+3.38
+3.19
+3.1
+3.36
+3.34
+3.25
+
+-50
+-44
+-58
+-48
+-62
+-54
+46
+48
+44
+
+18
+22
+12
+-56
+-50
+-50
+-50
+-58
+-42
+
+8
+4
+16
+16
+24
+30
+16
+22
+12
+
+0.01
+0.025
+0.036
+0.022
+0.23
+
+4.64
+4.42
+4.33
+4.46
+3.77
+
+-42
+-54
+-52
+-50
+-64
+
+28
+18
+12
+-44
+-26
+
+2
+12
+18
+8
+2
+
+0.439
+0.666
+0.924
+
+3.8
+3.58
+3.24
+
+-38
+-46
+-38
+
+0
+30
+34
+
+24
+2
+8
+
+Word phrases minus isolated words
+LIFG
+44, 45, 47
+LMTG
+
+21, 22
+
+Interaction: cohort competition effect in isolated words minus that in phrases
+LIFG
+44, 45
+0.005
+567
+L pMTG, pSTG, SMG, AG
+
+21, 22, 39
+
+0.003
+
+638
+
+R pMTG, pSTG, SMG, AG
+
+21, 22, 39
+
+0.002
+
+667
+
+Positive correlation from isolated nouns to isolated verbs and verb phrases
+LIFG
+44, 45, 47
+<0.001
+1673
+L MTG, STG
+
+21, 22
+
+0.01
+
+813
+
+Entropy effect in verb phrases
+LIFG
+
+44, 45
+
+0.001
+
+733
+
+p < .05, cluster-level corrected. In contrast, there was a
+significant syntactic competition effect for verbs in
+phrases in LIFG (BA 44, 45) (Table 1 and Figure 4(a)),
+with greater activation in this frontal region for increasing syntactic competition. However, no clusters survived
+
+correction for the whole-brain interaction effect. In the
+ROI analysis of the interaction effect using the same
+LIFG and RIFG ROIs as used in the cohort competition
+analysis, there was greater effect of syntactic competition in the verb phrases than isolated verbs condition
+
+Figure 2. (a) Significant activation for the contrast of word phrases minus isolated words at p < .005, voxel-level uncorrected, and
+p < .05, cluster-level corrected. Shaded areas indicate the extent of the language mask. (b) Plot of the mean activation of isolated
+words and phrases conditions in the significant clusters of (a). Error bars are standard error across subjects.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+229
+
+Figure 3. (a) Significant activation for the effect of cohort competition in isolated words at p < .005, voxel-level uncorrected, and
+p < .05, cluster-level corrected (b) Significant interaction effect for cohort competition x stimulus type (isolated words vs. phrases)
+(c) Plot of the cohort competition effect in the LIFG and RIFG ROIs from Bozic et al. (2010) across isolated words and phrases.
+
+in the LIFG ROI, t(15) = 1.83, p < .05, but not in the RIFG
+ROI, t(15) < 1 (Figure 4(b)). The different entropy effects
+for the isolated verbs and phrases in the LIFG ROI
+suggest that activation of lexico-syntactic information
+associated with verbs is triggered when the word is
+heard as part of a phrase but not when it is heard in isolation (Tyler et al., 2008).
+In comparing nouns to verbs, no significant differences were found between isolated nouns and isolated
+verbs, nor between noun phrases and verb phrases,
+suggesting that no grammatical effect survived in
+direct comparisons. However, grammatical information
+might be partially activated for verbs in isolation,
+showing an intermediate level of activation between isolated nouns and verb phrases. To test this possibility, we
+performed a correlational analysis with isolated nouns,
+isolated verbs and verb phrases as three graded levels
+(1, 2, 3), and found a significant positive correlational
+
+effect in the LIFG (BA 44, 45, 47) and left posterior
+MTG/STG (BA 21, 22) (Table 1 and Figure 5(a)). To visualise the differences between the three levels, mean neural
+activity in these two significant clusters was extracted in
+each experimental condition using MarsBaR, then
+plotted as shown in Figure 5(b). These results demonstrate a linear relationship among these conditions with
+increasing activation in left fronto-temporal regions
+from isolated nouns to isolated verbs, to verb phrases.
+
+Discussion
+In this study we investigated how phrasal contexts affect
+lexico-phonological (measured by cohort size) and
+lexico-syntactic processing (measured by entropy) in
+spoken word recognition. We found a significant effect
+of phrasal syntax with word phrases producing more
+activation than words in isolation in LIFG (BA 45/44/47)
+
+230
+
+J. ZHUANG AND B. J. DEVEREUX
+
+Figure 4. (a) Significant activation for the effect of syntactic competition (entropy) in verb phrases at p < .005, voxel-level uncorrected,
+and p < .05, cluster-level corrected. (b) Plot of the syntactic competition effect in the LIFG and RIFG ROIs from Bozic et al. (2010) across
+isolated verbs and phrases.
+
+Figure 5. (a) Significant activation for a linear correlation from isolated nouns to isolated verbs and verb phrases at p < .005, voxel-level
+uncorrected, and p < .05, cluster-level corrected. (b) Plot of mean activation of each condition in the significant clusters in (a).
+
+and left middle and posterior MTG (BA 21, 22). There was
+a significant cohort competition effect in LIFG (BA 45)
+and bilateral posterior temporal regions for isolated
+words, but not in word phrases. In the ROI analysis, the
+cohort competition effects was reduced for phrasal contexts in both LIFG and RIFG ROIs. For lexico-syntactic
+competition processing, the activation pattern was
+reversed - there was a significant entropy effect for
+verbs in phrases, with greater activation in the LIFG ROI
+(BA 44, 45) for increasing syntactic competition;
+however, this effect was not significant for verbs in
+isolation.
+The LIFG activation for cohort competition for words
+in isolation replicates previous findings with the same
+cohort competition measure (Zhuang et al., 2011).
+
+More broadly, this finding accords with previous
+studies that implicate these frontal regions in resolving
+competition and selecting among multiple candidates
+(e.g. Bozic et al., 2010; Moss et al., 2005; ThompsonSchill et al., 2005). The activation in bilateral temporal
+regions might be related to the extra demands of retrieving lexical phonological and semantic information of
+more cohort candidates in the high compared to low
+competition items, since these regions have been
+claimed to be involved in lexical access of spoken
+words (e.g. Hickok & Poeppel, 2007; Jung-Beeman,
+2005; Longworth, Marslen-Wilson, Randall, & Tyler,
+2005). The eliminated cohort competition effect in
+word phrases is consistent with a role of contextual constraints that function to narrow down the initial cohort
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+size and thus reduce cohort competition. In addition, the
+onsets of the isolated words may be more salient than
+the onsets of the same words in phrases due to co-articulation between the nouns/verbs and preceding functional words. The less salient onsets of nouns/verbs in
+phrases might induce activation of word candidates
+both within and outside the cohort. The additional activation of non-cohort competitors might have an effect
+on the level of cohort competition in phrases, but the
+mechanisms remain unclear since no evidence has
+shown that non-cohort competitors would prohibit activation of cohort members, or reduce effects of withincohort competition. There was a significant correlational
+effect with increasing activation in the LIFG and left posterior MTG/STG when grammatical/syntactic information
+increased from isolated nouns to isolated verbs and verb
+phrases. This indicates that grammatical information is
+automatically activated to a limited extent in verbs in isolation, although it was not detectable in direct comparisons between nouns and verbs. In this study we only
+chose form-class-unambiguous nouns and verbs as
+stimuli without any form-class-ambiguous words which
+could be used as both nouns and verbs in different contexts. The grammatical information is relatively more
+easily detected in pure verbs without interference from
+other syntactic properties, compared to ambiguous
+words (i.e. words that can be either verb or noun, e.g.
+kiss) with multiple possible syntactic roles, only one of
+which is sensitive to subcategorisation frame information. This might explain why previous research did
+not find a similar weak grammatical effect in verbs in isolation compared to nouns (e.g. Tyler et al., 2008). One
+caveat for this correlational effect is that isolated nouns
+and isolated verbs might also differ from each other in
+other aspects such as activation levels of action representations, attention, and so on. It is impossible to avoid
+these potential confounds in analyses with nouns and
+verbs.
+The activation of LIFG (BA 45/44) for syntactic competition for verbs in phrases accords with previous studies
+that implicate these frontal regions in resolving competition and selecting among multiple candidates (Bozic
+et al., 2010; Moss et al., 2005; Thompson-Schill et al.,
+2005; Thothathiri et al., 2012). This effect, together with
+the null effect of lexico-syntactic competition for verbs
+in isolation, is also consistent with the notion that
+neural processing of words is modulated by the extent
+to which different kinds of relevant (e.g. morphological
+or syntactic) information is engaged (Longe et al., 2007;
+Tyler et al., 2008). Lexico-syntactic knowledge of a
+spoken verb is boosted in a phrasal context because
+such information is needed to guide phrase structure
+building for the emerging utterance, whereas it is not
+
+231
+
+necessary to fully activate lexico-syntactic representations for a verb heard in isolation (although it might
+be automatically activated to a very limited extent)
+because there is no such need of grammatical integration. Only when multiple subcategorisation frame
+possibilities are triggered and activated by phrasal contexts could we detect effects of syntactic competition.
+The co-activation of left inferior frontal and posterior
+temporal regions seems to be critical for syntactic representation, both in sentential syntactic processing and
+in short phrasal syntactic processing (Tyler et al., 2008;
+Tyler & Marslen-Wilson, 2008). The phrasal syntax effect
+and the correlational syntactic effect in this study
+provide further evidence supporting this claim in that
+even very simple function words (e.g. "you") could
+trigger both LIFG and left middle and posterior MTG to
+work together in building syntactic structures.
+However, the co-activation pattern of left fronto-temporal regions was not consistently observed in cohort
+competition and lexico-syntactic competition effects,
+indicating that the LIFG itself might fulfil the function
+of selection, with the posterior temporal regions in
+cohort competition more involved in the retrieval of relevant lexical information.
+The cohort competition effect was significant in both
+LIFG and RIFG in the ROI analysis; however, the syntactic
+competition effect was significant only in LIFG. This
+pattern of results suggests that RIFG may be sensitive to
+competition at a lexico-phonological level, but not at
+the syntactic level. This is consistent with the dual
+system model (Bozic et al., 2010; Tyler & Marslen-Wilson,
+2008) which posits that a bilateral fronto-temporal
+system is engaged in basic non-combinatorial processes
+of lexico-phonological access, whilst a left-lateralised
+system is specialised for combinatorial linguistic processes, such as syntax.
+One notable finding of this study is that the phrasal
+contexts effect, the correlational syntactic effect, the
+cohort competition effect for isolated words and
+entropy effect for verb phrases overlap largely in a subregion of LIFG - L triangularis (BA 45). L triangularis (BA
+45) might be the most frequently reported sub-region
+of LIFG for multiple cognitive functions, including
+general control or selection processing (Badre et al.,
+2005; Bozic & Marslen-Wilson, 2010; Moss et al., 2005;
+Righi, Blumstein, Mertus, & Worden, 2009; Schnur et al.,
+2009; Thompson-Schill et al., 1997; Thompson-Schill,
+Aguirre, Desposito, & Farah, 1999; Wright, Randall,
+Marslen-Wilson, & Tyler, 2010; Zhuang et al., 2011) and
+syntactic processing (e.g. Friederici, Bahlmann, Heim,
+Schubotz, & Anwander, 2006; Kaan & Swaab, 2002;
+Santi & Grodzinsky, 2007; Tyler et al., 2011). This finding
+provides direct evidence to support this notion that L
+
+232
+
+J. ZHUANG AND B. J. DEVEREUX
+
+triangularis (BA 45) is engaged, at multiple linguistic
+levels, in selecting an appropriate candidate among
+competitors and combining several constitutes into a
+coherent representation.
+In summary, this study demonstrates that phrasal
+contexts function to eliminate cohort competition in
+recognition of spoken words and boost activation of
+lexico-syntactic properties within interactive bilateral
+fronto-temporal processing systems. The LIFG is a critical
+language region with multiple functions in building syntactic structure, and in resolving lexical and syntactic
+competition according to different processing needs.
+
+Acknowledgements
+We thank Mrs Marie Dixon for recording the spoken stimuli, the
+radiographers at MRC Cognition and Brain Sciences Unit for
+their help with scanning, and all participants involved in this
+study. We thank Lorraine K. Tyler for her comments on the
+manuscript.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+Funding
+This research was funded by an EPSRC, UK, grant to Lorraine K.
+Tyler [grant number EP/F030061/1], and by the European
+Research Council under the European Commission Seventh Framework Programme (FP7/2007- 2013) [grant number 249640]
+to Lorraine K. Tyler.
+
+References
+Baayen, R., Piepenbrock, R., & van Rijn, H. (1993). The CELEX
+lexical data base on CD-ROM. Linguistic Data Consortium.
+Badre, D., Poldrack, R. A., Pare-Blagoev, E. J., Insler, R. Z., &
+Wagner, A. D. (2005). Dissociable controlled retrieval and
+generalized selection mechanisms in ventrolateral prefrontal
+cortex. Neuron, 47(6), 907-918. Retrieved from http://doi.org/
+10.1016/j.neuron.2005.07.023
+Boatman, D. (2004). Cortical bases of speech perception:
+Evidence from functional lesion studies. Cognition, 92(1-2),
+47-65. Retrieved from http://doi.org/10.1016/j.cognition.
+2003.09.010
+Bozic, M., & Marslen-Wilson, W. D. (2010). Neurocognitive contexts for morphological complexity: Dissociating inflection
+and derivation. Language and Linguistics Compass, 4(11),
+1063-1073. Retrieved from http://doi.org/10.1111/j.1749818X.2010.00254.x
+Bozic, M., Tyler, L. K., Ives, D. T., Randall, B., & Marslen-Wilson, W. D.
+(2010). Bihemispheric foundations for human speech comprehension. Proceedings of the National Academy of Sciences.
+Retrieved from http://doi.org/10.1073/pnas.1000531107
+Bozic, M., Tyler, L. K., Su, L., Wingfield, C., & Marslen-Wilson, W.
+D. (2013). Neurobiological systems for lexical
+
+representation and analysis in English. Journal of
+Cognitive Neuroscience, 1-14. Retrieved from http://doi.
+org/10.1162/jocn_a_00420
+Buchel, C., Wise, R. J. S., Mummery, C. J., Poline, J. B., & Friston, K.
+J. (1996). Nonlinear regression in parametric activation
+studies. NeuroImage, 4(1), 60-66. Retrieved from http://doi.
+org/10.1006/nimg.1996.0029
+Caplan, D., Alpert, N., Waters, G., & Olivieri, A. (2000). Activation
+of Broca's area by syntactic processing under conditions of
+concurrent articulation. Human Brain Mapping, 9(2), 65-71.
+Clifton, C., Frazier, L., & Connine, C. (1984). Lexical expectations
+in sentence comprehension. Journal of Verbal Learning and
+Verbal Behavior, 23(6), 696-708. Retrieved from https://doi.
+org/10.1016/S0022-5371(84)90426-2
+Connine, C., Ferreira, F., Jones, C., Clifton, C., & Frazier, L. (1984).
+Verb frame preferences: Descriptive norms. Journal of
+Psycholinguistic Research, 13(4), 307-319. Retrieved from
+http://doi.org/10.1007/BF01076840
+Dahan, D., Swingley, D., Tanenhaus, M. K., & Magnuson, J. S.
+(2000). Linguistic gender and spoken-word recognition in
+French. Journal of Memory and Language, 42(4), 465-480.
+Retrieved from http://doi.org/10.1006/jmla.1999.2688
+Davis, M. H., & Johnsrude, I. S. (2003). Hierarchical processing in
+spoken language comprehension. The Journal of
+Neuroscience, 23(8), 3423-3431.
+Diaz, M. T., Hogstrom, L. J., Zhuang, J., Voyvodic, J. T., Johnson,
+M. A., & Camblin, C. C. (2014). Written distractor words influence brain activity during overt picture naming. Frontiers in
+Human Neuroscience, 8. Retrieved from http://doi.org/10.
+3389/fnhum.2014.00167
+Dronkers, N. F., Wilkins, D. P., Van Valin Jr., R. D., Redfern, B. B., &
+Jaeger, J. J. (2004). Lesion analysis of the brain areas involved
+in language comprehension. Cognition, 92(1-2), 145-177.
+Retrieved from http://doi.org/10.1016/j.cognition.2003.11.002
+Ferreira, F., & Clifton, C. (1986). The independence of syntactic
+processing. Journal of Memory and Language, 25(3), 348-
+368. Retrieved from https://doi.org/10.1016/0749-596X(86)
+90006-9
+Friederici, A. D. (2012). The cortical language circuit: From auditory perception to sentence comprehension. Trends in
+Cognitive Sciences, 16(5), 262-268. Retrieved from http://
+doi.org/10.1016/j.tics.2012.04.001
+Friederici, A. D., Bahlmann, J., Heim, S., Schubotz, R. I., &
+Anwander, A. (2006). The brain differentiates human and
+non-human grammars: Functional localization and structural
+connectivity. Proceedings of the National Academy of Sciences
+of the United States of America, 103(7), 2458-2463. Retrieved
+from http://doi.org/10.1073/pnas.0509389103
+Garnsey, S. M., Pearlmutter, N. J., Myers, E., & Lotocky, M. A.
+(1997). The contributions of verb bias and plausibility to
+the comprehension of temporarily ambiguous sentences.
+Journal of Memory and Language, 37(1), 58-93. Retrieved
+from http://doi.org/10.1006/jmla.1997.2512
+Gaskell, M. G., & Marslen-Wilson, W. D. (1997). Integrating form
+and meaning: A distributed model of speech perception.
+Language and Cognitive Processes, 12(5), 613-656.
+Hagoort, P. (2005). On Broca, brain, and binding: A new framework. Trends in Cognitive Sciences, 9(9), 416-423. Retrieved
+from http://doi.org/10.1016/j.tics.2005.07.004
+Hagoort, P. (2013). MUC (Memory, Unification, Control) and
+beyond. Language Sciences, 4, 416. Retrieved from http://
+doi.org/10.3389/fpsyg.2013.00416
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+Hall, D. A., Haggard, M. P., Akeroyd, M. A., Palmer, A. R.,
+Summerfield, A. Q., Elliott, M. R., ... Bowtell, R. W. (1999).
+"Sparse" temporal sampling in auditory fMRI. Human Brain
+Mapping, 7(3), 213-223.
+Henson, R. N. A. (2003). Analysis of fMRI time series: Linear timeinvariant models, event-related fMRI and optimal experimental design. In R. S. J. Frackowiak, K. J. Friston, C. Frith, R. Dolan,
+& C. Price (Eds.), Human brain function (pp. 793-822).
+London: Elsevier. Retrieved from http://discovery.ucl.ac.uk/
+182375/
+Hickok, G. (2012). Computational neuroanatomy of speech production. Nature Reviews Neuroscience, 13(2), 135-145.
+Retrieved from http://doi.org/10.1038/nrn3158
+Hickok, G., & Poeppel, D. (2004). Dorsal and ventral streams: A
+framework for understanding aspects of the functional
+anatomy of language. Cognition, 92(1-2), 67-99. Retrieved
+from http://doi.org/10.1016/j.cognition.2003.10.011
+Hickok, G., & Poeppel, D. (2007). The cortical organization of
+speech processing. Nature Reviews Neuroscience, 8(5), 393-
+402. Retrieved from http://doi.org/10.1038/nrn2113
+Indefrey, P., & Levelt, W. J. M. (2004). The spatial and temporal
+signatures of word production components. Cognition, 92
+(1-2), 101-144. Retrieved from http://doi.org/10.1016/j.
+cognition.2002.06.001
+January, D., Trueswell, J. C., & Thompson-Schill, S. L. (2008). Colocalization of stroop and syntactic ambiguity resolution in
+Broca's Area: Implications for the Neural basis of sentence
+processing. Journal of Cognitive Neuroscience, 21(12), 2434-
+2444. Retrieved from http://doi.org/10.1162/jocn.2008.21179
+Jung-Beeman, M. (2005). Bilateral brain processes for comprehending natural language. Trends in Cognitive Sciences, 9
+(11), 512-518. Retrieved from http://doi.org/10.1016/j.tics.
+2005.09.009
+Kaan, E., & Swaab, T. Y. (2002). The brain circuitry of syntactic
+comprehension. Trends in Cognitive Sciences, 6(8), 350-356.
+Retrieved from http://doi.org/10.1016/S1364-6613(02)01947-2
+Korhonen, A., Krymolowski, Y., & Briscoe, T. (2006). A large subcategorization Lexicon for natural language Processing
+applications. In Proceedings of the 5th International
+Conference on Language Resources and Evaluation. Genova,
+Italy. Retrieved from http://doi.org/10.1.1.112.5020
+Lapata, M., Keller, F., & Walde, S. S. (2001). Verb frame frequency
+as a predictor of verb bias. Journal of Psycholinguistic
+Research, 30(4), 419-435.
+Longe, O., Randall, B., Stamatakis, E. A., & Tyler, L. K. (2007).
+Grammatical categories in the brain: The role of morphological
+structure. Cerebral Cortex (New York, N.Y.: 1991), 17(8), 1812-
+1820. Retrieved from http://doi.org/10.1093/cercor/bhl099
+Longworth, C. E., Marslen-Wilson, W. D., Randall, B., & Tyler, L. K.
+(2005). Getting to the meaning of the regular past tense:
+Evidence from neuropsychology. Journal of Cognitive
+Neuroscience, 17(7), 1087-1097. Retrieved from http://doi.
+org/10.1162/0898929054475109
+Luce, P. A., & Pisoni, D. B. (1998). Recognizing spoken words: The
+neighborhood activation model. Ear and Hearing, 19(1), 1-36.
+Macdonald, M. (1992). Working memory constraints on the processing of syntactic ambiguity*1. Cognitive Psychology, 24(1),
+56-98. Retrieved from https://doi.org/10.1016/0010-0285
+(92)90003-K
+MacDonald, M. C., Pearlmutter, N. J., & Seidenberg, M. S. (1994).
+Lexical nature of syntactic ambiguity resolution.
+Psychological Review, 101(4), 676-703.
+
+233
+
+Magnuson, J. S., Tanenhaus, M. K., & Aslin, R. N. (2008).
+Immediate effects of form-class constraints on spoken
+word recognition. Cognition, 108(3), 866-873. Retrieved
+from https://doi.org/10.1016/j.cognition.2008.06.005
+Marslen-Wilson, W. D. (1973). Linguistic structure and speech
+shadowing at very short latencies. Nature, 244(5417), 522-
+523. Retrieved from http://doi.org/10.1038/244522a0
+Marslen-Wilson, W. D. (1987). Functional parallelism in spoken
+word-recognition. Cognition, 25(1-2), 71-102. Retrieved
+from http://doi.org/10.1016/0010-0277(87)90005-9
+Marslen-Wilson, W. D., & Tyler, L. K. (1980). The temporal structure of spoken language understanding, 1-71.
+Marslen-Wilson, W. D., & Welsh, A. (1978). Processing interactions
+and lexical access during word recognition in continuous speech.
+Retrieved from http://www.eric.ed.gov/ERICWebPortal/detail?
+accno=EJ184160
+McClelland, J. L., & Elman, J. L. (1986). The TRACE model of
+speech perception. Cognitive Psychology, 18(1), 1-86.
+Merlo, P. (1994). A corpus-based analysis of verb continuation frequencies for syntactic processing. Journal of Psycholinguistic
+Research, 23, 435-457. Retrieved from http://doi.org/10.1007/
+BF02146684
+Miller, E. K., & Cohen, J. D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience, 24(1),
+167-202. Retrieved from http://doi.org/10.1146/annurev.
+neuro.24.1.167
+Moscoso del Prado Martin, F., Kostic, A., & Baayen, R. H. (2004).
+Putting the bits together: An information theoretical perspective on morphological processing. Cognition, 94(1), 1-
+18. Retrieved from http://doi.org/10.1016/j.cognition.2003.
+10.015
+Moss, H. E., Abdallah, S., Fletcher, P., Bright, P., Pilgrim, L., Acres,
+K., & Tyler, L. K. (2005). Selecting among competing alternatives: Selection and retrieval in the left inferior frontal gyrus.
+Cerebral Cortex, 15(11), 1723-1735. Retrieved from http://doi.
+org/10.1093/cercor/bhi049
+Novais-Santos, S., Gee, J., Shah, M., Troiani, V., Work, M., &
+Grossman, M. (2007). Resolving sentence ambiguity with
+planning and working memory resources: Evidence from
+fMRI. NeuroImage, 37(1), 361-378. Retrieved from http://
+doi.org/10.1016/j.neuroimage.2007.03.077
+Oldfield, R. C. (1971). The assessment and analysis of handedness: The Edinburgh inventory. Neuropsychologia, 9(1), 97-
+113. Retrieved from http://doi.org/10.1016/0028-3932(71)
+90067-4
+Papoutsi, M., Stamatakis, E. A., Griffiths, J., Marslen-Wilson, W. D.,
+& Tyler, L. K. (2011). Is left fronto-temporal connectivity
+essential for syntax? Effective connectivity, tractography
+and performance in left-hemisphere damaged patients.
+NeuroImage, 58(2), 656-664. Retrieved from http://doi.org/
+10.1016/j.neuroimage.2011.06.036
+Petersson, K. M., & Hagoort, P. (2012). The neurobiology of
+syntax: Beyond string sets. Philosophical Transactions of the
+Royal Society B: Biological Sciences, 367(1598), 1971-1983.
+Retrieved from http://doi.org/10.1098/rstb.2012.0101
+Price, C. J. (2010). The anatomy of language: A review of 100
+fMRI studies published in 2009. Annals of the New York
+Academy of Sciences, 1191(1), 62-88. Retrieved from http://
+doi.org/10.1111/j.1749-6632.2010.05444.x
+Raettig, T., Frisch, S., Friederici, A. D., & Kotz, S. A. (2010).
+Neural correlates of morphosyntactic and verb-argument
+structure processing: An EfMRI study. Cortex, 46(5), 613-
+
+234
+
+J. ZHUANG AND B. J. DEVEREUX
+
+620. Retrieved from http://doi.org/10.1016/j.cortex.2009.06.
+003
+Ratcliff, R. (1993). Methods for dealing with reaction time outliers. Psychological Bulletin, 114(3), 510-532. Retrieved from
+http://doi.org/10.1037/0033-2909.114.3.510
+Righi, G., Blumstein, S. E., Mertus, J., & Worden, M. S. (2009).
+Neural systems underlying lexical competition: An eye tracking and fMRI Study. Journal of Cognitive Neuroscience, 22(2),
+213-224. Retrieved from http://doi.org/10.1162/jocn.2009.
+21200
+Rodd, J. M., Davis, M. H., & Johnsrude, I. S. (2005). The neural
+mechanisms of speech comprehension: fMRI studies of
+semantic ambiguity. Cerebral Cortex, 15(8), 1261-1269.
+Retrieved from http://doi.org/10.1093/cercor/bhi009
+Rodd, J. M., Longe, O. A., Randall, B., & Tyler, L. K. (2010). The
+functional organisation of the fronto-temporal language
+system: Evidence from syntactic and semantic ambiguity.
+Neuropsychologia, 48(5), 1324-1335. Retrieved from http://
+doi.org/10.1016/j.neuropsychologia.2009.12.035
+Roland, D., & Jurafsky, D. (1998). How verb subcategorization frequencies are affected by corpus choice (Vol. 2, pp. 1122-1128).
+Association for Computational Linguistics. Retrieved from
+http://doi.org/10.3115/980432.980753.
+Santi, A., & Grodzinsky, Y. (2007). Working memory and syntax
+interact in Broca's area. NeuroImage, 37(1), 8-17. Retrieved
+from http://doi.org/10.1016/j.neuroimage.2007.04.047
+Santi, A., & Grodzinsky, Y. (2010). fMRI adaptation dissociates
+syntactic complexity dimensions. NeuroImage, 51(4), 1285-
+1293. Retrieved from http://doi.org/10.1016/j.neuroimage.
+2010.03.034
+Schnur, T. T., Schwartz, M. F., Kimberg, D. Y., Hirshorn, E., Coslett,
+H. B., & Thompson-Schill, S. L. (2009). Localizing interference
+during naming: Convergent neuroimaging and neuropsychological evidence for the function of Broca's area.
+Proceedings of the National Academy of Sciences, 106(1),
+322-327. Retrieved from http://doi.org/10.1073/pnas.
+0805874106
+Scott, S. K., Blank, C. C., Rosen, S., & Wise, R. J. S. (2000).
+Identification of a pathway for intelligible speech in the left
+temporal lobe. Brain, 123(12), 2400-2406. Retrieved from
+http://doi.org/10.1093/brain/123.12.2400
+Scott, S. K., & Wise, R. J. S. (2004). The functional neuroanatomy
+of prelexical processing in speech perception. Cognition, 92
+(1-2), 13-45. Retrieved from http://doi.org/10.1016/j.
+cognition.2002.12.002
+Shapiro, L. P., Nagel, H. N., & Levine, B. A. (1993). Preferences for
+a verb's complements and their use in sentence processing.
+Journal of Memory and Language, 32(1), 96-114. Retrieved
+from http://doi.org/10.1006/jmla.1993.1006
+Steiger, J. H. (1980). Tests for comparing elements of a correlation
+matrix. Psychological Bulletin, 87(2), 245-251. Retrieved from
+http://doi.org/10.1037/0033-2909.87.2.245
+Tabak, W. M., Schreuder, R., & Baayen, R. H. (2005). Lexical statistics and lexical processing: Semantic density, information
+complexity, sex, and irregularity in Dutch (pp. 529-555).
+Berlin: Mouton de Gruyer. Retrieved from http://repository.
+ubn.ru.nl/handle/2066/42388
+Thompson-Schill, S. L., Aguirre, G. K., Desposito, M., & Farah, M. J.
+(1999). A neural basis for category and modality specificity of
+semantic knowledge. Neuropsychologia, 37(6), 671-676.
+Retrieved
+from
+http://doi.org/10.1016/S0028-3932(98)
+00126-2
+
+Thompson-Schill, S. L., Bedny, M., & Goldberg, R. F. (2005). The
+frontal lobes and the regulation of mental activity. Current
+Opinion in Neurobiology, 15(2), 219-224. Retrieved from
+http://doi.org/10.1016/j.conb.2005.03.006
+Thompson-Schill, S. L., D'Esposito, M., Aguirre, G. K., & Farah, M.
+J. (1997). Role of left inferior prefrontal cortex in retrieval of
+semantic knowledge: A reevaluation. Proceedings of the
+National Academy of Sciences, 94(26), 14792-14797.
+Thothathiri, M., Kim, A., Trueswell, J. C., & Thompson-Schill, S. L.
+(2012). Parametric effects of syntactic-semantic conflict in
+Broca's area during sentence processing. Brain and
+Language, 120(3), 259-264. Retrieved from http://doi.org/
+10.1016/j.bandl.2011.12.004
+Trueswell, J., & Tanenhaus, M. (1994). Toward a lexicalist framework for constraint-based syntactic ambiguity Resolution. In
+Perspectives on Sentence Processing. Lawrence Erlbaum
+Associates.
+Tyler, L. K. (1984). The structure of the initial cohort: Evidence
+from gating. Perception & Psychophysics, 36(5), 417-427.
+Retrieved from http://doi.org/10.3758/BF03207496
+Tyler, L. K., Cheung, T. P. L., Devereux, B. J., & Clarke, A. (2013).
+Syntactic computations in the language network:
+Characterizing dynamic network properties using representational similarity analysis. Frontiers in Language Sciences, 4,
+271. Retrieved from http://doi.org/10.3389/fpsyg.2013.00271
+Tyler, L. K., & Marslen-Wilson, W. D. (1977). The on-line effects of
+semantic context on syntactic processing. Journal of Verbal
+Learning and Verbal Behavior, 16(6), Retrieved from http://
+search.proquest.com/docview/1297348625?accountid=9851
+Tyler, L. K., & Marslen-Wilson, W. D. (2008). Fronto-temporal
+brain systems supporting spoken language comprehension.
+Philosophical Transactions of the Royal Society B: Biological
+Sciences, 363(1493), 1037-1054. Retrieved from http://doi.
+org/10.1098/rstb.2007.2158
+Tyler, L. K., Marslen-Wilson, W. D., Randall, B., Wright, P.,
+Devereux, B. J., Zhuang, J., ... Stamatakis, E. A. (2011). Left
+inferior frontal cortex and syntax: Function, structure and
+behaviour in patients with left hemisphere damage. Brain,
+134(2), 415-431. Retrieved from http://doi.org/10.1093/
+brain/awq369
+Tyler, L. K., Randall, B., & Stamatakis, E. A. (2008). Cortical differentiation for nouns and verbs depends on grammatical
+markers. Journal of Cognitive Neuroscience, 20(8), 1381-
+1389. Retrieved from http://doi.org/10.1162/jocn.2008.20095
+Tyler, L. K., Shafto, M. A., Randall, B., Wright, P., Marslen-Wilson,
+W. D., & Stamatakis, E. A. (2010). Preserving syntactic processing across the adult life span: The modulation of the frontotemporal language system in the context of age-related
+atrophy. Cerebral Cortex, 20(2), 352-364. Retrieved from
+http://doi.org/10.1093/cercor/bhp105
+Tyler, L. K., Voice, J. K., & Moss, H. E. (2000). The interaction
+of meaning and sound in spoken word recognition.
+Psychonomic Bulletin & Review, 7(2), 320-326. Retrieved from
+http://doi.org/10909140
+Tyler, L. K., & Wessels, J. (1983). Quantifying contextual contributions to word-recognition processes. Attention,
+Perception, & Psychophysics, 34(5), 409-420. Retrieved from
+http://doi.org/10.3758/BF03203056
+Tzourio-Mazoyer, N., Landeau, B., Papathanassiou, D., Crivello,
+F., Etard, O., Delcroix, N., ... Joliot, M. (2002). Automated anatomical labeling of activations in SPM using a macroscopic
+anatomical parcellation of the MNI MRI single-subject
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+brain. NeuroImage, 15(1), 273-289. Retrieved from http://doi.
+org/10.1006/nimg.2001.0978
+Ulrich, R., & Miller, J. (1994). Effects of truncation on reaction
+time analysis. Journal of Experimental Psychology. General,
+123(1), 34-80.
+Uppenkamp, S., Johnsrude, I. S., Norris, D., Marslen-Wilson, W.
+D., & Patterson, R. D. (2006). Locating the initial stages of
+speech-sound processing in human temporal cortex.
+NeuroImage, 31(3), 1284-1296. Retrieved from http://doi.
+org/10.1016/j.neuroimage.2006.01.004
+Vosse, T., & Kempen, G. (2000). Syntactic structure assembly in
+human parsing: A computational model based on competitive inhibition and a lexicalist grammar. Cognition, 75(2),
+105-143. Retrieved from http://doi.org/10.1016/S0010-0277
+(00)00063-9
+
+235
+
+Wright, P., Randall, B., Marslen-Wilson, W. D., & Tyler, L. K. (2010).
+Dissociating linguistic and task-related activity in the left
+inferior frontal gyrus. Journal of Cognitive Neuroscience, 23
+(2), 404-413. Retrieved from http://doi.org/10.1162/jocn.
+2010.21450
+Zhuang, J., Randall, B., Stamatakis, E. A., Marslen-Wilson, W. D., &
+Tyler, L. K. (2011). The interaction of lexical semantics and
+Cohort competition in spoken word recognition: An fMRI
+Study. Journal of Cognitive Neuroscience, 23(12), 3778-3790.
+Retrieved from http://doi.org/10.1162/jocn_a_00046
+Zhuang, J., Tyler, L. K., Randall, B., Stamatakis, E. A., & MarslenWilson, W. D. (2014). Optimally efficient neural systems for
+processing spoken language. Cerebral Cortex (New York,
+NY), 24(4), 908-918. Retrieved from http://doi.org/10.1093/
+cercor/bhs366
+
+

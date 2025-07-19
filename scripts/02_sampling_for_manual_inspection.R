@@ -45,6 +45,14 @@ table(xdata$journal, xdata$year)
 
 # many journals have gaps, so we only sample across years
 
+# take into account comparison sign. Decision errors with = are more difficult to interprete
+table(xdata$p_comp)
+table(xdata$p_comp, xdata$year)
+
+# should focus only on comparisons that are not equal
+xdata_without_equal <- xdata |> 
+  filter(p_comp != "=")
+
 # randomly sample x% of decision inconsistencies
 # max one per article
 # evenly across years
@@ -53,33 +61,43 @@ sample_prop = 0.15
 sample_size = nrow(xdata) * sample_prop
 # 216
 sample_size_per_year = sample_size / length(unique(xdata$year))
-# 9
+# desired sample per year 9
   
 # set random seed
-set.seed(999)
+set.seed(9191)
 
 # first create subset with one test per article
-xdata_sample <- xdata |> 
+xdata_sample <- xdata_without_equal |> 
   group_by(source) %>% 
   sample_n(1)
 
 # check if possible
 table(xdata_sample$year)
 
-# yes, proceed
+# except for 2021, yes
 
 # second create subset with the desired tests per year
 xdata_sample <- xdata_sample |> 
   group_by(year) %>% 
-  sample_n(sample_size_per_year)
+  # sample the desire number if possible, else sample all from the year
+  sample_n(min(n(), sample_size_per_year))
 
 # check if duplicate articles
 duplicated(xdata_sample$source)
-# no
+# no, proceed
+
+# check
+table(xdata_sample$year)
 
 # save list
 write_csv(xdata_sample, "../data/subsample/subsample.csv")
 
+# save simpler list for manual work
+xdata_sample |> 
+  select(source, p_comp, computed_p, raw, one_tailed_in_txt) |> 
+  mutate(sentence = "copy paste sentence",
+         comment = "add comments") |> 
+  write_csv("../data/subsample/subsample_for_manual_annotation.csv")
 
 # extract files and store them into folder
 # folder from which to extract
@@ -107,6 +125,42 @@ for (file in all_files) {
     file.copy(from = file, to = file.path(dest_dir, filename), overwrite = TRUE)
   }
 }
+
+---------
+
+# closer look at potential impact of the decision errors  
+
+## check all articles that contain at least one decision error
+x_gross <- xdata |> 
+  filter(decision_error == TRUE)
+
+# There are 852 articles containing at least one decision error
+length(unique(x_gross$source)) 
+
+# calculate proportion of decision errors across all tests in those articles
+prop_gross_per_article <- 
+  xdata |> 
+  group_by(source,decision_error) |> 
+  summarise(count = n()) |> 
+  pivot_wider(names_from = decision_error,
+              values_from = count) |> 
+  filter(!is.na(`TRUE`)) |> 
+  mutate(FALSE.corrected = ifelse(is.na(`FALSE`), 0, `FALSE`),
+         prop = `TRUE`/(`FALSE.corrected` + `TRUE`))
+
+# visualize
+prop_gross_per_article |> 
+  ggplot() + 
+  geom_histogram(aes(x = prop))
+
+# the majority of proportions are between 0-20%, so the decision error is an outlier in analyses
+# but 52 articles have at least as many decision errors as non decision errors (prop >= 0.5)
+
+mutate(proportion = count / sum(count))
+
+group_by(group, category) %>%
+  summarise(count = n(), .groups = "drop_last") %>%
+  mutate(proportion = count / sum(count))
 
 
 

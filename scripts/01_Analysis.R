@@ -32,8 +32,8 @@ library(ggstream)
 
 ## load in data from location of script 
 ## (uncomment if you run script outside of sourcing it through manuscript.qmd)
-#current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-#setwd(current_working_dir)
+current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+setwd(current_working_dir)
 
 ## list all journal units
 ## only works with access to all article pdfs, skip if you don't have access
@@ -166,7 +166,6 @@ gross_per_article <- xdata %>%
 ## per_article into long format for plot
 per_article_long <- per_article %>% 
   pivot_longer(!journal, names_to = "type", values_to = "proportion")
-
 
 ## Figure 1 ####################################################################                       
 

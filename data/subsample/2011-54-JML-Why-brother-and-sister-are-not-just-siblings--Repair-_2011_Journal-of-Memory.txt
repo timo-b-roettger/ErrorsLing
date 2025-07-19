@@ -1,0 +1,2219 @@
+Journal of Memory and Language 64 (2011) 211-232
+
+Contents lists available at ScienceDirect
+
+Journal of Memory and Language
+journal homepage: www.elsevier.com/locate/jml
+
+Why brother and sister are not just siblings: Repair processes
+in agreement computation
+Nicola Molinaro a,, Francesco Vespignani b, Roberto Zamparelli b, Remo Job b
+a
+b
+
+BCBL, Basque Center on Cognition, Brain and Language, Donostia, Spain
+Dipartimento di Scienze della Cognizione e della Formazione, University of Trento, Rovereto (TN), Italy
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 3 March 2010
+revision received 30 November 2010
+Available online 8 January 2011
+Keywords:
+Agreement
+Repair
+Reanalysis
+ERPs
+LAN
+P600
+
+a b s t r a c t
+In the present study we analyze how the cognitive system deals on-line with number
+agreement mismatches and whether this on-line process influences the off-line interpretation of the sentence. In two ERP experiments we monitored the on-line processing consequences of subject-verb agreement mismatches, focusing on the integration of a following
+number- marked related constituent. In Experiment 1, after initial detection of a mismatch
+between a plural noun phrase (The siblings) and its singular verb, indexed by LAN + P600,
+ERP correlates of agreement processing difficulties were recorded on a following modifier
+when it was plural. In Experiment 2, after detection of the mismatch between two conjoined singular noun phrases in subject position (The brother and the sister) and the verb,
+indexed by a short-lived P600, only the singular modifier showed indexes of agreement
+processing difficulties. These findings support the hypothesis that when processing a morphosyntactic mismatch, the cognitive system constructs on-line a well-formed internal
+representation of the sentence fragment. This on-line regularization allows comprehenders
+to easily integrate additional incoming constituents and also influences off-line interpretation of the message (Experiment 3).
+O 2010 Elsevier Inc. All rights reserved.
+
+Introduction
+The phenomenon of agreement, together with fixed
+word order and case marking, is one of the three main
+ways in which languages signal grammatical relations
+(Nichols, 1986). Many researchers have stressed the ability
+and automaticity with which speakers tacitly respect and
+use agreement rules in the sentences they produce (for
+example, Berent, Pinker, Tzelgov, Bibi, & Goldfarb, 2005;
+Bock, Nicol, & Cutting, 1999). Many behavioral (De
+Vincenzi, 1991; Pearlmutter, Garnsey, & Bock, 1999;
+Wagers, Lau, & Phillips, 2009) and neurophysiological
+(Coulson, King, & Kutas, 1998; Osterhout & Mobley,
+1995) studies on language comprehension have shown
+ Corresponding author. Address: BCBL, Basque Center on Cognition,
+Brain and Language, Paseo Mikeletegi, 69, 20009 Donostia, Spain. Fax: +34
+943 309 052.
+E-mail address: n.molinaro@bcbl.eu (N. Molinaro).
+0749-596X/$ - see front matter O 2010 Elsevier Inc. All rights reserved.
+doi:10.1016/j.jml.2010.12.002
+
+that agreement information has a rapid and measurable
+impact on cognition. An agreement mismatch such as The
+boys runs. . . leads to an immediate reaction by the comprehender within a few hundred milliseconds of the detection
+of the incongruence. Interestingly, such an error, while
+temporarily disrupting sentence comprehension, does not
+necessarily affect the ability to construct a coherent interpretation of the sentence meaning. Comprehenders are in
+fact able to understand nearly every utterance, not only
+ambiguous sentences, but also truly ungrammatical ones.
+As indicated by Hoftadter (1979, p. 26), one of the
+``essential abilities for intelligence [is] certainly [. . .] to make
+sense out of ambiguous or contradictory messages''.
+This plasticity in dealing with syntactic incongruities
+and recovering from erroneous analyses is an essential skill
+of the parser that is useful not only for communicating
+with non-proficient speakers (e.g. children and second language speakers) but also for language learning (Osterhout,
+McLaughlin, Pitkanen, Frenck-Mestre, & Molinaro, 2006).
+
+212
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+In addition, native speakers can easily handle environmental noise, ambiguities, speech errors, hesitation and repetitions, which are typical of every-day language; this
+confirms the cognitive ability to mentally restructure a disrupted incoming input into a well-formed message.
+To explain the robustness of the cognitive system in
+dealing with `formal' inconsistencies during comprehension, some researchers have proposed that language processing
+relies
+on
+highly
+economical
+strategies
+(heuristics): critical semantic information would be extracted to achieve sentence interpretation (Bever, 1970;
+Ferreira & Patson, 2007), without necessarily performing
+a detailed syntactic analysis of the sentence.
+However, grammatical cues constrain the semantic
+interpretation of most utterances and could play a critical
+role during the on-line comprehension of a sentence. For
+example, when processing an decontextualized string like
+
+The boys runs. . . (an incongruence apparently resolved in
+less than a second, see Osterhout and Mobley (1995); but
+also De Vincenzi et al. (2003), for a direct comparison between behavioral and neurophysiological correlates of
+number agreement mismatches), the parser has no semantic or discourse level information available to interpret the
+mismatch.
+In these cases, two things could happen when the disagreeing constituent is detected: either (i) the `opposing'
+values of the two mismatching constituents are kept in
+memory until further disambiguating information arrives,
+or (ii) the internal mental representation of one constituent (i.e. the number of either the subject noun phrase or
+verb) is coerced in order to fit with the other. Both hypotheses are plausible, given the architectural properties of the
+cognitive system.
+The first hypothesis would imply that the cognitive system can process multiple alternative parses of a sentence
+structure at a time. Thus, in a sentence like The boys
+runs. . ., there would be no need to select either the noun
+or the verb number to be assigned to the incongruent sentence. The ungrammatical fragment presenting the two
+alternative values (plural and singular respectively) would
+be available to the parser until further `disambiguating'
+information arrives; at which point the different alternatives could be weighted differently, depending on the support for one interpretation or the other. For example, when
+all the relevant semantic and discourse level information is
+controlled for within the sentence, the choice of selecting
+singular or plural would depend on perception of another
+number-marked word during the unfolding sentence. A
+series of models of sentence comprehension (multiple constraint models: MacDonald, Pearlmutter, & Seidenberg,
+1994; Trueswell, Tanenhouse, & Kello, 1993) have pointed
+to the ability of the cognitive system to keep in memory
+multiple alternatives during the processing of an ambiguous sentence structure. In this view, the short-lived processing cost elicited by a mismatching word (the verb in
+
+The boys runs. . .) would be due to the increased memory
+load of keeping the alternative representations active.
+The coercion hypothesis, on the other hand, is reminiscent of what in the psycholinguistic literature is termed
+on-line repair, i.e. the ability of the cognitive system to
+immediately modify the internal representation of an
+
+ungrammatical sentence fragment to build an internal
+well-formed syntactic representation of the sentence. The
+need to build such well-formed syntactic sentence representations would be for reasons of economy: it would require less cognitive resources to keep in mind an
+unambiguous and well structured message than a noisy
+one. In addition, immediate on-line repair of the number
+mismatch would allow easier (and faster) integration of
+the incoming material. A similar approach has been pursued by classical serial models of sentence processing (De
+Vincenzi, 1996; Frazier, 1990; Frazier & Fodor, 1978) to explain reanalysis effects in garden-path constructions. The
+fact that these models are implemented serially means
+that only a single structural interpretation can be pursed
+at one time, requiring a distinct monitoring system to revise and repair the initial interpretation, if need arises. In
+this framework, reanalysis and repair mechanisms are considered as independent and essential elements of the
+whole cognitive architecture, given that in the first stage
+the parser pursues the simplest structural choice - due to
+economy of time and resources - which sometimes turns
+out to be the wrong one. The parser is thus assumed to
+be prone to error. This implies that upon encountering
+inconsistent linguistic material, the first possibility to explore is that a comprehension error has occurred.
+If serial models assume that a choice between alternative analyses has necessarily to be performed immediately,
+multiple constraint models do not exclude that one interpretation could be preferred, having a higher level of activation than a competing one: repair and reanalysis can
+thus be described in terms of changes to the differential
+activation level or ranking of different alternatives operated by the same mechanism that performs the initial
+structuring of the incoming words, without assuming a
+specialized mechanism based on independent parsing
+principles (Grodner, Gibson, Argaman, & Babyonyshev,
+2003).
+The aim of the present study is to analyze the processing routines by which the human parser deals on-line with
+an agreement mismatch: the findings will help to clarify
+the processes involved in the revision of ungrammaticalities and their influence on the overall interpretation of
+the sentence. We will also evaluate the impact that these
+on-line processing routines have on the off-line interpretation of the sentence.
+ERP evidence on syntactic resolution
+In a series of previous experiments (Molinaro, Kim,
+Vespignani & Job, 2008; Vespignani, Molinaro & Job, in
+press) we tried to demonstrate that after an agreement
+mismatch where two alternative interpretations are available for the mismatching feature, only one of them is pursued on-line and incrementally projected on for further
+sentence processing. We studied the electrophysiological
+correlates (Event Related Potentials, ERPs) of the comprehension of grammatically anomalous sentences which contained two anomalies, one early and one late. The main aim
+was to verify how the processing of the later anomaly was
+affected by the processing of the early anomaly. We developed this paradigm to evaluate the possible on-line
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+resolution of the disagreement between two constituents
+at the beginning of the sentence. Subject-verb (Molinaro,
+Kim, et al., 2008) and determiner-noun (Vespignani et al.,
+in press) morphosyntactic number mismatches were presented at the beginning of the sentence; in a subsequent
+position, a constituent - marked 3rd person - was manipulated so that it could agree either with the first or with
+the second mismatching element. The rationale behind
+this manipulation was to contrast the ERP correlates of
+the third constituent in the two conditions (and with the
+fully grammatical one) in order to verify if only one of
+them, or both, showed signs of agreement processing
+difficulties.
+We focused on the ERP correlates as a dependent measure, given their extremely high temporal resolution. Number agreement violations have been extensively studied
+with this technique and show a biphasic electrophysiological pattern starting around 250-300 ms and returning to
+the baseline around 1 s after the detection of the mismatch
+(Osterhout, McLaughlin, Kim, Greenwald, & Inoue, 2004).
+The two main components of this pattern are the Left Anterior Negativity (LAN), a left-frontal increased negativity between 300 and 450 ms, and the P600, a long-lasting
+positive shift between 500 and 1000 ms.
+The LAN has been reported in languages with both relative word order freedom and full paradigms of agreement
+(Italian: Angrilli et al., 2002; Finnish: Leinonen, Brattico,
+Jarvenpaa, & Krause, 2008; Spanish: Silva-Pereyra &
+Carreiras, 2007) and in more fixed word order languages
+with residual agreement (Dutch: Hagoort & Brown, 2000;
+English: Osterhout & Mobley, 1995; German: Roehm,
+Bornkessel, Haider, & Schlesewsky, 2005). For example,
+Leinonen et al. (2008) directly compared violations of
+inflectional and derivational morphology in Finnish: in
+the former violation LAN was elicited, while the latter
+elicited an N400 in the same time window, a component
+classically related to semantic processing difficulties
+(Kutas, Van Petten, & Kluender, 2006). The LAN is thus considered to reflect a stage of processing related to the early
+detection of a morphosyntactic violation (Bornkessel &
+Schlesewsky, 2006; Friederici, 2002; Munte, Matzke, &
+Johannes, 1997). LANs are also elicited by determiner-noun
+agreement violations at the sentence level: Barber and
+Carreiras (2005) reported LAN for both number (Los chico;
+The (+P) kid (+S)) and gender violations (La chico; The (+F)
+kid (+M)) in Spanish. Also, Molinaro, Vespignani, and Job
+(2008) reported the same effect for both gender and phonotactic (Il scoiattolo; The (+IL) squirrel (+LO)) violations
+in Italian. The LAN component thus shows sensitivity to
+the target element form when it is involved in core agreement relations.
+Some authors have reported LAN effects during the
+reading of grammatical sentences that required working
+memory resources to be comprehended (Kluender & Kutas,
+1993; Streb, Rosler, & Hennighausen, 1999). An interesting
+distinction has been made between the morphosyntactic
+LAN and the working memory LAN (Fiebach, Schlesewsky,
+& Friederici, 2002): the former has been termed focal LAN
+since its onset is around 300 ms and it returns to baseline
+around 450 ms; the latter is the sustained LAN, a component with similar latency that does not come back to the
+
+213
+
+baseline. In the present study we focus on the focal LAN
+that has been consistently reported for morphosyntactic
+processing difficulties.
+The LAN is consistently reported in association with a
+later positive shift starting around 500 and lasting until
+1000 ms. This so-called P600 has received less attention
+in the ERP studies on agreement processing, despite the
+fact that it has provided very interesting insights into the
+brain mechanisms involved in feature checking (Barber &
+Carreiras, 2005; Molinaro, Vespignani, et al., 2008; Nevins,
+Dillon, Malhotra, & Phillips, 2007). Initially, the P600 was
+generically considered a marker for syntactic processing
+difficulties (Osterhout & Mobley, 1995); however, a significant body of research has demonstrated that the P600 is
+sensitive to violations of structural-based expectancy in
+both linguistic (Coulson et al., 1998; Hsu, 2009; Kim &
+Osterhout, 2005; Osterhout, Holcomb, & Swinney, 1994)
+and non-linguistic materials (Patel, 2003; for reviews
+Kuperberg, 2007; Osterhout, Kim, & Kuperberg, in press).
+For the purposes of the present study, we mainly consider
+the literature on syntactic violations, in which the finding
+of earlier negative components in response to syntactic
+violations (as discussed by Friederici, 2002) has led to a
+general consensus in associating the P600 following the
+LAN to late reanalysis and repair processes elicited by syntactically anomalous sentences.
+We, among others, have proposed a particular hypothesis
+of the P600 to agreement violations as reflecting two processing stages (Barber & Carreiras, 2005; Carreiras, Salillas,
+& Barber, 2004; Hagoort & Brown, 2000; Kaan & Swaab,
+2003a; Molinaro, Vespignani, et al., 2008). In the following
+is some of the evidence that has motivated this view.
+The earlier stage of the P600 would correspond to the
+increased positivity starting at 500 until about 700 ms.
+During agreement computation, this stage would be involved in building structural dependencies of the sentence,
+while interfacing with the available non-syntactic information (as suggested by Bornkessel & Schlesewsky, 2006;
+Kuperberg, 2007). Recent findings of larger `early P600s'
+for agreement violations involving person feature manipulations (assumed to involve discourse level representations, Sigurdsson, 2004; see Mancini, Vespignani,
+Molinaro, Laudanna, & Rizzi, 2009; Nevins et al., 2007),
+support the idea of a stage at which the cognitive system
+is accessing higher discourse level information to detect
+the source of the error. Interestingly, in these studies the
+early P600 effect is salient also in the frontal portion of
+the scalp (as suggested by Kaan and Swaab, 2003a, 2003b).
+In a later stage (after 700 ms), the P600 has a more posterior distribution and would reflect the repair of illformed sentence constructions. The finding of larger `late
+P600s' for costlier feature repair processes supports the
+dissociation of this subcomponent (Barber & Carreiras,
+2005; Molinaro, Vespignani, et al., 2008; Silva-Pereyra &
+Carreiras, 2007). Interestingly, when contextual semantic
+information strongly biases a specific suffix for the target
+verb (-ed), a late P600 effect (700-900 ms) has been reported for an unexpected suffix (-ing; Kim & Osterhout,
+2005). This is possibly due to the repair process operating
+on the target verb inflectional morphology: as discussed
+above, the system would accumulate evidence in order to
+
+214
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+map all the available information concerning the source of
+an error during the first P600 stage. If the ill-formedness of
+the sentence representation is affected by a morphological
+property of the target word, a repair could then be made
+on-line, but only at this later stage. In other words, a prolonged P600 would represent the additional effort spent
+in regularizing an incongruent utterance with a prominent
+error.
+Long-lasting P600s elicited by the detection of a number agreement mismatch in initial sentence positions have
+also been reported in previous studies of on-line resolution
+of number agreement violations (Molinaro, Kim, et al.,
+2008; Vespignani et al., in press). In both of these studies
+the number of a disagreeing constituent (verb in the former and noun in the latter study) influenced agreement
+processing on a third, number-marked, related constituent
+(a reflexive pronoun in the former and a verb in the latter
+study): we found evidence of agreement processing difficulties when the third constituent mismatched in number
+with the second element (while it agreed with the first),
+but no effect when the third constituent mismatched in
+number with the first element (while it agreed with the
+second). For example, when processing ungrammatical
+sentences like those in (1)
+(1)
+
+a. The famous dancers was nervously preparing
+herself. . .
+b. The famous dancers was nervously preparing
+themselves. . .
+
+We reported ERP correlates of agreement processing
+difficulties both at the verb and at the following plural
+reflexive pronoun in 1b. The singular reflexive pronouns
+(in 1a), on the other hand, did not differ from the grammatical control sentence.
+These findings are suggestive of a general, process-oriented explanation based on, for example, linear order of
+processing. In this framework, when encountering the
+number mismatch at the verb, the need for continuous
+processing of further incoming material would compel
+the comprehender to resolve the ungrammaticality online: if this is indeed the case, incoming items (following
+the ungrammaticality) could be integrated in a wellformed partial sentence structure, allowing an easier interpretation of the message intended by the speaker/writer.
+This on-line regularization would not necessarily reflect
+the off-line meta-linguistic analysis of the error (in which
+rumination and off-line conscious reprocessing could be
+critical), but would represent a fast and easy solution to
+provide the cognitive system with a well-formed internal
+representation of the sentence fragment (that would be
+stored in working memory) during the on-going processing
+of the sentence. The fact that an error was encountered and
+the nature of this error could be recorded in episodic memory, i.e. in a different storage from the one holding the sofar-parsed structure.
+Assuming this natural tendency towards regularization
+of noisy linguistic input during comprehension, once an
+agreement mismatch has been detected (for example, after
+
+reading the verb in 1), we assumed that the system should
+either modulate the internal representation of the currently-processed item (critical word) or revise the internal
+representation of the previous (mismatching) constituent
+in working memory. In other words, the cognitive system
+could either `ignore' the information provided by the currently-processed item (the verb in 1), considering it a
+speaker/writer misspelling/mispronunciation, or `manipulate' the information provided in the previous sentence
+fragment (the subject in 1), that is supposed to be still active in working memory. According to this hypothesis (that
+we termed Repair), when the mismatch at the second constituent is detected, the ungrammaticality is immediately
+resolved by assigning a coherent number value to the
+whole sentence fragment.1 For example, in a word by word
+presentation of a sentence like (1a) (Molinaro, Kim, et al.,
+2008), the initial mismatch between the subject noun
+phrase and the verb would be revised on-line based on the
+number of the verb, i.e. singular. When processing the following reflexive pronoun, a number mismatch with its antecedent (the noun phrase in subject position) would no
+longer be detectable, since the internal representation of
+the subject has been revised to singular after detecting the
+mismatch with its verb.
+According to this account, a number mismatch is immediately re-interpreted coercing the number of the first mismatching constituent (stored in working memory) to the
+number of the (more recent) second constituent, rather
+than the opposite. This strategy would thus consist in
+immediately adapting the number value of the constituents that are stored in working memory when detecting
+a mismatch on a following constituent that is under consideration: in the example above (1), the number of the
+subject noun phrase would be adapted to singular because
+of the verb number. Interestingly, the fact that the information that is within the focus of attention (i.e. the constituent where the mismatch is detected) drives this on-line
+mismatch resolution by imposing its value is supported
+by studies on sequentially presented information (Cowan,
+2001; McElree, 2001, 2006; Meng & Bader, 2000).2
+However, an alternative explanation is possible that
+does not exclude that multiple alternative representations
+are kept in memory until relevant disambiguation, a
+1
+With the term Repair we do not assume any theoretical approach to the
+type of model that our findings could explain (either serial or multiple
+constraints). As previously indicated, both models could support the idea
+that a single interpretation is pursued (or more active) after an incongruent
+sentence structure.
+2
+Using this type of paradigm, we were concerned about the possibility
+that in earlier experiments our participants could develop ad-hoc processing strategies due to high number of agreement violations presented both
+within a sentence and across the whole experiment. These strategies could
+have caused the pattern of results reported here. Thus, we ran a control
+experiment in which we presented the critical conditions of Vespignani
+et al. (in press) to two different groups of subjects (for example, if we
+consider the conditions presented in Table 1, Group 1 saw only the PluralSingular-Plural condition, while Group 2 saw only the Plural-SingularSingular condition of Experiment 1). Since participants of each Group saw
+always the same type of mismatch combination, the ad-hoc strategy
+hypothesis predicted no differences at the third critical constituent.
+However, we replicated Vespignani et al.'s (in press) findings, thus
+supporting the idea that repair is performed on-line through a mandatory
+process.
+
+215
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+strategy that we term Recency. We could hypothesize, for
+instance, that number agreement processing is not so critical for sentence comprehension and is checked only to
+evaluate local consistency between structurally related
+elements. What we would measure when presenting a
+number mismatch (i.e. LAN + P600) would not correlate
+with any repair process. In this proposal, linear recency is
+critical (for similar proposals see Tabor, Galantucci, & Richardson, 2004): the inconsistency detected at the second
+constituent (in 1) is left in stand-by, but the system goes
+on checking the agreement between the second and the
+third constituent. In this case there would be no need to
+presuppose a repair of the ungrammaticality, but the processes underlying the P600 would be sensitive only to local
+agreement consistency between parts of the same phrase.
+The value of the subject noun in initial position would
+not affect the processing correlates of the reflexive pronoun, and the processing of multiple alternatives would
+be performed and dynamically weighted based on the
+amount of evidence incrementally processed. In example
+(1) ERP correlates of processing difficulties between subject and verb emerge because of local incoherence; without considering this mismatch, similar ERP correlates
+would emerge at the reflexive pronoun only in 1b, because
+of local mismatch with the previous verb, irrespective of
+the subject value.
+The present study
+In the present study we aim to contrast the Repair and
+the Recency hypotheses by `blocking' the hypothesized repair strategy at work for mismatches as in (1), in which
+the number of the subject is revised to agree with the verb.
+To do this, we tested our paradigm with a structure in the
+
+first position that could not be coerced to acquire the number of the following mismatching constituent. If the plurality of the noun phrase in subject position is not expressed
+through morphophonological information (as in The boy-s)
+but through the use of multiple independent discourse
+entities, as in a conjoined noun phrase, it should not be
+possible to mentally manipulate the numerosity of the
+subject referents. Thus, when detecting a mismatch between a conjoined-plural subject (such as The boy and the
+girl) and its verb (a singular one), it should not be possible
+to reduce the two subject entities to singular.
+As in previous studies on Italian sentences, we adapt
+the paradigm exemplified in Table 1.
+We designed three experiments; the first two experiments focused on the ERP correlates of the on-line interpretation of different types of agreement mismatches.
+These first two experiments are aimed at disentangling
+the Repair and the Recency hypotheses and provide evidence of the on-line processing routines employed by the
+cognitive system to interpret an agreement mismatch.
+The third (behavioral) experiment is focused on evaluating
+the consequences of these on-line processes on the off-line
+aware interpretation of this type of ungrammatical
+sentences.
+Experiment 1: Inflectionally plural subject
+Experiment 1 focuses on the on-line interpretation of a
+mismatch between an inflectionally plural noun phrase in
+subject position and its verb, and the mapping of the processing consequences onto the agreement computation
+with a subsequent modifier. This experiment is aimed at
+replicating previous findings (Molinaro, Kim, et al., 2008;
+Vespignani et al., in press): while in previous experiments
+the subject number was balanced (merging plural and
+
+Table 1
+Examples of the experimental sentences used in Experiments 1-3.
+Experiment 1: Inflectionally plural subject
+Condition
+Subject
+PPP
+I fratelli
+The siblings
+
+PSP
+I fratelli
+
+The siblings
+
+PSS
+I fratelli
+
+The siblings
+
+Verb phrase
+giunsero a casa
+arrived [+P] at home
+giunse a casa
+arrived [+S] at home
+giunse a casa
+arrived [+S] at home
+
+Modifier
+stanchi della giornata.
+tired [+P] by the day.
+stanchi della giornata.
+tired [+P] by the day.
+stanco della giornata.
+tired [+S] by the day.
+
+Experiment 2: Conjoined noun phrase subject
+Condition
+Subject
+CPP
+Il fratello e la sorella
+The brother and the sister
+
+CSP
+Il fratello e la sorella
+
+The brother and the sister
+
+CSS
+Il fratello e la sorella
+
+The brother and the sister
+
+Verb phrase
+giunsero a casa
+arrived [+P] at home
+giunse a casa
+arrived [+S] at home
+giunse a casa
+arrived [+S] at home
+
+Modifier
+stanchi della giornata.
+tired [+P] by the day.
+stanchi della giornata.
+tired [+P] by the day.
+stanco della giornata.
+tired [+S] by the day.
+
+Experiment 3: Grammatical judgement and repetition
+Condition
+Initial segment
+PP
+Dopo una dura giornata di lavoro
+After a day of hard work
+
+PS
+Dopo una dura giornata di lavoro
+After a day of hard work
+CP
+Dopo una dura giornata di lavoro
+After a day of hard work
+
+CS
+Dopo una dura giornata di lavoro
+After a day of hard work
+
+Subject
+i fratelli
+the siblings
+i fratelli
+the siblings
+il fratello e la sorella
+the brother and the sister
+il fratello e la sorella
+the brother and the sister
+
+Verb phrase
+giunsero a casa.
+arrived [+P] at home.
+giunse a casa.
+arrived [+S] at home.
+giunsero a casa.
+arrived [+P] at home.
+giunse a casa.
+arrived [+S] at home.
+
+216
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+singular stimuli), the present study only focuses on plural
+subjects (with the mismatching verb always singular). First
+of all, we expect ERP correlates of agreement processing difficulties at the verb (a LAN followed by a P600 in line with
+previous studies). Crucially, differential effects are expected
+at the modifier position when comparing conditions PSP and
+PSS: the two main hypotheses under consideration, Repair
+and Recency, predict that the number marked modifier -
+which refers to the subject - should elicit a P600 only when
+it mismatches with the verb (in Table 1, the Modifier position in the PSP condition in Experiment 1):
+a. The Repair hypothesis states that the mismatch
+between the subject noun phrase and the verb is
+immediately interpreted according to the verb number (in line with previous findings); if the following
+modifier mismatches with the number of the subject
+noun (now revised to singular), an ERP index
+of agreement processing difficulties should be
+recorded at the plural modifier (considering the
+P600 amplitude on the modifier: PSP > PSS).
+b. In the Recency hypothesis, since the system is sensitive to the relation between constituents that are in
+linear proximity, the P600 would be mainly sensitive
+to linear local mismatches between structurally
+related constituents. Since in the PSP condition there
+is no consistency between the singular verb and the
+plural modifier (part of the same verb phrase), processing difficulties should be evident at the modifier
+position for PSP but not for PSS (considering the P600
+amplitude on the modifier: PSP > PSS).
+Although the two hypotheses are different in nature,
+implying a qualitatively different model at work during
+the processing of syntactic incongruencies, it is interesting
+to note that they make the same predictions in Experiment
+1. Experiment 2 is designed to contrast these alternative
+models.
+Experiment 2: Conjoined noun phrase subject
+In Experiment 2, we use the same design, studying the
+processing consequences of the on-line computation of a
+number mismatch between two coordinate singular noun
+phrases in subject position and their verb. ERP correlates
+of agreement mismatch are expected at the verb position.
+Critically, different predictions can be made for the processing of the modifier based on the alternative hypotheses
+we presented above:
+a. Following the Repair proposal, a mismatch between
+a coordinated subject and its verb should not be
+resolved on the basis of the verb number, since the
+plurality of the subject (extracted by the coordination of two distinct entities) cannot be reduced to
+singular. We thus expect the subject plurality to
+drive disagreement resolution and the following
+modifier to elicit a P600 only when it disagrees with
+the subject referents, despite the fact that it agrees
+(locally) with the verb (Table 1, the Modifier position
+in the CSS condition in Experiment 2, considering the
+P600 amplitude on the modifier: CSS > CSP).
+
+b. Following the Recency hypothesis, however, the
+expected outcome is the opposite. Suppose that the
+parser has suspended its judgment on the subjectverb mismatch and is checking the local consistency
+of the following number-marked elements. At the
+modifier, the system should be more sensitive to
+the local coherence between the verb and the modifier, part of the same verb phrase; so we should
+expect a P600 when the verb and the following modifier mismatch locally, irrespective of the type of the
+number feature expressed by the previous subject.
+Interestingly, no plural marker is expressed in the
+CSS condition, since all the sentence elements are
+singular (considering the P600 amplitude on the
+modifier: CSP > CSS).
+A summary of the predictions of these first two experiments is reported in Table 2.
+
+Experiment 3: Grammatical judgment and repetition
+Experiment 3 is designed to study the off-line interpretation of an ungrammatical sentence. As previously mentioned, we assume that comprehenders are aware of the
+ungrammaticality, but, given the need to proceed with
+the on-going sentence parsing when an error is encountered, a temporary repair is automatically pursued on-line
+(to integrate the following incoming constituents in a wellstructured partial phrase marker). We are thus interested
+in two types of evidence: (i) evaluating the end-ofsentence grammaticality judgment for the different conditions and (ii) determining how the on-line resolution of the
+ungrammaticality affects the off-line interpretation of the
+whole ungrammatical sentence.
+For this reason we asked to a group of Italian speakers
+for an end-of-sentence speeded grammaticality judgment
+on a set of items presenting the subject-verb constructions
+investigated in the first two experiments. These items presented the subject-verb structures studied in Experiment 1
+(inflectionally plural subject-verb) and in Experiment 2
+(conjoined subject-verb), that could be grammatical or
+not; sentences did not contain any further mismatching
+constituents (see Experiment 3 in Table 1). We expected
+high levels of accuracy in the grammaticality judgment of
+these items.
+In addition, we asked our participants to repeat the
+sentence after the grammaticality judgment and, in case of
+error detection, to correct it; this task was adapted from
+Meng and Bader (2000). We were interested in determining
+
+Table 2
+Predictions concerning the ERPs elicited by the number marked modifier in
+Experiments 1 and 2.
+Experiment 1: Inflectionally plural subject
+Repair hypothesis
+PSP
+P600
+PSS
+No effect
+
+Recency hypothesis
+P600
+No effect
+
+Experiment 2: Conjoined noun phrase subject
+Repair hypothesis
+CSP
+No effect
+CSS
+P600
+
+Recency hypothesis
+P600
+No effect
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+the number value of the to-be-corrected sentences: this
+procedure permits an evaluation of the final (off-line) interpretation of the agreement mismatches. This experiment
+was in fact designed to verify a possible parallelism between
+the on-line and the off-line interpretation of subject-verb
+mismatches.
+Experiment 1: Inflectionally plural subject
+Method
+Participants
+Twenty-four Italian native speakers participated in the
+experiment. Mean age of the participants was 24.77 years
+(SD = 4.17). All participants were right-handed and had
+normal or corrected to normal vision.
+Materials
+A set of 120 Italian experimental sentences was composed. All of the sentences consisted of a plural noun
+phrase in subject position and a verb at the beginning of
+the sentence. We did not use either collective nouns or
+very infrequent nouns in subject position. In contrast to
+previous experiments, the verb was not an auxiliary (see
+Molinaro, Kim, et al., 2008), but a lexical verb. The verb
+was always intransitive and was followed by a singular
+prepositional phrase and then a third critical constituent,
+which was a number marked modifier of the noun in subject position. The noun within the intervening prepositional phrase had feminine grammatical gender to avoid
+agreement attraction phenomena with the following critical adjective that was always masculine. In this design, the
+modifier could always easily refer to the noun in subject
+position. The prepositional phrase was used to introduce
+a temporal lag between the presentation of the second
+and third critical elements: this time lag was designed to
+allow the possible P600 effect - elicited by the subjectverb mismatch at the verb - to come back to the baseline
+before the presentation of the third constituent. The critical modifier was never at the end of the sentence to avoid
+wrap-up effects (Osterhout & Holcomb, 1995) overlapping
+with the critical effects of interest. From the 120 sentences
+plural sentences (constituting the PPP condition) we derived, as shown in Table 1 (upper section), 120 sentences
+belonging to the PSP condition (where both the subject
+noun and the modifier were plural: I fratelli [+P] giunse
+[+S] a casa stanchi [+P] della giornata.) and 120 sentences
+belonging to the PSS condition (where both the verb and
+the modifier were singular: I fratelli [+P] giunse [+S] a casa
+stanco [+S] della giornata.). Despite number incongruities
+(i.e. one or more participants in the message), the agreement manipulation never affected the thematic roles overall, so that the first noun phrase could always be
+interpreted as the subject of the sentence.
+The resulting 360 sentences were combined in three
+lists of 120 sentences with 40 sentences per condition
+(PPP, i.e. the control condition, PSP and PSS), so that each
+sentence was presented in one different condition across
+lists. Two hundred fillers with different syntactic structures were added in the experiment. None contained
+
+217
+
+topicalized constituents. Eighty of these fillers presented
+agreement violations so that each participant saw an equal
+number of correct and incorrect sentences in the whole
+experiment.
+Procedure
+Each participant was seated in a dimly illuminated silent room. Words were displayed on a monitor in white
+letters on a dark-grey background. Each word was presented for 300 ms, followed by a 300 ms blank screen. Sentence order was randomized and every five sentences on
+average participants were asked to answer a YES/NO comprehension question using keyboard buttons. Comprehension questions never referred to the number of referents in
+the sentence, for example: `Did somebody arrive home
+tired?' The number of questions was balanced across
+conditions.
+Participants were instructed not to blink or move their
+eyes during sentence presentation and they were told that
+in some sentences there could be syntactic errors. However, they were encouraged to focus on the whole message
+of the sentence. To familiarize them with the procedure a
+practice block of 20 items was presented before the experiment, some of which had the structure used in the experiment. On average, the experiment took about 2 h per
+participant, including electrode montage and debriefing.
+Data acquisition and analysis
+EEG was recorded from 17 tin electrodes placed on the
+scalp with the aid of an elastic cap at standard positions
+(10-20 system): Fp1, Fp2, Fz, F3, F4, Cz, C3, C4, Pz, P3,
+P4, O1, O2, T7, T8, P7, and P8. Additional external electrodes were placed on mastoids and around eyes (Veog ,
+Veog+, Heog , Heog+). All sites were referenced to the left
+mastoid (A1). Impedance was kept below 5 kX for mastoid
+and scalp electrodes, and below 10 kX for EOG electrodes.
+Data were acquired at a sampling rate of 250 Hz with a
+low-pass filter with 100 Hz cutoff frequency and a 10s time
+constant.
+EEG recordings were off-line filtered with a 30 Hz lowpass filter and re-referenced to the average activity of the
+two mastoids. Raw data inspection was performed independently for each subject in order to mark the artifacts
+(ocular activity, muscular activity and heartbeat) in the
+EEG recording during the whole experimental session:
+recordings were highly affected in five participants by
+heartbeat. Since this rhythmic activity would influence
+the final ERP results, we performed an ICA based artifact
+correction procedure. Following an Independent Component Analysis (ICA) on each participant recording, the independent components that explained artifactual activity
+were identified by visual inspection and subtracted. After
+the ICA correction we segmented the whole EEG recording
+in epochs ( 300 to 1300 ms) based on the trigger positions
+corresponding to the critical target word onsets. We then
+rejected the epochs that were marked as containing artifacts in the pre-ICA raw data inspection: this resulted in
+the exclusion of two participants from the following analyses and 5.7% of rejections on average in the remaining 22
+participants (no differences across conditions in the
+number of rejections F < 1). Artifact-clean shorter epochs
+
+218
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+( 200 to 1000 ms) were then baseline-corrected to the
+average activity in the 200 ms interval before target word
+presentation. Epochs were then averaged separately for
+each participant and condition: we thus extracted ERPs
+at the Verb and at the following Modifier for each condition (PPP, PSP, PSS). Despite the fact that the two ungrammatical conditions were identical up to the Verb position,
+we analyzed them separately at the Verb, in order to evaluate that in both cases ERP indexes of agreement detection
+were elicited and came back to the baseline before the processing of the following critical position.
+Single channel ERP data were averaged in different spatially homogeneous groups in order to reduce global variance and the number of levels to be interpreted in
+repeated measure ANOVAs (Greenhouse-Geisser corrected). We planned two different clusters of electrodes.
+The first one was aimed at evaluating the LAN component,
+which is usually maximal at the left-fontal electrodes. We
+define this as the Quadrant analysis in which we calculated
+the average activity of the following clusters: left anterior
+(LA: F3, C3, T7), right anterior (RA: F4, C4, T8), left posterior
+(LP: P3, P7, O1) and right posterior (RP: P4, P8, O2). In the
+relative two-way ANOVA we contrasted the three conditions in a pairwise manner. Factors were Condition (two
+levels corresponding to the each contrast: PPP vs. PSP,
+PPP vs. PSS, PSP vs. PSS) and Cluster (four levels corresponding to the four quadrants). The second analysis was designed to better evaluate the P600 component, which is
+usually maximal along the midline electrodes with
+
+possible topographical differences in the anterior-posterior
+dimension. The Longitude analysis was run on three clusters: frontal (F: F3, Fz, F4), central (C: C3, Cz, C4) and parietal (P: P3, Pz, P4). In the relative two-way ANOVA we
+contrasted Condition (two levels for each pairwise contrast) and Cluster (three levels: F, C and P). Each analysis
+was performed on specific time windows of interest corresponding to the expected modulations in amplitude for
+each component: LAN (350-450 ms), early P600 (500-
+800 ms) and late P600 (800-1000 ms). For both analyses,
+in the `Results' section we report significant values for
+the Cluster factors only when they interact with the Condition. If this was the case, post-hoc analyses were performed on each Cluster; False Discovery Rate correction
+(Benjamini & Hochberg, 1995) was applied to the resulting
+p-values.
+Results
+Behavioral data
+Participant accuracy in the comprehension questions
+was 91%. This indicates that the participants were able to
+extract the meaning of the whole sentence even in the
+ungrammatical conditions. Indeed, no differences were
+found in the accuracy across conditions (F(2, 42) < 1).
+ERPs elicited at the Verb position
+Grand-averages elicited in the Verb position (reported in
+Fig. 1, negative values are plotted up) showed a left-frontal
+
+Fig. 1. Event-related potentials elicited by the Verb for the inflectionally plural subject manipulation (Experiment 1). Solid thin line represents the PPP
+condition; dashed line represents the PSP condition; solid thick line represents the PSS condition. Vertical bars delimit the time windows of interest in the
+statistical analysis. Negative values are plotted up.
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+increased negativity around 400 ms for both the PSP and the
+PSS conditions compared to the Control. We identified this as
+a focal LAN. This component was followed in both cases by a
+long-lasting positive effect. In the early phase (500-800 ms),
+this component is evident in both the anterior and the posterior electrodes, while in the latter phase (800-1000 ms)
+it is mainly evident in the posterior electrodes.
+In the 350-450 ms time window (LAN interval), the
+comparison between PSP and PPP condition showed an
+interaction between Cluster and Condition in the Quadrant
+analysis (F(3, 63) = 3.568, p < 0.05; 95% Confidence Interval = 3.448). Post-hoc contrasts for each cluster of the
+Quadrant analysis revealed a main effect in the LeftAnterior cluster (t(21) = 2.638, p < 0.05) where the PSP
+condition (M = 0.402 lV) was more negative than the
+PPP condition (M = 0.576 lV).
+In the same time window the Quadrant ANOVA comparing the PSS with the PPP condition revealed both a main
+effect of Condition (F(1, 21) = 4.379, p < 0.05; 95%
+CI = 1.988) and the interaction between Cluster and Condition (F(3, 63) = 4.479, p < 0.05; 95% CI = 3.691). Post-hoc
+analysis showed again significant effect in the Left-anterior
+cluster (t(21) = 3.896, p < 0.05): compared to the PPP condition (M = 0.576 lV), the PSS condition showed a more
+negative effect (M = 0.597 lV).
+Finally, the comparison between PSP and PSS conditions
+did not reveal any significant effects at this stage.
+In the following time window (500-800 ms; early P600
+interval), the PSP-PPP comparison showed a main effect of
+Condition in the Longitude analysis (F(1, 21) = 5.398,
+
+219
+
+p < 0.05; 95% CI = 2.45) thus confirming the widely distributed early P600 effect in this time window. The PSP
+condition was in fact more positive (M = 2.274 lV) than
+the PPP condition (M = 1.457 lV) across midline clusters.
+Similarly, the PSS-PPP comparison showed a main effect
+of Condition both in the Quadrant analysis (F(1, 21) =
+6.377, p < 0.05; 95% CI = 2.002; PSS M = 0.895 lV; PPP
+M = 1.684) and in the Longitude analysis (F(1, 21) = 8.606,
+p < 0.01; 95% CI = 2.172; PSS M = 2.385 lV; PPP M =
+1.457).
+Again, no effect emerged in the PSP-PSS comparison (no
+F > 2).
+In the late P600 interval (800-1000 ms) the PSP-PPP
+comparison revealed an interaction between Condition
+and Cluster in the Quadrant analysis (F(3, 63) = 7.242,
+p < 0.01; 95% CI = 4.715). Post-hoc comparisons showed
+significant differences both in the Left-Posterior cluster
+(t(21) = 2.081, p < 0.05; PSP M = 1.9726 lV; PPP M =
+2.9773 lV) and in the Right-Posterior cluster (t(21) =
+3.343, p < 0.05; PSP M = 1.9903 lV; PPP M = 3.5726 lV)
+confirming the posterior distribution of the effect. In the
+Longitude analysis the interaction between Condition and
+Cluster also emerged (F(2, 42) = 7.602, p < 0.01; 95%
+CI = 5.3655). Following planned contrasts showed that
+the effect was significant in the Parietal cluster (t(21) =
+2.838, p < 0.05) where the PSP conditions (M = 2.434 lV)
+was more positive than the PPP (M = 4.067 lV).
+The PSS-PPP comparison showed an interaction between
+Condition and Cluster both in the Quadrant (F(3, 63) =
+12.813, p < 0.001; 95% CI = 7.725) and in the Longitude
+
+Fig. 2. Event-related potentials elicited by the modifier for the inflectionally plural subject manipulation (Experiment 1). Solid thin line represents the PPP
+condition; dashed line represents the PSP condition; solid thick line represents the PSS condition. Vertical bars delimit the time windows of interest in the
+statistical analysis. Negative values are plotted up.
+
+220
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+(F(2, 42) = 6.674, p < 0.01; 95% CI = 6.958) analysis. In the
+former analysis the interaction is due to the effect in the
+Left-Posterior cluster (t(21) = 2.462, p < 0.05; PSS M =
+1.99 lV; PPP M = 3.157 lV), while in the latter analysis only
+a marginal effect emerged in the Parietal cluster
+(t(21) = 1.834, p < 0.08) where the PSS condition (M =
+3.213 lV) was more positive than the PPP (M = 2.434 lV).
+No significant effects emerged in the PSP-PSS comparison (all Fs < 1).
+ERPs elicited at the Modifier position
+Grand-average waveforms (Fig. 2, negative values are
+plotted up) showed a larger positive effect starting around
+500 ms for the PSP condition compared to the other two
+conditions. The PSS condition in fact does not seem to reliably dissociate from the PPP condition. No clear sign of a
+LAN is visually detectable in the waveforms.
+Statistics in the 350-450 ms LAN interval did not reveal
+any reliable differences (all Fs < 1.5).
+In the early P600 time window (500-800 ms) the comparison between PSP and PPP showed a main effect of Condition in the Quadrant analysis (F(1, 21) = 4.602, p < 0.05;
+95% CI = 1.38): the effect is due to a more positive amplitude for the PSP condition (M = 1.488 lV) compared to the
+PPP (M = 0.931 lV). A main effect of condition emerged for
+this comparison also in the Longitude analysis
+(F(1, 21) = 5.993, p < 0.05; 95% CI = 1.439) as evidenced
+by the mean values across midline clusters (PSP
+M = 1.813 lV; PPP M = 1.063 lV).
+While the PSS-PPP comparison did not show any significant effects, the PSP-PSS analysis showed a main effect of
+Condition in the Longitude analysis (F(1, 21) = 4.369,
+p < 0.05; 95% CI = 1.08) as the PSP condition
+(M = 1.813 lV) was more positive than the PSS one
+(M = 1.258 lV) across midline clusters.
+In the following time window (800-1000 ms; late P600
+interval), the pattern was similar to the previous time window. The PSP-PPP comparison showed main effect of Condition both the Quadrant (F(1, 21) = 6.664, p < 0.05; 95%
+CI = 2.62; PSP M = 2.264 lV; PPP M = 1.341 lV) and in
+the Longitude analyses (F(1, 21) = 7.527, p < 0.05; 95%
+CI = 3.22; PSP M = 2.433 lV; PPP M = 1.177 lV).
+In the same time window the PSS and the PPP did not
+differ. However, the PSP-PSS contrast showed main effects
+of condition in both types of analysis (Quadrant: F(1, 21) =
+4.971, p < 0.05; 95% CI = 1.91; PSP M = 2.264 lV; PSS
+M = 1.583 lV; Longitude: F(1, 21) = 5.504, p < 0.05; 95%
+CI = 3.04; PSP M = 2.433 lV; PSS M = 1.389 lV).
+Summary of results
+In this first experiment we replicated previous findings
+on subject-verb agreement violations. As consistently reported by previous studies, the morphosyntactic mismatch
+between the probable subject noun and the verb elicited a
+LAN component followed by a long-lasting P600. The P600
+in the earlier time window shows a wide topographical
+distribution, while in the latter time window it is mainly
+posterior.
+In line with previous data (Molinaro, Kim, et al., 2008)
+on mismatch resolution, only when the modifier disagrees
+
+with the verb (and agrees with the subject noun phrase,
+PSP) do ERPs show a clear P600 effect compared to the
+grammatical condition (PPP). On the other hand, the condition in which the modifier disagrees with the subject noun
+phrase (and agrees with the verb, PSS) behaved similarly to
+the control condition (PPP). These findings are in line with
+the two main hypotheses considered in the Introduction,
+Repair and Recency.
+The fact that we did not find any LAN on the modifier
+could be due to the type of agreement feature processed
+in this position: the across-phrase relation between the
+subject antecedent noun and the modifier in the present
+experiment is not a structural agreement relation, unlike
+verb-subject agreement, which is triggered in a Spec-Head
+configuration. In terms of processing, after reading a noun
+phrase in initial position an active expectation would be
+triggered for the verb, but not for an adjunct.
+Experiment 2 is designed to contrast the two hypotheses: according to the Repair hypothesis, a different ERP pattern at the modifier is expected with respect to Experiment
+1 (see predictions in Table 2). Since the subject is composed by two conjoined noun phrases, it cannot be reduced
+to singular, and the repair cannot be performed at the following mismatching verb adapting the internal representation of the subject. However, replicating the findings of
+Experiment 1 would support the Recency (in terms of local
+feature consistency) hypothesis.
+Experiment 2: Conjoined noun phrase subject
+Method
+Participants
+Twenty-two Italian native speakers (mean age
+22.81 years; SD = 3.69) took part in Experiment 2. All of
+them were right-handed and had normal or corrected to
+normal vision.
+Material
+We adapted the stimuli used in the previous experiment,
+introducing two coordinated singular noun phrases in subject position. Thus, after two coordinate noun phrases a plural verb followed in the CPP control condition and a singular
+verb followed in the two critical experimental conditions
+(see examples in Table 1). After two coordinate singular
+noun phrases, the following verb is a grammatical continuation only when it is plural. The choice of two singular nouns
+in the mismatch conditions was aimed at under-specifying
+the inflectional morphology that marks for plural. We tried
+to reduce possible local attraction effects between the conjoined noun phrase and the verb. During sentence comprehension, number attraction effects are stronger when the
+sentence is ungrammatical (Wagers et al., 2009). However,
+these effects are stronger in singular subject-plural verb
+configurations, while the structure we used is constituted
+by a plural subject-singular verb. We thus exclude possible
+attraction effects influencing the interpretation of the number mismatch.
+In addition to these experimental sentences we added
+200 filler sentences with a different syntactic structure:
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+80 sentences contained grammatical violations not involving number agreement mismatches. Again, no filler contained a topic structure.
+Procedure
+The same as in Experiment 1.
+Data acquisition and analysis
+We used the same strategy of acquisition and analysis
+as in Experiment 1. The manual rejection in this second
+experiment resulted in the exclusion of 6.2% of epochs on
+average (no differences across conditions in the number
+of rejections F < 1).
+Results
+Behavioral data
+Participants answered the comprehension questions
+with an overall accuracy of 93%. No accuracy difference
+was found across conditions (F(2, 42) < 1).
+ERPs elicited at the Verb position
+In this position, the mismatch between the plural coordinate Subject and the Verb elicited a more positive effect
+between 500 and 800 ms evident at frontal and parietal
+electrodes for both the CSP and the CSS condition. Neither
+a LAN nor a late P600 was evident for these two conditions
+compared to the CPP condition (Fig. 3, negative values are
+plotted up).
+
+221
+
+In the 350-450 ms time window (LAN interval) the
+analysis did not reveal any significant effects related to
+Condition (no F-value was associated to a probability lower
+than p = 0.5). In the later time interval (500-800 ms; early
+P600) the CSP-CPP comparison revealed a main effect of
+Condition in the Longitude analysis (F(1, 21) = 4.703,
+p < 0.05; 95% CI = 2.23) due to the larger positivity in this
+time window for the CSP condition (M = 0.475 lV) compared to the CPP (M = 0.312 lV).
+Also the CSS-CPP comparison revealed a main effect of
+Condition in the Longitude analysis (F(1, 21) = 4.982,
+p < 0.05; 95% CI = 1.91), due to the positive effect for the
+CSS condition (M = 0.514 lV).
+In the 800-1000 ms interval (late P600) no effect related to the Condition factor emerged (only in the CSP-
+CPP comparison was the effect of Condition lower than
+p = 0.2 in the Longitude analysis; F(1, 21) = 3.065, p = 0.19).
+
+ERPs elicited at the Modifier position
+As evident in Fig. 4, ERPs in this position showed a positive shift for the CSS condition compared to the other two
+conditions (CPP and CSP) that did not differ between each
+other. Again, there is no sign of a LAN in the early time
+window.
+The statistics in the 350-450 ms time interval did not
+show any significant effects related to Condition in the
+pairwise comparisons (all p-values > 0.5).
+In the early P600 time window (500-800 ms) the CSS-
+CPP comparison showed an interaction between Condition
+and Cluster in the Quadrant analysis (F(3, 63) = 3.773,
+
+Fig. 3. Event-related potentials elicited by the Verb for the conjoined noun phrase subject manipulation (Experiment 2). Solid thin line represents the CPP
+condition; dashed line represents the CSP condition; solid thick line represents the CSS condition. Vertical bars delimit the time windows of interest in the
+statistical analysis. Negative values are plotted up.
+
+222
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+Fig. 4. Event-related potentials elicited by the modifier for the conjoined noun phrase subject manipulation (Experiment 2). Solid thin line represents the
+CPP condition; dashed line represents the CSP condition; solid thick line represents the CSS condition. Vertical bars delimit the time windows of interest in
+the statistical analysis. Negative values are plotted up.
+
+p < 0.05; 95% CI = 4.63) due to the larger positive effect in
+the Left-Posterior cluster (t(21) = 2.471, p < 0.05) for the
+CSS (M = 0.386 lV) compared to the CPP (M = 0.562 lV).
+The same comparison revealed an interaction between
+Condition and Cluster also in the Longitude analysis
+(F(2, 42) = 8.39, p < 0.01; 95% CI = 2.93): in the Parietal
+cluster the CSS condition (M = 0.782 lV) was more positive
+(t(21) = 2.125, p < 0.05) than the CPP condition
+(M = 0.145 lV).
+In the same time window the CSS-CSP comparison also
+showed an interaction between Cluster and Condition in
+the Longitude analysis (F(2, 42) = 7.402, p < 0.01; 95%
+CI = 2.21). This last interaction reflects the larger positivity for the CSS condition (M = 0.782 lV) compared to the
+CSP condition (M = 0.017 lV) in the Parietal cluster
+(t(21) = 2.174, p < 0.05).
+In this time interval CPP and CSP did not differ
+statistically.
+In the following time interval (800-1000 ms; late P600),
+the CSS-CPP comparison showed an interaction between
+Condition and Cluster in the Longitude analysis
+(F(2, 42) = 5.503, p < 0.05; 95% CI = 3.76). This interaction
+reflects the larger positive effect (t(21) = 2.588, p < 0.05)
+for the CSS condition (M = 1.887 lV) compared to the CPP
+(M = 0.848 lV).
+The CSS-CSP comparison showed an effect of condition
+both in both analyses (Quadrant: F(1, 21) = 4.731, p < 0.05;
+95% CI = 1.98; CSS M = 0.995 lV; CSP M = 0.517 lV; Longitude: F(1, 21) = 4.701, p < 0.05; 95% CI = 3.042.23; CSS
+M = 0.811 lV; CSP M = 0.227 lV).
+
+Finally, the CSP-CPP comparison did not reveal any significant effects related to Condition (all p-values higher
+that p = 0.5).
+Summary of results
+Two main findings emerged in Experiment 2. First, in
+the verb position, no LAN effect was observed, and the
+P600 elicited by the agreement mismatch emerged only
+in the early (500-800 ms) time window; this last effect
+was topographically distributed across the scalp (Fig. 5
+shows the difference waves between the average ERPs elicited by the violation conditions and the control in both
+Experiments 1 and 2), as also confirmed by the lack of
+interaction between the Condition and the Cluster factors.
+Second, in the following modifier position, a P600 effect
+emerged only for the CSS condition, compared to both the
+CPP and the CSP condition that did not differ from each
+other. These results contrast with the findings of Experiment 1, in which we recorded the opposite pattern: the
+PSS condition did not differ from the PPP, while the PSP
+condition elicited a P600. In addition, in line with the findings of Experiment 1, in Experiment 2 we did not find any
+LAN at the modifier position, thus suggesting that a qualitatively similar processing mechanism (in different conditions) was elicited at the modifier position in the two
+experiments (see Fig. 6 where we report the difference
+waves between the conditions that elicited the P600 on
+the modifier position, PSP in Experiment 1 and CSS in
+Experiment 2, minus the Control condition).
+
+223
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+F3
+
+Fz
+
+F4
+
+Experiment 1:
+
+Verb
+Position
+
+*I fratelli (+P) giunse
+(+S)...1
+Experiment
+
+Experiment 2
+
+Experiment 2:
+*Il fratello e la sorella giunse (+S)...
+
+LAN
+T7
+
+C3
+
+Cz
+
+P7
+
+P3
+
+Pz
+
+C4
+
+T8
+
+P4
+
+P8
+
+early & late P600
+
+-4
+
+V
+
+O1
+
+O2
+Experiment 1
+Experiment 2
+
+-2
+ms
+-200
+
+200
+
+1000
+
+2
+
+N Exp1
+p1
+
+L AN
+
+early P600
+Exp2
+
+Exp1
+
+late P600
+Exp2
+
+Exp1
+
+Exp2
+
+Fig. 5. Difference waveforms between the average of the two mismatching conditions (mean of PSP and PSS for Experiment 1 and CSP and CSS for
+Experiment 2) and the grammatical condition (PPP in Experiment 1 and CPP in Experiment 2) at the Verb in Experiment 1 (inflectionally plural subject
+manipulation) and Experiment 2 (conjoined noun phrase subject manipulation). The maps referring to the critical ERP components are calculated between
+350 and 450 ms for the LANs, between 500 and 800 ms for the early P600s and between 800 and 1000 ms for the late P600s.
+
+Across-experiment comparison
+We also compared the findings across the first two
+experiments. Given the high number of violations required
+by the experimental design and the high number of items
+per condition used in an ERP experiment we decided to
+manipulate the type of noun phrase (inflectionally plural
+or conjoined) in subject position as a between experiment
+factor. In order to avoid the development of particular
+strategies for processing the experimental sentences, we
+used a large number of fillers (200 further sentences). This
+technical constraint did not make it possible to play the
+subject type as a within subject factor.
+Thus, we ran further statistical analyses to evaluate the
+effects across the between subject manipulation of subject
+type. We ran the statistics used in both experiments, adding a further factor, Experiment, implemented in the ANOVAs as a between subject factor. For each sentence position
+and each time window of interest we ran both the Quadrant and the Longitude analysis. In the Quadrant analysis
+we ran a three way ANOVA with the following factors:
+
+Condition (pairwise comparisons, where X could be both
+P and C: XPP-XSP, XPP-XSS, XSP-XSS), Cluster (four levels:
+LA, RA, LP, RP) and Experiment (two levels: Experiment 1
+and Experiment 2). In the Longitude ANOVA the same factors were used: Condition, Cluster (three levels: Frontal,
+Central and Parietal) and Experiment. The main effects of
+interest in this last analysis comprise the interaction with
+the Experiment factor.
+ERPs elicited at the Verb position
+In the LAN time window (350-450 ms) the Quadrant analysis revealed the critical interactions between Condition,
+Cluster and Experiment for both the XPP-XSP (F(3, 126) =
+2.667, p < 0.05) and the XPP-XSS comparison (F(3, 126) =
+2.817, p < 0.05). This interaction with the Experiment factor
+confirms the reliability of the LAN in Experiment 1 compared
+to Experiment 2. In Fig. 5 we plotted the difference waves between the average ERPs elicited by the violation conditions
+and the correct condition on the verb in the two experiments.
+It is evident that the LAN emerged only in Experiment 1.
+
+224
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+Fig. 6. Difference waveforms at the modifier position between the condition eliciting the P600 effect and the control condition: in Experiment 1 the
+difference is calculated from the PSP-PPP subtraction, i.e. the comparison showing the P600 effect in Experiment 1; in Experiment 2 the difference is
+calculated from the CSS-CPP subtraction, i.e. the comparison showing the P600 effect in Experiment 2. The maps of the P600s are extracted from average
+activity in the whole P600 time window (i.e. both the early and the late window: 500-1000 ms).
+
+In the early P600 time window (500-800 ms) no interaction with the Experiment factor emerged (all Fs < 1.5). In
+the following time window (800-1000 ms), statistics
+showed interactions between Condition, Cluster and
+Experiment
+both
+in
+the
+XPP-XSP
+(Quadrant:
+F(3, 126) = 5.691, p < 0.01; Longitude: F(3, 126) = 6.669,
+p < 0.01) and the XPP-XSS (Quadrant: F(3, 126) = 7.426,
+p < 0.01; Longitude: F(3, 126) = 4.353, p < 0.05) comparison. This means that the late stage of the P600 is different
+between the two experiments, larger in Experiment 1 compared to Experiment 2 in the posterior electrodes of the
+scalp (see late P600 effects in Fig. 5).
+
+(Longitude analysis: F(3, 126) = 4.491, p < 0.05); finally,
+also the XSP-XSS comparison showed the triple interaction
+between Condition, Cluster and Experiment (Longitude
+analysis: F(3, 126) = 3.171, p < 0.07).
+The similar pattern of effects emerging in the two time
+windows (Fig. 6) robustly confirms that very similar effects
+are elicited in the two experiments, even if in opposite
+directions. In Fig. 6 we plotted the difference waves between the condition that elicited the P600 on the modifier
+position (PSP in Experiment 1 and CSS in Experiment 2) and
+the control. Since the effect was similar across time windows we plotted the maps for the whole P600 time
+window.
+
+ERPs elicited at the Modifier position
+Experiment 3: Grammatical judgement and repetition
+As for this latter position, the pairwise comparisons in
+the P600 time windows confirm the differential effects
+across the two experiments. In fact in the 500-800 ms time
+window the Longitude analysis showed an interaction between Condition and Experiment for the XPP-XSP comparison (F(1, 42) = 4.358, p < 0.05); the same interaction
+emerged also for the XSP-XSS (F(1, 42) = 9.797, p < 0.01)
+and, marginally significant, for the XPP-XSS comparison
+(F(1, 42) = 3.36, p < 0.074).
+The following time window (800-1000 ms) showed a
+similar trend. The XPP-XSP comparison showed interaction
+between Condition and Experiment (Longitude analysis:
+F(1, 42) = 7.951, p < 0.01); the XPP-XSS comparison showed
+interaction between Condition, Cluster and Experiment
+
+In the third experiment we evaluated the off-line interpretation of a number mismatch between subject and verb.
+We used a paradigm developed by Meng and Bader (2000)
+in their Experiment 4. They required participants to judge
+the grammaticality of German sentences and then to repeat them; in case of ungrammaticality they were required
+to provide a corrected version of the stimulus. These
+authors used sentences where wh-phrases and their finite
+verb disagreed in number. When required to repeat and
+correct those sentences, participants tended to alter the
+morphosyntactic case feature on the initial wh-phrase, instead of changing the morphosyntactic number feature of
+the following finite verb. These findings suggest that a
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+morphosyntactic mismatch is interpreted off-line based on
+the properties of the more recent constituent. If this is true,
+a mismatch between an inflectionally plural subject and a
+singular verb (condition PS, Experiment 3, in Table 1)
+should be corrected based on the verb number (singular);
+we however expect the opposite correction when two conjoined nouns are presented in subject position (condition
+CS, Experiment 3, in Table 1).
+This experiment is aimed at verifying three main aspects
+of the off-line processing of number agreement mismatches. Through this paradigm we can first evaluate the
+accuracy with which participants detect the subject-verb
+ungrammaticalities off-line, to make sure they are aware
+of the errors. Second, we can determine if the on-line effects
+we recorded on the modifier position reflect the off-line
+meta-linguistic interpretation of the mismatch. Experiment
+1 showed that an inflectionally plural subject-singular verb
+mismatch is interpreted on-line as singular, while Experiment 2 showed a conjoined subject-singular verb to be
+interpreted as plural. It is interesting to see how participant
+correct off-line these number mismatches. Third, it is possible to verify if a conjoined subject is more resistant to the repair strategy, as assumed throughout the whole paper: in
+fact we proposed that a conjoined noun phrase cannot be
+revised to singular since this would imply deleting one referent, thus altering the nature of the message.
+Method
+Participants
+Twenty-two Italian students (12 females, mean age:
+21.35 years; age range: 19-24 years) taking part in the
+Erasmus program of the University of the Basque country
+participated in Experiment 3 in exchange for 10. All of
+them were native Italian speakers visiting Spain for less
+than 1 month.
+Materials
+We selected a subset of 48 sentences from the dataset
+used in the previous two Experiments. Twenty-four sentences from Experiment 1 and 24 sentences from Experiment 2 were adapted for the purposes of the present
+experiment. In Experiment 3 the set adapted from Experiment 1 had the following structure: a plural noun phrase
+was immediately followed by the verb that was never in
+sentence final position; the position of the critical words
+varied across items. The subject and the verb were the only
+two number-marked elements in the sentence ``Dopo una
+dura giornata di lavoro i fratelli giunsero a casa.'' - After a
+day of hard work the siblings arrived home; see PP, Plural
+subject - Plural verb, condition in Table 1, lower panel).
+The set extracted from Experiment 2 had the same structure, but the subject was constituted by two conjoined singular NPs (``Dopo una dura giornata di lavoro il fratello e la
+sorella giunsero a casa.'' - After a day of hard work the brother and the sister arrived home; see CP, Conjoined subject Plural verb, condition in Table 1). We balanced the number
+of words per sentence in the different conditions (the average number of words was 12.5).
+From these 48 sentences we composed the number
+agreement violations modifying the number of the verb
+
+225
+
+to singular (. . .giunsero. . . ? . . .giunse. . .; see PS and CS
+conditions in Table 1, lower panel). We then created two
+lists with 12 sentences per condition (PP, PS, CP and CS)
+so that each participant did not see the same sentence in
+two different conditions.
+In order to avoid any bias toward singular or plural responses, 52 additional fillers were used. Since the experimental material was mainly constituted by plural
+sentences, the fillers mainly contained grammatical singular sentences and singular sentences containing gender
+violations in which we expected the repetition to be singular, plus some sentences with a singular subject following a
+plural constituent (never its verb). Each participant was
+presented with 100 sentences, half of them grammatically
+correct and half not.
+Procedure
+Participants were seated in a quiet room. The experimental sentences were presented on a notebook screen
+word by word at the center of the screen, similarly to the
+previous ERP experiments (white letters on a dark-grey
+background). However, rate of presentation was not fixed.
+In the previous experiments, the long SOA (600 ms) between subsequent words was driven by the need of avoiding overlap of the ERP components elicited by each word
+with the ones elicited by the following one. Since we did
+not record EEG in this experiment, we used a rate of presentation that better simulated speech or reading rate,
+with shorter words presented for a shorter interval compared to longer words.
+Thus, a fixation cross at the center of the screen warned
+the participant that a sentence was going to start. After participant's button press, each word of the sentence was presented for 187 ms plus 27 ms for each letter of that word
+(see Nieuwland & Kuperberg, 2008). No blanks were presented between words and the last word of the sentence
+was followed by a period. Immediately after sentence presentation a prompt appeared on the screen asking for a
+speeded grammaticality judgment of the sentence (Was
+the sentence grammatically correct?). Participants were required to answer as fast and as accurately as possible by
+pressing the corresponding YES/NO buttons on a joypad.
+After the participant's answer an additional prompt appeared on the screen asking the participant to repeat the
+sentence (Now repeat). Participants were required to repeat
+the sentence verbatim as accurately as possible if the sentence was grammatically correct. In case of grammatical
+errors participants were required to provide a corrected
+version of the sentence. There was no specific requirement
+on the type of correction to be made, participants had just
+to produce a grammatical version of the sentence. Participants were required to respond immediately, even if there
+was no explicit time limit. For each trial we reported the
+number assigned to the whole repeated sentence (either
+Singular (S) or Plural (P)), considering the repetition correct
+when both the subject and the verb were reported in the
+correct order.
+Five practice sentences preceded the experimental
+items; the whole experiment, that was divided in two
+blocks with a 5 min pause in the middle, lasted approximately 45 min.
+
+226
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+Data analysis
+Participants whose accuracy across the whole experiment was lower than 80% in the grammatical conditions
+(PP and CP in Table 1) were excluded from analyses.
+Response time and accuracy of the speeded grammaticality judgment were analyzed grouping by both subjects
+(F1) and items (F2). Response times that were more than
+three standard deviations longer than the average response
+of that subject were considered outliers. Two-way analysis
+of variance on these data considered the following factors:
+Grammaticality (Correct vs. Violation) and Type of plurality (Inflectionally plural subject vs. Conjoined subject).
+The main analysis focused on the number of Singular
+and Plural repetitions for each condition that were compared through a Chi-Squared test. In this analysis we only
+considered the items whose grammaticality was correctly
+judged. Direct comparison between the proportion of corrections in different conditions was pursued using the 2sample test for equality of proportions (Wilson, 1927); a
+correction of continuity was applied. We mainly compared
+the corrections between the two correct conditions (PP and
+CP) and the two ungrammatical ones (PS and CS).
+Results
+Response times
+Three participants were excluded from further analyses
+since their performance in the whole experiment was lower than the accuracy threshold in the grammatical conditions. Average RTs for each condition are reported in
+Table 3. Statistics did not show any significant effect; there
+was only a marginal effect of Type of plurality in the bysubject statistics (F1(1, 18) = 3.769, p = 0.068), suggesting
+a slightly more difficult judgment for the Conjoined subject
+conditions (M = 1772 ms, SD = 603 ms) compared to the
+Inflectionally plural subject conditions (M = 1669 ms,
+SD = 472 ms). It is possible that the higher number of
+words involved in the grammaticality judgment of the conjoined conditions affected reading times.
+
+Table 4
+Accuracy of the speeded grammaticality judgments in the four critical
+conditions of Experiment 3. The lower panel show the statistics calculated
+in the ANOVA.
+Condition
+
+Average accuracy levels (SD)
+
+PP (plural-plural)
+CP (conjoined-plural)
+
+PS (plural-singular)
+
+CS (conjoined-singular)
+
+95.1%
+90.9%
+91.6%
+86.2%
+
+ANOVA (2  2: Grammaticality  Type of Plurality)
+Grammaticality
+
+F1(1, 18) = 0.05,
+n.s.
+F1(1, 18) = 5.09,
+p < 0.05
+F1(1, 18) = 4.73,
+p < 0.05
+
+Type of plurality
+Grammaticality 
+Type of Plurality
+
+Repetitions
+When correctly judged, in 10.6% of the cases either the
+repetition did not correspond to the stimulus or was forgotten by the participant (defined as Other in Table 5). In
+the former case, participants forgot either subject or verb
+information; in many cases the thematic roles were not reported correctly.
+Number of Repetitions and relative percentage across
+all the participants is reported in Table 5.
+The Correct conditions were repeated correctly in the
+majority of cases (PP: 178 (P) vs. 13 (S), Chisquared = 142.53, df = 1, p < 0.001; CP: 152 (P) vs. 29 (S),
+Chi-squared = 83.58, df = 1, p < 0.001). The effect was more
+stable for the Inflectionally plural condition than the Conjoined subject condition (Chi-squared = 6.98, df = 1,
+p < 0.01).
+
+(449)
+(636)
+(500)
+(584)
+
+Grammaticality
+
+F1(1, 18) = 0.32, n.s.
+
+Type of plurality
+
+F1(1, 18) = 3.76,
+p = 0.068
+F1(1, 18) = 2.86,
+p = 0.108
+
+Grammaticality 
+Type of Plurality
+
+100
+90
+
+CP
+
+CS
+
+PP
+
+PS
+
+60
+
+ANOVA (2  2: Grammaticality  Type of Plurality)
+
+80
+
+1618 ms
+1790 ms
+1719 ms
+1754 ms
+
+70
+
+Average RT (SD)
+
+PP (plural-plural)
+CP (conjoined-plural)
+
+PS (plural-singular)
+
+CS (conjoined-singular)
+
+Accuracy
+Type fo plurality, p<0.05
+
+% of correct judgements
+
+Condition
+
+F2(1, 92) = 0.01,
+n.s.
+F2(1, 92) = 3.73,
+p = 0.054
+F2(1, 92) = 2.52,
+n.s.
+
+higher accuracy for the Inflectionally plural subject conditions (M = 93.3%, SD = 7.8%) compared to the Conjoined
+subject conditions (M = 88.5%, SD = 11.7%). Planned comparisons however did not show any significant difference
+in those contrasts (see barplots in Fig. 7).
+
+Accuracy
+Average accuracies for each condition are reported in
+Table 4. A main effect of Type of plurality reflects the
+
+Table 3
+Response times (RT) of the speeded grammaticality judgments in the four
+critical conditions of Experiment 3. The lower panel show the statistics
+calculated in the ANOVA.
+
+(6.6)
+(7.2)
+(8.8)
+(16.3)
+
+F2(1, 92) = 0.41,
+n.s.
+F2(1, 92) = 1.27,
+n.s.
+F2(1, 92) = 2.86,
+n.s.
+
+Conjoined subject
+
+Inflectionally plural subject
+
+Fig. 7. Accuracy levels in the four critical conditions of Experiment 3.
+Dark grey bars indicate the Correct conditions (CP, conjoined subjectplural verb and PP, inflectionally plural subject-plural verb), while the
+light grey bars indicate the Violation conditions (CS, conjoined subjectsingular verb and PS, inflectionally plural subject-singular verb).
+
+227
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+Table 5
+Number (and percentage) of Singular and Plural repetitions calculated over the whole set of responses given by participants in the
+four critical conditions of Experiment 3.
+Condition
+
+Singular repetitions
+
+Plural repetitions
+
+Other
+
+Total
+
+PP (plural-plural)
+CP (conjoined-plural)
+
+PS (plural-singular)
+
+CS (conjoined-singular)
+
+13 (6.2%)
+29 (14.1%)
+124 (57.2%)
+34 (17.2%)
+
+178 (85.2%)
+152 (73.4%)
+66 (30.4%)
+145 (73.6%)
+
+18
+26
+27
+18
+
+209
+207
+217
+197
+
+The main interest of the experiment was, however, in
+the repetitions involving corrections of the sentence grammaticality. The CS condition was robustly corrected to plural (CS: 145 (P) vs. 34 (S), Chi-squared = 68.83, df = 1,
+p < 0.001); on the other hand, PS was corrected to singular
+the majority of the times (PS: 66 (P) vs. 124 (S), Chisquared = 17.7, df = 1, p < 0.01).
+The selection of the singular in the PS condition (PS:
+124-66 = 58) appears less robust compared to the selection of the plural in the CS condition (CS: 145-34 = 111).
+We thus compared the proportion of Singular repetitions
+for the PS condition to the proportion of Plural repetitions
+for the CS condition. The 2-sample test for equality of proportions showed a significant difference in this dimension
+(Chi-squared = 10.78, df = 1, p < 0.01). Given that the analysis was run on proportions, we exclude a possible influence of repetitions classified as Other.
+
+(8.6%)
+(12.5%)
+(12.4%)
+(9.1%)
+
+effect at the verb is more prominent for violations
+involving an inflectionally plural subject, while the effect
+observed off-line for this condition is weaker compared
+to the conjoined subject condition.
+Nonetheless, the available findings strongly support the
+hypothesis that a Repair process is performed on-line, and
+has an effect on the off-line interpretation of the ungrammatical input. An inflectionally plural subject-singular verb
+construction tends to be revised to singular, while a conjoined subject-singular verb tends to be corrected to plural.
+General discussion
+In the present study we analyzed the on-line resolution
+of subject-verb number agreement mismatch and its impact on the off-line interpretation of the sentence
+ungrammaticality.
+
+Summary of results
+The Repair hypothesis
+While the contrast between Experiments 1 and 2 supported the Repair hypothesis, Experiment 3 showed that
+the hypothesized repair process has an effect also on the
+off-line interpretation of an ungrammatical sentence. We
+thus first showed that Italian speakers had high levels of
+accuracy in the detection of the number mismatches (higher than 80%). Second, we showed that when the cognitive
+system detects a number mismatch between a conjoined
+noun phrase and a singular verb, the number of the subject
+drives the resolution of the mismatch. This effect is very
+strong, as evident in the amount of plural repetitions for
+the CS conditions (see Table 5). On the other hand, the mismatch between an inflectionally plural subject and a singular verb is corrected to singular, in line with previous
+findings that highlight the pivotal role of the second element in the resolution of a morphosyntactic incongruence
+(Meng & Bader, 2000; Molinaro, Kim, et al., 2008;
+Vespignani et al., in press). This is a surprising result, since
+it is widely assumed that number values are interpreted in
+the noun position and for this reason supposed to drive
+mismatch resolution in a subject-verb mismatch. Third,
+we confirmed the hypothesis that a conjoined noun phrase
+is more resistant to the repair strategy compared to the
+inflectionally plural subject.
+As evident in Table 5, the percentage of singular repetitions for PS is lower than the percentage of plural repetitions for CS. As previously noted, off-line meta-linguistic
+judgments on number mismatches should not necessarily
+be similar to the on-line immediate resolution of the
+ungrammaticality, since further variables could influence
+this off-line evaluation. It is worth noting that the ERP
+
+An interesting dissociation was recorded at the modifier
+position in the first two experiments. In Experiment 1, a
+P600 was elicited by the PSP condition, while in Experiment 2 the same effect was elicited by the CSS condition.
+This ERP similarity (a P600 with a central-posterior distribution, especially in its later time window, without any
+LAN) indicates that a similar computation is elicited in
+the two cases. This mechanism is consequential to the
+on-line processing of the mismatch between subject and
+verb. Indeed, the ERP effects at the modifier position in
+the two experiments suggest insights into the on-line
+interpretation of the number mismatch at the verb
+position.
+In Experiment 1 (I fratelli giunse - The siblings arrived
+[+S]) we proposed that the system has to immediately select one number value to solve the incongruence (Repair
+hypothesis: see also Molinaro, Kim, et al., 2008; Vespignani
+et al., in press): as shown by some authors, the last presented element has a pivotal role in the comprehension
+of sequentially presented information (Cowan, 2001;
+McElree, 2001, 2006; Meng & Bader, 2000). In order to
+build a well-formed sentence fragment (thus allowing an
+easier integration of further incoming constituents), the
+internal representation of the ungrammatical sentence is
+repaired to be grammatical: in Experiment 1 the number
+of the verb is maintained as anchoring value and the internal representation of the inflectionally plural subject noun
+is revised to singular. This is possible since the number of
+the subject referent has been extracted by the inflectional
+morphology of the head noun (see also Meng & Bader,
+
+228
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+2000). Reanalyzing the subject numerosity to singular
+makes the following modifier ungrammatical when it is
+plural (and grammatical when it is singular). The P600 effect recorded only on the plural modifier (PSP condition)
+confirms our analysis. Thus, our interpretation of the phenomenon is that the sentence processor needs to operate
+an immediate Repair of the ungrammaticality (number disagreement) to integrate new incoming constituents with a
+temporarily well formed phrase marker incrementally
+stored in working memory.
+However, as we stated previously (Molinaro, Kim, et al.,
+2008), alternative explanations are possible for the P600
+pattern at the modifier position in Experiment 1. According
+to the Recency analysis, agreement features could be handled by the processing routines mirrored in the P600 just
+as surface cues for dealing with local (short-distance) relations. This would explain the P600 at the modifier when it
+mismatches with the surface properties of the local verb
+(but not with those of the subject noun phrase). A repair
+mechanism would not then be needed to explain the findings in Experiment 1.
+Experiment 2 (Il fratello e la sorella giunse - The brother
+and the sister arrived [+S]) permits contrasting these alternative explanations. The Recency hypothesis predicts a
+P600 on the plural modifier, i.e., when it mismatches locally with the verb. This was not the case, since we recorded a P600 on the modifier when it was singular:
+given the P600 in this condition (CSS condition), the Recency hypothesis cannot hold, since the whole sentence
+does not have any constituent morphophonologically
+marked to plural.
+These findings strongly support the Repair hypothesis.
+The manipulation we performed in Experiment 2 was designed to `block' the repair strategy we observed in Experiment 1 (see also Experiment 3 repetitions for the CS
+condition): in fact, manipulating the representation of the
+coordinate subject would imply removing one of the two
+referent noun phrases, thus altering the nature of the
+whole message. In this frame, the number of the subject
+cannot be revised without affecting the nature of the
+whole message. Here, the parser selects the plurality of
+the coordinate subject as a referent value for interpreting
+the number agreement mismatch. A possible interpretation is that in Experiment 2, since the subject representation cannot be altered, it is the number of the verb which
+should be re-interpreted to plural. This would cause a mismatch with the following singular modifier, eliciting the
+P600 observed in the CSS condition. In this view, the plurality of the subject referents in a conjoined noun phrase is
+semantically more stable (being not re-interpretable) compared to the plurality extracted by the morphophonological properties of the subject noun phrase used in
+Experiment 1.
+This hypothesis fits well with the shorter P600 effect recorded on the verb in Experiment 2. The more `prominent'
+violation on the verb in Experiment 1 thus elicits a more
+complex electrophysiological pattern (LAN followed by a
+long-lasting P600) compared to Experiment 2. In our opinion, the additional processing in Experiment 1 reflects the
+additional work operated by the parser to revise the subject representation (stored in working memory) to singular
+
+(for similar explanation of the late phase of the P600 see
+Barber & Carreiras, 2005, and Molinaro, Vespignani, et al.,
+2008, who propose a reanalysis process based on Faussart,
+Jakubowicz, & Costes, 1999). On the other hand, in Experiment 2 the impossibility of coercing a coordinate subject to
+singular renders the number of the verb misleading. Consequently, the cognitive system invests less resources in
+the processing of the mismatching verb, without altering
+the information stored in working memory; this is reflected in the less prominent ERP responses recorded at
+the verb in Experiment 2 (lack of late P600, see Fig. 5).
+Experiment 3 showed that this on-line repair process
+has an influence also on the off-line interpretation of the
+sentence. When processing a subject-verb number agreement mismatch, participants are aware of the ungrammaticality of the sentence, as evidenced by the high levels of
+accuracy in all conditions. This good performance reflects
+the fact that our participants did not ignore the morphosyntactic properties of our sentences. The only significant
+difference we obtained was between the inflectionally plural subject conditions and the conjoined subject conditions, accuracy being slightly lower and response times
+longer in the latter. This difference is possibly due to the
+greater difficulty in processing subject-verb agreement
+with conjoined subject phrases that are inherently more
+complex.
+More critical for our study, the off-line correction of the
+number mismatch (as evidenced by the number of repetitions in the violation conditions, see Table 5) was identical
+to the on-line resolution, as evidenced by the P600 effects
+on the modifier position (see Fig. 6). This additional evidence provides further support for the reliability of the Repair hypothesis as a critical processing routine by means
+of which the cognitive system processes agreement irregularities. However, we are not claiming that the on-line repair
+directly determines the off-line interpretation of the sentence, but that it has an influence on it. If the on-line repair
+determined the off-line sentence interpretation, we would
+have expected no difference in the proportion of inflectional
+subject correction to singular compared to conjoined phrase
+subject corrections to plural. In contrast, however, the P600
+recorded on the modifier in the two cases is very similar (see
+`Across-experiment comparison'). Thus, additional factors
+can influence the off-line interpretation of the sentence
+and the on-line repair is just one relevant factor.
+Given the present data, it is possible to speculate about
+the nature of the representation on which the repair is carried out. The fact that repair could be performed only when
+the subject number value is morphological could mean
+that what is mentally modified is the feature [Number] of
+the initial nominal. However, according to some authors
+(Bornkessel & Schlesewsky, 2006; Friederici, 2002), repair
+should be seen as a very late stage of processing. This
+would support the idea that this process should target a
+more abstract and less linguistic-specific internal representation, one connected to semantic and discourse level
+information.
+This proposal would be supported by off-line linguistic
+evidence. In Italian or French, the courtesy form for a 2nd
+person singular subject pronoun can use a 2nd person plural form (voi/vous, respectively). The main verb agrees in
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+the plural with this pronominal subject, but any subsequent participle or adjective appears in the singular, agreeing in gender and number with the logical subject (i.e. the
+singular addressee), not with the verb (see (2) for Italian):
+
+Similarly, a sentence that begins with I ragazzi pensa. . .
+`the boys thinks[+S] . . .' could continue with a perfectly
+grammatical post-verbal subject, as in (4)3:
+(4)
+
+(2)
+
+Voi
+siete
+stato
+felice
+you[+P] have[+P] been[+S] happy[+S]
+``yousing-formal have been happy''
+
+This strongly suggests that the number of the first nominal does not directly interact with the modifier, which
+would be mainly sensitive to the logical number of the
+subject.
+In sum, the findings on the modifier in Experiments 1 and
+2 confirm the strategy of the cognitive system to immediately repair an incongruent sentence on-line: an agreement
+mismatch triggers an immediate repair through which the
+system, after integrating all the available information, selects a unique number value for the grammatical disagreement. If the mismatch is based on the pluralization of a
+discourse entity based on morphophonological information
+extracted from the noun's inflection, the value of the last
+processed constituent coerces the internal representation
+of the subject; otherwise, when relevant information dominates the value of the processed mismatching constituent,
+this regularization strategy (mirrored in the prolonged
+P600 effect recorded in Experiment 1) is blocked and the system relies on the number of the sentence fragment already
+stored in memory, somehow `ignoring' following number
+values. This on-line process influences the interpretation
+of the whole message, in that it constrains the build-up of
+the internal restructured representation of the message intended by the source.
+Repair vs. Reanalysis
+One important aspect of the present study is that it was
+carried out in Italian, a language with greater word order
+freedom than English (the language investigated in Molinaro, Kim, et al., 2008). Working on the agreement between subject and main verb in a null-subject language
+like Italian leaves open the theoretical possibility of a local
+structural ambiguity. The problem is that in the presence
+of a number mismatch between the sentence-initial nominal and the main verb, the parser might no longer interpret this nominal as the subject, but as a topicalized
+element whose gap is expected to appear later in the sentence. The ill-formed English sentences in (1) begin just
+like the perfectly well-formed Italian (3) (where pro indicates the presence of an unpronounced singular subject,
+and i famosi danzatori is a left topic, picked up by the -li
+pronoun, object of aspettando).
+(3)
+
+I famosi danzatori stava nervosamente
+aspettandoli dalle 9
+the famous dancers[3p+P] pro was[3p+S]
+nervously waiting-for-them since 9
+``as for the famous dancers, he was nervously
+waiting for them since 9 o'clock''
+
+229
+
+I ragazzi pensa Carlo a prenderli
+the boys thinks Carlo to collect them
+``as for the boys, Carlo intends to collect them''
+
+Structures of this sort, though very common in spoken
+language, are not present in the experimental stimuli of
+our experiment, but the word by word presentation modality gives the participants ample time to consider them. Thus,
+the existence of such structures might support the development of an alternative (topic) interpretation of the sentence
+to the initially preferred first-nominal-as-subject. In other
+words, after encountering a mismatching verb after an initial nominal, the system could revise its initial preference
+to a topic one (either a pro or a post-verbal construction).
+This additional strategy (at work in null-subject languages),
+that we can call Reanalysis, predicts that the system either
+re-interprets completely the sentence structure or activates
+parses additional to the first-nominal-as-subject one. The
+discovery of a gap and/or a sentential subject in the continuation of the sentence would constrain the type of structure
+to be assigned to the sentence. We think this is an important
+aspect of the present study, since many sentence processing
+models state that when faced with a syntactic irregularity,
+the system exploits all the possible grammatical alternatives before considering the sentence as ungrammatical
+(Garden-Path model, Frazier, 1987; but also MacDonald
+et al., 1994; Tabor et al., 2004).
+For example, when reading the verb in Experiment 1
+the parser could postulate the existence of a null singular
+subject that agrees with the verb. Here, the ERP effects recorded on the verb could represent the additional activation of a topic construction. Whether the topic is
+coordinated or not should make no difference at all, so
+we can hypothesize that a similar reanalysis is operated
+after reading the verb also in Experiment 2. However, the
+findings on the modifier are critical, since we would have
+expected the same results in both Experiments 1 and 2:
+in fact, if the following modifier is singular, it would simply
+agree with this subject, while if it is plural we would expect processing difficulties due to the fact that the system
+realizes that the topic interpretation is not the correct
+parse (considering the P600 amplitude on the modifier
+we would have expected the following ERP pattern: Experiment 1: PSP > PSS, Experiment 2: CSP > CSS). Critically, this
+was not the case, indicating that the Repair explanation is
+the only possible interpretation of the findings emerging
+in the present study.
+These findings have interesting implication for the type
+of parsing involved in Italian subject-verb mismatches. In
+3
+Note that by marking pro in (3) in the canonical position for overt
+subjects we are not committing ourselves to a specific linguistic structure
+for null or post-verbal subjects, nor to a particular mental realization of
+these constructions. Evidently, the parser must be able to handle these
+cases without hesitations. The way this is performed is an interesting
+research topic, but one which is orthogonal to our present argument.
+
+230
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+fact, when faced with a mismatch between the number of
+the initial nominal and a following verb, the system could
+possibly reanalyze the sentence as a topic structure
+(Reanalysis hypothesis, see examples 3 and 4). This type
+of structure is less frequent in Italian than that in which
+the first nominal is the subject; however, it is syntactically
+acceptable and it could be a viable alternative interpretation (for an Italian speaker). Many theoretical proposals
+(Frazier, 1987; MacDonald et al., 1994; but see also Fodor
+& Ferreira, 1998) have stressed the ability of the parser
+to pursue any alternative grammatical parse (that is faithful to the input), once it is compelled to perform reanalysis
+of an ongoing interpretation. Our findings seem to be at
+odds with this, since we find evidence that the system continues with its initial choice (first-nominal-as-subject)
+even if it is not faithful to the input, instead of assuming
+a less preferred (but more faithful to the input) interpretation of the sentence, at least in the experimental setting of
+our study. This would confirm the ability of the processing
+system to easily deal with local mismatches and repair
+them on-line, before accessing further possible disambiguating information.
+ERPs effects at the Verb position
+Distinct ERP effects emerged at the mismatching verb in
+the first two experiments (see Fig. 5 for a direct comparison of the difference waves). Even if this distinction was
+not the main focus of our study, we think that this dissociation is worthy of comment, since it could stimulate further research on the processing of subject-verb
+agreement. While the mismatch in Experiment 1 is detected after processing the inflectional morphology of the
+noun phrase in subject position (I fratelli giunse - The
+[+P] siblings arrived [+S]), in Experiment 2 the mismatching verb follows a coordinate noun phrase (Il fratello e la
+sorella giunse - The [+S] brother and the [+S] sister arrived
+[+S]). The main finding is that a LAN emerges in this position in the former case but not in the latter. We are not
+committed to how the initial computation happens here,
+but the qualitative difference observed at the verb position
+across experiments suggests that somehow the mismatch
+between the coordinated subject and its verb is recognized
+more slowly than the more prominent inflectional mismatch in Experiment 1.
+From a linguistic point of view, this is not surprising.
+There is considerable evidence that the coordination morpheme and (and its equivalent in other languages), unlike
+number inflection, does not insert a plural feature value.
+(5), for instance, shows that conjunction of singular quantificational nominals only marginally triggers plural agreement, in Italian as in English; (6) shows that the
+conjunction of certain mass nouns inside a noun phrase
+does not license a plural determiner in Italian, though it
+can trigger plural verb agreement (Heycock & Zamparelli,
+2005; the phenomenon is even more visible in English in
+the contrast between the acceptable this boy and girl are
+dancing together and these (two) boy and girl are dancing
+together); finally (7) shows that the conjunction of sentential subjects, which arguably carry no number feature, triggers singular verb agreement (Zamparelli, 2008).
+
+(5a)
+
+(5b)
+
+(6)
+
+(7)
+
+Nessun linguista e nessun filosofo pensa/pensano
+che il linguaggio sia facile
+No linguist and no philosopher thinks [+S]/think
+[+P] that the language is easy
+Ogni genitore ed ogni insegnante voleva/volevano
+parlare
+Every parent and every teacher wanted [+S]/
+wanted [+P] speak [+INF]
+La/Le tua pazienza e determinazione sono ben
+note a tutti
+The [+S]/the [+P] your patience and
+determination are well-known [+P] to
+everybody
+[Che Marco sia qui] e [che Maria sia partita]
+sembra strano/sembrano strani
+[that Marco is here] and [that Maria has left]
+seems strange [+S]/seem strange [+P]
+
+Some authors (Osterhout et al., 2004) have questioned
+the reliability of the LAN effect as an index of morphosyntactic processing. This is due to the fact that while some
+agreement relations elicit a LAN (subject-verb agreement),
+others do not (e.g. anaphoric agreement, for a comparison
+see Osterhout & Mobley, 1995). In our opinion, this dissociation is not accidental but could reflect distinct processing difficulties related to the structural properties involved
+in the resolution of the agreement relation in most cases.
+Unfortunately, the agreement structures implemented in
+our two experiments vary on a number of dimensions. First
+of all, the inflectional mismatch in Experiment 1 is less
+complex and easier to detect compared to that of Experiment 2. Syntactic complexity has been shown to elicit only
+a P600 component more evident in its earlier stage (Kaan,
+Harris, Gibson, & Holcomb, 2000; Osterhout & Holcomb,
+1992); this component is morphologically very similar to
+the one reported for the mismatch between a conjoined
+noun phrase and its verb in Experiment 2. Secondly, while
+the subject-verb mismatch in Experiment 1 is determined
+only by the inflectional morphology of the noun phrase in
+subject position, this type of morphological information is
+underspecified on the subject in Experiment 2 (see examples 5-7): it could be that the operation that controls for
+the consistency between subject and verb features does
+not have as a target inflectional information, but information that directly maps onto the referent information. Consequently, the plurality of a conjoined noun phrase would
+be notionally more complex (Heycock & Zamparelli, 2005),
+since the number value has to be computed from the
+semantics of the two singular referents (much as in Marci
+told Annaj that theyi+j should leave). The processing stage indexed by the LAN could then be sensitive to the formal vs.
+notional nature of the agreement relation. Thirdly, the local
+relation between the verb and the preceding noun in our
+structures is different: while the noun preceding the singular verb in Experiment 1 is plural (. . .fratelli giunse. . . - siblings arrived [+S]), in Experiment 2 it is singular (. . .sorella
+giunse. . . - sister arrived [+S]). It should be noted that
+attraction phenomena are stronger with singular subjectplural verb configurations (see Pearlmutter et al., 1999;
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+Wagers et al., 2009), while the configuration we studied in
+this paper was plural subject-singular verb. Nevertheless,
+we cannot exclude that this difference affected the processes correlating to the LAN (a component shown to be
+sensitive to the inflectional morphology of two structurally
+related constituents in a sentence context, Barber &
+Carreiras, 2005; Friederici, 2002; Molinaro, Vespignani,
+et al., 2008). Fourthly, the verb position in the linear order
+of the sentence is different across experiments (in third position for Experiment 1, and in sixth position in Experiment
+2). Given that some components (such as for example the
+N400, Kutas et al., 2006) vary systematically with word position, waveform comparison across word positions is
+inherently problematic. However, Barber and Carreiras
+(2005, see also Molinaro, Kim, et al., 2008) directly compared the detection of a syntactic violation in different sentence positions, reporting a smaller P600 at the beginning
+of the sentence compared to a later position; this difference goes in the opposite direction compared to our study,
+where a mismatch in an earlier position elicited a larger
+P600 compared to a later position. Thus, in our opinion,
+the different agreement relation implemented across
+experiments is crucial in explaining the different electrophysiological patterns observed.
+In order to better detail the factors that elicit the LAN
+component, further studies on the processing of different
+types of conjoined noun phrases are needed. Nonetheless,
+the present findings are suggestive of different processing
+routines that could be involved in agreement computation.
+Conclusions
+Coherently with previous studies (see also Molinaro,
+Kim, et al., 2008; Vespignani et al., in press) we have shown
+that when a morphosyntactic mismatch is detected, the system performs an immediate interpretation of the ungrammaticality, selecting a single value that makes the whole
+sentence representation steadier, otherwise the processing
+of an ungrammatical phrase marker cannot proceed (Frazier
+& Clifton, 1996). These findings do not provide evidence for
+any specific model of sentence comprehension. For example,
+our main finding is that subject number (when inflectionally
+derived) is revised when a mismatch is detected at the verb;
+this could result in a single parse in working memory or multiple parses where the revised parse is simply the most active. However, it is important to note that when
+encountering a number mismatch, an immediate regularization of the ungrammatical input is pursued in order to create an internal well-formed representation of the sentence.
+We have provided evidence for number agreement mismatches, but the same principles could potentially be extended to all types of morphosyntactic mismatch (see also
+Meng & Bader, 2000). Critically, on-line repair is not only
+sensitive to the formal properties of the input sentence,
+but evaluates every type of relevant information (as for conjoined phrases, see Heycock & Zamparelli, 2005).
+Acknowledgments
+We are grateful to Arthur Samuel, Itziar Laka, Horacio
+Barber, Margaret Gillon-Dowens, Andrea Martin and
+
+231
+
+Simona Mancini for useful comments on the present paper.
+Part of the research funds were provided by a PRIN 2005
+Grant to R.J. N.M. is partially supported by the ``Juan de
+la Cierva'' program from the Spanish Ministry of Education
+and Science. Special thanks to Lyn Frazier.
+References
+Angrilli, A., Penolazzi, B., Vespignani, F., De Vincenzi, M., Job, R., Ciccarelli,
+L., et al. (2002). Cortical brain responses to semantic incongruity and
+syntactic violation in Italian language: An event-related potential
+study. Neuroscience Letters, 322(1), 5-8.
+Barber, H., & Carreiras, M. (2005). Grammatical gender and number
+agreement in Spanish: An ERP comparison. Journal of Cognitive
+Neuroscience, 17(1), 137-153.
+Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate:
+A practical and powerful approach to multiple testing. Journal of the
+Royal Statistical Society, Series B (Methodological), 57(1), 289-300.
+Berent, I., Pinker, S., Tzelgov, J., Bibi, U., & Goldfarb, L. (2005). Computation
+of semantic number from morphological information. Journal of
+Memory and Language, 53, 342-358.
+Bever, T. G. (1970). The cognitive basis for linguistic structures. In J. R.
+Hayes (Ed.), Cognition and the development of language (pp. 279-362).
+New York: Wiley.
+Bock, K. J., Nicol, J. L., & Cutting, J. C. (1999). The ties that bind: Creating
+number agreement in speech. Journal of Memory and Language, 40(3),
+330-346.
+Bornkessel, I., & Schlesewsky, M. (2006). The extended argument
+dependency model: A neurocognitive approach to sentence
+comprehension across languages. Psychological Review, 113(4),
+787-821.
+Carreiras, M., Salillas, E., & Barber, H. (2004). Event-related potentials
+elicited during parsing of ambiguous relative clauses in Spanish.
+Cognitive Brain Research, 20(1), 98-105.
+Coulson, S., King, J. W., & Kutas, M. (1998). Expect the unexpected: Eventrelated brain response to morphosyntactic violations. Language and
+Cognitive Processes, 13(1), 21-58.
+Cowan, N. (2001). The magical number 4 in short term memory: A
+reconsideration of mental storage capacity. Behavioral and Brain
+Sciences, 24, 87-185.
+De Vincenzi, M. (1991). Syntactic parsing strategies in Italian. Dordrecht,
+the Netherlands: Kluwer.
+De Vincenzi, M. (1996). Syntactic analysis in sentence comprehension:
+Effects of dependency types and grammatical constraints. Journal of
+Psycholinguistic Research, 25, 117-133.
+De Vincenzi, M., Job, R., Di Matteo, R., Angrilli, A., Penolazzi, B., Ciccarelli,
+L., et al. (2003). Differences in the perception and time course of
+syntactic and semantic violations. Brain and Language, 85, 280-296.
+Faussart, C., Jakubowicz, C., & Costes, M. (1999). Gender and number
+processing in spoken French and Spanish. Italian Journal of Linguistics,
+11, 75-101.
+Ferreira, F., & Patson, N. (2007). The good enough approach to language
+comprehension. Language and Linguistics Compass, 1, 71-83.
+Fiebach, C. J., Schlesewsky, M., & Friederici, A. D. (2002). Separating
+syntactic memory costs and syntactic integration costs during
+parsing: The processing of German WH-questions. Journal of
+Memory and Language, 47(2), 250-272.
+Fodor, J., & Ferreira, F. (1998). Reanalysis in sentence processing. The
+Netherlands: Kluwer Academic Publishers.
+Frazier, L. (1987). Sentence processing: A tutorial review. In M. Coltheart
+(Ed.), Attention and performance XII: The psychology of reading.
+Lawrence Erlbaum Associates.
+Frazier, L. (1990). Identifying structure under X0. In G. Booij & J. V. Marle
+(Eds.), Yearbook of morphology 3 (pp. 107-114). Dordrecht, Holland:
+Foris.
+Frazier, L., & Clifton, C. (1996). Construal. Cambridge, MA: MIT Press.
+Frazier, L., & Fodor, J. D. (1978). Sausage machine: New 2 stage parsing
+model. Cognition, 6(4), 291-325.
+Friederici, A. D. (2002). Towards a neural basis of auditory sentence
+processing. Trends in Cognitive Sciences, 6(2), 78-84.
+Grodner, D., Gibson, E., Argaman, V., & Babyonyshev, M. (2003). Against
+repair-based reanalysis in sentence comprehension. Journal of
+Psycholinguistic Research, 32(2), 141-166.
+Hagoort, P., & Brown, C. M. (2000). ERP effects of listening to speech
+compared to reading: The P600/SPS to syntactic violations in spoken
+sentences and rapid serial visual presentation. Neuropsychologia,
+38(11), 1531-1549.
+
+232
+
+N. Molinaro et al. / Journal of Memory and Language 64 (2011) 211-232
+
+Heycock, C., & Zamparelli, R. (2005). Friends and colleagues: Plurality,
+coordination, and the structure of DP. Natural Language Semantics, 13,
+201-270.
+Hoftadter, D. R. (1979). Godel, Escher, Bach: An eternal golden braid. NY:
+Basic Books.
+Hsu, H. (2009). A neurophysiological study on probabilistic grammatical
+learning and sentence processing. Phd dissertation. University of Iowa.
+Kaan, E., Harris, A., Gibson, E., & Holcomb, P. (2000). The P600 as an index
+of syntactic integration difficulty. Language and Cognitive Processes,
+15, 159-201.
+Kaan, E., & Swaab, T. Y. (2003a). Repair, revision, and complexity in
+syntactic analysis: An electrophysiological differentiation. Journal of
+Cognitive Neuroscience, 15(1), 98-110.
+Kaan, E., & Swaab, T. Y. (2003b). Electrophysiological evidence for serial
+sentence processing: A comparison between non-preferred and
+ungrammatical continuations. Cognitive Brain Research, 17(3),
+621-635.
+Kim, A., & Osterhout, L. (2005). The independence of combinatory
+semantic processing: Evidence from event-related potentials.
+Journal of Memory and Language, 52(2), 205-225.
+Kluender, R., & Kutas, M. (1993). Subjacency as a processing phenomenon.
+Language and Cognitive Processes, 8(4), 573-633.
+Kuperberg, G. R. (2007). Neural mechanisms of language comprehension:
+Challenges to syntax. Brain Research, 1146, 23-49.
+Kutas, M., Van Petten, C., & Kluender, R. (2006). Psycholinguistics
+electrified II: 1994-2005. In M. Traxler & M. A. Gernsbacher (Eds.),
+Handbook of psycholinguistics (2nd ed., pp. 659-724). New York, NY:
+Elsevier.
+Leinonen, A., Brattico, P., Jarvenpaa, M., & Krause, C. M. (2008). Eventrelated potential (ERP) responses to violations of inflectional and
+derivational rules of Finnish. Brain Research, 1218, 181-193.
+MacDonald, M. C., Pearlmutter, N. J., & Seidenberg, M. S. (1994). The
+lexical nature of syntactic ambiguity resolution. Psychological Review,
+101, 676-703.
+Mancini, S., Vespignani, F., Molinaro, N., Laudanna, A., & Rizzi, L. (2009).
+Number agreement processing with different persons: An ERP study.
+In Poster presented at the 15th annual conference on architectures and
+mechanisms for language processing. Barcelona, Spain, September, 7-9.
+McElree, B. (2001). Working memory and focal attention. Journal of
+Experimental Psychology: Learning, Memory & Cognition, 27, 817-835.
+McElree, B. (2006). Accessing recent events. In B. H. Ross (Ed.), The
+psychology of learning and motivation. San Diego, CA: Academy Press.
+Meng, M., & Bader, M. (2000). Ungrammaticality detection and garden
+path strength: Evidence for serial parsing. Language and Cognitive
+Processes, 15, 615-666.
+Molinaro, N., Kim, A., Vespignani, F., & Job, R. (2008). Anaphoric
+agreement violation: An ERP analysis of its interpretation. Cognition,
+106(2), 963-974.
+Molinaro, N., Vespignani, F., & Job, R. (2008). A deeper reanalysis of a
+superficial feature: An ERP study on agreement violations. Brain
+Research, 1228, 161-176.
+Munte, T. F., Matzke, M., & Johannes, S. (1997). Brain activity associated
+with syntactic incongruencies in words and pseudo-words. Journal of
+Cognitive Neuroscience, 9(3), 318-329.
+Nevins, A., Dillon, B., Malhotra, S., & Phillips, C. (2007). The role of featurenumber and feature-type in processing Hindi verb agreement
+violations. Brain Research, 1164, 81-94.
+Nichols, J. (1986). Head-marking and dependent-marking grammar.
+Language, 62(1), 56-199.
+Nieuwland, M. S., & Kuperberg, G. R. (2008). When the truth is not too
+hard to handle: An event-related potential study on the pragmatics of
+negation. Psychological Science, 19(12), 1213-1218.
+
+Osterhout, L., & Holcomb, P. J. (1992). Event-related potentials elicited by
+syntactic anomaly. Journal of Memory and Language, 31, 785-806.
+Osterhout, L., & Holcomb, P. J. (1995). Event-related potentials and
+language comprehension. In M. D. Rugg & M. G. H. Coles (Eds.),
+Electrophysiology of mind: Event-related brain potentials and cognition.
+Oxford, UK: Oxford University Press.
+Osterhout, L., Holcomb, P. J., & Swinney, D. A. (1994). Brain potentials
+elicited by garden-path sentences: Evidence of the application of verb
+information during parsing. Journal of Experiment Psychology:
+Learning, Memory, & Cognition, 20, 786-803.
+Osterhout, L., Kim, A., & Kuperberg, G. (in press). The neurobiology of
+sentence comprehension. In M. Spivey, M. Joanaisse, K. McRae (Eds.),
+The Cambridge handbook of psycholinguistics. Cambridge: Cambridge
+University Press.
+Osterhout, L., McLaughlin, J., Kim, A., Greenwald, R., & Inoue, K. (2004).
+Sentences in the brain: Event-related potentials as real-time
+reflections of sentence comprehension and language learning. In M.
+Carreiras & C. Clifton (Eds.), The on-line study of sentence
+comprehension: Eyetracking, ERP, and beyond. Psychology Press.
+Osterhout, L., McLaughlin, J., Pitkanen, I., Frenck-Mestre, C., & Molinaro, N.
+(2006). Novice learners, longitudinal designs, and event-related
+potentials: A paradigm for exploring the neurocognition of secondlanguage processing. Language Learning, 56, 199-230.
+Osterhout, L., & Mobley, L. A. (1995). Event-related brain potentials
+elicited by failure to agree. Journal of Memory and Language, 34(6),
+739-773.
+Patel, A. (2003). Language, music, syntax and the brain. Nature Reviews
+Neuroscience, 6, 674-679.
+Pearlmutter, N. J., Garnsey, S. M., & Bock, K. J. (1999). Agreement processes
+in sentence comprehension. Journal of Memory and Language, 41,
+427-456.
+Roehm, D., Bornkessel, I., Haider, H., & Schlesewsky, M. (2005). When case
+meets agreement: Event-related potential effects for morphologybased conflict resolution in human language comprehension.
+Neuroreport, 16(8), 875-878.
+Sigurdsson, H. A. (2004). The syntax of person, tense and speech features.
+Italian Journal of Linguistics, 16, 219-251.
+Silva-Pereyra, J. F., & Carreiras, M. (2007). An ERP study of agreement
+features in Spanish. Brain Research, 1185, 201-211.
+Streb, J., Rosler, F., & Hennighausen, E. (1999). Event-related responses to
+pronoun and proper name anaphors in parallel and nonparallel
+discourse structures. Brain and Language, 70(2), 273-286.
+Tabor, W., Galantucci, B., & Richardson, D. (2004). Effects of merely local
+syntactic coherence on sentence processing. Journal of Memory and
+Language, 50(4), 355-370.
+Trueswell, J. C., Tanenhaus, M. K., & Kello, C. (1993). Verb-secific
+constraints in sentence processing: Separating effects of lexical
+preference from garden-paths. Journal of Experimental Psychology:
+Learning, Memory and Cognition, 19(3), 528-553.
+Vespignani, F., Molinaro, N., & Job, R. (in press). ERP study of parsing
+strategies during repair. In L. Tommasi, R. Di Matteo (Eds.), Crosslinguistic perspectives in language processing. Amsterdam, NL: John
+Benjamins Publishing Company.
+Wagers, M. W., Lau, E., & Phillips, C. (2009). Agreement attraction in
+comprehension: Representations and processes. Journal of Memory
+and Language, 61(2), 206-237.
+Wilson, E. B. (1927). Probable inference, the law of succession, and
+statistical inference. Journal of the American Statistical Association,
+22(158), 209-212.
+Zamparelli, R. (2008). Features, facts and clausal agreement. Lingua e
+Linguaggio, 1, 111-132.
+
+

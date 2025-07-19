@@ -1,0 +1,1571 @@
+Journal of Memory and Language 67 (2012) 468-485
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Memory and Language
+journal homepage: www.elsevier.com/locate/jml
+
+How pragmatic interpretations arise from conditionals: Profiling the
+Affirmation of the Consequent argument with reaction time and EEG
+measures q
+Mathilde Bonnefond a,b,, Jean-Baptiste Van der Henst a,, Marion Gougain a, Suzanne Robic a,
+Matthew D. Olsen a, Oshri Weiss a, Ira Noveck a,c,
+a
+b
+c
+
+Laboratoire sur le Langage, le Cerveau et la Cognition (L2C2), CNRS Universite Lyon 1, France
+Donders Institute for Brain, Cognition and Behaviour, Radboud University Nijmegen, The Netherlands
+Centre de recherche francais a Jerusalem (CRFJ), CNRS-MAEE, Israel
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 29 November 2011
+revision received 20 July 2012
+Available online 13 September 2012
+Keywords:
+Conditional reasoning
+Experimental pragmatics
+N200
+P300
+P600
+
+a b s t r a c t
+Conditional reasoning consists in combining a conditional premise with a categorical premise and inferring a conclusion from them. Two well-known conditional arguments are
+Modus Ponens (MP: If P then Q; P//therefore Q), which is logically valid and Affirmation of
+the Consequent (AC: If P then Q; Q//therefore P), which is not. The latter is often accepted
+as true on pragmatic grounds under the generally accepted assumption that the conditional
+premise is transformed so as to justify a biconditional reading (p if-and-only-if q). We present
+results from two experiments - one using self-paced measures and the other electroencephalography (EEG) - while comparing participants' evaluations of MP and AC arguments. Based
+on prior work, we anticipated finding two types of individuals as a function of their endorsing
+or rejecting AC arguments. The self-paced task (Experiment 1) shows that Rejecters of AC
+arguments are linked to especially long response times with respect to Endorsers and, critically, shows that AC argument's minor premise prompts slowdowns among all participants
+compared to MP's. The EEG study (Experiment 2) reveals that the minor premise in AC arguments prompts both Rejecters and Endorsers to produce an N200 wave, which the literature
+associates with a violation of expectations. These findings suggest that the second premise of
+AC arguments arrives unexpectedly even among those who are ultimately Endorsers. We
+describe how these findings impact the conditional reasoning literature.
+O 2012 Elsevier Inc. All rights reserved.
+
+Introduction
+q
+
+The authors wish to thank Victor Ferreira and three anonymous
+reviewers for their incisive comments. This work was supported by a
+Fyssen foundation grant awarded to the first author and by the French
+ANR ``Neuroreasoning'' awarded to the last author.
+ Corresponding authors. Addresses: Donders Institute for Brain, Cognition and Behavior, Radboud University, Kapittelweg 29, 6525 EN
+Nijmegen, The Netherlands. Fax: +31 (0)24 36 10989 (M. Bonnefond),
+L2C2, CNRS Universite Lyon 1, Institut des Sciences Cognitives, 67, Bd
+Pinel, 69675 Bron, France. Fax: +33 (0)4 37 91 12 10 (J.-B. Van der Henst
+and I. Noveck).
+E-mail addresses: m.bonnefond@fcdonders.ru.nl (M. Bonnefond),
+vanderhenst@isc.cnrs.fr (J.-B. Van der Henst), noveck@isc.cnrs.fr
+(I. Noveck).
+0749-596X/$ - see front matter O 2012 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.jml.2012.07.007
+
+The conditional is arguably the most studied logical
+expression in the cognitive sciences. Entire books are devoted to If (Evans & Over, 2004) and explanations concerning its comprehension hold a central place in linguistics
+(e.g. Horn, 2000), philosophy (e.g., Stalnaker, 1968), and,
+of course, in the psychology of reasoning (Braine & O'Brien,
+1991; Johnson-Laird & Byrne, 1991). One of the reasons it
+garners so much attention is that it is often linked with
+inference forms that are pragmatically justifiable while
+not being logically valid.
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+To appreciate one such form, consider the Affirmation
+of the Consequent (AC) argument, which is the focus of
+our investigations and presented in (1) below:
+(1)
+
+If Jean goes to the movies,
+then he travels by bicycle.
+
+If P then Q
+
+Jean travels by bicycle.
+Therefore, he goes to the movies.
+
+Q
+)P
+
+From a logical point of view, this argument is fallacious
+because the major premise is compatible with possibilities
+in which John travels by bicycle and does not go to the
+movies (e.g., imagine Jean is actually traveling by bicycle
+to go to the opera). Nevertheless, its conclusion is endorsed
+at rates ranging from roughly 25% to 75%, indicating that
+participants find ways to make this conclusion acceptable
+(for summaries, see Evans, 1993; Girotto, Mazzocco, &
+Tasso, 1997). In due course, we consider how theorists
+account for these responses but, for now, we provide more
+background on conditional arguments.
+We turn to Modus Ponens (MP), represented in (2) below, which has the same elements as AC, but is central to
+logic and intuitively well understood:
+(2)
+
+If Jean goes to the movies,
+then he travels by bicycle.
+
+If P then Q
+
+Jean goes to the movies.
+Therefore, he travels by bicycle.
+
+P
+)Q
+
+The minor premise in (2) represents the conditional's
+antecedent, which provides a means for arriving at a logical conclusion. Not surprisingly, experimental participants
+typically endorse arguments such as the one in (2) at rates
+approaching ceiling.
+Now that one can see how a minor premise determines
+a conditional argument's logical validity, we complete our
+panorama and justify our focus on AC by presenting the
+two remaining arguments that are traditionally associated
+with conditionals. One is the logically valid Modus Tollens
+(MT), which is If P then Q; not-Q/Therefore, not-P. When its
+minor premise negates the conditional's consequent, the
+antecedent cannot have been true. The remaining one is
+the Denial of the Antecedent (DA), which is If P then Q;
+not-P/Therefore, not-Q. Its minor premise, much like AC's,
+makes it a non-starter for logical inference-making; however, it also prompts substantial rates of pragmatically justifiable endorsements. Given that the DA argument adds a
+layer of complexity with negations, AC ends up being the
+simplest pragmatically justifiable argument, making it
+the most amenable for investigation.
+In the remainder of the Introduction, we take the following four steps. First, we describe the rich seminal accounts
+from both the linguistic-pragmatic and psychology-of-reasoning literatures as they pertain to the processing of AC
+arguments. We describe (a) a wide consensus that assumes
+that AC endorsements are carried out routinely and
+smoothly, as well as; (b) two accounts of AC rejections. Second, we summarize conflicting reports from experimental
+
+469
+
+investigations of on-line processing related to AC. While
+Marcus and Rips (1979) reported that endorsed AC arguments are processed at speeds comparable to MP (and that
+AC rejections are slower than both), Barrouillet, Grosset,
+and Lecas (2000) found that endorsed AC arguments are
+processed more slowly than MP. Third, we present Barrouillet et al.'s account for their reported slowdown, which
+views an endorsed AC argument as on a par theoretically
+with MP but as one whose minor premise is simply less preferred. We then present our hypothesis, which proposes
+that the minor premise of AC arguments is generally unexpected and that endorsements result from post hoc justifications. Fourth, we describe how we bring fine temporal
+measures to the questions raised through self-paced measures in Experiment 1 and electroencephalography (EEG)
+in Experiment 2.
+Theoretical background
+Although they offer differing explanations, the linguistic-pragmatic and the psychology-of-reasoning literatures
+actually agree that endorsed AC arguments are processed
+routinely. According to linguistic-pragmatists, endorsements of AC arguments are the result of phenomena that
+essentially enrich the semantics of conditionals. Horn
+(2000), for one, assumes that If P then Q is understood as
+the biconditional P if and only if Q. According to this proposal, such a transformation is comparable to other processes of strengthening in language. Consider how the
+generic term ``drink'' (as in ``Would you like to have a
+drink'') often refers more specifically to an alcoholic beverage or how ``I don't believe that p'' is understood more narrowly as ``I believe that not-p.'' Strengthening in conditional
+statements occurs when the antecedent, which is formally
+only sufficient for generating the consequent, acts as both
+sufficient and necessary. After such a transformation, AC
+endorsements are considered as elementary as MP.
+Other linguists argue that a conditional is viewed as a
+biconditional through invited inferences (Geis & Zwicky,
+1971; van der Auwera, 1997). These are pragmatic inferences that optionally piggy-back on the conditional. Under
+appropriate contexts, If P then Q prompts the emergence of
+a form such as If Q then P. Specialists in the psychology of
+reasoning who incorporate the notion of invited inference
+include Braine and O'Brien (1991). They argue that invited
+inferences are applied unless there is something in the
+context that ``countermands'' them (p. 189) and, once in
+place, the participant treats the minor premise of the AC
+in a way similar to Modus Ponens (Rumain, Connell, &
+Braine, 1983).
+As can be seen, neither of these accounts readily
+describes how reasoners reject AC arguments. This leads
+us to summarize two other well-known psychological approaches that agree that AC arguments are endorsed routinely. However, they also aim to explain how AC is
+rejected.
+The first comes from Mental Models (Johnson-Laird &
+Byrne, 1991), which views reasoning as an analogical process that combines and elaborates upon representative
+models. It views AC inferences as akin to MP since both
+stem from the same representation in (3):
+
+470
+
+(3)
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+PQ
+...
+
+The first line refers to the ``initial'' model and the three
+dots below it refer to further possible combinations that
+could eventually render the conditional true. According
+to the earliest versions of Mental Models (e.g., Johnson
+Laird, Byrne, & Schaeken, 1992), AC is endorsed because
+the procedure dictates that a reasoner find a match between the minor premise (Q) and the model in (3) which
+then generates the conclusion P. The same process can be
+applied to MP (with the minor premise, P).
+Participants who reject AC, on the other hand, are those
+who flesh out the model. For that to occur, two other true
+models associated with the conditional are generated as in
+(4) below:
+(4)
+
+P Q
+:P Q
+:P :Q
+
+Here, participants recognize that the minor premise in AC
+engages two possible models, making the argument indeterminate (Rader & Sloutsky, 2002).
+The other reasoning account we consider comes from
+suppositional theory (Evans, 2006), which adopts a format
+similar to Mental Models (Byrne & Johnson-Laird, 2009)
+but views conditional reasoning more probabilistically. It
+assumes that ordinary people process the conditional by
+supposing P, adding it to their stock of knowledge and
+running a mental simulation in order to evaluate Q;
+ultimately, they make subjective probability judgments
+about Q given P. Upon hearing a conditional, listeners assume that there is a high conditional probability between
+antecedent and consequent.
+Advocates of suppositional theory assume that AC processing follows fluidly from the processing of conditionals
+in two related ways. One way is to incorporate forms of invited inference in the conditional's initial representations
+(see Oberauer, 2006). The other is to situate reasoning
+within Evans's dual systems of reasoning account, where
+System 1 is fast acting, automatic and parallel and System
+2 is slow operating, rule-based and sequential (see also
+Frederick, 2005; Kahneman, 2003; Sloman, 1996). Assuming that invited inferences are a System 1 affair, they could
+be overridden by System 2 leading to ``deeper'' processing
+(Evans, Handley, Neilens, & Over, 2007, p. 1774). Evans and
+colleagues argue that such deeper processing can occur
+when meaningful materials are used (e.g. deontic conditionals such as If you are drinking alcohol then you must be
+over 18 encourage fewer AC endorsements than an arbitrary causal conditional, such as If the switch is down then
+the light goes on) or through individual differences centering on memory capacities and general intelligence (Evans,
+Handley, Neilens, & Over, 2008, 2009; Evans et al., 2007).
+A host of experiments support the claim that AC rejections are associated with deeper processing. For example,
+while using arbitrary materials, Evans et al. (2007) showed
+
+that AC arguments are more likely to be rejected by those
+who score higher on a test of General Intelligence (see also,
+Evans et al., 2008). Other work has shown that those with
+greater working-memory abilities are more likely to reject
+AC arguments than those who have weaker abilities (De
+Neys, Schaeken & d'Ydewalle, 2005; Evans et al., 2009).
+Many have also noticed that adults are more likely than
+children to reject AC arguments (Barrouillet, Markovits, &
+Quinn, 2002; Markovits & Barrouillet, 2002) and if one assumes that children process conditional arguments more
+shallowly than adults, this makes sense. These kinds of
+data have solidified the proposal that one can divide participants into shallow and deep processors (Evans, 2006;
+Evans et al., 2007; Sperber, Cara, & Girotto, 1995). This sort
+of distinction will be useful to our own analyses later.
+As can be seen, all seminal accounts consider it noncontroversial that participants endorse AC arguments in a
+routine manner, i.e. automatically or shallowly. Proposals
+from linguistic-pragmatics point to an enrichment of some
+kind, one that affects the interpretation of the conditional
+premise so that AC processing becomes similar to that of
+MP. Proposals from the psychology of reasoning view AC
+endorsement as resulting from some form of superficial
+treatment that does not distinguish it terribly from MP.
+Two psychological theories further anticipate rejections
+of AC arguments, which come with fleshing out, further
+cues or more effortful processing.
+We now turn to the psychological literature's small set
+of processing experiments in order to determine the extent
+to which their results are consistent with the theoretical
+depictions. We will focus on reaction times related to the
+AC arguments' two sorts of reactions - endorsements and
+rejections. We will also highlight how the reaction times
+of AC endorsements compare to those of MP.
+Experimental background: Time course
+Two behavioral studies have succeeded in measuring
+online treatments of AC arguments. The first comes from
+Marcus and Rips (1979, Experiment 2), who presented conditional statements in all four of the standard forms - MP,
+AC, DA and MT - while using arbitrary content (e.g. If a card
+has an A on the left then it has a 1 on the right). They provided an entire argument tachistoscopically with one
+(affirmative or negative) conclusion, rendering any individual argument compatible or incompatible with each of the
+four forms.
+They reported that the evaluation times related to
+endorsing AC and MP arguments were comparable
+(1813 ms and 1907 ms, respectively). However, only a
+third of the responses to AC were endorsed whereas all
+MP arguments were, with AC rejections taking much longer (2437 ms). As can be observed, these results are perfectly consistent with the narrative from the theories
+above: Pragmatic transformations on the conditional, or
+superficial treatments of them, lead to endorsed AC arguments whose latencies are indistinguishable from those
+for MP; however, rejections of AC arguments entail deeper
+processing.
+Barrouillet et al. (2000, Exp. 1) also used reaction times
+to investigate the endorsement patterns of all four
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+conditional arguments but with a much different design.
+While also using arbitrary content (e.g. If the flowers are
+artificial then he puts them on the right), participants were
+required to hold a conditional premise in memory as a
+series of minor premise-conclusion combinations were
+presented. Thus, reaction times concerned these combinations. They found rates of AC endorsements (79%) that are
+among the highest in the literature; more importantly, the
+associated response times (2355 ms) were significantly
+slower than MP's (2018 ms). Reaction times of those who
+rejected AC were not reported.
+Accounts for slowdowns in the AC's minor premise
+How do Barrouillet and colleagues account for these
+results? They concede that the slowdowns are hard to
+interpret (see Barrouillet et al., 2000, pp. 253-255). One
+hypothesis is that invited inferences arise with the minor
+premise (and not with the conditional premise). Their second hypothesis, which abides by Mental Model theory, begins by assuming that MP and AC are on par in terms of
+inferential value. However, taking into consideration a suggestion from Evans (1993, p. 9), they further propose that
+the conditional form in If P then Q is endowed with an
+intrinsic directionality that leads to faster inference-making when going ``forward,'' i.e. from the antecedent to the
+consequent as in MP rather than going ``backward'' as in
+AC. This result has led some to assume that listeners basically have a general preference for MP over AC inferences
+(e.g., Oberauer, 2006, p. 279).
+It pays to make two points here. One is that Barrouillet
+et al.'s paradigm (whose measure is based on a minor premise-conclusion combination) is not in a position to isolate
+the minor premise as a source of the slowdown. The other
+is that the original insight about directionality was, not
+that AC endorsements are generally less available than
+MP but only, that certain formulations can encourage AC
+endorsements more than others. That is, Evans (1993, see
+Table 3) showed that the relative endorsement rates that
+followed from If P then Q reapportion themselves slightly
+when P only if Q is employed instead. Endorsement rates
+with If-then are about 90% for MP and 60% for AC while
+with only-if they are about 80% for MP and 70% for AC. That
+said, the asymmetric result between AC and MP in the
+wake of classic If-then statements calls for investigation
+and, if confirmed, its source needs elucidation. This is at
+the heart of the work here, which prompts us now to present our own hypothesis.
+We view the slowdowns discovered in Barrouillet
+et al.'s task as being the result of raised expectations. When
+a listener comprehends If P then Q, she is conversationally
+being asked to anticipate hearing information about P; in
+other words, the mention of a conditional implies that
+the minor premise of MP is imminent or at least highly relevant. This makes MP fundamentally different than AC (see
+Allott & Uchida, (2009) for a similar argument). We also
+propose that raised expectations entail a cost on the part
+of the listener - in a graded fashion - such that the more
+time devoted to raising expectations the more likely it is
+the listener will be satisfied only with the conditional's
+antecedent as a minor premise. A secondary prediction
+
+471
+
+then is that increasing effort attributed to processing AC
+ultimately translates into higher rates of rejection.
+Prior work from our group is consistent with this
+hypothesis. Findings from Van der Henst, Bujakowska,
+Ciceron, and Noveck (2007) showed that participants
+who received AC arguments in a word-by-word manner
+were more likely to reject them than those who received
+identical arguments in a sentence-by-sentence manner.
+This result indicates that extra processing time (which
+was intrinsic to the word-by-word presentation) is linked
+to restricting expectations about the upcoming minor premise. Even more revealing is EEG work from two of the
+authors (Bonnefond & Van der Henst, 2009), who have
+shown that the minor premise (P) in a traditionally ordered
+MP argument (If P then Q; P) leads to P3b activity (centroparietal positivity peaking around 300 ms) when compared to the same premise appearing first as part of an
+inverted argument (as in P; If P then Q). Given that the
+EEG literature considers P3b activity a reflection of satisfied expectations (for a review, see Picton, 1992), this represents strong confirmation of our hypothesis. An equally
+important finding from that study is that an irrelevant minor premise (e.g., If P then Q; I) leads to an N2 component
+(frontal negativity activity peaking around 200 ms), which
+is usually interpreted as a violation of an expectation (for a
+review, see Folstein & Van Petten, 2008). Together, these
+findings suggest that what classically follows if-then either
+satisfies expectations or does not. It also indicates that the
+P3b and the N2 can be usefully employed in an AC investigation. We will discuss these components and the conclusions one can draw from them in greater detail in the
+introduction of Experiment 2.
+The current experiments
+Our goal is twofold and the first is fundamental: Given
+the current state of affairs, it is still not clear that AC
+endorsements - when compared to MP - lead to slowdowns nor that the minor premise alone is their source.
+One prominent study (Marcus & Rips, 1979) reveals a null
+effect when entire arguments are presented and the other
+shows that there is a slowdown (Barrouillet et al., 2000)
+linked to the presentation of the minor premise and conclusion together. While two other studies have addressed
+the presumed asymmetry between MP and AC arguments,
+one (Santamaria & Espino, 2002) combines the comprehension times of endorsed and rejected AC arguments
+and the other investigates non-standard conditional reasoning (Oberauer, Hornig, Weidenfeld, & Wilhelm, 2005).
+Neither addresses the first question we raise here: Which
+of the two original claims can be confirmed and which
+rejected.
+In Experiment 1, we present a self-paced comprehension task where participants control argument uptake as
+they read the Major (Conditional) Premise, the Minor Premise of a MP or AC argument and then a conclusion (note
+that we employ traditional orders throughout). If the minor
+premise of AC prompts slowdowns compared to the one in
+MP, Barrouillet et al.'s claim would be confirmed. Under the
+assumption that individual differences can reveal the way
+slowdowns interact with AC processing, we also categorize
+
+472
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+participants as Endorsers and Rejecters while recording
+their self-imposed uptake. (These names refer to participants who either endorse or reject AC arguments.) To anticipate, this experiment does reveal that the minor premise of
+AC arguments prompts slowdowns when compared to the
+minor premise of MP, even among those who ultimately
+endorse both.
+This leads to our second goal, which is to distinguish between the directionality account and our own hypothesis.
+In Experiment 2, we employ a paradigm that is similar to
+Experiment 1's, except that - instead of being self-paced
+- it employs techniques from EEG. The question we ask
+is whether the minor premise of an AC argument prompts
+a P3b akin to the one in MP arguments or an N2 akin to the
+one found with irrelevant minor premises. If one assumes,
+as do all the seminal theories, that endorsed AC arguments
+are carried out in ways similar to MP arguments, one
+would anticipate a P3b for an AC minor premise. This applies to the directionality account as well which would argue for a P3b, but one that is perhaps slightly weaker than
+MP's. According to a raised expectations account, anything
+other than the antecedent of an if-then statement ought to
+be surprising. This leads to the novel prediction that one
+would find an N2 among all minor premises of AC arguments; a corollary is that the effect should be especially
+strong among those who ultimately reject AC arguments.
+
+Experiment 1
+This reasoning paradigm presents a series of conditional
+arguments that require participants to determine whether
+or not the provided conclusion logically follows from the
+premises. Below, we point out four of its features. We also
+explain how these features compare with those in prior
+conditionals tasks.
+First, unlike most studies on conditionals, we focus on
+two (and not all four) conditional arguments. Nevertheless,
+the main experimental task provides four sorts of trials.
+These are trials that begin with the premise set for a standard Modus Ponens argument (If P then Q; P) and that ultimately provide a Compatible (Q) or Incompatible (R)
+conclusion as well as trials that begin with the premise set
+for Affirmation of the Consequent arguments (If P then Q;
+Q) and that ultimately provide a Compatible (P) or Incompatible (S) conclusion. One can see that MP serves as an
+apt control because it is (a) valid, (b) contains the same content (in a different validity-inducing order), and; (c) has historically proven to be unproblematic for participants.
+Second, like Barrouillet et al. (2000) and to a large extent Marcus and Rips (1979), we use content that avoids
+thematic (e.g. causal or deontic) conditional interpretations. We thus stick with what the literature has dubbed
+basic conditionals (Evans, Ellis, & Newstead, 1996) by using
+letters, such as If there is a T then there is a B, in the task's
+arguments. An Incompatible conclusion is thus expressed
+as a previously unmentioned letter. For example, one
+MP-Incompatible condition appears as If there is a T then
+there is a B; There is an T//There is a J.
+Third, we set up the investigation so that we can capture latencies from participants as they read each premise
+
+and then the conclusion. This sequential analysis allows us
+to investigate the processing of individual premises as participants carry out the argument, which is essential for a
+refined understanding of the AC reasoning process. In particular, it will allow us to identify the part of the argument
+that prompts extra effort. While we expect slowdowns
+linked to rejections, our method can also help determine
+the way endorsers handle AC arguments. After all, our
+main goal is to determine whether or not AC arguments
+are handled with the same relative ease as MP arguments.
+We plan on focusing on the minor premise because (a) it
+represents the earliest moment that conditional inference-making can take place (see Lea, 1995; Reverberi
+et al., 2007), (b) it represents the earliest moment that valid logical reasoning can be distinguished from pragmatic
+processing and, because; (c) prior work has indicated that
+the minor premise of the MP argument comes with satisfied expectations (Bonnefond & Van der Henst, 2009).
+The degree to which AC and MP arguments are similar at
+the Minor Premise remains to be seen.
+Fourth, we take advantage of individual differences.
+That is, Endorsers and Rejecters can be compared as we
+determine how they process AC and MP arguments and
+from the first premise through the conclusion. If there
+are differences between groups of participants (as one
+would expect) it becomes relevant to know when in the
+argument distinctions arise. If the suppositional account
+holds, endorsements of AC-Compatible arguments ought
+to be shallow and as fast as MP endorsements while rejections of AC-Compatible arguments ought to be slower than
+both.
+Method
+Participants
+Forty-one (16 females), native French-speaking, undergraduate volunteers with no advanced mathematical background and no history of neurological or psychiatric
+disorders were recruited from the Universite de Lyon 2.
+Materials
+Participants were presented with 48 conditional arguments involving letters of the alphabet (font type: Times
+New Roman; font size: 30; color: white; background:
+black). As an example, consider If there is an A then there
+is a C. We purposely excluded the letters Y and W, which
+require more than a single syllable when pronounced in
+French and we also avoided joining letters that could have
+some unintended meaning (for example, we did not use If
+there is a V then there is an F because the initials VF are used
+to indicate that a film has been dubbed into its version
+francaise). Although 48 conditional arguments were presented to each participant, 64 problems were prepared -
+16 for each of the four conditions to be described below.
+The e-prime software, which ran the experiment, randomly selected 12 from each condition. The premises and
+the conclusion were presented on the same single line each
+time.
+The experiment was designed so that any given conditional provided a Modus Ponens argument that was valid
+(If there is an A then there is a C; There is an A//There is
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+a C) or not (If there is an A then there is a C; There is an A//
+There is a D). These were referred to as MP-Compatible and
+MP-Incompatible, respectively. Likewise, conditionals allowed for the evaluation of Affirmation of the Consequent
+arguments. One was consistent with an endorsable AC
+argument (If there is an A then there is a C; There is a C//
+There is an A) and the other was inconsistent with it (If
+there is an A then there is a C; There is a C//There is an
+F). These were called AC-Compatible and AC-Incompatible,
+respectively.
+This design allowed us to combine conditions and increase the number of trials at critical points. For instance,
+regardless of whether the second premise was part of the
+AC-Compatible or AC-Incompatible condition, the paradigm was set up to record reading times of the second premise for all AC arguments. This doubled the number of
+trials for AC's minor premise to 24.
+Procedure
+Participants were presented instructions on a computer
+screen with e-prime software (Schneider, Eschman, & Zuccolotto, 2002). They were told to imagine that they were in
+front of a blackboard on which one found several letters
+and that their task, which was ``not very complicated,''
+was to make ``little deductions with letters.'' Participants
+were made to appreciate the difference between the ``logical'' and ``not-logical'' choices through two examples in
+which the expression not both served as a major premise.
+These were ``There is not both an M and an N; There is
+an M//There is not an N'' and ``There is not both a T and
+an H; There is not an H//There is a T.'' The instructions described how the optimal choice for the former was ``logical'' and how the optimal choice for the latter was ``not
+logical.''
+The second screen explained how the self-paced presentation worked with respect to the premises and the
+conclusion. Participants were told that the sentences
+would be presented one at a time and that, in order to advance the argument, they simply needed to tap the space
+bar. They were told that they had to decide whether a provided conclusion was ``logically deducible'' from the premises and that there were two choices: If one thought
+the conclusion logically followed ``you should click on `logical''' which was written on the left button of a two-buttoned mouse. As can be surmised, one hand rested on the
+space bar and the other on the mouse (hands for space
+bar and mouse were randomly assigned). The next sentence said that if the provided conclusion was not a logical
+consequence of the premises, to ``click on `non-logical.'''
+They were then told to expect some brief training and that
+the task would include the use of a lot of ``ifs''. Overall, the
+task aimed to put the participant at ease with the task.
+Each line of text (whether it be a premise or conclusion)
+was presented in the middle of the screen and was left-justified. Each premise was preceded by a fixation point (viz. a
+cross) that ultimately lasted 600 ms (200 for the cross and
+400 ms for a pause). Each conclusion was preceded by a
+different form (an arrow) that ultimately lasted 1900 ms
+(1500 ms for the arrow followed by a 400 ms pause). The
+conclusion was then presented in bold. We included the
+extra delay and the bold font for the conclusion in order
+
+473
+
+to distinguish it from the prior lines and to discourage participants from rushing through their evaluations. A slight
+delay (400 ms) separated each problem. The training consisted of giving four arguments (one for each of the experiment's four Argument Types). However, no feedback was
+provided.
+Results
+Here, we first describe our criteria for (a) dividing participants into groups (based on their responses to the ACCompatible arguments) and for; (b) the exclusion of data
+points. We then undertake our analyses by investigating
+the first-premise and by working our way down to the
+conclusion.
+Evaluation styles
+Participants were separated into three groups based on
+the way they responded to the standard AC (i.e. AC-Compatible) argument: One group consisted of 15 participants who
+endorsed AC-Compatible arguments at rates that defied
+chance predictions (10 or more responses of ``logical'' out
+of 12). We called the members of this group Endorsers. A second group consisted of 13 participants who (normatively)
+rejected the AC-Compatible argument at rates that defied
+chance predictions (10 or more responses of ``Non-logical''
+out of 12). The members of this group were called Rejecters.
+The remaining nine participants were not sufficiently consistent to merit placement into either of these and were
+called Mixed. We called these three types of reactions Evaluation Styles which then served as the basis of our analyses
+between Participants. In the interest of succinctness and
+space, statistical analyses focus on the Evaluation Styles of
+Endorsers and Rejecters only, even though the tables include the summary statistics of all three. (Although we did
+not include the Mixed group in our analyses, their latencies
+- which were usually midway between those of Endorsers
+and Rejecters - indicate that the reported speeds at the
+two extremes appear reliable even among individuals who
+were inconsistent over the course of the experiment.)
+Data treatment
+Four participants were excluded due to high rates of
+incorrect responses to either of the Modus Ponens problems or to the remaining AC problem (two answered incorrectly to roughly half of the MP-Compatible problems, a
+third participant responded incorrectly to roughly half of
+the MP-Incompatible problems, and a fourth participant
+answered ``logical'' to roughly half of the AC-Incompatible
+problems). The remaining participants' rates of correct responses to MP-Compatible, MP-Incompatible and ACIncompatible were 98%, 98.5% and 98.5%, respectively.
+Data from two participants who made 3 errors on the
+AC-Incompatible problems remained in all analyses because they performed at ceiling on the MP problems.
+A log transformation was applied to the reaction time
+data. Responses were considered outliers if reaction times
+were beyond 3 Standard Deviations (in either direction) of
+the means of the Major (Conditional) Premise, the Minor
+Premise or the Conclusion. This amounted to eliminating
+2.9% of the original data from statistical analyses. In
+
+474
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+Table 1
+Reading times of the Endorsers, Mixed Participants and Rejecters with respect to the self-paced conditional evaluation task in Experiment 1.
+Premise 1
+Endorsers
+Mixed
+Rejecters
+
+If P then Q
+1805
+2440
+2542
+
+Premise 2
+Endorsers
+Mixed
+Rejecters
+Conclusion
+Endorsers
+Mixed
+Rejecters
+
+P (MP)
+812
+875
+987
+Q
+(MP compatible)
+847
+843
+966
+
+Q (AC)
+854
+1085
+1277
+R
+(MP incompatible)
+965
+925
+1131
+
+P
+(AC compatible)
+835e
+1000e/888r
+1230r
+
+S
+(AC incompatible)
+892
+921
+1055
+
+Note: Endorsers are those who respond ``logical'' to AC arguments (If P then Q; Q//P) while Rejecters are those who respond ``not logical'' to them. e/r These
+refer to the mean reading times for the conclusion to AC-Compatible problems among Mixed participants when they endorse (e) and when they reject (r).
+
+addition, when analyzing the reaction time data, we removed (a) the error trials from the MP-Compatible, MPIncompatible, and AC-Incompatible control problems
+(which amounted to 2% of all responses) as well as; (b)
+those responses that were exceptional to either an Endorser or Rejecter response style (1.5% of the AC-Compatible
+trials, which amount to 0.3% of all trials).
+We now turn to our analysis as the argument unfolds. We
+will first determine how response times differ at the Major
+(Conditional) Premise while using the two Styles as
+distinguishing categories. We will then look at performance
+- based on Styles and sort of Minor premise - at the Minor
+premise level to characterize response times there. Finally,
+we determine how Styles and actual conclusions across
+the four Arguments affect response times. Thus, analyses
+become individuated more as one reaches the end of the
+syllogism.
+Given the materials, we carried out an analysis using
+participants only (we did not include item analyses because one would expect effects due to letters to generalize). For reaction times, partial eta-squared are reported.
+Following Cohen (1988), effect sizes above .20 reflect a
+small effect, effect sizes above .50 reflect a medium one,
+and effect sizes above .80 reflect a large one.
+The major conditional premise
+The first set of three rows of Table 1 shows the response
+time of the Major (Conditional) Premise reconverted from
+its mean natural log, as a function of three groups based
+on their Evaluation-styles (Endorsers, Mixed-Participants
+and Rejecters). One can see that the Endorsers processed
+the first premise rather fast and faster than the participants
+with the other styles. As we indicated above, and in order to
+make the sort of comparisons that traditionally concern the
+literature, we compared just two sorts of Style (the Endorsers and the Rejecters). A reliable difference was observed (ttest, t(26) = 2.07, p < .05), with Rejecters taking longer than
+Endorsers. Thus, one can see that the different Styles in
+approaching AC-Compatible Arguments can reveal different approaches to Conditional problems from the start.
+The minor premise
+The second set of three rows in Table 1 shows the response times of Premise 2 reconverted from the natural
+
+logs as a function of three groups and the Minor Premise
+(AC vs. MP) presented. One can see that Endorsers processed the second premise rather fast and faster than participants with the other styles. Moreover, as can be seen,
+the difference between MP and AC minor premises grows
+as one compares Endorsers, Mixed and Rejecter styles.
+We compared two levels (AC and MP) of the Minor Premise as a within-subject factor with the two sorts of Style
+(Endorsers and the Rejecters) as part of a between-subjects
+comparison. A reliable difference was observed in terms of
+Minor Premise (F(1, 26) = 55.86, p < .001, g2 = 0.682) and
+Style (F(1, 26) = 4.74, p < .05, g2 = 0.154) with AC Minor
+Premises prompting slower reaction times than MP minor
+premises and with Rejecters taking longer than Endorsers.
+The interaction between Style and Argument Type was also
+reliable (F(1, 26) = 14.13; p < .001, g2 = 0.352).
+The conclusion(s)
+The third set of rows in Table 1 shows the response time
+converted from the natural logs of the conclusion as a function of Style and the four possible problem types. As can be
+seen, the Rejecters took longest and the valid MP-Compatible problems prompted the fastest responses. These
+observations were largely verified by running an ANOVA
+with Log(reaction time) as the dependent variable, Style
+(Endorser or Rejecter) as a between-subject factor and
+Argument Type (MP-Compatible, AC-Compatible, MPIncompatible, AC-Incompatible) as a within-subject factor.
+The main effect for Style was significant (F(1, 26) = 5.32,
+p < .05, g2 = 0.170). Argument Type, too, produced significant effects (F(3, 78) = 4.18, p < .01, g2 = 0.138). The interaction between Style and Argument Type was reliable
+(F(3, 78) = 2.86; p < .05, g2 = 0.099).
+Post hoc analyses on the interactions showed that the
+Rejecters were very largely responsible for these interactions. Their slow evaluations of AC-Compatible problems
+were significantly slower than those to five of the seven
+other Style-Argument Type combinations (all p's < .001),
+the exceptions being their own treatment of the MPIncompatible and the AC-Incompatible conclusions. Likewise, the Rejecters' treatment of the MP-Incompatible conclusions took significantly longer than the reaction times
+to four other Style-Argument Type combinations (all
+p's < .05), the exceptions being the Rejecters treatment of
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+the AC-Compatible and the AC-Incompatible problems and
+the Endorsers' treatment of the MP-Incompatible problem.
+Finally, the Rejecters' treatment of the AC-Incompatible
+conclusions was slower than the Endorsers' MP- and ACCompatible conclusions (all p's < .001).
+Discussion
+This study aimed to investigate how participants respond to MP and AC arguments in a step-by-step manner.
+We were most interested in the AC-Compatible arguments,
+which can lead to judgments of ``logical'' or ``not-logical,''
+but we also included cases of MP-Compatible, AC-Incompatible and MP-Incompatible arguments, to serve as controls. From the prior literature, we expected to find two
+groups - and thus reaction-time differences - between
+those who generally endorse AC-Compatible arguments
+and those who do not, i.e. Endorsers and Rejecters. This
+came to fruition.
+These two groups differed in intriguing ways and as
+soon as the first premise appeared; overall, Endorsers read
+each of the premises faster than the Rejecters. Endorsers
+also reacted more quickly to the AC-Compatible conclusion
+than Rejecters did. This points to the likelihood that
+Endorsers do not read the lines of texts in a profound manner. In the meantime, the data indicate that Rejecters appear to be making an effort to guard against the logically
+invalid argument throughout the syllogism. This demonstrates that the Rejecters are (1) paying attention to all four
+arguments forms and that they are; (2) not reacting in a
+kind of metalinguistic way that would allow them to expend less effort. That is, one could imagine Rejecters coming up with a simpler way of responding since they are
+essentially responding ``logical'' to one event - the MPCompatible case - and ``not logical'' otherwise. Yet, they
+do not seem to be employing a strategy that simply anticipates hitting the ``not logical'' button as soon as they see
+the Minor Premise indicating AC. The upshot is that the
+data indicate that Rejecters maintain their engagement in
+the task throughout, yielding the longest response times
+to the Minor Premises for AC and, with the exception of
+the valid MP-Compatible problem, to all of the conclusions.
+Regardless of the relative speeds among the two styles
+analyzed, which are based on AC-Compatible arguments,
+participants as a whole read the minor premises from MP
+arguments faster than the minor premises from AC arguments. Importantly, even as Endorsers appear to be reading the syllogisms in a fast and arguably superficial
+manner, analyses of their reaction times indicate that they
+do notice the difference between the AC minor premise
+and the MP minor premise by slowing down for the former.
+This confirms Barrouillet et al.'s (2000) analysis, which
+essentially consisted of Endorsers only. However, the difference between participants' treatment of the AC Minor
+Premise and the MP Minor premise does not end there.
+Interestingly, one finds that as the response-time difference between the AC's and MP's Minor Premise increases
+so does the likelihood that a participant will reject the
+AC-Compatible conclusion.
+Reactions to the conclusion were also revealing. While
+all participants processed the conclusion from the
+
+475
+
+MP-Compatible problem quickly they processed the conclusion from the MP-Incompatible problem significantly
+more slowly. This indicates that MP is indeed privileged
+in some particular way. As anticipated, speed based on
+Style varied as a function of the AC-Compatible problem.
+In the meantime, the Endorsers evaluated the conclusions
+of AC-Compatible problems about as fast as the MP-Compatible problem, which corresponds with many intuitions
+about AC processing in the literature.
+As we indicated earlier, the response times of the Mixed
+Participants fell on a continuum that stretches between
+Endorsers and Rejecters, as one would expect by their very
+nature. That is, the data from the Mixed participants do not
+reflect an exceptional strategy since their response times
+to the Major Premise, the Minor premise and the conclusions in the AC-Compatible problems are generally midway between the Endorsers and the Rejecters. These data
+indicate indirectly that endorsements of AC-Compatible
+argument provide the fastest processing and rejections
+the slowest even among individuals who provide both
+sorts of response.
+
+Experiment 2
+When one group of participants prompts longer reaction times compared to another, one can conclude that
+the slower participants are engaged in extra processing.
+However, this result does not allow one to make inferences
+about the nature of the extra effort. In order to better characterize the protracted processes, we now transform our
+paradigm slightly in order to employ EEG. This technique,
+which provides high temporal resolution, has proved itself
+valuable at characterizing qualitative aspects of processing. This could provide us with a useful tool as we distinguish between the processing of AC and MP. Here, we
+analyze evoked related potentials (ERPs) as participants
+process the minor premise and conclusion of multiple conditional arguments. ERPs reflect the activity of neural populations in response to stimulation and are characterized
+by positive or negative deflections which are compared
+to a baseline activity. ERP components have been associated with a variety of perceptual and cognitive processes.
+In Experiment 2, we focus on the components known as
+N2 (or N200) and P3b (or P300b), which have been related,
+respectively, to the violation and to the satisfaction of
+expectations (for a review, see Folstein & Van Petten,
+2008; Picton, 1992). The former is a frontal negative deflection observed between 200 ms and 300 ms after stimulus
+onset and the latter is a centroparietal positive deflection
+observed in the 250-450 ms time window. The P3b is usually distinguished from the P3a which shows a more frontal topography and which is elicited by infrequent stimuli.
+In working memory tasks, in which participants have to
+decide whether a stimulus S2 is similar to a previous stimulus S1, a mismatching S2 elicits an N2 while a matching
+S2 elicits a P3b (Wang, Wang, Cui, Tian, & Zhang, 2002;
+Zhang, Wang, Li, & Wang, 2003). Similarly, in deductive
+reasoning tasks, a minor premise that is unrelated to the
+antecedent and consequent of the conditional statement
+(i.e. If P then Q; U) yields an N2 while a minor premise that
+
+476
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+matches the antecedent yields a P3b (i.e. If P then Q; P; see
+Bonnefond & Van der Henst, 2009).
+We also briefly describe a third component whose presence made itself known in our findings in a limited way,
+viz. the positive slow wave (PSW). Although there is no
+general interpretational consensus concerning it (as there
+is for the N2 and P3b), this component appears linked to
+sustained attention (Gevins et al., 1996) or, more specifically, to cases where a participant needs to recognize that
+a stimulus has the potential to be the basis of further processing. For example, Honda et al. (1996) describe an
+experiment in which participants were required to determine whether a sequence of two stimuli (having a 2 s
+interval between them) matched previously learned material. The authors reported a PSW-like component when the
+first stimulus of the two had the makings of a potential
+match (for more discussion, see Bonnefond & Van der
+Henst, 2009, pp. 3131-3132).
+Based on our findings in the behavioral study of Experiment 1, we still expect to have Endorsers and Rejecters.
+However, we ask slightly different questions, which are
+the following: Are MP minor premises faster because they
+are more greatly anticipated than AC Minor Premises, i.e.,
+will the minor premises from MP provide P3b components
+with higher peaks than AC, indicating greater anticipation
+of MP minor premises over AC Minor Premises? Will the
+evidence suggest that AC Minor Premises are actually
+unanticipated, as an N2 would indicate, at least for the
+Rejecters? As indicated in the Introduction, all of the seminal accounts would predict comparable P3b's for both the
+MP and AC minor premise. Meanwhile, Barrouillet et al.'s
+(2000) directionality account would arguably predict a
+greater P3b amplitude for MP's minor premise than for
+AC's. Our account, on the other hand, expects to find an
+N2 for AC minor premises across all participants because
+anything other than the conditional's antecedent in that
+slot would be a violation of an expectation.
+Experiment 2 is practically identical to Experiment 1
+except that the EEG paradigm compels us to be as stringent
+as possible with participants' time and does not give us the
+opportunity to register reaction times (because each of the
+premises is presented for a set amount of time and because
+responses to conclusions are requested well after they appear in order to reduce noise). In line with the above, all
+four modifications listed below are designed to save time
+or to come up with a clean signal. Compared to the paradigm of Experiment 1, we (a) increase the number of trials,
+(b) reduce wordiness (e.g., If there is an A then there is a C
+becomes If A then C and There is an A becomes A) so that
+participants read while keeping eye movements to a minimum, (c) remove the self-paced feature, and; (d) add filler
+items. We will also focus exclusively on Endorsers and
+Rejecters (i.e., we will not be concerned with Mixed
+responders at all).
+Method
+Participants
+Forty-six native French-speaking undergraduate volunteers (of which 28 were female) with no advanced mathematical background and no history of neurological or
+
+psychiatric disorders were recruited from the Universite
+de Lyon 2. All subjects were right-handed as measured
+by the Edinburg Handedness Inventory.
+Material and design
+Participants were presented with 174 conditional arguments involving letters of the alphabet. As an example,
+consider If A then C (Si A alors C), where A refers to the antecedent and C the consequent. The letters were chosen
+using the same criteria as those in Experiment 1. Moreover,
+as in Experiment 1, Experiment 2 followed a 2 (Minor premise: MP's vs. AC's) by 2 (Conclusion: Compatible vs.
+Incompatible) design. This experiment also included 30 filler trials that used letters in the minor premise that were
+unmentioned in the conditional, as in (If A then C; U//S).
+This set of trials was designed to prevent participants from
+expecting minor premises from MP and AC arguments only
+and their number was determined by considerations of
+experiment duration (i.e., we did not want to unnecessarily
+lengthen the experiment). There were two response keys
+corresponding to the two possible evaluations one could
+give to a conclusion, ``logical'' and ``non-logical''. The font
+and sizes of the text were the same as Experiment 1's.
+Procedure
+The experiment was presented on a computer screen
+with Presentation 10.2 software (Neurobehavioral Systems, http://www.neurobs.com/). In the instruction set,
+participants were informed about the two response options before being given an example of each sort of argument that they would encounter during the experiment.
+All trials consisted of a Major (Conditional) Premise, a Minor Premise and a Conclusion. A visual signal (a cross), presented in the center of the screen for 800 ms, preceded
+each. The first, conditional premise remained on the screen
+for 1300 ms while the minor premise and conclusion remained for 800 ms each. The phrase ``your response''
+which appeared 800 ms after the arrival of the conclusion,
+was the signal to participants to provide their evaluation.
+Participants thus had 2100 ms to process the conditional premise (1300 ms for the presentation time of the
+conditional premise and 800 ms for the fixation period
+prior to receiving the minor premise). We arrived at this
+presentation rate, which is midway between the durations
+reported for Endorsers and Rejecters in Experiment 1, under the assumption that it actually overestimates the time
+needed to react. This assumption is based on the fact that
+(a) the physical length of the conditional premise in this
+Experiment was much shorter than the one in Experiment
+1 and consequently required less time to process (whereas
+Experiment 1 presented the conditional with 21 letters, as
+in S'il y a un A alors il y a un B, the conditional premise in
+Experiment 2 had 9, as in Si A alors B) and that; (b) the
+presentation in Experiment 2 did not call for a motor response after the conditional premise and so it required less
+time to go to the next premise (unlike Experiment 1's selfpaced task which called for a motor response each time). In
+any case, our main goal was to reliably produce Rejecters
+and Endorsers and a pilot experiment with 12 participants
+with the above-described procedure did not significantly
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+transform our expected proportions (i.e. the pilot yielded 5
+Rejecters and 7 Endorsers, which was not dissimilar from
+the 13 rejecters and 15 endorsers reported in Experiment
+1).
+Participants performed the Experiment in three blocks.
+Trial order within each block was randomized and the
+block order within each task was counterbalanced across
+participants. Participants were instructed to make neither
+eye movements nor vocal articulations (audible or inaudible) during the trial. Participants were instructed to respond as quickly and as accurately as possible. The task
+began with 10 training trials whose data were not included
+in further analyses.
+Participants who endorsed the AC argument at rates
+that defied chance predictions were considered Endorsers
+(which amounted to 17 participants before further data
+analysis) and those who generally rejected the argument
+were considered Rejecters (which amounted to 23 participants before further data analysis). Six other participants
+were excluded from the analyses due to inconsistent responses to the AC argument (those who were referred to
+as Mixed earlier) and five were eliminated because their
+EEG signal was replete with artifacts linked to excessive
+eye movements. This left us with 19 Rejecters and 15
+Endorsers. At this point, four participants were randomly
+removed from the Rejecter group in order to arrive at a
+comparable number of participants in both groups (15
+Rejecters and 15 Endorsers).
+Electroencephalogram (EEG) recording
+Subjects were seated in a dimly lit, electrically shielded,
+sound-attenuating chamber. EEG was recorded with a 64
+channel NetAmps.200 system (Electrical Geodesics Inc).
+Amplified analogue voltages (0.1-200 Hz bandpass) were
+sampled at 500 Hz. Electrode impedance was kept below
+40 kX. During recording, all channels were referenced to
+Cz; once off-line, they were re-referenced to the average
+of the mastoids. ERP analyses were conducted using
+ELAN-Pack software developed at INSERM U821 (Lyon,
+France). They consisted in averaging the EEG segments in
+synchronization with the onset of (a) the minor premise
+and then; (b) the conclusion in each condition over a
+800 ms period including a 100 ms pre-stimulus interval.
+The signals were low-pass filtered (20 Hz) and a baseline
+correction was calculated from the 100 ms preceding the
+presentation of the letter in each condition. Trials contaminated by eye blinks or eye movements (threshold:
+100 lV) were not included in the analyses.
+Data analysis
+We computed the mean value of the signal in a 60 ms
+time-window centered around the peak of each of the analyzed components. Importantly, to overcome effects that
+could be due to the influence of previous components,
+we corrected the signal so that the first value of the window is set to zero. As we explain later, however, there is
+one exception concerning the unanticipated PSW (and uniquely for Rejecters) where we discovered that the wave
+sustains itself, i.e., it appears to last from 340 to 600 ms
+after stimulus onset. For that case only, we adopt this
+
+477
+
+longer time-window to make comparisons between MP
+and AC arguments.
+Each analysis was run with the same electrode positions. Twelve representative sites of the 10-20 system
+were chosen to cover the scalp in a Cartesian manner
+(frontal: F3, Fz and F4; central: C3, Cz and C4; centro-parietal: CP3, CPz and CP4 and parietal: P3, Pz and P4). We ran
+multiple ANOVAs using repeated measures based on Conditions (defined for each analysis) and based on two levels
+of Electrode Site as within-subject factors: Laterality (Left,
+Midline and Right) and Anterior-Posterior location (Frontal, Central, Centro-parietal, Parietal). Between-subject
+analyses were determined by the participants' general profile as Rejecter or Endorser; these analyses were restricted
+to trials on which subjects made the expected responses.
+Relevant post hoc comparisons were computed with Tukey
+HSD tests.
+Results
+In what follows, we present the results of the components, N2, P3b and the PSW, i.e. in the order that these
+components make themselves known. Also, we begin our
+analysis with the Minor Premise before turning to the Conclusion. We consider the findings concerning the Minor
+Premise to be fundamental because (a) they provide insights into the processing of the conditional statement
+which immediately precedes it and because (b) reactions
+to the two sorts of (AC and MP) arguments can first be distinguished at this point. Furthermore, participants' processing of the conclusion obviously depends on their
+reactions to the Minor Premise that precedes it.
+Minor premise
+N2 component
+As shown in Figs. 1 and 2, the amplitude of the frontocentral N2 (230-290 ms) was greater in the AC condition
+than in the MP condition for both the Rejecters and the
+Endorsers. However, the difference between the two was
+larger among the Rejecters than it was among the
+Endorsers.
+We analyzed the effect of Argument by comparing the
+minor premise from MP to that of AC. We entered the
+mean value obtained in the N2 window into a four-way
+ANOVA with Argument type (MP vs. AC), Laterality and
+Anterior-Posterior location as within-subject factors and
+Style (Rejecters vs. Endorsers) as a between-subject factor.
+This analysis revealed main effects of Anterior-Posterior
+location (F(3, 84) = 17.97, p < .001, g2 = 0.4), Laterality
+(F(2, 56) = 19.06, p < .001, g2 = 0.41) and a significant interaction between these two factors (F(6, 168) = 10.8, p < .001,
+g2 = 0.31). It also revealed a significant interaction between
+these factors and Style (F(6, 168) = 2.37, p < .05, g2 = 0.18),
+between Anterior-Posterior location and the Argument
+type (F(3, 84) = 4.53, p < .01, g2 = 0.21) and between the
+four factors (F(6, 168) = 2.21, p < .05, g2 = 0.14).
+Post hoc tests revealed that the N2's amplitude was
+greater in the AC condition than it was in the MP condition
+in the midline and left frontal electrodes (p < .01 and
+p < .05 respectively) among the Endorsers while it was
+
+478
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+Fig. 1. Endorsers. Stimulus locked grand-average waveforms evoked by the appearance of the letter representing the Minor Premise of the MP (black line)
+and AC (gray line) conditions across the 12 sites of interest. Left electrodes are shown in the left column, midline electrodes in the middle column, and right
+electrodes in the right column. The components of interest are shown with an arrow and only for those electrodes yielding statistically significant effects.
+
+greater in the frontal area (p < .001 on the three electrodes)
+and in the midline and right central and centroparietal
+electrodes (p < .001 for each) for the Rejecters. Also, while
+the N2 component was more negative for AC arguments
+over MP arguments for all participants, the MP condition
+for Endorser participants prompted a more negative N2
+than for Rejecters (p < .05). We will discuss this last result
+in the Discussion.
+P3b component
+Visual inspection of Figs. 1 and 2 revealed a larger amplitude of the centroparietal P3b component (270-330 ms) for
+the MP condition than for the AC condition for both Styles.
+The difference between the two types of Minor Premise was
+larger among the Rejecters. We carried out a four-way ANOVA with Argument type, Anterior-Posterior location and
+
+Laterality as within-subject factors and Style as a between-subject factor for the value of the amplitude of the
+P3b component. We found a main effect of Anterior-Posterior location (F(3, 84) = 20.06, p < .001, g2 = 0.42) as well as
+for Argument type (F(1, 28) = 10.7, p < .01, g2 = 0.28). We
+also found a significant interaction between these two factors (F(3, 84) = 14.67, p < .001, g2 = 0.34) as well as between
+Anterior-Posterior location and Laterality (F(6, 168) = 3.01,
+p < .01, g2 = 0.19). The ANOVA also revealed a significant
+interaction between Anterior-Posterior location, Argument
+type and Style (F(3, 84) = 2.53, p < .05, g2 = 0.12).
+Post hoc tests showed that the P3b's amplitude was larger in the MP condition for Rejecters than for Endorsers
+(p < .05). The two groups also differed with respect to
+location. Among the Rejecters, the MP condition prompted
+a larger P3b (with respect to the AC condition) in the
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+479
+
+Fig. 2. Rejecters. Stimulus locked grand-average waveforms evoked by the appearance of the letter representing the Minor Premise of the MP (black line)
+and AC (gray line) conditions across the 12 sites of interest. Left electrodes are shown in the left column, midline electrodes in the middle column, and right
+electrodes in the right column. The components of interest are shown with an arrow or a brace and only for those electrodes yielding statistically significant
+effects.
+
+centroparietal and parietal sites (p < .001 for both sites);
+for the Endorsers, the P3b for the MP condition was larger
+than the one in the AC condition in the parietal site
+(p < .01).
+Supplementary results concerning the minor premise
+Although it was not at the center of our interests when
+we began this study, we would be remiss not to mention a
+centroparietal positive wave that followed the P3b and
+that can be seen in Figs. 1 and 2. This is the component that
+resembles a PSW. Interestingly, this wave expressed itself
+differently for the two Styles. For the Endorsers (in
+Fig. 1), the PSW appeared to be similar for both conditions,
+except that its amplitude was larger in the AC condition
+than in the MP condition. For the Rejecters, the PSW had
+a characteristically different form in the AC condition
+
+when compared to the MP condition (and to the Endorsers'
+MP and AC conditions). Given that the positive wave in the
+Rejecters' condition was so characteristically different (and
+specifically with respect to its time window), we inspected
+the PSW among the Endorsers and Rejecters separately and
+while using different time windows.
+We first computed a three-way ANOVA among Endorsers with repeated measures on Argument type (MP vs. AC),
+Anterior-Posterior location and Laterality while using the
+340-400 ms time-window. This analysis revealed a main
+effect of Argument type (F(1, 14) = 6.61, p < .05, g2 = 0.33)
+and of Anterior-Posterior location (F(3, 42) = 23.26),
+p < .001, g2 = 0.62). It also showed a significant interaction
+between Anterior-Posterior location and Laterality
+(F(6, 84) = 3.42, p < .01, g2 = 0.22) and between these two
+factors and Argument type (F(6, 84) = 4.16, p < .001,
+
+480
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+g2 = 0.23). Post hoc tests showed that this last effect resulted from a larger PSW component in the AC condition
+in the right and midline centroparietal and parietal electrodes (p < .001 for each electrode except the right parietal
+electrode which was p < .01).
+We then computed a three-way ANOVA among Rejecters with repeated measures on Argument type (MP vs. AC),
+Anterior-Posterior location as well as Laterality and while
+using the 340-600 ms time-window. This analysis revealed a main effect of Argument type (F(1, 14) = 7.61,
+p < .01, g2 = 0.52) and of Anterior-Posterior location
+(F(3, 42) = 30.42), p < .001, g2 = 0.65). It showed a significant interaction between Argument type and Anterior-
+Posterior location (F(3, 84) = 12.21, p < .001, g2 = 0.26). Post
+hoc tests showed that this interaction resulted from a larger slow component in the AC condition in the centroparietal and parietal electrodes (p < .001 for each electrode).
+Presentation of conclusion
+N2 component
+Visual inspection of Fig. 3 shows that, among the
+Endorsers, the frontocentral N2 (230-290 ms) appeared
+not to differ between the MP-Compatible-conclusion condition and the AC-Compatible-conclusion condition. The
+inspection of Fig. 4, on the other hand, reveals that Rejecters produce a larger frontocentral N2 component for the
+conclusion in the AC-Compatible condition compared to
+the conclusion in the MP-Compatible condition.
+We computed a four-way ANOVA using the amplitude
+of the N2 component as the dependent measure, with
+Argument type (MP-Compatible vs. AC-Compatible), Laterality and Anterior-Posterior location as repeated measures
+and with Style as a between-subject factor. This analysis
+revealed a main effect of Anterior-Posterior location
+(F(3, 84) = 37.26, p < .001, g2 = 0.57) and Laterality
+(F(2, 56) = 16.68, p < .001, g2 = 0.37). It also showed a significant interaction between Anterior-Posterior location
+and Laterality (F(6, 168) = 9.89, p < .001, g2 = 0.26), between Anterior-Posterior location and Argument type
+(F(3, 84) = 3.68, p < .01, g2 = 0.23) and between Anterior-
+Posterior location, Argument type and Style (F(3, 84) = 3.5,
+p < .01, g2 = 0.22). Post hoc tests revealed that - for the
+Rejecters - the N2 was larger in the AC-Compatible condition than in the MP-Compatible condition in the frontal
+area only (p < .001).
+P3b component
+As shown in Figs. 3 and 4, the centroparietal P3b component (270-330 ms) prompted by the MP-Compatible
+condition was comparable to the one prompted by the
+AC-Compatible condition among the Endorsers; however,
+we found a difference between the two conditions among
+the Rejecters. We entered the mean value obtained in the
+P3b window into a four-way ANOVA with Argument type
+(MP-Compatible vs. AC-Compatible), Laterality and Anterior-Posterior location as within-subject factors and Style
+as a between-subject factor. This analysis revealed a main
+effect of Anterior-Posterior location (F(3, 84) = 90.39,
+p < .001, g2 = 0.76), Laterality (F(2, 56) = 15.79, p < .001,
+g2 = 0.36), and Argument type (F(1, 28) = 4.73, p < .01,
+
+g2 = 0.14). We also observed a significant interaction
+between Anterior-Posterior location and Laterality
+(F(6, 168) = 6.63, p < .001, g2 = 0.19) and between Anterior-Posterior location, Argument type and Style (F(3, 84)
+= 3.51, p < .01, g2 = 0.23). Post hoc tests revealed that the
+last interaction resulted from a larger P3b component in
+the MP-Compatible condition when compared to the ACCompatible condition in the centroparietal and parietal
+electrodes (p < .001) among Rejecters only.
+Discussion
+Experiment 2 used the same paradigm as Experiment
+1's, but adapted it in order to collect EEG measures. Mean
+while, we focused exclusively on those participants who
+were either Endorsers or Rejecters of the AC-Compatible
+problem. The results confirmed the main findings in Experiment 1 while the subtle measures of EEG revealed much
+more.
+As in Experiment 1, an AC argument's minor premise
+prompted a universal reaction when compared to the minor premise of MP. As can be seen through the N2, all participants reacted as if the AC's minor premise was
+unexpected. That is, we found a prominent N2 among,
+not only Rejecters but, Endorsers. This result is noteworthy
+because it is not as if we found a P3b of lower magnitude
+(the wave that commonly arises with the arrival of the
+MP minor premise), but an indication that the AC minor
+premise is disruptive even among those who ultimately responded in a ``shallow'' way. Experiment 2 indicated that
+the N2 effect related to the AC's minor premise was even
+more pronounced among Rejecters when they were compared to Endorsers.
+Given how N2's are consistently linked with AC arguments' minor premises (when compared to those from
+MP arguments), it appears that one can claim that these
+minor premises are generally unexpected. However, one
+other reported result - that MP's minor premise prompted
+a more negative N2 among Endorsers than among Rejecters - shows that this claim calls for some nuance. It appears that Rejecters, who arguably process the
+conditional more deeply than anyone else, elicit fewer conflicting signals than Endorsers do when they encounter the
+minor premise of MP. This makes sense to the extent that
+Rejecters are focused almost exclusively on MP arguments
+(as can be seen in the greater magnitude of their P3b's
+when compared to the Endorsers and discussed below)
+and so the arrival of this argument is not the source of a
+conflict. Another way to view this is that (while Endorsers
+show that minor premises for AC are generally unexpected
+when compared to those of MP) the arrival of the minor
+premise of MP arguments is still less expected among
+Endorsers than it is among Rejecters. Endorsers' reactions
+arguably indicate that they take into account the likelihood
+of confronting an AC argument more than Rejecters do.
+This would make the arrival of a MP minor premise appear
+relatively more surprising for an Endorser than for a
+Rejecter.
+As far as the P3b is concerned, we found that its magnitude was greater with the arrival of the MP's minor premise when compared to the AC's and for both groups of
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+481
+
+Fig. 3. Endorsers. Stimulus locked grand-average waveforms evoked by the appearance of the letter representing the conclusion of the MP-Compatible
+(dashed dark line) and AC-Compatible (dashed gray line) conditions across the 12 sites of interest. Left electrodes are shown in the left column, midline
+electrodes in the middle column, and right electrodes in the right column. Comparisons yielded no significant differences between the two conditions.
+
+participants. The Rejecters also provided a larger P3b for
+MP than Endorsers did and arguably because they were
+specifically waiting for MP's minor premise. Taking the results from both the AC and MP arguments together, the
+Rejecters appear to be treating the Minor Premise more
+deeply.
+Both Endorsers and Rejecters showed late positive components but with different characteristics. For Endorsers,
+the positive slow wave observed for AC was similar to that
+observed for MP but showed greater amplitude. We previously associated this component with inferential effort
+(Bonnefond & Van der Henst, 2009). Given that AC's minor
+premise is generally less expected and requires more time
+to be processed than MP's (see Experiment 1), it most
+likely requires extra inferential effort when it does arise;
+
+this supplemental effort can be revealed by the PSW. The
+Rejecters' late positive component was much longer (i.e.
+it peaks at 450 ms) and had a different shape than the
+Endorsers'. Given that it arose for participants who considered AC arguments to be logically invalid, this late positive
+component could be viewed as a P600, which is often considered to be a reflection of a violation in a rule-governed
+structure (Nunez-Pena & Honrubia-Serrano, 2004; Patel,
+Gibson, Ratner, Besson, & Holcomb, 1998). Indeed, this
+component has been reported with respect to violations
+of (a) various syntactic structures (see Friederici, Hahne,
+and Saddy (2002) for a review), (b) harmonic musical
+arrangements (Besson & Faita, 1995; Patel et al., 1998),
+(c) arithmetic progressions (Nunez-Pena & HonrubiaSerrano, 2004) as well as; (d) abstract sequences (Lelekov,
+
+482
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+Fig. 4. Rejecters. Stimulus locked grand-average waveforms evoked by the appearance of the letter representing the conclusion of the MP-Compatible
+(dashed black line) and AC-Compatible (dashed gray line) conditions across the 12 sites of interest. Left electrodes are shown in the left column, midline
+electrodes in the middle column, and right electrodes in the right column. The components of interest are shown with an arrow and only for those
+electrodes yielding statistically significant effects.
+
+Dominey, & Garcia-Larrea, 2000). The Rejecters' PSW
+(which, again, is akin to a P600) could thus be viewed as
+an indication that the AC's minor premise cannot be integrated into a logical conditional sequence.
+Participants reacted to the conclusions in Experiment 2
+in a way that is similar to the participants' reactions in
+Experiment 1. On the one hand, Endorsers evaluated MPCompatible and AC-Compatible conclusions in comparable
+ways so that by the time the conclusion arose, the ACCompatible problem was treated as being as valid as the
+MP-Compatible problem. This is akin to the relative lack
+of response time differences reported among Endorsers in
+Experiment 1 when they were evaluating the conclusions
+
+of AC-Compatible and MP-Compatible arguments. On the
+other hand, the AC-Compatible arguments prompted
+stronger reactions among the Rejecters, who produced
+N2's to the AC-Compatible conclusion when compared to
+the MP-Compatible conclusion. These data correspond
+with the substantial response time differences among
+Rejecters when they were evaluating AC-Compatible and
+MP-Compatible arguments in Experiment 1.
+Overall, the results from this experiment confirm that,
+in the wake of a conditional premise, there is a general
+expectation that the Minor Premise will be the conditional's antecedent so that MP can be carried out. When
+the conditional's consequent arrives in its place - for a
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+potential AC argument - it is registered as unanticipated
+for everyone, even though this Minor Premise arises nearly
+half the time. With respect to the conclusion, Endorsers
+handle MP-Compatible and AC-Compatible arguments in
+a way that make the two appear similar; however, Rejecters maintain a stance that prevents them from doing so.
+
+General discussion
+We began this paper by pointing out that there is universal agreement - across two largely separate literatures -
+that AC arguments are endorsed routinely and in a way
+resembling Modus Ponens, even if explanations from these
+literatures differ. For linguistically oriented investigators,
+AC-Endorsements result when the conditional is enriched
+in some way to become a biconditional (Braine & O'Brien,
+1991; Horn, 2000). For those in the Mental Model tradition,
+Endorsed AC arguments are represented and manipulated in
+a way that is highly similar to MP (Barrouillet et al., 2000;
+Johnson-Laird & Byrne, 1991). For those inspired by dualprocess accounts, endorsements of AC arguments reflect
+superficial processing and to the point that participants
+ignore the conditional's inferential value (Evans et al., 2007).
+The thorn in the side of this general view are data (from
+Barrouillet et al., 2000) showing that AC arguments, when
+endorsed, prompt slowdowns linked (potentially) to the
+presentation of the Minor Premise in traditionally-ordered
+syllogisms. These data are challenging for two reasons.
+First, there is an earlier on-line study (Marcus & Rips,
+1979) showing that endorsed AC and MP arguments require comparable amounts of time (when an entire syllogism is presented). So, one issue going into the present
+investigation was essentially the following: Which results
+- Marcus and Rips's (1979) or Barrouillet et al.'s (2000) -
+are replicable? Second, if Barrouillet et al.'s (2000) data
+were indeed to be confirmed, their account for the AC-related delay would need further elucidation because it proposes that endorsements of MP and AC arguments are
+essentially equivalent (as per a Mental Model account)
+and this would be hard to square with the reported slowdowns that distinguish AC from MP. They argue that the
+difference arises because AC's minor premise is just
+slightly less preferred than MP's, at least when conditionals are presented as if-then.
+In contrast, we propose that AC arguments are categorically different from MP because a conditional such as if-
+then raises expectations about the conditional's antecedent
+and that anything else, including a Minor Premise concerning the conditional's consequent, would be the source of
+slowdowns. According to our view, a processing delay
+linked to AC's minor premise is an indication that a participant's raised expectations - brought on by the conditional
+premise - have been dashed. We also argue that time, as
+recorded by a self-paced task, could serve as an indicator
+of the extent to which expectations are raised; specifically,
+the more time a participant devotes to AC's (unexpected)
+Minor Premise the more likely it is that she will ultimately
+reject the argument.
+Two experiments were conducted to resolve (a) the replication question and (b) the debate raised above. Both
+
+483
+
+experiments used on-line measures as traditional AC and
+MP arguments unfolded. Experiment 1 used a self-paced
+task, which showed that the endorsement rates and response times to conclusions were not exceptional. Like in
+Marcus and Rips (1979), the results from Experiment 1
+showed that rejected AC-Compatible arguments took longer to process than endorsed AC-Compatible arguments.
+Unlike Marcus and Rips (1979), but in line with Barrouillet
+et al. (2000), the results showed that the minor premise in
+AC-Compatible arguments consistently prompted a delay
+when compared to the minor premises of MP arguments.
+Thus, slowdowns were not limited to Rejecters. Also, a participant's latency with respect to the AC's minor premise
+was practically an indicator of the likelihood that she
+would ultimately reject the AC argument.
+While aiming to better characterize these findings,
+Experiment 2 transformed the paradigm slightly in order
+to employ EEG methodology. The results were revealing
+on three counts. First, both Endorsers and Rejecters of AC
+arguments showed evidence of an N2 with the presentation of the minor premise, thus providing us with a more
+substantial explanation for the AC-related slowdowns reported in Experiment 1. Second, MP's minor premise
+prompted a P3b having a greater magnitude than the one
+for AC for both Endorsers and Rejecters. Finally, with respect to MP's minor premise, the P3b component was of
+greater magnitude among Rejecters than among Endorsers.
+How to account for the AC data
+The breadth of original data collected here represents a
+major challenge to the consensus we described earlier.
+Here we detail how. If the linguistic-pragmatic view were
+correct, one would find the processing of minor premises
+in AC Endorsements resembling those in MP. But we do
+not. One finds reaction times to minor premises that slow
+down consistently in AC arguments with respect to MP
+arguments regardless of a participant's evaluation later.
+Moreover, one finds N2's universally in reaction to AC minor premises. It is important to remember, too, that AC arguments were presented in half (or nearly half) the trials,
+which means that the paradigm provided participants with
+every opportunity to habituate and this did not occur.
+If the Mental Model view were correct, the same expectations as above would follow. If one accepts the arguments that lead to the revised Mental Model account
+from Barrouillet et al. (2000), one might point to the P3b
+of lower magnitude for minor premises linked to AC
+Endorsements when compared to MP (Endorsements).
+However, no Mental Model approach would predict the
+universal N2's that are linked to the AC's minor premises
+as we reported here.
+The one account in the literature that best handles our
+data comes from Evans's dual-systems-inspired suppositional theory. Evans et al. (e.g., 2007) view endorsed AC
+arguments as an indication of shallow processing of the
+major premise and view rejected AC arguments as an indication of deeper processing. It can thus account for (1) the
+Endorsers' shorter response times when compared to those
+of Rejecters with respect to the AC's minor premise; (2) the
+interaction showing a greater N2 component associated
+
+484
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+
+with the AC's minor premise among Rejecters when compared to Endorsers (since this minor premise is unexpected
+and specifically for this deep-processing group). However,
+the suppositional theory would not anticipate the AC's
+minor premise to prompt supplementary processing on
+the part of all participants, i.e. regardless of one's style,
+when compared to MP. That is, the theory would expect
+participants who end up endorsing AC arguments to do
+so in a manner that is identical to MP endorsements from
+the beginning of the syllogism onward. However, even
+Endorsers notice the difference between AC and MP arguments and as soon as the minor premise.
+We now return to our own account, which is that participants - from the moment that the major premise is presented - expect the conditional's antecedent to arrive as
+part of the minor premise. When that does not occur at
+the appointed time, participants note that an expectation
+has been violated. The universal slowdowns (Experiment
+1) and the universal N2's (Experiment 2) are due to the fact
+that the arrival of the AC argument's minor premise is not
+expected. Such data imply that endorsements of AC arguments resemble post hoc justifications in the wake of the
+violation rather than implicit acceptances akin to MP processing. Post hoc justifications could be that the antecedent and the consequent go together or perhaps that the
+presence of the consequent is a ``good-enough'' argument
+for the presence of the antecedent.
+We take our data to indicate that all participants take
+heed of a naturally occurring signal linked to if-then which
+raises expectations about what is imminently available.
+These represent low-level pragmatic processes that are required in order to make the conditional meaningful. Without the expected minor premise, the conditional is as
+meaningless as a pronoun without a referent. However,
+the pragmatic process does not end there. Sophisticated
+participants go further and effectively suspend further
+inference making until the expected minor premise arrives
+(also see Reverberi et al., 2007). The more a participant
+maintains a narrow set of acceptable minor premises (to
+the point that the conditional's antecedent becomes the
+only one), the more likely she is to reject the AC argument
+in our paradigm. So, the process of pragmatic enrichment
+has two extremes. While everyone expects the antecedent,
+those who are labeled Endorsers allow the consequent to
+be part of further calculations making the conditional appear biconditional; those who are labeled Rejecters effortfully maintain their narrowed expectation throughout a
+provided argument. This explains the following three findings: (a) with respect to the arrival of AC's minor premise,
+Rejecters (when compared to Endorsers) react with slowdowns and with N2's of greater magnitude, (b) with respect to AC Conclusions, Rejecters produce N2's while
+Endorsers respond to AC conclusions much like MP conclusions, and; (c) when carrying out Modus Ponens, Rejecters'
+P3b components are linked with greater magnitude
+throughout the syllogism. Overall, Rejecters place their
+bets on Modus Ponens only.
+This is not the first time that a pragmatic account has
+been applied to logical terms. Noveck and Sperber (2007)
+proposed a narrowing account for robust effects linked to
+scalars. For example, underinformative sentences such as
+
+Some cats are mammals prompt relatively fast (and trivially) true responses or slow (and effortful) false ones and
+arguably because participants are narrowing the meaning
+of Some (e.g. see Bott & Noveck, 2004) from at least two
+and possibly all to at least two and fewer than all at a small
+cost. Both interpretations require pragmatics, but under
+the assumption that increasing narrowing with scalars is
+optional and effortful, one can explain how it is associated
+with more sophisticated participants and extra time (see
+Noveck & Reboul, 2008). With respect to the conditional,
+we propose that if-then generates a low level pragmatic
+process that raises expectations specifically for the antecedent; what is optional and effortful is maintaining them.
+A failure to do so allows AC Endorsements to intervene
+through post hoc justifications. Thus, narrowing need not
+be viewed as a means to arrive at true responses or false
+ones because it is not in the service of logical inference.
+Rather, narrowing can be viewed as a general pragmatic
+process that works on the linguistic code in opportunistic
+ways.
+Conditional reasoning paradigms are notorious for
+prompting pragmatically valid inference forms such as AC.
+We investigated this form by depicting how it is carried
+out on-line while juxtaposing it with MP arguments. We
+conclude that a conditional statement such as if P then Q
+raises the expectation that the conditional's antecedent is
+imminent (essentially, the conditional anticipates a Modus
+Ponens argument); any other Minor Premise is viewed as a
+surprising turn of events and by all participants. Our proposal for the documented variation among participants is
+that - while the conditional raises expectations among all
+participants about what ought to follow - maintaining narrowed expectations is an effortful process. Those who manage to maintain these expectations are likely to reject AC
+arguments while those who do not maintain these expectations, or perhaps cannot, are prone to endorse AC arguments.
+
+References
+Allott, N., & Uchida, H. (2009). Natural language indicative conditionals
+are classical. UCL Working Papers in Linguistics, 21, 1-17.
+Barrouillet, P., Grosset, N., & Lecas, J. (2000). Conditional reasoning by
+mental models: Chronometric and developmental evidence.
+Cognition, 75, 237-266.
+Barrouillet, P., Markovits, H., & Quinn, S. (2002). Developmental and
+content effects in reasoning with causal conditionals. Journal of
+Experimental Child Psychology, 81, 235-248.
+Besson, M., & Faita, F. (1995). Event-Related Potential (Erp) study of
+musical expectancy - Comparison of musicians with nonmusicians.
+Journal of Experimental Psychology - Human Perception and
+Performance, 21, 1278-1296.
+Bonnefond, M., & Van der Henst, J. B. (2009). What's behind an inference?
+An EEG study with conditional arguments. Neuropsychologia, 47,
+3125-3133.
+Bott, L., & Noveck, I. A. (2004). Some utterances are underinformative: The
+onset and time course of scalar inferences. Journal of Memory and
+Language, 51, 437-457.
+Braine, M. D. S., & O'Brien, D. (1991). A theory of if: A lexical entry,
+reasoning program, and pragmatic principles. Psychological Review,
+98, 182-203.
+Byrne, R. M., & Johnson-Laird, P. N. (2009). `If' and the problems of
+conditional reasoning. Trends in Cognitive Sciences, 13, 282-287.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd
+ed.). Hillsdale, NJ: Erlbaum.
+De Neys, W., Schaeken, W., & d'Ydewalle, G. (2005). Working memory and
+everyday conditional reasoning: Retrieval and inhibition of stored
+counterexamples. Thinking & Reasoning, 11, 349-381.
+
+M. Bonnefond et al. / Journal of Memory and Language 67 (2012) 468-485
+Evans, J. S. (1993). The mental model theory of conditional reasoning:
+Critical appraisal and revision. Cognition, 48, 1-20.
+Evans, J. S. (2006). The heuristic-analytic theory of reasoning: Extension
+and evaluation. Psychonomic Bulletin & Review, 13, 378-
+395.
+Evans, J. S., Ellis, C. E., & Newstead, S. E. (1996). On the mental
+representation of conditional sentences. The Quarterly Journal of
+Experimental Psychology Section A, 49, 1086-1114.
+Evans, J. S., Handley, S. J., Neilens, H., & Over, D. E. (2007). Thinking about
+conditionals: A study of individual differences. Memory & Cognition,
+35, 1772-1784.
+Evans, J. S., Handley, S. J., Neilens, H., & Over, D. (2008). Understanding
+causal conditionals: A study of individual differences. Quarterly
+Journal of Experimental Psychology (Colchester), 61, 1291-1297.
+Evans, J. S., Handley, S. J., Neilens, H., & Over, D. (2009). The influence of
+cognitive ability and instructional set on causal conditional inference.
+Quarterly Journal of Experimental Psychology (Colchester), 1-18.
+Evans, J. S., & Over, D. E. (2004). If: OUP. Oxford.
+Folstein, J. R., & Van Petten, C. (2008). Influence of cognitive control and
+mismatch on the N2 component of the ERP: A review.
+Psychophysiology, 45, 152-170.
+Frederick, S. (2005). Cognitive reflection and decision making. The Journal
+of Economic Perspectives, 19, 25-42.
+Friederici, A. D., Hahne, A., & Saddy, D. (2002). Distinct neurophysiological
+patterns reflecting aspects of syntactic complexity and syntactic
+repair. Journal of Psycholinguistic Research, 31, 45-63.
+Geis, M. L., & Zwicky, A. M. (1971). On invited inferences. Linguistic
+Inquiry, 2, 561-566.
+Gevins, A., Smith, M. E., Le, J., Leong, H., Bennett, J., Martin, N., et al. (1996).
+High resolution evoked potential imaging of the cortical dynamics of
+human working memory. Electroencephalography and Clinical
+Neurophysiology, 98, 327-348.
+Girotto, V., Mazzocco, A., & Tasso, A. (1997). The effect of premise order in
+conditional reasoning: A test of the mental model theory. Cognition,
+63, 1-28.
+Honda, M., Barrett, G., Yoshimura, N., Ikeda, A., Nagamine, T., & Shibasaki,
+H. (1996). Event-related potentials during paired associate memory
+paradigm. Electroencephalography and Clinical Neurophysiology, 100,
+407-421.
+Horn, L. R. (2000). From if to iff: Conditional perfection as pragmatic
+strengthening. Journal of Pragmatics, 32, 289-326.
+Johnson Laird, P. N., Byrne, R. M., & Schaeken, W. (1992). Propositional
+reasoning by model. Psychological Review, 99, 418-439.
+Johnson-Laird, P. N., & Byrne, R. M. J. (1991). Deduction (Hillsdale, NJ:
+Laurence Erlbaum Assoc. ed.). Hillside, NJ: Erlbaum.
+Kahneman, D. (2003). A perspective on judgment and choice: Mapping
+bounded rationality. American Psychologist, 58, 697-720.
+Lea, R. (1995). On-line evidence for elaborative logical inferences in text.
+Journal of Experimental Psychology: Learning, Memory, and Cognition,
+21, 1469-1482.
+Lelekov, T., Dominey, P. F., & Garcia-Larrea, L. (2000). Dissociable ERP
+profiles for processing rules vs instances in a cognitive sequencing
+task. NeuroReport, 11, 1129-1132.
+Marcus, S. L., & Rips, L. J. (1979). Conditional reasoning. Journal of Verbal
+Learning and Verbal Behavior, 18, 199-233.
+
+485
+
+Markovits, H., & Barrouillet, P. (2002). The development of conditional
+reasoning: A mental model account. Developmental Review, 22, 5-36.
+Noveck, I., & Sperber, D. (2007). The why and how of experimental
+pragmatics: The case of `scalar inferences'. In N. Burton-Roberts (Ed.),
+Pragmatics (pp. 184-212). Basingstoke: Palgrave.
+Noveck, I. A., & Reboul, A. (2008). Experimental pragmatics: A Gricean
+turn in the study of language. Trends in Cognitive Sciences, 12,
+425-431.
+Nunez-Pena, M. I., & Honrubia-Serrano, M. L. (2004). P600 related to rule
+violation in an arithmetic task. Brain Research. Cognitive Brain
+Research, 18, 130-141.
+Oberauer, K. (2006). Reasoning with conditionals: A test of formal models
+of four theories. Cognitive Psychology, 53, 238-283.
+Oberauer, K., Hornig, R., Weidenfeld, A., & Wilhelm, O. (2005). Effects of
+directionality in deductive reasoning: II. Premise integration and
+conclusion evaluation. The Quarterly Journal of Experimental
+Psychology Section A, 58, 1225-1247.
+Patel, A. D., Gibson, E., Ratner, J., Besson, M., & Holcomb, P. J. (1998).
+Processing syntactic relations in language and music: An eventrelated potential study. Journal of Cognitive Neuroscience, 10, 717-733.
+Picton, T. W. (1992). The P300 wave of the human event-related potential.
+Journal of Clinical Neurophysiology, 9, 456-479.
+Rader, A. W., & Sloutsky, V. M. (2002). Processing of logically valid and
+logically invalid conditional inferences in discourse comprehension.
+Journal of Experimental Psychology: Learning, Memory, and Cognition,
+28, 59-68.
+Reverberi, C., Cherubini, P., Rapisarda, A., Rigamonti, E., Caltagirone, C.,
+Frackowiak, R. S., et al. (2007). Neural basis of generation of
+conclusions in elementary deduction. Neuroimage, 38, 752-762.
+Rumain, B., Connell, J., & Braine, M. D. S. (1983). Conversational
+comprehension processes are responsible for reasoning fallacies in
+children as well as adults: If is not the biconditional. Developmental
+Psychology, 19, 471-481.
+Santamaria, C., & Espino, O. (2002). Conditionals and directionality: On
+the meaning of if vs. only if. The Quarterly Journal of Experimental
+Psychology Section A, 55, 41-57.
+Schneider, W., Eschman, A., & Zuccolotto, A. (2002). e-Prime user's guide.
+Pittsburgh, PA: Psychology Software Tools.
+Sloman, S. A. (1996). The empirical case for two systems of reasoning.
+Psychological Bulletin, 119, 3-22.
+Sperber, D., Cara, F., & Girotto, V. (1995). Relevance theory explains the
+selection task. Cognition, 52, 3-39.
+Stalnaker, R. (1968). A theory of conditionals. Studies in logical theory, 2,
+98-112.
+van der Auwera, J. (1997). Pragmatics in the last quarter century: The case
+of conditional perfection. Journal of Pragmatics, 27, 261-274.
+Van der Henst, J. B., Bujakowska, K., Ciceron, C., & Noveck, I. A. (2007).
+How to make a participant logical: The role of premise presentation in
+a conditional reasoning task. Reasoning and Image (Japan).
+Wang, Y., Wang, H., Cui, L., Tian, S., & Zhang, Y. (2002). The N270
+component of the event-related potential reflects supramodal conflict
+processing in humans. Neuroscience Letters, 332, 25-28.
+Zhang, X., Wang, Y., Li, S., & Wang, L. (2003). Event-related potential N270,
+a negative component to identification of conflicting information
+following memory retrieval. Clinical Neurophysiology, 114, 2461-2468.
+
+

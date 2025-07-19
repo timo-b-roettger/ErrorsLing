@@ -1,0 +1,3317 @@
+C. Pattamadilok,
+LANGUAGE
+R. Kolinsky,
+AND P
+SPEECH,
+. Ventura,
+2007,
+M. Radeau,
+50 (4), 505
+J. Morais
+- 531
+
+505
+
+Orthographic Representations
+in Spoken Word Priming:
+No Early Automatic Activation
+Chotiga Pattamadilok1,2, Regine Kolinsky 1,2,
+Paulo Ventura 3, Monique Radeau1,
+Jose Morais1
+1
+
+Universite Libre de Bruxelles (U.L.B.), Belgium
+Fonds de la Recherche Scientifique --FNRS, Belgium
+3 Universidade de Lisboa, Portugal
+2
+
+Key words
+levels of speech
+processing
+orthographic
+priming
+orthography and
+speech processing
+phonological
+priming
+spoken word
+recognition
+
+Abstract
+The current study investigated the modulation by orthographic knowledge
+of the final overlap phonological priming effect, contrasting spoken primetarget pairs with congruent spellings (e.g., `carreau-bourreau', /karo/- / buro/)
+to pairs with incongruent spellings (e.g., `zero-bourreau', /zero/- / buro/).
+Using materials and designs aimed at reducing the impact of response biases
+or strategies, no orthographic congruency effect was found in shadowing,
+a speech recognition task that can be performed prelexically. In lexical
+decision, an orthographic effect occurred only when the processing environment reduced the prominence of phonological overlap and thus induced
+participants to rely on word spelling. Overall, the data do not support the
+assumption of early, automatic activation of orthographic representations
+during spoken word recognition.
+
+Acknowledgments: Preparation of this article was supported by the Human Frontier of Science
+Program RGP 53 / 2002, "An interdisciplinary approach to the problem of language and music
+specificity," by a FRFC grant (2.458.02), by a joint grant of Fundacao para a Ciencia e a
+Tecnologia--Ministerio da Ciencia, Tecnologia e Ensino Superior-- and European Community
+FEDER funding (Project POCI / PSI / 56901 / 2004, "Visual phonology and auditory orthography") and by the Centro de Psicologia Clinica e Experimental -- Desenvolvimento, Cognicao
+e Personalidade of the Universidade de Lisboa, Portugal. The first and second authors are
+Postdoctoral Researcher and Senior Research Associate of the Fonds de la Recherche Scientifique
+--FNRS, respectively. We thank Johannes Ziegler, Marie Montant, Mireille Besson, and Nicolas
+Dumay for their help in the preparation of the study and / or of the manuscript. We also thank
+Michael Tyler and an anonymous reviewer for helpful comments on an earlier version of this article.
+
+Address for correspondence. Chotiga Pattamadilok, Unite de Recherche en Neurosciences
+Cognitives (UNeSCog), Universite Libre de Bruxelles, CP 191, 50, Av. F. D. Roosevelt, 1050
+Brussels, Belgium; Tel.: 00 32 2 6502638; Fax: 00 32 2 6502209; e-mail: < cpattama@ulb.ac.be>.
+`Language and Speech' is (c) Kingston Press Ltd. 1958 - 2007
+
+Language and Speech
+
+506
+
+Phonological and orthographic auditory priming
+
+1Introduction
+Evidence for orthographic influence on speech processing was reported for the first
+time almost 30 years ago by Seidenberg and Tanenhaus (1979). Using a rhyme judgment task, these authors showed that the time taken to decide that two spoken words
+rhyme is shorter when their spellings are similar (`toast-roast') than when they are
+not (`toast-ghost'), and that the opposite effect holds for negative decisions, which
+are faster for `leaf-ref' than for `leaf-deaf'. Since then, many studies have reported
+an influence of orthographic knowledge on metaphonological performance, like
+in phoneme detection (e.g., Frauenfelder, Segui, & Dijkstra, 1990; but see Cutler,
+Treiman, & van Ooijen, 1998), phoneme counting (Treiman & Cassar, 1997), and
+blending words into a novel expression (the "blending task" designed by Treiman,
+1983, 1986, cf. Ventura, Kolinsky, Brito-Mendes, & Morais, 2001).
+More recently, there has been accumulating evidence that knowledge of orthography exerts an influence not only on the way literate people conceptualize speech,
+but also on the way they process spoken words in on-line tasks. As a matter of fact,
+lexical decision is slower for words including a rime that can be spelled in several ways
+than for words including a rime that can be spelled in only one way (the orthographic
+consistency effect first shown by Ziegler & Ferrand, 1998), and orthography seems to
+modulate formal priming effects (e.g., Chereau, Gaskell, & Dumay, 2007; Slowiaczek,
+Soltano, Wieting, & Bishop, 2003).
+Such influences of written language on auditory word recognition are surprising,
+since speech has primacy over written language both in the history of mankind and in
+the life of the individual (Liberman, 1992). According to this logic, written language
+processing is viewed as an additional system that may capitalize on existing phonological representations, but orthographic representations are most unlikely to have
+any significant impact on spoken word recognition. More generally, the influence of
+written language on auditory word recognition seems to question the view that speech
+processing is a modular system, encapsulated from the written language system (e.g.,
+Coltheart, 1999); most of the influential models of spoken word recognition do not
+explicitly consider the possibility that speech processing could somehow be affected
+by orthographic knowledge (e.g., Cohort model: Marslen-Wilson, 1987; MarslenWilson & Tyler, 1980; Marslen-Wilson and Welsh, 1978; TRACE model: McClelland
+& Elman, 1986; Neighborhood Activation Model: Luce & Pisoni, 1998; Luce, Pisoni,
+& Goldinger, 1990; Shortlist: Norris, 1994) and hence should be adapted to somehow
+incorporate the influence of orthography. This raises a further issue, namely the
+question of the universality of the existing speech recognition models. We already
+know that spoken word recognition processes are to some extent influenced by the
+varying language phonologies (e.g., Cutler, 1997; Cutler, Mehler, Norris, & Segui,
+1983, 1986). Leaving room for the influence of orthographic knowledge introduces an
+additional source of variability, including within a particular language, as a function
+of the listeners' literacy levels and orthographic competences.
+There is however a preliminary problem that should be solved, namely the issue
+of the processing level at which orthographic knowledge affects speech recognition,
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+507
+
+and, consequently, of the possibility that it affects spoken word recognition in an
+automatic and mandatory way.
+As a matter of fact, there is still considerable debate about how exactly orthographic knowledge affects spoken word recognition. In particular, the role of lexical
+activation in the occurrence of the orthographic consistency effect is a point of
+divergence for the few models that take the influence of orthographic knowledge into
+account. Whereas the interactive activation model (e.g., Ferrand & Grainger, 1996;
+Grainger & Ferrand, 1994; Ziegler & Ferrand, 1998) claims for bidirectional coupling
+between orthography and phonology as a general mechanism that pervades all stages
+of speech processing, the partially autonomous and partially interactive account
+(Kolinsky, 1998; see also Morais & Kolinsky, 1994; Morais, Kolinsky, & Nakamura,
+1996; Morais, Kolinsky, Ventura, & Cluytens, 1997) considers that orthographic
+effects only arise when lexical representations are activated, or when decisional
+processes about words are at play. In favor of the latter view is the fact that a robust
+orthographic consistency effect is observed only in lexical decision (and in this task
+only on words, not on nonwords) or when a shadowing response is made contingent
+upon a lexical criterion, not in standard shadowing or when the shadowing response
+is made contingent upon a formal criterion (Ventura, Morais, Pattamadilok, &
+Kolinsky, 2004; Ziegler, Muneaux, & Grainger, 2003).
+The aim of the present study was to examine the origin of the orthographic effects
+observed in another situation, namely in formal priming. More precisely, we wanted
+to check whether these effects automatically arise at a very early processing level.
+Contrary to the orthographic consistency manipulation, which involves isolated
+words, orthographic effects in formal priming are driven by the congruency between
+prime and target spellings (e.g., `bite-kite' vs. `night-kite'; or `phobia-photo' vs. `foamyphoto'). In other words, orthographic congruency seems to modulate phonological
+priming effects. This may have important implications for models of spoken word
+recognition, since phonological priming effects are supposed to reflect the activation of intermediate representations (e.g., of the rhyme) in the course of the word
+recognition process. The influence of orthography on formal priming may thus be
+interpreted as an early influence of orthographic knowledge in auditory processing.
+However, as we discuss in more detail below, it is important to dissociate the priming
+effects reflecting normal speech processing from those reflecting response biases or
+strategies, namely controlled attentional processes that listeners use to respond to
+the demands of specific listening contexts.
+Lack of attention to the distinction between automatic and nonautomatic
+processes may explain part of the discrepancy observed in the literature on orthographic effects in formal priming. While facilitation by orthographic congruency
+between phonologically overlapping words was observed in some studies (e.g., Baum
+& Leonard, 1999; Chereau et al., 2007; Jakimik, Cole, & Rudnicky, 1985; Miller &
+Swick, 2003; Slowiaczek et al., 2003), others reported either no such effect at all (e.g.,
+Burton, Jongman, & Sereno, 1996) or inhibition due to pure orthographic overlap
+(e.g., `couch-touch' vs. `room-touch': Baum & Leonard, 1999; Leonard & Baum, 1997).
+These incoherent data may actually reflect differences in the amount and type of
+overlap between prime and target that were used in these studies, this factor being
+Language and Speech
+
+508
+
+Phonological and orthographic auditory priming
+
+itself highly relevant as regards the distinction between automatic and nonautomatic
+processes.
+It is a fact that studies on initial phonological overlap (e.g., `talk-tight', `sail-saint')
+strongly suggest that the facilitation effect observed when prime and target share
+only one onset phoneme is due to strategic processes. These are highly dependent
+on task, interstimulus interval (henceforth, ISI), proportion of related items and / or
+inclusion of repeated pairs in the experimental list (see data and reviews in Goldinger,
+1996; Goldinger, Luce, & Pisoni, 1989; Goldinger, Luce, Pisoni, & Marcario, 1992;
+Hamburger & Slowiaczek, 1996; McQueen & Sereno, 2005; Norris, McQueen, &
+Cutler, 2002; Radeau, Morais, & Segui, 1995; Spinelli, Segui, & Radeau, 2001). When
+prime and target share two or more initial phonemes, several factors seem to be at
+play, namely prelexical facilitation, lexical competition, and strategic processes, and
+their effects partly overlie in time (for a recent review, see McQueen & Sereno, 2005;
+see also Goldinger, 1999, and Pitt & Shoaf, 2002). As already noted by Chereau et
+al. (2007), it is therefore difficult to isolate the role of orthography by using initial
+overlap. In addition, in this case at least, part of the orthographic priming effect can
+probably be attributed to strategies as well.
+In the present paper, we more particularly wanted to examine whether orthography modulates the final overlap priming effect. For sure, the facilitation effect
+observed with a final phonological overlap between prime and target (e.g., `chaindrain') is stronger and more reliable than initial overlap effects, both through tasks
+and materials. In addition, this effect seems to occur much earlier in the course of
+target processing. It is transient, decreasing with long ISI (e.g., 500 ms, Radeau et
+al., 1995), only occurs under unimodal (auditory-auditory) presentation (Cutler, van
+Ooijen, & Norris, 1999; Dumay, Benraiss, Barriol, Colin, Radeau, & Besson, 2001;
+Radeau, Segui, & Morais, 1994; Spinelli et al., 2001), and seems insensitive to both
+absolute and relative (prime-target) word frequency (Radeau et al., 1995) as well as to
+prime lexicality (e.g., Radeau et al., 1994; Slowiaczek, McQueen, Soltano, & Lynch,
+2000). These characteristics suggest that at least part of the final overlap facilitation
+effect reflects automatic activation of prelexical representations (e.g., McQueen &
+Sereno, 2005; Monsell & Hirsh, 1998; Norris et al., 2002; Slowiaczek et al., 2000).
+For this reason, the occurrence of an orthographic effect in final overlap priming
+would provide strong evidence for the influence of orthography on early spoken word
+recognition processes.
+However, even for final overlap priming, one cannot rule out the possibility
+that participants develop some strategies during the task, and that these produce or
+at least enhance the reported phonological or orthographic priming effects. In some
+studies examining orthographic modulation of the final overlap facilitation effect,
+such strategies may have been induced by a long ISI (e.g., over 800 ms in Miller &
+Swick, 2003) and / or by a large proportion of related trials (e.g., 50%, in Burton et al.,
+1996), which increases the salience of the prime-target relationship.
+The relationship between prime and target can be used in several ways, especially
+in the lexical decision task (see e.g., Holender, 1992; Norris et al., 2002; Radeau, Morais,
+& Dewier, 1989; Slowiaczek et al., 2000). In particular, due to the salience of the rhyme
+(to which even young children are highly sensitive, e.g., Bradley & Bryant, 1983), if the
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+509
+
+target rhymes with the preceding item, their phonological congruency may be more
+consistent with a positive ("word") response than with a negative ("nonword") one.
+As shown by Norris et al. (2002), listeners are thus biased towards saying "yes" to
+targets rhyming with their primes, unless foils almost rhyming with their primes (e.g.,
+`film-kilt', or `bulk-sulsh') discourage this strategy. Without such foils, this strategy
+leads in lexical decision to an enhanced rhyme priming effect on word targets, but to
+a null or inhibitory effect on nonword targets (Norris et al., 2002; see also Monsell
+& Hirsh, 1998; Praamstra, Meyer, & Levelt, 1994).
+Studying the effect of orthography on final overlap priming, Chereau et al.
+(2007) tried to overcome the problem of strategic processing by using materials that
+included foils having the same characteristics as those used by Norris et al. (2002).
+This was assumed to reduce the use of a congruency checking strategy facilitating
+positive responses for related trials and to discourage the listeners from resorting
+to an anticipatory strategy: since in foils prime and target do rhyme except for their
+final phoneme, anticipations should lead to answer "yes" erroneously to nonword foil
+targets (e.g., `bulk-sulsh', since `sulk' is a word) and "no" to word foil targets (`filmkilt', since `kilm' is not a word). In lexical decision, Chereau et al. observed stronger
+facilitation when prime and target shared both the phonological and orthographic
+rime than when they only shared the phonological one. This orthographic "boost" (the
+authors' term) persisted even when participants were forced to respond rapidly and
+when a reversed lexical decision task (in which participants had to respond "yes" to
+nonwords) was used in order to further reduce the impact of a congruency checking
+strategy facilitating positive responses for related trials. Based on these findings,
+the authors claimed for mandatory and automatic orthographic activation during
+spoken word recognition.
+However, as already noted by Norris et al. (2002) and by McQueen and Sereno
+(2005), although including foils in the materials could help the listener to minimize
+the anticipatory component of phonological priming, it could induce other strategies.
+In particular, we hypothesized that by obscuring the phonological relations between
+prime and target, the inclusion of foils may lead listeners not only to ignore (or at
+least to pay less attention to) the phonological relation between prime and target, but
+also, and concurrently, to rely more on other potentially relevant information such
+as word spelling. In the present study, we checked for this possibility by comparing
+a situation without foils (Experiment 1) to a situation with foils (Experiment 2).
+Except for the presence or not of such foils, the materials were the same in the
+two experiments. They included trials in which prime and target shared both their
+phonology and orthography (henceforth, orthographically matching condition) as well
+as trials in which prime and target only shared their phonology (pure phonological
+overlap: henceforth, orthographically mismatching condition). Any difference in the
+priming effect obtained in the orthographically matching and mismatching condition compared to an unrelated, control, condition would capture the influence of
+orthographic knowledge. In addition, any gain of performance in the orthographically
+mismatching condition compared to the unrelated condition would capture facilitation
+due to phonological overlap.
+Language and Speech
+
+510
+
+Phonological and orthographic auditory priming
+
+The same targets were thus paired with the three prime types that corresponded to
+three conditions. For example, the target word "faute" ( /fot/, `mistake') was preceded
+by "cote" ( /kot/, `rib' or `slope') in the orthographically mismatching condition, by
+"saute" ( /sot/, `sudden change') in the orthographically matching condition, and by
+"ville" ( /vil/, `town') in the unrelated condition. As illustrated, the final overlap of
+monosyllabic pairs always involved the rime. In order to test the generality of the
+effect, there were also disyllabic pairs, in which the final overlap always involved the
+full second syllable. For example, the target "modele" ( /mdl/ , `model') was preceded
+by "chandelle" ( /adl/, `candle') in the orthographically mismatching condition, by
+"fidele" ( /fidl/, `faithful, loyal') in the orthographically matching condition, and by
+"gitane" ( /itan/, `gipsy') in the unrelated condition.
+In order to overcome the methodological limitations presented by some previous
+studies, we tried to reduce the possibility for participants to develop response strategies
+by using a short ISI (50 ms) and by presenting each participant with each target only
+once. This led us to use three different experimental lists, with only 15% of related
+trials in each list.
+To further check whether the putative orthographic influence on formal priming
+reflects an effect arising at a very early processing stage, in both Experiments 1 and 2
+the same materials were presented for lexical decision and shadowing; the shadowing
+response only requires an accurate analysis of the phonetic properties of the (word
+or nonword) stimulus in order to build an articulatory plan, and does not rely on any
+binary choice decision. As such, compared to lexical decision, it is regarded as biasing
+participants towards the prelexical level, as being exempt of decisional processes
+(Balota & Chumbley, 1984; Jakimik et al., 1985; Norris, 1986; Vitevitch & Luce, 1999),
+and as far less sensitive to congruency biases (Norris et al., 2002). Comparison of
+the influence of orthography in these two tasks is thus also critical to determine the
+origin of such an effect.
+In line with the objective presented above, we formulated three main predictions.
+First, if orthographic knowledge was modulating the priming effect, we should find
+stronger priming in the orthographically matching compared to the orthographically
+mismatching condition. Second, assuming that, like the orthographic consistency
+effect, the putative orthographic priming effect does not arise early in the processing
+route (cf. Ventura et al., 2004), we expected orthography to modulate the priming effect
+in lexical decision but not in shadowing. Third, even in lexical decision, orthographic
+priming would emerge mainly when phonological relations between prime and target
+were obscured by the presence of almost rhyming foils.
+
+2 Experiment 1
+2.1
+Method
+2.1.1
+
+Participants
+A total of 60 undergraduate students of Universite Libre de Bruxelles (15 men and 45
+women, aged 18 to 24 yrs; average: 21 yrs) were paid for their participation. All were
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+511
+
+native French speakers and none of them reported any hearing or speech disorder.
+Half of them were required to perform a shadowing task, and the others a lexical
+decision task.
+2.1.2
+
+Materials
+All the items were recorded by a male native French speaker on a Sony minidisc
+recorder. They were digitized at a sampling rate of 32kHz with 16-bit analog-todigital conversion, using Sound Tools / DigiDesign editor software on a Macintosh
+SI Computer.
+The materials consisted of 936 pairs of word prime and word or nonword target.
+They corresponded to 216 critical word pairs, 216 critical word-nonword pairs and
+504 fillers. For each of these pair types, half of the pairs included two monosyllabic
+sequences, while the other half included two disyllabic sequences.
+For the critical word pairs, each one of 72 different target words was paired
+with three different prime words. These primes corresponded to one of three priming
+conditions. In the orthographically mismatching condition, prime and target ended
+with the same phonological sequence, but with different spellings. In the orthographically matching condition, prime and target ended with the same phonological and
+orthographic sequence. In the unrelated condition, prime, and target ended with
+different phonological and orthographic sequences. The final overlap of monosyllabic
+pairs always involved the rime, whereas the final overlap of disyllabic pairs always
+involved the full second syllable. The syllabic structure of the prime was controlled
+across conditions.
+For the critical word-nonword pairs, each one of 72 different nonword targets was
+paired with three word primes, two of which ending with the same phonology as the
+target (related condition), and one sharing no information with the target (unrelated
+condition). For example, the monosyllabic nonword "louge" ( /lu/ ) was preceded
+by the monosyllabic word prime "rouge" ( /ru/, `red') and "bouge" ( /bu/, `hovel').
+Similarly, the disyllabic nonword "goussive" ( /gusiv/ ) was preceded by the disyllabic
+word prime "lessive" ( /lesiv/, `washing') and "missive" ( /misiv/, `missive'). The other
+pairs were unrelated, as for example "louge" which was preceded by "pate" ( /pat/,
+`pastry') and "goussive" which was preceded by "barrage" ( /bara/, `dam'). As shown
+by these examples, the overlap was similar as the one used for the word pairs, with
+a rime overlap for monosyllables and a full second syllable overlap for disyllables.
+All the nonwords were pronounceable and included consistent rimes. The syllabic
+structure of the prime was also controlled across conditions.
+The complete list of critical word and word-nonword pairs is presented in
+Appendix A, and the characteristics (i.e., word frequency, phonological, and orthographic uniqueness point, number of phonological, orthographic, phonographic, and
+rime phonographic neighbors, acoustic duration, number of phonemes and graphemes
+of the critical part, and number of phonemes and graphemes shared between prime
+and target) of the critical word targets and primes are presented in Appendix B,
+after suppressing the stimuli that had been discarded from the analyses following
+preliminary data inspection (see the Results section).
+Language and Speech
+
+512
+
+Phonological and orthographic auditory priming
+
+The 504 pairs of fillers included unrelated prime and target, half of these targets
+being words and the other half nonwords.
+Three lists of 648 trials (prime-target pairs) were constructed. Each one included
+72 critical word pairs, 72 critical word-nonword pairs and all the 504 filler pairs.
+Each of the 72 critical word targets and each of the 72 critical nonword targets was
+preceded by one of the three possible primes. As regards the critical word pairs, the
+same number of target words (12 monosyllabic and 12 disyllabic) was paired with
+primes belonging to each of the three priming conditions. For critical word-nonword
+pairs, 48 nonword targets (24 monosyllabic and 24 disyllabic) were paired with related
+primes and the other 24 (12 monosyllabic and 12 disyllabic nonwords) were unrelated.
+Thus, no critical word or nonword target was presented more than once within each
+list, and across lists each target was preceded by each of the three primes. Each list
+included only 15% of related trials, that is, trials in which prime and target shared
+their phonology or their phonology and orthography.
+Each of the three lists was split into six monosyllabic blocks and six disyllabic
+blocks of 54 trials each. Within each block, there were six critical word pairs (2 for
+each priming condition), six critical word-nonword pairs (4 phonologically related
+pairs and 2 unrelated) and 42 fillers. The order of within-block stimulus presentation
+was pseudorandom, with the constraints that the same response (word or nonword)
+never occurred more than three times consecutively, and that the trials belonging to
+the same priming condition or the targets ending with the same rime never occurred
+successively. Each block always started with five filler trials.
+2.1.3
+
+Procedure
+For each task, participants were randomly assigned to one of three groups of 10
+participants, corresponding to the three different lists. Thus, each participant was
+presented with only one list and hence heard a given stimulus only once.
+The stimuli were presented auditorily at a comfortable level through a pair of
+SONY headphones. The participants were tested individually in a quiet room, in one
+session that lasted about 75 mins. Those who participated in lexical decision were
+instructed to listen carefully to the stimuli of each pair and to indicate, by pushing
+one of the two response buttons placed in front of them, as quickly and accurately
+as possible if the second stimulus of the pair was a real French word or a nonword.
+Response latency was measured from the onset of the target to the button-press
+response. Those who participated in shadowing were asked to repeat aloud the second
+stimulus of each pair as rapidly and accurately as possible. The vocal response triggered a simple threshold voice key connected to a button box provided by the E-prime
+software (Schneider, Eschman, & Zuccolotto, 2002 a; b).1 Naming latencies were
+1
+
+Tyler, Tyler, and Burnham (2005) suggested that the use of a simple threshold voice key does
+not provide accurate RTs when the targets of different experimental conditions do not share the
+same initial phonemes. This was not a problem in the present study: since the same targets were
+used across priming conditions, we were able to avoid both problems related to differences in
+articulatory requirements for producing different sounds and difficulties linked to the detection
+
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+513
+
+measured from the onset of the target stimulus to the onset of the participants' vocal
+responses. In this latter task, the whole session was recorded on a SONY minidisc,
+which enabled us to identify occasional naming errors.
+There was a 50 ms interval between the two stimuli of a pair. Presentation was
+controlled and response latencies and errors were collected by the E-Prime 1.1 software
+(Schneider et al., 2002 a; b).
+In order to make participants familiar with the task, the session started with two
+practice blocks of 14 monosyllabic trials each. This was followed by the presentation
+of six monosyllabic experimental blocks. There was a 2 min break between each block
+of trials and a 2 s interval between the response and the beginning of the next trial.
+The same procedure was used for disyllabic blocks, which were also preceded by two
+practice blocks. Feedback was provided only during the practice blocks.
+Orthographic knowledge of the participants was estimated by asking them, at the
+end of the experiment, to write down the critical stimuli they had heard in the main
+task. This spelling task was divided into two parts. Stimuli were first presented as
+prime-target pairs and participants were instructed to write down only the target of
+each pair. Order of the pairs was pseudorandom. Then, only the prime stimuli were
+presented one at a time and participants were instructed to write down each stimulus.
+The aim of this procedure was to check the participants' orthographic knowledge
+while keeping the presentation of the stimuli identical to the one applied during the
+main task. The fact that participants only had to write down the targets in the first
+part of the spelling task should also have prevented them from merely transposing
+the spelling pattern of a word prime onto a nonword target.
+2.2
+Results
+
+Response accuracy and response latency data were analyzed separately, as were data
+on critical word and nonword targets. Preliminary inspection of the Reaction Time
+data (RTs) led us to discard from further analyses deviant RTs, that is, those longer
+or shorter than the mean RT observed on correct trials plus or minus 2.5 SDs. This
+was done separately for monosyllabic and disyllabic target words. With this criterion,
+2.9% and 1.6% of the RT data of lexical decision and shadowing were eliminated,
+respectively.
+In addition, we checked whether the critical word targets and primes had been
+written as expected in the spelling task. Two word targets (`pipeau' and `beret') and
+three word primes (`galet', `glaive', and `dome') led to less than 70% expected spellings.
+The same criterion was applied to nonword targets in word-nonword related pairs,
+since each critical nonword was expected to be spelled in the same way as its word
+prime of the related condition, both items including only consistent rimes. Only one
+nonword ( /ln/ ) led to less than 70% expected spellings. We decided to exclude these
+three targets (two words and one nonword) and their associated word primes from
+further analyses. Similarly, we excluded the complete set of stimuli corresponding
+of different sounds with the voice key (see also Kessler, Treiman, & Mullennix, 2002; Rastle &
+Davis, 2002).
+
+Language and Speech
+
+514
+
+Phonological and orthographic auditory priming
+
+to the primes `galet', `glaive', and `dome'. Finally, the target `role' and its associated
+primes were also excluded due to the poor quality of the sound file. This led us to take
+into account, in the following analyses, 66 complete word sets and 71 complete wordnonword sets. The data on these restricted sets of stimuli are presented in Table 1.
+Table 1
+Mean RTs (in ms) for correct responses and mean correct responses (in %) observed in
+Experiment 1 (SD in brackets). O-Mismatch = orthographically mismatching condition;
+O-Match = orthographically matching condition. R=Related; U-R=Unrelated
+
+Word Target
+RTs
+
+% correct
+
+Priming condition
+
+Priming condition
+
+monosyll.
+
+U-R
+
+R
+
+O-Match
+
+R
+
+O-Mismatch
+
+U-R
+
+O-Match
+
+R
+
+Priming
+condition
+
+O-Mismatch
+
+U-R
+
+% correct
+
+787
+
+773
+
+773
+
+97,8
+
+99,7
+
+98,6
+
+835
+
+817
+
+94,6
+
+95,7
+
+SD
+
+[85]
+
+[78]
+
+[79]
+
+[4]
+
+[2]
+
+[3]
+
+[88]
+
+[87]
+
+[7]
+
+[4,7]
+
+14
+
+14
+
+1,9
+
+0,8
+
+Priming
+effect*
+Mean
+
+796
+
+781
+
+791
+
+98,6
+
+99,1
+
+99,1
+
+SD
+
+[84]
+
+[74]
+
+[64]
+
+[4]
+
+[4]
+
+[3]
+
+15
+
+5
+
+0,5
+
+0,5
+
+Priming
+effect*
+Mean
+
+915
+
+854
+
+852
+
+89,6
+
+94
+
+95
+
+SD
+
+[109]
+
+[83]
+
+[90]
+
+[8]
+
+[11]
+
+[6]
+
+61
+
+63
+
+4,4
+
+5,4
+
+851
+
+842
+
+94,5
+
+93,3
+
+97,4
+
+[94]
+
+[7]
+
+[10]
+
+[5]
+
+-1,2
+
+2,9
+
+Priming
+effect*
+Mean
+
+disyll.
+
+R
+
+RTs
+Priming
+condition
+
+Mean
+
+Stimuli
+
+monosyll.
+disyll.
+
+Shadowing
+
+Experiment
+
+U-R
+
+Lexical decision
+
+Nonword Target
+
+SD
+Priming
+effect*
+
+895
+
+[117] [100]
+44
+
+53
+
+18
+917
+
+879
+
+1,1
+93,9
+
+95,3
+
+[100] [92] [10,2] [6,5]
+38
+998
+
+1,4
+
+966
+
+95,7
+
+94,6
+
+[114] [87]
+
+[5]
+
+[6,7]
+
+32
+970
+
+907
+
+[128] [96]
+63
+
+-1,1
+97,2
+
+96,5
+
+[4,5] [4,8]
+-0,7
+
+* Speed or accuracy advantage observed in the related condition in comparison to the
+un related condition.
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+515
+
+2.2.1
+
+Word-word pairs
+For critical word targets, analyses of variance (ANOVAs) were conducted by subjects
+(F1) and by items (F 2) on the priming effects, which were calculated as the difference
+between the results obtained in the unrelated and each of the related conditions.
+This was done separately for RTs on correct responses and for accuracy scores, in
+shadowing and lexical decision and, within each task, for critical word and nonword
+targets. Within each analysis, orthographic overlap (with orthography matching or
+mismatching the phonological relation between prime and target in the related condition) and number of syllables (mono- vs. disyllables) were treated as within-subject
+factors. In the item analysis, given that the same targets words were used in all priming
+conditions, orthographic overlap was treated as a within-item factor, while number
+of syllables was treated as a between-item factor.
+In shadowing, no significant effect was found either in the RT or in the accuracy
+data (all F s  1).
+In lexical decision, no significant effect was observed in the RT data (all F s < 1).
+Only an unreliable effect of orthographic overlap was found in the accuracy data,
+F1(1, 29) = 2.82, p>.1; F2(1, 64) = 5.65, p <.025: priming was stronger in the orthographically matching than in the orthographically mismatching condition. Neither number
+of syllables, F 1(1, 29) = 1.04; F 2(1, 64) = 2.73, p >.1 in both cases, nor its interaction
+with orthographic overlap, F1(1, 29) = 2.14; F2(1, 64) = 1.75, p >.1 in both cases, reached
+significance.
+The quasi absence of effect of orthographic overlap contrasts with the strong
+and reliable facilitation due to phonological overlap between prime and target. As
+a matter of fact, the Student t -tests comparing the RTs obtained in the unrelated
+and orthographically mismatching conditions showed an RT advantage of the latter
+condition in both lexical decision and shadowing, although the difference was not
+reliable in the latter task [lexical decision: t 1(29) = 5.06; t 2(65) = 5.24, p <.0001 in both
+cases, shadowing: t 1(29) = 2.65, p <.025; t 2(65) = 1.61, p>.1].2
+2.2.2
+
+Word-nonword pairs
+Given that the orthographic information was not manipulated for nonword targets,
+only the presence of the phonological facilitation effect was examined using ANOVAs
+performed separately for each task on the RT (for correct responses) and accuracy
+scores. Each analysis included condition (unrelated vs. related) and number of syllables
+as within-subject factors. In the item analyses, since the same nonword targets were
+used in both the unrelated and related conditions, this factor was treated as a withinitem factor, while number of syllables was a between-item factor.
+In shadowing, the RT analyses showed a significant condition effect,
+F1 (1, 29) = 16.72; F2 (1, 69) = 16, p <.0001, in both cases, reflecting facilitation due to
+2
+
+All significant results remained so even when the alpha level was adjusted (p <.017) according
+to the Bonferroni method.
+
+Language and Speech
+
+516
+
+Phonological and orthographic auditory priming
+
+phonological overlap between prime and target. In addition, monosyllabic targets
+led to faster RTs than disyllabic targets, F1 (1, 29) = 30.97; F2 (1, 69) = 14.67, p <.0001,
+in both cases, but the interaction between condition and number of syllables was not
+significant, F1 (1, 29) = 2.05; F2 (1, 69) = 2.19, p>.1, in both cases. No significant effect
+was found in the accuracy data (all Fs  1).
+Similar analyses performed on the RT data obtained in lexical decision also
+showed facilitation due to phonological overlap, F1(1, 29) = 21.94; F2(1, 69) = 26.48,
+p <.0001, in both cases. In this task, disyllabic targets led to faster RTs than monosyllabic targets, F1 (1, 29) = 13.84, p =.001; F 2 (1, 69) = 9.5, p <.005, and the interaction
+between condition and number of syllables was significant in the subject analysis and
+almost reached significance in the item analysis, F 1 (1, 29) = 4.07, p =.05; F 2 (1, 69) = 3.38,
+p =.07. Although the facilitation effect was stronger for disyllables than for monosyllables, it was significant in both cases [monosyllables: F1 (1, 29) = 5.99; F2 (1, 34) = 5.8,
+p <.025, in both cases, disyllables: F1 (1, 29) = 25.47; F2 (1, 35) = 23.16, p <.0001, in both
+cases]. The analyses performed on the accuracy data only showed an unreliable effect
+of number of syllables, F 1 (1, 29) = 4.9, p <.05; F 2 (1, 69) = 1.71, p >.1; neither the effect
+of condition nor its interaction with number of syllables was significant (all Fs < 1).
+In conclusion, using materials and experimental designs aimed at reducing the
+intervention of strategies in a priming situation (final overlap, short ISI, low percentage
+of related trials and a single presentation of each target to the same participant), in both
+lexical decision and shadowing we failed to observe the orthographic effect previously
+reported in the literature (e.g., Baum & Leonard, 1999; Burton et al., 1996; Chereau et
+al., 2007; Leonard & Baum, 1997; Miller & Swick, 2003). Given the presence in both
+tasks of a phonological facilitation effect for both word and nonword targets, failing
+to find an orthographic influence in the present experiment is unlikely to be due to
+a response bias or strategy that could somehow have interfered with normal speech
+recognition processes and concealed the orthographic effect.
+The absence of an orthographic modulation of the final overlap priming effect
+observed here contrasts with the significant effect of orthography reported by Chereau
+et al. (2007). In the next experiment, we tried to check whether this discrepancy
+might be due to the fact that these authors included almost rhyming foils (of the type
+proposed by Norris et al., 2002) in their experimental list, which was not the case here:
+including such kind of foils obscures the phonological relation between prime and
+target, and hence may lead participants to pay less attention to phonology and more
+attention to other sources of potentially relevant information, such as orthography.
+To check for this possibility, in Experiment 2 about 33% of the fillers were replaced
+by pairs in which the target almost rhymed (or shared the second syllable) with its
+prime, like `courbe - lourde' (/kurb/-/lurd/) or `litige - fatigue' (/liti/-/fatig/) for wordword pairs, and `cerne - terve' (/srn/-/trv/) or `demence - semenge' (/demas/-/sma/)
+for word-nonword pairs. If such foil pairs were actually biasing listeners towards
+paying more attention to orthography, we should, in comparison to the unrelated
+condition, find stronger facilitation in the orthographically matching condition than
+in the orthographically mismatching one.
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+517
+
+3 Experiment 2
+3.1
+Method
+3.1.1
+
+Participants
+A total of 60 undergraduate students of Universite Libre de Bruxelles (17 men and 43
+women, aged 18 to 27 yrs; average: 21 yrs) were paid for their participation. All were
+native French speakers and none of them reported any hearing or speech disorder.
+Half of them were required to perform a shadowing task, the others were required
+to perform a lexical decision task.
+3.1.2
+
+Materials
+The critical stimuli were the same as those of Experiment 1, but foils replaced 33.3%
+of the fillers (i.e., 168 out of 504 pairs). The characteristics of these stimuli were
+similar to those reported in Norris et al.'s study (2002). On half of the foil trials, word
+targets were preceded by word primes with which they almost rhymed (for example,
+`courbe - lourde', (/kurb/ - /lurd/) or almost shared the second syllable (for example,
+`litige - fatigue', (/liti/- /fatig/). On the other half of the foil trials, nonword targets
+were preceded by word primes with which they almost rhymed (e.g., `cerne - terve',
+/srn/-/trv/) or almost shared the second syllable (e.g., `demence - semenge', /demas//sma/).
+Construction of the lists and blocks was identical to the one described for
+Experiment 1, except for the fact that each list included, in addition to 15% of related
+trials, 59% unrelated trials and 26% foils, and that each block included, in addition to
+six critical word pairs and six critical word-nonword pairs, 28 fillers and 14 foils.
+The order of within-block stimulus presentation was pseudorandom, with the
+same constraints as for Experiment 1. Each block also started with five filler trials.
+3.1.3
+
+Procedure
+The procedure was identical to that of Experiment 1.
+3.2
+Results
+
+As in Experiment 1, response accuracy and response latency data were analyzed
+separately for shadowing and lexical decision and, within each task, for critical
+word and nonword targets. Preliminary inspection of the RT data led us to discard
+deviant RTs from further analyses, separately for lexical decision and shadowing.
+With this criterion, 3.2% and 1% of the RT data of lexical decision and shadowing
+were eliminated, respectively. Only the data of the stimuli that were kept for the
+analyses in Experiment 1 were taken into account. The results of Experiment 2 are
+presented in Table 2.
+Language and Speech
+
+518
+
+Phonological and orthographic auditory priming
+
+Table 2
+Mean RTs (in ms) for correct responses and mean correct responses (in %) observed in
+Experiment 2 (SD in brackets). O-Mismatch = orthographically mismatching condition;
+O-Match = orthographically matching condition. R=Related; U-R=Unrelated
+
+Word Target
+RTs
+
+% correct
+
+Priming condition
+
+Priming condition
+
+monosyll.
+
+U-R
+
+R
+
+97,4
+
+O-Match
+
+R
+
+O-Mismatch
+
+U-R
+
+O-Match
+
+R
+
+Priming
+condition
+
+O-Mismatch
+
+U-R
+
+% correct
+
+777
+
+738
+
+747
+
+99,2
+
+99,7
+
+98,6
+
+812
+
+790
+
+95,8
+
+SD
+
+[83]
+
+[89]
+
+[94]
+
+[3]
+
+[2]
+
+[4]
+
+[96]
+
+[87]
+
+[6,5] [3,3]
+
+39
+
+30
+
+0,5
+
+-0,6
+
+Priming
+effect*
+Mean
+
+792
+
+770
+
+780
+
+98,8
+
+100
+
+99,4
+
+SD
+
+[81]
+
+[84]
+
+[88]
+
+[3]
+
+[0]
+
+22
+
+12
+
+871
+
+859
+
+Priming
+effect*
+
+disyll.
+
+R
+
+RTs
+Priming
+condition
+
+Mean
+
+Stimuli
+monosyll.
+disyll.
+
+Shadowing
+
+Experiment
+
+U-R
+
+Lexical decision
+
+Nonword Target
+
+Mean
+
+918
+
+SD
+
+[119] [154] [130]
+
+Priming
+effect*
+
+47
+
+59
+
+95,8
+
+[2]
+
+[106] [115] [7,8]
+
+[5]
+
+1,2
+
+0,6
+
+18
+
+0,5
+
+85
+
+93
+
+92,1
+
+[10]
+
+[14]
+
+[12]
+
+8
+
+7,1
+
+874
+
+870
+
+824
+
+93,1
+
+95,6
+
+95,9
+
+SD
+
+[81]
+
+[98]
+
+[83]
+
+[9]
+
+[6]
+
+[7]
+
+4
+
+50
+
+2,5
+
+2,8
+
+894
+
+984
+
+876
+
+1,6
+95,3
+
+Mean
+
+Priming
+effect*
+
+22
+
+957
+
+92,8
+
+95
+
+[116] [109] [10,5] [7,2]
+27
+950
+
+916
+
+[109] [85]
+34
+
+2,2
+96,1
+
+95,7
+
+[9,5] [6,2]
+-0,4
+
+* Speed or accuracy advantage observed in the related condition in comparison to the
+un related condition.
+3.2.1
+
+Word-word pairs
+ANOVAs similar to those performed in Experiment 1 on the data of word-word
+pairs were used here. For shadowing, no effect emerged in the analyses performed
+on the RT data, F1(1, 29) = 3.1, p >.05; F2(1, 64) = 2.10, p >.1, for orthographic overlap,
+F 1(1, 29) = 2.73, p>.1; F 2 < 1, for number of syllables, and F 1; F 2 < 1 for their interaction, and only a trend towards an effect was found in the analyses performed on
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+519
+
+the accuracy data, F 1(1, 29) = 3.95, p =.056; F 2(1, 64) = 3.49, p =.066. Unexpectedly, it
+reflected a priming effect that was slightly stronger (by 0.89%) in the orthographically
+mismatching condition compared to the orthographically matching condition.
+In lexical decision, the RT analyses showed a significant effect of orthographic
+overlap, F 1(1, 29) = 11.88, p <.005; F 2(1, 64) = 4.97, p <.05, which interacted with
+number of syllables, F1(1, 29) = 7.41; F2(1, 64) = 7.2, p  .01, in both cases. The analyses
+performed separately on mono- and disyllables showed that the influence of orthography was restricted to disyllables, F1(1, 29) = 21.78, p <.0001; F2(1, 32) = 11.96, p <.005,
+for monosyllables: F 1 and F 2 < 1. The accuracy analyzes only revealed a marginal
+and unreliable effect of number of syllables, F 1(1, 29) = 3.96, p =.056; F 2(1, 64) = 2.01,
+p>.1, but no effect of orthographic overlap or interaction of this factor with number
+of syllables (all F s < 1).
+So it seems that orthographic knowledge only modulated the lexical decision
+RTs and that this effect was limited to the disyllabic stimuli. This observation is
+confirmed by a combined analysis (ANOVAs) of the RT data from lexical decision
+and shadowing that used the percentage of priming effect in relation to the control
+baseline as a dependent variable. As a matter of fact, the ANOVAs (which included
+orthographic overlap as a within-subject and within-item factor, number of syllables
+as a within-subject and between-item factor, and task as a between-subject and withinitem factor) showed a marginal three-way interaction, F1(1, 58) = 3.56; F2(1, 64) = 3.76,
+p =.06, in both cases, and the decomposition of this interaction showed that the
+orthographic effect was indeed significant only in lexical decision when disyllabic
+stimuli were used, F 1(1, 29) = 21.24, p <.0001; F 2(1, 32) = 11.46, p <.005.
+As we had done in the previous experiment, we checked whether participants'
+performances benefited from the phonological overlap between prime and target.
+The comparison between the RTs obtained in the unrelated and orthographically mismatching conditions showed that this was indeed the case for shadowing,
+t 1(29) = 6.12, p <.0001; t 2(65) = 2.80, p <.01. As regards lexical decision, a significant
+phonological priming effect emerged for monosyllabic targets, t 1(29) = 3.24, p <.005;
+t 2(32) = 4.36, p <.0001, but not for disyllabic ones (t 1 and t 2 < 1).3
+3.2.2
+
+Word-nonword pairs
+ANOVAs similar to those performed in Experiment 1 on the data of word-nonword
+pairs were used here. In shadowing, the RT analyses revealed a significant effect of
+condition, F1(1, 29) = 8.57, p <.01; F2(1, 69) = 4.41, p <.05, reflecting an RT advantage
+of the related condition over the unrelated one. Although monosyllabic targets led to
+faster RTs than disyllabic targets, F 1(1, 29) = 45.54; F 2 (1, 69) = 24.5, p <.0001, in both
+cases, this effect did not interact with condition (F1 and F 2 < 1). No significant effect
+was found in the accuracy data (all Fs  1).
+Facilitation was also observed in lexical decision in the RT data, F1(1, 29) = 15.37,
+p <.0001; F 2(1, 69) = 6.21, p <.025. As in Experiment 1, disyllabic targets led to some3
+
+All significant results remained so even when the alpha level was adjusted (p <.017) according
+to the Bonferroni method.
+
+Language and Speech
+
+520
+
+Phonological and orthographic auditory priming
+
+what faster RTs than monosyllabic targets, F 1(1, 29) = 11.76, p <.005; F 2 (1, 69) = 5.12,
+p <.05, but here this effect did not interact with condition (F 1 and F 2 < 1). The analyses
+performed on the accuracy data only showed an unreliable effect of number of
+syllables, F1(1, 29) = 6.58, p <.025; F2(1, 69) = 1.98, p >.1, but no effect of condition (F1
+and F2 < 1) or interaction between these two variables, F1(1, 29) = 2.21; F2(1, 69) = 1.99,
+p>.1, in both cases.
+To sum up: contrary to what had been reported in Experiment 1, an influence of
+orthographic congruency was observed here. However, this effect was limited to lexical
+decision, and, in this task, was observed only when disyllabic stimuli were used.
+As regards the phonological priming effect observed on word targets, in lexical
+decision the presence of the foils had an effect in the expected direction, reducing the
+size of the effect. While on the whole this decrease was less dramatic than the one
+reported by Norris et al. (2002), who showed a reduction of the phonological priming
+effect from 118 to 27ms, it was present for monosyllabic word targets (with, compared
+to Experiment 1, a reduction of the phonological priming effect from 61 to 47 ms) and
+was very strong for disyllabic word targets (with, compared to Experiment 1, a reduction from 44 to 4ms, an effect which is no longer significant). The lack of a significant
+effect in the latter situation contrasts with the robust phonological facilitation effect
+observed in all the other cases, both in the present experiment and in Experiment 1.
+So, in the present lexical decision experiment, the presence for disyllables of an
+orthographic effect seems to go along with the absence of phonological facilitation:
+for disyllabic words the priming effect observed in the orthographically matching
+condition did not differ much between Experiments 1 and 2 (53 and 50ms, respectively),
+while the one observed in the mismatching condition clearly did, since it shrank
+dramatically from Experiment 1 to 2. Hence, the orthographic effect observed here
+does not seem to reflect an orthographic boost due to the congruency between the
+orthographic and phonological representations of prime and target that characterized
+the orthographically matching condition. It rather seems to reflect the interference
+due to orthographic incongruence between the phonologically overlapping stimuli
+of the orthographically mismatching condition.
+This interference effect is probably related to the presence of foil pairs that made
+phonological relations between prime and target less systematic than in Experiment 1.
+These foils might have biased listeners towards paying less attention to phonology
+and to resort more to other potentially relevant information, in the present case to
+word spelling.
+Note that in lexical decision the orthographic interference effect occurred despite
+the fact that the inclusion of foils did not fully eliminate the listeners' tendency to
+anticipate the target on the basis of the phonological form of the prime. As already
+noted by Norris et al. (2002) and by Chereau et al. (2007), in lexical decision, responses
+to foils were delayed and less accurate than responses to other fillers. This was the
+case here for both word and nonword targets, whichever their length (see Table 3).
+Contrary to what had been observed by Norris et al., a bias to assume that the target
+will end in a way similar to the prime seems to have occurred here in shadowing too
+(see also Table 3). This difference may be linked to the fact that, in Norris et al.'s
+study, the presence of foils led to slower shadowing responses overall, which was
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+521
+
+not the case here, since shadowing responses were on the whole as fast in the present
+experiment as in Experiment 1. Much more important is the fact that, despite this
+bias, in shadowing the presence of foils did not induce any modulation of the priming
+effects by orthographic (in)congruency, and hence did not eliminate or even reduce
+the facilitation due to phonological overlap.
+Table 3
+Differences between scores (RT and correct responses) on foils and fillers, separately for
+shadowing and lexical decision
+Shadowing
+
+Monosyllable
+
+Disyllable
+
+a
+
+Lexical Decision
+
+RTsa
+
+% correct b
+
+Word Target
+
+40**
+
+0.1
+
+63**
+
+6.3**
+
+Nonword
+Target
+
+17*
+
+8.1**
+
+85**
+
+6.9**
+
+Word Target
+
+39**
+
+1.9*
+
+103**
+
+17.5**
+
+Nonword
+Target
+
+26**
+
+3.7*
+
+120**
+
+17.1**
+
+RTs foils - RTs fillers
+* p  .01 ** p <.0001
+
+b
+
+RTs a
+
+% correct b
+
+% correct fillers - % correct foils
+
+4 General discussion
+The aim of the present work was to examine whether orthographic knowledge influences speech processing automatically at a very early processing level. The influence
+of orthographic knowledge was investigated using manipulation of the orthographic
+congruency of stimuli presented in an auditory priming situation with final overlap.
+A comparison between the priming effect obtained when prime and target shared the
+same phonology and orthography and when they only shared the same phonology did
+not show any hint of orthographic influence either in lexical decision or in shadowing,
+except when foils, the partial overlap trials that aimed at turning the prime-target
+phonological relationship less salient, were included in the materials. In the latter
+case, the orthographic effect was found only in lexical decision, not in shadowing.
+In addition, in lexical decision the orthographic effect was only observed on disyllabic stimuli, and for these its emergence coincided with the absence of facilitation due
+to phonological overlap. Since in comparison with the no-foils situation (Experiment 1)
+only the latter effect shrank when foils were included in the materials (Experiment 2),
+this pattern of results seems to reflect interference by incongruent orthographic
+representations rather than facilitation due to orthographic congruency.
+At least two factors may explain why this orthographic interference effect was
+restricted to disyllables. In particular, the length (and hence the number of syllables)
+of the stimuli was confounded with both the type and the size of the overlap, namely
+Language and Speech
+
+522
+
+Phonological and orthographic auditory priming
+
+rime overlap in monosyllables and syllable overlap in disyllables. Given that in French
+syllables are important not only for spoken word recognition (e.g., Kolinsky, Morais, &
+Cluytens, 1995; Mehler, Dommergues, Frauenfelder, & Segui, 1981) but also as written
+words processing units (Cole, Magnan, & Grainger, 1999; Doignon & Zagar, 2005),
+orthographic incongruence may be more disturbing at this level than at rime level, in
+particular when foils encourage listeners to pay attention to orthography. The degree of
+orthographic similarity between prime and target of the orthographically mismatching
+condition is another factor that might have contributed to the orthographic interference effect: when they only overlapped at phonological level, disyllabic prime and
+target were orthographically less similar to each other than monosyllabic pairs were;
+their average orthographic similarity was 22.4 and 50.6, respectively, according to
+Marmurek and Kwantes' (1994) metric of orthographic similarity.4
+In any case, the present data suggest that the influence of orthographic knowledge on spoken word recognition is rather limited. This will be discussed further
+below, as a function of different related theoretical issues.
+Over the last few years, it has consistently been shown that orthographic information has an impact on spoken word recognition. Far from being confined to
+metaphonological judgments, orthographic effects have been reported in on-line
+tasks as well. In particular, robust consistency effects have been reported in lexical
+decision and lexically-contingent shadowing (e.g., Ventura et al., 2004; Ziegler &
+Ferrand, 1998), and a modulation of priming effects by orthographic knowledge
+has been observed in both lexical decision and shadowing (e.g., Chereau et al., 2007;
+Slowiaczek et al., 2003).
+Listeners do not seem to use word spelling in a strategic way to enhance their
+performances in these on-line tasks. For example, orthographic inconsistency is very
+frequent in the French orthographic system, but nevertheless hinders spoken word
+recognition in French natives, as shown by the word consistency effect (Ziegler &
+Ferrand, 1998; Ziegler, Ferrand, & Montant, 2004). In the same way, the orthographic
+effect observed in the lexical decision situation used in Experiment 2 of the present
+study reflected interference by incongruent orthographic representations without any
+facilitation due to orthographic congruency. Thus, word spelling may affect auditory
+priming even when this information is potentially harmful for performance.
+The influence of orthographic knowledge on word recognition cannot be reduced
+to congruency effects either, as shown by the very occurrence of the orthographic
+consistency effect (Ventura et al., 2004; Ziegler & Ferrand, 1998; Ziegler et al., 2004).
+However, as justified below, this does not imply that the observed effects arise early in
+the processing system or that they are automatic, in the sense that they would act whenever listeners hear their native language, independently of the task or listening context.
+In a former series of experiments, we argued that the word consistency effect first
+reported by Ziegler and Ferrand (1998) was in fact restricted to situations involving
+lexical activation and some lexically-related decision, as a robust consistency effect
+4
+
+This measure varies from 0 to 100, where a 100 score corresponds to perfect similarity. Only the
+critical part of the stimuli (i.e., the rime of monosyllables and the second syllable of disyllables)
+was taken into account in the computation of the degree of orthographic similarity.
+
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+523
+
+had been observed in lexical decision and lexically-contingent shadowing, but not in
+the standard shadowing task or when the shadowing response was made dependent
+upon a formal criterion (Ventura et al., 2004).
+However, other authors argued for early and / or automatic activation of orthographic representations by showing that the orthographic (in)congruency between
+prime and target modulates formal priming effects not only in lexical decision
+(Chereau et al., 2007; Slowiaczek et al., 2003), but also in shadowing (Slowiaczek et
+al., 2003), a task known to be much less affected by strategies and response biases
+(Norris et al., 2002). Yet, in the latter case the authors used initial overlap priming,
+an effect that may be influenced by several factors, namely prelexical facilitation,
+lexical competition, and strategic processes (e.g., Goldinger, 1996, 1999; McQueen &
+Sereno, 2005; Pitt & Shoaf, 2002). Final overlap priming is likely to be a more adequate
+situation to isolate the effect of orthographic knowledge, since it seems mainly due to
+the activation of prelexical representations (e.g., McQueen & Sereno, 2005; Monsell
+& Hirsh, 1998; Norris et al., 2002; Slowiaczek et al., 2000). Nonetheless, even final
+overlap priming effects may be contaminated by the listeners' strategies or response
+biases, in particular when decisions need to be made about the spoken targets. It is
+thus important to dissociate the findings reflecting normal speech processing from
+those resulting from a response bias or a strategic component, as shown by recent
+studies on phonological priming (McQueen & Sereno, 2005; Norris et al., 2002).
+In the present work, we tried to dissociate automatic from nonautomatic processes
+in three ways. First, for all experiments we tried to reduce the intervention of response
+strategies by using a short ISI (50ms) and by presenting each participant with each
+target only once, a procedure that led to a very low rate of related trials. Second, we
+directly contrasted lexical decision to shadowing, a situation that does not involve a
+decisional component and which is known to be far less affected by response biases and
+strategies (Balota & Chumbley, 1984; Jakimik et al., 1985; Norris, 1986; Norris et al.,
+2002; Vitevitch & Luce, 1999). Third, we manipulated the presence of almost rhyming
+foils, reasoning that, if orthographic effects were not automatic, they would emerge only
+when decisions need to be made about the target, and mainly when blurred prime-target
+phonological relations would lead participants to pay less attention to phonology and
+more attention to word spelling. Using the same kind of foils, Chereau et al. (2007) did
+observe stronger facilitation when prime and target shared both the phonological and
+orthographic rime than when they only shared the phonological one.
+In accordance with Chereau et al.'s (2007) observations, in the present study an
+orthographic effect occurred in lexical decision when the experimental list included
+almost rhyming foils. However, these authors did not use the no-foils situation or the
+shadowing task. Importantly, in the present study no hint of an orthographic effect
+was observed in shadowing or in lexical decision when no foils were presented.
+The shadowing performance pattern shows that the influence of orthographic
+knowledge in auditory processing does not reflect prelexical connections between
+the orthographic and phonological systems. This is in agreement with the data on the
+orthographic consistency effect (Ventura et al., 2004) and runs against the prediction
+of highly interactive models of spoken word recognition. For example, the interactive activation account (e.g., Ferrand & Grainger, 1996; Grainger & Ferrand, 1994;
+Language and Speech
+
+524
+
+Phonological and orthographic auditory priming
+
+Ziegler & Ferrand, 1998) maintains that the interaction between the phonological and
+orthographic representations can take place at any stage of speech processing and
+so gives rise to orthographic effects in any speech processing situation. The results
+reported here are more coherent with our proposition that orthographic knowledge
+would affect speech processing only when lexical representations are activated, and / or
+postlexically (Ventura et al., 2004; see also Kolinsky, 1998).
+Still, neither Ventura et al.'s (2004) results on the orthographic consistency effect
+nor the present shadowing data can exclude the possibility that lexical access automatically activates orthographic information (see Chereau et al., 2007, for various possible
+mechanisms). For example, although the orthographic consistency effect does not
+occur without lexical activation (Ventura et al., 2004), under an interactive account,
+once activated, lexical representations might feedback to earlier representational
+levels. But the present lexical decision data strongly suggest that the modulation
+of formal priming by orthographic knowledge would take place at a rather late
+processing level, since the listeners' response times were affected by the prime-target
+incongruent spellings in only one specific listening context. It rather seems that it was
+the very introduction of foils that, by de-emphasizing the prime-target phonological
+relationship, induced the listeners to pay more attention to orthography, even if using
+this information was actually detrimental to their performance.
+Taken together, the present shadowing and lexical decision data therefore suggest
+that orthographic information is not activated early in the speech processing system,
+and that accessing the lexicon does not automatically activate orthographic representations. This supports the view that phonological and orthographic representations
+may merely coexist and would be matched against each other at a rather late stage
+of processing, for example at a decisional stage, much in the same way as lexical
+and prelexical representations are integrated at a late stage in the Merge model of
+phonemic decision-making (Norris, McQueen, & Cutler, 2000).
+Investigating the influence of orthographic knowledge on speech processing
+leads us to the existing debate about whether the speech processing system is pervious
+to other information that is not originally present in the speech signal. The absence
+of any orthographic effect in most of the formal priming situations reported in the
+present study suggests that orthographic knowledge does not exert an early and
+obligatory influence on speech processing. Contrary to the view that speech processing
+is an entirely modular system, encapsulated from the written language system (e.g.,
+Coltheart, 1999), we propose that it is modular at low levels (viz., prelexical) of
+processing, but interactive at higher levels (possibly lexical and certainly postlexical;
+Kolinsky, 1998; Morais & Kolinsky, 1994; Morais et al., 1996; 1997). Nevertheless,
+it cannot be ignored that orthographic knowledge influences word recognition in
+other situations than in formal priming, as shown by the orthographic consistency
+effect (e.g., Ventura et al., 2004; Ziegler & Ferrand, 1998; Ziegler et al., 2003; Ziegler
+et al., 2004). While the orthographic priming effect, as observed here, appears to be
+postlexical, subject to context or response biases, the orthographic consistency effect
+could still be automatic. Verifying this is a challenge for future research.
+manuscript received:
+
+02. 16. 2006
+
+manuscript accepted:
+
+12. 15. 2006
+
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+525
+
+References
+BALOTA, D. A., & CHUMBLEY, J. I. (1984). Are lexical decisions a good measure of lexical
+access? The role of word frequency on the neglected decision stage. Journal of Experimental
+Psychology: Human Perception and Performance, 10, 340 - 357.
+BAUM, S. R., & LEONARD, C. L. (1999). Automatic versus strategic effects of phonology and
+orthography on auditory lexical access in brain-damaged patients as a function of interstimulus interval. Cortex, 35, 647 - 660.
+BRADLEY, L., & BRYANT, P. E. (1983). Categorizing sounds and leaning to read -- A causal
+connection. Nature, 301, 419 - 421.
+BURTON, M., JONGMAN, A., & SERENO, L. A. (1996). Phonological and orthographic
+priming effects in auditory and visual word recognition. Working papers of the Cornell
+Phonetics Laboratory, 11, 17 - 41.
+CHEREAU, C., GASKELL, M. G., & DUMAY, N. (2007). Reading spoken words: Orthographic
+effects in auditory priming. Cognition, 102, 341-360.
+COLE, P., MAGNAN, A., & GRAINGER, J. (1999). Syllable-sized units in visual word recognition: Evidence from skilled and beginning readers of French. Applied Psycholinguistics,
+20, 507 - 532.
+COLTHEART, M. (1999). Modularity and cognition. Trends in Cognitive Sciences, 3, 115 - 120.
+CUTLER, A. (1997). The comparative perspective on spoken-language processing. Speech
+Communication, 21, 3 - 15.
+CUTLER, A., MEHLER, J., NORRIS, D., & SEGUI, J. (1983). A language-specific comprehension strategy. Nature, 304, 159 - 160.
+CUTLER, A., MEHLER, J., NORRIS, D., & SEGUI, J. (1986). The syllable's differing role in the
+segmentation of French and English. Journal of Memory and Language, 25, 385 - 400.
+CUTLER, A., TREIMAN, R., & van OOIJEN, B. (1998). Orthografik inkoncistensy ephekts in
+foneme detektion? In Proceedings of the Fifth International Conference on Spoken Language
+Processing (pp. 2783 - 2786). Sydney, Australia.
+CUTLER, A., van OOIJEN, C., & NORRIS, D. (1999). Vowels, consonants and lexical activation.
+In J. J. Ohala, D. Granville & A. C. Bailey (Eds.), Proceedings of the International Congress
+of Phonetic Sciences (Vol. 3, pp. 2053 - 2056). Berkeley: University of California.
+DOIGNON, N., & ZAGAR, D. (2005). Illusory conjunctions in French: The nature of sublexical
+units in visual word recognition. Language and Cognitive Processes, 20, 443 - 464.
+DUMAY, N., BENRAISS, A., BARRIOL, B., COLIN, C., RADEAU, M., & BESSON, M.
+(2001). Behavioral and electrophysiological study of phonological priming between bisyllabic
+spoken words. Journal of Cognitive Neuroscience, 13, 121 - 143.
+FERRAND, L., & GRAINGER, J. (1996). List context effects on masked phonological priming
+in the lexical decision task. Psychonomic Bulletin and Review, 3, 515 - 519.
+FRAUENFELDER, U. H., SEGUI, J. & DIJKSTRA, T. (1990). Lexical effects in phoneme
+processing: Facilitatory or inhibitory? Journal of Experimental Psychology: Human
+Perception and Performance, 16, 77 - 91.
+GOLDINGER, S. D. (1996). Auditory lexical decision. Language and Cognitive Processes, 11,
+559 - 567.
+GOLDINGER, S. D. (1999). Only the shadower knows: Comment on Hamburger and Slowiaczek
+(1996). Psychonomic Bulletin and Review, 6, 347 - 351.
+GOLDINGER, S. D., LUCE, P. A., & PISONI, D. B. (1989). Priming lexical neighbors of
+spoken words: Effects of competition and inhibition. Journal of Memory and Language,
+28, 501 - 518.
+GOLDINGER, S. D., LUCE, P. A., PISONI, D. B., & MARCARIO, J. K. (1992). Formbased priming in spoken word recognition -- The roles of competition and bias. Journal of
+Experimental Psychology -- Learning, Memory & Cognition, 18, 1211 - 1238.
+Language and Speech
+
+526
+
+Phonological and orthographic auditory priming
+
+GRAINGER, J., & FERRAND, L. (1994). Phonology and orthography in visual word recognition:
+Effects of masked homophone primes. Journal of Memory and Language, 33, 218 - 233.
+HAMBURGER, M., & SLOWIACZEK, L. M. (1996). Phonological priming reflects lexical
+competition. Psychonomic Bulletin and Review, 3, 520 - 525.
+HOLENDER, D. (1992). Expectancy effects, congruity effect, and the interpretation of response
+latency measurement. In J. Alegria, D. Holender, J. Junca de Morais, and M. Radeau (Eds),
+Analytic approaches to human cognition (pp. 351 - 375). Amsterdam: North-Holland.
+JAKIMIK, J., COLE, R. A., & RUDNICKY, A. I. (1985). Sound and spelling in spoken word
+recognition. Journal of Memory and Language, 24, 165 - 178.
+KESSLER, B., TREIMAN, R., & MULLENNIX, J. (2002). Phonetic biases in voice key response
+time measurements. Journal of Memory and Language, 47, 145 - 171.
+KOLINSKY, R. (1998). Spoken word recognition: A stage-processing approach to language
+differences. The European Journal of Cognitive Psychology, 10, 1 - 40.
+KOLINSKY, R., MORAIS, J., & CLUYTENS, M. (1995). Intermediate representations in
+spoken word recognition: Evidence from word illusion. Journal of Memory and Language,
+34, 19 - 40.
+LEONARD, C. L., & BAUM, S. R. (1997). The influence of phonological and orthographic
+information on lexical access in brain-damaged patients: A preliminary investigation.
+Aphasiology, 11, 1031 - 1041.
+LIBERMAN, A. M. (1992). The relation of speech to reading and writing. In R. Frost and L.
+Katz (Eds.), Orthography, phonology, morphology, and meaning. Advances in psychology
+(Vol. 94, pp., 167 - 178): Oxford, England: North-Holland.
+LUCE, P. A., & PISONI, D. B. (1998). Recognizing spoken words: The Neighborhood Activation
+model. Ear and Hearing, 19, 1 - 36.
+LUCE, P. A., PISONI, D. B., & GOLDINGER, S. D. (1990). Similarity neighborhoods of spoken
+words. In G. T. M. Altmann (Ed.), Cognitive models of speech processing: Psycholinguistic
+and computational perspectives. Cambridge, MA: MIT Press.
+MARMUREK, H. H. C., & KWANTES, P. (1994). Orthographic effects in pseudohomophone
+naming. Presented at the 34th Annual Meeting of the Psychonomic Society, St. Louis, MO.
+MARSLEN-WILSON, W. D. (1987). Functional parallelism in spoken word-recognition.
+Cognition, 25, 71 - 102.
+MARSLEN-WILSON, W. D., & TYLER, L. K, (1980). The temporal structure of spoken
+language understanding. Cognition, 8, 1 - 71.
+MARSLEN-WILSON, W. D., & WELSH. A, (1978). Processing interactions and lexical access
+during word recognition in continuous speech. Cognitive Psychology, 10, 29 - 63.
+McCLELLAND, J. L., & ELMAN, J. (1986). The TRACE model of speech perception. Cognitive
+Psychology, 18, 1 - 86.
+McQUEEN, J. M., & SERENO, J. (2005). Cleaving automatic processes from strategic biases in
+phonological priming. Memory & Cognition, 33, 1185 - 1209.
+MEHLER, J., DOMMERGUES, J. Y., FRAUENFELDER, U. H., & SEGUI, J. (1981). The
+syllable's role in speech segmentation. Journal of Verbal Learning and Verbal Behavior, 20,
+298 - 305.
+MILLER, K. M., & SWICK, D. (2003). Orthography influences the perception of speech in
+alexic patients. Journal of Cognitive Neuroscience, 15, 981 - 990.
+MONSELL, S., & HIRSH, K. W. (1998). Competitor priming in spoken word recognition. Journal
+of Experimental Psychology: Learning, Memory & Cognition, 24, 1495 - 1520.
+MORAIS, J., & KOLINSKY, R. (1994). Perception and awareness in phonological processing:
+The case of the phoneme. Cognition, 50, 287 - 297.
+MORAIS, J., KOLINSKY, R., & NAKAMURA, M. (1996). The psychological reality of speech
+units in Japanese. In: T. Otake, & A. Cutler (Eds.), Phonological structure and language
+processing: Cross-linguistic studies (pp. 203 - 216). Berlin: Mouton de Gruyter.
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+527
+
+MORAIS, J., KOLINSKY, R., VENTURA, P., & CLUYTENS, M. (1997). Levels of processing in
+the phonological segmentation of speech. Language and Cognitive Processes, 12, 35 - 39.
+NEW, B., PALLIER, C., FERRAND, L., & MATOS, R. A. (2001). A lexical database for
+contemporary French on internet: Lexique. L'Annee Psychologique, 101, 447 - 462.
+NORRIS, D. (1986). Word recognition: Context effect without priming. Cognition, 22, 93 - 136.
+NORRIS, D. (1994). Shortlist: A connectionist model of continuous speech recognition. Cognition,
+52, 189 - 234.
+NORRIS, D., McQUEEN, J. M., & CUTLER, A. (2000). Merging information in speech recognition: Feedback is never necessary. Behavioral and Brain Sciences, 23, 299 - 370.
+NORRIS, D., McQUEEN, J. M., & CUTLER, A. (2002). Bias effects in facilitatory phonological
+priming. Memory & Cognition, 30, 399 - 411.
+PEEREMAN, R., & CONTENT, A. (1999). Lexop: A lexical database providing orthographyphonology statistics for French monosyllabic words. Behavior Research Methods, Instrument,
+and Computers, 31, 376 - 379.
+PITT, M. A., & SHOAF, L. (2002). Revisiting bias effects in word-initial phonological priming.
+Journal of Experimental Psychology: Human Perception and Performance, 28, 1120 - 1130.
+PRAAMSTRA, P., MEYER, A. S., & LEVELT, W. J. M. (1994). Neurophysiological manifestations of phonological processing -- Latency variation of a negative ERP component
+timelocked to phonological mismatch. Journal of Cognitive Neuroscience, 6, 204 - 219.
+RADEAU, M., MORAIS, J., & DEWIER, A. (1989). Phonological priming in spoken word
+recognition: Task effects. Memory & Cognition, 17, 525 - 535.
+RADEAU, M., MORAIS, J., & SEGUI, J. (1995). Phonological priming between monosyllabic words.
+Journal of Experimental Psychology: Human Perception and Performance, 21, 1297 - 1311.
+RADEAU, M., SEGUI, J., & MORAIS, J. (1994). The effect of overlap position in phonological
+priming between spoken words. Proceedings of the International Conference on Spoken
+Language Processing (pp. 1419 - 1422). Yokohama, Japan.
+RASTLE, K., & DAVIS, M. H. (2002). On the complexities of measuring naming. Journal of
+Experimental Psychology: Human Perception and Performance, 28, 307 - 314.
+SCHNEIDER, W., ESCHMAN, A., & ZUCCOLOTTO, A. (2002a). E-Prime reference guide.
+Pittsburgh: Psychology Software Tools Inc.
+SCHNEIDER, W., ESCHMAN, A., & ZUCCOLOTTO, A. (2002b). E-Prime user's guide.
+Pittsburgh: Psychology Software Tools Inc.
+SEIDENBERG, M. S., & TANENHAUS, M. K. (1979). Orthographic effects on rhyme monitoring. Journal of Experimental Psychology: Human Learning and Memory, 5, 546 - 554.
+SLOWIACZEK, L. M., McQUEEN, J. M., SOLTANO, E., & LYNCH, M. (2000). Phonological
+representations in prelexical speech processing: Evidence from form-based priming. Journal
+of Memory and Language, 43, 530 - 560.
+SLOWIACZEK, L. M., SOLTANO, E. G., WIETING, S. J., & BISHOP, K. L. (2003). An investigation of phonology and orthography in spoken-word recognition. Quarterly Journal of
+Experimental Psychology, 56 A, 233 - 262.
+SPINELLI, E., SEGUI, J., & RADEAU, M. (2001). Phonological priming in spoken word recognition with bisyllabic targets. Language and Cognitive Processes, 16, 367 - 392.
+TREIMAN, R. (1983). The structure of spoken syllables: Evidence from novel word games.
+Cognition, 15, 49 - 74.
+TREIMAN, R. (1986). The division between onsets and rimes in English syllables. Journal of
+Memory and Language, 25, 476 - 491.
+TREIMAN, R., & CASSAR, M. (1997). Can children and adults focus on sound as opposed to
+spelling in a phoneme counting task? Developmental Psychology, 33, 771 - 780.
+TYLER, M. D., TYLER, L., & BURNHAM, D. (2005). The delayed trigger voice key: An improved
+analog voice key for psycholinguistic research. Behavior Research Methods, 37, 139 - 147.
+Language and Speech
+
+528
+
+Phonological and orthographic auditory priming
+
+VENTURA, P., KOLINSKY, R., BRITO-MENDES, C., & MORAIS, J. (2001). Mental representations of the syllable internal structure are influenced by orthography. Language and
+Cognitive Processes, 16, 393 - 418.
+VENTURA, P., MORAIS, J., PATTAMADILOK, C., & KOLINSKY, R. (2004). The locus of
+the orthographic consistency effect in auditory word recognition. Language and Cognitive
+Processes, 19, 57 - 95.
+VITEVITCH, M. S., & LUCE, P. A. (1999). Probabilistic phonotactics and neighborhood activation in spoken word recognition. Journal of Memory and Language, 40, 374 - 408.
+ZIEGLER, J. C., & FERRAND, L. (1998). Orthography shapes the perception of speech:
+The consistency effect in auditory word recognition. Psychonomic Bulletin and Review, 5,
+683 - 689.
+ZIEGLER, J. C, FERRAND, L., & MONTANT, M. (2004). Visual phonology: The effect of
+orthographic consistency on different auditory word recognition tasks. Memory & Cognition,
+32, 732 - 741.
+ZIEGLER, J. C., MUNEAUX, M., & GRAINGER, J. (2003). Neighborhood effect in auditory word recognition: Phonological competition and orthographic facilitation. Journal
+of Memory and Language, 48, 779 - 793.
+
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+529
+
+Appendix A: word-word pairs
+O-Mismatch = orthographically mismatching condition:
+O-Match = orthographically matching condition.
+Monosyllables
+
+Disyllables
+
+Unrelated O-Mismatch
+
+O-Match
+
+Target
+
+Unrelated O-Mismatch
+
+O-Match
+
+Target
+
+chou
+
+lin
+
+nain
+
+bain
+
+chemin
+
+dodo
+
+rondeau
+
+bandeau
+
+nuque
+
+seize
+
+chaise
+
+braise
+
+jaloux
+
+marais
+
+muret
+
+beret
+
+fleuve
+
+glace
+
+classe
+
+brasse
+
+frigo
+
+frequent
+
+volcan
+
+boucan
+
+boule
+
+fesse
+
+laisse
+
+caisse
+
+radin
+
+ticket
+
+paquet
+
+bouquet
+
+pull
+
+lard
+
+car
+
+char
+
+tapis
+
+donjon
+
+pigeon
+
+bourgeon
+
+flux
+
+bras
+
+plat
+
+chat
+
+dessin
+
+zero
+
+carreau
+
+bourreau
+
+vif
+
+peur
+
+soeur
+
+coeur
+
+soja
+
+jockey
+
+coquet
+
+briquet
+
+vrai
+
+bleu
+
+creux
+
+deux
+
+dindon
+
+sirop
+
+taureau
+
+bureau
+
+gomme
+
+tasse
+
+race
+
+face
+
+defi
+
+rechaud
+
+manchot
+
+cachot
+
+ville
+
+cote
+
+saute
+
+faute
+
+bouchon
+
+judo
+
+rideau
+
+cadeau
+
+brique
+
+glaive
+
+greve
+
+feve
+
+mouton
+
+pivot
+
+niveau
+
+cerveau
+
+clou
+
+gland
+
+blanc
+
+franc
+
+filon
+
+sumo
+
+jumeau
+
+chameau
+
+flot
+
+frein
+
+train
+
+gain
+
+blouson
+
+tripot
+
+troupeau
+
+chapeau
+
+folle
+
+peine
+
+laine
+
+gaine
+
+gamin
+
+photo
+
+bateau
+
+couteau
+
+brute
+
+treize
+
+fraise
+
+glaise
+
+pruneau
+
+francais
+
+proces
+
+deces
+
+pipe
+
+zone
+
+faune
+
+jaune
+
+grimace
+
+prophete
+
+parfaite
+
+defaite
+
+bon
+
+noeud
+
+feu
+
+jeu
+
+visa
+
+roman
+
+jument
+
+dement
+
+sec
+
+lourd
+
+tour
+
+jour
+
+bijou
+
+mauvais
+
+navet
+
+duvet
+
+gite
+
+femme
+
+dame
+
+lame
+
+pinson
+
+moto
+
+coteau
+
+gateau
+
+fosse
+
+tempe
+
+rampe
+
+lampe
+
+chanson
+
+relais
+
+chalet
+
+gilet
+
+pied
+
+bois
+
+roi
+
+loi
+
+barbu
+
+printemps
+
+sultan
+
+gitan
+
+stage
+
+fraiche
+
+fleche
+
+meche
+
+gitane
+
+chandelle
+
+fidele
+
+modele
+
+grotte
+
+graisse
+
+tresse
+
+messe
+
+lapin
+
+pavot
+
+caveau
+
+nouveau
+
+dupe
+
+paume
+
+dome
+
+mome
+
+vodka
+
+gourmand
+
+tourment
+
+pigment
+
+fete
+
+douce
+
+gousse
+
+mousse
+
+glacon
+
+tempo
+
+drapeau
+
+pipeau
+
+table
+
+maigre
+
+pegre
+
+negre
+
+cafe
+
+manteau
+
+veto
+
+porto
+
+nuage
+
+biere
+
+lierre
+
+pierre
+
+balcon
+
+bientot
+
+marteau
+
+poteau
+
+frite
+
+crasse
+
+trace
+
+place
+
+bidon
+
+delai
+
+galet
+
+poulet
+
+gris
+
+grand
+
+cran
+
+plan
+
+declin
+
+regret
+
+congres
+
+progres
+
+canne
+
+saule
+
+pole
+
+role
+
+cliche
+
+primo
+
+plumeau
+
+rameau
+
+cle
+
+plomb
+
+blond
+
+rond
+
+crachin
+
+crapaud
+
+propos
+
+repos
+sorbet
+
+gueule
+
+cause
+
+chose
+
+rose
+
+vecu
+
+rabais
+
+gibet
+
+pale
+
+goutte
+
+soute
+
+route
+
+conge
+
+marin
+
+parrain
+
+terrain
+
+dieu
+
+moins
+
+loin
+
+soin
+
+debit
+
+jeunot
+
+panneau
+
+tonneau
+
+sac
+
+boeuf
+
+neuf
+
+veuf
+
+voisin
+
+vieillot
+
+noyau
+
+tuyau
+
+moi
+
+lieu
+
+mieux
+
+vieux
+
+boudin
+
+rouleau
+
+kilo
+
+velo
+
+Language and Speech
+
+530
+
+Phonological and orthographic auditory priming
+
+Appendix A: word-nonword pairs
+Monosyllables
+Unrelated
+
+Related 1
+
+Related 2
+
+seche
+
+page
+
+sage
+
+greffe
+
+friche
+
+triche
+
+motte
+
+langue
+
+cheque
+
+cave
+
+Disyllables
+Target
+
+Unrelated
+
+Related 1
+
+Related 2
+
+Target
+
+bage
+
+physique
+
+vidange
+
+vendange
+
+badange
+
+bliche
+
+magique
+
+lacune
+
+rancune
+
+becune
+
+mangue
+
+dangue
+
+misere
+
+sauvage
+
+lavage
+
+bevage
+
+bave
+
+dave
+
+fascisme
+
+caverne
+
+taverne
+
+beverne
+
+buffle
+
+chevre
+
+levre
+
+devre
+
+critique
+
+drainage
+
+freinage
+
+blunage
+
+fausse
+
+linge
+
+singe
+
+dinge
+
+vacance
+
+rapide
+
+cupide
+
+bopide
+
+pomme
+
+rive
+
+vive
+
+dive
+
+fameuse
+
+solive
+
+salive
+
+bulive
+
+pelle
+
+moche
+
+coche
+
+doche
+
+carnage
+
+pastiche
+
+postiche
+
+bultiche
+
+rhume
+
+ronde
+
+monde
+
+donde
+
+parole
+
+mesange
+
+losange
+
+busange
+
+sotte
+
+luge
+
+juge
+
+duge
+
+college
+
+potiche
+
+fetiche
+
+butiche
+
+grippe
+
+stade
+
+grade
+
+flade
+
+gelule
+
+limpide
+
+lipide
+
+daupide
+
+croute
+
+brave
+
+grave
+
+flave
+
+timide
+
+peluche
+
+paluche
+
+doluche
+
+creme
+
+brune
+
+prune
+
+flune
+
+palace
+
+cigogne
+
+vigogne
+
+fougogne
+
+vigne
+
+mouche
+
+louche
+
+fouche
+
+vaisselle
+
+caniche
+
+peniche
+
+founiche
+
+boucle
+
+pitre
+
+vitre
+
+gitre
+
+dilemme
+
+pompage
+
+dopage
+
+fupage
+
+peche
+
+dune
+
+lune
+
+gune
+
+cynique
+
+pelage
+
+moulage
+
+galage
+
+bulbe
+
+livre
+
+vivre
+
+kivre
+
+berceuse
+
+vertige
+
+vestige
+
+galtige
+
+begue
+
+miche
+
+niche
+
+liche
+
+barrage
+
+lessive
+
+missive
+
+goussive
+
+puce
+
+bonne
+
+tonne
+
+lonne
+
+modique
+
+chantage
+
+potage
+
+gutage
+
+secte
+
+poudre
+
+foudre
+
+loudre
+
+recherche
+
+robuste
+
+arbuste
+
+kabuste
+
+pate
+
+bouge
+
+rouge
+
+louge
+
+placide
+
+fromage
+
+plumage
+
+kemage
+
+foule
+
+bague
+
+vague
+
+mague
+
+doublage
+
+patrouille
+
+citrouille
+
+ketrouille
+
+ronce
+
+rade
+
+fade
+
+nade
+
+machine
+
+rature
+
+nature
+
+keture
+
+belle
+
+souche
+
+rouche
+
+nouche
+
+petite
+
+melange
+
+phalange
+
+kulange
+lupagne
+
+phase
+
+tube
+
+cube
+
+nube
+
+severe
+
+champagne
+
+compagne
+
+baffle
+
+neutre
+
+feutre
+
+peutre
+
+mecene
+
+garage
+
+tirage
+
+lurage
+
+base
+
+touche
+
+couche
+
+pouche
+
+pompette
+
+meringue
+
+seringue
+
+luringue
+
+reve
+
+biche
+
+riche
+
+siche
+
+ficelle
+
+langage
+
+bagage
+
+mogage
+
+crime
+
+drague
+
+blague
+
+stague
+
+calcaire
+
+fortune
+
+neptune
+
+mostune
+
+crepe
+
+cloche
+
+proche
+
+stoche
+
+bergere
+
+fictive
+
+captive
+
+nastive
+
+flamme
+
+blonde
+
+fronde
+
+stonde
+
+girolle
+
+bitume
+
+coutume
+
+patume
+
+breve
+
+brume
+
+plume
+
+stume
+
+mimique
+
+mirage
+
+virage
+
+paurage
+
+latte
+
+digue
+
+figue
+
+vigue
+
+mobile
+
+rivage
+
+ravage
+
+puvage
+
+meute
+
+poche
+
+roche
+
+voche
+
+romance
+
+valide
+
+solide
+
+telide
+
+beige
+
+code
+
+mode
+
+vode
+
+jalouse
+
+gamine
+
+famine
+
+tumine
+
+dinde
+
+douche
+
+bouche
+
+vouche
+
+echelle
+
+etage
+
+otage
+
+utage
+
+Language and Speech
+
+C. Pattamadilok, R. Kolinsky, P. Ventura, M. Radeau, J. Morais
+
+531
+
+Appendix B
+Characteristics of the materials (word-word pairs) used in Experiments 1 and 2: mean word
+frequency*, mean orthographic and phonological unicity points* (UP), mean number of
+orthographic neighbors*, mean number of phonological neighbors*, mean number of
+phonographic neighbors*,**, mean number of rime phonographic neighbors*,**, acoustic
+duration, mean number of phonemes and graphemes of the critical part, and mean number
+of shared phonemes and graphemes. (Standard deviation in brackets). O-Mismatch=
+orthographically mismatching condition: O-Match= orthographically matching condition.
+Monosyllables
+
+Disyllables
+
+Target Unrelated O-Mismatch O-Match Target Unrelated O-Mismatch O-Match
+Word frequency
+
+Orthographic UP
+
+Phonological UP
+
+139,6
+
+98,7
+
+[275,5] [231,6]
+
+116,9
+[189,1]
+
+94,6
+
+26,8
+
+[126,5] [51,2]
+
+17,5
+
+23,0
+
+16,8
+
+[28,6]
+
+[48,9]
+
+[25,6]
+
+4,5
+
+4,2
+
+4,8
+
+4,6
+
+5,8
+
+5,2
+
+5,5
+
+5,5
+
+[0,9]
+
+[0,8]
+
+[1,0]
+
+[1,0]
+
+[1,0]
+
+[1,4]
+
+[1,3]
+
+[1,4]
+
+3,0
+
+3,2
+
+3,2
+
+3,2
+
+4,3
+
+4,2
+
+4,3
+
+4,2
+
+[0,6]
+
+[0,6]
+
+[0,6]
+
+[0,5]
+
+[0,5]
+
+[1,0]
+
+[0,5]
+
+[0,9]
+
+7,3
+Nb. Orthographic
+neighbors
+[3,8]
+
+7,3
+
+5,0
+
+6,1
+
+1,9
+
+2,8
+
+1,8
+
+1,6
+
+[4,9]
+
+[4,9]
+
+[4,2]
+
+[1,7]
+
+[3,3]
+
+[2,3]
+
+[1,8]
+
+18,2
+
+16,5
+
+17,6
+
+17,2
+
+9,0
+
+7,2
+
+7,5
+
+9,6
+
+[7,1]
+
+[8,6]
+
+[7,4]
+
+[8,0]
+
+[5,2]
+
+[5,5]
+
+[5,5]
+
+[7,3]
+
+3,4
+
+2,9
+
+1,7
+
+2,9
+
+1,1
+
+1,6
+
+0,9
+
+1,0
+
+[2,0]
+
+[2,8]
+
+[1,8]
+
+[2,4]
+
+[1,1]
+
+[2,0]
+
+[1,4]
+
+[1,3]
+
+2,7
+
+2,2
+
+1,3
+
+2,3
+
+0,9
+
+1,2
+
+0,8
+
+0,8
+
+[2,4]
+
+[2,2]
+
+[1,7]
+
+[2,2]
+
+[1,0]
+
+[1,5]
+
+[1,4]
+
+[1,3]
+
+576
+
+510
+
+564
+
+589
+
+635
+
+635
+
+644
+
+641
+
+[78,9]
+
+[93,7]
+
+[68,8]
+
+[87,8]
+
+[73,9]
+
+[86,4]
+
+1,7
+
+1,7
+
+1,7
+
+1,7
+
+2,1
+
+2,1
+
+2,1
+
+2,1
+
+[0,5]
+
+[0,5]
+
+[0,5]
+
+[0,5]
+
+[0,3]
+
+[0,3]
+
+[0,3]
+
+[0,3]
+
+0,00
+
+1,7
+
+1,7
+
+0,00
+
+2,1
+
+2,1
+
+[0,00]
+
+[0,5]
+
+[0,5]
+
+[0,00]
+
+[0,3]
+
+[0,3]
+
+1,7
+
+1,7
+
+1,7
+
+1,7
+
+2,1
+
+2,1
+
+2,1
+
+2,1
+
+[0,5]
+
+[0,5]
+
+[0,5]
+
+[0,5]
+
+[0,3]
+
+[0,3]
+
+[0,3]
+
+[0,3]
+
+0,00
+
+0,6
+
+1,7
+
+0,00
+
+0,7
+
+2,1
+
+[0,00]
+
+[0,6]
+
+[0,5]
+
+[0,00]
+
+[0,5]
+
+[0,3]
+
+Nb. Phonological
+neighbors
+Nb. Phonographic
+neighbors
+Nb. Rime phonographic neighbors
+
+Acoustic duration
+
+Nb. Phonemes of
+the critical part
+Nb. Phonemes
+shared between
+prime and target
+Nb. Graphemes
+of the critical
+part
+Nb. Graphemes
+shared between
+prime and target
+
+[103,2] [72,5]
+
+Note: * : taken from the Lexique database (New, Pallier, Ferrand, & Matos, 2001)
+**: taken from the LEXOP database (Peereman & Content, 1999)
+Language and Speech
+
+

@@ -1,0 +1,2234 @@
+Journal of Memory and Language 45, 133-159 (2001)
+doi:10.1006/jmla.2000.2764, available online at http://www.academicpress.com on
+
+Assimilation and Anticipation in Continuous Spoken Word Recognition
+David W. Gow, Jr.
+Massachusetts General Hospital and Salem State College
+English coronal place assimilation is one of many productive phonological processes that change the phonological form of words. It may, for example, cause speakers to pronounce green as something approximating [gri]
+or [grim] in different contexts. The present work examines how listeners recognize words that have undergone
+this modification. Current accounts are broadly differentiated by two issues: (1) whether listeners generally recognize words that have undergone word-final, single-feature modification, and (2) how context effects in the perception of assimilated speech are interpreted. Experiment 1 employs form priming to demonstrate that listeners
+tolerate single-feature mismatch resulting from both phonologically plausible and phonologically implausible
+word form modification when recognizing words heard in context. Experiments 2 and 3 employ phoneme monitoring and negative rhyme priming paradigms, respectively, to demonstrate that listeners use assimilation to anticipate upcoming context. Evidence for anticipation is contrasted with claims that listeners use context to regressively infer the underlying form of place-assimilated segments.
+(c)2001 Academic Press
+Key Words: spoken word recognition; assimilation; phonological variation; feature mismatch; anticipation.
+
+green may take the labial place of the following
+/b/ in the phrase green beans. When this occurs,
+the word green appears to be pronounced
+[grim]. How, then, does the listener recognize
+[grim] as a token of green /grin/?
+
+A variety of phonological processes, including
+assimilation, neutralization, epenthesis, mutation,
+and neutralization, can alter the forms of spoken
+words. A number of studies have demonstrated
+that listeners are able to recognize words that
+have been modified by these processes (Gaskell
+& Marslen-Wilson, 1996; Gow, submitted; Kuijpers, Donselaar, & Cutler, 1996). This ability
+raises important challenges for our understanding of spoken word recognition. Consider English place assimilation. Syllable-final coronal
+segments such as /n/, /t/, or /d/ may take the
+place value of the segment that immediately follows them. For instance, the /n/ at the end of
+
+Processing Implications of Assimilation
+
+The research reported in this paper was supported by
+Grant R29DC03108 to the Massachusetts General Hospital
+(David W. Gow, Principle Investigator) from the National
+Institutes of Health. I thank Aditi Lahiri, Kenneth Stevens,
+David Caplan, Stefanie Shattuck-Hufnagel, and Pienie
+Zwitserlood for their advice and generous encouragement of
+this work and Mathew Norwood, Sherrie Brown, and Carrie
+Landa for their invaluable assistance in carrying out the experiments. I am also indebted to Gareth Gaskell, Arthur
+Samuel, and two anonymous reviews for their insightful
+comments on earlier versions of this paper.
+Address correspondence and reprint requests to David
+Gow, Neuropsychology Laboratory, VBK 821, Massachusetts General Hospital, 55 Fruit Street, Boston, MA 02114.
+E-mail: gow@helix.mgh.harvard.edu.
+
+English place assimilation presents a significant problem to the listener. In order to recognize a word, listeners must distinguish it from
+all other words they know, as well as other potential words they may not have encountered
+yet. Marslen-Wilson (1993) notes that most
+monosyllabic words differ from at least one
+other word by just a single feature and that
+roughly 70% of the words that a listener hears
+are monosyllabic. To the extent that acoustic information can be expected to resolve the problem, Marslen-Wilson suggests that listeners
+must discriminate between multiple candidates
+on the basis of even single feature differences.
+This raises a different problem. If listeners
+discriminate word candidates on the basis of
+single-feature mismatches, then they should not
+treat [grim] as a token of green. Similarly, if
+place assimilation can transform the coronal /n/
+in a token of teen into an /m/ in teen player, listeners should recognize the token as an instance
+
+133
+
+0749-596X/01 $35.00
+Copyright (c) 2001 by Academic Press
+All rights of reproduction in any form reserved.
+
+134
+
+DAVID W. GOW, JR.
+
+of team and not teen. Thus, there is a tension between the need for strict matching criteria to
+avoid lexical ambiguity and for flexible matching criteria to avoid the rejection of appropriate
+candidates. If matching criteria are flexible, listeners need to invoke additional mechanisms
+to avoid accessing too many candidates. If the
+matching criteria are strict, listeners are faced
+instead with the problem of avoiding the rejection of appropriate candidates when modification leads to mismatch.
+There are currently three major approaches to
+resolving this tension and modeling the recognition of modified forms of words: (1) accounts
+stressing tolerance to mismatch, (2) representational accounts making certain assumptions
+about the representation of entries in the lexicon
+which then permit stringent matching criteria,
+and (3) inferential accounts in which the listener
+reconstructs possible underlying forms based on
+following context. Before turning to the studies
+reported in this paper, I will briefly review each
+type of model.
+Tolerance to Mismatch
+The simplest account assumes that listeners
+tolerate some mismatch in the mapping between
+features that are recovered from the speech signal and features that make up the stored representations of words. For example, a listener
+hearing [grim] might successfully recognize
+green (and similar sounding words), because the
+input matches the representation in every feature except one. Such a mechanism might also
+explain our ability to recognize words that undergo modification as a result of other factors
+including rate, reduction, and dialect. It may
+also account for our ability to recognize words
+when certain features cannot be reliably extracted from the signal, as in the case of words
+heard in noise.
+The tolerance account is consistent with evidence from a variety of experimental paradigms.
+Evidence from shadowing and mispronunciation monitoring suggests that listeners may routinely repair or fail to recognize feature mismatches occurring toward the ends of words
+encountered in fluent speech (Cole, 1973; Cole
+& Jakimik, 1978; Marslen-Wilson & Welsh,
+
+1978). Similarly, a number of studies have
+demonstrated form priming given primes that
+differ from probe stimuli by one to two features
+(Connine, Blasko, & Titone, 1993; Radeau,
+Morais, & Segui, 1995; Slowiaczek, Nusbaum,
+& Pisoni, 1987). However, several other studies
+using similar methodologies have failed to
+demonstrate priming (Marslen-Wilson, 1993;
+Slowiaczek & Pisoni, 1986). The differences in
+the results may be attributable differences in
+interstimulus intervals, in the number of related
+trials in a session, and in the position of a mismatch within a word (Radeau et al., 1995; Zwitserlood, 1996).
+While the tolerance-to-mismatch approach
+appears to be both simple and powerful, it has
+several serious limitations. Perhaps the most
+significant is that the failure to maintain strict
+matching criteria may lead to too many word
+candidates. The listener's task is to uniquely recognize a portion of the speech stream as a particular word while distinguishing it from all other
+words. Given the enormous size of the lexicon
+and the fact that all human languages employ a
+relatively small inventory of speech sounds, individual words (particularly short ones) tend to
+have neighbors that differ in few features. For
+example, bat [baet] differs by only one feature
+from a number of words including bad, bath,
+pat, and bet. This is not necessarily a fatal flaw
+in the model. Listeners may initially access
+these neighboring words and rely on subsequent
+processing to rule out unlikely candidates. In
+fact, there is some evidence that supports this
+view. Listeners have been shown to simultaneously access multiple interpretations of both
+homophones (Onifer & Swinney, 1981) and
+oronyms such as sin tax-syntax (Gow & Gordon, 1995). When listeners do this, they presumably disambiguate the stimuli after access
+through the use of higher level constraints. In
+the end, it is unclear whether a model that shifts
+the burden of disambiguation to post-lexical
+processes is more parsimonious than one that resolves such ambiguity during initial activation.
+Underspecification
+The second category of models, representational accounts with stringent mapping criteria,
+
+ASSIMILATION AND ANTICIPATION
+
+is exemplified by the approach of Lahiri and
+Marslen-Wilson (1991). Models such as Lahiri
+and Marslen-Wilson's suggest that listeners
+selectively tolerate feature mismatch that potentially arises from predictable phonological
+processes while applying strict matching criteria
+when mismatch cannot be attributed to such
+processes. By limiting tolerance in this way,
+representational accounts minimize the problem
+of overgeneration.
+Drawing on the phonological theory of underspecification (Archangeli, 1988; Kiparsky,
+1985; Pulleyblank, 1988), Lahiri and MarslenWilson (1991) propose that lexical representations contain only those distinctive features that
+are contrastive and insulated against phonological modification in a speaker's language.
+Returning to the example of green, Lahiri and
+Marslen-Wilson suggest that coronal place of
+articulation is not specified in the lexicon. Thus,
+the representation of green does not include a
+place value for the final segment. Given such a
+representation, a listener hearing [grim] could
+adopt strict criteria for the mapping between
+features extracted from the speech signal and
+the representation of the word green without encountering any mismatch that might remove
+green as a candidate. The perceived [m] would
+strictly match the stored /n/ because the stored
+/n/ is unspecified for the place feature. This approach allows the listener to limit overgeneration of lexical candidates while maintaining
+strict matching criteria for phonologically invariant features. While a model of this type
+would still overgenerate when assimilation produced lexical ambiguity, as in the case of [tim]
+in utterances of team player or teen player,
+overgeneration would be limited to cases in
+which the potential feature modification was
+phonologically plausible.
+A related strategy adopted by some researchers may in fact be a notational variant of
+the same mechanism. In models such as
+Stevens' (1998b) feature-based model, the
+working lexicon contains multiple entries for
+words that undergo systematic phonological
+modification. In this model, a word like green is
+specified in the long-term lexicon with a coronal
+final nasal, but enters the working lexicon by ex-
+
+135
+
+panding the standard phonemic representation
+/grin/ into a featural representation from which
+phonological rules can generate potential alternate featural representations. This produces
+additional representations of green in which the
+final segment has either labial or velar place.
+Like Lahiri and Marslen-Wilson's (1991) model,
+this model can recognize modified forms of
+words while maintaining strict matching criteria. It is unclear how this model could be distinguished from underspecification models based
+on behavioral evidence.
+Lahiri and Marslen-Wilson (1991) base their
+claims regarding underspecification in spoken
+word recognition on a comparison of the interpretation of vowel nasality in English and Bengali. While Bengali contains vowel pairs that
+contrast only in nasality, English contains only
+oral vowels. In the context of linguistic underspecification theory (Archangeli, 1988; Kiparsky,
+1985; Pulleyblank, 1988), this suggests that
+vowel nasality is fully specified in Bengali but
+underspecified in English. In both languages,
+though, a vowel may assimilate the nasality of a
+following segment. When words are presented
+auditorily and gated at the offset of a nasalized
+vowel before a nasal consonant, Bengali listeners tend to treat nasality as an underlying feature
+and access words with nasal vowels, while English listeners tend to treat it as a surface feature
+and use nasality to anticipate an upcoming nasal
+consonant. In Lahiri and Marslen-Wilson's
+analysis, English speakers detect nasality during
+the vowel. However, because they are unable to
+map it to the underlying representation of the
+vowel, they map it in anticipation to the following segment.
+Given the offline nature of the gating task, it
+is unclear whether these results reflect normal
+automatic processing or strategic processing
+that may not play a role in normal processing.
+Otake, Yoneyama, Cutler, and Lugt (1996) provide converging evidence for the use of assimilation to anticipate the segment that licenses
+assimilation using phoneme monitoring, which
+is less likely to reflect strategic processing.
+However, monitoring latencies in this study are
+strongly correlated with the perceived naturalness of the stimuli, and so it is uncertain whether
+
+136
+
+DAVID W. GOW, JR.
+
+the results reflect monitoring facilitation due to
+anticipation or interference due to the unnaturalness of some cross-spliced stimuli.
+While the results of Lahiri and MarslenWilson (1991) and Otake et al. (1996) suggest
+that listeners use noncontrastive feature change
+to anticipate context, they do not necessarily
+imply a specific type of underlying representation. As Anderson (1978) formally demonstrates,
+any behavioral phenomenon that can be accounted for by one type of representation given
+one set of processing assumptions may also be
+accounted for by alternative representations
+given different processing assumptions. It is only
+through the accumulation of converging evidence
+from related phenomena that one can begin to
+make strong representational claims. Thus, one
+can readily imagine how a system that employs
+fully specified underlying representations might
+also anticipate context, given a mechanism
+for recognizing predictable mismatch. Indeed,
+Gaskell, Hare, and Marslen-Wilson (1995) present a series of recurrent network simulations employing full featural specification that correctly
+identify underlying coronal place in assimilated
+surface noncoronals. Their networks achieve this
+feat by reflecting the probability of underlying
+coronality given surface noncoronality and an
+appropriate context in a training set derived from
+spontaneous speech. This mechanism should not
+produce anticipation given a training set based
+on another language where this type of place
+assimilation did not take place.
+From a linguistic perspective, the chief value
+of underspecification is its ability to account
+for a variety of phonological processes from a
+representational perspective. From the perspective of the computational problem posed by word
+recognition, its primary value is that it allows
+listeners to maintain strict matching criteria
+for phonologically invariant features of a word
+while tolerating feature mismatch resulting from
+predictable phonological processes. This aspect
+of the underspecification account is not directly
+addressed by the data presented by Lahiri and
+Marslen-Wilson (1991).
+Phonologically invariant features are features
+that are not modified through the application of
+natural phonological processes in any context.
+
+When a phonologically invariant feature is modified, the result is a phonologically implausible
+modification. Labial place of articulation is
+a phonologically invariant feature in English.
+Labial segments do not assimilate the place of
+articulation of another segment. Therefore, it is
+phonologically implausible for an underlying
+labial segment to be realized as coronal in any
+environment. Conversely, a modification is
+phonologically plausible if it could result from a
+natural phonological process in some context. It
+is phonologically plausible in English or German for a coronal segment to be realized with
+noncoronal place. The underspecification account predicts that listeners should tolerate feature mismatches resulting from phonologically
+plausible, but not implausible modification.
+Two studies have contrasted tolerance to
+phonologically plausible and implausible modification using form priming techniques. MarslenWilson, Nix, and Gaskell (1995) found no evidence of tolerance for either plausible or
+implausible modification in a study employing
+deliberately modified citation form prime tokens. The absence of priming in either condition
+is at odds with a number of demonstrations of
+form priming by items that have undergone
+phonologically plausible modification in sentential contexts (Gaskell & Marslen-Wilson, 1996;
+Gow, submitted; Marslen-Wilson et al., 1995;
+Zwitserlood & Coenen, 2000). Marslen-Wilson
+and colleagues note the conflict and suggest that
+it may reflect the unnaturalness of contextually
+conditioned modification in stimuli presented
+without context. Zwitserlood and Coenen (2000)
+address this concern by contrasting phonologically plausible and implausible modification in
+connected speech. In a study examining German
+regressive place assimilation they found clear
+evidence of priming by plausibly modified items
+in contexts that support assimilation and weak
+evidence for priming by implausibly modified
+items in analogous contexts. While the latter result suggests that listeners tolerate at least some
+mismatch caused by this type of phonologically
+implausible modification, other results in the
+same study fail to show tolerance for mismatch
+produced by other types of phonologically
+implausible modification. Given these mixed
+
+ASSIMILATION AND ANTICIPATION
+
+results and the many methodological factors that
+can affect demonstrations of tolerance to feature
+mismatch, it is unclear whether listeners typically show the plausibility effect predicted by
+the underspecification account.
+While the psychological validity of the underspecification account cannot be adequately assessed on the basis of listeners' tolerance for
+phonologically plausible versus implausible
+modification, one of its predictions is addressed
+by existing evidence. The underspecification account predicts that certain items should be lexically ambiguous. For example, the coronal stop
+/t/ in the phrase right berries may assimilate the
+labial place of the /b/ in berries. This would produce a phrase that sounds very much like ripe
+berries. According to underspecification theory,
+both right and ripe should be activated. Ripe
+should be activated because it provides a perfect
+match with the surface form of the token, and
+right should be activated because there is no
+mismatch between a /p/ and a /t/ given an underspecified representation of /t/. Gow (submitted) tested this prediction using a form-priming
+task and found that this kind of phrase did not
+produce lexical ambiguity for listeners. Across
+three experiments, a reliable pattern of selective
+priming by the underlying form of the word that
+the speaker had intended to produce was found.
+This result disconfirms at least one prediction of
+the underspecification account.
+The results of Gow (submitted) also imply
+that natural assimilation is perceptually distinguishable from complete feature substitution
+and that listeners use this distinction to unambiguously arrive at the true underlying of form
+assimilated or potentially assimilated speech
+when underspecification predicts that listeners
+should encounter ambiguity. This view of assimilation is supported by acoustic, perceptual,
+and articulatory evidence suggesting that assimilation is typically a graded feature modification
+rather than a discrete feature substitution (Barry,
+1985; Gow, submitted; Gow & Hussami, 1999;
+Kerswill, 1985; Nolan, 1992). Underspecified
+representations may be unnecessary for word
+recognition if assimilation preserves sufficient
+acoustic evidence to recover the underlying
+forms of assimilated items.
+
+137
+
+Regressive Inference
+The third major approach to the recognition
+of modified word forms might be called the
+regressive inferential approach (Gaskell, 1994;
+Gaskell & Marslen-Wilson, 1996, 1998; MarslenWilson et al., 1995; Pulman & Hepple, 1993).
+The idea behind this approach is that listeners
+use postsegmental phonological context to determine if a segment's surface form should be
+treated at face value or if it could have been
+derived through assimilatory processes. In
+essence, listeners solve an inverse problem. A
+listener hearing greem [grim] would initially
+access green. However, the continued activation of green would depend on the listener encountering a context that would license the
+change of the final place feature. If the next segment were / b/ as in greem beans, green would
+remain activated. However, if the next segment
+were / k / as in greem kites, green would be deactivated because the velar could not license the
+apparent nasal to labial (/n / to /m /) modification. This strategy is more problematic when
+there is no unique solution to the inverse problem. For example, as noted above, the surface
+form [raIp] berries could be derived from underlying forms of right berries or ripe berries.
+Thus, a listener hearing the phrase ripe berries
+might be expected to deactivate the appropriate
+word ripe and access only the inappropriate
+word right.
+The regressive inference mechanism would
+be potentially useful in two situations. When
+there is potential lexical ambiguity (e.g., [raIp]
+which could be a surface form of either right or
+ripe), the listener might be able to eliminate the
+derived form of a candidate ([raIp] from /raIt/)
+if the context did not support the modification
+(e.g., ripe cantaloupe). Regressive inference
+might also be useful to listeners who encounter
+a novel word. If you were told that there is an
+animal called a greem duck, it would be useful
+to know that green could not become greem
+before /d/. Thus, in comparison to representational approaches such as underspecification or
+multiple listing, the inferential approach makes
+greater use of available phonological information to narrow the cohort in some situations.
+
+138
+
+DAVID W. GOW, JR.
+
+Evidence for regressive inference comes from
+results suggesting that continued activation depends on encountering context that could motivate the observed modification. Gaskell and
+Marslen-Wilson (1994; 1998) found that listeners showed faster and more accurate monitoring
+for underlying coronal segments with noncoronal surface forms when they appeared in contexts that licensed the observed modification as
+compared with contexts that did not. Using similar stimuli, Gaskell and Marslen-Wilson (1996)
+found greater priming of underlying coronals by
+surface noncoronals for items appearing in contexts that support the observed modifications.
+Gaskell and Marslen-Wilson argue that this
+context-sensitivity reflects regressive inferential
+processing. There is another reasonable interpretation of Gaskell and Marslen-Wilson's context effects, however. In natural speech, assimilation always reflects context appropriately.
+Given evidence from Lahiri and MarslenWilson (1991) and Otake et al. (1996) that listeners use assimilatory modification to anticipate features of segments that license it, it is
+possible that the processing deficits incurred in
+inappropriate assimilation contexts reflect the
+disruption of normal processing when a natural
+expectation is violated.
+There is also direct evidence against the regressive inference model. In the ripe berries example, the labial [b] in berries is contextually
+consistent with labial assimilation of the underlying coronal [t] in right. This means that the regressive inference model should make the same
+prediction as underspecification theory. Listeners should access both right and ripe, and
+phonological context should not eliminate right
+as a viable candidate after activation. However,
+results of priming studies by Gow (submitted)
+show that listeners show selective priming for
+the intended underlying form (ripe). Regressive
+inference cannot account for this result.
+In summary, three approaches to the problem
+of recognizing assimilated speech have been
+proposed. As described above, none appears to
+provide a full or unambiguous accounting of the
+behavioral evidence concerning the recognition
+of assimilated wordforms. This suggests the
+need for either an entirely new approach or a
+
+synthesis that builds on the individual strengths
+of current ones.
+As a first step toward developing a new understanding of how listeners recognize assimilated speech, one might consider the relationships between existing accounts. Two dimensions
+broadly distinguish between the three approaches
+that have been discussed. The first dimension
+concerns the types of feature modification listeners tolerate. The underspecification approach
+advocated by Lahiri and Marslen-Wilson (1991)
+argues that listeners tolerate mismatch resulting
+from phonologically plausible feature modification, but do not tolerate mismatch resulting from
+phonologically implausible feature modification. Conversely, the tolerance account holds
+that listeners show equal tolerance for phonologically plausible and implausible feature modification. The second distinguishing characteristic of these models is the role they assign to
+postassimilation context. Gaskell and MarslenWilson (1996, 1998) provide evidence for context effects in the processing of assimilated
+speech. They argue that these effects reflect regressive inferential processes by which postassimilation context is used to modulate the
+activation of assimilated items. The mismatch
+tolerance account provides no mechanism to
+explain context effects. However, Lahiri and
+Marslen-Wilson's underspecification account
+(1991) provides the basis for a different explanation of context effects. They suggest that listeners may use assimilation to anticipate upcoming features by associating evidence for a
+feature occurring during an assimilated segment
+with the subsequent segment. If listeners do anticipate, context effects such as those described
+by Gaskell and Marslen-Wilson may reflect the
+violation of expectation.
+Goals
+The goal of the current research is to contrast
+the three processing models of assimilated word
+recognition and develop a single approach that
+accounts for the data.
+The current experiments compare and evaluate
+the three accounts by determining: (1) whether
+listeners show different degrees of tolerance for
+feature mismatch resulting from phonologically
+
+139
+
+ASSIMILATION AND ANTICIPATION
+
+plausible versus implausible feature modification, and (2) whether context effects attributed to
+regressive inference may actually reflect anticipatory processing. The first experiment employs
+form priming to evaluate the role of the phonological plausibility of modification in listeners'
+tolerance to feature mismatch. Participants heard
+sentences containing words that either underwent
+phonologically plausible assimilatory modification or phonologically implausible modification.
+English place assimilation allows coronal segments such as /n/ to assimilate labial place and
+become /m/'s. However, it does not allow labial
+segments such as /m/ to become /n /'s. In the
+phonologically plausible assimilation condition,
+words with underlying coronal nasals such as
+green were produced in assimilated form, as in
+The boy found a green [grim] boat in the yard. In
+the phonologically implausible modification
+condition the mirror modification was made by
+mispronouncing a word ending in /m/ by replacing the /m/ with an /n/ prior to a coronal segment
+such as /d/. For example, glum was pronounced
+[glAn] in the sentence It was a pretty glum
+[glAn] day at the factory. Immediately at the
+offset of the modified word, participants were
+presented with a lexical decision probe that was
+either the written form of the word in unmodified
+form (e.g., GLUM), or an unmodified form of an
+unrelated word (e.g., BROOM). If listeners tolerate plausible modification but not implausible
+modification, as the underspecification account
+predicts, then plausibly assimilated primes
+should produce priming while primes with implausible modification should not. Critically,
+both types of modification produce the same
+place feature mismatch. In both cases mismatch
+is between /n/ and /m/.
+The second and third experiments contrast
+the predictions of regressive inference with those
+of anticipatory processing. The anticipatory account predicts that assimilation should directly
+influence the perception of postmodification
+context, facilitating processing when it is appropriate and interfering with it when it is not. The
+regressive inference account suggests that assimilation should not facilitate processing under any
+conditions and that it can only interfere with it
+indirectly by imposing a general processing cost
+
+when modification is contextually inappropriate.
+Again using assimilated speech presented in sentential contexts, the second experiment employs
+phoneme monitoring, while the third experiment
+employs negative form priming to determine
+whether assimilation directly influences the perception of postmodification context.
+EXPERIMENT 1
+Method
+Participants. The participants were 40 students and staff members drawn from the Massachusetts Institute of Technology community.
+They included 20 women and 20 men between
+the ages of 17 and 46 with a mean age of 25.3
+years. All participants were native speakers of
+American English with no discernible uncorrected deficits in hearing or vision. The participants in this and the following experiments were
+paid for their participation and had the opportunity to earn a bonus on the basis of their performance. No participant took part in more than
+one of the experiments reported here.
+Stimuli. Fifty-six familiar words drawn from
+major syntactic categories (i.e., nouns, verbs, adjectives, and adverbs) were selected as primes.
+Half of these words ended in /m/ and the other
+half ended in /n/ in their unmodified forms.
+Items in the two groups could not be matched for
+frequency. Items ending in /m/ had a mean frequency of 182 occurrences, while items ending
+in /n/ had a mean frequency of 358.6 occurrences
+(Francis & Kucera, 1982). These two groups
+were selected because place assimilation of wordfinal /n/ is phonologically plausible in English,
+while place assimilation of word-final /m/ is
+not. Care was taken to select words that would
+not form other words by changing the final /m/
+to an /n/, or the final /n/ to an /m/. All primes
+were monosyllabic, were monomorphemic, and
+demonstrated regular spelling.
+These words were embedded in sentences in
+roughly sentence-medial position. Words ending in an /n/ were recorded in a context that encouraged assimilation. They were immediately
+followed by a word beginning with a labial stop
+such as /p/ in the sentence There is a green part
+that seems to be missing. In this context the final
+
+140
+
+DAVID W. GOW, JR.
+
+/n / in the word green can be assimilated to approximate the labial place of the following /p/
+and be pronounced [grim]. The likelihood and
+degree to which assimilation takes place has
+been shown to vary widely within and between
+speakers as a function of the casualness and
+rate of speech (Barry, 1985; Holst & Nolan,
+1995; Kerswill, 1985). In order to maximize
+the likelihood of assimilation, the contexts
+were simple and the speaker read them in a relatively rapid, fluent, and casual style. Multiple
+tokens of each sentence were recorded so that
+tokens that did not manifest clear assimilatory
+modification (as judged by two observers)
+could be discarded. This type of spontaneous
+assimilation was chosen over assimilation-like
+modification produced through deliberate mispronunciation, because there is evidence that
+natural assimilation may preserve some elements of the gestural and acoustic form of the
+underlying place feature (Barry, 1985; Holst &
+Nolan, 1995; Kerswill, 1985).
+Words ending in /m/ in their unmodified
+forms were intentionally mispronounced, so that
+the labial /m/ was replaced by the coronal /n/.
+For example, glum was pronounced [glAn]. Deliberate mispronunciation had to be used in this
+instance because /m/'s place of articulation cannot be changed in English through natural
+phonological processes in any context.1 These
+mispronounced tokens were produced in contexts in which the next word began with a coronal stop such as the /d/ in It was a glun day at
+the factory. The use of coronal context following coronalization was intended to mimic the
+conditions and effects of assimilation in a
+
+1
+
+Deliberate mispronunciation was deemed to be the best
+available option for achieving this manipulation. It should
+be noted that the contrast between phonologically plausible
+and phonologically implausible modification is also potentially a contrast between different levels of modification if
+spontaneous assimilation leads to less than full, discrete
+change in a feature value. In pilot testing, spontaneously assimilated items and items showing deliberate segmental
+mispronunciation consistent with contextually appropriate
+assimilation showed similar levels of priming for underlying
+forms under the experimental conditions described for Experiment 1. All priming effects in the pilot study were statistically significant in analyses by both subject and item.
+
+phonologically implausible form. All experimental sentences are listed in Appendix A.
+All of the sentences were recorded by the author, who is a male speaker of American English. They were read in a sound attenuating
+chamber and digitally recorded on a DAT
+recorder at a sampling rate of 44.1 kHz using a
+high quality microphone. All sentences were
+read in a fluent, rapid, and casual style. The
+speaker produced a minimum of three tokens of
+each of the sentences. In addition to these experimental tokens, the reader produced tokens of an
+additional 268 filler sentences with similar constructions which were read in the same style.
+These recordings were then transferred to computer, volume equalized, and edited into individual tokens using the Soundedit 16 waveform
+manipulation software package.
+Because the talker was not experimentally
+naive, it was necessary to demonstrate that the
+stimuli showed the normal features associated
+with spontaneous assimilation by naive speakers. Gow and Hussami (1999) examined the
+acoustic consequences of spontaneous place assimilation of word-final coronals in six naive
+talkers. They found that underlying coronals
+that had undergone labial assimilation showed
+spectral characteristics of both labial and coronal segments when examined at the penultimate
+pitch period showing a clear F3 prior to consonant closure. The Gow and Hussami analyses
+were repeated on the current stimuli. For comparison, two additional tokens of each item from
+the spontaneous assimilation condition were
+recorded. In one version, the labial-initial item
+following the assimilated item was replaced in
+the reader's script with a word beginning with a
+coronal. Place assimilation does not occur in
+this environment and so the resulting token is an
+unmodified coronal. In the other version, the
+item that normally undergoes assimilation was
+replaced with a nonword ending in a labial
+nasal. For example, green was replaced with
+greem. This condition is equivalent to the type
+of deliberate assimilation used by Gaskell and
+colleagues (Gaskell & Marslen-Wilson, 1996,
+1998; Marslen-Wilson et al., 1995). All three
+versions of these items were recorded under the
+same conditions using the same equipment. For
+
+ASSIMILATION AND ANTICIPATION
+
+purposes of analysis, tokens were downsampled
+to a rate of 11.025 kHz and transferred to a
+UNIX environment where measurements were
+made using unpublished software developed at
+the Research Laboratory of Electronics at the
+Massachusetts Institute of Technology, based
+on the work of Dennis Klatt. Formant frequencies and peak amplitudes were measured for
+F1, F2, and F3 at the penultimate pitch period
+that showed a clear F3 prior to the closure associated with the critical coronal, labial, or underlying coronal segment that had undergone labial
+assimilation.
+The results of the acoustic analyses are summarized in Table 1. Coronals that had undergone
+labial assimilation showed an array of spectral
+characteristics that distinguished them from both
+unmodified coronals and unmodified labials.
+They differed from unmodified coronals in F1,
+t(27) = 2.0, p < .05, F2, t(27) = 2.1, p < .05, F3,
+t(27) = 2.0, p <. 05, and A1, t(27) = 5.1, p < .05.
+They differed from unmodified labials in measures of A1, t(27) = 3.5, p < .001, A2, t(27) = 2,9,
+p < .001, and A3, t(27) = 2.0, p < .05. These results demonstrate that the place-assimilated
+stimulus tokens employed in Experiment 1 combine spectral characteristics of coronal and noncoronal place. Moreover, the three-way distinction in A1 found between unmodified coronals,
+coronals that have undergone labial assimilation,
+
+TABLE 1
+Acoustic Comparisons between Underlyingly Coronal
+Stimuli That Have Undergone Labial Assimilation Employed in Experiment 1 and Unmodified Coronal and
+Labial Segments Produced in Connected Speech
+
+Measure
+
+Unmodified
+coronal
+
+Assimilated
+coronal
+
+Underlying
+labial
+
+Formant frequency (Hz)
+F1
+F2
+F3
+
+256
+1651
+2687
+
+332
+1418
+2518
+
+332
+1425
+2614
+
+Formant amplitude (dB)
+A1
+A2
+A3
+
+51.5
+38.3
+33.7
+
+46.4
+37.6
+34.4
+
+49.9
+41.8
+37.9
+
+141
+
+and unmodified labials demonstrate that these
+three types of segments are acoustically distinguishable from one another. These results are
+consistent with articulatory data suggesting that
+English place assimilation typically produces an
+amalgam of place information combining aspects of coronal and noncoronal place (Barry,
+1985; Kerswill, 1985; Nolan, 1992). The similarity between this pattern and the pattern found in
+analyses of speech produced by naive speakers
+in the work of Gow and Hussami (1999) suggests that these stimuli are representative of normal place-assimilated segments produced by
+English speakers in connected speech. Differences between spontaneously assimilated items
+and items with underlying labial place demonstrate that spontaneous assimilation in these tokens does not reflect pure feature substitution.
+The lexical decision stimuli consisted of an
+equal number of one-syllable words and pronounceable nonwords. All stimuli appeared in
+uppercase 18-point, boldface Helvetica font.
+There were two types of probes in experimental
+trials. Phonologically related probes were the
+standard orthographic forms of the modified auditory prime stimuli that preceded them. For example, in sentences containing the primes [glAn]
+or [glAm] the probe was GLUM, and in sentences containing the primes [grin] and [grim]
+the lexical decision probe was GREEN. Phonologically unrelated probes consisted of frequencymatched items with no semantic association and
+minimal phonological overlap with prime words.
+To ensure that related and unrelated words were
+matched as closely as possible, items that served
+as related stimuli for words in one condition
+served as unrelated probes for other words in
+another condition. Zwitserlood (1996) notes that
+listeners may develop a bias toward making
+"yes" responses when there is a clear relationship between form overlap and the lexicality of
+lexical decision probes. Therefore, a large number of unrelated filler trials were employed to obscure this correlation. None of the 268 filler trials
+employed lexical decision probes that closely
+resembled words immediately preceding them
+in the auditory priming stimulus. This meant
+that less than 9% of all trials in a testing session
+employed lexical decision probes that were
+
+142
+
+DAVID W. GOW, JR.
+
+phonologically related to the prime stimulus. In
+other work, Gow (submitted) has demonstrated
+that potential response bias can be eliminated
+given this low proportion of related trials.
+Procedure. Participants were tested individually while seated in a sound-attenuating chamber. They were told that they would hear a series
+of sentences and that they should listen carefully
+to each one in preparation for a sentence recognition test. They were also told that during the
+presentation of each sentence they would be
+presented with a visual letter string and that it
+was also their task to decide as quickly and accurately as possible whether the letter string was
+a real word and to signal their decision by pressing one of two buttons using different fingers on
+their dominant hand. If subjects failed to make a
+response within 1400 ms of the presentation of
+the probe word they heard a 200-ms warning
+tone. Lexical decision stimuli appeared for
+500 ms with an onset immediately at the offset
+of the prime word. Lexical decision probes were
+presented in different positions in filler trials so
+that participants could not predict when the
+probe would appear in any given trial. Stimulus
+presentation and data collection were carried
+out using the PsyScope software package
+(Cohen, MacWhinney, Flatt, & Provost, 1993).
+Visual stimuli were presented on a computer
+monitor, and auditory stimuli were presented
+through professional-quality headphones. The
+participant entered lexical decision responses
+using a multiple key button box. In experimental
+trials, lexical decision probes were always presented immediately at the offset of the prime
+word. Upon completion of the online task, participants completed a five-item forced choice
+sentence completion task based on filler sentences they heard during the experiment.
+Design. There were four experimental conditions formed by crossing two levels of modification type (phonologically plausible and
+implausible modification) and two levels of
+prime-probe phonological relatedness (related
+and unrelated). Participants were tested in a between-subjects design requiring the use of four
+different versions of the experiment. Each version included the same auditory and visual stimuli presented in different combinations. No au-
+
+ditory or visual stimuli were repeated within a
+testing version and each participant completed
+an equal number of trials in each of the four experimental conditions. Trial order was randomized between subjects.
+Results
+Table 2 shows the mean reaction times and
+accuracy rates in each of the four experimental
+conditions. Participants or items showing an
+overall accuracy rate below 85% or a mean reaction time greater than 1200 ms were excluded
+from all analyses. Based on these criteria, no
+participants were excluded, but three experimental items were dropped from the final analyses. Furthermore, all trials showing a reaction
+time less than 250 ms or greater than 1200 ms
+were eliminated from analyses to minimize the
+effects of anticipatory or strategic processing.
+This eliminated less than 2% of the data, which
+was replaced with cell means. Trials on which
+participants provided incorrect lexical decision
+judgments were similarly excluded from analyses of reaction time data.
+Participants showed no interaction between the
+relatedness and plausibility variables, F1(1,39) =
+0.05 p > .05; F2(1,52) = 1.2, p > .05, and no main
+effect for the phonological plausibility of modification, F1(1,39) = 1.2, p > .05; F2(1,52) = 0.03,
+p > .05. There was a significant overall reaction
+time effect for the prime-probe relatedness,
+F1(1,39) = 20.2, p < .001; F2(1,52) = 15.4, p <
+
+TABLE 2
+Mean Reaction Times (in Milliseconds) for Lexical
+Decisions in Experiment 1
+Prime
+condition
+
+Related
+probe
+
+Unrelated
+probe
+
+Priming
+effect
+
+Phonologically
+plausible
+modification
+(green ->/grim/)
+
+642 (.99)
+
+665 (.97)
+
+23(.02)
+
+Phonologically
+implausible
+modification
+(flame->/flen/)
+
+648 (.99)
+
+672 (.97)
+
+24(.02)
+
+Note. Accuracy rates are shown in parentheses.
+
+ASSIMILATION AND ANTICIPATION
+
+.001, with faster responses associated with
+phonologically related pairs. Planned contrasts
+further confirmed the existence of priming effects by both plausibly modified primes, t1(39) =
+2.9, p < .005; t2(27) = 2.0, p < .05, and implausibly modified primes t1(39) = 3.4, p < .05;
+t2(24) = 1.9, p < .05.
+Analysis of the accuracy data revealed a parallel pattern of results. Participants showed no
+main effect for the plausibility of modification,
+F1(1,39) = 0.02, p > .05; F2(1,52) = 0.1, p > .05,
+and no interaction between relatedness and
+plausibility, F1(1,39) = 0.02 p > .05; F2(1,52) =
+0.5, p > .05. There was a main effect for relatedness with greater accuracy on trials with phonologically related prime-probe pairs, F1(1,39) =
+10.5, p < .001; F2(1,52) = 10.2, p < .001.
+Planned contrast analyses revealed priming by
+plausibly assimilated primes that was significant
+by subject, t1 (39) = 1.9, p < .05, but not by item,
+t2(27) = 1.0, p > .05, and priming by implausibly
+modified primes that was significant in both
+subject and item analyses, t1 (39) = 2.2, p < .05;
+t2(24) = 2.0, p < .05.
+Finally, the correlation between reaction time
+and trial position was examined in related trials
+to determine if emerging strategies played a role
+in the facilitation effect for the two modification
+types. No such correlation was found, r = 0.05,
+p > .05, suggesting that the results reflect priming due to the automatic activation of lexical representations rather than the development of a response strategy for phonologically related trials.
+Discussion
+The results of Experiment 1 suggest that listeners tolerate some mismatch between the recovered and expected features that define a word
+form in lexical activation and suggest that this
+tolerance does not depend on the phonological
+plausibility of the modification that produces
+the mismatch. These findings are at odds with
+the predictions of underspecification theory
+(Lahiri & Marslen-Wilson, 1991).
+Lahiri and Marslen-Wilson (1991) argue that
+listeners tolerate predictable feature mismatch as
+a result of underspecification, but not mismatch
+resulting from phonologically implausible modification. Thus, underspecification predicts that
+
+143
+
+the phonologically plausibly assimilated token
+[grim] should prime green, but the implausibly
+modified token [glAn] should not prime glum.
+The nearly identical priming effects found in
+trials with plausibly and implausibly assimilated
+primes provide no support for even a weakened
+form of the underspecification hypothesis.
+The lack of a plausibility effect provides
+some insight into the potential sources of mismatch tolerance. Normally listeners do not encounter phonologically implausible modifications. The fact that they tolerate phonologically
+implausible modification suggests that tolerance
+to mismatch does not depend on their having
+heard a particular modification in the past or
+having formulated rules to predict or explain
+modification. Instead, it implies that mismatch
+tolerance reflects a general property of the relationship between lexical activation and word
+recognition. The broad class of activation-based
+models that includes TRACE (McClelland &
+Elman, 1986) and later versions of the cohort
+model (Marslen-Wilson, 1987) provide a simple
+mechanism to account for this tolerance. Listeners may simply recognize the word that most
+closely matches the array of features recovered
+from the speech signal.
+Available results show, however, that such
+tolerance has its limits. Listeners appear to rely
+heavily on word onsets to recognize words and
+to limit tolerance to mismatch to features occurring late in words that appear in connected
+speech (Cole & Jakimik, 1978; Gow & Gordon,
+1995; Marslen-Wilson & Welsh, 1978; MarslenWilson & Zwitzerlood, 1989). In Experiment 1,
+the mismatch is always in a word-final segment.
+Additional processing mechanisms might be
+necessary to recognize assimilated items if the
+assimilation took place at a word onset where
+listeners typically show very stringent matching
+criteria in online tasks addressing automatic
+processing. However, English place-assimilation only occurs in syllable-final coronal segments. Across human languages, word onsets
+appear to be insulated against modification by
+productive phonological processes (Beckman,
+1997; Gow, Manuel, & Melvold, 1996).
+The fact that listeners tolerate some mismatch
+when recognizing words does not necessarily
+
+144
+
+DAVID W. GOW, JR.
+
+imply that they are insensitive to fine acoustic or
+phonetic distinctions. While the evidence from
+online tasks demonstrates that listeners access
+words given nonword primes that differ by a
+single feature, it appears that such access is
+blocked when the mismatching prime is a real
+word (Marslen-Wilson, 1993; Radeau et al.,
+1995; Zwitserlood, 1989). Studies by Brown
+(1990) and Marslen-Wilson (1990) suggest that,
+under these conditions, activation of the real
+word prime actually inhibits activation of the
+mismatching probe. This is consistent with other
+evidence from a variety of paradigms for competition between phonologically similar items
+(Bard & Shillcock, 1993; Goldinger, Luce, &
+Pisoni, 1989; Zwitserlood, 1989; Goldinger,
+Luce, Pisoni, & Marcario, 1992; McQueen,
+Norris, & Cutler, 1994). Listeners tolerate slight
+mismatch in the absence of a close competitor
+as long as there is sufficient bottom-up support
+for a lexical candidate. However, if two candidates are both strongly activated, they may inhibit one another. In this way, small differences
+in bottom-up support for competing candidates
+may be amplified through competition, providing the appearance of extremely stringent
+matching criteria when there is potential lexical
+ambiguity.
+The results of Experiment 1 contradict the
+predictions of the underspecification account,
+but they do not directly address the question of
+whether listeners employ regressive inference in
+the recognition of assimilated speech. Regressive inference provides a potential mechanism
+for eliminating contextually unlikely lexical
+candidates after they have been accessed. It may
+be useful to have a phonological mechanism for
+eliminating spuriously activated lexical items
+that owe their initial activation to mismatch
+tolerance. Furthermore, the demonstration of
+mismatch tolerance does not suggest a reinterpretation of the basic evidence that has been
+marshaled in support of regressive inference.
+Context is critical in the inferential account because it allows listeners to determine if assimilation is the source of sound change. The crucial
+evidence in support of the inferential account
+comes from a series of results showing that performance on tasks drawing on lexical activation
+
+is slowed when phonologically plausible feature
+modification occurs in a context that would not
+support the observed feature change (Gaskell &
+Marslen-Wilson, 1996, 1998; Marslen-Wilson et
+al., 1995).
+Experiments 2 and 3 examine an alternate interpretation of these effects of inappropriate context. These effects may reflect the violation of a
+listener's expectations rather than retrospective
+inference. The experiments test the claim that
+assimilation provides information about the segments that drive the assimilation and thus facilitates lexical processing by allowing listeners to
+anticipate features of upcoming segments. In this
+view assimilation context effects are typically
+anticipatory rather than retrospective. In Experiment 2, participants monitored for the segments
+that license the assimilation of a preceding wordfinal segment. If assimilation is used to anticipate
+certain features in continuous word recognition,
+then monitoring times should be shorter when
+targets are preceded by contextually appropriate
+assimilation than when they are preceded by
+nonassimilation. Monitoring latencies should
+also be shorter following nonassimilation as
+compared to contextually inappropriate assimilation. The regressive inference account provides
+no basis for predicting facilitated monitoring
+for targets immediately following contextually
+appropriate assimilation as compared to nonassimilation.
+EXPERIMENT 2
+Method
+Participants. The participants were 45 individuals (19 men and 26 women) drawn from the
+same general population as Experiment 1.
+Stimuli. Thirty-two familiar words drawn
+from major syntactic categories and ending in
+the coronal nasal /n/ were identified. In all
+cases, words were chosen that would not form
+other valid words if the final /n/ was replaced
+with an /m/ or //. For example, gain would be
+excluded because substituting the /n/ with an
+/m/ would produce game.
+These words were incorporated into sentences in which they were immediately followed
+within the same clause by another word drawn
+
+ASSIMILATION AND ANTICIPATION
+
+from a major syntactic category. For each word,
+three such contexts were created. In the labial
+context, the word ending in /n / was followed by
+a monosyllabic word beginning with a labial
+stop (/p/ or /b/). The labial was voiced (/b/) for
+half of the words and unvoiced (/p/) for the other
+half. In these contexts, the final /n/ assimilates
+the labial place of the stop and approximates an
+[m]. For example, the word plane (/pleIn/), is
+pronounced [pleIm]. Of the 32 tokens employed
+in this context, 28 were taken from the assimilatory modification condition in Experiment 1.2
+The coronal context sentence was formed by replacing the word beginning with a labial stop
+with another monosyllabic word from the same
+syntactic category (that also formed a sensible
+continuation of the sentence) that began with a
+coronal stop (/d/ or /t/). The coronal context was
+neutral and did not bring about any change in the
+pronunciation of the word ending in the /n/.
+The third context, the velar context, was formed
+the same way with the substitution of a monosyllabic word beginning with a velar stop (/k/ or
+/g/). Voicing was matched for the labial and
+velar contexts associated with each item. In the
+velar context, the word-final /n/ was pronounced
+as an //, so the word plane was pronounced
+[pleI]. Sentences were used with simple vocabulary and syntactic structures, and frequent
+use of contractions, to encourage relatively
+spontaneous, casual readings with assimilation.
+All experimental sentences are listed in Appendix B. In addition, there were 108 filler sentences written in a similar style.
+All sentences were recorded along with the
+stimuli used in Experiment 1 by the same
+reader. The 14 tokens of appropriate place assimilation used in Experiment 1 were among the
+tokens employed in Experiment 2. All tokens
+were digitally recorded in a sound-attenuating
+chamber using a high-quality microphone and a
+portable DAT recorder sampling at 44.1 kHz.
+The reader read each sentence at least three
+2
+An additional pilot study employing the complete set of
+32 tokens showing assimilation of labial place demonstrated
+significant priming for the underlying coronal interpretation
+of the modified items under the conditions used in Experiment 1. This suggests that listeners were able to access the
+underlying form of the prime items.
+
+145
+
+times in a fluent, spontaneous-sounding style
+and attempted to make all three readings show
+similar tone, rate, and inflection. He read the
+coronal, labial, and velar context versions of
+each sentence together, again attempting to
+make each version sound as similar to the others
+as possible, except of course at the points of
+phonological difference.
+These recordings were transferred to a computer, equated for amplitude, and edited using
+waveform manipulation software. Each of the
+recordings of experimental sentences was split
+into two portions at an ascending zero-crossing
+just prior to the release of the stop consonant.
+Two listeners listened to the first half portion of
+each sentence to ensure that the final segment
+was perceivable as a [m] in labial contexts, an
+[n] in coronal contexts, and an [] in velar contexts. Tokens that failed to meet this criterion
+were removed from the study. The same listeners then listened to the second portion of these
+sentences and for each sentence identified a
+token that began with a clearly identifiable
+token of a labial stop. This token was then crossspliced onto the tokens of the labial, velar, and
+coronal context versions that yielded the highest
+degree of continuity. Pre- and postsplice speech
+was derived from different recorded tokens for
+all items. Thirty-two speech tokens used in filler
+trials were also created by cross-splicing two
+different tokens of the same sentence together.
+For these items, cross-splices appeared in locations that did not correlate with the position of
+the target phoneme. As a further precaution
+against cross-splicing artifacts, the listeners also
+eliminated all tokens that at least one listener
+felt sounded unnatural or showed perceptible
+acoustic discontinuities that could signal the
+presence or location of an edit. In experimental
+trials, the monitoring target was always the first
+segment of the word that immediately followed
+the assimilated segment. As a result of the crosssplicing manipulation, this target was physically
+identical across the three assimilation conditions for each word.
+Procedure. Participants were tested individually in a sound-attenuating chamber. They were
+told that they would hear a series of sentences
+and that it was their task to listen for a particular
+
+146
+
+DAVID W. GOW, JR.
+
+letter sound. If they heard that letter sound in a
+sentence they were to press a response key as
+quickly as possible. If they did not hear that letter sound they were to press a second response
+key when they were sure they had heard the
+whole sentence. Participants listened to the
+stimuli using professional quality headphones.
+They responded using a button box by pressing
+the buttons with different fingers on their dominant hands.
+Design. There were three experimental conditions defined by the three types of context that
+preceded labial targets in experimental trials:
+appropriate assimilation, nonassimilation, and
+inappropriate assimilation. Participants were
+tested in a between-subjects design requiring
+the use of three different versions of the test.
+Testing began with 5 practice trials to familiarize the subjects with the task, followed by two
+blocks of 70 trials each, separated by a rest period. Each block contained 54 filler trials and
+16 experimental trials. Blocking was based on
+the target phoneme, with subjects monitoring
+for /b/ in one block and /p/ in the other. The target never appeared more than once in any stimulus sentence and did not occur at all in 16 of
+the filler trials. Each participant completed an
+equal number of trials in each of the three
+experimental conditions, and no stimulus was
+repeated. Trial order was randomized between
+subjects.
+The experiment and stimulus materials were
+designed to discourage participants from developing task-specific response strategies that might
+mask spontaneous automatic processing. Target
+phonemes only followed underlying coronal segments in experimental trials. Among experimental trials targets were equally likely to follow
+any of the three assimilation contexts and so participants had no basis for developing response
+strategies that would lead to differential responding across experimental conditions.
+Results
+The mean reaction times for each of the three
+experimental conditions are summarized in
+Table 3. Of the 45 participants who completed
+the experiment, 9 were eliminated from all
+analyses on the basis of having mean reaction
+
+TABLE 3
+Mean Monitoring Latencies (in Milliseconds) for WordInitial Stop Consonants in Experiment 2
+Condition
+Appropriate
+assimilation
+
+Target
+
+Reaction time
+
+(e.g., ten buns  /tm#bAnz/)
+/b/
+/p/
+combined
+
+609 (14.3)
+554(12.1)
+582 (9.3)
+
+No assimilation
+
+(e.g., ten buns  /tn#bAnz/)
+/b/
+631 (12.0)
+/p/
+605 (13.8)
+combined
+617 (9.0)
+
+Inappropriate
+assimilation
+
+(e.g., ten buns  /t#bAnz/)
+/b/
+/p/
+combined
+
+703 (14.3)
+647(16.4)
+675 (10.8)
+
+Note. The underlined phoneme is the target in each example. Mean standard errors are indicated in parentheses.
+
+times greater than 1200 ms, or miss rates above
+15%.3 Data for the remaining 36 participants
+were gated at 2.5 standard deviations above and
+below overall mean reaction times. This eliminated 5% of the data, which were subsequently
+replaced with cell means.
+There was a significant main effect for modification type F1(2,35) = 29.5, p < .001; F2(2,31)
+= 24.9, p < .001. The interaction between modification type and target failed to reach significance. Given this lack of an interaction and the
+parallel pattern of means across condition in
+each of the target conditions, subsequent analyses collapsed across target to enhance statistical
+power. Planned contrasts showed significant differences between the appropriate assimilation
+and no modification conditions, t1(35) = 2.5, p <
+.01; t2(31) = 2.9, p < .01, between the no modification and inappropriate modification conditions,
+3
+This exclusion rate (20%) is comparable to those found
+in the most closely related studies of Gaskell and MarslenWilson (1998) who used similar criteria to eliminate
+17-22% of their subjects in tasks employing similar stimuli.
+
+ASSIMILATION AND ANTICIPATION
+
+t1(35) = 4.5, p < .001; t2(31) = 3.4, p < .005, and
+between the appropriate and inappropriate assimilation conditions, t1(35) = 7.3, p < .001;
+t2(31) = 5.5, p < .001.
+Discussion
+The purpose of Experiment 2 was to discriminate between two explanations for context sensitivity effects in the recognition of speech containing place assimilation. The critical result is that
+listeners show longer monitoring latencies for
+targets following word-final unmodified coronals
+than for targets following word-final coronals
+that have undergone contextually appropriate assimilation. This result is predicted by the anticipation account. Listeners hearing a coronal segment that has undergone labial assimilation are
+able to anticipate that a labial segment will follow. This facilitates the recognition of the labial,
+which is reflected in a savings in monitoring
+time. When listeners hear an unmodified coronal,
+they have no basis for anticipating what will follow. Place assimilation is an optional process, so
+unmodified coronals may be followed by any
+segment. This interpretation is supported by other
+observations of the use of assimilation to anticipate features in the gating studies of Lahiri and
+Marslen-Wilson (1991) and the phoneme monitoring studies of Otake at al. (1996).
+The advantage in monitoring latencies for targets following appropriate instances of assimilation as compared to targets following unmodified contexts is inconsistent with the predictions
+of the regressive inference account. To see why,
+it is necessary to expand on existing descriptions of the inference mechanism, which do not
+make it clear when inference is invoked. There
+are two possibilities. One is that the mechanism
+is always active. If so, there should be no difference in the monitoring latencies associated with
+unmodified and appropriately modified environments. In both environments the mechanism
+would be invoked and would fail to find mismatch. A second possibility is that the mechanism is invoked whenever featural mismatch is
+detected word-finally. For instance, it might be
+invoked when listeners hearing [grim] have already strongly activated the word green, but
+note a mismatch between the labial segment that
+
+147
+
+they hear and the coronal segment that they expect. This would require an additional mechanism that would accomplish word recognition
+and simultaneously register mismatch. This
+would generally make regressive inference more
+useful. However, it would require inference to
+be triggered following contextually appropriate
+assimilation, but not following instances of
+words ending in unmodified coronal segments.
+This would mean that contextually appropriate
+assimilation would lead to an increased processing load, which in turn would lead to longer
+monitoring latencies. This is not what the results
+of Experiment 2 show.
+Gaskell and Marslen-Wilson (1998) failed
+to find the advantage for targets following
+appropriately assimilated tokens over targets
+following unmodified tokens. This difference
+may be attributed to differences in how the
+stimuli were constructed. Gaskell and MarslenWilson produced all modification by deliberately mispronouncing words. Their stimuli were
+perceptually unambiguous at the surface level,
+suggesting that feature cue modification was
+relatively complete. In the current study, feature
+modification was achieved through spontaneous
+assimilation. While the tokens that were used
+for this experiment are a highly selected set
+meant to show a high degree of assimilation,
+acoustic analyses of the tokens showing labial
+assimilation reveal that they are not fully or
+unambiguously noncoronal. The kind of spontaneous assimilation that characterizes natural
+speech and the stimuli in this experiment may
+provide an acoustic basis for anticipation that is
+stronger than that present in the artificially assimilated stimuli employed by Gaskell and
+Marslen-Wilson.
+Given the evidence that contextually appropriate assimilation helps listeners anticipate upcoming context, there is a simple explanation
+for the fact that both the current experiment
+and Gaskell and Marslen-Wilson's (1998) first
+experiment find long monitoring latencies associated with targets following contextually inappropriate assimilation. These long latencies may
+reflect the disruption of processing caused by
+the violation of the listener's phonetic expectations. A listener hearing a coronal that has
+
+148
+
+DAVID W. GOW, JR.
+
+undergone velar assimilation anticipates that a
+velar segment will follow. When a cross-spliced
+labial segment follows, the listener's expectations are violated and that interrupts processing.
+Gaskell and Marslen-Wilson offer a different
+account. They suggest that these long monitoring latencies reflect the increased processing
+load associated with the detection of a nonword
+discovered through regressive inference. In
+principle, both anticipation and regressive inference effects could contribute to this result. However, it is imparsimonious to suggest that two
+mechanisms are needed to explain a result that
+one could account for.
+The monitoring advantage for targets following contextually appropriate assimilation over
+targets following contextually inappropriate assimilation suggests that context sensitivity in
+the processing of speech containing assimilation is due to anticipatory processing rather
+than to regressive inference. However, another
+potential interpretation is that they reflect the
+relative naturalness of the stimuli in the three
+conditions. English coronal place assimilation
+appears to be an optional process. When it does
+occur, it produces segments that tend to differ
+acoustically from both minimally contrasting
+coronal and noncoronal segments. Moreover,
+place assimilation appears only in a restricted
+set of environments. If assimilation occurs most
+of the time, then segments may typically show
+contextually appropriate acoustic modification.
+This would make instances of nonmodification
+in environments that potentially support assimilation somewhat unusual. If so, slower monitoring latencies associated with nonmodification
+may reflect the infrequency or unusualness of
+the transition.
+A third experiment was performed to determine if putative anticipatory effects could be observed in an experiment that controlled for possible stimulus naturalness artifacts. Experiment
+3 employs a negative form-priming paradigm to
+determine how preceding context affects lexical
+activation. The strategy behind Experiment 3 is
+to use assimilation to induce an expectation
+about the place of articulation of a word's onset
+and then to look for evidence of inhibition of the
+anticipated form when listeners actually hear a
+
+word whose onset has a different place of articulation. For example, listeners hearing a token
+of ten in which the final coronal has undergone
+velar assimilation may anticipate a word beginning with a velar such as /g/ or /k/ to follow. If
+this token is actually followed by the word buns
+which begins with the labial /b/, listeners may
+show some initial activation of the word guns
+through a combination of the effects of anticipation of an initial velar and direct acoustic support
+for all of the other features that make up the
+word. However, since listeners actually hear buns
+they should ultimately access buns. A number
+of results suggest that activation of one word
+form may lead to inhibition of highly similar
+word forms in auditory word recognition (Hamburger & Slowiaczek, 1996, 1999; Slowiaczek
+& Hamburger, 1992). Thus, listeners who access buns should show significant inhibition of
+guns if assimilation encourages the expectation
+of an initial /g/ and increases the perceived similarity between the prime buns and the probe
+item GUNS.
+Inhibition effects in word recognition depend
+on competition between candidates for recognition (Bard & Shillcock, 1993). Marslen-Wilson
+(1990) summarizes a broad body of research
+suggesting that items only enter the cohort of
+candidates if they begin with an onset that
+matches the onset they hear. For this reason, it
+is important that assimilation is intended to affect the perception of the onset. It is hypothesized that the combined effects of anticipation
+and perceptual similarity make guns a competitor with buns in Experiment 3. However, it is
+conceivable that the perceptual similarity between buns and guns is sufficient, without anticipation, to allow guns into the cohort of items
+activated by buns and thus subject it to the effects of competition. To address this possibility,
+Experiment 3 included a control comparison in
+which the prime items showed contextually appropriate assimilation. For example, listeners
+heard a token of ten in which the final segment
+had undergone labial assimilation (to approximate [tm]) immediately preceding the prime
+word buns. Once again, buns was followed by
+the lexical decision probe GUNS. If overlap between prime and probe forms was great enough
+
+149
+
+ASSIMILATION AND ANTICIPATION
+
+to make guns a member of the cohort and produce inhibition in this condition, it was reasoned that evidence of inhibition in the inappropriate assimilation context condition need not
+reflect anticipation. However, if the appropriately assimilated prime context [tm] did not
+produce inhibition, but the inappropriately assimilated prime context [t] did, the observed
+priming could be attributed to the violation of
+anticipation.
+Unlike Experiment 2, all comparisons in Experiment 3 were made between trials in which
+the critical speech stimulus showed the same degree of naturalness or potential unnaturalness.
+In the experimental comparison, both related
+and unrelated lexical decision probes always
+followed contextually inappropriate assimilation such as ten buns pronounced [t#bAnz].
+In the control comparison, related and unrelated
+probes always followed contextually appropriate assimilation such as ten buns pronounced
+[tm#bAnz]. Therefore, neither individual
+priming comparison was subject to the differential effects of low-level stimulus naturalness.
+As in Experiment 2, the two theoretical accounts of context sensitivity make different predictions about the outcome of Experiment 3. As
+I have outlined above, the anticipatory processing account predicts that the primes following
+contextually inappropriate assimilation should
+produce negative priming when probed at the
+offset of the prime item because of inhibition of
+the lexical item whose activation is initially encouraged by anticipation. In contrast, the regressive inference account provides no basis for
+predicting such a negative priming effect. An
+additional processing load may be incurred during the processing of context following contextually inappropriate modification, but this cost
+should be the same whether the lexical decision
+probe is related or unrelated to the prime item.
+Thus, the regressive inference model predicts no
+differential priming effects in contextually appropriate versus inappropriate contexts. If there
+is an additional processing load as predicted by
+the regressive inference account, it should be reflected in slower responses to all lexical decision probes following contextually inappropriate
+modification.
+
+EXPERIMENT 3
+Method
+Participants. The participants were 36 people
+(25 women and 11 men) drawn from the same
+population as the previous experiments.
+Stimuli. The auditory stimuli were constructed
+around 32 sentence fragments such as ten buns;
+each fragment consisted of a familiar monosyllabic word ending in /n/ in its unmodified form,
+followed by a monosyllabic word beginning
+with a labial stop. The words beginning with
+labial stops (e.g., buns) served as the primes.
+Half of the primes began with the voiced stop /b/
+and half began with the unvoiced stop /p/. Primes
+were limited to words that could be converted
+into other familiar words if the labial place of
+the initial segment were changed to velar place.
+For example, buns becomes guns if the initial
+segment becomes a velar.
+These fragments were integrated into sentence
+contexts. Two different versions of each sentence
+were created in order to manipulate the relationship between words undergoing spontaneous assimilation and the subsequent context that typically controls assimilation. The two versions
+were created by substituting a different word in
+which the initial segment had a different place of
+articulation for the second word in each fragment. For example, the fragment described
+above appears in the context of the base sentence
+They found ten buns in the kitchen. If the initial
+sentence fragment was ten buns, then the velar
+version would feature the phrase ten goats. In the
+labial version upon which the other versions are
+based, the final /n/ in ten assimilates the place of
+the following labial to approximate [tm]. In the
+velar version, the final /n/ assimilates velar place
+so ten sounds something like [t]. All experimental sentences are listed in Appendix B.
+These sentences were prepared in the same
+manner as the stimuli used in Experiment 2,
+using the same reader and equipment. All base
+sentence tokens showing labial assimilation
+were taken directly from the previous experiments. Each sentence token was divided into
+two parts, with the division made at an ascending zero crossing just prior to the release of the
+initial stop of the second word in each fragment.
+
+150
+
+DAVID W. GOW, JR.
+
+For Experiment 3, two sentences were created
+through cross-splicing based on each of the 32
+sentence fragments. One sentence type was created by splicing the second half of a sentence
+beginning with a labial segment onto the first
+half of a sentence ending with a segment that
+had undergone labial assimilation. This splicing
+created a sentence in which the observed labial
+assimilation was contextually appropriate. The
+other sentence type was created by splicing together the first half of a sentence ending with a
+segment that had undergone velar assimilation
+with the same token of the second half of the
+sentence (beginning with a labial segment) that
+was used to generate the first sentence. This
+splicing created a sentence in which the observed velar assimilation was contextually inappropriate. As in the previous experiments,
+only sentences with no discernible splicing artifacts or discontinuities (as judged by two independent listeners) were used in the final experiment. An additional 108 filler sentences were
+also recorded.
+In addition to the auditory stimuli, 140 pronounceable, monosyllabic letter sequences
+served as visual lexical decision probes. These
+included an equal number of nonwords and real
+words. All experimental sentence stimuli were
+paired with real words. In one condition, the
+prime word rhymed with the probe and differed
+from it only in the place of articulation of its initial segment. The prime words all began with
+labial segments (e.g. /b/ in buns) and the probe
+words all began with the corresponding velar
+segment (e.g. /g/ in guns). In a second condition
+a nonrhyming, semantically unrelated probe
+word was used. These unrelated probes were all
+items that served as related probes for other experimental prime stimuli.
+Procedure and design. Subjects were tested
+using the same procedures and equipment that
+were used in Experiment 1. There were four experimental conditions formed by crossing two
+types of assimilation contexts (appropriate and
+inappropriate) with two types of prime-probe
+relationships (rhyming and unrelated). The
+study had a between-subjects design necessitating the creation of four versions of the experiment. Each participant contributed equally to
+
+all four experimental conditions, and no stimuli
+were presented more than once to an individual
+subject.
+Results
+The data were prepared using the same procedures as in the previous form priming experiment (Experiment 1). These criteria led to the
+exclusion of the data of four participants who
+showed unacceptably low levels of performance and to the replacement of 5% of the data
+with cell means. The results are summarized in
+Table 4.
+The reaction time results show a pattern of
+negative priming reflecting inhibition in the invalid assimilation contexts, with no priming in
+the appropriate assimilation contexts. This is
+borne out in the significant interaction between
+phonological relatedness and assimilation context F1(1,31) = 6.1, p < .05; F2(1,31) = 5.0, p <
+.05. Planned contrasts break this interaction
+down, showing no priming in the appropriate assimilation contexts, t1(31) = 0.3, p > .05; t2(31) =
+0.2, p > .05, but significant negative priming in
+inappropriate assimilation contexts, t1(31) = 2.4,
+p < .05; t2(31) = 2.2, p < .05. Given the relatively
+short latencies associated with lexical decisions
+for phonologically unrelated probes in the inappropriate assimilation condition, an additional
+contrast was performed to determine if the appearance of negative priming in that condition
+was the result of a baseline anomaly. This contrast failed to support the hypothesis. It revealed
+TABLE 4
+Mean Reaction Times (in Milliseconds) for Lexical
+Decisions in Experiment 3
+Rhyming
+probe
+(GUNS)
+
+Unrelated
+probe
+(KEGS)
+
+Priming
+effect
+
+Inappropriate
+modification
+([t#bAnz)
+
+757 (.98)
+
+704 (.98)
+
+-53 (0)
+
+Appropriate
+modification
+([tm#bAnz])
+
+713 (.96)
+
+716 (.97)
+
+Prime
+type
+
+Note. Accuracy rates are shown in parentheses.
+
+-3 (-.01)
+
+ASSIMILATION AND ANTICIPATION
+
+no significant difference in response times for
+phonologically unrelated probes in contexts
+showing appropriate versus inappropriate modification, t1(31) = 1.1, p > .05; t2(31) = 1.1, p >
+.05. Analysis of the two main effects showed
+mixed significance in subject and item analyses.
+Collapsing across assimilation conditions, lexical decision responses to rhyming probes were
+slower than responses to unrelated probes:
+F1(1,31) = 4.72, p < .05; F2(1,31) = 1.76, p > .05.
+Similarly, responses to stimuli appearing in inappropriate assimilation contexts tended to be
+slower than responses to stimuli appearing in appropriate assimilation contexts, F1(1,31) = 2.1,
+p > .05; F2(1,31) = 3.9, p < .05. In both cases,
+these differences appear to be overwhelmingly
+attributable to the responses to the rhyming
+probes appearing in inappropriate assimilation
+contexts. Given the high levels of accuracy observed across all conditions, error analyses revealed no significant main effects or interactions.
+Discussion
+The results of Experiment 3 show that assimilation of one segment affects the interpretation
+of the next segment. Appropriate assimilation
+produces a different pattern of postmodification
+priming than does inappropriate assimilation. In
+Experiment 2, faster detection of appropriate
+postassimilation context and slower detection of
+inappropriate context may reflect differences in
+the processing load associated with hearing
+more or less natural sounding speech. However,
+the differential activation of competing lexical
+candidates found in Experiment 3 cannot be
+interpreted as a global processing load effect.
+Instead, the current results suggest that listeners
+use assimilation to anticipate context.
+The results are inconsistent with the regressive inference model. The regressive inference
+model may predict an increased processing load
+following instances of contextually inappropriate assimilation that might slow responses on
+the lexical decision task, but this effect is not
+observed. Moreover, the regressive inference account provides no mechanism for selectively inhibiting items that rhyme with the probe. This
+model cannot account for the fact that the contextually inappropriate assimilation conditions
+
+151
+
+produce priming, while the contextually appropriate assimilation conditions do not.
+While these results undermine the regressive
+inference account, they support the interpretation that listeners use the perception of assimilation to anticipate features of the subsequent
+prime word. A number of researchers have observed negative priming in primed lexical decision tasks (Dagenbach, Carr, & Barnhardt,
+1990; Dagenbacher, Carr, & Wilhelmson, 1989;
+Hoffman & McMillan, 1985; Holender, 1986;
+Marcel, 1980, 1983; Marslen-Wilson, 1990).
+Negative priming has been associated with several factors including competition with items
+with greater bottom-up support, weak perceptual encoding, or representation of prime items
+and the violation of expectation. All of these
+factors are present within the anticipation account of the data. The rhyme prime has lexical
+competitors that receive more bottom-up activation. While velar assimilation of a segment
+predicts that a velar will follow and should
+affect subsequent activation, actually hearing a
+labial segment should ultimately lead to greater
+activation. Thus, the more strongly activated
+labial candidate should inhibit the velar candidate. Finally, expectation is violated if a listener
+expects to hear a velar but ultimately hears a
+labial. In combination with the results of Experiment 2, the most parsimonious interpretation of these results is that negative priming is
+produced by the eventual suppression of the
+lexical item activated on the basis of the anticipated place of articulation of the initial segment
+of the prime word. This suppression reflects
+competition from the word that the listener
+actually hears.
+This interpretation is strengthened by the
+contrast in priming effects between the two assimilation context conditions. Listeners heard
+the same token of buns in the appropriate and
+inappropriate assimilation conditions. That negative priming was observed in one condition but
+not the other shows that lexical activation is affected by preceding phonological context. The
+resemblance between guns and buns is insufficient to produce the initial activation of guns
+without the additional effects of anticipation.
+This result is consistent with those of Marslen-
+
+152
+
+DAVID W. GOW, JR.
+
+Wilson (1993) and Marslen-Wilson, Moss, and
+van Halen (1996), who also failed to find positive priming using familiar words as rhyme
+primes given a 0-ms interstimulus interval.
+These authors suggest that rhyme priming depends on conditions conducive to strategic responding, as well the use of nonword primes
+or primes with phonetically ambiguous onsets
+yielding only one lexical interpretation. When
+listeners heard tokens of ten in which the final
+segment had undergone labial assimilation, they
+had no reason to anticipate that a velar segment
+would follow. The mismatch between guns and
+buns prevented guns from entering the cohort of
+lexical candidates. This blocked the activation
+of guns and removed it from the effects of competition with buns. Together, the results of Experiment 3 demonstrate that assimilation affects
+the pattern of activation produced by subsequent
+context.
+GENERAL DISCUSSION
+Three general approaches have been proposed to explain listeners' ability to recognize
+words that have undergone phonological modification through place assimilation. These approaches may be distinguished on the basis of
+their claims about listeners' sensitivity to the
+phonological plausibility of feature modification and the nature of the context-sensitivity of
+relevant processing mechanisms. The three experiments presented here provide evidence regarding these claims and suggest new directions
+in the modeling of these mechanisms.
+Underspecification, Mismatch Tolerance,
+and Overgeneration
+The underspecification approach to the recognition of assimilated wordforms advocated by
+Lahiri and Marslen-Wilson (1991) rests on two
+ideas. The first is that listeners maintain strict
+criteria for matching features extracted from the
+speech signal against features present in abstract
+phonological representations in the lexicon.
+This strictness provides an efficient means for
+activating the correct item in the lexicon and
+avoiding the activation of incorrect items. The
+second key idea is that unspecified feature val-
+
+ues provide for targeted tolerance to variations
+in mutable or noncontrastive features. In principle, the value of underspecification is that it
+allows listeners to tolerate phonologically plausible feature modification while showing strict
+matching criteria for features that are phonologically invariant and contrastive.
+The predictions of the underspecification account are clear. Lexical activation should be
+blocked by mismatches in specified features, but
+not by mismatches in putatively unspecified
+ones. The results of Experiment 1 indicate that
+listeners generally tolerate single-feature, wordfinal mismatch in the processing of continuous
+speech. This tolerance extends to mismatches in
+both theoretically unspecified features such as
+coronal place and fully specified features such
+as labial place. This result is not in accord with
+the predictions of the underspecification account. As evidence against underspecification it
+is consistent with other results that have been
+discussed here (Gow, submitted).
+The underspecification account provides an
+elegant solution to the problem of listeners activating too many inappropriate lexical items due
+to tolerance for feature mismatch. If we reject
+this account, we must examine alternative means
+to limit spurious lexical activation. I have already described the mechanism that listeners
+appear to use to deactivate contextually inappropriate interpretations of homophones after
+their initial activation (Onifer & Swinney,
+1981). Such a mechanism provides a potential
+last resort for limiting activation. Two other
+factors may provide a more immediate means
+for avoiding spurious lexical activation caused
+by tolerance to mismatch. The first is an apparent limit on this tolerance. A wide body of research demonstrates that listeners show little
+tolerance for featural mismatch in word-initial
+position in the recognition of words heard in
+fluent connected speech (Cole & Jakimik,
+1980; Gow & Gordon, 1995; Marslen-Wilson
+& Welsh, 1978; Marslen-Wilson & Zwitzerlood, 1989; Segui & Frauenfelder, 1986). Gow,
+Manuel, and Melvold (1996) note that this dependence on word onsets is consistent with a
+number of factors including temporal constraints
+
+ASSIMILATION AND ANTICIPATION
+
+on speech processing, articulatory and aerodynamic constraints that make onsets particularly
+robust and reliable sources of feature cues, and
+a strong tendency across human languages to
+insulate onsets against feature-modifying phonological processes. The other important factor is
+lexical competition. A number of studies show
+that the activation of one wordform may inhibit
+phonologically similar items (Bard & Shillcock, 1993; Goldinger et al., 1989, 1992; Gow,
+submitted; McQueen et al., 1994; Zwitserlood,
+1989). Furthermore, lexical competition has
+proven to be a useful mechanism in models
+of spoken word recognition including TRACE
+(McClelland & Elman, 1986) and Shortlist (Norris, 1994). The value of lexical competition is
+that it magnifies small differences in activation
+or matching. When only one item is activated
+and there are no close competitors, listeners
+may tolerate some minor mismatches between
+features recovered from the speech signal and
+features specified in representation of a word in
+the lexicon. However, when several similar candidates are activated, small differences in activation reflecting the fact that one stored item resembles the input slightly more than another
+does may be amplified through competition
+until one candidate's activation is clearly
+greater than the other's. While listeners show
+tolerance for mismatch in the absence of competitors, they show exacting matching criteria
+when competitors are present. This suggests
+that listeners' tolerance for mismatch is modulated by competition effects.
+Together, limited tolerance for word-final
+feature mismatch, lexical competition, and postlexical selection based on contextual constraints
+provide realistic mechanisms for limiting the
+activation of spurious lexical candidates. Given
+these factors, tolerance for featural mismatch
+appears to provide an appealing account for the
+recognition of assimilated words.
+Anticipation, Regressive Inference, and Feature
+Alignment
+The regressive inference account advanced by
+Gaskell and colleagues (Gaskell & MarslenWilson, 1996, 1998; Marslen-Wilson et al.,
+
+153
+
+1995) argues that postassimilation context influences the interpretation of assimilated segments
+through inference at the level of the segment.
+However, many of the context effects that have
+been attributed to regressive inference may, in
+fact, be the result of anticipatory processing.
+The results of Experiments 2 and 3 are consistent with the claim that listeners use assimilatory modification to anticipate following context, but inconsistent with the predictions of the
+regressive inference account.
+The results of Experiments 2 and 3 suggest
+that listeners use regressive place assimilation to
+anticipate the place of articulation of a subsequent segment and provide a potential counterexplanation of the results that motivate the regressive inference hypothesis. The regressive
+inference account is primarily motivated by a
+series of results showing that lexical processing
+is slowed or disrupted when modified word
+forms are followed by contexts that are inconsistent with their modification (Gaskell &
+Marslen-Wilson, 1996, 1998; Marslen-Wilson,
+Nix, & Gaskell, 1995). In each case, slowed or
+disrupted processing may instead be attributed
+to violation of anticipation produced by the deliberate, contextually inappropriate modification
+of underlying coronal place.
+It is not surprising that listeners use assimilation to anticipate upcoming context. If reliable evidence is available to accurately anticipate upcoming information, it is reasonable to
+suggest that this evidence may be used. English
+word-final coronal place assimilation provides
+just such a source of information, because
+when assimilation modifies place of articulation it typically does so in a manner that makes
+it articulatorily, acoustically and perceptually
+distinguishable from unmodified places of
+articulation (Barry, 1985; Gow & Hussami,
+1999; Holst & Nolan, 1995; Kerswill, 1985).
+Moreover, given the lawful nature of English
+coronal place assimilation, following context is
+always reflected in the modification it produces.
+A number of studies have shown that listeners
+use rhythmic or phonological information to
+anticipate input or predirect direct attentional
+resources in spoken word recognition (Gow
+
+154
+
+DAVID W. GOW, JR.
+
+& Gordon, 1993; Marslen-Wilson & Tyler,
+1980; Marslen-Wilson & Welsh, 1978; Nooteboom, 1981; Otake et al., 1996; Pitt & Samuel,
+1990; Shields, McHugh, & Martin, 1974). In
+short, anticipation appears to be a common
+processing strategy in spoken word recognition, offering processing advantages in many
+contexts.
+The ability of an anticipatory process to account for the results cited in support of regressive inference does not necessarily imply that
+regressive inference is uninvolved in the processing of assimilated speech. In principle, regressive inference may coexist with anticipatory processing. Gaskell et al. (1995) present a
+statistical model of word recognition that simultaneously relies on regressive and progressive contextual inference. However, the regressive processes hypothesized by Gaskell
+and colleagues (Gaskell & Marslen-Wilson,
+1996, 1998; Marslen-Wilson, Nix, & Gaskell,
+1995) do not account for the current evidence
+of anticipation. To the extent that a mechanism
+that accounts for anticipation can account for
+all relevant data, parsimony argues against a
+role for an independent regressive inference
+mechanism.
+The strongest evidence that regressive inference plays a role in the processing of assimilated
+speech that is independent of anticipation comes
+from a phoneme monitoring study reported by
+Gaskell and Marslen-Wilson (1998). In their first
+experiment, listeners monitored for word-final
+coronal segments in connected speech. The critical items contained segments that were underlyingly coronal but were deliberately pronounced
+as noncoronals in contextually appropriate versus inappropriate environments. Gaskell and
+Marslen-Wilson found that listeners were more
+likely to false alarm in contexts where the modification was consistent with contextually appropriate place assimilation. Thus, listeners hearing
+freight pronounced as [freIp] in the phrase freight
+bearer showed a strong tendency to report hearing a /t/. False alarm rates were significantly
+lower (though still unaccountably frequent)
+when the modification was contextually inappropriate as in the phrase [freIp] carrier. This effect
+interacted significantly with the lexicality of the
+
+underlying prime item.4 Gaskell and MarslenWilson suggest that listeners apply phonological
+inference prelexically to determine that the labial
+[p] in [freIp] is an underlyingly coronal segment
+that has taken the place of articulation of the
+following labial [b].
+This account is problematic. It appears to follow the simple rule that when a word-final noncoronal segment is followed by a segment with
+the same place of articulation, it should be reinterpreted as a coronal. A mechanism working on
+this principle would sometimes fail to recognize
+the appropriate word. For example, it would
+lead a listener hearing the phrase ripe berries to
+reinterpret the labial [p] as a coronal /t/. This
+would lead the listener to reject ripe and access
+right. As Gow (submitted) demonstrates, this is
+not what listeners do. Listeners access ripe, not
+right, when they hear the phrase ripe berries.
+The regressive inference hypothesis fails to account for this result.
+If the anticipatory processing account is applied to these data some insight into the nature of
+the anticipatory mechanism may be gained.
+Lahiri and Marslen-Wilson (1991) note that in
+order to recognize a segment, listeners must correctly map feature cues onto features and align
+these features into timing slots. Feature alignment is a basic problem in speech processing.
+Even in unmodified speech, cues signaling the
+features associated with a single segment do not
+occur simultaneously. They are distributed in
+time and may show overlap with cues associated
+with surrounding segments (Stevens, 1998a).
+4
+Gaskell and Marslen-Wilson (1998) argue that the observed false alarms are due to prelexical inference. The primary evidence for this conclusion is the observation of significant contextual appropriateness effects on false alarming to
+nonword items. While this contextual effect is significant, it is
+also significantly smaller than it is when a real word is used.
+Lexical effects may take place in the perception of nonwords
+through a conspiracy effect when there is close correspondence with partially activated known words. Gaskell and
+Marslen-Wilson attempted to avoid this effect by altering the
+first segment of a real word to create each nonword. However,
+all of the nonword items are monosyllabic and most have
+neighbors ending in the target segment but differing in vowel
+quality. Furthermore, the presentation of a small number of
+nonwords in the context of a much larger body of real words
+may induce a tendency to treat all items as likely real words.
+
+ASSIMILATION AND ANTICIPATION
+
+Lahiri and Marslen-Wilson suggest that when listeners detect a feature they have a three-segment
+range over which the feature may be aligned.
+Consistent with the views of Lahiri and MarslenWilson, I suggest that anticipation is achieved by
+associating a feature detected during the course
+of one segment with a subsequent segment.
+The same process of associating a feature
+with a segment may also account for Gaskell
+and Marslen-Wilson's (1998) phoneme monitoring result. Consider a listener hearing the
+phrase [freIp] bearer in that study. The word
+freight should be accessed because it provides
+the closest featural match to [freIp]. Several
+studies employing mispronunciation monitoring
+and shadowing suggest that single-feature mismatch may be unnoticed by listeners hearing
+connected speech once a single candidate has
+been identified (Cole, 1973; Cole & Jakimik,
+1978; Marslen-Wilson & Welsh, 1978). If so,
+detecting labiality at the end of [frep] should
+not prevent the recognition of freight. However,
+having detected labiality, the listener must associate it with a segment. It cannot be associated
+with the coronal /t/ in freight, but it can be associated with the subsequent /b/ in bearer. As long
+as the labiality can be associated with some segment, there is no processing disruption. Conversely, if [freIp] is followed by a velar as in
+[freIp] carrier, this labiality cannot be associated with the next segment. When this association is disrupted, the labiality can only be associated with the final segment of [freIp], reducing
+the activation of freight and leaving the listener
+with no basis for falsely detecting a /t/. In this
+way, the feature alignment hypothesis can account for a regressive context effect using the
+mechanism that accounts for anticipation.
+The feature alignment approach potentially
+accounts for all of the existing evidence for context sensitivity in the recognition of assimilated
+speech (Gaskell & Marslen-Wilson, 1996, 1998;
+Marslen-Wilson et al., 1995). Conversely, the regressive inference account fails to account for
+the evidence of anticipatory processing provided
+by Experiments 2 and 3. The regressive inference approach might be extended to account for
+anticipation effects. However, any such elaboration would be subject to the same limits that un-
+
+155
+
+dermine the current regressive model. Both regressive and progressive inference operating at
+the segmental level must address the fact that
+there is not a unique solution to the inverse problem posed by potential assimilation. Surface
+noncoronality may reflect either the underlying
+place of articulation of a feature or the assimilated place of a subsequent feature. Just as listeners hearing the phrase rum drink should not
+make the regressive inference that the intended
+phrase was run drink, they should avoid the progressive inference that the intended phrase was
+run brink. The feature alignment hypothesis addresses this problem by suggesting that assimilation typically poses a unique inverse problem
+that can be resolved at the level of the mapping
+between features and segments under the conditions imposed by natural language use.
+The current results are inconsistent with both
+underspecification and regressive inference.
+More generally, they suggest that listeners do
+not rely on specialized processes that uniquely
+address the specific computational problems
+posed by the process of English place assimilation. Instead, listeners appear to depend on the
+conventional inventory of word-recognition
+mechanisms, including the early activation of
+lexical entries, lexical competition, feature
+alignment, and the heavy reliance on the rich information provided by the speech signal.
+This last item in the inventory bears some
+discussion. The current results demonstrate that
+listeners use assimilatory modification to anticipate subsequent context. This implies that
+place assimilated segments encode the place of
+subsequent segments. At the same time, the results of Gow (submitted) demonstrate that listeners rely on subtle acoustic distinctions to recover the underlying place of even strongly
+assimilated segments when there is potential
+lexical ambiguity. This suggests that assimilated segments may simultaneously encode two
+places of articulation: the underlying place of
+the current segment and the place of the subsequent segment. Further research is necessary to
+explore this possibility. If it proves to be true,
+this suggests that phonological modification is a
+perceptually enriching process rather than a
+perceptually destructive one.
+
+156
+
+DAVID W. GOW, JR.
+
+APPENDIX A
+Experimental Sentences Used in Experiment 1
+In sentences 1-28 the bold-faced /n/ undergoes labial
+assimilation to approximate the sound of [m]. In sentences
+29-56 nonassimilatory modification is produced by deliberately mispronouncing the bold-faced /m/'s as [n]'s. In each
+case, the canonical form of the modified word served as the
+phonologically related lexical decision probe.
+(1) There's a green part that seems to be missing.
+(2) They're trying to ban pro hunters from the state.
+(3) You should be able to make dinner with just one pan
+that size.
+(4) They left nine pits on the shelf.
+(5) They're going to loan pegs they found to the museum.
+(6) It gave the man pause to remember the situation.
+(7) The two assembled a fine plan over the years.
+(8) We found an old torn pouch by the side of the road.
+(9) I need to get down pots for the big event.
+(10) The new laws will mean pork will be harder to get.
+(11) To stay warm they had to burn poles they gathered
+from the abandoned site.
+(12) That darn pub makes a lot of noise at night.
+(13) It only has that thin peel to shield it.
+(14) They let the warm rain pool in ruts in the icy surface.
+(15) There was an old brown pea behind the stove.
+(16) These things sometimes strain plays until they just
+disintegrate.
+(17) The researchers are starting to plan brain studies to
+address the issue.
+(18) They found ten buns in the kitchen.
+(19) The operator accidentally let the crane bash the side
+of the house.
+(20) They watched that enormous old pine bow in the
+heavy wind.
+(21) She had always wanted to own boats like those.
+(22) She had some fun beer on hand for her friends.
+(23) He worked hard to make the horn blow like that.
+(24) The court had the queen bet everything she had.
+(25) He was keenly aware of the pain boasts like that can
+cause.
+(26) I like the way the clown blared at the camera in the
+climactic scene.
+(27) The specimen had a plain bill structure that's characteristic of the species.
+(28) The props department warned us not to lean blue
+sticks against the wet paint.
+(29) She tries to blame drugs for all of her woes.
+(30) The first bloom dies off with a late frost.
+(31) A few shakes of the broom drive the rats away.
+(32) I forgot to ask what his chum does for work.
+(33) The cultists claim dark forces are at play.
+(34) Its basic theme deals with the loss of love.
+(35) The extra cream drips over the top of bowl.
+(36) The chime draws your focus to the clock.
+(37) The coverage of the terrible crime drew the wrath of
+the critics.
+
+(38) He will have his crew come dig a hole for the well.
+(39) The huge frame dwarfs the rest of the pieces.
+(40) They let the flame dry the pots.
+(41) It was a pretty glum day at the factory.
+(42) He treats the bug with a three-gram dose of the stuff.
+(43) He usually has a ham dish for Easter.
+(44) She bought him doves for the act.
+(45) The tram door was stuck.
+(46) She saw a plum drop off a tree.
+(47) His latest poem dives through various styles.
+(48) Its quite easy to prime deep wells with the right
+set-up.
+(49) The force of the stream drags boats over the falls.
+(50) The spill left a slime depth of over two feet at a few
+places.
+(51) They set up a lattice of steam ducts to heat the offices.
+(52) They will issue a press release to try to stem doubts
+by the voters.
+(53) His usual swim drifts past the beach across the bay.
+(54) They have tame ducks that live by their garage.
+(55) She chose a trim dress jacket to wear to the show.
+(56) I hear the groom drove here last week.
+
+APPENDIX B
+Experimental Sentences Used in
+Experiments 2 and 3
+Double slashes mark the location of splices, underlining
+indicates the target phoneme employed in the monitoring
+task in Experiment 2, and parentheses indicate the rhyming
+lexical decision probe presented in Experiment 3. In the
+three versions of each sentence used, the bold-faced letter
+approximates [m] in the appropriate assimilation condition, [] in the inappropriate assimilation condition, and
+[n] in the no assimilation condition. Stimuli from the no
+assimilation condition were used in Experiment 2, but not
+in Experiment 3.
+(1) There's a green // part that seems to be missing.
+(CART)
+(2) They're trying to ban // pro hunters from the state.
+(CROW)
+(3) You should be able to make dinner with just one //pan
+that size. (CAN)
+(4) They left nine //pits on the shelf. (KITS)
+(5) They're going to loan // pegs they found to the museum. (KEGS)
+(6) It gave the man // pause to remember the situation.
+(CAUSE)
+(7) The two assembled a fine // plan over the years.
+(CLAN)
+(8) We found an old torn // pouch by the side of the road.
+(COUCH)
+(9) I need to get down // pots for the big event. (COTS)
+(10) The new laws will mean // pork will be harder to get.
+(CORK)
+(11) To stay warm they had to burn // poles they gathered
+from the abandoned site. (COALS)
+
+ASSIMILATION AND ANTICIPATION
+(12) That darn // pub makes a lot of noise at night. (CUB)
+(13) It only has that thin // peel to shield it. (KEEL)
+(14) They let the warm rain // pool in ruts in the icy
+surface. (COOL)
+(15) There was an old brown // pea behind the stove.
+(KEY)
+(16) These things sometimes strain // plays until they just
+disintegrate. (CLAYS)
+(17) The researchers are starting to plan // brain studies
+to address the issue. (GRAIN)
+(18) They found ten // buns in the kitchen. (GUNS)
+(19) The operator accidentally let the crane // bash the
+side of the house. (GASH)
+(20) They watched that enormous old pine // bow in the
+heavy wind. (GO)
+(21) She had always wanted to own // boats like those.
+(GOATS)
+(22) She had some fun // beer on hand for her friends.
+(GEAR)
+(23) He worked hard to make the horn // blow like that.
+(GLOW)
+(24) The court had the queen // bet everything she had.
+(GET)
+(25) He was keenly aware of the pain // boasts like that
+can cause. (GHOSTS)
+(26) I like the way the clown // blared at the camera in the
+climactic scene. (GLARED)
+(27) The specimen had a plain // bill structure that's characteristic of the species. (GILL)
+(28) It was clearly a time when // brave decisions had to
+be made. (GRAVE)
+(29) They're trying to train // bold investors to analyze
+other mineral markets. (GOLD)
+(30) These patients are more interesting than // bland
+cases like we see at the clinic. (GLAND)
+(31) The props department warned us not to lean // blue
+sticks against the wet paint. (GLUE)
+(32) It's her policy to shun // buys that her friends are interested in. (GUYS)
+
+REFERENCES
+Anderson, J. R. (1978). Arguments concerning representations for mental imagery. Psychological Review, 85,
+249-277.
+Archangeli, D. (1988). Aspects of underspecification theory.
+Phonology, 5, 183-207.
+Bard, E. G., & Shillcock, R. (1993). Competitor effects during lexical access: Chasing Zipf's tail. In G. T. M. Altmann, & R. Shillcock (Eds.), Cognitive models of
+speech processing: The second Sperlonga meeting (pp.
+235-275), Hillsdale, NJ: Erlbaum.
+Barry, M. C. (1985). A palatographic study of connected
+speech processes. Cambridge Papers in Phonetics and
+Experimental Linguistics, 4, 1-16.
+Beckman, J. N. (1997, May). Positional faithfulness.
+Paper presented at Johns Hopkins Optimality Theory
+Workshop/University of Maryland Mayfest, Baltimore, MD.
+
+157
+
+Brown, C. M. (1990). Spoken word processing in context.
+Doctoral dissertation. University of Nijmegen, Nijmegen.
+Cohen, J. D., MacWhinney B., Flatt, M., & Provost, J.
+(1993). PsyScope: A new graphic interactive environment for designing psychology experiments. Behavioral Research Methods, Instruments, and Computers,
+25, 257-271.
+Cole, R. (1973). Listening for mispronunciations: A measure of what we hear during speech. Perception & Psychophysics, 1, 153-156.
+Cole, R., & Jakimik, J. (1978). Understanding speech: How
+words are heard. In G. Underwood (Ed.), Strategies of
+information processing (pp. 67-116). New York: Academic Press.
+Cole, R., & Jakimik, J. (1980). A model of speech perception. In R. Cole (Ed.), Perception and production of fluent speech (pp. 133-163), Hillsdale, NJ: Erlbaum.
+Connine, C. M., Blasko, D. G., & Titone, D. (1993). Do the
+beginnings of words have a special status in auditory
+word recognition? Journal of Memory and Language,
+56, 624-636.
+Dagenbach, D., Carr, T. H., & Barnhardt, T. M. (1990). Inhibitory semantic priming of lexical decisions due to
+failure to retrieve weakly activated codes. Journal of
+Experimental Psychology: Learning, Memory, and
+Cognition, 16, 328-340.
+Dagenbach, D., Carr, T. H., & Wilhelmson, A. (1989). Taskinduced strategies and near-threshold priming: Conscious influences on unconscious perception. Journal
+of Memory and Language, 28, 412-443.
+Francis, W. N., & Kucera, H. (1982). Frequency analysis of
+English usage. Boston, MA: Houghton Mifflin.
+Gaskell, M. G. (1994). Spoken word recognition: A combined
+computational and experimental approach. Unpublished Ph.D. dissertation, Birkbeck College, University
+of London.
+Gaskell, M. G., Hare, M., & Marslen-Wilson, W. D. (1995).
+A connectionist model of phonological representation in speech perception. Cognitive Science, 19,
+407-439.
+Gaskell, M. G., & Marslen-Wilson, W. D. (1994). Inference
+processes in speech perception. In A. Ram, & K. Eiselt
+(Eds.), Proceedings of the 16th annual conference of
+the Cognitive Science Society. Hillsdale, NJ: Erlbaum.
+Gaskell, M. G., & Marslen-Wilson, W. D. (1996). Phonological variation and inference in lexical access. Journal of
+Experimental Psychology: Human Perception and Performance, 22, 144-158.
+Gaskell, M. G., & Marslen-Wilson, W. D. (1998). Mechanisms of phonological inference in speech perception.
+Journal of Experimental Psychology: Human Perception and Performance, 24, 380-396.
+Goldinger, S. D., Luce, P. A., & Pisoni, D. B. (1989). Priming lexical neighbors of spoken words: Effects of competition and inhibition. Journal of Memory and Language, 28, 501-518.
+Goldinger, S. D., Luce, P. A., Pisoni, D. B., & Marcario, J. K.
+(1992). Form-based priming in spoken word recognition: The role of competition and bias. Journal of
+
+158
+
+DAVID W. GOW, JR.
+
+Experimental Psychology: Learning, Memory and
+Cognition, 18, 1211-1238.
+Gow, D. W. (2001). Does English coronal place assimilation
+create lexical ambiguity? Manuscript submitted for
+publication.
+Gow, D. W., & Gordon, P. C. (1993). Coming to terms with
+stress: Effects of stress location in sentence processing.
+Journal of Psycholinguistic Research, 22, 545-578.
+Gow, D. W., & Gordon, P. C. (1995). Lexical and prelexical
+influences on word segmentation: Evidence from priming. Journal of Experimental Psychology: Human Perception and Performance, 21, 344-359.
+Gow, D. W., & Hussami, P. (1999, November). Acoustic
+modification in English place assimilation. Paper presented at the meeting of the Acoustical Society of
+America, Columbus, OH.
+Gow, D. W., Manuel, S., & Melvold, J. (1996, October).
+How word onsets drive lexical access and segmentation: Evidence from acoustics, phonology and processing. Paper presented at the Fourth International
+Conference on Spoken Language Processing,
+Philadelphia.
+Hamburger, M., & Slowiaczek, L. M. (1996). Phonological
+priming reflects lexical competition. Psychonomic Bulletin and Review, 3, 520-525.
+Hamburger, M., & Slowiaczek, L. M. (1999). On the role of
+bias in dissociated priming effects: A reply to Goldinger
+(1999). Psychonomic Bulletin and Review, 6, 352-355.
+Hoffman, J. E., & McMillan, F. W. (1985). Is semantic priming automatic? In M. I. Posner, & O. S. M. Marin
+(Eds.), Attention and performance XI (pp. 585-599),
+Hillsdale, NJ: Erlbaum.
+Holender, D. (1986). Semantic activation without conscious
+identification in dichotic listening, parafoveal vision,
+and visual masking: A survey and appraisal. The Brain
+and Behavioral Sciences, 9, 1-23.
+Holst, T., & Nolan, F. (1995). The influence of syntactic
+structure on [s] to [] assimilation. In B. Connell, & A.
+Arvanti (Eds.), Phonology and phonetic evidence: Papers in laboratory phonology IV. (pp. 315-333). Cambridge, UK: Cambridge University Press.
+Kerswill, P. E. (1985). A sociophonetic study of connected
+speech processes in Cambridge English: An outline and
+some results. Cambridge Papers in Phonetics and Experimental Linguistics, 4, 1-39.
+Kiparsky, P. (1985). Some consequences of lexical phonology. Phonology Yearbook, 2, 85-137.
+Kuijpers, C., Donselaar, W., & Cutler, A. (1996, October).
+Phonological variation: Epenthesis and deletion of
+schwa in Dutch. Paper presented at the Fourth International Conference on Spoken Language Processing,
+Philadelphia.
+Lahiri, A., & Marslen-Wion, W. D. (1991). The mental
+representation of lexical form: A phonological approach to the recognition lexicon. Cognition, 38,
+245-294.
+Marcel, A. J. (1980). Conscious and preconscious recognition of polysemous words: Locating the selective effects of prior verbal context. In R. S. Nickerson (Ed.),
+
+Attention and performance VII (pp. 435-457), Hillsdale, NJ: Erlbaum.
+Marslen-Wilson, W. D. (1987). Functional parallelism in
+spoken word recognition. Cognition, 25, 71-102.
+Marslen-Wilson, W. D. (1993). Issues of process and representation. In G. T. M. Altmann, & R. Shillcock (Eds.),
+Cognitive models of speech processing: Psycholinguistic and computational perspectives (pp. 187-210).
+Cambridge, MA: MIT Press.
+Marslen-Wilson, W. D., Moss, H., & van Halen, S. (1996).
+Perceptual distance and competition in lexical access.
+Journal of Experimental Psychology: Human Perception and Performance, 22, 1376-1392.
+Marslen-Wilson, W. D., Nix, A., & Gaskell, M. G. (1995).
+Phonological variation in lexical access: Abstractness,
+inference and English place assimilation. Language
+and Cognitive Processes, 10, 285-308.
+Marslen-Wilson, W., & Tyler, L. K. (1980). The temporal
+structure of spoken language understanding. Cognition,
+8, 1-71.
+Marslen-Wilson, W., & Welsh, A. (1978). Processing interactions and lexical access during word recognition
+in continuous speech. Cognitive Psychology, 10,
+29-63.
+Marslen-Wilson. W., & Zwitserlood, P. (1989). Accessing
+spoken words: The importance of word onsets. Journal
+of Experimental Psychology: Human Perception and
+Performance, 15, 576-585.
+McClelland, J., & Elman, J. (1986). The TRACE model of
+speech perception. Cognitive Psychology, 18, 1-86.
+McQueen, J. M., Norris, D., & Cutler, A. (1994). Competition in spoken word recognition: Spotting words in
+other words. Journal of Experimental Psychology, 20,
+621-638.
+Nolan, F. (1992). The descriptive role of segments: Evidence from assimilation. In G. J. Doherty, & D. R.
+Ladd (Eds.), Papers in laboratory phonology II: Gesture, segment, prosody.(pp. 261-280), Cambridge, UK:
+Cambridge University Press.
+Nooteboom, S. G. (1981). Lexical retrieval from fragments
+of spoken words: Beginnings vs endings. Journal of
+Phonetics, 9, 407-424.
+Onifer, W., & Swinney, D. A. (1981). Accessing lexical ambiguities during sentence comprehension: Effects of
+frequency of meaning and contextual bias. Memory &
+Cognition, 9, 225-236.
+Otake, T., Yoneyama, K., Cutler, A., & Lugt, A. (1996). The
+representation of Japanese moraic nasals. Journal of
+the Acoustical Society of America, 100, 3831-3842.
+Pulleyblank, D. (1988). Vocalic underspecification in
+Yoruba. Linguistic Inquiry, 19, 233-270.
+Pulman, S. G., & Hepple, M. R. (1993). A feature based
+formalism for two-level phonology: A description and
+implementation. Computer Speech and Language, 7,
+333-358.
+Radeau, M., Morais, J., & Segui, J. (1995). Phonological
+priming between monosyllabic spoken words. Journal
+of Experimental Psychology: Human Perception and
+Performance, 21, 1297-1311.
+
+ASSIMILATION AND ANTICIPATION
+Segui, J., & Frauenfelder, U. (1986). The effect of lexical
+constraints on speech perception. In F. Klix, & H. Hagendorf (Eds.), Human memory and cognitive abilities:
+Mechanisms and performance (pp. 795-808), Amsterdam: North-Holland.
+Shields, J. L., McHugh, A., & Martin, J. G. (1974). Reaction
+time to phoneme targets as a function of rhythmic cues
+in continuous speech. Journal of Experimental Psychology, 102, 250-255.
+Slowiaczek, L. M., & Hamburger, M. (1992). Prelexical facilitation and lexical inhibition in auditory word recognition. Journal of Experimental Psychology: Learning,
+Memory and Cognition, 18, 1239-1250.
+Slowiaczek, L. M., Nusbaum, H. C., & Pisoni, D. B. (1987).
+Phonological priming in auditory word recognition.
+Journal of Experimental Psychology: Learning, Memory
+and Cognition, 13, 64-75.
+Slowiaczek, L. M., & Pisoni, D. B. (1986). Effects of
+phonological similarity on priming in auditory lexical
+decision. Memory & Cognition, 14, 230-237.
+
+159
+
+Stevens, K. (1998a, July). Overview of landmark-feature
+based system for lexical access: Feature representation
+and acoustic correlates. Paper presented at the Konstanz Speech Recognition- Man and Machine Workshop, Schloss Freudental, Konstanz,
+Stevens, K. (1998b). Acoustic phonetics. Cambridge, MA:
+MIT Press.
+Zwitserlood, P. (1989). The locus of effects of sententialsemantic context in spoken-word processing. Cognition,
+32, 25-64.
+Zwitserlood, P. (1996). Form priming. Language and Cognitive Processes, 11, 589-596.
+Zwitserlood, P., & Coenen, E. (2000, June). Consequences
+of assimilation for word recognition and lexical representation. Paper presented at the SWAP workshop,
+Nijmegen.
+(Received May 25, 2000)
+(Revision received September 18, 2000)
+(Published online April 12, 2001)
+
+
