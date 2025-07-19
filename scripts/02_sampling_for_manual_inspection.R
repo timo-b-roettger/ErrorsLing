@@ -18,8 +18,8 @@
 
 ## load in data from location of script 
 ## (uncomment if you run script outside of sourcing it through manuscript.qmd)
-#current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-#setwd(current_working_dir)
+# current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+# setwd(current_working_dir)
 
 ## load in data
 xdata <- read_csv("../data/statcheck_revised_sample.csv")
@@ -37,20 +37,20 @@ xdata <- xdata |>
   filter(! (journal == "LCN" & year < 2015))
 
 # wrangle for sampling
-xdata <- xdata |> 
+xdata_de <- xdata |> 
   filter(decision_error == TRUE)
 
 # check distribution
-table(xdata$journal, xdata$year)
+table(xdata_de$journal, xdata_de$year)
 
 # many journals have gaps, so we only sample across years
 
 # take into account comparison sign. Decision errors with = are more difficult to interprete
-table(xdata$p_comp)
-table(xdata$p_comp, xdata$year)
+table(xdata_de$p_comp)
+table(xdata_de$p_comp, xdata_de$year)
 
 # should focus only on comparisons that are not equal
-xdata_without_equal <- xdata |> 
+xdata_without_equal <- xdata_de |> 
   filter(p_comp != "=")
 
 # randomly sample x% of decision inconsistencies
@@ -58,10 +58,10 @@ xdata_without_equal <- xdata |>
 # evenly across years
 
 sample_prop = 0.15
-sample_size = nrow(xdata) * sample_prop
+sample_size = nrow(xdata_de) * sample_prop
 # 216
 sample_size_per_year = sample_size / length(unique(xdata$year))
-# desired sample per year 9
+# desired sample per year ~9
   
 # set random seed
 set.seed(9191)
@@ -74,7 +74,7 @@ xdata_sample <- xdata_without_equal |>
 # check if possible
 table(xdata_sample$year)
 
-# except for 2021, yes
+# except for 2004 & 2021, yes
 
 # second create subset with the desired tests per year
 xdata_sample <- xdata_sample |> 
@@ -90,14 +90,15 @@ duplicated(xdata_sample$source)
 table(xdata_sample$year)
 
 # save list
-write_csv(xdata_sample, "../data/subsample/subsample.csv")
-
-# save simpler list for manual work
-xdata_sample |> 
-  select(source, p_comp, computed_p, raw, one_tailed_in_txt) |> 
-  mutate(sentence = "copy paste sentence",
-         comment = "add comments") |> 
-  write_csv("../data/subsample/subsample_for_manual_annotation.csv")
+# write_csv(xdata_sample, "../data/subsample/subsample.csv")
+# 
+# # save simpler list for manual work
+# xdata_sample |> 
+#   select(source, p_comp, computed_p, raw, one_tailed_in_txt) |> 
+#   mutate(sentence = "copy paste sentence",
+#          testing_what = "specify what type of test (test on assumptions, main effect, interaction)",
+#          comment = "add comments") |> 
+#   write_csv("../data/subsample/subsample_for_manual_annotation.csv")
 
 # extract files and store them into folder
 # folder from which to extract
