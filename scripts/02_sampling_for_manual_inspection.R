@@ -9,8 +9,8 @@
 
 # load in relevant libraries, install if not installed
 # if (!require("pacman")) install.packages("pacman")
-# pacman::p_load(rstudioapi, 
-#                tidyverse, 
+# pacman::p_load(rstudioapi,
+#                tidyverse,
 #                ggpubr
 # )
 
@@ -18,8 +18,8 @@
 
 ## load in data from location of script 
 ## (uncomment if you run script outside of sourcing it through manuscript.qmd)
-# current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-# setwd(current_working_dir)
+#current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+#setwd(current_working_dir)
 
 ## load in data
 xdata <- read_csv("../data/statcheck_revised_sample.csv")
@@ -93,12 +93,12 @@ table(xdata_sample$year)
 # write_csv(xdata_sample, "../data/subsample/subsample.csv")
 # 
 # # save simpler list for manual work
-# xdata_sample |> 
-#   select(source, p_comp, computed_p, raw, one_tailed_in_txt) |> 
-#   mutate(sentence = "copy paste sentence",
-#          testing_what = "specify what type of test (test on assumptions, main effect, interaction)",
-#          comment = "add comments") |> 
-#   write_csv("../data/subsample/subsample_for_manual_annotation.csv")
+xdata_sample |>
+  select(source, p_comp, computed_p, raw, one_tailed_in_txt) |>
+  mutate(sentence = "copy paste sentence",
+         reported_as = "significant/not significant/unclear",
+         comment = "add comments") |>
+  write_csv("../data/subsample/subsample_for_manual_annotation.csv")
 
 # extract files and store them into folder
 # folder from which to extract
