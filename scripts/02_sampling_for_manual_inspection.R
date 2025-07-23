@@ -8,18 +8,18 @@
 ## packages ####################################################################                        
 
 # load in relevant libraries, install if not installed
-# if (!require("pacman")) install.packages("pacman")
-# pacman::p_load(rstudioapi,
-#                tidyverse,
-#                ggpubr
-# )
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(rstudioapi,
+               tidyverse,
+               ggpubr
+)
 
 ## data ########################################################################                        
 
 ## load in data from location of script 
 ## (uncomment if you run script outside of sourcing it through manuscript.qmd)
-#current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
-#setwd(current_working_dir)
+current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+setwd(current_working_dir)
 
 ## load in data
 xdata <- read_csv("../data/statcheck_revised_sample.csv")
