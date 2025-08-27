@@ -1,0 +1,2793 @@
+Applied Psycholinguistics 34 (2013), 233-276
+doi:10.1017/S0142716411000683
+
+The on-line processing of
+unaccusativity in Greek agrammatism
+ELENI PERISTERI and IANTHI-MARIA TSIMPLI
+Aristotle University of Thesaloniki
+KYRANA TSAPKINI
+John Hopkins University
+Received: September 25, 2009
+
+Accepted for publication: March 7, 2011
+
+ADDRESS FOR CORRESPONDENCE
+Eleni Peristeri, Aristotle University of Thesaloniki, School of English, Ethnikis Aminis, P. C. 54 124,
+Office 308A, Thessaloniki, Greece. E-mail: eperiste@enl.auth.gr
+ABSTRACT
+We investigated the on-line processing of unaccusative and unergative sentences in a group of eight
+Greek-speaking individuals diagnosed with Broca aphasia and a group of language-unimpaired subjects
+used as the baseline. The processing of unaccusativity refers to the reactivation of the postverbal trace
+by retrieving the mnemonic representation of the verb's syntactically defined antecedent provided in the
+early part of the sentence. Our results demonstrate that the Broca group showed selective reactivation
+of the antecedent for the unaccusatives. We consider several interpretations for our data, including explanations focusing on the transitivization properties of nonactive and active voice-alternating
+unaccusatives, the costly procedure claimed to underlie the parsing of active nonvoice-alternating
+unaccusatives, and the animacy of the antecedent modulating the syntactic choices of the patients.
+
+Much previous research on sentence comprehension in aphasia has shown that
+agrammatic individuals with aphasia have difficulty understanding sentences with
+movement. In particular, they have difficulty understanding sentences in which
+arguments do not appear in their canonical order, as in the unaccusative structure
+in (1):
+(1) The ice-creami meltedi
+
+The unaccusativity hypothesis claims that there is a trace in the syntactic representation of the sentence, occupying the postverbal position, which is ultimately
+co-indexed with the "ice-cream," thus leading to a noncanonical interpretation of
+the sentence (i.e., the theme moves to a syntactic subject position typically occupied by an agent; Perlmutter, 1978). In comprehending unaccusative sentences,
+it is the language processor's task to identify the gap or trace associated with
+the moved object and resolve the movement relationship, which is also called
+(c) Cambridge University Press 2011 0142-7164/11 $15.00
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+234
+
+filler-gap dependency (Burzio, 1986; Friedmann, Taranto, Shapiro, & Swinney,
+2008; Perlmutter, 1978).
+The sentence processing experiments have typically used different sentence
+types as a means to examine underlying operations in agrammatic processing
+(Grodzinsky, 1990; Grodzinsky, 1995; Grodzinsky, Pinango, Zurif, & Drai, 1999;
+Hagiwara, 1993; Swinney, Zurif, Prather, & Love, 1996; Zurif, Swinney, Prather,
+Solomon, & Bushell, 1993). The common goal has been to illuminate processes
+underlying language-unimpaired comprehension and how these go awry in aphasia. The outcome of the overwhelming majority of these studies was that their
+subjects with Broca aphasia do not reliably understand sentences with displaced
+determiner phrases (DPs), or perhaps more generally, sentences that require the
+computation of (especially, long-distance) dependencies.
+Even though the effect of filler-gap dependencies on on-line sentence interpretation has attracted a growing amount of interest within the aphasiological
+community over recent years, there have been relatively a few studies which have
+specifically examined the real-time operations relevant to the gap-filling process
+in aphasia (Blumstein et al., 1998; Burkhardt, Pinango, & Wong, 2003; Love,
+Swinney, & Zurif, 2001; Swinney et al., 1996; Zurif et al., 1993). Up to now,
+one of the methods which have been extensively used to examine the real-time
+processing of sentences with movement in aphasia is lexical priming. In the crossmodal lexical priming (CMLP) task, subjects listen to a sentence and make a lexical
+decision about a word presented visually at a position in the ongoing sentence.
+The CMLP technique is based on the idea that the speed of access to a word
+during sentence processing is affected by semantic priming; an item, or crucially
+a reactivated item at the position of its trace, primes a semantically related word,
+such that the reaction times (RTs) to a visually presented word that is related to a
+word in the sentence will be shorter relative to a visually presented word that is
+unrelated to the words of the sentence. There have been a number of experimental
+investigations with unimpaired populations that have come to support the view that
+the linkage between an antecedent filler and a gap is one that is made immediately
+upon discovery of the "gap" site (e.g., Love & Swinney, 1996; Nagel, Shapiro, &
+Nawy, 1994; Swinney, Ford, Frauenfelder, & Bresnan, 1987).
+The studies which have examined the on-line processing of sentences with
+movement in aphasia by employing the CMLP technique yielded interesting but
+conflicting results. In their study, Zurif et al. (1993) have investigated Broca
+and Wernicke patients' ability to form in real-time intrasentential dependency
+relations in subject-relative clauses by testing for priming for the relative pronoun
+at the position of the trace (i.e., after the pronoun) and at a position before the trace
+(pregap site). According to the findings, the neurologically intact and the Wernicke
+aphasic subjects showed priming (i.e., relative facilitation in lexical decision for
+words related to the antecedents) at gap sites but not at pregap sites. By contrast,
+the Broca patients did not show priming at either position. Swinney and colleagues
+(1987; following up similar results from Zurif et al., 1993) had examined Broca
+and Wernicke aphasic individuals' performance in a CMLP priming task with
+object relative clauses. For participants with Wernicke aphasia, Swinney et al.
+(1996) found evidence of reactivation at the trace site, such that there was reliable
+priming of words related to the head DP after the verb but not before. In contrast,
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+235
+
+they found that participants with Broca aphasia showed no reliable priming in
+either position. Both studies' similar findings were accounted for in terms of an
+overall slowed processing account of aphasic comprehension preventing the Broca
+patients either from locating the antecedent in time or from accessing momentarily
+all of the possible argument structure configurations within a verb's lexical entry.
+A later study from Blumstein and colleagues (1998) essentially contradicted
+the Swinney-Zurif (Swinney et al., 1996; Zurif et al., 1993) results. Blumstein
+and colleagues repeated the Swinney et al. (1996) studyusing purely auditory
+materials (i.e., the target word was presented in the voice of a speaker of the
+opposite sex from the speaker of the sentence). An additional difference from the
+Swinney-Zurif studies is that probe words were presented at only one position
+(the site where the gap was licensed) and both relative clauses and wh-questions
+were used. Blumstein et al. found priming for words semantically related to the
+antecedent of a trace for Broca aphasic and elderly groups, but no priming for
+words separated from a prime by an equal number of syllables in control sentences
+without traces. Moreover, there was no evidence in favor of a priming effect at
+the trace site for Wernicke aphasic participants with any sentence type, also the
+opposite result from that reported by Swinney and colleagues (1996).
+The inconsistency of the results of the aforementioned studies has been mainly
+attributed to the distinct methodological designs used in each of them. Balogh
+et al. (1998) argued that the priming effect observed at the single probe position
+available in Blumstein et al.'s (1998) study may reflect end of sentence "wrap
+up" reactivation of previously presented lexical items, not syntactically based coindexation of traces due to structural factors. In addition, the materials used by
+Swinney and colleagues (1996) are subject to another concern raised by McKoon
+and Ratcliff (1994). They argue that the priming effects found with these materials
+may be due to a better pragmatic fit of the related rather than the unrelated words to
+the pragmatic context at the point of the trace, not to the co-indexation of the trace
+per se. Finally, Zurif et al.'s (1993) results must be tempered by the consideration
+that their Broca aphasic participants did not show evidence in favor of a priming
+effect at the pregap site. Such findings may reflect slowed lexical access processes,
+further implicating the possibility that Broca patients would have shown priming
+of the moved element had they been tested far enough downstream from the trace
+site (Love et al., 2001; Swinney et al., 1996). The CMLP technique then requires
+a design that would be sensitive to the temporal evanescence of aurally presented
+sentences, in case antecedent reactivation takes place at a point later than its
+syntactic licensing.
+The latter possibility was successfully integrated in the CMLP design of
+Burkhardt, Pinango, and Wong's (2003) study that has investigated the on-line
+processing of unergative and unaccusative verbs with two English-speaking agrammatic patients and a control group. According to the analyses of the subjects'
+response times in the unaccusative verbs, the aphasic patients failed to reactivate
+the antecedent at the point of the trace; yet, their parser did show priming for the
+antecedent on average 150 ms later than the language unimpaired subjects who
+provided evidence of antecedent reactivation not immediately at the postverbal
+trace position but at a significantly later point in time (650 ms after the unaccusative verb). The researchers have attributed such pattern of performance to the
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+236
+
+slow syntax hypothesis according to which Broca patients' syntactic knowledge
+and ability to establish the dependency relation between the antecedent and its
+trace in unaccusative verbs is spared, yet delayed syntactic structure formation
+caused by the anterior lesions to the patients' left hemisphere prevented them
+from responding on time. In contrast, no antecedent reactivation pattern was observed for the unergative verb class for the two patients. Two further points worth
+mentioning from Burkhardt et al.'s (2003) study is that (a) no clear pattern of
+priming effect for the antecedent was shown by Broca patients when tested on
+unaccusatives lacking a causative counterpart1 in contrast to the control subjects
+who showed the same reactivation pattern across all unaccusative sentences, and
+(b) the neurologically intact control subjects have shown a statistically significant
+priming effect immediately after the verb in the unergative verb class. The specific
+finding was accounted for by the authors in terms of the verb phrase (VP)-internal
+subject hypothesis (Koopman & Sportiche, 1991, among others), which claims
+that the subject DP originates in a VP-internal position (more specifically, the
+[Spec, VP]), from which it raises into [Spec, inflection phrase] in English leaving
+behind a trace. Burkhardt et al. hold the postverbal subject trace responsible for
+the priming effect registered within the short time window of 100 ms after the
+unergative verb has been heard.
+Although there is little consensus among the studies regarding the modeling
+of the CMLP technique so that it would best capture aphasic comprehension of
+sentences involving movement, they appear to be similar in claiming that some
+operation relevant to the gap-filling process in Broca patients is greatly slowed and
+error prone. The specific processing approach suggests that syntactic operations
+are time sensitive and temporally unforgiving; computing a dependency relation
+must occur at the right time in the processing stream or else comprehension will
+suffer. Either the slow processing account takes the form of a delay in syntactic
+structure formation in Broca aphasia (Burkhardt et al., 2003; Haarmann & Kolk,
+1991) or the form of protracted lexical access capacities limiting the patients'
+ability to fill the gap at the point where it is properly licensed in the syntax (Love
+et al., 2008; Swinney et al., 1996), the processing outcome for individuals with
+Broca aphasia will be the same: slowed processing routines will create problems
+for locating and successfully reactivating an antecedent for a trace in a fillergap dependency. Delayed application of the processing routines implicated in
+the resolution of filler-gap dependencies in Broca aphasia has also been shown
+with a cross-modal lexical decision task testing reflexive-antecedent dependencies (Burkhardt, Avrutin, Pinango, & Ruigendijk, 2008), as well as an anomaly
+detection task testing filler-gap dependencies in object relative clauses (Dickey
+& Thompson, 2004). Likewise, Love et al. (2008) report evidence suggesting
+that for complex object-relative clauses, aphasic participants showed evidence of
+significantly delayed gap filling in a CMLP paradigm.
+The overall slowed processing account of aphasic comprehension contrasts with
+other accounts of aphasic performance in that it postulates no deficits in aphasic
+syntactic representations (see trace deletion hypothesis in Grodzinsky, 1990, 1995,
+2000) or in the processes responsible for mapping those representations onto an
+interpretation (see Linebarger, Schwartz, & Saffran, 1983; Schwartz, Linebarger,
+Saffran, & Pate, 1987). Rather, it claims that agrammatic individuals try to
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+237
+
+comprehend sentences with movement more or less as healthy subjects do, but
+are slower and less efficient in their processing. Under the slow processing model,
+aphasic individuals' difficulties in understanding sentences with movement are not
+particularly delayed compared to other comprehension processes: all processing
+is slowed and inefficient.
+CURRENT STUDY
+
+With this brief background in mind we now present our investigation of the
+processing of unaccusative sentences in a population of Greek-speaking aphasic
+patients. As described above, Burkhardt et al.'s (2003) CMLP study has offered
+evidence supporting the distinct processing of the two verb classes (i.e., unergatives
+and unaccusatives) by two Broca patients, whereas their data spoke in favor of an
+overall slowing down of "the syntactic structure building (i.e., Merge) operations"
+(Burkhardt et al., 2003, p. 20) through which the dependency relation between the
+derived DP subject and the postverbal trace is instantiated in unaccusative verbs.
+In the present study, we also applied the CMLP technique, albeit with some modifications in the experimental population and the experimental stimuli. First, we ran
+the experiment with a group of eight Greek-speaking agrammatic patients in the
+hope of gaining robust and reliable data on the on-line processing of unaccusative
+(vs. unergative) verbs by Broca patients. Second, the morphological realization of
+unaccusativity in Greek was also fully manipulated; as will be described analytically in the linguistic framework of the study, the rich morphological paradigm of
+unaccusative verbs in Greek is an excellent candidate to tease apart morphological
+factors that may interfere to influence antecedent reactivation in unaccusative
+sentence processing from pure syntactic operations, like the reconstruction of the
+antecedent in postverbal position. The realization of some Greek unaccusative
+verbs with nonactive (NACT) voice morphology, as well as the optional marking
+of some active (ACT) unaccusative verbs with NACT voice morphology proves
+a fruitful area to compare the priming effect elicited by morphologically marked
+(i.e., NACT) verbs with that elicited by morphologically less complex (i.e., ACT)
+verbal predicates.
+In individuals with aphasia, processing disadvantages for morphologically complex words including inflected verbs have been reported (Friederici et al., 1992;
+Marslen-Wilson & Tyler, 1997; Miceli & Caramazza, 1988). Aphasic individuals'
+inflectional errors appear to support a decompositional view of morphological
+processing, whereby not only are there distinct neurocognitive mechanisms for
+the retrieval of verbs and inflections from long-term memory, but there are also
+specialized neurocognitive mechanisms for combining stems and inflections to
+yield grammatical forms. A dual system approach has been proposed whereby
+patient groups with posterior damage were predicted to have an impairment in
+declarative memory based representations; thus, they were assumed to have difficulty with the computation of irregular but not regular past tense forms for real
+and novel words, whereas dysfunction of basal ganglia and frontal lobe circuits
+(as in Broca aphasia) were predicted to affect the procedural brain memory system
+and, in particular, grammatical rules (Ullman et al., 1997). The regular-irregular
+dissociation hypothesis has been extensively examined by studies focusing on
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+238
+
+the computation of past tense forms by aphasic agrammatic patients of various
+language backgrounds (Balaguer et al., 2004; Bird et al., 2003; Penke, Janssen, &
+Krause, 1999; Tsapkini, Jarema, & Kehaya, 2002). Yet, the dual mechanism theory
+has not been clearly confirmed by neuropsychological data, because aphasic errors
+have not been restricted to morphology but to semantics and/or phonology as well.
+A second potential locus of verb inflection errors in aphasia is syntactic encoding, and more specifically, the complexity of the verb's argument structure.
+Specifically, unergative verbs were found to be inflected correctly more easily
+than both two-place and three-place transitive verbs in a picture-naming task
+(Luzzatti et al., 2002; Thompson, 2003). Unaccusative verbs are rarely produced
+since they are considered to be syntactically complex, in that their grammatical
+subjects originate in the postverbal complement position and then move in the
+subject position. A theoretical account of these results is the argument structure
+complexity hypothesis (Thompson, 2003), which states that verbs with complex
+argument structure, both in terms of number of arguments and/or of movement,
+are impaired in agrammatic production.
+Although the bulk of studies to date have focused on aphasic individuals'
+pronounced production difficulty with morphologically synthetic (inflected) verb
+forms, including unaccusatives, the present study seeks to investigate whether we
+should also anticipate such difficulty in comprehension as reflecting the processing
+of morphologically marked, that is, NACT (vs. morphologically unmarked, i.e.,
+ACT) unaccusative verbs; more specifically, whether NACT voice morphology
+marking on unaccusative verbs will affect aphasic patients' inclination to anticipate
+(or not) a postverbal trace as the sentence unfolds.
+Finally, we have investigated the effect of the [animacy] of the syntactic
+subject of the verbs on the aphasic subjects' ability to disambiguate the meaning
+of both ACT and NACT unaccusative verbs during on-line sentence processing.
+We will elaborate on this, and other possibilities offered by the current study, in
+the Predictions section after the linguistic framework of the study.
+
+THE LINGUISTIC FRAMEWORK OF THE STUDY
+
+In the present research, we focus on unergative and unaccusative verbs covered by
+the global term "intransitivity," which is defined in terms of the lack of accusative
+case licensing by the verb. It is crucial that the distinction between unergatives and
+unaccusatives relates to the distinct ways in which the syntactic subject of these
+verbs is derived in syntax. This issue is closely linked to the lexicosemantic structure of intransitive verbs and the way it feeds into the syntactic component in terms
+of the arguments projected onto the syntactic structure. Fine distinctions related
+to the semantics of the intransitive verbs depending on whether they include an
+agent are critical in their syntactic derivation. The defenders of the unaccusativity
+hypothesis assume that the subject of unergative verbs is merged in its spell-out
+position and attracts the external theta feature of the Voice head. In contrast, the
+external argument of unaccusative verbs is unavailable in syntax but present at
+the level of the conceptual structure of the verbs (Hale & Keyser, 1993; Levin &
+Rappaport-Hovav, 1995). The subjects of unaccusative verbs are base generated
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+239
+
+as internal arguments and subsequently move to [Spec, tense phrase] position to
+satisfy the extended projection principle.
+As mentioned above, an interesting property of unaccusative verbs in Greek
+is the way in which the suppression of the external theta feature is realized in
+the morphological component. More specifically, according to the categorization
+proposed by Alexiadou and Anagnostopoulou (2004, pp. 123-127), there are four
+classes of unaccusatives in Greek:
+In the first class, the unaccusative verbs have NACT morphology, while in their
+unmarked (i.e., ACT voice form, they are transitive):
+(2) O jiatros jiatrepse to Jiani. (causative/transitive)
+The-NOM doctor-NOM heal-PERF-ACTIVE.3s the-ACC Jiani-ACC
+"The doctor healed John"
+(3) O Jianis jiatreftike (apo thavma). (unaccusative)
+The-NOM Jianis-NOM heal-PERF-NON-ACTIVE.3s (by miracle-ACC)
+"John healed (by a miracle)"
+
+The second class consists of unaccusatives that have NACT morphology. Active
+voice morphology is used with transitive verbs, but there is also a limited number
+of verbs that are unergatives with ACT morphology:
+(4) O Jianis ekapse ti supa. (causative/transitive)
+The-NOM Jianis-NOM burn-PERF-ACTIVE.3s the-ACC soup-ACC
+"John burnt the soup"
+(5) I supa kaike. (unaccusative)
+The-NOM soup-NOM burn-PERF-NON-ACTIVE.3s
+"The soup burnt"
+(6) I fotia kei/*kejete. (intransitive/unergative)
+The-NOM fire-NOM burn-IMPERF-ACTIVE.3s/burn-IMPERF-NON-ACTIVE.3s
+"The fire burns"
+
+The verbs in this class are de-adjectival verbs. The unaccusatives have ACT
+morphology and can only take an inanimate subject. Active morphology is present
+in transitive variants as well:
+(7) O Jianis adiase ti sakula. (causative/transitive)
+The-NOM Jianis-NOM empty-PERF-ACTIVE.3s the-ACC bag-ACC
+"John emptied the bag"
+(8) I sakula adiase. (unaccusative)
+The-NOM bag-NOM empty-PERF-ACTIVE.3s
+"The bag emptied"
+
+In this class, all of the transitive verbs appear with ACT voice morphology.
+Unaccusatives optionally appear either with ACT or NACT morphology without
+the voice change affecting the availability of the unaccusative reading. Such verbs
+are labeled as "alternating" verbs and they are referred to in Greek as verbs
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+240
+
+"ditipias"2 (literally of two forms, Theophanopoulou-Kontou, 2000). Henceforth,
+these verbs will be referred to as "voice-alternating" verbs.
+In case the voice-alternating verb in Greek has NACT morphology, its subject
+may either be animate or inanimate; when the subject is animate the verb's meaning
+is ambiguous between an unaccusative, a reflexive, and a passive reading:
+(9) O Jianis lerose to trapezomadilo. (transitive)
+The-NOM Jianis-NOM dirty-PERF-ACTIVE.3s the-ACC tablecloth-ACC
+"John dirtied the tablecloth"
+(10) To trapezomadilo lerose/lerothike (apo to krasi). (unaccusative)
+The-NOM tablecloth-NOM dirty-PERF-ACTIVE.3s/dirty-PERF-NON-ACTIVE.3s
+(by the-ACC wine-ACC)
+"The tablecloth got dirty (from the wine)"
+(11) I Maria lerothike (apo tis laspes/moni tis/apo ton Kosta). (unaccusative/
+reflexive/passive)
+The-NOM Mary-NOM dirty-PERF-NON-ACTIVE.3s (from the-ACC mud-ACC/by
+herself-NOM/by Kostas-ACC)
+"Mary got dirty (from the mud/by herself/by Kostas)"
+
+According to Tsimpli's account of unaccusativity (2006), the realization of ACT
+or NACT voice morphology on unaccusative verbs in Greek is related to the absence/presence of Voice projection, thus supporting a grammatical interpretation
+of the phenomenon. In ACT unaccusatives the Voice projection is missing and
+the transitive alternation is attributed to "a transitivity or agentive feature borne
+by light v, independently of Voice" (Tsimpli, 2006, p. 26). More specifically,
+the causative/unaccusative alternation applies to a specific class of externally
+caused change of state verbs, like spao/"break," klino/"close," and anijo/"open."
+Change of state verbs with internal cause do not appear to have a causative
+alternant (e.g., to lului anthise/"the flower blossomed-ACT") *o ilios anthise to
+lului/"*the sun blossomed-ACT the flower" (Levin & Rappaport-Hovav, 1995;
+Theophanopoulou-Kontou, 2001). In the latter verbal set, the internal argument is
+the only argument that is syntactically active and it either moves to [Spec, tense
+phrase] position to satisfy the extended projection principle or it is directly merged
+in its spell-out position and attracts the internal theta feature on the Voice head
+(Manzini & Roussou, 2000).
+With respect to the unaccusative verbs marked with NACT morphology, Tsimpli
+(2006) argues that the morphological marking is the reflex of the Voice projection.
+The latter attracts the verb's external theta feature that is left underspecified with
+regards to its interpretation. The verb's internal feature is attracted by the internal
+argument that subsequently moves to subject position. Failure of the Voice head
+to lexicalize the attracted agentive feature forces its interpretation at the LF level
+where the verb receives its unaccusative reading "depending on the semantics of the
+verbal predicate (change of state, situation type), and pragmatic information, (i.e.,
+the naturalness, frequency and transparency of the relation between the subject and
+the event described by the verb"; Tsimpli, 2006, p. 27). This derivation applies to
+all verbal structures marked with NACT morphology in Greek, including passives
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+241
+
+and middles,3 whereas reflexive structures differ in that the subject DP is an agent
+and both external and internal thematic features are interpreted within the verbal
+domain. Besides this grammatical distinction characterizing the derivation of the
+syntactic subject in reflexives and NACT unaccusative verbs, individual lexical
+preferences and real world knowledge also appear to play a crucial role in the
+disambiguation between the two verbal structures, especially when the NACT
+unaccusative verb takes an [+animate] entity in subject position. As can be seen
+in (12) and (13) below, in the absence of any disambiguating cues provided by the
+continuation of the clause, the NACT verb reaches a final reading on the basis of
+individual lexical preferences.
+(12) O adras zestathike.
+The-NOM man-NOM warm up-PERF-NON-ACTIVE.3s
+"The man warmed up" (preferred reading: unaccusative)
+(13) O adras kriftike.
+The-NOM man-NOM hide-PERF-NON-ACTIVE-3s
+"The man hid" (preferred reading: reflexive)
+
+Overall, on the basis of Tsimpli's (2006) account, the disambiguation of NACT
+verbs between an unaccusative and a reflexive reading seems to be nonfixed as it
+is dependent on pragmatic factors as well as on the [animacy] of the syntactic
+subject of the verb, while the classification of ACT verbs as unaccusatives is
+strictly lexically constrained. Animacy appears to be relevant in the processing of
+ACT unaccusative verbs as well. Several event-related potential studies (Hoeks
+Stowe, & Doedens, 2004; Kuperberg, 2007) have found that the co-occurrence
+of an inanimate subject with a transitive verb results in P600 effect, despite the
+sentence being syntactically well formed. Such findings evince that animacy and
+verb types modulate structural choices, with animate entities being preferentially
+mapped onto subjects/agents and inanimate entities onto objects/themes.
+
+PREDICTIONS OF THE STUDY
+
+The main prediction of the study pertains to the patients' retained or nonretained
+sensitivity to the argument structure distinction between unergatives and unaccusatives during on-line sentence processing. If antecedent reactivation is observed
+on-line only in unaccusatives (and not in unergatives) and at the right point, in the
+immediate temporal vicinity where it is licensed (i.e., at the gap position), then this
+pattern would be evidence that the individuals with Broca aphasia comprehend
+unaccusative constructions normally. If we observe late-occurring effects (i.e.,
+some time after the trace is encountered), then this would suggest that filler-gap
+dependencies are affected in Broca aphasia, since such protracted effects have
+already been observed with unaccusatives (e.g., Burkhardt et al., 2003), as well as
+other sentence types (e.g., Love et al., 2008). Partial support for the aphasic individuals' preserved sensitivity to the silent, postverbal placeholder in unaccusatives
+receiving its reference from the preverbal subject DP is also the participants' RTs
+for the trials with a semantically unrelated word at a postverbal position; we
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+242
+
+expected RTs for the unrelated probes (in unaccusatives only) to be considerably
+higher relative to the unergative verbs on the assumption that "reaction times for
+the unrelated probes may be treated as an indication for processing load due to
+gap-filling" (Friedman et al. 2008, p. 15) implicated in unaccusative verbs.
+The second prediction made for the aphasic performance in unaccusatives relates to the facilitatory role played by the NACT morphological marking on
+unaccusative verbs during on-line sentence processing. As already mentioned,
+besides the ACT-NACT unaccusative verb distinction manipulated in the present
+study, special status was also assigned to the voice-alternating properties of some
+Greek unaccusative verbs which can surface with either ACT or NACT voice
+morphology. We expect that the NACT unaccusative verbs, as well as the ACT
+unaccusatives that have a marked morphological alternant (i.e., the same verb
+appearing in NACT voice morphology) will be stronger in their expression of
+transitivity than the ACT nonvoice-alternating unaccusatives.4 The assumption is
+that whenever a mediopassive suffix is involved (see the Linguistic framework of
+the study: verb classes [b] and [d] where the Voice projection is fixed and optional,
+respectively), the aphasic subjects will be able to capture the transitivity alternation
+more readily by trying to establish a dependency relation between the postverbal
+gap and the derived subject; this would mean that the relevant structures will be
+more susceptible to a priming effect (i.e., to postverbal antecedent reactivation)
+relative to the morphologically unmarked structures (i.e., the ACT nonvoicealternating unaccusatives). Furthermore, we expect that the postverbal argument
+will be faster reactivated for NACT unaccusatives (assumingly, immediately after
+the verb where the gap is licensed) relative to the ACT voice-alternating verbs
+where we expect delayed antecedent reactivation due to the patients' protracted
+access to the verbs' voice-alternation property.5
+Conversely, tracking and resolving the filler-gap dependency in ACT nonvoicealternating unaccusative verbs might be more computationally intensive, thus more
+difficult for the aphasic parser. Perhaps, the latter verb class requires both syntactic
+reconstruction of the displaced DP, as well as considerations of lexicon-filtered
+information, and these combine to overwhelm the processing system in aphasia. If
+this assumption is true, then ACT nonvoice-alternating unaccusatives should yield
+no antecedent reactivation at a postverbal position at all.
+If these predictions on the aphasic performance are verified, then this pattern
+would be evidence that processing difficulty increases when the aphasic parser
+is forced to proceed to a morphologically nontransparent action (i.e., parsing the
+ACT nonvoice-alternating verbs). It would also be partial support for our initial
+stipulation that unaccusative verbs in Greek (at least) should be further subdivided
+on the basis of their [ voice-alternation] properties. A necessary condition on
+these assumptions, however, is the aphasic individuals' increased sensitivity to the
+morphology of the verbs, which further implicates that the patients should have
+normal access to the verbs' conceptual representations and could syntactically
+compute and maintain the NACT alternant along with the ACT one during the
+on-line processing of ACT voice-alternating unaccusatives.
+Finally, the third prediction of the study relates to the [animacy] of the subject
+and the way it affects the resolution of both ACT and NACT unaccusative predicates during the processing of the sentences by the patients. As already mentioned,
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+243
+
+inanimate subjects of NACT verbs may only be encountered in derived structures
+(i.e., unaccusatives, passives and middles). As such, the postverbal reactivation
+of the antecedent for the inanimate trials for the aphasic group is anticipated to
+take place regardless of whether the patients have disambiguated the unaccusative
+meaning of the NACT verb. On the contrary, NACT verbs with an animate subject
+in Greek can be interpreted either as unaccusatives or reflexives, the two of them
+being distinguished on the basis of the derived versus nonderived status of their
+syntactic subject, respectively. The concurrent computation of both a reflexive
+and an unaccusative derivation is expected to bring about an overall disruption in
+the patients' on-line processing operations, reflected in a more prominent priming/antecedent reactivation effect (i.e., considerably shorter RTs elicited for the
+related probes relative to the semantically unrelated probes) for the trials with an
+inanimate entity relative to the trials with an animate entity in subject position. We
+anticipate this interpretive ambiguity to be resolved once the reflexive reading is
+ruled out at a relatively late point in time on the basis of the aphasic individuals'
+lexical preferences or the disambiguating cues provided by the continuation of the
+clause.
+With respect to ACT unaccusatives, we predict that these verbs with an animate
+entity in subject position are at high risk of being misinterpreted as unergatives
+(or as transitives with a null object) by our aphasic population. More specifically,
+we expect that occasional nonstandard filtering of the syntactic output by the
+patients' lexicon will distort the idiosyncratic theta grid of the specific verbal
+set, thus impeding the reconstruction of the displaced DP as originating from the
+internal object position. The treatment of the preverbal subject DP as an external
+argument will thus block the postverbal reactivation of the antecedent. If such
+hypothesis holds true, we expect that the aphasic postverbal priming effect for the
+ACT unaccusatives with an animate subject will be similar to the priming effect
+observed for the unergative verbs (also with an animate subject). In other words,
+we expect no antecedent reactivation to take place postverbally for neither ACT
+unaccusatives with an animate subject nor unergatives. We return to this, and other
+implications, in our Discussion to follow our experiment.
+METHOD
+
+Subjects
+Aphasic subjects. A group of eight Greek-speaking agrammatic aphasic subjects
+
+(all males, mean age = 69.6 years, mean years of education = 9.3) participated
+in the study. The patients were recruited from a Treatment Medical Centre in
+the Greek province. All subjects were right-handed, with the exception of a
+single patient who was bimanual. None of the subjects had a history of prior
+neurological disease, drug or alcohol abuse, psychiatric disorders, developmental
+speech/language disorders, or learning disabilities. Computed tomography scans,
+which were available for seven of the patients, revealed that they had suffered from
+a left hemisphere, ischaemic stroke leaving a deep lesion in the Broca area; one of
+the patients suffered from an extensive hemorrhage of the left basal ganglia, while
+two of the patients with an ischaemic stroke have also suffered from a second
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+244
+
+incident at the same brain area a few years after the first stroke. All subjects
+were between 1 and 21 years poststroke at the time of the study, while none
+had received language treatment in the past (see Table 1 for more details on the
+patients' biographical profile and Appendix A for information on each patient's
+exact lesion site).
+Language testing. The diagnosis of aphasia was based on administration of the
+
+Boston Diagnostic Aphasia Examination Third Edition--Short Form (BDAESF; Goodglass, Kaplan, & Barresi, 2001) standardized in Greek by Tsapkini,
+Emmanuel, Passalidou, and Nassiopoulou (2007), as well as a series of sentencepicture matching tasks (Peristeri, 2005) that looked at various syntactic structures,
+including focused and clitic left dislocated sentences, passives, subject and object
+relative clauses, and reflexives. Leaving aside the individual differences in the
+aphasia quotients derived from both tests, auditory verbal comprehension, while
+impaired, was found to be superior to verbal expressive ability. Moreover, results
+from the sentence-picture matching tasks revealed that comprehension of object
+relatives, passives and focused sentences was more disrupted than comprehension
+of reflexives, clitic left dislocated, and subject relative clauses. Furthermore, most
+of the patients have exhibited low performance in repetition tasks measured at the
+word and the sentence level. A summary of these results is reported in Table 26
+and Table 3.
+Control subjects. Fifteen language-unimpaired native speakers of Greek (all
+
+males) also participated in the study to provide a baseline of healthy performance.
+Control subjects (mean age = 69.2 years, mean years of education = 9) were
+carefully selected to match most closely the mean age and educational level of
+the aphasic experimental group in order to ensure that any deviation observed
+between the performance of the controls and the aphasic patients would not be
+biased by factors such as age and educational level. None of the controls had a
+history of neurological, psychiatric, or developmental speech, language, or hearing
+problems.
+Materials
+
+Each participant heard 92 aurally presented sentences consisting of 46 experimental sentences and 46 fillers. The fillers involved diverse syntactic structures
+consisting of a main clause followed by a causal or a temporal subordinate
+sentence. The 46 experimental sentences included 16 ACT unaccusative verbs
+(half [+voice-alternating], and half [-voice-alternating]), 14 unaccusative verbs
+bearing NACT voice morphology7 (half [+voice-alternating], and half [-voicealternating])8 and, finally, 16 unergative verbs (see Appendix B for the full list
+of the testing sentences). The verbs from all three verb classes were balanced in
+frequency of occurrence (mean frequency per thousand based on the Institute for
+Language and Speech Processing Corpus in Greek): unergative 1.43, ACT unacc.
+5.6, NACT unacc. 2.1, which did not differ significantly F (2, 43) = 1.216, p =
+.307; frequency ranges = 0.1-6.80, 0.1-49.0, and 0.1-16.70, and SDs = 0.189,
+1.312, and 4.35, respectively. All of the antecedents were full DPs and included
+
+Table 1. Demographic Information of the participants in the Broca group
+Patient
+
+245
+
+BDAE-SF severity
+level
+Gender
+Age (years)
+Time since onset
+(years)
+Hemiparesis
+Education (years)
+Handedness
+
+GCH
+
+VSK
+
+SP
+
+THP
+
+DENT
+
+THR
+
+THEX
+
+PAPAL
+
+2.5
+M
+57
+
+2.5
+M
+47
+
+4
+M
+68
+
+1
+M
+87
+
+2.5
+M
+79
+
+4.3
+R weakness
+16
+R
+
+20
+R weakness
+9
+R
+
+6.1
+R weakness
+4
+R
+
+6.1
+R weakness
+17
+R/L
+
+1.5
+M
+76
+1st incid. 7.9,
+2nd incid. 10.9
+R weakness
+7
+R
+
+4
+M
+69
+2.2
+
+3.5
+None
+12
+R
+
+4
+M
+74
+1st incid. 3.1,
+2nd incid. 1.1
+R weakness
+4
+R
+
+Note: BDAE-SF, Boston Diagnostic Aphasia Examination, Third Edition--Short Form; R, right; L, left.
+
+R weakness
+6
+R
+
+Table 2. The eight aphasic patients' individual performances on the BDAE-SF battery
+BDAE-SF
+Subtests
+Fluency
+Conversation
+Auditory
+comprehension
+
+Phrase length
+Melodic line
+Grammatical form
+Simple social responses
+Basic word discrimination (N = 16)
+Commands (N = 10)
+Complex ideational material (N = 6)
+
+246
+
+Articulation
+Recitation
+
+Articulatory agility
+Automatized sequences (N = 4)
+
+Repetition
+
+Words (N = 5)
+Sentences (N = 2)
+
+Naming
+
+Responsive naming (N = 10)
+Boston Naming Testa (N = 15)
+Special categories (N = 12)
+
+GCH
+
+VSK
+
+SP
+
+THP
+
+DENT
+
+THR
+
+THEX
+
+PAPAL
+
+90%
+100%
+70%
+80%
+12
+(75%)
+8
+(80%)
+4
+(66.6%)
+30%
+4
+(100%)
+3
+(60%)
+0
+
+90%
+30%
+60%
+80%
+13.5
+(84.3%)
+7
+(70%)
+3
+(50%)
+40%
+2
+(50%)
+4
+(80%)
+2
+(100%)
+6
+(60%)
+10
+(66.6%)
+12
+(100%)
+
+20%
+20%
+20%
+20%
+12.5
+(78.1%)
+4
+(40%)
+2
+(33.3%)
+20%
+4
+(100%)
+4
+(80%)
+0
+
+90%
+100%
+80%
+90%
+14
+(87.5%)
+7
+(70%)
+5
+(83.3%)
+60%
+4
+(100%)
+4
+(80%)
+1
+(50%)
+7
+(70%)
+9
+(60%)
+10
+(83.3%)
+
+90%
+40%
+50%
+80%
+11.5
+(71.8%)
+8
+(80%)
+1
+(16.6%)
+40%
+4
+(100%)
+5
+(100%)
+2
+(100%)
+4
+(40%)
+5
+(33.3%)
+12
+(100%)
+
+90%
+80%
+20%
+20%
+10.5
+(65.6%)
+5
+(50%)
+2
+(33.3%)
+20%
+4
+(100%)
+5
+(100%)
+2
+(100%)
+2
+(20%)
+9
+(60%)
+11
+(91.6%)
+
+90%
+60%
+50%
+80%
+14
+(87.5%)
+10
+(100%)
+4
+(66.6%)
+60%
+4
+(100%)
+5
+(100%)
+2
+(100%)
+10
+(100%)
+10
+(66.6%)
+12
+(100%)
+
+20%
+20%
+20%
+50%
+13
+(81.2%)
+10
+(100%)
+5
+(83.3%)
+20%
+1
+(25%)
+3
+(60%)
+1
+(50%)
+9
+(90%)
+3
+(20%)
+12
+(100%)
+
+4
+(40%)
+3
+(20%)
+9
+(75%)
+
+6
+(60%)
+4
+(26.6%)
+12
+(100%)
+
+Note: BDAE-SF, Boston Diagnostic Aphasia Examination, Third Edition--Short Form.
+a
+Second Edition, Short Form (Kaplan, Goodglass, & Weintraub, 2001).
+
+Table 3. The eight aphasic patients' accuracy scores in the syntactic comprehension SPMTs (raw data and percentages)
+Syntactic Subtests (SPMTs)
+Subject-relative clauses (N = 6)
+Object-relative clauses (N = 6)
+Focused sentences (N = 20)
+
+247
+
+Clitic left dislocated sentences (N = 8)
+Passive sentences (N = 24)
+Reflexive sentences (N = 6)
+Subject-verb agreement (N = 20)
+
+GCH
+
+VSK
+
+SP
+
+THP
+
+DENT
+
+THR
+
+THEX
+
+PAPAL
+
+4
+(66.6%)
+4
+(66.6%)
+14
+(70%)
+8
+(100%)
+13
+(54.1%)
+3
+(50%)
+15
+(75%)
+
+4
+(66.6%)
+4
+(66.6%)
+15
+(75%)
+8
+(100%)
+12
+(50%)
+2
+(33.3%)
+19
+(95%)
+
+3
+(50%)
+2
+(33.3%)
+5
+(25%)
+5
+(62.5%)
+6
+(25%)
+3
+(50%)
+15
+(75%)
+
+5
+(83.3%)
+4
+(66.6%)
+11
+(55%)
+6
+(75%)
+19
+(79.1%)
+6
+(100%)
+16
+(80%)
+
+5
+(83.3%)
+6
+(100%)
+15
+(75%)
+4
+(50%)
+19
+(79.1%)
+3
+(50%)
+18
+(90%)
+
+5
+(83.3%)
+2
+(33.3%)
+5
+(25%)
+6
+(75%)
+9
+(37.5%)
+6
+(100%)
+18
+(90%)
+
+5
+(83.3%)
+4
+(66.6%)
+15
+(75%)
+8
+(100%)
+14
+(58.3%)
+3
+(50%)
+18
+(90%)
+
+5
+(83.3%)
+3
+(50%)
+3
+(15%)
+6
+(75%)
+12
+(50%)
+3
+(50%)
+18
+(90%)
+
+Note: SPMTs, sentence picture matching tasks.
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+248
+
+15 inanimate and 31 animate nouns. More specifically, all syntactic subjects in
+the unergative sentences were [+animate], seven syntactic subjects in the NACT
+verb condition were [+animate] and seven were [-animate], and eight syntactic
+subjects in the ACT unaccusative verb condition were [+animate] and eight were
+[-animate]. The letter sequences for lexical decision (i.e., the visually presented
+probes) included 92 words and 46 nonwords.
+The nonword probes conformed to Greek orthographic and phonological rules,
+and appeared with the filler sentences. For the word-probes we created 46 pairs
+of words; in each pair, one word was related to the head of the subject DP and the
+other was unrelated. Related probes were close semantic associates of the subject
+DP, while each unrelated probe was chosen to be matched in number of syllables
+with the corresponding related probe. Both related and unrelated probe words were
+balanced in frequency of occurrence (mean frequency per thousand based on the
+Institute for Language and Speech Processing Corpus in Greek): related = 36.1,
+unrelated = 25.4, which did not differ significantly, F (1, 136) = 1.801, p = .182;
+frequency ranges = 0-206.9, 0-193.7, and SDs = 5.23 and 3.91, respectively.
+It is of the most importance that both the related and the unrelated probes were
+always matched with the [animacy] feature of the syntactic subject. Each head
+of subject DP and each probe appeared only once per participant during the entire
+sentence list.
+All of the stimuli were recorded (and digitized at a 48-kHz sampling rate) by
+a female native speaker of Greek at a normal speaking rate. The stimuli were
+afterwards broken into three blocks using SoundEdit and entered into E-Prime
+psychological software to create the CMLP experiment. The experimental and
+filler sentences were pseudo randomly assigned to positions in a script, such that
+no more than two of either verb type appeared successively.
+As can be seen in (14) to (16) below, the visual targets appeared at three probe
+positions in each sentence. The location of the first two probe positions was
+determined on the basis of structural criteria: Probe Position 1 was immediately
+at the offset of the head of the subject (pregap/base position) and Probe Position 2
+immediately at the offset of the verb (i.e., at the point where the trace is licensed).
+Sentential material was added to the subject DP so that enough time would elapse
+between the antecedent and the trace to allow for decay in activation from the
+initial appearance of the subject DP. In light of previous research (e.g., Love &
+Swinney, 1996; Onifer & Swinney, 1981; Swinney, 1979) claiming that at least
+three syllables (or reading time equal to 1.5 s) are typically required to detect
+antecedent decay in priming, and in accordance to Friedmann et al.'s (2008)
+experimental design, the syntactic subject in the experimental stimuli of the present
+study was always followed by a prepositional phrase modifying the noun and a
+modal adverb, together adding up to five to six words. The number of intervening
+words between the subject head and the trace in the present experiment was smaller
+than the number of the intervening words in Friedmann et al.'s experimental design
+(mean N = 8), but the difference was compensated for by Greek words usually
+comprising a considerably greater number of syllables than English words. Special
+attention was given to the sentences so that semantic relatedness of noun phrases
+across neighboring sentences (i.e., two sentences presented one after the other)
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+249
+
+was avoided to prevent indirect priming effects. Finally, Probe Position 3 (postgap
+position) allowed for an at least four word spill-over region after the main verb
+across all three verb type conditions:
+(14) unergative verb condition
+O olofonos # me to ageliko prosopo ksafnika rapetefse # otan o astinomikos
+kimithike stin karekla tu tmimatos # ekso apo to keli
+The-NOM murderer-NOM with the-ACC angelical-ACC face-ACC suddenly escapePERF-ACTIVE.3s when the-NOM policeman-NOM fall-PERF-NONACTIVE-3s.
+(asleep) on the-ACC chair-ACC of the-ACC police station-ACC out of the-ACC
+cell-ACC
+"The murderer with the angelical face suddenly escaped when the policeman fell
+asleep on the chair of the police station right out of the cell"
+Related probe: eglimatias (criminal)
+Unrelated probe: poosferistis (footballer)
+Nonword probe: kepasi
+(15) NACT unaccusative verb condition
+a. [+animate] subject - [-voice-alternating] condition
+O arostos # me tis lijes meres zois ksafnika jiatreftike # otan episkeftike ena monastiri
+prin lijes meres # ke ekane tama
+The-NOM ill man-NOM with the-ACC few-ACC days-ACC life-GEN suddenly healPERF-NONACTIVE.3s when visit-PERF-ACTIVE.3s a-ACC monastery-ACC ago
+few-ACC days-ACC and make-PERF-ACTIVE.3s offering-ACC
+"The ill man with the few days of life suddenly healed when he visited a monastery a
+few days ago and he made an offering"
+Related probe: jiatros (doctor)
+Unrelated probe: jata (cat)
+Nonword probe: poftokasi
+b. [+animate] subject - [+voice-alternating] condition
+I nosokoma # apo ta epijoda ksafnika lerothike # otan patise se laspes # se mia lakuva
+The-NOM nurse-NOM from the-ACC emergency-ACC suddenly spill-PERFNONACTIVE.3s when step-PERF-ACTIVE.3s in mud-ACC in a-ACC pit-ACC
+"The nurse from the emergency department suddenly spilled herself when she stepped
+in the mud of a pit"
+Related probe: jiatros (doctor)
+Unrelated probe: kota (hen)
+Nonword probe: prohi
+c. [-animate] subject - [-voice-alternating] condition
+Ta luluia # stin akri tu romu istihos marathikan # otan o kipuros arostise poli varia
+# ke e ulepse eka mines
+The-NOM flowers-NOM in the-ACC corner-ACC the-GEN street-GEN unfortunately wither-PERF-NONACTIVE.3pl when the-NOM gardener-NOM fall-PERFACTIVE.3sg (sick) heavily and not work-PERF-ACTIVE.3sg ten-ACC months-ACC
+"The flowers in the corner of the street unfortunately withered when the gardener fell
+heavily sick and did not go to work for ten months"
+Related probe: kipos (garden)
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+250
+
+Unrelated probe: plio (ship)
+Nonword probe: krenati
+d. [-animate] subject - [+voice-alternating] condition
+To harti # me tis simiosis ksafnika tsalakothike # otan epese kata lathos kato # ke to
+patisame me ta poia
+The-NOM paper-NOM with the-ACC notes-ACC suddenly crumple-PERFNONACTIVE.3sg when fall-PERF-ACTIVE.3sg by mistake down and it-CL-ACC
+step-PERF-ACTIVE.1pl with the-ACC feet-ACC
+"The paper with the notes suddenly crumpled when it fell down by mistake and we
+stepped on it"
+Related probe: tertraio (notebook)
+Unrelated probe: okeanos (ocean)
+Nonword probe: flidaria
+(16) ACT unaccusative verb condition
+a. [+animate] subject - [-voice-alternating] condition
+O trajuistis # me tis poles epitihies ksafnika kriose # otan vjike horis palto # sto
+romo pu hionize
+The-NOM singer-NOM with the-ACC many-ACC hits-ACC suddenly get-PERFACTIVE.3sg (cold) when go-PERF-ACTIVE.3sg (out) without coat-ACC at the-ACC
+street-ACC where snow-IMPERF-ACTIVE-3sg
+"The singer with the many hits suddenly got cold when he went out on the street
+without a coat while it was snowing"
+Related probe: musikos (musician)
+Unrelated probe: vasilias (king)
+Nonword probe: movivi
+b. [+animate] subject - [+voice-alternating] condition
+To ajori # me ta mavra malia ksafnika iplose # sto eafos apo aforitus ponus # ke
+fonaze ti mama tu
+The-NOM boy-NOM with the-ACC black hair-ACC suddenly fold-PERFACTIVE.3sg on the-ACC ground-ACC from unbearable-ACC pains-ACC and
+scream-IMPERF-ACTIVE-3sg the-ACC mother-ACC the-CL-GEN
+"The boy with the black hair suddenly folded on the ground with unbearable pains
+and he was screaming for his mother"
+Related probe: koritsi (girl)
+Unrelated probe: arahni (spider)
+Nonword probe: keruli
+c. [-animate] subject - [-voice-alternating] condition
+To edro # sto kedro tu kipu ksafnika anthise # otan o keros ejine kaliteros # ke
+anevike i thermokrasia
+The-NOM tree-NOM in the-ACC centre-ACC the-GEN garden-GEN suddenly blossom-PERF-ACTIVE.3sg when the-NOM weather-NOM become-PERFACTIVE.3sg better-NOM and rise-PERF-NONACTIVE.3sg the-NOM temperatureNOM
+"The tree in the centre of the garden suddenly blossomed when the weather improved
+and the temperature rose"
+Related probe: fila (leaves)
+Unrelated probe: stoma (mouth)
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+251
+
+Nonword probe: plogera
+d. [-animate] subject - [+voice-alternating] condition
+To forema # me ta pola hromata sinehia tsalakoni # lojo tis kakis piotitas tu # opu ki
+an kathiso
+The-NOM dress-NOM with the-ACC many-ACC colours-ACC all the time crinkleIMPERF-ACTIVE.3sg. due the-GEN bad-GEN quality-GEN it-CL-GEN wherever
+and if sit-PERF-ACTIVE.1sg.
+"The dress with the many colours crinkles all the time due to its bad quality wherever
+I may sit"
+Related probe: ifasma (fabric)
+Unrelated probe: molivi (pencil)
+Nonword probe: sihani
+
+Design and procedure
+
+In order that no sentence would be heard more than once by the same participant,
+six scripts comprising the same experimental and filler sentences were created.
+The three probe positions and the two probe types (related vs. unrelated) for each
+experimental sentence were then equally distributed across the six scripts. Each
+participant heard each sentence only once with one of the combinations of probe
+position and probe type; more specifically, within a single script participants heard
+92 sentences (46 experimental sentences, 46 fillers) containing a verb paired with
+a probe in each of the three probe positions, and for half of each of these the probe
+was either related to the antecedent DP or unrelated.
+All subjects were tested using an Acer laptop computer which was set up on
+the table at which the subject and the experimenter were seated. The materials
+were delivered under computer control using the E-Prime experimental package.
+A computer played a digitized version of the stimuli over loudspeakers at a
+comfortable listening level. After an initial practice block consisting of 10 filler
+sentence constructions, the word "READY" appeared on the screen. Using their
+(poststroke) dominant hand, the aphasic participants pressed the space bar to
+indicate that they were ready to begin the trial, and the first experimental item
+was run. During the temporal unfolding of each sentence, a visually presented
+probe appeared centrally on the screen for an infinite period of time. At that point,
+subjects were required to make a lexical decision on whether the letter string on
+the screen was a real word . They were asked to make the decision as quickly and
+accurately as possible by pressing one of two keys ("0" for a nonword, "1" for a
+Greek native word9 ).
+RTs for the lexical decisions were recorded by E-Prime software and the accuracy of the responses was noted down by the examiner. Shorter RTs on related
+probes relative to unrelated probes indicate a facilitatory or priming effect. A
+priming effect is interpreted as resulting from the activation of the head of the
+subject DP at a specific point in time and it is quantified by subtracting the RT
+elicited by the semantically related probe from the RT elicited by the semantically
+unrelated probe per each probe position and per each verb type. Once the lexical
+decision was made, the subject went through the rest of the aurally presented
+sentence via the moving time window paradigm. The last word of each sentence
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+252
+
+was always succeeded by a question mark appearing at the center of the computer
+screen. At that point (and in 20% of the experimental trials) the subjects were
+asked a yes/no comprehension question about the sentence that they had just
+heard, in order to encourage participants to pay close attention to the meaning of
+the sentence materials. All six scripts were presented to each participant with a
+one-week interval between two consecutive scripts.
+RESULTS
+
+Prior to statistical analyses, it was observed that performance was virtually flawless
+for all of the subjects on those trials (20%) that required indicating understanding
+of the sentence. Thus, the participants were indeed listening to the sentences
+for meaning. Likewise, all CMLP probes were responded to correctly by all of
+the participants (i.e., they always pressed "1" for the real words and "0" for
+the nonwords), such that no responses were removed from further consideration.
+Finally, RTs in the CMLP task that exceeded a cut-off point of three standard
+deviations above or below the mean for each verb type (i.e., unergatives, ACT
+unaccusatives, NACT unaccusatives) and probe position (Position 1, Position 2,
+Position 3) were treated as outliers and were replaced by the grand mean for the
+appropriate condition and for each participant as a conservative measure. Outliers
+encompassed only 1.63% of the data for the aphasic group and 4.8% of the RT
+data for the controls.
+For the sake of clarity of presentation, the findings are presented in four different
+subsections determined on the basis of the main issue under investigation each
+time we conducted a statistical analysis of the data: (a) priming effect for the
+control and the Broca group as a function of probe position and verb class, (b)
+priming effect for the control and the Broca group as a function of the unaccusative
+verbs' [voice-alternation] property, (c) analysis of RTs for the unrelated probe
+as indication of processing load, and (d) priming effect for the control and the
+Broca group as a function of the [animacy] of the syntactic subject.
+Priming effect for the control and the Broca group as a function of probe
+position and verb class
+
+With the data in the form described above, our first main concern was to look for
+a priming effect immediately after the subject DP (Probe Position 1), such that the
+priming effect that would be examined for antecedent reactivation at a postverbal
+position (Probe Positions 2 & 3) would not be biased by a possible lexical access
+or/and integration deficit frequently reported for agrammatic subjects in the aphasiological literature (Blumstein, & Dworetzky, 1987; Hagoort, 1997; Love et al.,
+2008; Milberg, Blumstein, & Dworetsky, 1987; Thompson & Choy, 2009). A oneway analysis of variance (ANOVA) performed for each subject group with RTs at
+Probe Position 1 as the dependent factor yielded a significant main effect of probe
+type across both groups; related probes (1367.3 ms for the controls, 2879.1 ms for
+the patients) tended to yield significantly shorter RTs than the unrelated probes
+(1596.6 ms for the controls, 3833.5 ms for the patients), F1 (1, 89) = 10.616, p <
+.005 for the controls, F1 (1, 47) = 4.396, p < .05 for the patients. The analysis of
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+253
+
+the data with items (sentences) as the random variable (F2) yielded a significant
+main effect of probe type for both groups as well; related probes (1373.8 ms for
+the controls, 2879.6 ms for the patients) yielded significantly shorter RTs than
+the unrelated probes (1567.6 ms for the controls, 3878.4 ms for the patients),
+F2 (1, 90) = 10.911, p < .001 for the controls, F2 (1, 90) = 8.494, p < .005
+for the patients. A between-group analysis of the participants' RT data at Probe
+Position 1 for each verb category (unergatives, ACT alternating unaccusatives,
+ACT nonvoice-alternating unaccusatives, NACT alternating unaccusatives, and
+NACT nonvoice-alternating unaccusatives) revealed significant differences between the aphasic group and the language-unimpaired subjects for almost all verb
+categories, F1 (1, 21) = 6.652, p < .05 for the unergatives, F1 (1, 21) = 6.704,
+p < .05 for the ACT nonvoice-alternating unaccusatives, F1 (1, 21) = 25.294, p <
+.000 for the NACT alternating unaccusatives, and F1 (1, 21) = 8.688, p < .01 for
+the NACT nonvoice-alternating unaccusatives. This group effect was anticipated
+since the Broca group exhibited, in general, slower response times relative to the
+language-unimpaired group.
+The statistical analyses of the data consisted of an overall mixed design ANOVA
+followed by a series of repeated measures ANOVAs aiming at further exploring
+the significant interaction effects that would result for the various experimental
+variables of the task. More specifically, the mixed design ANOVA was designed
+to examine the distinction between the two groups' priming effects at the pregap,
+gap, and postgap position for each of the verb classes manipulated in the study.
+Following Friedmann et al.'s (2008) method of data analysis, we then conducted
+repeated measures ANOVAs focusing on each experimental group separately;
+what we were mainly interested in the repeated measures ANOVA outputs were
+the trend analyses for linear and quadratic contrasts that are specifically designed
+to assess change of the priming effect and the type of the priming effect's change
+over time for the different verb classes. More specifically, a linear (straight-line)
+curve would mean that there is a continuous decrease or increase in priming effect
+from Probe Position 1 to Probe Position 2 and Probe Position 3; this would mean
+that there is priming for the subject DP and then the antecedent reactivation effect
+progressively decays or increases as a function of the postverbal domain (Probe
+Positions 2 & 3) of the sentence. In contrast, a quadratic trend indicates that a
+group's priming effect increases at Probe Position 2 and then decays at Probe
+Position 3 (inverted U-shaped pattern) or decays at Probe Position 2 and then
+increases at Probe Position 3 (U-shaped pattern). Such curves would translate
+either into a priming effect immediately after the subject DP and an even stronger
+antecedent reactivation effect (i.e., an even greater difference between the RTs
+elicited by the related and the unrelated probes) for the position immediately after
+the critical verb, or a priming effect at Probe Position 1, decay in activation at
+the gap position and reactivation of the antecedent at a later point in time (i.e.,
+at Probe Position 3). Preplanned trend analyses were also conducted to examine
+each group's priming effect trajectories for the animate and the inanimate trials
+during on-line unaccusative sentence processing.
+The mixed-design ANOVA was conducted with group (Broca, controls) as
+a between-subjects factor, and probe position (pregap, gap, postgap), probe
+type (related, unrelated), and verb type (unergative, ACT unaccusative, NACT
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+254
+
+unaccusative) as within-subjects factors. An effect of probe type and verb type
+were observed, F1 (1, 378) = 6.443, p < .01, and F1 (2, 378) = 15.726, p < .000,
+respectively, as well as three significant two-way interactions between position
+and probe, F1 (2, 378) = 3.164, p < .04, probe and group, F1 (1, 378) = 3.125,
+p < .05), and verb and group, F1 (2, 378) = 13.358, p < .000.
+We next conducted separate repeated measures ANOVAs with mean priming
+effect (lexical decision times to unrelated minus related probes) as within subject
+factor per each group, per each probe position, per each verb class, as well as per
+each sentence, per each probe point to search for the source of the aforementioned
+interactions. The overall mean priming effect for each group, each verb class
+(unergatives, unaccusatives) and probe position (pregap, gap, postgap) calculated
+across all data is presented in Table 4. These are reported here for the subject
+(F1) analysis, collapsing over items; the analysis (F2) collapsing across subjects
+reveals nearly identical results.
+The preplanned trend analyses for the control group with unergative and unaccusative items (sentences) as the random variable, yielded a significant linear trend
+for the unergative verbs, suggesting that the antecedent was activated at Position
+1, it then decayed and it was not reactivated at a later point in time (F2 (1, 15) =
+63.420, p < .000), and a quadratic trend for the unaccusative verbs, meaning
+that the antecedent reactivation effect grew stronger at Position 2 and decayed at
+Position 3 (F2 (1, 29) = 31.002, p < .000). With respect to the aphasic group, the
+trend analysis of their data across the three probe positions yielded a significant
+linear trend for both the unergative10 and the unaccusative verbs (F2 (1, 15) =
+14.499, p < .005, and F2 (1, 29) = 4.438, p < .05, respectively).
+Priming effect for the control and the Broca group as a function of the
+unaccusative verbs' [voice-alternation] property
+
+Further within-group trend analyses with alternating and nonvoice-alternating
+unaccusatives as the between-subject factor revealed an effect of the [voicealternation] dimension on unaccusative sentence processing. More specifically,
+the analyses for the control group yielded significant quadratic trends for the ACT
+alternating and NACT nonvoice-alternating unaccusatives, while the quadratic
+trends for the ACT nonvoice-alternating and NACT alternating unaccusatives
+were found to be marginally significant, F2 (1, 7) = 42.699, p < .000 for ACT alternating unaccusatives, F2 (1, 7) = 5.098, p = .059 for ACT nonvoice-alternating
+unaccusatives, F2 (1, 6) = 5.110, p = .06 for NACT alternating unaccusatives, and
+F2 (1, 6) = 16.625, p < .01 for NACT nonvoice-alternating unaccusatives. In contrast, the ACT nonvoice-alternating unaccusatives for the aphasic group showed
+a linear trend, F2 (1, 7) = 10.039, p < .02, whereas the NACT unaccusative verb
+categories yielded marginally significant quadratic trends, indicating a stronger
+(than Position 1) priming effect at Position 2 and antecedent decay at Probe Position 3, F2 (1, 6) = 5.196, p = .063 for NACT alternating unaccusatives, and F2 (1,
+6) = 4.898, p = .069 for NACT nonvoice-alternating unaccusatives. Of the most
+interest, the analysis for the ACT alternating unaccusatives also yielded a nearsignificant quadratic trend, F2 (1, 7) = 5.042, p = .06, which was characterized by
+a U-shaped activation pattern, thus implying that there is priming for the subject
+
+Table 4. Mean, standard deviation, and range of priming effects (lexical decision time to unrelated minus related probes) for the controls
+and the Broca group as a function of verb class (unergatives, unaccusatives) and probe position (subject based; F1 analysis)
+Probe Position
+Pregap
+Group
+
+Verb Class
+
+M
+
+Controls
+
+Unergatives
+Unaccusatives
+Unergatives
+Unaccusatives
+
+155.1**
+195.9**
+888.9**
+1170.4**
+
+Patients
+
+SD
+
+Gap
+Range
+
+74.7 -66.2-367.4
+460.5
+30.7-597.5
+1509.8 225.2-2331
+1419.2 -47.2-3177.1
+
+M
+
+SD
+
+9.6 (ns)
+39.1
+612.5**
+361.3
+-98.2 (ns) 162.6
+1548.3 (ns) 1482.1
+
+Postgap
+Range
+-165.6-187.7
+213-1015.2
+-1097.3-900.8
+-930.5-4292.7
+
+M
+
+SD
+
+12.6 (ns)
+10.8
+7.2 (ns) 453.6
+155 (ns)
+424.5
+624 (ns)
+1642.8
+
+Range
+-239.6-266.4
+-359-383.7
+-955.7-1178.3
+-1311.6-2813.1
+
+Note: The statistical significance of priming effects (i.e., significant evidence of antecedent reactivation) is indicated by **p < .05 (significant), *.05 <
+p < .07 (marginally significant), or nonsignificant.
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+256
+
+DP at Position 1, then decay in activation at the gap position, and then reactivation
+of the antecedent at Probe Position 3.
+An analysis of the RT data with subjects as the random variable (F1) yielded
+comparable results. More specifically, repeated measures analyses for the control
+group, for each of the verb categories yielded a linear trend for the unergatives, F1
+(1, 14) = 55.782, p < .000, and a quadratic trend for the rest of the verbal sets, F1
+(1, 14) = 93.834, p < .000 for the ACT alternating unaccusatives, F1 (1, 14) =
+9.802, p < .01 for the ACT nonvoice-alternating unaccusatives, F1 (1, 14) =
+13.007, p < .01 for NACT alternating unaccusatives, and F1 (1, 14) = 38.547,
+p < .000 for NACT nonvoice-alternating unaccusatives. In contrast, the analysis for
+the Broca group yielded a linear trend for the unergatives and the ACT nonvoicealternating unaccusatives, F1 (1, 7) = 6.915, p < .04, and F1 (1, 7) = 10.039, p <
+.02, respectively, and a quadratic trend for the ACT alternating unaccusatives (nearsignificant p value), the NACT alternating and nonvoice-alternating unaccusatives,
+F1 (1, 7) = 5.042, p = .06 for the ACT alternating unaccusatives, F1 (1, 7) = 7.928,
+p < .03 for the NACT alternating unaccusatives, and F1 (1, 7) = 5.819, p < .05 for
+the NACT nonvoice-alternating unaccusatives. The overall mean priming effect
+for each group, each verb type (ACT alternating unaccusatives, ACT nonvoicealternating unaccusatives, NACT alternating unaccusatives, and NACT nonvoicealternating unaccusatives) and probe position (pregap, gap, postgap) calculated
+across all data is presented in Table 5. These are reported here for the subject
+(F1) analysis, collapsing over items (see also Figure 1 for each group's priming
+trajectories).
+A comparison between the verb types at each position for each group, which
+was done by one-way ANOVAs for each probe position with verb type as the
+repeated measure yielded different results for the controls and the aphasic group.
+More specifically, with respect to the controls, the analysis revealed no difference
+between the verb types for Probe Position 1 (p = .54) or for Probe Position 3
+(p = .81), but yielded a significant effect of verb type for Probe Position 2, F2 (4,
+41) = 11.407, p < .000. Further posthoc tests revealed that such effect at Probe
+Position 2 was derived from significant differences between the unergatives and
+the rest of the verb types, namely, ACT alternating unaccusatives, t (7) = 4.991,
+p < .001, ACT nonvoice-alternating unaccusatives, t (7) = 3.678, p < .005, NACT
+alternating unaccusatives, t (6) = 3.625, p < .005, and NACT nonvoice-alternating
+unaccusatives, t (6) = 6.107, p < .0005 (one-tailed, item-based data; collapsing
+across subjects). This supports the pattern of antecedent activation for the five
+verb types which was found by the trend analyses. In contrast, the analysis for the
+Broca group revealed no difference between the verb types for Probe Position 1
+(p = .40), but yielded a significant effect of verb type for both Probe Positions 2
+and 3, F2 (4, 41) = 12.498, p < .000, and F2 (4, 41) = 2.720, p < .05, respectively.
+More specifically, the verb type effect at Position 2 was mainly derived by the
+significant differences between the NACT unaccusatives (both alternating and
+nonvoice alternating) and the rest of the verb categories, namely, unergatives and
+ACT alternating and nonvoice-alternating unaccusatives, t (6) = 5.768, p < .0005
+for the difference between unergatives and NACT alternating unaccusatives, t (6) =
+2.848, p < .02 for the difference between unergatives and NACT nonvoicealternating unaccusatives, t (6) = 4.163, p < .005 for the difference between ACT
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+257
+
+Table 5. Mean priming effect (lexical decision time to unrelated minus related probes)
+and standard deviations for the controls and the Broca group as a function of probe
+position (pregap, gap, postgap) and the unaccusative verbs' [ voice alternation]
+property (subject based; F1 analysis)
+
+Group
+
+Verb Type
+
+Controls
+
+Unergatives
+SD
+Range of RTs
+ACT alternating
+unaccusatives
+SD
+Range of RTs
+ACT nonvoice
+alternating
+unaccusatives
+SD
+Range of RTs
+NACT alternating
+unaccusatives
+SD
+Range of RTs
+NACT nonvoice
+alternating
+unaccusatives
+SD
+Range of RTs
+Unergatives
+SD
+Range of RTs
+ACT alternating
+unaccusatives
+SD
+Range of RTs
+ACT nonvoice
+alternating
+unaccusatives
+SD
+Range of RTs
+NACT alternating
+unaccusatives
+SD
+Range of RTs
+
+Patients
+
+Probe
+Position 1
+
+Probe
+Position 2
+
+Probe
+Position 3
+
+155.1**
+74.7
+-66.2-367.4
+
+9.6 (ns)
+39.1
+-165.6-187.7
+
+12.6 (ns)
+10.8
+-239.6-266.4
+
+314.3**
+311.4
+163.9-597.5
+
+584.4**
+331.8
+425.7-779
+
+-103.8 (ns)
+337.6
+-359-147
+
+111.4**
+495.5
+30.7-464.4
+
+440.1**
+312.7
+213-566.3
+
+-30.9 (ns)
+70.2
+-290.6-215.4
+
+171.8**
+484.6
+125.2-558.8
+
+776.6**
+571.2
+661.8-1015.2
+
+3.4 (ns)
+925.2
+-180.7-325.3
+
+186.3**
+550.8
+130-563.7
+888.9**
+1509.8
+225.2-2331
+
+649.2**
+229.7
+426.8-780.2
+-98.2 (ns)
+162.6
+-1097.3-900.8
+
+160.4 (ns)
+481.7
+-122.3-383.7
+155 (ns)
+424.5
+-955.7-1178.3
+
+617.4**
+1918.7
+-47.2-2058.5
+
+374.6 (ns)
+1253.2
+-624.5-1373.7
+
+1746*
+1874.3
+679-2813.1
+
+744.2**
+1060.5
+79.5-2185.3
+
+68.6 (ns)
+1035.1
+-930.5-1067.7
+
+-244.6 (ns)
+1519.9
+-1311.6-822.4
+
+1934**
+1218.8
+1071.4-3177.1
+
+3221.2**
+1376.5
+2294.4-4292.7
+
+859.5 (ns)
+1584.1
+-330.7-1803.3
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+258
+
+Table 5 (cont.)
+
+Group
+
+Verb Type
+NACT nonvoice
+alternating
+unaccusatives
+SD
+Range of RTs
+
+Probe
+Position 1
+
+Probe
+Position 2
+
+Probe
+Position 3
+
+1386.2**
+1479.1
+612.9-2718.7
+
+2528.9**
+2263.8
+1334.6-3332.8
+
+135.4 (ns)
+1593
+-1060-1074.1
+
+Note: The statistical significance of priming effects (i.e., significant evidence of
+antecedent reactivation) is indicated by **p < .05 (significant), *.05 < p < .07
+(marginally significant), or nonsignificant.
+
+Verb Classes
+Unergatives
+ACT alternating anti-causatives
+ACT non-voice alternating anti-causatives
+NACT alternating anti-causatives
+NACT non-voice alternating anti-causatives
+3500
+3000
+2500
+
+Y
+
+2000
+1500
+1000
+500
+
+Controls
+
+Probe Position 3
+
+Probe Position 2
+
+Probe Position 1
+
+Probe Position 3
+
+Probe Position 2
+
+Probe Position 1
+
+0
+
+Patients
+
+Figure 1. The priming effect (lexical decision time to unrelated minus related probes) for
+both groups as a function of probe position (pregap, gap, postgap) and verb type (unergatives,
+active [ACT]-alternating unaccusatives, ACT-nonalternating unaccusatives, nonactive [NACT]alternating unaccusatives, and NACT-nonalternating unaccusatives).
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+259
+
+alternating unaccusatives and NACT alternating unaccusatives, t (6) = 1.768, p <
+.05 for the difference between ACT alternating unaccusatives and NACT nonvoicealternating unaccusatives, t (6) = 3.932, p < .005 for the difference between
+ACT nonvoice-alternating unaccusatives and NACT alternating unaccusatives,
+and t (6) = 2.061, p < .04 for the difference between ACT nonvoice-alternating
+unaccusatives and NACT nonvoice-alternating unaccusatives. In contrast, the
+verb type effect at Probe Position 3 stemmed from significant differences between
+ACT alternating and nonvoice-alternating unaccusatives, t (7) = 3.069, p < .02.
+Analysis of RTs for the unrelated probe as indication of processing load
+
+The controls' and the aphasic participants' RT data lent themselves to an additional
+type of analysis, namely, the measurement of a possible increase in the RTs
+for the unrelated probes during the priming trajectory from Probe Position 1 to
+Probe Positions 2, and then to Probe Position 3. To this end, we ran one-way
+ANOVA analyses for the RTs elicited by the unrelated probe words only, and
+for each probe position with verb type (unergatives, ACT unaccusatives, NACT
+unaccusatives) as the repeated measure. With respect to the controls, the analysis
+revealed no difference between the verb classes for Probe Position 1, but yielded a
+significant effect of verb class for both Probe Positions 2 and 3, F1 (2, 42) = 5.365,
+p < .01, and, F1 (2, 42) = 8.525, p < .001, respectively. More specifically, the
+verb type effect at Position 2 was mainly derived by the significant RT difference,
+t (14) = 3.925, p < .001 (one-tailed, subject-based data; collapsing across items)
+detected between the unergatives and the ACT unaccusatives which have yielded
+the highest RT (for the unrelated probes) among the three verb classes (ACT
+unaccusatives = 1502.2 ms > NACT unaccusatives = 1424.1 ms > unergatives =
+1319.2 ms). The same pattern of performance was registered for Probe Position 3,
+whereby the RT difference between the unergatives and the ACT unaccusatives was
+found to be statistically significant, t (14) = 5.252, p < .000, with the highest RTs
+for the unrelated probes being once more elicited by the ACT unaccusative verb
+class (ACT unaccusatives = 1579.8 ms > NACT unaccusatives = 1514 ms >
+unergatives = 1447.8 ms). In contrast, the analysis of the aphasic data for the
+unrelated probes across the three probe positions has not revealed a significant
+verb type effect for any of the positions. Yet, it is worth mentioning that the
+NACT unaccusative verb class tended to systematically yield the highest RTs for
+the unrelated probes relative to the unergatives and the ACT unaccusatives, with
+the specific difference becoming more pronounced at Probe Position 2 (NACT
+unaccusatives = 4717.7 ms > ACT unaccusatives = 3229 ms > unergatives =
+3049.9 ms) and Probe Position 3 (NACT unaccusatives = 4595.5 ms > ACT
+unaccusatives = 3396.1 ms > unergatives = 3315.3 ms). Based on the specific
+data, there was an increase in RTs for the unrelated probes at Probe Position 3
+compared to Probe Position 2 for both unergatives and ACT unaccusatives across
+both the control (increase of 128.6 ms for unergatives, and 77.6 ms for ACT
+unaccusatives) and the aphasic group (increase of 265.4 ms for unergatives, and
+167.1 for ACT unaccusatives). On the contrary, while the controls have exhibited
+an increase of 89.9 ms at Probe Position 3 for NACT unaccusatives, the patients
+have exhibited a decrease of 122.2 ms for the same verb category. These differences
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+260
+
+among the three verb classes were not found to be significant on either item (F2)
+or subject analysis (F1).
+Priming effect for the control and the Broca group as a function of the
+[animacy] of the syntactic subject
+
+Finally, the manipulation of the [animacy] feature of the syntactic subject of the
+verbs across both ACT and NACT unaccusatives in the CMLP task allowed us to
+evaluate our initial hypothesis that animacy drives syntactic predictions during the
+processing of the two verb categories. To this end, we ran (a) a comparison between
+the priming effect elicited by the unergatives (RTs for unrelated probes minus RTs
+for related probes) and the priming effect elicited by the ACT unaccusatives in
+the animate trials only (RTs for unrelated, animate probes minus RTs for related,
+animate probes) at each probe position for each group, which was done by oneway ANOVAs for each probe position with verb type as the repeated measure, and
+(b) a comparison between the priming effect elicited by the animate trials (RTs for
+unrelated, animate probes minus RTs for related, animate probes) and that elicited
+by the inanimate trials (RTs for unrelated, inanimate probes minus RTs for related,
+inanimate probes) of the NACT unaccusative verb class for each probe position,
+for each group, which was done by one-way ANOVAs for each probe position
+with [animacy] of the subject as the repeated measure.
+With respect to the control group, the results from the comparison between the
+unergatives and the ACT unaccusatives revealed a significant effect of verb type at
+Probe Position 2: the priming effect for ACT unaccusatives was reliably stronger
+relative to the unergatives, F1 (1, 28) = 3.983, p < .05, which probably implies
+that the unaccusative verb subcategorization drove syntactic expectations about
+argument realization as early as immediately after the verb, thus disregarding
+animacy violations. In fact, the trend analysis for the animate trials in the ACT
+unaccusative verb condition, with subjects as the random variable, yielded a significant quadratic trend, F1 (1, 14) = 7.604, p < .02, suggesting that there is priming
+for the syntactic subject DP, then reactivation of the antecedent at Probe Position 2,
+and there is no reactivation of the antecedent at a later temporal point. With respect to the aphasic patients, the same analysis yielded no significant difference
+between the two verb types for neither position; the trend analysis for the animate
+trials in the ACT unaccusative verb condition has yielded a nonsignificant linear
+trend (p = .14).
+In contrast, the analysis comparing the priming effect between animate and
+inanimate trials in NACT unaccusatives revealed a significant effect of animacy
+at Probe Position 2 for both groups; the priming effect for the inanimate trials was
+found to be considerably stronger relative to the animate trials, F1 (1, 28) = 5.219,
+p < .03 for the controls, F1 (1, 14) = 8.769, p < .01 for the Broca group. More
+specifically, the trend analyses have yielded significant quadratic effects for the
+inanimate trials, F1 (1, 14) = 11.419, p < .005 for the controls, F1 (1, 7) = 6.535,
+p < .04 for the patients, indicating reactivation of the antecedent at the gap position
+and then decay of the priming effect. On the contrary, the trend analyses for the
+animate trials in the NACT unaccusative verb condition yielded significant for the
+controls but nonsignificant for the patients U-shaped trends, F1 (1, 14) = 16.139,
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+261
+
+p < .01 for the controls, F1 (1, 7) = 4.021, p = .08 for the patients, thus suggesting
+decay in activation at Probe Position 2, and then reactivation of the antecedent at
+Probe Position 3.
+DISCUSSION
+
+In this study we have investigated the processing of unaccusativity in a group of patients with Broca aphasia and a group of language-unimpaired control participants
+by using the CMLP technique. To review, we auditorily presented unergative and
+unaccusative sentences, the latter appearing with either ACT or NACT voice morphology and with animate or inanimate entities in the syntactic subject position.
+We presented visual probes either semantically related to the subject-antecedent
+DP or unrelated probes, and these probes were presented at one of three probe
+positions: pregap, gap, and postgap sites. With this task, shorter RTs to probes
+which were semantically related to the derived subject DP, relative to the RTs for
+the unrelated probes, would indicate activation/priming of the antecedent.
+The results indicate distinct priming patterns for the Broca group relative to
+the language-unimpaired control group, as evinced by significant interactions
+involving the group variable. The aphasic group evinced no priming at either gap
+or postgap position for the ACT nonvoice-alternating unaccusative verbs, while
+late antecedent reactivation (at Probe Position 3) was reported for the patients for
+the ACT voice-alternating unaccusative verb class. Language-unimpaired controls,
+in contrast, evinced reactivation of the antecedent immediately at the gap position
+regardless of the unaccusative verbs' morphological marking (ACT/NACT) or
+their [ voice-alternation] property. The pattern of aphasic performance suggests
+that the processing deficit underlying Broca aphasia percolates to their lexiconfiltered system which is responsible for the valuation of some intransitive verbs
+as unaccusatives in the absence of an overt (NACT) morphological marking on
+their stem. The late priming effect registered at the postgap position (i.e., at Probe
+Position 3) for the ACT voice-alternating unaccusatives implies that the possibility
+of these verbs to appear with NACT voice morphology enhanced the reactivation
+of the antecedent even in a protracted manner.
+A possible explanation for this pattern of performance is that the additional
+underlying layer of mediopassive morphology in ACT voice-alternating unaccusatives functions as a marker of transitivity and thus facilitates antecedent reactivation, par consequence, grammatical encoding for the specific verb type. The
+finding that the patients have eventually reactivated the displaced argument at a
+later temporal window (after the gap site) is probably related to the Broca group's
+delayed access to the critical verb's underlying NACT morphology. If syntactic
+structure for ACT unaccusatives must be built at the gap site requiring parallel access to the verb's conceptual representation and lexicon-filtered information, perhaps there was just not enough time for our Broca patients to gain timely access to
+the verb's voice-alternating property. Probably, the coordination of multiple types
+of information (i.e., syntactic output, voice morphology, lexicon) in overlapping
+time spans overwhelms the processing system in Broca aphasia, thus postponing
+the reconstruction of the missed constituent till a later temporal window once voice
+morphology cues are fully accessed. This possibility is directly related to accounts
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+262
+
+that speak in favor of an overall slowing down of formal syntactic operations,
+including the Voice projection, in Broca aphasia (Burkhardt et al., 2003, 2008).
+Furthermore, a rather interesting caveat is derived from the patients' antecedent
+reactivation pattern of performance in ACT voice-alternating unaccusatives. Some
+of the language comprehension models claiming for a disruption of some process
+crucial to the comprehension of movement-derived sentences in Broca patients rest
+on evidence of a reduced verbal working memory capacity. These models (e.g.,
+Martin, 2003; Rogalsky, Matchin, & Hickok, 2008) posit that verbal working memory functions are associated with activation in the Broca area, such that a trauma
+to the specific brain region may reduce the efficiency of retrieval mechanisms
+necessary for restoring information into active memory, thus increasing language
+difficulties for the aphasic patients. Following the same line of reasoning, voicealternating verbs implicating an additional morphological layer should increase
+the amount of items that either need to be held in memory or be retrieved during
+integration processes. The findings of the present study provide evidence in favor
+of the patients' spared (yet, delayed) access to the NACT morphological alternant
+of ACT voice-alternating unaccusatives; such morphophonological cue may be
+held responsible for the presence of a priming effect in the ACT voice-alternating,
+but not in the ACT nonvoice-alternating unaccusatives.
+One possibility for such pattern of performance is that the [+voice-alternation]
+property of unaccusative verbs is relevant in a separate morphological interface,
+which computes the morphophonologically distinct voice forms of a single voicealternating verbal root, while a different mechanism computes hierarchical syntactic relations. The idea of a presyntactic morphology interface responsible for
+the morphological realization of categories retrieved from the lexicon was first
+introduced by Froud (2001) to account for her aphasic patient's morphological
+representations of functional categories. Froud conceived of such an interface as
+an isolable module in the language faculty that feeds into syntax. It is crucial
+that the morphology interface is not available to top-down interference, thus it is
+not subject to the memory-based constraints modeling linguistic production and
+comprehension. We may thus account for the Broca group's ability to gain access
+to the NACT morphological alternant of ACT voice-alternating unaccusatives in
+terms of a relatively intact morphological processing stream that is assumingly
+independent from memory-based limitations. This explanation is also consistent
+with Caplan and Waters' (1996, 1999), and Waters and Caplan's (2004) theory
+of working memory as a set of resources that each support different language
+comprehension functions.
+In contrast, the aphasic group's antecedent reactivation pattern in NACT (both
+alternating & nonalternating) unaccusative verbs was striking in its similarity to
+the language-unimpaired subjects; a priming effect was observed immediately
+after the critical NACT verb at the gap site. Partial support for the distinctive
+priming behaviour of the NACT unaccusative verb class (relative to the ACT
+unnacusatives) in the Broca group is also offered by the verb class effect that
+has emerged at Probe Position 2 and has set apart NACT from ACT unaccusatives in terms of the strength of the two sets' priming effect. The patients'
+timely establishment of a link between the postverbal trace and its antecedent in
+real time for NACT unaccusatives validates our previous finding that the NACT
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+263
+
+suffix serves as a substantial morphosyntactic cue to the on-line derivation of the
+argument structure of the unaccusative verbs. The specific assumption requires
+that the patients are sensitive to the verbs' morphology, and this sensitivity is
+probably contingent on the strong interpretability of the NACT morpheme; the
+morphological marking of the verb after the suppression of the external theta
+feature indicates a thematic structure/transitivity change. In this sense, the specific finding conflicts with the impaired interpretable features hypothesis which
+proposes that "functional categories that carry interpretable features cause more
+difficulties to nonfluent aphasic subjects" (Varlokosta et al., 2006, p. 742) and that
+for these patients "the morphophonological realisation of interpretable features
+[is] not functioning" (Nanousi et al., 2006, p. 235).11 The facilitatory role of the
+unaccusative verb's morphological marking on the on-line dependency formation
+between the postverbal trace and the derived subject position does not appear
+to emerge in production where morphophonological complexity of inflected verb
+forms predicts retrieval difficulties for aphasic patients (e.g., Miceli & Caramazza,
+1988).
+The patients' processing of unergative verbs, in contrast, offers evidence in
+favor of the aphasic individuals' sensitivity to the subcategorization information
+encoded in the specific verb class. Such sensitivity was manifested in the lack of a
+significant priming effect at either gap or postgap position. Nevertheless, the weak
+upwards shift of the priming trajectory at Probe Position 3 for the unergatives
+implies a replanning of the sentence-initial planning window for the patients, and
+can (carefully) be interpreted as a weak antecedent reactivation effect at the postgap
+site. Of the most interest, this pattern of performance was encountered in Burkhardt
+et al.'s (2003) study wherein the unergatives registered a statistically significant
+priming effect 100 ms after the verb for the neurologically intact control subjects.
+As already mentioned, this effect was accounted for in terms of the VP-internal
+subject hypothesis (Koopman & Sportiche, 1991).
+According to the present study, this finding for the Broca group could be accounted for by different possibilities. One first account may be that the patients'
+syntactic deficit impeded on their full access and utilization of the subcategorization information of the verbs that were ultimately interpreted by the patients
+as transitives. Yet, this explanation does not fully account for the priming effect emerging at Probe Position 3 and not immediately after the verb at the
+gap site. According to the second possibility, the specific pattern could reflect
+the systematic grammaticalization of transitivity reported for an increasing number of verbs of semitransparent intransitivity in the Greek language (Roussou &
+Tsimpli, 2007). There is empirical evidence from Modern Greek showing that
+lexical transitivization takes place in a specific subclass of unergative/intransitive
+V-roots (mainly manner of motion and bodily function verbs; some of them are
+used in the present task, see unergatives in the Appendix B) in which the correlation
+between unergativity and intransitivity is not absolute. This semitransparency allows for the verbs' causativization, with the ultimate aim of shifting the attentional
+focus from the causee to the cause of the event portrayed by the verb (e.g., Ta pola
+eksoa jonatisan ton patera tu Adrea / (literal translation): "The many expenses
+kneeled Adreas' father," O imosiojrafos ierefse tin iisi oti epikite anashimatismos tis kivernisis/"The journalist leaked the news that a Cabinet shuffle is
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+264
+
+underway," Me afta pu foras pos na se kikloforiso/"How I am supposed to go you
+out with the clothes that you are wearing?," I Maria etrekse to projrama/"Maria
+ran the programme"). If this transitivization procedure is underway in the Greek
+language, we may reason that the priming effect at the postgap site is not due to
+a disruption of information encoded in the subcategorization restrictions of the
+unergative verbs in question, but rather to a causativization procedure triggered by
+discourse-based reasons that raised the patients' expectancy levels for a postverbal
+object.12
+Partial insights into the language processing capacities of the Broca group
+are also gained by its RTs for the unrelated probes across both the unergative
+and the unaccusative verbs. More specifically, the specific data were treated as
+an indication of gap filling (Friedman et al., 2008; Shapiro, Gordon, Hack, &
+Killackey, 1993; Shapiro, Nagel, & Levine, 1993; Shapiro, Zurif, & Grimshaw,
+1987; 1989) such that unmet expectations of an unrelated probe at the gap position
+(needed to be filled with the antecedent) would result in considerably increased
+RTs for the relevant trials. The first point to be noted relates to the unexpected
+finding that the greatest postverbal increase in RTs for the unrelated probes was
+registered for the unergative verbs at Probe Position 3 across both experimental
+groups. Although this result was not found to be significant it may carefully be
+interpreted as evidence in favor of a transitivization effect. More specifically, one
+viable possibility is that the increase in RTs (for the unrelated probes) reflects
+the participants' unmet expectations for a postverbal object, like in transitive
+sentences.
+Another point worth mentioning pertains to the finding that the patients' RTs
+for the unrelated probes were not significantly different across the various verb
+classes, except maybe from their tendency to slow down their lexical responses
+for the unrelated probe trials especially in the NACT unaccusative verb condition
+at both Positions 2 and 3. On the contrary, RTs for the ACT unaccusative verbs for
+the control group were significantly contrasted with the RTs for the unergatives,
+with the latter eliciting the shortest RTs during on-line sentence processing. The
+lack of a parallel effect in the Broca group offers support for our assumption that
+unergatives and ACT unaccusatives were treated in the same way by the patients.
+Perhaps, the individuals with aphasia did not exert more effort as the complexity
+of the linguistic materials increased, as is the case with ACT unaccusatives which
+require a combinatorial stream of information from both the lexicon and the syntactic output for their resolution. This is consonant with the experimental literature
+demonstrating that individuals with aphasia have difficulty monitoring their own
+performance, appropriately evaluating task demands, and thus allocating a sufficient amount of resources for the successful processing of the sentences (Murray,
+Holland, & Beeson, 1997; Tseng, McNeil, & Milenkovic, 1993). In contrast, the
+overall slowing down of the patients' lexical responses for the NACT unaccusatives
+at the postverbal region may be attributed to the morphophonological complexity
+of the mediopassive morpheme; the decomposition of a NACT verb produces more
+"activity" than the processing of a morphologically less complex form (Tsimpli,
+2006). Following this reasoning, a second viable account for the patients' lack
+of a significant RT difference across the different verb types at the postverbal
+region is that the processing resources of the individuals with aphasia were taxed
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+265
+
+to the maximum by the NACT unaccusative sentences to begin with, such that,
+increasing complexity of the ACT unaccusative sentences did not further impact
+RTs for the unrelated probes.
+We end by elaborating on the evidence highlighting the crucial role played by
+the [animacy] of the subject in the modulation of the patients' parsing choices for
+the unaccusative sentences. The lack of a significant postverbal difference between
+the priming effect elicited by unergatives and ACT unaccusatives with an animate
+subject in the Broca group evinces that both structures were parsed in a similar
+manner; there was no reactivation of the antecedent for ACT unaccusatives with an
+animate entity in subject position. The most plausible explanation for this pattern
+of performance relates to a heuristic-based strategy of thematic role assignment
+whereby an animate entity in subject position is a prototypical actor/agent, as
+such, it best qualifies for an unergative or a transitive parsing scenario. Following
+the specific heuristics, we hypothesize that the animacy of the subject argument in
+ACT unaccusatives might have led the aphasic parser to assume an unergative (or
+a transitive with a null object) interpretation, thus blocking antecedent reactivation
+postverbally. On the contrary, the controls appeared not to be influenced by the
+animacy of the subject during the processing of ACT unaccusatives; the difference
+in the priming effect between the two verb classes (i.e., unergatives vs. ACT
+unaccusatives) was found to be significant, thus suggesting that a syntactically
+and lexically determined interpretation construing the subject as originating from
+an internal argument position in ACT unaccusatives tended to overcome any
+animacy bias.
+The comparison between the priming effects elicited by animate and inanimate
+subjects in NACT unaccusatives points towards the same interpretive direction, that
+is, the crucial interference of animacy heuristics during on-line agrammatic sentence processing. More specifically, the postverbal priming effect for the inanimate
+trials was found to be considerably stronger relative to the animate trials, which
+have exhibited weak signs of antecedent reactivation at the postgap position. We
+believe that the U-shaped trajectory of the priming effect in NACT unaccusatives
+with an animate subject is attributed to a garden-path effect caused by the early
+interference of the reflexive reading during on-line sentence processing. The reader
+is reminded that NACT verbs with an animate subject are also prone to a reflexive
+interpretation (along with the unaccusative one) whereby the single syntactic argument is the verb's true, nonderived agent. The lack of an antecedent reactivation
+effect at Position 2 for NACT unaccusatives with an animate subject may thus be
+attributed to the dominance of the reflexive reading, which is a relatively cost-free
+parsing option relative to the "copy-paste" procedure (that is, the reconstruction of the DP subject at a postverbal position) implicated in unaccusatives. The
+temporal span available to the patients after the gap has probably allowed them
+some time to access the verbs' lexical information, yet, it was not enough to
+attain at significant antecedent reactivation for the relevant verb class at Probe
+Position 3.
+It is crucial that the dissociation between the priming effects elicited by the
+animate and the inanimate trials in NACT unaccusatives for the Broca group was
+most pronounced for Probe Position 2 (i.e., the gap site). Such finding implies that
+the patients gained access to the [animacy] of the verb's subject immediately
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+266
+
+after the verb. On the contrary, the reader is reminded that the patients' access to
+the underlying NACT voice morphology for the ACT voice-alternating unaccusative verbs was achieved at a later point during the temporal unfolding of the
+sentence (i.e., at Probe Position 3). Such pattern of performance is consistent
+with the observation that Broca patients primarily rely on semantic information in
+assigning thematic roles to syntactic arguments in general (Saffran, Schwartz, &
+Linebarger, 1998).
+It is of the most interest that the control group has exhibited similar to the
+Broca group's patterns of performance across both the animate and the inanimate trials in NACT unaccusatives: a significant priming effect was registered
+for the inanimate subject trials immediately after the verb, while controls' more
+robust (relative to the patients) lexical preferences secured a significant priming effect for the animate subject trials as well, yet, in a protracted manner (at
+Probe Position 3). The particular evidence suggests that the use of heuristics
+(in other words, a model of parsing that assumes a minimal effort principle
+for initial parsing) reflects both Broca patients' and language-unimpaired subjects' linguistic system. Such assumption appears to be in line with a number
+of linguistic and psycholinguistic studies with control populations (e.g., Chang,
+Bock, & Goldberg, 2003; Pappert, Zeiske, & Pechmann, 2009) showing how
+animacy heuristics are extensively employed during thematic role assignment
+(especially in morphologically rich languages) in the parsing of noncanonical
+constructions, as well as in the resolution of syntactic ambiguities. Unfortunately,
+the use of animacy heuristics has been rarely explored in Broca aphasia; yet, we
+believe that further and deeper work on the specific issue may eventually lead
+to a better understanding of language processing in both healthy and impaired
+populations.
+CONCLUSION
+
+The present study has focused upon investigating Broca patients' sensitivity to
+the unaccusativity features of intransitive verbs in Greek by using the CMLP
+technique. Of the most importance, the analyses were also directed to assess
+which representational type of verb, if any, determined unaccusative verb processing complexity for the patients by manipulating the [voice-alternation]
+property of unaccusative verbs in the Greek language. The data from the lefthemisphere damaged subjects show that lexical specification of unaccusativity
+alone can not account for the patients' processing performance; the patients did
+not show reactivation of the antecedent for the ACT nonvoice-alternating verbs,
+while they showed delayed antecedent reactivation for the ACT voice-alternating
+unaccusatives, thus revealing a protracted reconstruction effect for the latter. This
+result is in line with previous work suggesting a slow-rise time of syntactically
+relevant processing routines in agrammatic aphasia, further elucidating Broca patients' difficulty with gaining timely access to the verbs' underlying morphology.
+In contrast, the NACT verbs were found to be normally reconstructed by the Broca
+group at the elided position and no later than that. Such evidence suggests that
+the patients consistently take into account the verbs' (marked) voice morphology
+during on-line sentence processing. Unlike the patients, the controls did not show
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+267
+
+the asymmetric pattern of NACT > ACT morphology in their priming trajectories,
+which has been linked to their direct access to the verbs' lexical specifications at
+the lexicon-syntax interface. It is crucial that the analyses suggest that not only
+voice morphology cues but also information on the animacy features of the derived
+subject in unaccusatives is systematically related to the patients' parsing options
+during on-line unaccusative sentence processing. These data show how together
+morphological and semantic information facilitates (or hinders) the on-line interpretation of unaccusatives. Experimental materials drawn from languages other
+than English, thus supplement existing evidence on unaccusativity processing by
+Broca patients by providing a means of examining the nature of morphology and
+animacy influences on agrammatic comprehension, and thereby helping to refine
+accounts of antecedent reactivation patterns in unaccusatives.
+
+APPENDIX A
+Lesion information of each participant in the Broca group
+Patient
+GCH
+VSK
+
+SP
+THP
+DENT
+
+THR
+
+THEX
+PAPAL
+
+Lesion Site
+Left-hemisphere ischemic stroke: lesion in Broca area with deep extension
+involving cortical and subcortical gyrus of left inferior temporal-parietal
+lobe and left basal ganglia
+Left-hemisphere ischemic stroke: large lesion in Broca area, with deep
+extension involving subcallosal fasciculus, lesion in insular structure across
+temporal isthmus, and some superextension to supermarginal gyrus and
+angular gyrus
+Extensive hemorrhage of the left basal ganglia: most of Broca area
+Left-hemisphere ischemic stroke (occlusion of left middle cerebral artery):
+most of the Broca area, left arcuate fasciculus, anterior and posterior
+supermarginal gyrus, and part of angular gyrus
+Left-hemisphere ischemic stroke: all Broca area, with deep extension to white
+matter, some involvement of subcallosal fasciculus, insular structure,
+putamen, anterior limb of internal capsule; superior extension involving
+lower two-thirds of motor and sensory cortex, anterior and posterior
+supermarginal gyrus, and part of angular gyrus
+Left-hemisphere ischemic stroke: patchy left hemisphere lesion involving
+temporal isthmus and posterior portion of putamen and insular area;
+posterior supermarginal and angular gyrus areas, with deep extension to
+border of body of left lateral ventricle
+Left-hemisphere ischemic stroke: left frontal Broca area, with deep extension
+to left frontal horn and lower motor cortex
+Left-hemisphere ischemic stroke: all Broca area, one-half left arcuate
+fasciculus, one-half temporal isthmus, one-half Wernicke's area;
+periventricular white matter, insular structure, putamen, global pallidus,
+anterior limb of internal capsule, super lesion involving premotor, motor,
+and sensory cortex, anterior supermarginal gyrus; supplementary motor
+area, cingulated gyrus area 24
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+268
+
+APPENDIX B: TESTING SENTENCES
+Unergatives
+1. O jiatros # me ti lefki poia ksafnika hamojelase # otan i omorfi nosokoma # perase apo
+to iaromo
+"The doctor with the white apron suddenly smiled when the beautiful nurse walked down
+the corridor"
+2. To moro # apo tin proti mu ksaerfi ksafnika ipsase # otan ie ti thia mu # na pini nero
+"My first cousin's baby suddenly got thirsty when he saw my aunt drinking water"
+3. O thios # me ti mejali kilia sinehia rohalize # otan pijene sto krevati # ke ton eperne o
+ipnos
+"The uncle with the big belly was always snoring when he was going to bed and dozed
+off"
+4. O iravlikos # me tin kokini forma ksafnika lipothimise # otan i zesti mesa sto omatio
+itan foveri # kai kanena parathiro en itan anihto
+"The plumper with the red uniform suddenly fainted when the heat in the room was
+unbearable and no window was open"
+5. O psaras # me to majazi sti jonia ksafnika pinase # otan ie enan psilo kirio # na troi mia
+tiropita
+"The fisherman with the shop in the corner suddenly got hungry when he saw a tall man
+eating a cheese-pie"
+6. I askala # me ta mavra malia sinehia aperjuse # otan i kivernisi athetise tis iposhesis tis
+# ke en eose tis afksisis
+"The teacher with the black hair was continuously on strike when the government didn't
+keep its promises and didn't grant the raises"
+7. O arheolojos # me to mejalo kapelo ksafnika evikse # otan i skoni apo ton aera itan poli
+# ke bike sto stoma tu
+"The archaeologist with the big hat suddenly coughed when the dust from the air got into
+his mouth"
+8. O mastoras # me ta sierenia erjalia ksafnika akrise # otan espase to poi tu # ke o
+jiatros tu apajorepse na ksanaulepsi
+"The craftsman with the iron tools suddenly wept when he broke his leg and the doctor
+forbade him to work again"
+9. O athlitis # me to htipimeno poi ksafnika ponese # otan pije na kani jimnastiki # sto
+jimnastirio tis jitonias tu
+"The athlete with the hurt leg suddenly felt a pain when he tried to exercise at the gym of
+his neighborhood"
+10. O ikastis # me to mavro hartofilaka ksafnika etrekse # otan o katijorumenos gia to fono
+# evjale krifa tis hiropees tu
+"The judge with the black suitcase suddenly ran when the man who was accused for
+murder has secretly put out his handcuffs"
+11. I nikokira # me tis poles sakules sta heria vaize # otan o listis me ti mavri kukula # tis
+arpakse me via tin tsada
+"The housewife with the many shopping bags on her hands was walking when the thief
+with the black hood has violently grabbed her bag away"
+12. O olofonos # me to ageliko prosopo ksafnika rapetefse # otan o astinomikos kimithike
+stin karekla tu tmimatos # ekso apo to keli
+"The murderer with the angelical face suddenly escaped when the policeman fell asleep
+on the chair of the police station right out of the cell"
+13. I nifi # me to makri nifiko sinehia horeve # otan teliose to fajito tis eksiosis # ke ta klarina
+arhisan
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+269
+
+"The bride with the long gown was dancing all the time when the dinner of the reception
+has finished and the clarinets began to play music"
+14. I ipiretria # me ti lefki poia ksafnika fovithike # otan ie to listi me ti mavri kukula # na
+beni sto spiti apo to parathiro
+"The maid with the white apron suddenly got scared when she saw the thief with the
+black hood getting into the house through the window"
+15. O enikiastis # tu iamerismatos sto eftero orofo ksafnika efije # otan pire metathesi stin
+Athina # ke anagastike na metakomisi
+"The tenant of the apartment on the second floor suddenly left when he got transferred to
+Athens and he was forced to leave"
+16. I mathitria # tu tritu thraniu ksafnika jelase # mesa sti mesi tu mathimatos tis istorias #
+otan o iplanos tis ipe ena anekoto
+"The student sitting at the third desk suddenly laughed in the middle of the history class
+when the student next to her cracked a joke"
+
+ACT unaccusatives
+1. O trajuistis # me tis poles epitihies ksafnika kriose # otan vjike horis palto # sto romo
+pu hionize
+"The singer with the many hits suddenly got cold when he went out on the street without
+a coat while it was snowing"
+2. O epihirimatias # me ta tria erjostasia ksafnika lijise # otan i trapeza en tu eose to
+anio # ke hreokopise
+"The businessman with the three factories suddenly bent when the bank didn't grant him
+the loan and he went bankrupt"
+3. I mitera # me to varia arosto pei sinehia elione # kathos etrehe sinehia sta nosokomia #
+horis to pei tis na ginete kala
+"The mother with the ill child was wasting way since she kept going to hospitals without
+her child being healed"
+4. O hrimatistis # me tis poles metohes ksafnika espase # otan meta apo mia perioo
+ikonomikis krisis # emathe oti ehase ola ta keri tu
+"The broker with the many stokes suddenly broke when after a period of financial crisis
+he learnt that he has lost all of his profits"
+5. To ajori # me ta mavra malia ksafnika iplose # sto eafos apo aforitus ponus # ke fonaze
+ti mama tu
+"The boy with the black hair suddenly folded on the ground with unbearable pains and
+he was screaming for his mother"
+6. To koritsi # me to roz forema ksafnika htipise # otan epeze kinijito stin peiki hara # ke
+jlistrise
+"The girl with the pink dress suddenly hit when she was playing tag at the playground
+and she slipped"
+7. To moro # me ta ble matia ksafnika lerose # mia ora meta to fajito # otan ekane emeto
+"The baby with the blue eyes suddenly spilled himself one hour after lunch when he
+vomited"
+8. To prosopo # tis ilikomenis kirias ksafnika tedose # meta tin triti plastiki epemvasi # pu
+ekane to kalokeri
+"The face of the old lady suddenly stretched after the third plastic surgery that she had in
+the summer"
+9. To edro # sto kedro tu kipu ksafnika anthise # otan o keros ejine kaliteros # ke anevike
+i thermokrasia
+"The tree in the centre of the garden suddenly blossomed when the weather improved and
+the temperature rose"
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+270
+
+10. I varka # me ti mejali tripa ksafnika vuliakse # apo ena megalo kima sti thalasa # ke pije
+katefthian ston pato
+"The boat with the big hole suddenly sank by a big wave in the sea and it went straight to
+the bottom"
+11. Ta malia mu # meta ti vafi ksafnika epesan # otan hrisimopiisa to kenurio proion # pu iha
+feri apo Ameriki
+"My hair after the tint suddenly fell when I used the new product that I had brought from
+America"
+12. To edro # me ta pola portokalia ksafnika maragiase # meta to inato halazi to apogevma
+# ke ola ta fila epesan kato
+"The tree with the many oranges suddenly drooped after the strong hail of the afternoon
+and all its leaves fell down"
+13. I simea # stin avli tu sholiu ksafnika eskise # otan fisikse apotoma poli inatos aeras # ke
+to kodari epese kato
+"The flag in the school-yard suddenly tore when a very strong wind blew all of a sudden
+and the bargepole fell down"
+14. To forema # me ta pola hromata sinehia tsalakoni # logo tis kakis piotitas tu # opu ki an
+kathiso
+"The dress with the many colours crinkles all the time due to its bad quality wherever I
+may sit"
+15. To omatio # sto vorio tmima tu spitiu eftihos zestane # otan o keros ejine kaliteros # ke
+anevike i thermokrasia
+"The room at the northern part of the house fortunately heated when the weather improved
+and the temperature rose"
+16. To lastiho # tu akrivu aftokinitu ksafnika tripise # otan o oijos perase apo ena romo #
+me spasmena jialia
+"The tire of the expensive car suddenly pricked when the driver drove on a road with
+broken glasses"
+
+NACT unaccusatives
+1. I jineka # me ta makria malia ksafnika zestathike # otan kathise se ena pagaki tu parku #
+ke en ihe katholu skia
+"The woman with the long hair suddenly heated when she sat on a bench at the park
+where there was no shadow"
+2. To provato # sti mesi tu dromu ksafnika komatiastike # otan kapia stijmi htes to apojevma
+# perase ena fortijo apo pano tu
+"The sheep in the middle of the road was suddenly cut up when some moment yesterday
+afternoon a truck ran over it"
+3. O arostos # me tis lijes meres zois ksafnika jiatreftike # otan episkeftike ena monastiri
+prin lijes meres # ke ekane tama
+"The ill man with the few days of life suddenly healed when he visited a monastery a few
+days ago and he made an offering"
+4. I nosokoma # apo ta epijoda ksafnika lerothike # otan patise se laspes # se mia lakuva
+"The nurse from the emergency department suddenly spilled herself when she stepped in
+the mud of a pit"
+5. I frura # tis iasimis trajuistrias Madonna ksafnika tripithike # otan enas kodos mesilikas
+adras # katafere na plisiasi tin trajuistria
+"The guard of the popular singer Madonna suddenly pricked when a short middle-aged
+man managed to approach the singer"
+6. O poosferistis # me to akrivo simvoleo ksafnika iplothike # sto tetarto lepto tu agona
+me tin Aglia # otan o astrajalos tu jirise
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+271
+
+"The football player with the well-paid contract suddenly folded during the fourth minute
+of the match with England when his ankle twisted"
+I ethelodes # jia ton erano eftihos sigedrothikan # otan ta imosia ke ta iiotika kanalia #
+ton iafimisan me sihna spot
+"The volunteers for the fund-raising fortunately assembled when both the public and the
+private TV channels promoted it with frequent spots"
+O ilios # jiro sto apojevma ksafnika kriftike # otan ta sinefa apo tin katejia # plisiasan
+ke epiase vrohi
+"The sun in the afternoon suddenly hid when the clouds from the storm approached and
+it started to rain"
+To ptoma # apo tin ksanthia jineka ksafnika vithistike # otan to erikse sti thalasa # o
+satanikos olofonos
+"The corpse of the blonde woman suddenly sank in the water when the evil murderer
+threw it into the sea"
+Ta luluia # stin akri tu romu istihos marathikan # otan o kipuros arostise poli varia #
+ke e ulepse eka mines
+"The flowers in the corner of the street unfortunately withered when the gardener fell
+heavily sick and did not go to work for ten months"
+To harti # me tis simiosis ksafnika tsalakothike # otan epese kata lathos kato # ke to
+patisame me ta poia
+"The paper with the notes suddenly crumpled when it fell down by mistake and we stepped
+on it"
+To nisi # sta notia tis Elaas ksafnika htipithike # apo ena mejalo sismo jiro sta mesanihta
+# ke ta spitia gremistikan
+"The island in the south of Greece was suddenly stricken by a huge earthquake around
+midnight and the houses collapsed"
+To lastiho # tis horeftrias ksafnika tedothike # para poli kata ti iarkia tis parastasis # ke
+ejine hilia komatia
+"The hose of the dancer suddenly stretched too much during the performance and it tore
+into pieces"
+I zesti # apo tin Afriki eftihos miothike # meta apo mia poli inati katejia # pu kratise
+tris ores
+"The heat from Africa fortunately faded after a very strong storm that has lasted three
+hours"
+
+ACKNOWLEDGMENTS
+Many special thanks go to the eight aphasic patients for their contribution to the specific
+paper, the neurologist Tasos Papapostolou for his valuable help, and the two anonymous
+reviewers for valuable comments and helpful suggestions.
+
+NOTES
+1.
+
+Burkhardt et al.'s (2003) results with respect to the two aphasic subjects' performance on unaccusatives without an underlying causative structure are not clear
+enough. The authors report that the Broca patients were initially subjected to a
+task including unaccusative verbs of both types (i.e., with and without an alternative causative structure), but since preliminary results indicated that the patients did
+not show a clear pattern in unaccusatives without a causative alternant, they decided to do away with these data and concentrate exclusively on unaccusative verbs
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+2.
+
+3.
+
+4.
+5.
+
+6.
+
+272
+
+participating in the causative/inchoative alternation (Burkhardt et al. 2003; subnote
+8, p. 17)
+Note that in Friedmann et al.'s (2008) and Burkhardt et al.'s (2003) studies the term
+"alternating" for unaccusative verbs is used instead to denote the verbs participating
+in the causative/inchoative alternation, such as the verb break ("John broke the window"/"The window broke"). In contrast, the "nonalternating" term is used to refer
+to unaccusatives whose subject never appears as the direct object, such as the verb
+vanish ("John vanished"/*"The kidnapper vanished John"). To avoid confusion, we
+restrict the term "alternating" to the definition offered by Theophanopoulou-Kontou
+(2000), whereby alternation is understood in terms of the verb's optional change of
+voice morphology (i.e., ACT/NACT).
+In the present study, we are not particularly concerned with the exact reading assigned
+to the NACT verb stimuli used in the task (i.e., whether these verbs are going to be
+interpreted as unaccusatives, passives or middles). We are mainly interested in the
+subject in all three aforementioned structures being derived by movement of the object
+to subject position such that the antecedent should be reactivated at a temporal point
+postverbally. Nevertheless, we use the term unaccusative for all of the NACT verbs
+used in the present experiment since they have been labelled as such in the Greek
+traditional grammar.
+Likewise, Hale and Keyser (1993) assume that the presence of "additional" morphology in unaccusatives across languages signifies the directionality of the alternation.
+In contrast, no asymmetry is expected to occur between NACT voice-alternating and
+nonalternating unaccusative verbs with respect to the priming effect registered at a
+postverbal position, since the surface NACT morphology is sufficient to signal the
+transitivity change. As such, we expect that both classes will yield an antecedent
+reactivation effect at a normal processing moment, that is, immediately after the
+NACT verb at Probe Position 2.
+An anonymous reviewer pointed out that the phrase length and repetition performance
+of some of the patients as assessed by the BDAE-SF battery casts doubts on their
+diagnosis as Broca aphasic individuals; see Table 2 for six of the patients' (i.e.,
+GCH, VSK, THP, DENT, THR, and THEX) phrase length scores (90%) and half of
+the patients (i.e., VSK, DENT, THR, and THEX) sentence repetition scores (100%
+accuracy). An analysis of the six individuals' transcribed spontaneous speech and
+picture description data was first conducted in order to determine the exact content of
+the "longest possible noninterrupted sequence of lexical items uttered at call" (BDAESF: Goodglass, Kaplan, & Barresi, 2001, p. 3) by each of these patients during the two
+subtrials of the BDAE-SF. The analysis revealed that the patients' speech consisted
+mainly of nouns and rarely articles and adverbs, while the 90% phrase length score
+corresponded to five-word utterances at most. We cite a characteristic sample of one
+of the six patients" (GCH's) description of the "Cookie Theft" picture: [. . . o enas sto
+trapezi, mama eo . . . pos to len . . . ta pjiata . . . eo to nero, kurtina, peia . . . pos
+to len . . . vrisi, Literal translation: ". . . the one on the table, mother here . . . what is it
+called . . . the plates . . . here the water, curtain, children . . . what is it called . . . tap"].
+Such speech data may still be interpreted as indicative of nonfluent speech, since the
+reduced production of verbs and the overuse of nouns are two basic characteristics of
+agrammatic speech output (Miceli et al. 1984; Zingeser & Berndt, 1990). In contrast,
+the four patients' sentence repetition scores in the BDAE-SF were derived from the
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+7.
+
+8.
+
+9.
+10.
+
+11.
+
+12.
+
+273
+
+repetition of two sentences, namely, (a) o pateras erhete spiti/"The father comes
+home," and (b) perni to harti apo to trapezi/"He takes the paper from the table."
+As one can see, both sentences are simple transitive structures with commonly used
+lexical items, such that their accurate repetition may not represent a reliable index
+of the patients' true repetition capacities. The six patients' repetition scores in the
+sentence repetition section of the Bilingual Aphasia Test (Paradis, 1987) consisting of
+frames of varying syntactic complexity, like passives, focused and clitic left dislocated
+sentences, showed that their repetition performance was near chance level. Under this
+view, the BDAE-SF may be less sensitive in its use of sentential stimuli to determine
+the severity of impairment in Broca patients' sentence repetition capacities (Peristeri
+& Tsapkini, 2011).
+Two NACT unaccusative verbs, namely, stejnothike/dry-PERF-NONACTIVE and
+zarothike/crinkle-PERF-NONACTIVE, were excluded from the testing materials becasue they have received very low acceptability rates in the norming study which
+was ran to measure verb acceptability, t (31) = 2.120, p < .001, and t (31) = 2.007,
+p < .003, respectively.
+The ACT [+voice-alternating] unaccusatives were iplono (fold-ACT), htipao (hitACT), lerono (spill-ACT), tedono (stretch-ACT), tsalakono (crinkle-ACT), zesteno
+(heat-ACT), tripao (prick-ACT), skizo (tear-ACT), while the ACT [-voice-alternating]
+unaccusatives were: kriono (get cold-ACT), lijizo (bend-ACT), liono (melt-ACT),
+spao (break-ACT), anthizo (blossom-ACT), vuliazo (sink-ACT), pefto (fall-ACT),
+maragiazo (wither-ACT). The NACT [+voice-alternating] unaccusatives were:
+zestenome (heat-NACT), leronome (spill-NACT), iplonome (fold-NACT), tripieme (prick-NACT), tsalakonome (crumple-NACT), htipieme (hit-NACT), tedonome
+(stretch-NACT), while the NACT [-voice-alternating] unaccusatives were: komatiazome (cut up-NACT), jiatrevome (heal-NACT), sigedronome (assemble-NACT),
+krivome (hide-NACT), marenome (wither-NACT), mionome (fade-NACT), vithizome
+(sink-NACT).
+The RTs which were of interest for the statistical analysis were these yielded by
+pressing the "1" button.
+It is crucial that the patients' priming trajectory in the unergative verb condition
+slightly curved upwards at Probe Position 3 (p = .03) relative to the trajectory of the
+control group whose amount of curvature between Probe Positions 2 and 3 was found
+to be not significant (p = .730). The specific pattern of reactivation for the aphasic
+group has yielded a significant, although weaker relative to the linear trend, quadratic
+trend effect, F2 (1, 15) = 13.794, p < .005.
+It would be interesting to see whether Wernicke patients' performance in tasks testing
+argument to role mappings would also be facilitated by strong interpretable cues,
+like the NACT suffix. The present study predicts that Wernicke patients would fail
+to exploit such cues because posterior-lesioned patients show patterns of semantic
+impairment, and the processing of interpretable features is likely to rely on routines
+more aligned with semantic operations. We are planning to replicate the CMLP
+experiment with a group of Wernicke patients in the near future.
+Partial support in favor of the transitivization account is also offered by the individual
+analysis of the control participants' RT data; the response times obtained for three
+control subjects in the unergative verb condition registered a statistically significant
+priming effect immediately after the verb (i.e., at Probe Position 2).
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+274
+
+REFERENCES
+Alexiadou, A., & Anagnostopoulou, E. (2004). Voice morphology in the causative-inchoative alternation: Evidence for a non-unified structural analysis of unaccusatives. In A. Alexiadou, E.
+Anagnostopoulou, & M. Everaert (Eds.), The unaccusativity puzzle. Oxford: Oxford University
+Press.
+Balaguer, R. D., Costa, A., Sebastian-Galles, N., Juncadella, M., & Caramazza, A. (2004). Regular
+and irregular morphology and its relationship with agrammatism: Evidence from two Spanish-
+Catalan bilinguals. Brain and Language, 91, 212-222.
+Balogh, J., Zurif, E. B., Prather, P., Swinney, D., & Finkel, L. (1998). Gap filling and end of sentence
+effects in real-time language processing: Implications for modeling sentence comprehension
+in aphasia. Brain and Language, 61, 169-182.
+Bird, H., Lambon Ralph, M. A., Seidenberg, M. S., McClelland, J. L., & Patterson, K. (2003). Deficits
+in phonology and past-tense morphology: What's the connection? Journal of Memory and
+Language, 48, 502-526.
+Blumstein, S. E., Byma, G., Kurowski, K., Hourihan, J., Brown, T., & Hutchison, A. (1998). On-line
+processing of filler-gap constructions in aphasia. Brain and Language, 61, 149-168.
+Burkhardt, P., Pinango, M., & Wong, K. (2003). The Role of the anterior left hemisphere in real-time
+sentence comprehension: Evidence from split intransitivity. Brain and Language, 86, 9-22.
+Burkhardt, P., Avrutin, S., Pinango, M. M., & Ruigendijk, E. (2008). Slower-than-normal syntactic
+processing in agrammatic Broca aphasia: Evidence from Dutch. Journal of Neurolinguistics,
+21, 120-137.
+Burzio, L. (1986). Italian syntax: A government-binding approach. Dordrecht: Reidel.
+Caplan, D., & Waters, G. S. (1996). Syntactic processing in sentence comprehension under dual-task
+conditions in aphasic patients. Language and Cognitive Processes, 11, 525-551.
+Caplan, D., & Waters, G. S. (1999). Verbal working memory and sentence comprehension. Behavioral
+and Brain Sciences, 22, 77-94.
+Chang, F., Bock, K., & Goldberg, A. (2003). Do thematic roles leave traces of their places? Cognition,
+90, 29-49.
+Dickey, M. W., & Thompson, C. K. (2004). The resolution and recovery of filler-gap dependencies in
+aphasia: Evidence from on-line anomaly detection. Brain and Language, 88, 108-127.
+Friederici, A. D., Wessels, J. M. I., Emmorey, K., & Bellugi, U. (1992). Sensitivity to inflectional
+morphology in aphasia: A real-time processing perspective. Brain and Language, 43, 747-763.
+Friedmann, N., Taranto, G., Shapiro, L. P., & Swinney, D. (2008). The leaf fell (the leaf): The online
+processing of unaccusatives. Linguistic Inquiry, 39, 355-377.
+Froud, K. (2001). Linguistic theory and language pathology: Evidence for the morphology interface
+from a case of acquired language disorder. Unpublished PhD dissertation, University College
+London.
+Goodglass, H., Kaplan, E., & Barresi, B. (2001). The assessment of aphasia and related disorders (3rd
+ed.). Philadelphia, PA: Lippincott Williams & Wilkins.
+Grodzinsky, Y. (1990). Theoretical perspectives on language disorders. Cambridge, MA: MIT Press.
+Grodzinsky, Y. (1995). Trace deletion, -roles, and cognitive strategies. Brain and Language, 50,
+469-497.
+Grodzinsky, Y. (2000). The neurology of syntax: Language use without Broca's area. Behavioral and
+Brain Sciences, 23, 1-71.
+Grodzinsky, Y., Pinango, M., Zurif, E., & Drai, D. (1999). The critical role of group studies in
+neuropsychology: Comprehension regularities in Broca's aphasia. Brain and Language, 67,
+134-147.
+Haarmann, H. J., & Kolk, H. H. J. (1991). Syntactic priming in Broca's aphasics: Evidence for slow
+activation. Aphasiology, 5, 247-263.
+Hagiwara, H. (1993). Comprehension of passive in Japanese aphasics. Brain and Language, 45, 247-
+263.
+Hagoort, P. (1997). Semantic priming in Broca's aphasics at shortV SOA: No support for an automatic
+semantic access deficit. Brain and Language, 56, 287-300.
+Hale, K., & Keyser, S. J. (1993). On argument structure and the lexical expression of grammatical
+relations. In K. Hale & S. J. Keyser (Ed.), Essays in honor of Sylvain Bromberger. The view
+from building 20. Cambridge, MA: MIT Press.
+Hoeks, J. C. J., Stowe, L. A., & Doedens, G. (2004). Seeing words in context: The interaction of lexical
+and sentence level information during reading. Cognitive Brain Research, 19, 59-73.
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+275
+
+Kaplan, E., Goodglass, H., & Weintraub, S. (2001). Boston Naming Test (2nd ed.). Philadelphia, PA:
+Lippincott Williams & Wilkins.
+Koopman, H., & Sportiche, D. (1991). The position of subjects. Lingua, 85, 211-258.
+Kuperberg, G. R. (2007). Neural mechanisms of language comprehension: Challenges to syntax. Brain
+Research, 1146, 23-49.
+Linebarger, M., Schwarz, M., & Saffran, E. (1983). Sensitivity to grammatical structures in so-called
+agrammatic aphasics. Cognition, 11, 361-392.
+Levin, B., & Rappaport-Hovav, M. (1995). Unaccusativity: At the syntax-lexical semantics interface.
+Cambridge, MA: MIT Press.
+Love, T., & Swinney, D. (1996). Coreference processing and levels of analysis in object-relative constructions: Demonstration of antecedent reactivation with the cross-modal priming paradigm.
+Journal of Psycholinguistic Research, 25, 5-24.
+Love, T., Swinney, D., Walenski, M., & Zurif, E. (2008). How left inferior frontal cortex participates
+in syntactic processing: Evidence from aphasia. Brain and Language, 107, 203-219.
+Love, T., Swinney, D., & Zurif, E. (2001). Aphasia and the time-course of processing long distance
+dependencies. Brain and Language, 79, 169-170.
+Luzzatti, C., Raggi, R., Zonca, G., Pistarini, C., Contardi, A., & Pinna, G. D. (2002). Verb-noun double
+dissociations in aphasic lexical impairments: The role of word frequency and imageability.
+Brain and Language, 81, 432-444.
+Manzini, M. R., & Roussou, A. (2000). A minimalist theory of A-movement and control. Lingua, 110,
+409-447.
+Marslen-Wilson, W. D., & Tyler, L. K. (1997). Dissociating types of mental computation. Nature, 387,
+592-594.
+Martin, R. (2003). Language processing: Functional organization and neuroanatomical basis. Annual
+Review of Psychology, 54, 55-89.
+McKoon, G., & Ratcliff, R. (1994). Sentential context and on-line lexical decision tasks. Journal of
+Experimental Psychology: Lanquage, Memory, and Cognition, 20, 1239-1243.
+Miceli, G., & Caramazza, A. (1988). Dissociation of inflectional and derivational morphology. Brain
+and Language, 35, 24-65.
+Miceli, G., Silveri, M. C., Villa, G., & Caramazza, A. (1984). On the basis for the agrammatics'
+difficulty in producing main verbs. Cortex, 20, 207-20.
+Milberg, W. P., Blumstein, S. E., & Dworetzky, B. (1987). Processing of lexical ambiguities in aphasia.
+Brain and Language, 31, 138-150.
+Murray, L., Holland, A., & Beeson, P. M. (1997). Accuracy monitoring and task demand evaluation
+in aphasia. Aphasiology, 11, 401-414.
+Nagel, H. N., Shapiro, L. P., & Nawy, R. (1994) Prosody and the processing of filler-gap sentences.
+Journal of Psycholinguistic Research, 23, 473-485.
+Nanousi, V., Masterson, J., Druks, J., & Atkinson, M. (2006). Interpretable vs. uninterpretable features:
+Evidence from six Greek speaking agrammatic patients. Journal of Neurolinguistics, 19, 209-
+238.
+Onifer, W., & Swinney, D. A. (1981). Accessing lexical ambiguities during sentence comprehension:
+Effects of frequency of meaning and contextual bias. Memory and Cognition, 9, 225-236.
+Pappert, S., Zeiske, M., & Pechmann, T. (2009). Structural priming across verb types and voice. Oral
+presentation at the 22nd annual CUNY Conference on Human Sentence Processing.
+Paradis, M. (1987). The assessment of bilingual aphasia. Hilldale, NJ: Erlbaum.
+Penke, M., Janssen, U., & Krause, M (1999). The representation of inflectional morphology: Evidence
+from Broca aphasia. Brain and Language, 68, 225-232.
+Peristeri, E. (2005). Agrammatism in modern Greek: Aspects of production and comprehension.
+In E. Agathopoulou, M. Dimitrakopoulou, & D. Papadopoulou (Eds.), 17th International
+Symposium: Selected papers on theoretical and applied linguistics (Vol. 2). Thessaloniki:
+Monohromia.
+Peristeri, E., & Tsapkini, K. (2011). A comparison of the BAT and BDAE-SF batteries in determining
+the linguistic ability in Greek-speaking patients with Broca aphasia. Clinical Linguistics and
+Phonetics, 25, 464-479.
+Perlmutter, D. M. (1978). Impersonal passives and the unaccusative hypothesis. In J. J. Jaeger, A. E.
+Woodbury, F. Ackerman, C. Chiarello, O. D. Gensler, J. Kingston, et al. (Eds.), Proceedings
+of the Fourth Annual Meeting of the Berkeley Linguistics Society. Berkeley, CA: University of
+California, Berkeley Linguistics Society.
+
+Applied Psycholinguistics 34:2
+Peristeri et al.: The time course of antecedent reactivation
+
+276
+
+Rogalsky, C., Matchin, W., & Hickok, G. (2008). Broca's area, sentence comprehension, and working
+memory: An fMRI study. Frontiers in Human Neuroscience, 2, 1-13.
+Roussou, A., & Tsimpli, I. M. (2007). The role of cliticization in Modern Greek. In A. Alexiadou (Ed.),
+Studies in the morpho-syntax of Greek. Newcastle upon Tyne: Cambridge Scholars Publishing.
+Saffran, E. M., Schwartz, M. F., & Linebarger, M. C. (1998). Semantic influences on thematic role
+assignment: Evidence from normals and aphasics. Brain and Language, 62, 255-297.
+Schwartz, M. F., Linebarger, M. C., Saffran, E. M., & Pate, D. (1987). Syntactic transparency and
+sentence interpretation in aphasia. Language and Cognitive Processes, 2, 85-113.
+Shapiro, L. P., Gordon, B., Hack, N., & Killakey, J. (1993). Verb-argument structure processing in
+complex sentences in Broca's and Wernicke's aphasia. Brain and Language, 45, 423-447.
+Shapiro, L., Nagel, N., & Levine, B. (1993). Preferences for a verb's complements and their use in
+sentence processing. Journal of Memory and Language, 32, 96-114.
+Shapiro, L., Zurif, E., & Grimshaw, J. (1987). Sentence processing and the mental representation of
+verbs. Cognition, 27, 219-246.
+Shapiro, L., Zurif, E. B., & Grimshaw, J. (1989). Verb processing during sentence comprehension:
+Contextual impenetrability. Journal of Psycholinguistic Research, 18, 223-243.
+Swinney, D. (1979). Lexical access during sentence comprehension: (Re) consideration of context
+effects. Journal of Verbal Learning and Verbal Behavior, 18, 645-659.
+Swinney, D., Ford, M., Frauenfelder, U., & Bresnan, J. (1987). The time course of coindexation during
+sentence comprehension. Paper presented at the Psychonomic Society Meeting, Seattle.
+Swinney, D., Zurif, E. B., Prather, P., & Love, T. (1996). Neurological distribution of processing
+resources underlying language comprehension. Journal of Cognitive Neuroscience, 8, 174-
+184.
+Theophanopoulou-Kontou, D. (2000). -O/-me alternations in MG patient oriented constructions: Anticausatives and passives. In T. Pavlidou & C. Tzitzilis (Eds.), Proceedings of the 20th Annual
+Meeting of the Linguistics Department of the University of Thessaloniki. Thessaloniki: University of Thessaloniki.
+Theophanopoulou-Kontou, D. (2001). The structure of VP and the mediopassive morphology: The
+passives and anticausatives in Modern Greek. Oral presentation at the Workshop on Greek
+Syntax and the Minimalist Seduction, Reading University.
+Thompson, C. K. (2003). Unaccusative verb production in agrammatic aphasia: The argument structure
+complexity hypothesis. Journal of Neurolinguistics, 16, 151-167.
+Thompson, C. K., & Choy, J. J. (2009). Pronominal resolution and gap filling in agrammatic aphasia:
+Evidence from eye movements. Journal of Psycholinguistic Research, 38, 255-283.
+Tsapkini, K., Emmanuel, A., Passalidou, C., & Nassiopoulou, G. (2007). Boston diagnostic Aphasia
+examination-short form: Greek normative data. Poster presented at the 9th European Conference on Psychological Assessment (ECPA9), Thessaloniki.
+Tsapkini, K., Jarema, G. & Kehaya, E. (2002). Regularity revisited: Evidence from lexical access of
+verbs and nouns in Greek. Brain and Language, 81, 103-119.
+Tseng, H., McNeil, M. R., & Milenkovic, P. (1993). An investigation of attention allocation deficits in
+aphasia. Brain and Language, 45, 276-296.
+Tsimpli, I.-M. (2006). The acquisition of voice and transitivity alternations in Greek as a native and
+second language. In S. Unshworth, T. Parodi, A. Sorace, & M. Young-Scholten (Eds.), Paths
+of development in L1 and L2 acquisition. Amsterdam: John Benjamins.
+Ullman, M. T., Corkin, S., Coppola, M., Hickok, G., Growdon, J. H., Koroshetz, W. J., et al. (1997).
+A neural dissociation within language: Evidence that the mental dictionary is part of declarative memory, and that grammatical rules are processed by the procedural system. Journal of
+Cognitive Neuroscience, 9, 266-276.
+Varlokosta, S., Valeonti, N., Kakavoulia, M., Lazaridou, M., Economou, A., & Protopapas, A. (2006).
+The breakdown of functional categories in Greek aphasia: evidence from agreement, tense, and
+aspect. Aphasiology, 20, 723-743.
+Waters, G. S., Caplan, D. (2004). Verbal working memory and on-line syntactic processing: Evidence
+from self-paced listening. Journal of Experimental Psychology, 57, 129-163.
+Zingeser, L. B., & Bemdt, R. S. (1990). Retrieval of nouns and verbs in agrammatism and anomia.
+Brain and Language, 39, 14-32.
+Zurif, E., Swinney, D., Prather, P., Solomon, J., & Bushell, C. (1993). An on-line analysis of syntactic
+processing in Broca's and Wernicke's aphasia. Brain and Language, 45, 448-464.
+
+

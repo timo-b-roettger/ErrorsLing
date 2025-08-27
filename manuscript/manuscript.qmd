@@ -32,7 +32,7 @@ author-note:
     financial-support: null
     gratitude: null
     authorship-agreements: Conceptionalization, Methodology, Validation, Formal Analysis, Review & Editing of Manuscript, Data Curation - TBR. & DLJE; Software, Investigation - DLJE; Writing of Original Draft, Visualization, Supervision - TBR.
-abstract: "The present paper investigates the prevalence of statistical reporting inconsistencies across articles in thirteen experimental linguistics journals published between 2000 and 2023. Using the R package “Statcheck”, we retrieved 85,442 statistical test from 13,065 articles and assessed whether p-values were consistent with their test statistic and degrees of freedom. Half of all articles (50%) that used null hypothesis significance testing contained at least one inconsistent p-value. More than one in eight articles (13%) contained an inconsistency that may have affected the statistical conclusion. The inconsistency rates were comparable across journals and seem stable over publication years. We discuss possible reasons for this high rate and offer actionable steps for authors, reviewers, and editors to remedy this state-of-affairs."
+abstract: "The present paper investigates the prevalence of statistical reporting inconsistencies across articles in thirteen experimental linguistics journals published between 2000 and 2023. Using the R package “Statcheck”, we retrieved 85,442 statistical test from 13,065 articles and assessed whether p-values were consistent with their test statistic and degrees of freedom. Almost half of all articles (49%) that used null hypothesis significance testing contained at least one inconsistent p-value. Around one in eight articles (12%) contained an inconsistency that may have affected the statistical conclusion. The inconsistency rates were comparable across journals and seem stable over publication years. We discuss possible reasons for this high rate and offer actionable steps for authors, reviewers, and editors to remedy this state-of-affairs."
 keywords: [statistics, Statcheck, reproducibility, null hypothesis significance testing]
 bibliography: bibliography.bib
 format:
@@ -239,17 +239,17 @@ knitr::include_graphics("../plots/figure3.png")
 
 ## Do decision inconsistencies matter? {#sec-matter}
 
-Now the question arises, do the inconsistencies theoretically matter.
+The question arises as to whether the inconsistencies theoretically matter.
 This is a difficult question to empirically address because experimental behavioral research is often characterized by weak links between theory and predictions [@scheel2021hypothesis], making it difficult to even extract hypotheses and whether hypotheses have been corroborated or not from published articles [@scheel2022most].
-To gain some insight, we approximate an answer to this questions as follows: First, we extracted a random subsample (15%, n = `{r} nrow(xdata_sample)`) of articles which contain at least one decision inconsistencies, equally distributed across publication years.
-We restricted the subsample to only those decision inconsistencies that involve either a larger (\>) or small (\<) comparison of the p-value to allow unambiguous interpretation of the results.
+To gain some insight, we approximate an answer to this questions as follows: First, we extracted a random sub sample (15%, n = `{r} nrow(xdata_sample)`) of articles which contain at least one decision inconsistencies, as equally distributed across publication years as possible.
+We restricted the sub sample to only those decision inconsistencies that involve either a larger (\>) or small (\<) comparison of the p-value to allow unambiguous interpretation of the results.
 We then manually extracted the relevant sentence which the test statistic is embedded in and assessed whether the authors interpreted the reported p-value correctly (a true decision inconsistency) or incorrectly (the decision inconsistency is likely a typo).
 This ratio will let us approximate the true decision inconsistency rate.
 We consider true decision inconsistencies theoretically relevant.
 E.g. if an author claims that two groups are different (or not) based on an erroneously reported significant test, we consider this claim to potentially have theoretical consequences.
-Out of the `{r} nrow(xdata_sample)` assessed cases, we coded ## (##%) as genuine typos, e.g. the authors interpreted the results in line with the computed p-value and not the erroneously reported p-value.
-We coded ## (##%) cases as unclear, i.e. even after assessing the manuscript in detail, we could not interpret how the p-value was interpreted. 
-This leaves ## (##%) of tests being coded as true decision inconsistencies that potentially have theoretical consequences.
+Out of the `{r} nrow(xdata_sample)` assessed cases, we coded \## (##%) as genuine typos, e.g. the authors interpreted the results in line with the computed p-value and not the erroneously reported p-value.
+We coded \## (##%) cases as unclear, i.e. even after assessing the manuscript in detail, we could not interpret how the p-value was interpreted.
+This leaves \## (##%) of tests being coded as true decision inconsistencies that potentially have theoretical consequences.
 
 # Discussion and Recommendations
 

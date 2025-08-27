@@ -331,11 +331,9 @@ zero) (see example 1): ~
   \eqnmarkbox[purple]{node5}{3.88}
   \tikzmarknode{node6}{, }
   \eqnmarkbox[blue]{node7}{p < .05}
-\end{equation*}
-
-\annotate[yshift=1em]{left}{node2}{name of test} 
-\annotate[yshift=-1em]{below,left}{node3}{degrees of freedom} 
-\annotate[yshift=1em]{right}{node5}{test statistic} 
+\end{equation*} \annotate[yshift=1em]{left}{node2}{name of test}
+\annotate[yshift=-1em]{below,left}{node3}{degrees of freedom}
+\annotate[yshift=1em]{right}{node5}{test statistic}
 \annotate[yshift=-1em]{below,right}{node7}{p-value}
 
 ~
@@ -510,22 +508,24 @@ investigation was set out to explore the following research questions:
 (1) How prevalent are statistical inconsistencies (and decision
 inconsistencies) in our sample? (see Section~\ref{sec-prevalent}) (2) Do
 inconsistency rates vary across journals and/or their publication year?
-(see Section~\ref{sec-stable}) And (3) is there evidence for bias,
-i.e.~are processes that result in inconsistencies more likely to produce
-lower p-values? (see Section~\ref{sec-bias})
+(see Section~\ref{sec-stable}) (3) is there evidence for bias, i.e.~are
+processes that result in inconsistencies more likely to produce lower
+p-values? (see Section~\ref{sec-bias}) And (4) do decision
+inconsistencies matter, i.e.~are they merely typos or do they lead to
+erroneous theoretical interpretations? (see Section~\ref{sec-matter})
 
 \section{Results}\label{results}
 
 \subsection{Inconsistencies are highly prevalent}\label{sec-prevalent}
 
 The results are summarized in Table~\ref{tbl-summary}. Out of 13065
-articles, 6484 articles contained statistical tests that Statcheck could
-assess (50\%), amounting to 85442 assessable p-values. Interestingly,
+articles, 6268 articles contained statistical tests that Statcheck could
+assess (48\%), amounting to 82991 assessable p-values. Interestingly,
 the five journals that did not explicitly encourage APA formatting had
 virtually identical rates of assessable articles compared to the
-original sample. Overall, 11279 p-values were flagged as inconsistent
-(13.2\%) out of which 1442 were considered decision inconsistencies
-(1.7\%) (see Table~\ref{tbl-summary}).
+original sample. Overall, 10421 p-values were flagged as inconsistent
+(12.6\%) out of which 1226 were considered decision inconsistencies
+(1.5\%) (see Table~\ref{tbl-summary}).
 
 \begin{table}
 
@@ -566,20 +566,20 @@ decision inconsistencies
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-APS & 953 & 690 & 9570 & 1447 & 198 \\
-BAL & 2253 & 780 & 10344 & 1524 & 198 \\
-BLC & 964 & 610 & 9093 & 1223 & 134 \\
-JCL & 1109 & 529 & 6240 & 779 & 76 \\
-JML & 1507 & 768 & 13236 & 1004 & 132 \\
-JPR & 1137 & 534 & 5576 & 848 & 97 \\
-LAB & 471 & 133 & 1719 & 239 & 25 \\
-LCN & 751 & 397 & 5979 & 909 & 95 \\
-LLT & 421 & 111 & 919 & 210 & 64 \\
-LSP & 695 & 376 & 4320 & 449 & 68 \\
-LaS & 597 & 362 & 4708 & 564 & 88 \\
-SLA & 593 & 247 & 2954 & 476 & 66 \\
-SLH & 1614 & 947 & 10784 & 1607 & 201 \\
-Total & 13065 & 6484 & 85442 & 11279 & 1442 \\
+APS & 953 & 690 & 9570 & 1368 & 170 \\
+BAL & 2253 & 780 & 10344 & 1414 & 153 \\
+BLC & 964 & 610 & 9093 & 1161 & 120 \\
+JCL & 1109 & 529 & 6240 & 750 & 69 \\
+JML & 1507 & 768 & 13236 & 921 & 107 \\
+JPR & 1137 & 534 & 5576 & 791 & 85 \\
+LAB & 471 & 133 & 1719 & 234 & 25 \\
+LCN & 751 & 397 & 5979 & 894 & 89 \\
+LLT & 421 & 111 & 919 & 201 & 61 \\
+LSP & 695 & 376 & 4320 & 429 & 60 \\
+LaS & 597 & 160 & 2433 & 286 & 45 \\
+SLA & 593 & 247 & 2954 & 471 & 64 \\
+SLH & 1614 & 933 & 10608 & 1501 & 178 \\
+Total & 13065 & 6268 & 82991 & 10421 & 1226 \\
 \end{longtable}
 
 \end{table}
@@ -587,13 +587,13 @@ Total & 13065 & 6484 & 85442 & 11279 & 1442 \\
 \subsection{Inconsistencies are stable across journals and publication
 year}\label{sec-stable}
 
-The proportion of inconsistencies ranged from 8 to 23\% across journals
+The proportion of inconsistencies ranged from 7 to 22\% across journals
 (1 to 7\% for decision inconsistencies) (see
 Figure~\ref{fig-stacked-bar}). These rates appear to be stable across
-year of publication (see Figure~\ref{fig-year-prop}). On average, 50\%
+year of publication (see Figure~\ref{fig-year-prop}). On average, 49\%
 of assessable articles contained one or more inconsistencies (journals
-range from 45 to 56\%) and 13\% contained one or more decision
-inconsistencies (journals range from 11 to 17\%).
+range from 42 to 56\%) and 12\% contained one or more decision
+inconsistencies (journals range from 10 to 15\%).
 
 \begin{figure}[H]
 
@@ -647,16 +647,16 @@ inconsistencies to be equally frequent. However, this is not the case.
 Inconsistencies that report the p-value as being larger or smaller than
 a reference value (e.g.~p \textgreater{} 0.05 or p \textless{} 0.05,
 respectively) are not equally prevalent in the sample: There were 4.4\%
-of inconsistencies with p being reported as larger than a reference but
-7.1\% inconsistencies with p being reported as smaller than a reference.
-So even if we assumed these inconsistencies were merely typos of the
-comparison sign (e.g.~\textless{} instead of \textgreater),
+of inconsistent tests with p being reported as larger than a reference
+but 6.7\% of inconsistent tests with p being reported as smaller than a
+reference. So even if we assumed these inconsistencies were merely typos
+of the comparison sign (e.g.~\textless{} instead of \textgreater),
 inconsistencies that erroneously report the p-value to be smaller than a
 reference value are more frequent than inconsistencies that erroneously
 report the p-value to be larger than a reference value.
 
 These biases are also reflected in decision inconsistencies. Of all
-decision inconsistencies (n = 1442), 72\% represent cases in which a
+decision inconsistencies (n = 1226), 68\% represent cases in which a
 reported significant result (p \textless{} 0.05) is recalculated as
 non-significant (p \textgreater{} 0.05), i.e.~non-significant results
 are more than twice as likely to be erroneously reported as significant
@@ -683,6 +683,38 @@ plotted across publication years.}
 
 \end{figure}%
 
+\subsection{Do decision inconsistencies matter?}\label{sec-matter}
+
+Now the question arises, do the inconsistencies theoretically matter.
+This is a difficult question to empirically address because experimental
+behavioral research is often characterized by weak links between theory
+and predictions (\citeproc{ref-scheel2021hypothesis}{Scheel et al.,
+2021}), making it difficult to even extract hypotheses and whether
+hypotheses have been corroborated or not from published articles
+(\citeproc{ref-scheel2022most}{Scheel, 2022}). To gain some insight, we
+approximate an answer to this questions as follows: First, we extracted
+a random subsample (15\%, n = 164) of articles which contain at least
+one decision inconsistencies, equally distributed across publication
+years. We restricted the subsample to only those decision
+inconsistencies that involve either a larger (\textgreater) or small
+(\textless) comparison of the p-value to allow unambiguous
+interpretation of the results. We then manually extracted the relevant
+sentence which the test statistic is embedded in and assessed whether
+the authors interpreted the reported p-value correctly (a true decision
+inconsistency) or incorrectly (the decision inconsistency is likely a
+typo). This ratio will let us approximate the true decision
+inconsistency rate. We consider true decision inconsistencies
+theoretically relevant. E.g. if an author claims that two groups are
+different (or not) based on an erroneously reported significant test, we
+consider this claim to potentially have theoretical consequences. Out of
+the 164 assessed cases, we coded \#\# (\#\#\%) as genuine typos,
+e.g.~the authors interpreted the results in line with the computed
+p-value and not the erroneously reported p-value. We coded \#\# (\#\#\%)
+cases as unclear, i.e.~even after assessing the manuscript in detail, we
+could not interpret how the p-value was interpreted. This leaves \#\#
+(\#\#\%) of tests being coded as true decision inconsistencies that
+potentially have theoretical consequences.
+
 \section{Discussion and
 Recommendations}\label{discussion-and-recommendations}
 
@@ -691,11 +723,11 @@ prevalent}\label{statistical-reporting-inconsistencies-are-prevalent}
 
 The present study found a large amount of statistical reporting
 inconsistencies across a sample of 13065 experimental linguistic
-articles, containing 85442 assessable p-values. 13.2\% of all p-values
-were flagged as inconsistent and 1.7\% were flagged as decision
+articles, containing 82991 assessable p-values. 12.6\% of all p-values
+were flagged as inconsistent and 1.5\% were flagged as decision
 inconsistencies, i.e.~the reported p-value is on the opposite side of
-the alpha threshold than the recalculated p-value. On average, 50\% of
-assessable articles contained at least one inconsistency and 13\%
+the alpha threshold than the recalculated p-value. On average, 49\% of
+assessable articles contained at least one inconsistency and 12\%
 contained at least one decision inconsistency. The present examination
 did not indicate any noticeable trend for inconsistency rates across
 journals or publication year.
@@ -725,7 +757,7 @@ attributed to inconsequential typos or rounding errors (an assumption we
 cannot test without access to the data), the sheer amount of these
 inconsistencies that have made it through peer-review should concern us.
 They are human errors. If such a substantial amount of errors is found
-in plain site, the question naturally arises as to how many errors
+in plain sight, the question naturally arises as to how many errors
 during the data analysis itself remain undetected. We should ask
 ourselves, if the tip of the iceberg is already so large, what is the
 volume of the submerged iceberg?
@@ -894,18 +926,18 @@ Psychological Science\footnote{https://www.psychologicalscience.org/publications
   accessed on on July 15, 2024.}, Stress \& Health Barber
 (\citeproc{ref-barber2017meticulous}{2017})). Editors could also demand,
 recommend or at least encourage data sharing for publication in their
-journal. Data sharing policies have been shown to substantially increase
-the reproducibility of analyses (e.g.,
+journal . Data sharing policies have been shown to substantially
+increase the reproducibility of analyses (e.g.,
 \citeproc{ref-hardwicke2018data}{Hardwicke et al., 2018};
 \citeproc{ref-laurinavichyute2022share}{Laurinavichyute et al., 2022})
 and a number of linguistic journals have already implemented such
-policies, including journals within our sample. Having said that, open
+policies, including journals within our sample . Having said that, open
 data policies which for example the Journal of Memory and Language
 introduced in 2018 did not seem to have affected the proportion of
-statistical inconsistencies after their introduction. The inconsistency
+statistical inconsistencies after their introduction . The inconsistency
 rates for JML (and other journals) were rather stable across time, so
 open data alone might not resolve the issue without further changes to
-the research eco-system.
+the research eco-system .
 
 Researchers make errors. Researchers have biases. This is who we are as
 humans and there is not much we can do about our nature. Being aware of
@@ -1167,6 +1199,15 @@ Sakaluk, J., Williams, A., \& Biernat, M. (2014). Analytic review as a
 solution to the misreporting of statistical results in psychological
 science. \emph{Perspectives on Psychological Science}, \emph{9}(6),
 652--660. \url{https://doi.org/10.1177/1745691614549257}
+
+\bibitem[\citeproctext]{ref-scheel2022most}
+Scheel, A. M. (2022). Why most psychological research findings are not
+even wrong. \emph{Infant and Child Development}, \emph{31}(1), e2295.
+
+\bibitem[\citeproctext]{ref-scheel2021hypothesis}
+Scheel, A. M., Tiokhin, L., Isager, P. M., \& Lakens, D. (2021). Why
+hypothesis testers should spend less time testing hypotheses.
+\emph{Perspectives on Psychological Science}, \emph{16}(4), 744--755.
 
 \bibitem[\citeproctext]{ref-schmidt2017statcheck}
 Schmidt, T. (2017). \emph{Statcheck does not work: All the numbers.

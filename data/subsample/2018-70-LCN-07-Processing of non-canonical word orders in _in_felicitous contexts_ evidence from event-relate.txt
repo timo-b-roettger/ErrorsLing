@@ -1,0 +1,1738 @@
+Language, Cognition and Neuroscience
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/plcp21
+
+Processing of non-canonical word orders in (in)felicitous
+contexts: evidence from event-related brain potentials
+Masataka Yano & Masatoshi Koizumi
+To cite this article: Masataka Yano & Masatoshi Koizumi (2018) Processing of non-canonical
+word orders in (in)felicitous contexts: evidence from event-related brain potentials, Language,
+Cognition and Neuroscience, 33:10, 1340-1354, DOI: 10.1080/23273798.2018.1489066
+To link to this article: https://doi.org/10.1080/23273798.2018.1489066
+
+(c) 2018 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 30 Jun 2018.
+
+Submit your article to this journal
+
+Article views: 1984
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 7 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=plcp21
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+2018, VOL. 33, NO. 10, 1340-1354
+https://doi.org/10.1080/23273798.2018.1489066
+
+REGULAR ARTICLE
+
+Processing of non-canonical word orders in (in)felicitous contexts: evidence from
+event-related brain potentials
+Masataka Yano
+
+a
+
+and Masatoshi Koizumib,c
+
+a
+
+Faculty of Humanities, Kyushu University, Fukuoka, Japan; bDepartment of Linguistics, Graduate School of Arts and Letters, Tohoku University,
+Sendai, Japan; cHarvard-Yenching Institute, Cambridge, MA, USA
+ABSTRACT
+
+In many languages with flexible word orders, canonical word order has a processing advantage over
+non-canonical word orders. This observation suggests that it is more costly for the parser to represent
+syntactically complex sentences. Alternatively, this phenomenon may relate to pragmatic factors
+because most previous studies have presented non-canonical word orders without felicitous
+context, which violates participants' expectations regarding the information structure. The present
+study conducted an event-related potential experiment to examine the locus of the processing
+difficulty associated with non-canonical word orders in Japanese by manipulating word order (SOV
+vs. OSV) and the givenness of arguments. The results showed that OSV elicited a sustained left
+anterior negativity from O to S and a P600 effect at S compared to that of SOV in the infelicitous
+but not in the felicitous context. This result suggests that the processing difficulty of non-canonical
+word orders in Japanese is alleviated by discourse factors.
+
+1. Introduction
+In real-time sentence comprehension, the parser incrementally constructs various structural dependencies
+from a string of successive inputs. Among such dependencies, the processing of filler-gap dependency has
+been extensively examined. Behavioural experiments of
+many languages with flexible word orders have repeatedly reported that canonical word order has a processing
+advantage over other possible derived word orders with
+filler-gap dependency (Bader & Meng, 1999; Kaiser &
+Trueswell, 2004; Kim, 2012; Koizumi et al., 2014;
+Mazuka, Itoh, & Kondo, 2002; Sekerina, 1997; Tamaoka
+et al., 2005; Tamaoka, Kanduboda, & Sakai, 2011). For
+example, Tamaoka et al. (2005) found that it took more
+time to judge whether a sentence makes sense in noncanonical object-subject-verb (OSV) sentences than in
+canonical subject-object-verb (SOV) sentences in Japanese. The processing advantage for canonical word
+order has also been attested by neurolinguistic evidence,
+such as fMRI and event-related brain potentials (ERPs)
+(Fiebach, Schlesewsky, & Friederici, 2001, 2002; Fiebach,
+Schlesewsky, Lohmann, von Gramon, & Friederici, 2005;
+Hagiwara, Soshi, Ishihara, & Imanaka, 2007; Kim et al.,
+2009; Rosler, Pechmann, Streb, Roder, & Hennighausen,
+1998; Ueno & Kluender, 2003).
+CONTACT Masataka Yano
+
+ARTICLE HISTORY
+
+Received 14 November 2017
+Accepted 8 June 2018
+KEYWORDS
+
+Word order; givenness; fillergap dependency; Japanese;
+event-related potentials
+
+These observations raise the question of why canonical
+is preferred over non-canonical word orders in sentence
+comprehension. One possible factor is conceptual accessibility ("the ease with which the mental representation of
+some potential referent can be activated in or retrieved
+from memory", Bock & Warren, 1985, p. 50) (BornkesselSchlesewsky & Schlesewsky, 2009a, 2009b; Kemmerer,
+2012; Tanaka, Branigan, McLean, & Pickering, 2011). In
+the languages in which an S precedes an O, a conceptually
+more accessible agent precedes a conceptually less accessible patient in canonical word orders, whereas the opposite order occurs in non-canonical word orders. Several
+studies have reported that prominent entities such as an
+agent, animates, concretes, and prototypicals tend to
+appear as sentence-initial subjects (cf. Bock & Warren,
+1985; Bornkessel-Schlesewsky & Schlesewsky, 2009a; Branigan, Pickering, & Tanaka, 2008; Hirsh-Pasek & Golinkoff,
+1996; Primus, 1999; Slobin & Bever, 1982). Accordingly,
+the preference for canonical SO order may derive from
+the preference for agent-patient order. However, this
+hypothesis cannot explain the preference for canonical
+word orders in languages in which an S follows an O,
+such as Kaqchikel (a Mayan language spoken in Guatemala) and Truku Seediq (an Austronesian language
+spoken in Taiwan). Previous behavioural and ERP
+
+masayano@kyudai.jp
+
+(c) 2018 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/
+4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in
+any way.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+experiments have found that canonical VOS order incurred
+a lower processing cost compared to that of non-canonical
+word orders, such as SVO and VSO in Kaqchikel (Koizumi
+et al., 2014; Koizumi & Kim, 2016; Yano, Yasunaga, &
+Koizumi, 2017; Yasunaga, Yano, Yasugi, & Koizumi, 2015).
+Moreover, an ERP experiment found a larger P600 effect
+for the non-canonical SVO than the canonical VOS, irrespective of agent-patient order (i.e. voice alternation) in
+Truku Seediq (Yano, Niikuni, et al., 2017). Therefore, the
+conceptual accessibility hypothesis does not seem plausible for explaining canonical word-order preference.
+Another possibility concerns the syntactic complexities of non-canonical sentences. Since the filler must
+be associated with its gap position (Frazier & Clifton,
+1989), the storage and integration cost should increase
+in non-canonical sentences (Gibson, 1998; 2000). This
+hypothesis has been supported by ERP experiments.
+For example, Ueno and Kluender (2003) compared the
+canonical SOV sentences in (1a) and the non-canonical
+OSV sentences in (1b) in Japanese. They found a sustained (bilateral) anterior negativity for "the reckless
+adventurer-nom" in OSV compared to SOV. Furthermore,
+OSV elicited a phasic P600 effect at the S (adventurerNOM).1 They interpreted their results by assuming that
+the parser needed to actively maintain an O in the
+working memory and syntactically integrate it with its
+original position, reflected by sustained anterior negativity and P600 effects, respectively. An fMRI study conducted by Kim et al. (2009) revealed greater activity at
+the left inferior frontal gyrus (LIFG) in OVS than in SVO
+in Japanese. They also took this increased activity as evidence that syntactic complexity due to filler-gap dependency induces a processing load associated with OSV.
+(1) Ano jimotono shinbun-ni yoruto ...
+the local newspaper-to according ...
+"According to the local newspaper ..."
+a. SOV:
+sono inochishirazuno bokenka-ga toto
+the reckless
+
+sore-o mitsuketandesu-ka.
+discoveredadventurer- finally thatNOM
+
+ACC
+
+POL-Q
+
+"did the reckless adventurer finally discover that?"
+b. OSV:
+sore-oi sono inochishirazuno bokenka-ga toto
+that-ACC the reckless
+
+_____i mitsuketandesu-ka.
+adventurer- finally
+discoveredNOM
+
+POL-Q
+
+However, most previous studies did not take discourse
+factors into account. Canonical word order can be used in
+a variety of contexts, while non-canonical order is used in
+limited contexts in which discourse requirements are
+satisfied. Because previous studies presented non-canonical sentences in isolation, which violated participants'
+expectations regarding their information structure, the
+extent to which the increased processing difficulty can
+be explained by discourse factors remains unclear.
+
+1341
+
+2. Processing of non-canonical word order in
+context
+The felicitous use of non-canonical word orders has been
+suggested to correlate with discourse factors, such as
+givenness, as well as sentence-internal, non-syntactic
+factors, such as the heaviness of displaced constituents
+(e.g. Aissen, 1992; Birner & Ward, 2009; Kuno, 1987,
+inter alia). In other words, canonical word order is a
+default option for describing an event and occurs in a
+wide range of contexts, whereas non-canonical word
+order is a marked choice, and its use must be well motivated. Kuno (1978) claimed that scrambling is motivated
+by what he called the Information Flow Principle. According to the Information Flow principle, OSV in Japanese is
+used felicitously when O refers to discourse-older information than S does. Otherwise, SOV should be preferred
+over OSV. Consistent with this view, a corpus analysis
+conducted by Imamura (2014) demonstrated that the
+O of OSV in Japanese was discourse-old information in
+81% of OSV occurrences in the corpus (see also
+Imamura, 2015; Imamura & Koizumi, 2011). Furthermore,
+in a sentence recall task, Ferreira and Yoshita (2003)
+observed that native Japanese speakers tend to
+produce ditransitive sentences in the given-new order
+when asked to recall those that originally had the newgiven order. These observations support that scrambling
+in Japanese is motivated to create a given-new order in a
+sentence.
+Despite this close correlation, most previous studies
+on sentence comprehension examined the processing
+of non-canonical structures without felicitous context,
+which leads to a confounding of the difficulty of syntactically complex structures and the accommodating
+of an unsatisfied discourse requirement. This
+problem was discussed in Kaiser and Trueswell
+(2004), who conducted a self-paced reading experiment to examine whether the processing difficulty
+with non-canonical word order relates to discourse
+factors rather than syntactic complexities in Finnish
+(see also Clifton C & Frazier, 2004; Grodner, Gibson,
+& Watson, 2005; Meng, Bader, & Bayer, 1999; Sekerina,
+2003). They presented two context types, as shown in
+(2). The supportive context in (2a) referred to an O of
+the target sentences in (3b) to license a felicitous use
+of OVS, in which O must be discourse-old information
+in Finnish, whereas the non-supportive context in (2b)
+did not. The result showed no interaction of context
+and word order at the V (seurasi "followed").
+However, they found a significant two-way interaction
+at the NP2 ("hare-part" and "mouse-nom"), due to a
+longer reading time in OVS than in SVO only in the
+non-supportive context.
+
+1342
+
+M. YANO AND M. KOIZUMI
+
+(2)
+
+Preceding context
+Lotta
+etsi
+eilen
+Lotta
+looked-for
+yesterday
+heinikossa
+(a)janiksen /(b)hiiren
+joka
+grass-in
+hare-acc/mouse-acc
+that
+"Lotta looked for mushrooms in the forest yesterday. She noticed {(a) a
+
+(3)
+
+a. SVO
+Hiiri
+seurasi
+janista
+followed
+hare-PART
+mouse-NOM
+b. OVS
+Janista
+seurasi
+hiiri
+followed
+mouse-NOM
+hare-PART
+"The mouse followed the hare and birds were singing."
+
+A similar interaction of context by word order has
+been observed in Japanese. In Japanese, the canonical
+word order is SOV. According to transformational syntactic theories, non-canonical OSV sentences involve a fillergap dependency between the fronted O and an associated gap between S and V (i.e. [Oi [S gapi V]]). This
+filler-gap dependency is lacking in canonical SOV sentences. Koizumi and Imamura (2017) ran a self-paced
+reading experiment using the same factorial manipulation as Kaiser and Trueswell (2004) (i.e. supportive/
+non-supportive x canonical/non-canonical word order).
+They observed a significant interaction between word
+order and context at the NP2. This interaction showed
+a larger word-order effect in the unsupportive than in
+the supportive context. At the V, only the main wordorder effect was significant, reflecting a longer reading
+time for OSV.
+(4) Gaimusyoo-no
+Ministry.of.Foreign.AffairsGEN
+
+zikan-wa
+vice.minister-
+
+(a) Kaneda-da. / (b)
+Kuroki-da.
+Kaneda-COP / Kaneda-COP
+
+TOP
+
+"It is (a) Kaneda/(b) Kuroki who is the vice minister of the Ministry of
+Foreign Affairs.
+(5)
+
+sienia
+metsassa.
+Han
+mushrooms
+forest-in
+She-nom
+liikkui
+varovasti
+eteenpain.
+was.moving
+carefully
+forward.
+hare /(b) a mouse} moving forward carefully in the grass."
+
+a. SOV:
+Kuroki-ga
+Kaneda-o
+mukaeta
+Kaneda-ACC
+welcomed
+Kuroki-NOM
+"It is likely that Kuroki welcomed Kaneda."
+b. OSV:
+Kaneda-o
+Kuroki-ga
+mukaeta
+Kuroki-NOM
+welcomed
+Kaneda-ACC
+
+rashii.
+is.likely
+rashii.
+is.likely.
+
+These results suggest that the processing difficulty of
+non-canonical sentences decreased when their discourse
+requirement was satisfied. However, it is not clear from
+behavioural experiments how this context effect pertains
+to the processing difficulty that has been claimed to be
+associated with long-distance dependency formation,
+such as the filler storage cost indexed by sustained anterior
+negativity and the syntactic integration cost indexed by
+P600 in ERP experiments. If these ERP effects are related
+to the cost of syntactic dependency formation as has
+been suggested, we expect them not to be modulated
+by contextual factors. On the other hand, if they reflect discourse-level processing difficulty, we expect that they
+would attenuate or disappear in felicitous contexts.
+
+huomasi
+noticed
+
+ja
+and
+
+linnut
+birds
+
+lauloivat.
+were.singing.
+
+ja
+and
+
+linnut
+birds
+
+lauloivat.
+were.singing.
+
+3. Experiment
+3.1. Stimuli
+The sentences in (6) and (7) show a sample set of experimental context and target sentences, in which two
+factors are manipulated: WORD ORDER (SOV/OSV) x GIVENNESS (New-Given/Given-New).
+(6)
+
+Kooban-ni
+(a) Yoshida-san-ga /(b) Kimura-san-ga
+imasu.
+be
+police.box-in
+Yoshida-Mr-NOM / Kimura-Mr-NOM
+"(a) Mr. Yoshida /(b) Mr. Kimura is in the police box."
+(7)
+NP1
+ADV1
+ADV2 NP2
+V
+AUX
+a. SOV: Yoshidakinoo-no
+yoru Kimurayurushita rashii.
+san-ga
+san-o
+yesterday- night Kimura-Mr- forgave seem
+YoshidaGEN
+ACC
+Mr-NOM
+"It seems that Mr. Yoshida forgave Mr. Kimura last night."
+b. OSV: Kimurakinoo-no
+yoru Yoshidayurushita rashii.
+san-o
+san-ga
+forgave seem
+Kimura-Mr- yesterday- night YoshidaACC
+GEN
+Mr-NOM
+
+Givenness of arguments was manipulated by presenting an existential sentence, such as in (6), which
+referred to either the S or O of the target sentences.
+SOV can be used in a wider range of contexts, allowing
+given-new or new-given orders. Thus, (7a) did not
+violate an information order requirement. OSV, on
+the other hand, is a marked word order; thus, it is
+used felicitously when O is discourse-given information. The lead-in sentence in (6b) made the OSV in
+(7b) felicitous because it mentioned O's referent;
+thus, the OS order corresponded to the given-new
+order. In contrast, the lead-in sentence in (6a) did not
+establish a supportive context for an appropriate use
+of OSV in (7b).2
+The NPs of the target sentences were common family
+names with no bias for particular thematic roles. Temporal adverbs intervened between the S and the O to
+increase the memory cost. These NPs and temporal
+adverbs were used four times across items, so any ERP
+difference was not due to lexical differences between
+conditions. Verbs were followed by the modal auxiliary
+"rashii" (seem) to avoid the wrap-up effect at the
+V. One hundred twenty sets of experimental stimuli
+were distributed into four lists, according to a Latin
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+square design, so no participant read more than one sentence from the same set. The lists were counterbalanced
+across the participants.
+
+3.2. Prediction
+The present study is interested in two types of ERP effects,
+namely, sustained left anterior negativity (SLAN) and
+P600. SLAN has been observed between the filler and
+its original position in scrambled sentences (Hagiwara
+et al., 2007; Matzke, Mai, Nager, Russeler, & Munte, 2002;
+Ueno & Kluender, 2003), wh-questions (Fiebach et al.,
+2001; Phillips, Kazanina, & Abada, 2005), and postnominal relative clauses (King & Kutas, 1995; Muller,
+King, & Kutas, 1997). Previous studies have proposed
+that it is an index of the working memory load to actively
+maintain the filler in working memory (Hagiwara et al.,
+2007; King & Kutas, 1995; Kluender & Kutas, 1993;
+Matzke et al., 2002; Muller et al., 1997; Phillips et al.,
+2005). If this is the case, we expect that SLAN would not
+be modulated by givenness (see Discussion). On the
+other hand, if it reflects a discourse-level processing
+cost to accommodate the discourse requirement
+encoded by non-canonical word orders, we predict that
+a felicitous context ameliorates it, leading to SLAN's lack.
+P600 has been observed at the gap position of fillergap dependency and proposed to reflect syntactic processing difficulty to associate a filler with its original
+position (Kaan, Harris, Gibson, & Holcomb, 2000). We
+expect no givenness effect if the P600 reflects a syntactic integration difficulty. However, if it relates to a discourse-level processing cost, we predict a P600 in the
+infelicitous but not in the felicitous context.
+In addition to these ERP effects, we expect a reduced
+N400 effect for given NPs at NP1 (S of SOV and O of OSV)
+and NP2 (O of SOV and S of OSV) since N400 has been
+known to be sensitive to priming effect (Kutas & Federmeier, 2011; Kutas & Van Petten, 1988). Although it
+forms part of the result of statistical analyses reported
+below, this effect is of no interest for the present
+purpose.
+
+3.3. Procedure
+Stimuli were presented in the centre of the monitor in
+random order, using Presentation ver. 17.0. (Neurobehavioral Systems). At the beginning of each trial, a fixation
+was presented for 1000 ms, followed by a blank screen
+for 300 ms. A lead-in context in (6) was presented in its
+entirety for 2000 ms with an inter-stimulus interval (ISI)
+of 200 ms. After that, each phrase of the target sentences
+was presented for 700 ms with 200 ms ISI. A comprehension task was administered at the end of each trial to
+
+1343
+
+check whether our participants understood sentences
+correctly. Participants were required to answer questions
+(e.g. Is it Mr. Yoshida who forgave Mr. Kimura?), by pressing the "YES" or "NO" button on the response pad
+(Cedrus, RB-740). Prior to the main experiment, twelve
+practice trials were completed to familiarise participants
+with the experimental procedure.
+
+3.4. Electrophysiological recording
+EEGs were recorded from 19 Ag electrodes (QuickAmp,
+Brain Products) located at Fp1/2, F3/4, C3/4, P3/4, O1/2,
+F7/8, T7/8, P7/8, Fz, Cz, and Pz according to the international 10-20 system (Jasper, 1958). Additional electrodes were placed below and to the left of the left eye to
+monitor horizontal and vertical eye movements. The
+online reference was set to the average of all electrodes
+and EEGs were re-referenced offline to the average value
+of the earlobes. The impedances of all electrodes were
+maintained at less than 10 k throughout the experiment. The EEGs were amplified with a bandpass of DC
+to 200 Hz, digitised at 1000 Hz.
+
+3.5. Electrophysiological data analysis
+Trials with large artefacts (exceeding 80 V) were automatically removed from the analysis. Two types of analyses were conducted following previous studies on the
+processing of filler-gap dependency, namely, cumulative
+multi-word and single-word analyses (Fiebach et al.,
+2001; King & Kutas, 1995; Phillips et al., 2005; Ueno &
+Kluender, 2003, 2009). The cumulative multi-word analysis examined SLAN from NP1 to NP2. The baseline was
+set to 100 ms prior to the onset of NP1. The SLAN was
+expected to appear after lexical access to NP1 was completed (i.e. approximately 300-500 ms). Hence, for NP1,
+SLAN's presence was examined to compare the mean
+amplitude of 500-900 ms. The time-window of 300-
+500 ms was also tested to examine a priming effect,
+although it is not of interest. For the following two
+adverbs, the SLAN was assessed by calculating the
+mean amplitude from 100 ms after the onset of each
+region to the end of the epoch (100-900 ms) (cf. Lau &
+Liao, 2018; Phillips et al., 2005).
+The single-word analysis examined a P600 at NP2,
+which has been associated with the integration cost.
+The V region was also examined because some previous
+studies reported a P600 for non-canonical word orders.
+The baseline was set to 100 ms prior to the onset of
+each phrase. The ERPs were quantified by calculating
+the mean amplitude for each participant relative to the
+baseline using three time windows: 300-500 ms, 500-
+700 ms, and 700-900 ms. All EEGs were filtered
+
+1344
+
+M. YANO AND M. KOIZUMI
+
+offline using a 10 Hz low-pass filter for presentation
+purposes.
+All statistical analyses were conducted separately at
+the midline (Fz, Cz, and Pz), lateral (F3/4, C3/4, and P3/
+4), and temporal (Fp1/2, F7/8, T7/8, P7/8, and O1/2)
+arrays. The midline analysis consisted of repeated
+measures ANOVAs with three within-group factors:
+WORD ORDER (WO) (SOV/OSV) x GIVENNESS (GivenNew/New-Given) x ANTERIORITY. The lateral and temporal analyses involved four within-group factors:
+WO x GIVENNESS x HEMISPHERE (left/right) x ANTERIORITY. When an interaction occurred between WO x GIVENNESS, post hoc analyses were conducted to examine the
+effect of WO at each level of GIVENNESS and that of
+GIVENNESS at each level of WO. When WO and/or GIVENNESS interacted with topographic factors (ANTERIORITY/
+HEMISPHERE), post hoc analyses were conducted at each
+level of topographic factors (e.g. front, central, and posterior). The Greenhouse-Geisser correction was applied
+for all effects involving more than one degree of
+freedom (Greenhouse & Geisser, 1959). In these cases,
+the original degrees of freedom and the corrected
+p-value were reported.
+
+3.6. Participants
+Sixteen native Japanese speakers were recruited from
+Tohoku University (five females and 11 males, M = 20.6,
+SD = 1.6, range: 19.2-24.3). All participants were
+classified as right-handed based on the Edinburgh handedness inventory (Oldfield, 1971), and three of them had
+a left-handed family member. All participants had normal
+or corrected-to-normal vision and no history of reading
+disability or neurological disorders. This study was
+approved by the Ethics Committee of the Graduate
+School of Arts and Letters, Tohoku University. Written
+informed consent was obtained from all participants
+prior to the experiment, and they were paid for their
+participation.
+
+3.7. Results
+3.7.1. Behavioural data
+The mean accuracy of the comprehension question task
+was 87% (SNEWOGIVENV: 87.9%, SGIVENONEWV: 87.5%, ONEWSGIVENV: 85.2%, OGIVENSNEWV: 87.5%). The repeatedmeasures ANOVA showed no significant main effect or
+interaction in subject and item analyses (all ps > 0.10).
+3.7.2. Electrophysiological data
+Multi-word cumulative analysis. Figure 1 shows the
+grand average ERP from the onset of NP1 to that of NP2
+of the target sentence. Visual inspection of the graph
+
+suggests a striking difference between OSV at the left
+frontal sites, with a larger negativity for ONEWSGIVENV.
+In the 300-500 ms time-window of NP1, the main
+effect of GIVENNESS was significant at all arrays,
+showing a larger N400 for the new NPs compared to
+the given NPs, due to priming effect (Table 1).
+In the 500-900 ms time-window of NP1, the interaction of WO x GIVENNESS x ANTERIORITY was marginally significant at the temporal array. The post hoc
+analyses revealed that ONEWSGIVENV showed a larger
+anterior negativity than SNEWOGIVENV (Fp1/2: F(1, 15) =
+15.41, p < 0.01; F7/8: F(1, 15) = 6.82, p < 0.05), whereas
+OGIVENSNEWV did not show a negativity compared to
+SGIVENONEWV. Furthermore, ONEWSGIVENV showed a
+larger anterior negativity than OGIVENSNEWV (Fp1/2: F(1,
+15) = 20.91, p < 0.01; F7/8: F(1, 15) = 15.36, p < 0.01),
+whereas the two SOV conditions did not differ. The interaction of GIVENNESS x ANTERIORITY was also significant
+at the lateral array and marginally significant at the
+midline and temporal arrays, due to a GIVENNESS
+effect at the frontal sites (Fz: F(1, 15) = 10.97, p < 0.01;
+F3/4: F(1, 15) = 9.83, p < 0.01; C3/4: F(1, 15) = 4.29, p =
+0.05; Fp1/2: F(1, 15) = 6.97, p < 0.05; Fp7/8: F(1, 15) =
+10.19, p < 0.01).
+At ADV1, the three-way interaction of WO x GIVENNESS x ANTERIORITY was significant at the temporal
+array. Post hoc analyses revealed that the anterior negativity continued to ADV1 in the ONEWSGIVENV; ONEWSGIVENV
+showed a larger anterior negativity than SNEWOGIVENV
+(Fp1/2: F(1, 15) = 3.73, p = 0.07), whereas OGIVENSNEWV
+did not. Furthermore, ONEWSGIVENV showed a larger
+anterior negativity than OGIVENSNEWV (Fp1/2: F(1, 15) =
+11.57, p < 0.01). The main effect of GIVENNESS was also
+significant, with a larger negativity for the new-given
+conditions compared to that of the given-new
+conditions.
+At ADV2, the only significant effect was the main effect
+of GIVENNESS, showing a larger negativity for the newgiven conditions than the given-new conditions.
+
+3.7.3. Single-word analyses
+The NP2. Figure 2 shows the grand average ERP of NP2
+of the target sentence. Visual inspection of the graph
+suggests that ONEWSGIVENV showed a posterior positivity,
+but OGIVENSNEWV did not.
+In 300-500 ms, the main effect of GIVENNESS was significant in all arrays, due to attenuated N400 for the
+given NPs compared to the new NPs (Table 2).3 The
+effect of GIVENNESS interacted with ANTERIORITY at
+the temporal array, due to a significant GIVENNESS
+effect except Fp1/2 (F7/8: F(1, 15) = 6.66, p < 0.05; T7/8:
+F(1, 15) = 9.95, p < 0.01; P7/8: F(1, 15) = 13.16, p < 0.01;
+O1/2: F(1, 15) = 11.10, p < 0.01). The effect of WO x
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+1345
+
+Figure 1. Grand average ERPs from NP1 to NP2. (Boldface in the legend indicates discourse-given NPs).
+
+GIVENNESS x ANTERIORITY was marginal, which
+reflected a significant GIVENNESS effect only at OSV
+(P7/8: F(1, 15) = 16.14, p < 0.01; O1/2: F(1, 15) = 13.68, p
+< 0.01) and a significant WO effect only at the newgiven condition (P7/8: F(1, 15) = 6.20, p < 0.05; O1/2: F(1,
+
+15) = 6.83, p < 0.05). These results suggest ONEWSGIVENV
+showed an early positivity compared to OGIVENSNEWV
+and SNEWOGIVENV.
+In 500-700 ms, the interaction of WO x GIVENNESS x
+ANTERIORITY was significant at the lateral and temporal
+
+Table 1. Statistical results of the cumulative analysis.
+NP1: 300-500 ms
+Word Order (WO)
+Givenness (G)
+WO x Anteriority (Ant)
+G x Ant
+WO x G
+WO x G x Ant
+WO x Hemisphere (Hem)
+G x Hem
+WO x Ant x Hem
+G x Ant x Hem
+WO x G x Hem
+WO x G x Ant x Hem
++
+
+NP1: 500-900 ms
+
+Midline
+
+Lateral
+
+Temporal
+
+Midline
+
+1.45
+32.31***
+0.02
+0.14
+1.25
+0.67
+
+1.11
+33.56***
+0.26
+0.21
+0.98
+0.03
+0.88
+0.04
+2.34
+0.06
+0.27
+0.81
+
+0.66
+50.74***
+0.34
+0.53
+1.68
+0.23
+0.88
+1.50
+1.35
+0.56
+0.61
+0.18
+
+0.82
+2.67
+0.30
+4.03+
+0.40
+2.19
+
+p < .10, *p < .05, **p < .01, ***p < .005.
+
+Lateral
+0.83
+3.69
+1.81
+10.88***
+0.29
+0.56
+0.06
+0.21
+1.20
+1.44
+0.26
+0.50
+
+Adv1: 100-900 ms
+
+Adv2: 100-900 ms
+
+Temporal
+
+Midline
+
+Lateral
+
+Temporal
+
+Midline
+
+Lateral
+
+Temporal
+
+0.01
+3.35+
+1.55
+3.48+
+1.79
+2.79+
+1.37
+1.45
+1.05
+0.47
+<0.01
+0.11
+
+0.52
+7.35*
+0.06
+1.34
+0.55
+1.25
+
+1.14
+6.95*
+1.11
+2.37
+0.75
+0.65
+<0.01
+0.73
+1.19
+2.48
+1.07
+0.51
+
+0.65
+5.65*
+0.74
+0.31
+0.30
+5.38*
+3.09+
+1.28
+0.39
+0.63
+0.03
+1.08
+
+0.36
+6.64*
+0.04
+1.45
+1.01
+0.28
+
+0.16
+6.12*
+1.43
+2.46
+1.32
+0.54
+0.01
+1.15
+0.89
+2.08
+0.11
+0.75
+
+0.02
+3.28+
+0.86
+0.45
+0.01
+1.58
+3.57
+0.49
+0.54
+1.08
+<0.01
+0.77
+
+1346
+
+M. YANO AND M. KOIZUMI
+
+Figure 2. Grand average ERPs at NP2.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+1347
+
+Table 2. Statistical results for NP2.
+300-500 ms
+Midline
+Word Order (WO)
+0.12
+Givenness (G)
+25.48***
+WO x Anteriority (Ant)
+3.58
+G x Ant
+0.65
+WO x G
+2.18
+WO x G x Ant
+2.00
+WO x Hemisphere (Hem)
+G x Hem
+WO x Ant x Hem
+G x Ant x Hem
+WO x G x Hem
+WO x G x Ant x Hem
++
+p < .10, *p < .05, **p < .01, ***p < .005.
+
+500-700 ms
+Lateral
+0.15
+25.25***
+5.12*
+1.07
+2.10
+3.23+
+0.01
+0.22
+0.08
+0.37
+1.24
+0.02
+
+700-900 ms
+
+Temporal
+
+Midline
+
+Lateral
+
+Temporal
+
+Midline
+
+Lateral
+
+Temporal
+
+0.28
+9.25**
+3.19+
+3.61*
+1.72
+2.96+
+0.90
+1.62
+1.14
+1.88
+0.53
+0.57
+
+0.38
+1.39
+1.07
+0.16
+3.31+
+3.61+
+
+0.25
+1.33
+1.41
+0.20
+2.95
+4.41*
+1.64
+0.36
+0.30
+0.22
+1.18
+0.07
+
+0.51
+0.01
+0.53
+0.20
+1.80
+5.37*
+2.33
+2.65
+1.33
+1.87
+<0.01
+0.17
+
+0.31
+0.46
+0.10
+0.21
+1.21
+0.48
+
+0.53
+0.30
+0.28
+0.37
+1.18
+1.69
+0.02
+0.83
+0.13
+0.17
+1.10
+0.35
+
+0.12
+1.11
+0.15
+0.40
+<0.01
+3.58*
+0.20
+2.43
+0.19
+1.60
+1.11
+0.76
+
+arrays and marginally significant at the midline array.
+Post hoc analyses showed a significant WO effect only
+at the new-given condition at the posterior sites (Pz: F
+(1, 15) = 5.67, p < 0.05; P3/4: F(1, 15) = 5.26, p < 0.05; P7/
+8: F(1, 15) = 5.30, p < 0.05; O1/2: F(1, 15) = 7.19, p < 0.05).
+At OSV, the effect of GIVENNESS was significant or marginally significant at the posterior sites (Pz: F(1, 15) =
+5.44, p < 0.05; P3/4: F(1, 15) = 5.62, p < 0.05; O1/2: F(1,
+15) = 4.02, p = 0.06). These results indicate that ONEWSGIVENV showed a posterior positivity compared to SNEWOGIVENV and OGIVENSNEWV.
+In sum, a robust N400 reduction was observed for the
+given NPs at 300-500 ms. Importantly, ONEWSGIVENV elicited an early larger positivity than SNEWOGIVENV,
+whereas OGIVENSNEWV did not elicit any effect compared
+to SGIVENONEWV.
+
+The verb. Figure 3 shows the grand average ERP of V of
+the target sentence.
+In 300-500 ms, a significant main effect of GIVENNESS
+was observed in the midline and lateral arrays, showing
+that the new-given order enhanced an N400 amplitude
+compared to the given-new order (Table 3). GIVENNESS
+interacted with ANTERIORITY in all arrays, reflecting
+that the negativity for the new-given conditions was distributed at the fronto-central sites (Fz: F(1, 15) = 9.90, p <
+0.01; Cz: F(1, 15) = 7.40, p < 0.05; F3/4: F(1, 15) = 9.04, p <
+0.01; C3/4: F(1, 15) = 4.46, p < 0.05; F7/8: F(1, 15) = 7.08, p
+< 0.05; T7/8: F(1, 15) = 6.91, p < 0.05).
+The interaction of GIVENNESS x ANTERIORITY was significant at the lateral array and marginally significant at
+the midline array at the 500-700 time-window, due to
+a GIVENNESS effect at the fronto-central sites (Fz: F(1,
+15) = 3.76, p = 0.07; Cz: F(1, 15) = 6.07, p < 0.05; F3/4: F(1,
+15) = 3.91, p = 0.06).
+In 700-900 ms, the main effect of WO was marginally
+significant, showing that OSV elicited a positivity compared to SOV. For the same reason, the interaction of
+WO and ANTERIORITY was significant at the lateral
+
+array, with a significant effect at P3/4 and a marginally
+significant effect at C3/4 (P3/4: F(1, 15) = 7.67, p < 0.05;
+C3/4: F(1, 15) = 4.06, p = 0.06). WO did not interact with
+GIVENNESS in any array. However, the planned comparison between SOV and OSV conditions showed a positivity
+in the new-given condition (Midline: F(1, 15) = 4.80,
+p < 0.05; Lateral: F(1, 15) = 6.03, p < 0.05; Temporal:
+Lateral: F(1, 15) = 4.72, p < 0.05), but not in the givennew condition (Midline: F(1, 15) = 0.41, p > 0.10; Lateral:
+F(1, 15) = 0.45, p > 0.10; Temporal: F(1, 15) = 0.15, p > 0.10).
+Overall, the new-given conditions (SNEWOGIVENV and
+ONEWSGIVENV) elicited a larger N400 effect compared to
+the given-new conditions (SGIVENONEWV and OGIVENSNEWV). ONEWSGIVENV exhibited a posterior positivity compared
+to SNEWOGIVENV at the late time-window.
+
+4. Discussion
+The present ERP study aimed to elucidate the processing
+difficulties of syntactic complexity and an infelicitous use
+of OSV. The result showed an interaction of word order
+and givenness of arguments. ONEWSGIVENV elicited SLAN
+from O to S compared to SNEWOGIVENV. Importantly,
+however, OGIVENSNEWV did not exhibit SLAN compared
+to SGIVENONEWV. At NP2, ONEWSGIVENV elicited a significant
+P600 effect compared to SNEWOGIVENV. OGIVENSNEWV, on
+the other hand, did not show a P600 effect compared
+to SGIVENONEWV. These results are discussed in the following sections.
+
+4.1. SLAN effect
+ONEWSGIVENV showed a SLAN effect from O to S, in
+keeping with the results of Ueno and Kluender (2003),
+which presented OSV without context. However, OGIVENSNEWV did not show a comparable SLAN effect. One may
+view this difference between ONEWSGIVENV and OGIVENSNEWV as attributable to the number of referents presented to participants by the point of the NP1. In the
+
+1348
+
+M. YANO AND M. KOIZUMI
+
+Figure 3. Grand average ERPs at V.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+1349
+
+Table 3. Statistical results for V.
+300-500 ms
+Midline
+Word Order (WO)
+0.99
+Givenness (G)
+6.16*
+WO x Anteriority (Ant)
+0.45
+G x Ant
+6.08*
+WO x G
+0.05
+WO x G x Ant
+1.00
+WO x Hemisphere (Hem)
+G x Hem
+WO x Ant x Hem
+G x Ant x Hem
+WO x G x Hem
+WO x G x Ant x Hem
++
+p < .10, *p < .05, **p < .01, ***p < .005.
+
+500-700 ms
+
+700-900 ms
+
+Lateral
+
+Temporal
+
+Midline
+
+Lateral
+
+Temporal
+
+Midline
+
+Lateral
+
+Temporal
+
+0.97
+4.80*
+0.80
+6.36**
+0.02
+0.43
+<0.01
+0.81
+1.19
+0.04
+0.13
+0.19
+
+0.69
+2.98
+0.20
+3.19*
+<0.01
+0.02
+0.93
+0.91
+0.53
+2.70*
+1.09
+1.67
+
+0.96
+4.04+
+1.00
+3.50+
+0.11
+0.75
+
+1.11
+2.96
+2.62
+4.12*
+0.02
+0.02
+0.09
+0.02
+1.38
+0.07
+1.29
+0.21
+
+0.65
+2.13
+0.84
+0.92
+<0.01
+0.21
+1.05
+0.68
+0.68
+1.87
+<0.01
+1.36
+
+3.77+
+2.40
+0.99
+4.95*
+1.65
+0.85
+
+4.45+
+1.15
+4.06*
+8.52**
+1.29
+0.27
+0.88
+0.10
+1.07
+0.03
+0.59
+0.05
+
+3.40+
+1.50
+1.55
+2.27
+1.04
+0.15
+0.80
+0.17
+1.36
+1.50
+<0.01
+1.12
+
+new-given order, the participants read two NPs (i.e. an
+NP in the context and an NP1) by the NP1. In contrast,
+only an NP was presented at this position in the givennew order. If this difference affects SLAN's amplitude,
+then we expect only the main effect of GIVENNESS.
+This prediction cannot explain an interaction between
+WO and GIVENNESS.
+The question is why the processing reflected by the
+SLAN was costly in the infelicitous but not in the felicitous context. Previous studies on long-distance dependency formation have argued that the SLAN effect
+reflects a working memory load of actively storing a
+filler, such as a head noun of a relative clause and a
+fronted O (Hagiwara et al., 2007; King & Kutas, 1995;
+Kluender & Kutas, 1993; Matzke et al., 2002; Muller
+et al., 1997; Phillips et al., 2005). If we maintain this functional interpretation, SLAN's lack in the felicitous context
+implies that a discourse representation ameliorates the
+cost of holding a filler in the working memory in some
+way. However, this interpretation is challenged when
+we examine more carefully SLAN's functional significance. SLAN has also been observed for lexico-semantically vacuous displaced constituents, such as "wer"
+(who-ACC) in German (Thomas asks himself, who-ACC on
+Tuesday afternoon after the accident the doctor ___
+called has, Fiebach et al., 2002). Kluender and Kutas
+(1993) observed a larger SLAN effect for a matrix whquestion (Who have you forgotten ... ?) than a yes-no
+question (Have you forgotten ... ?), although they did
+not conduct a cumulative analysis. Furthermore,
+Wagers and Phillips (2009, 2014) argued that the parser
+actively maintains a syntactic category of a filler (e.g.
+NP) until encountering a gap, while it releases semantically detailed information from the working memory
+and reactivates it after receiving direct evidence for the
+location of a gap. Given these findings, a straightforward
+interpretation of what SLAN reflects is the active maintenance of a filler's syntactic category rather than
+lexico-semantic information. In this interpretation, it is
+
+not clear how discourse-level information alleviates the
+memory cost of holding a filler's syntactic category
+unless a linking hypothesis exists.
+Alternatively, SLAN may reflect the process of manipulating a discourse representation in memory. In ONEWSGIVENV, the processing cost should increase when
+encountering a discourse-new O because it has no referent in the preceding context, even though scrambling
+presupposes a shared referent in a discourse that directly
+or implicitly refers to an O. Accordingly, participants had
+to accommodate an unsatisfied presupposition to build a
+coherent discourse representation, probably by inventing an additional implicit context that linked the
+context and the target sentence. This process may be
+reflected by a SLAN observed in ONEWSGIVENV. The
+SLAN effect could be similar to the S(L)AN effect elicited
+by definite NPs and pronoun in the context with two
+salient referents, because the use of these NPs also presupposes a salient referent to which a speaker intends to
+refer ("David had asked the two girls to clean up their
+room before lunchtime. But one of the girls had stayed
+in bed all morning, and the other had been on the
+phone all the time. David told the girl ... ", Nieuwland
+& Van Berkum, 2006; Van Berkum, 2004; Van Berkum,
+Brown, & Hagoort, 1999; van Berkum et al.2003; Van
+Berkum, Zwitserlood, Bastiaansen, Brown, & Hagoort,
+2004; Van Berkum, Koornneef, Otten, & Nieuwland,
+2007).4 In OGIVENSNEWV, on the other hand, the manipulating process is not necessary because the discourse
+has already introduced a referent that refers to an O of
+OSV, leading to SLAN's lack in the felicitous context.
+To date, the extent to which this view can account for previous findings of SLAN effects remains unclear. To our
+knowledge, no ERP experiment examines the interaction
+of the processing of post-nominal relative clauses by
+context. However, given that a behavioural study showed
+that their processing was largely alleviated by the felicitous
+context (Roland, Mauner, O'Meara, & Yun, 2012), SLAN could
+decrease in amplitude due to a felicitous context. Another
+
+1350
+
+M. YANO AND M. KOIZUMI
+
+observation related to the present view is an LAN effect in
+response to the matrix question compared to the yes-no
+question (Kluender & Kutas, 1993). Since wh-questions,
+such as "What did Mary read?", presuppose the existence
+of an entity that Mary read (e.g. Postal, 1971; Karttunen &
+Peters, 1976), a wh-question introduced without context
+requires receivers to accommodate this presupposition.
+Accordingly, the LAN effect in response to a wh-question
+(Kluender & Kutas, 1993) could be accounted for in terms
+of contextual factors. However, more empirical data needs
+to be accumulated to test this view.
+
+4.2. P600 effect at the NP2
+At NP2, ONEWSGIVENV elicited a larger posterior positivity
+compared to SNEWOGIVEN, whereas no indication exists
+of a positivity in response to OGIVENSNEWV. The former
+result is consistent with previous studies on scrambling
+in Japanese (Hagiwara et al., 2007; Koso, Hagiwara, &
+Soshi, 2007; Ueno & Kluender, 2003), as well as those
+on filler-gap dependency in other languages (Fiebach
+et al., 2001; Fiebach et al., 2005; Kaan et al., 2000; Phillips
+et al., 2005; Rosler et al., 1998; Yasunaga et al., 2015; Yano
+et al., 2017, Yano, iikuni, et al., 2017). The positivity for
+ONEWSGIVENV began to diverge from SNEWOGIVENV earlier
+than typical P600 effects. This early peak latency may
+be due to the priming effect. When comparing ONEWSGIVENV and SNEWOGIVENV, the critical noun was a discourse-given NP. Accordingly, the repetition priming
+facilitated lexico-semantic processing and the subsequent process started earlier. This possibility was supported by the observation that the peak latency of P600
+was significantly earlier for the given NPs than the new
+NPs (Midline: F (1, 15) = 5.24, p < 0.05; Lateral: F (1, 15)
+= 6.01, p < 0.05; Temporal: F (1, 15) = 2.36, p = 0.14).5
+Importantly, OGIVENSNEWV did not show a larger positivity
+even in the typical P600 time-window. This result of the
+WO by context interaction is consistent with the behavioural result by Koizumi and Imamura (2017).
+First, it is less likely that the P600 reflects the revision
+cost of a syntactic structure. Because an accusative case
+was attached to the displaced O of experimental sentences, no S-O ambiguity existed in the present experiment. Furthermore, SLAN's presence for OSV in the
+infelicitous context suggests that the parser noticed a
+scrambled structure while processing an adverbial
+phrase under either interpretation of SLAN discussed
+above. Thus, the P600 is not the same as the P600 that
+has been observed for garden-path sentences (Kaan &
+Swaab, 2003a, 2003b).
+Second, Kaan et al. (2000) proposed that P600 reflects
+a syntactic integration difficulty. If we hold this view, the
+lack of the P600 effect suggests the facilitated syntactic
+
+integration of a filler and its gap. However, a question
+arises as to why the discourse givenness of an O
+reduces a P600 effect at the NP2. One possibility is that
+the syntactic integration difficulty might correlate with
+memory cost, because several studies failed to observe
+a P600 effect for scrambled sentences in cases in which
+the distance between a filler and its gap is relatively
+short. For instance, Hagiwara et al. (2007) compared
+the processing of middle scrambling with that of long
+scrambling, using the sentences in (8) below. They
+found that long scrambling elicited a P600 effect compared to the canonical condition, whereas middle scrambling did not (see also Koizumi & Yasunaga, 2017).
+Presumably, when the parser consumes less memory
+cost, it needs the less syntactic integration cost. In the
+present case, since a discourse-given O of OSV did not
+impose a memory pressure on the parser, the parser
+can integrate the filler with the gap relatively easily. On
+the other hand, a discourse-new O was difficult to integrate with the gap because it incurred a memory cost
+evidenced by SLAN. However, this conjecture is not consistent with the result of Fiebach et al. (2002) and Phillips
+et al. (2005), who reported a P600 effect, irrespective of
+the length between a filler and a gap.
+(8) a. Canonical condition:
+Kaiken- shacho-wa hisho-ga bengoshisagashiteiru-to itta.
+de
+o
+was.looking.for- said.
+meeting- president- secretary- lawyerTOP
+NOM
+ACC
+C
+at
+"At the meeting, the president said that the secretary was looking for the
+lawyer."
+b. Middle-scrambled condition:
+Kaiken- shacho-wa bengoshi- hisho-ga ti sagashiteiru-to itta.
+de
+oi
+was.looking.for- said.
+meeting- president- lawyer-ACC secretaryTOP
+NOM
+C
+at
+c. Long-scrambled condition:
+Kaiken- bengoshi- shacho-wa hisho-ga ti sagashiteiru-to itta.
+de
+oi
+was.looking.for said.
+meeting- lawyer-ACC president- secretaryTOP
+NOM
+at
+
+Alternatively, the P600 may reflect a conflict resolution of different information types. When scrambled
+sentences were not presented with a supportive
+context, the parser should have faced a conflict
+between syntactic and information structures. That is,
+syntactic information signals that the parser must reconstruct a filler at the derived position into the original position to receive a thematic role. However, the information
+structure does not validate that the filler is located at the
+topic position because scrambling yields an ill-motivated
+new-given order. An increasing number of recent ERP
+studies have argued that the P600 is not a manifestation
+of pure syntactic processing difficulty (e.g. BornkesselSchlesewsky & Schlesewsky, 2008; Brouwer, Crocker,
+Venhuizen, & Hoeks, 2016; Brouwer, Fitz, & Hoeks, 2012;
+Kuperberg, 2007; Vissers, Chwilla, & Kolk, 2006). Instead,
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+it indexes a process of integrating several types of information, such as syntax and semantics. Thus, a P600 likely
+reflects the resolution of a conflict between syntactic
+structure and information structure encoded by OSV.
+However, the issue of whether the same process
+underlies a P600 effect in other languages is not clear,
+since, for example, the pre-gap region of relative
+clauses in English is a verb, where different types of processes should also be performed, as discussed below.
+
+4.3. P600 effect at the V
+At the V, a larger P600 effect was observed for OSV compared to SOV in the new-given condition. The P600 at the
+V has been observed in previous studies (Hagiwara et al.,
+2007; Weckerly & Kutas, 1999). Phillips et al. (2005) proposed that the P600 at the V reflects "the syntactic and
+semantic operations involved in confirming the compatibility of the filler and the verb for thematic role assignment, and compositionally interpreting the verb and its
+arguments" (Phillips et al., 2005, p. 425). Because this
+process should be necessary at the V of the OSV in Japanese, it explains a P600 effect for OSV in the new-given
+context. However, it remains unclear why OSV in the
+given-new context did not elicit a similar P600 at V.
+The P600 effect in the present experiment contradicts
+with the previous ERP experiment of Japanese scrambling that reported a larger anterior negativity for OSV
+than SOV at the V (Ueno & Kluender, 2003). However,
+this AN effect reflects a wrap-up process that has often
+reported in ERP experiments (Friederici & Frisch, 2000;
+Osterhout, 1997). In the present study, an auxiliary verb
+was placed at the sentence's end to avoid the wrap-up
+negativity at the V. As expected, the wrap-up negativity
+was observed at the sentence's final region, although
+no significant effect existed between conditions.
+
+5. Conclusion
+The present study explored the interaction of syntactic
+complexity of scrambling and discourse factors during
+Japanese sentence comprehension. The result of the
+ERP experiment clearly demonstrated that the felicitous
+use of scrambling alleviated filler-gap dependency formation, as evidenced by a significant reduction of SLAN
+and P600 effects. This finding suggests that the processing
+difficulty that has been observed for non-canonical word
+orders is largely associated with discourse factors, such as
+the alignment of discourse-old and discourse-new NPs.
+Nevertheless, further investigation is necessary to clarify
+the functional significance of SLAN and P600.
+
+1351
+
+Notes
+1. They also observed a P600 again at the adverb ("toto"
+finally). The successive P600 effects may be due to a temporal ambiguity of an original position of the filler. If the
+parser actively attempts to fill a gap (Active Filler Strategy, Frazier & Clifton, 1989), it should perform a gapfilling parsing at S first and do so again at the adverb
+after detecting a final gap position.
+2. One might wonder whether repeating proper names in
+the context and the target sentences sounds unnatural
+because they are discourse-old information. However,
+Tsuchiya, Yoshimura, and Nakayama (2015) reported
+that native Japanese speakers overwhelmingly preferred
+the use of referential nouns (e.g. definite NPs) to pronouns in the narrative telling task, unlike in English, in
+which pronouns are preferred to refer to a discourseold referent. Hence, the repeated use of proper names
+is not problematic in Japanese. However, because the
+preceding context renders an NP a topic of a discourse,
+marking it with a nominative or accusative case instead
+of a topic marker (-wa) is not frequent in Japanese.
+However, Hirotani and Schumacher (2011) did not
+observe any difference between the nominative and
+the topic S when it was mentioned in the preceding
+context. Thus, it is unlikely that this affected our results.
+Furthermore, the use of a topic marker "-wa" for discourse-given NPs is problematic for the purpose of the
+current experiment because this induces an S-O ambiguity. Assuming that the native Japanese speakers disambiguate ambiguous sentences into canonical sentences,
+O-waGIVEN S-gaNEW V (O-TOP S-NOM V) should be temporarily
+analysed as a canonical SOV sentence until encountering
+S. Accordingly, such a sentence should not elicit a SLAN
+effect, making it impossible to examine how it is affected
+by discourse-level information.
+3. In single-word analyses, the ERP of the baseline time
+window was analysed to ensure that ERP difference
+was not induced as a result of the baseline correction
+procedure. The results reveal no significant main effect
+or interaction at the baseline time window when the
+ERPs were time-locked to the onset of the previous
+region.
+4. An important caveat is that Nieuwland, Petersson, and
+Van Berkum (2007) found an increased activation for a
+referentially ambiguous pronoun at the medial prefrontal region, which is different from the left inferior
+frontal gyrus that activates during the processing of
+non-canonical word orders (Grewe et al., 2007; Kim
+et al., 2009; Kinno, Kawamura, Shioda, & Sakai, 2008).
+5. The mean peak latency of the positivity was calculated for
+each channel with the ERP Measurement Tool of ERPLAB
+(Lopez-Calderon & Luck, 2014) by finding a latency in
+which the greatest positivity was observed between 300
+and 900 ms of NP2. The statistical analyses were conducted in the same way as reported in Section 3.5.
+
+Acknowledgements
+We thank anonymous reviewers and the editor for their insightful comments. We are also grateful to Mineharu Nakayama,
+Ellen Lau, Hajime Ono, and Shin Fukuda for their helpful
+
+1352
+
+M. YANO AND M. KOIZUMI
+
+comments. This study was supported by JSPS KAKENHI
+(#15H02603, PI: Masatoshi Koizumi), a Grant-in-Aid for JSPS
+Research Fellows (#13J04854, PI: Masataka Yano) and Kyushu
+University Wakaba Project (#30203, PI: Masataka Yano).
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+Funding
+This study was supported by the JSPS KAKENHI (#15H02603, PI:
+Masatoshi Koizumi), a Grant-in-Aid for JSPS Research Fellows
+(#13J04854, PI: Masataka Yano) and Kyushu University
+Wakaba Project (#30203, PI: Masataka Yano).
+
+ORCID
+Masataka Yano
+
+http://orcid.org/0000-0003-4465-8456
+
+References
+Aissen, J. L. (1992). Topic and focus in Mayan. Language, 68, 43-
+80.
+Bader, M., & Meng, M. (1999). Subject-object ambiguities in
+German embedded clauses: An across-the-board comparison. Journal of Psycholinguistic Research, 28, 121-143.
+Birner, B. J., & Ward, G. (2009). Information structure and syntactic structure. Language and Linguistics Compass, 3, 1167-
+1187.
+Bock, J. K., & Warren, R. K. (1985). Conceptual accessibility and
+syntactic structure in sentence formulation. Cognition, 21,
+47-67.
+Bornkessel-Schlesewsky, I., & Schlesewsky, M. (2008). An
+alternative perspective on "semantic P600" effects in
+language comprehension. Brain Research Reviews, 59(1),
+55-73.
+Bornkessel-Schlesewsky, I., & Schlesewsky, M. (2009a). The role
+of prominence information in the real-time comprehension
+of transitive constructions: A cross-linguistic approach.
+Language and Linguistics Compass, 3, 19-58.
+Bornkessel-Schlesewsky, I., & Schlesewsky, M. (2009b).
+Processing syntax and morphology: A neurocognitive perspective. Oxford: Oxford University Press.
+Branigan, H. P., Pickering, M. J., & Tanaka, M. (2008).
+Contributions of animacy to grammatical function assignment and word order during production. Lingua.
+International Review of General Linguistics. Revue internationale De Linguistique Generale, 118, 172-189.
+Brouwer, H., Crocker, M. W., Venhuizen, N. J., & Hoeks, J. C. J.
+(2016). A neurocomputational model of the N400 and the
+P600 in language processing. Cognitive Science, 41, 1551-
+6709.
+Brouwer, H., Fitz, H., & Hoeks, J. (2012). Getting real about
+semantic illusions: Rethinking the functional role of the
+P600 in language comprehension. Brain Research, 1446,
+127-143.
+
+Clifton C, J., & Frazier, L. (2004). Should given information
+come before new? Yes and no. Memory and Cognition, 32,
+886-895.
+Ferreira, V. S., & Yoshita, H. (2003). Given-new ordering effects
+on the production of scrambled sentences in Japanese.
+Journal of Psycholinguistic Research, 32, 669-692.
+Fiebach, C. J., Schlesewsky, M., & Friederici, A. D. (2001).
+Syntactic working memory and the establishment of fillergap dependencies: Insights from ERPs and fMRI. Journal of
+Psycholinguistic Research, 30(3), 321-338.
+Fiebach, C. J., Schlesewsky, M., & Friederici, A. D. (2002).
+Separating syntactic memory costs and syntactic integration
+costs during parsing: The processing of German WH-questions. Journal of Memory and Language, 47(2), 250-272.
+Fiebach, C. J., Schlesewsky, M., Lohmann, G., von Gramon, D. Y.,
+& Friederici, A. D. (2005). Revisiting the role of Broca's area in
+sentence processing: Syntactic integration versus syntactic
+working memory. Human Brain Mapping, 24, 79-91.
+Frazier, L. & Clifton, C., Jr. (1989). Successive cyclicity in the
+grammar and the parser. Language and Cognitive Processes,
+4, 93-126.
+Friederici, A. D., & Frisch, S. (2000). Verb argument structure processing: The role of verb-specific and argument-specific
+information. Journal of Memory and Language, 43(3), 476-
+507.
+Gibson, E. (1998). Linguistic complexity: Locality of syntactic
+dependencies. Cognition, 68, 1-76.
+Gibson, E. (2000). The dependency locality theory: A distancebased theory of linguistic complexity. In A. P. Marantz, Y.
+Miyashita, & W. O'Neil (Eds.), Image, language, brain (pp.
+95-126). Cambridge, MA: MIT Press.
+Greenhouse, S. W., & Geisser, M. (1959). On methods in the
+analysis of profile data. Psychometrika, 24, 95-112.
+Grewe, T., Bornkessel-Schlesewsky, I., Zysset, S., Wiese, R., von
+Cramon, D. Y., & Schlesewsky, M. (2007). The role of the posterior superior temporal sulcus in the processing of
+unmarked transitivity. NeuroImage, 35, 343-352.
+Grodner, D., Gibson, E., & Watson, D. (2005). The influence of
+contextual contrast on syntactic processing: Evidence for
+strong-interaction in sentence comprehension. Cognition,
+95, 275-296.
+Hagiwara, H., Soshi, T., Ishihara, M., & Imanaka, K. (2007). A topographical study on the event-related potential correlates of
+scrambled word order in Japanese complex sentences.
+Journal of Cognitive Neuroscience, 19, 175-193.
+Hirotani, M., & Schumacher, P. B. (2011). Context and topic
+marking affect distinct processes during discourse comprehension in Japanese. Journal of Neurolinguistics, 24, 276-292.
+Hirsh-Pasek, K., & Golinkoff, R. M. (1996). The origins of grammar:
+Evidence from early language comprehension. Cambridge,
+MA: MIT Press.
+Imamura, S. (2014). The influence of givenness and heaviness
+on OSV in Japanese. In W. Aroonmanakun, P. Boonkwan, &
+T. Supnithi (Eds.), Proceedings of the 28th Pacific Asia
+Conference on Language, Information and Computation (pp.
+224-233). Bangkok: Chulalongkon University.
+Imamura, S. (2015). The effects of givenness and heaviness on
+VP-internal scrambling and VP-external scrambling in
+Japanese. Studies in Pragmatics, 17, 1-16.
+Imamura, S., & Koizumi, M. (2011). A centering analysis of word
+order in Japanese. Tohoku Studies in Linguistics, 20, 59-74.
+
+LANGUAGE, COGNITION AND NEUROSCIENCE
+
+Jasper, H. H. (1958). The ten-twenty electrode system of the
+international federation. Electroencephalography and
+Clinical Neurophysiology, 10, 371-375.
+Kaan, E., Harris, A., Gibson, E., & Holcomb, P. (2000). The P600 as
+an index of syntactic integration difficulty. Language and
+Cognitive Processes, 15(2), 159-201.
+Kaan, E., & Swaab, T. Y. (2003a). Electrophysiological evidence
+for serial sentence processing: A comparison between nonpreferred and ungrammatical continuations. Cognitive Brain
+Research, 17, 621-635.
+Kaan, E., & Swaab, T. Y. (2003b). Repair, revision, and complexity
+in syntactic analysis: An electrophysiological differentiation.
+Journal of Cognitive Neuroscience, 15(1), 98-110.
+Kaiser, E., & Trueswell, J. C. (2004). The role of discourse context
+in the processing of a flexible word-order language.
+Cognition, 94, 113-147.
+Karttunen, L., & Peters, S. (1976). What indirect questions conventionally implicate. In S. Mufwene, C. A. Walker, & S. B.
+Steever (Eds.), CLS 12: Papers from the twelfth regional
+meeting (pp. 351-368). Chicago: Chicago Linguistic Society.
+Kemmerer, D. (2012). The cross-linguistic prevalence of SOV
+and SVO word orders reflects the sequential and hierarchical
+representation of action in Broca's Area. Language and
+Linguistics Compass, 6(1), 50-66.
+Kim, J. (2012). Kankokugo kakimazegojyunbun-no puraimingu
+kooka [Priming effects in scrambled sentences in Korean].
+Culture, 75, 228-213.
+Kim, J., Koizumi, M., Ikuta, N., Fukumitsu, Y., Kimura, N., Iwata, K.,
+... Kawashima, R. (2009). Scrambling effects on the processing of Japanese sentences: An fMRI study. Journal of
+Neurolinguistics, 22, 151-166.
+King, J. W., & Kutas, M. (1995). Who did what and when? Using
+word- and clause-level ERPs to monitor working memory
+usage in reading. Journal of Cognitive Neuroscience, 1, 378-395.
+Kinno, R., Kawamura, M., Shioda, S., & Sakai, K. L. (2008). Neural
+correlates of non-canonical syntactic processing revealed by
+a picture-sentence matching task. Human Brain Mapping, 29,
+1015-1027.
+Kluender, R., & Kutas, M. (1993). Bridging the gap: Evidence
+from ERPs on the processing of unbounded dependencies.
+Journal of Cognitive Neuroscience, 5, 196-214.
+Koizumi, M., & Imamura, S. (2017). Interaction between syntactic
+structures and information structures in the processing of a
+head-final language. Journal of Psycholinguistic Research, 46
+(1), 247-260.
+Koizumi, M., & Kim, J. (2016). Greater left inferior frontal activation for SVO than VOS during sentence comprehension
+in Kaqchikel. Frontiers in Psychology, 7, 1541.
+Koizumi, M., Yasugi, Y., Tamaoka, K., Kiyama, S., Kim, J., Ajsivinac
+Sian, J. E., & Garcia Matzar, P. O. (2014). On the (non)universality of the preference for subject-object word order in sentence comprehension: A sentence-processing study in
+Kaqchikel Maya. Language, 90, 722-736.
+Koizumi, M., & Yasunaga, D. (2017). Are event-related potentials
+differentially modulated by syntactic structure and information structure? Journal of Language Sciences, 24, 323-344.
+Koso, A., Hagiwara, H., & Soshi, T. (2007). Event-related brain
+potentials associated with scrambled Japanese ditransitive
+sentences. In T. Sakamoto (Ed.), Communicating skills of intention (pp. 337-352). Tokyo: Hituzi Syobo Publishing.
+Kuno, S. (1978). Danwa-no Bunpo [Grammar of Discourse].
+Tokyo: Taishukan.
+
+1353
+
+Kuno, S. (1987). Functional syntax: Anaphora, discourse and
+empathy. Chicago, IL: The University of Chicago Press.
+Kuperberg, G. R. (2007). Neural mechanisms of language comprehension: Challenges to syntax. Brain Research, 1146(1),
+23-49.
+Kutas, M., & Federmeier, K. D. (2011). Thirty years and counting
+finding meaning in the N400 component of the eventrelated
+brain potential. The Annual Review of Psychology, 62, 621-
+647.
+Kutas, M., & Van Petten, C. (1988). Event-related brain potential
+studies of language. In P. K. Ackles, J. R. Jennings, & M. G. H.
+Coles (Eds.), Advances in psychophysiology (pp. 139-187).
+Greenwich, CT: JAI Press.
+Lau, E., & Liao, C.-H. (2018). Linguistic structure across time: ERP
+responses to coordinated and uncoordinated noun phrases.
+Language, Cognition and Neuroscience, 33(5), 633-647.
+Lopez-Calderon, J., & Luck, S. J. (2014). ERPLAB: An open-source
+toolbox for the analysis of event-related potentials. Frontiers
+in Human Neuroscience, 8, 213.
+Matzke, M., Mai, H., Nager, W., Russeler, J., & Munte, T. F. (2002).
+The costs of freedom: An ERP - Study of non-canonical sentences. Clinical Neurophysiology, 113, 844-852.
+Mazuka, R., Itoh, K., & Kondo, T. (2002). Costs of scrambling in
+Japanese sentence processing. In M. Nakayama (Ed.),
+Sentence processing in east Asian languages (pp. 131-166).
+Stanford, CA: CSLI.
+Meng, M., Bader, M., & Bayer, J. (1999). Die Verarbeitung von
+Subjekt- Objekt Ambiguitaten im Kontext [The processing
+of subject-object ambiguities in context]. In I. Wachsmuth
+& B. Jung (Eds.), Proceedings der 4. Fachtagung der
+Gesellschaft fur Kognitionswissenschaft (pp. 244-249).
+St. Augustin, FL: Infix Verlag.
+Muller, H. M., King, J. W., & Kutas, M. (1997). Event-related potentials elicited by spoken relative clauses. Cognitive Brain
+Research, 5, 193-203.
+Nieuwland, M. S., Petersson, K. M., & Van Berkum, J. J. A.
+(2007). On sense and reference: Examining the functional
+neuroanatomy of referential processing. NeuroImage, 37,
+993-1004.
+Nieuwland, M. S., & Van Berkum, J. J. A. (2006). Individual differences and contextual bias in pronoun resolution: Evidence
+from ERPs. Brain Research, 1118(1), 155-167.
+Oldfield, R. (1971). The assessment and analysis of handedness:
+The Edinburgh inventory. Neuropsychologia, 9, 97-113.
+Osterhout, L. (1997). On the brain response to syntactic
+anomalies: Manipulations of word position and word class
+reveal individual differences. Journal of Memory and
+Language, 43, 476-507.
+Phillips, C., Kazanina, N., & Abada, S. (2005). ERP effects of the
+processing of syntactic long-distance dependencies.
+Cognitive Brain Research, 22(3), 407-428.
+Postal, P. M. (1971). Cross-over phenomena. Holt: Rinehart &
+Winston of Canada.
+Primus, B. (1999). Cases and thematic roles. Tubingen: Niemeyer.
+Roland, D., Mauner, G., O'Meara, C., & Yun, H. (2012). Discourse
+expectations and relative clause processing. Journal of
+Memory and Language, 66, 479-508.
+Rosler, F., Pechmann, T., Streb, J., Roder, B., & Hennighausen, E.
+(1998). Parsing of sentences in a language with varying word
+order: Word-by-word variations of processing demands are
+revealed by event-related brain potentials. Journal of
+Memory and Language, 38, 150-176.
+
+1354
+
+M. YANO AND M. KOIZUMI
+
+Sekerina, I. A. (1997). The syntax and processing of Russian
+scrambled constructions in Russian. (Doctoral dissertation).
+City University of New York, New York.
+Sekerina, I. (2003). Scrambling and processing: Dependencies,
+complexity and constraints. In S. Karimi (Ed.), Word order
+and scrambling (pp. 301-324). Malden, MA: Blackwell.
+Slobin, D. I., & Bever, T. G. (1982). Children use canonical sentence schemas: A crosslinguistic study of word order and
+inflections. Cognition, 12, 229-265.
+Tamaoka, K., Kanduboda, P. B. A., & Sakai, H. (2011). Effects of
+word order alternation on the sentence processing of
+Sinhalese written and spoken forms. Open Journal of
+Modern Linguistics, 1, 24-32.
+Tamaoka, K., Sakai, H., Kawahara, J., Miyaoka, Y., Lim, H., &
+Koizumi, M. (2005). Priority information used for the processing of Japanese sentences: Thematic roles, case particles or
+grammatical functions? Journal of Psycholinguistic Research,
+34, 281-332.
+Tanaka, M. N., Branigan, H. P., McLean, J. F., & Pickering, M. J.
+(2011). Conceptual influences on word order and voice in
+sentence production: Evidence from Japanese. Journal of
+Memory and Language, 65, 318-330.
+Tsuchiya, S., Yoshimura, N., & Nakayama, M. (2015). Subject
+nouns in L2 Japanese storytelling: A preliminary study. Ars
+Linguistica, 21, 89-102.
+Ueno, M., & Kluender, R. (2003). Event-related brain indices of
+Japanese scrambling. Brain and Language, 86, 243-271.
+Ueno, M., & Kluender, R. (2009). On the processing of Japanese
+wh-questions: An ERP study. Brain Research, 1290(22), 63-90.
+Van Berkum, J. J. A. (2004). Sentence comprehension in a wider
+discourse: Can we use ERPs to keep track of things? In M.
+Carreiras & C. Clifton, Jr. (Eds.), The on-line study of sentence
+comprehension: Eyetracking, ERPs and beyond (pp. 229-270).
+New York, NY: Psychology Press.
+Van Berkum, J. J. A., Brown, C. M., & Hagoort, P. (1999). Early
+referential context effects in sentence processing: Evidence
+from event-related brain potentials. Journal of Memory and
+Language, 41, 147-182.
+Van Berkum, J. J. A., Brown, C. M., Hagoort, P., & Zwitserlood, P.
+(2003). Event-related brain potentials reflect discourse-
+
+referential ambiguity in spoken language comprehension.
+Psychophysiology, 40, 235-248.
+Van Berkum, J. J. A., Koornneef, A. W., Otten, M., & Nieuwland, M.
+S. (2007). Establishing reference in language comprehension:
+An electrophysiological perspective. Brain Research, 1146,
+158-171.
+Van Berkum, J. J. A., Zwitserlood, P., Bastiaansen, M. C. M.,
+Brown, C. M., & Hagoort, P. (2004). So who's "he" anyway?
+Differential ERP and ERSP effects of referential success, ambiguity and failure during spoken language comprehension.
+Annual meeting of the Cognitive Neuroscience Society,
+San Francisco, April 18-20.
+Vissers, C. T. W. M., Chwilla, D. J., & Kolk, H. H. J. (2006).
+Monitoring in language perception: The effect of misspellings of words in highly constrained sentences. Brain
+Research, 1106(1), 150-163.
+Wagers, M., & Phillips, C. (2009). Multiple dependencies and the
+role of the grammar in real-time comprehension. Journal of
+Linguistics, 45, 395-433.
+Wagers, M. W., & Phillips, C. (2014). Going the distance: Memory
+and control processes in active dependency construction.
+Quarterly Journal of Experimental Psychology, 67(7), 1274-
+1304.
+Weckerly, J., & Kutas, M. (1999). An electrophysiological analysis
+of animacy effects in the processing of object relative sentences. Psychophysiology, 36, 559-570.
+Yano, M., Niikuni, K., Ono, H., Kiyama, S., Sato, M., Tang, A. A. ...
+Koizumi, M. (2017). VOS preference in Truku sentence processing: Evidence from event-related potentials. The Society
+for the Neurobiology of Language (SNL2017), Baltimore,
+Maryland.
+Yano, M., Yasunaga, D., & Koizumi, M. (2017). Event-related
+brain indices of gap-filling processing in Kaqchikel. In S. R.
+Harris (Ed.), Event-related potential (ERP): Methods, outcomes,
+research insights (pp. 89-122). New York: NOVA Science
+Publishers.
+Yasunaga, D., Yano, M., Yasugi, Y., & Koizumi, M. (2015). Is the
+subject-before-object preference universal? An eventrelated potential study in the Kaqchikel Mayan language.
+Language, Cognition and Neuroscience, 30(9), 1209-1229.
+
+

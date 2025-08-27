@@ -1,0 +1,1138 @@
+Brain & Language 124 (2013) 244-256
+
+Contents lists available at SciVerse ScienceDirect
+
+Brain & Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Deduction electrified: ERPs elicited by the processing of words
+in conditional arguments q
+Mathilde Bonnefond a,b, Jean-Baptiste Van der Henst a,
+a
+b
+
+Laboratoire Langage, Cerveau et Cognition (L2C2), CNRS, Universite de Lyon, UMR 5304, Institut des Sciences Cognitives, 67, Boulevard Pinel, 69675 Bron Cedex, France
+Donders Institute for Brain, Cognition and Behaviour, Radboud University Nijmegen, Kapittelweg 29, 6525 EN Nijmegen, Netherlands
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 14 December 2012
+Available online 9 February 2013
+Keywords:
+Conditional reasoning
+ERPs
+Modus Ponens
+Deductive inference
+Late positive component
+P600
+N2
+P3b
+PSW
+
+a b s t r a c t
+This study investigates the ERP components associated with the processing of words that are critical to
+generating and rejecting deductive conditional Modus Ponens arguments (If P then Q; P//Therefore, Q).
+The generation of a logical inference is investigated by placing a verb in the minor premise that matches
+the one used in the antecedent of the conditional premise so that the inference can be carried out (If John
+is sleeping then he is snoring; John is sleeping). Rejections are examined by placing verbs that are associates
+of the verb that would make the conclusion valid (Conclusion `therefore John is dreaming' in the example
+above). The inference generation phase was characterized by two ERP components, namely the P3b and
+the PSW. Rejections were associated with an N2 and a late positive component. The implications of these
+results regarding the processing of words in an inferential context are discussed.
+O 2013 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Utterances in the context of discourse are not processed in isolation. The interpretation of a given proposition is partially guided
+by previously introduced statements, as well as by other contextual cues. If the utterance ``My husband is a true gentleman!'' is
+preceded by ``Every Sunday my husband brings me a huge bunch
+of flowers'', its reading will not be the same as if it were preceded
+by ``My husband cheated on me with my best friend and stole all of
+my grandmother's savings''. However, the interaction between
+utterances does not only help specify interpretation. In many cases
+the combination of two or more, statements can result in expanding the amount of available information through logical inferences.
+For instance, if I hear (1) and (2), and if I believe both statements to
+be true, I will most likely consider (3) to be true as well, as it is a
+logical consequence of (1) and (2).
+(1) If John is sleeping then he is snoring
+(2) John is sleeping
+(3) Therefore John is snoring
+
+q
+
+The title of this article is inspired by the work of Kutas and Van Petten (1994).
+
+ Corresponding author. Present address: Laboratoire Langage, Cerveau et
+Cognition (L2C2), CNRS, Universite de Lyon, UMR 5304, Institut des Sciences
+Cognitives, 67, Boulevard Pinel, 69675 Bron Cedex, France.
+E-mail addresses: m.bonnefond@donders.ru.nl (M. Bonnefond), vanderhenst@
+isc.cnrs.fr (Jean-Baptiste Van der Henst).
+0093-934X/$ - see front matter O 2013 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.bandl.2012.12.011
+
+In contrast, I will not consider that (4) can be logically inferred from
+(1) and (2)1.
+(4) Therefore John is dreaming
+The ability to perform such basic inferences is deeply rooted in
+the human mind. It is easily available to every human being,
+regardless of literacy, and it seems that all natural languages can
+express basic logical concepts such as conjunction, disjunction or
+implication (Braine, 1990; Von Fintel & Matthewson, 2008). Furthermore, this ability is acquired effortlessly by children (Hawkins,
+Pea, Glick, & Scribner, 1984; Kuhn, 1977; Rumain, Connell, &
+Braine, 1983), and some logical inferences can be performed automatically and even subliminally (Lea, 1995; Lea, Obrien, Fisch, Noveck, & Braine, 1990; Reverberi, Pischedda, Burigo, & Cherubini,
+2012; Reverberi et al., 2007). Some researchers have therefore proposed that these basic inferential skills constitute a ``Natural Logic''
+(Braine, 1990; Braine, Reiser, & Rumain, 1984).
+The way in which humans carry out basic logical inferences and
+reject non-logical conclusions has long been investigated through
+behavioral methods and, more recently, through functional magnetic resonance imaging (see Goel, 2007; Prado, Chadha, & Booth,
+2011 for reviews and Houde, 2007; Houde & Tzourio-Mazoyer,
+2003 for a broad view on reasoning). In the present paper, we will
+address a neglected but essential aspect of the brain's response
+1
+
+One may, however, consider (4) to be true for other reasons.
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+when these inferences are performed, namely the electrophysiological neural correlates. Indeed, due to the intense rapidity of this process, it seems only appropriate to capture it with a technique
+providing good temporal resolution, such as electroencephalography
+(EEG). EEG offers the possibility of obtaining online measures regarding the cascade of neurocognitive events that unfold quickly when
+inferences are generated ``on the fly''. Here, we will examine the processing of words embedded within basic conditional arguments. We
+will mainly focus on words (a) when processed within contexts that
+allow an inference to be performed (e.g., (2)) and (b) when processed
+within conclusions that violate logical consistency (e.g., (4)).
+Until now, the investigation of inference-making with EventRelated Potentials (ERPs) has mainly concerned non-demonstrative inferences in text integration, such as bridging inferences
+(Burkhardt, 2006; Burkhardt & Roehm, 2007; Kuperberg, Kreher,
+& Ditman, 2010; Kuperberg, Paczynski, & Ditman, 2011; St. George,
+Mannes, & Hoffman, 1997; Yang, Perfetti, & Schmalhofer, 2007),
+elaborative inferences (St. George et al., 1997), predictive/anticipatory inferences (Otten, Nieuwland, & van Berkum, 2007), irony (Regel, Coulson, & Gunter, 2010; Regel, Gunter, & Friederici, 2011) and
+metaphor (Pynte, Besson, Robichon, & Poli, 1996). These inferences
+are typically involved in comprehension and partially consist of
+making assumptions about the speaker's communicative intention
+(Sperber & Wilson, 1995). Although these inferences may include a
+deductive component, a great part of the effort in making them
+consists of extracting elements of context and encyclopedic knowledge that serve to form hypotheses.
+Thus far, there have only been a handful of ERP studies devoted
+to strictly deductive inferences. In a first study, Qiu et al. (2007)
+presented Chinese participants with arbitrary conditional arguments referring to geometrical forms and colors:
+(5) Major premise:
+Minor premise:
+Conclusion:
+
+If the figure is a square then it is red
+It is a square
+So it's red
+
+The second premise included the affirmation of the antecedent (as
+the minor premise in (5)), the affirmation of the consequent (i.e.,
+``It is red''), the denial of the antecedent (i.e., ``It is not a square'')
+and the denial of the consequent (i.e., ``It is not red''). ERPs were recorded at the minor premise level and the control condition consisted
+of a mismatching minor premise that was unrelated to the conditional statement (i.e., ``It is a big figure''). The authors did not find
+any difference between the four conditional arguments, but reported
+that in the 500-800 ms and 1700-2000 ms time-windows, these
+arguments elicited a more negative deflection than the control condition. However, due to methodological limitations it might be hard to
+interpret these data. First, the semantic units of the critical premises
+were not displayed sequentially, as for a word-by-word presentation.
+This makes it difficult to identify the point at which the inference was
+generated. Second, the control condition is likely to come with its
+own processing demands, for in the context of an inferential task, a
+conditional statement may raise expectations regarding upcoming
+premises. If the minor premise is unrelated to the conditional statement, a conflict is likely to occur. Hence, the ERP difference observed
+between an unrelated minor premise (used as a control in the Qiu
+et al. study) and a ``reasoning'' premise may actually be the result
+of specific demands on the former (see Bonnefond & Van der Henst,
+2009).In a more recent study (Bonnefond & Van der Henst, 2009), we
+presented participants with minimalist MP arguments involving artificial relations between letters (see also Bonnefond, Noveck, et al.,
+2012; Bonnefond, Van der Henst, et al., 2012)):
+(6) Major premise:
+Minor premise:
+Conclusion:
+
+If P then Q
+P
+Q
+
+245
+
+The matching premise P was not only compared to a mismatching premise R but also to a premise that occurred without being in
+the context of a conditional statement so that it could neither satisfy nor violate the expectations raised by the major premise (i.e.,
+the letter P was presented before If P then Q and was used as a control condition). The results indicated that in the context of If P then
+Q, the matching premise P elicits a P3b component. In contrast,
+when the minor premise mismatches the conditional (i.e., R) it
+prompts a N2 component. Given that the P3b is associated with
+the processing of stimuli which are expected and relevant to the task
+(e.g., target stimuli, see Verleger, 1988) and that the N2 is a signature of mismatch (see Folstein & Van Petten, 2008 for a review), we
+argued that the conditional premise If P then Q raises expectancies
+regarding the upcoming premise. We also observed that the P3b
+component elicited by the matching premise was followed by a Positive Slow Wave component (PSW at approximately 360 ms
+after the stimulus onset). This component was interpreted as
+reflecting the conclusion-drawing phase. Finally, at the conclusion
+level, matching and mismatching effects were also found: the
+Matching conclusion (If P then Q; P; Q) and the Mismatching conclusion (If P then Q; P; S) yielded a P3b and a N2 component,
+respectively.
+However, because of the artificial nature of the material used in
+this experiment, the electrophysiological response associated with
+a more natural form of deductive inference may have been obscured. People are more accustomed to reasoning on the basis of
+meaningful sentences than artificial letters that do not refer to
+any concrete entities. A number of results reveal that the content
+of premises does influence the way people reason (Manktelow,
+2012) and that the brain's response is, unsurprisingly, sensitive
+to content (see Goel, 2009). In the present study, the critical items
+(the minor premise and the conclusion) will be verbs embedded in
+meaningful sentences (see (1-3)) rather than arbitrary letters in
+abstract conditionals. Our first aim is to determine whether the
+ERP data reported for abstract symbols extend to more linguistic
+and concrete material. Indeed, if the results from Bonnefond and
+Van der Henst (2009) were only specific to the processing of abstract symbols, their scope would be somewhat limited, because
+they would only concern a non-prototypical situation of inference-making. We will thus explore the processing of words that
+trigger a deductive inference such as the verb ``sleep'' in the minor
+premise of (2).
+Thus far, we have primarily considered the processing of arguments from the ``production'' perspective; that is, when premises
+allow a logical conclusion to be derived. However, our deductive
+abilities also enable us to evaluate conclusions and reject those
+that are deemed invalid. Therefore, our second aim is to examine
+the processing of conclusions that violate logical constraints, such
+as the verb ``dream'' in sentence (4). With respect to this second
+purpose, EEG studies that investigate the processing of linguistic
+input in the context of violation paradigms are of great relevance.
+In these paradigms, participants read or hear sentences that include different types of violation (e.g., semantic or syntactic violations), eliciting distinct ERP components. Two of these components
+will be considered here: the N400 and the P600.
+The N400 is one of the first language ERP components to have
+been identified (Kutas & Hillyard, 1980a). It is a negative-going
+wave peaking at approximately 400 ms after stimulus onset with
+a centro-parietal scalp distribution. The N400 component was
+mainly related to lexical-semantic integration (see Kutas &
+Federmeier, 2011 for a review) and was initially observed for
+words that violate semantic expectations raised by the sentence
+context, such as the word ``socks'' in ``he spreads the warm bread
+with socks'' (Kutas & Hillyard, 1980a).
+Relevant to the present task, which involves multi-sentence
+arguments, is the evidence that the N400 is also sensitive to the
+
+246
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+global, discourse-level context (van Berkum, 2009; van Berkum,
+Zwitserlood, Hagoort, & Brown, 2003). For instance, St. George,
+Mannes, and Hoffman (1994), asked their participants to read
+paragraphs that were ambiguous and hardly comprehensible when
+presented without a title but clear and unambiguous when presented with a clarifying title. ERPs were recorded at all words of
+the passages, and it was found that in the untitled version, words
+elicited a greater N400 than in the titled version. In another study,
+van Berkum, Hagoort, and Brown (1999; see also van Berkum,
+Brown, Hagoort, & Zwitserlood, 2003) also observed that words
+that are incoherent relative to the discourse context yielded a
+greater N400 than coherent words.
+The N400 component reported in these studies indicates that
+participants quickly link the words they are processing with the
+semantic representation previously introduced by the discourse.
+Within the context of a deductive argument, it could be
+assumed that compelling logical conclusions, such as MP conclusions, are added to the semantic representation of the argument's premises (Johnson-Laird, 1983; Johnson-Laird & Byrne,
+1991). Hence, when a non-logical conclusion occurs at the end
+of the argument, it somehow violates the semantic representation built from the premises and might elicit a N400
+component.
+However, reasoning from deductive premises is sometimes
+viewed as a relatively formal process that consists of applying abstract inference rules to the logical form of the premises (Braine
+et al., 1984; Rips, 1994). According to such a view, a non-logical
+conclusion yields a formal clash rather than a semantic violation.
+In other words, it may be processed as the wrong outcome resulting from the erroneous application of the formal deductive procedure. Therefore, the P600 component should be considered
+because it is associated with more formal and structural violations
+than the N400 component.
+The P600 is a broadly distributed, positive-going wave that can
+last for several hundred milliseconds, with a midpoint or peak
+approximately 600 ms after stimulus onset. In the domain of language, the P600 was originally linked with syntactic processing
+(Osterhout & Holcomb, 1992) and was therefore referred to as
+the Syntactic Positive Shift (Hagoort, Brown, & Groothusen,
+1993). Indeed, the P600 arises in various cases of syntactic constraint violations (for review, see Hagoort, Brown, & Osterhout,
+1999) including subjacency violations, subcategorization violations, phrase structure violations and agreement violations (Hagoort et al., 1993; Neville, Nicol, Barss, Forster, & Garrett, 1991;
+Osterhout & Holcomb, 1992). Rather than being specific to language, the P600 seems to be associated with a violation of any
+rule-governed sequence and seems to reflect the difficulty in integrating information into a pre-existing formal structure (NunezPena & Honrubia-Serrano, 2004; Patel, Gibson, Ratner, Besson, &
+Holcomb, 1998). In the context of reasoning, a conclusion that is
+blatantly non-logical could be treated as a piece of information that
+violates, at a discourse level, a rule-governed sequence, because it
+terminates an argumentative structure with a conclusion that is in
+stark contrast with a basic logical schema.
+In summary, we will characterize the electrophysiological signature of (1) inference production and (2) conclusion evaluation.
+To do so, we will examine the processing of words in matching premises and mismatching conclusions. In agreement with Bonnefond
+and Van der Henst's (2009) study, we expect matching premises to
+elicit a P3b and a PSW, which may reflect the satisfaction of expectations raised by the conditional statement and the inference generation, respectively (Bonnefond & Van der Henst, 2009). In the
+conclusion evaluation phase, the component elicited by the mismatching verbs will help determine whether conclusions are assessed as part of the semantic content of the argument or as the
+final portion of a formal sequence, or both. The former possibility
+
+will be compatible with the elicitation of a N400 and the latter
+with a P600.
+2. Methods
+2.1. Participants
+Twenty-one healthy native French-speaking volunteers with no
+history of neurological or psychiatric disorders participated in this
+study. Three participants were excluded from the analyses due to
+excessive eye movement artifacts in the EEG signal. The remaining
+eighteen participants (11 females) were aged between 20 and 30
+(mean age: 23 years). All subjects were right-handed as measured
+by the Edinburg Handedness Inventory.
+2.2. Material and design
+Participants had to evaluate conditional arguments, referring to
+eight characters (Anne, Claire, Laure, Eve, Jean, Guy, Yves and Paul).
+These arguments were presented in French and were built on the basis of 75 conditional statements (e.g., Si Jean dort alors il ronfle; English translation: If John is sleeping then he is snoring; see Appendix for
+the entire set of conditionals). The antecedents and the consequents
+of those conditionals consisted of intransitive verbs of the same overall frequency (paired t-test, p = .57). Intransitive verbs were used because they offer the opportunity to describe a course of action with a
+single word, in contrast with transitive verbs that require the addition of a noun phrase. Thus, as soon as the intransitive verb of the
+matching premise is presented, an inference can be performed.
+Had we chosen propositions built with transitive verbs, the moment
+of inference-making would have been more difficult to specify.2 The
+verbs used in a minor premise were never used in a conclusion.
+The design included five conditions that captured different
+stages of the argument and different types of processing. The first
+condition consisted of presenting the minor premise first (e.g., (7)).
+When the minor premise is provided before the conditional statement, it is arguably processed without having specific expectations
+attached to it, and no inference can be drawn at this stage. This
+premise is the starting point of the argument and involves minimal
+processing. Later stages included the presentation of the minor
+premise after the conditional statement and the presentation of
+the conclusion. The minor premise either matched (e.g., (8)) or
+mismatched (e.g., (9)) the antecedent of the conditional statement
+and the conclusion either matched (e.g., (10)) or mismatched the
+valid conclusion (e.g., (11)).
+(7) Minor premise first:
+P1:
+(John is sleeping)
+Jean dort
+P2:
+Si Jean dort alors il (If John is sleeping then he is
+ronfle
+snoring)
+(8) Matching premise:
+P1:
+Si Jean dort alors il (If John is sleeping then he is
+ronfle
+snoring)
+P2:
+(John is sleeping)
+Jean dort
+(9) Mismatching premise:
+P1:
+Si Jean dort alors il (If John is sleeping then he is
+ronfle
+snoring)
+P2:
+(John is singing)
+Jean chante
+(10) Matching conclusion:
+
+2
+For instance, with the two premises ``If John is playing tennis then he is wearing a
+cap; John is playing tennis'', it is not clear whether the inference begins with the verb
+``playing'' of the minor premise or the noun ``tennis''.
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+P1:
+P2:
+C:
+
+Si Jean dort alors il (If John is sleeping then he is
+ronfle
+snoring)
+Jean dort
+(John is sleeping)
+(John is snoring)
+Jean ronfle
+
+(11) Mismatching conclusion:
+P1:
+Si Jean dort alors il
+ronfle
+P2:
+Jean dort
+C:
+Jean reve
+
+(If John is sleeping then he is
+snoring)
+(John is sleeping)
+(John is dreaming)
+
+We thus distinguished the processing of three stages of the
+argument (the first premise, the second premise and the conclusion) and two types of information (matching vs. mismatching).
+To provide a thorough examination of the data, we performed
+two analyses. The first consisted of comparing the three stages to
+each other, and it aimed to examine how the processing of verbs
+varies over the course of the argument. The second analysis contrasted matching vs. mismatching at the second premise and conclusion level, and it aimed to compare verbs located at the same
+place in the argument. The two analyses are complementary because the first intends to capture the unfolding of the argument
+over time, and the second intends to describe each argument's segment in isolation.
+The presentation of the premises followed a 2 (minor premise
+before vs. after the conditional statement) by 2 (minor premise
+matching vs. mismatching the antecedent) design. Each of the 75
+conditional statements was used in these four possibilities, each
+time referring to a different character, resulting in 300 arguments.
+Among the 150 arguments that allow the two premises to be integrated (i.e., the minor premise is identical to the antecedent of the
+conditional), half were terminated with a conclusion that logically
+followed from the premises (matching conclusions). The other half
+resulted in non-logical, although semantically acceptable, conclusions (mismatching conclusions, see more details below). For the
+150 arguments containing premises that could not be integrated,
+the conclusions were unrelated to the premises. To sum up, there
+were five conditions of interest with 75 trials in each: the Minor
+Premise First condition3 (e.g., (7)), the Matching premise and Mismatching premise conditions, which only concern minor premises
+presented in the second position (e.g., (8 and 9)), and the Matching
+and Mismatching conclusion conditions (e.g., (10 and 11)). Fig. 1
+summarizes the design of the experiment.
+2.3. Pre-tests for the mismatching conclusions
+A key manipulation in this experiment consists of presenting
+participants with a conclusion that does not follow from the premises (mismatching conclusions). To avoid effects resulting from
+semantic dissimilarity between the mismatching conclusion and
+the premises of the arguments, we selected mismatching conclusions which were related to the context raised by the premises.
+For instance, after the premises ``Si Jean dort alors il ronfle; Jean
+dort'' (English translation: If John is sleeping then he is snoring;
+John is sleeping) the mismatching conclusion ``Jean reve'' (English
+translation: John is dreaming) appears more semantically related
+to the premises than a conclusion such as ``Jean vole'' (English
+translation: John is flying). Thus, each time we built a conditional
+statement, we actually thought of two plausible consequents:
+one for the matching conclusion (Jean ronfle; English translation:
+John is snoring) and another for the mismatching conclusion (Jean
+reve; English translation: John is dreaming) that were both equally
+related to the antecedent. We then asked a group of 75 students to
+3
+In order to have the same number of data points across conditions, we only
+analyzed half of the trials in this condition.
+
+247
+
+assess the level of relatedness between the antecedent and each of
+the two consequents. They were presented with conditionals terminating with the matching consequent (Type-1 conditionals such
+as Si Jean dort alors il ronfle; English translation: If John is sleeping
+then he is snoring) and the mismatching consequent (Type-2 conditionals such as Si Jean dort alors il reve; English translation: If John
+is sleeping then he is dreaming); as well as with nonsensical conditionals, named Type-3 conditionals, including the same antecedent with a patently unrelated consequent such as Si Jean dort alors
+il escroque (English translation: If John is sleeping then he is fiddling). We had a set of 75 conditionals in each of these three categories for a total of 225 conditionals. We asked three groups of 25
+undergraduate psychology students (University of Lyon) to each
+evaluate a third of these 225 statements (25 in each category).
+More precisely, participants were asked to assess the plausibility
+of these conditionals on a 7 point scale from 1 (not plausible) to
+7 (perfectly plausible). Type-1 and Type-2 conditionals show similar descriptive statistics (Type-1 conditionals: Range: 2.9-6.6
+Median: 5; Mean: 4.76; Type-2 conditionals: Range: 3-6.71; Median: 4.57; Mean: 4.54) in contrast with Type-3 conditionals: Range:
+1-3.7; Median: 1; Mean: 1.28). A two-way ANOVA with the condition as a within-subject factor and items as a random factor revealed an effect of the condition (F(2, 150) = 310.9). Post hoc ttests revealed a significant difference between conditional statements and fallacious sentences (p < .001) and between sentences
+with a non-logical conclusion and fallacious sentences (p < .001).
+2.4. Procedure
+Premises and conclusions were visually presented with Presentation 10.2 software (Neurobehavioral Systems, http://www.neurobs.com/). In the instruction set, participants were informed
+that they would have to respond by choosing between three possible conclusion evaluations on response keys (i.e., ``CORRECT'',
+``INCORRECT'' and ``INDETERMINATE'') and were given an example
+of an argument corresponding to each evaluation type. The minor
+premise and the conclusion were presented word-by-word (i.e.,
+the first name and the verb) while for the conditional premise all
+words were presented together on the same screen. Participants
+were informed that they would receive two presentation orders
+(minor premise first vs. minor premise second). Before each presentation, participants were notified whether the minor premise
+or the conditional would come first. When the minor premise appeared first, it was preceded by the cue ``word'' indicating wordby-word presentation; when the conditional sentence appeared
+first, it was preceded by the cue ``sentence'' indicating that all
+words will be presented together. This was done to avoid any effect
+of surprise when processing the first premise. Following the
+``word'' or ``sentence'' cue, a fixation cross appeared in the center
+of the screen for 800 ms and then the premises were presented.
+For the minor premise as well as for the conclusion, the character's
+name and the verb were displayed for 400 ms and 600 ms, respectively, and were separated by fixation cross presented for 800 ms.
+The conditional premise was presented for 1300 ms. The premises
+and the conclusions were separated by a cross in the center of the
+screen that lasted for 800 ms. The timing of stimulus presentation
+is presented in Fig. 2.
+Participants had to wait for of the phrase ``your response'' to be
+displayed before pressing the response key. They performed the
+experiment in 4 blocks, with 75 trials presented in each block. Trial
+order within each block was randomized and the block order within each task was counterbalanced across participants. Subjects
+were instructed to make neither eye movements nor vocal articulations (audible or inaudible) during the trial. Participants were instructed to respond as quickly and as accurately as possible. The
+task began with 10 training trials.
+
+248
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+Fig. 1. Experimental design. The numbers correspond to the number of trials in each condition. In English, the major premise translates as ``If John is sleeping then he is
+snoring''; the matching minor premise as ``John is sleeping''; the mismatching premise with its conclusion as ``John is working; John is sighing''; the matching conclusion as
+``John is dreaming'' and the mismatching conclusion translates as ``John is dreaming''.
+
+Fig. 2. The timing of the stimulus presentation. The sign ``'' represents a fixation cross.
+
+2.5. Electroencephalogram (EEG) recording
+Subjects were seated in a dimly lit, electrically shielded, soundattenuating chamber. EEG was recorded with a 64 channel NetAmps.200 system (Electrical Geodesics Inc.). Amplified analogue
+voltages (0.1-200 Hz bandpass) were sampled at 500 Hz. Electrode
+impedance was kept below 40 kX. All channels were referenced to
+Cz during recording, and re-referenced off-line to the average mastoids. ERP analyses were conducted using ELAN-Pack software
+developed at CRNL (Lyon, France) and consisted of averaging the
+
+EEG segments for 800 ms after the onset of the verb of the minor premise or after of the conclusion in each condition. A 100 ms pre-stimulus interval was also analyzed. The signals were low-pass filtered at
+20 Hz and a baseline correction was calculated from the pre-stimulus interval. Trials contaminated by eye blinks or eye movements
+(threshold: 100 lV) were not included in the analyses. Finally,
+analyses were restricted to trials in which subjects made the correct
+response. The mean number of trials analyzed in each condition ranged from 61.39 to 63.9 out of 75 presented trials and did not significantly differ between conditions.
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+2.6. EEG data analysis
+For each component of interest, the mean amplitude of the signal was extracted in a given time window (see Section 3). To overcome effects that could result from differences in the amplitude of
+previous components, we corrected the signal so that the initial value in each time-window is equal to zero. Each analysis was run
+with the same electrode positions. Twelve representative electrodes of the 10-20 system were chosen to define different scalp
+regions (frontal: F3, Fz and F4; central: C3, Cz and C4; centro-parietal: CP3, CPz and CP4 and parietal: P3, Pz and P4). We ran multiple
+ANOVAs using repeated measures, including conditions (defined
+for each analysis) and two levels of electrode site: laterality (left,
+midline and right) and anterior-posterior location (frontal, central,
+centro-parietal, parietal) as within-subject factors. The group was
+used as between-subject factors. A Greenhouse-Geisser adjustment was used to correct for violations of sphericity. Relevant post
+hoc comparisons were computed with Tukey HSD tests.
+
+3. Results
+3.1. Matching driven effects
+3.1.1. The P300 component
+Visual inspection of the ERP waveforms (Figs. 3 and 5) shows
+that a centroparietal positive component peaking at 310 ms differed across conditions: it is larger in the matching conditions than
+in the minor-premise-first condition and larger in the matchingconclusion condition than in the matching-premise condition. It
+is also larger in the matching conditions than in the mismatching
+conditions. First, we analyzed the three different stages of the
+argument. A three-way ANOVA with repeated measures on the position of the matching verb (matching-verb-in-Premise-1 vs.
+matching-verb-in-premise-2 vs. matching-verb-in-conclusion),
+laterality and anterior-posterior location was computed for the value of the P300 amplitude in the 280-340 ms time window. The
+ANOVA revealed a nearly significant main effect of anterior-posterior location (F(1.17, 19.93) = 3.8; p < .06) and a main effect of
+the matching verb position (F(1.95, 33.16) = 30.81, p < .001;
+MSE = 3.4). We also found significant interactions between anterior-posterior location and the matching verb position
+(F(2.1, 35.8) = 3.57, p < .05; MSE = 0.7). Post hoc tests showed that
+the P3b was larger in the matching conditions than in the minorpremise-first condition in central, centroparietal and parietal sites
+(p < .001) and larger in the matching-conclusion condition than in
+the matching-premise condition in centroparietal and parietal sites
+(p < .05).
+Second, we analyzed matching vs. mismatching information at
+the second-premise and conclusion levels. We computed a fourway ANOVA with repeated measures on the type of verb (matching-verbs vs. mismatching-verbs), verb position (verbs-in-premise-1 vs. verbs-in-conclusion), laterality and anterior-posterior
+location for the value of the P3 amplitude in the same time window. We observed a nearly significant main effect of anterior-posterior location (F(1.18, 19.94) = 3.6; p < .07), a main effect of the
+type of verb (F(1, 17) = 37.39, p < .001), an interaction between
+the type of verb and verb position (F(1, 17) = 7.68, p < .05,
+MSE = 7.5) and an interaction between the type of verb, laterality
+and
+anterior-posterior
+location
+(F(3.8, 64) = 2.5,
+p < .05;
+MSE = 0.15). We also found a nearly significant interaction between anterior-posterior location, the type of verb and verb position (F(2, 25) = 3.3, p = .053; MSE = 0.3). At the second-premise
+level, post hoc tests revealed that the P300 had a larger amplitude
+in the matching-premise condition than in the mismatching-premise condition over central, centroparietal and parietal sites
+
+249
+
+(p < .01). Similarly, at the conclusion level, post hoc tests revealed
+that the P300 component had a larger amplitude in the matching-conclusion condition than in the mismatching-conclusion condition over central, centroparietal and parietal sites (p < .01).
+3.1.2. The PSW component
+As shown in Fig. 3, the slope in the 340-440 ms time window
+following the P3b component in the matching-premise condition
+is less steep than in the matching-conclusion condition. This profile might correspond to a PSW-like component (Garcia-Larrea &
+Cezanne-Bert, 1998). We compared these two conditions and the
+minor-premise-first condition with respect to this component.
+We calculated a three-way ANOVA with repeated measures on
+the position of the matching stimulus (matching-verb-in-premise-1 vs. matching-verb-in-premise-2 vs. matching-verb-in-conclusion), laterality and anterior-posterior location for the
+amplitude of the PSW. This ANOVA showed a main effect of
+the matching stimulus position (F(2, 34) = 4.2, p < .05). It also
+revealed significant interactions between anterior-posterior location and laterality (F(2.48, 42.15) = 2.94, p < .05) and between anterior-posterior location and the matching stimulus position
+(F(2.4, 39.38) = 4.05, p < .05; MSE = 0.52). Post hoc tests showed
+that this latter effect resulted from a longer PSW in the matching-verb-in-premise-2 condition than in the matching-conclusion
+and matching-verb-in-premise-1 conditions in the centroparietal
+and parietal sites (p < .05).
+3.1.3. Slow waves
+We could not analyze the delay (800-1600 ms) between the
+minor premise and the conclusion because of excessive eye movement artifacts in the EEG signals of most of the participants. An
+average of 66% of trials contained blink or muscle artifacts during
+the delay.
+3.2. Mismatching-driven effects
+3.2.1. The frontal negative component
+Visual inspection of the ERP waveforms (Figs. 4 and 5) does not
+reveal any parietal N400, but rather a frontal negative component
+peaking at approximately 300 ms whose amplitude is greater in
+the mismatching-conclusion condition than in the mismatchingpremise and minor-premise-first conditions. It is also larger in
+the mismatching conditions than in the matching conditions. We
+first entered the mean value obtained in this window (200-
+300 ms) into an ANOVA with position of the mismatching stimuli
+(mismatching-verb-in-premise-1 vs. mismatching-verb-in-premise-2 vs. mismatching-verb-in-conclusion), laterality and anterior-posterior location as within-subject factors. This analysis
+showed
+main
+effects
+of
+anterior-posterior
+location
+(F(1.14, 19.38) = 25.6, p < .001) and laterality (F(1.3, 22) = 7.69,
+p < .01) and a significant interaction between anterior-posterior
+location and the position of the mismatching stimulus
+(F(2.5, 43.2) = 3.91, p < .05, MSE = 1.6). Post hoc tests revealed that
+this component was larger in the frontal site compared to other
+sites (p < .001) and larger in the mismatching-conclusion condition
+than in the minor-premise-first and mismatching-premise conditions in this frontal site (p < .05).
+Second, we analyzed matching vs. mismatching information at
+the second-premise and conclusion level. A four-way ANOVA with
+repeated measures on the type of verb (matching-verbs vs. mismatching-verbs), verb position (verbs-in-premise-1 vs. verbs-inconclusion), laterality and anterior-posterior location was also
+computed for the value of this component in the 200-300 ms
+time-window. We observed a main effect of the anterior-posterior
+location (F(1.16, 19.74) = 9.6, p < .01) and a main effect of the type
+of verb (F(1, 17) = 13.44, p < .01); MSE = 1.28). We also found a sig-
+
+250
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+Fig. 3. Stimulus-locked grand-average waveforms evoked by the appearance of the verb in the minor-premise-first condition (red line), the matching-premise condition
+(black line) and the matching-conclusion condition (green line) across the 12 sites of interest. Left electrodes are shown in the left column, midline electrodes in the middle
+column, and right electrodes in the right column. The components of interest are shown by an arrow or dotted lines; these components are indicated only on electrodes
+showing statistically significant effects. The rebound observed after 600 ms is related to the offset of the verb.
+
+nificant interaction between anterior-posterior location, laterality
+and the type of verb (F(3.1, 45.53) = 2.8, p < .05; MSE = 0.1). Post
+hoc tests revealed that this frontal negative component was larger
+in the mismatching conditions than in the matching conditions
+over midline, left frontal and central sites (p < .01).
+3.2.2. Late positive component
+Visual inspection (see Figs. 4 and 5) also reveals that the amplitude of a late and sustained (330-630 ms), centroparietal, positive
+component differs across conditions. The amplitude is larger in the
+mismatching-conclusion condition than in the mismatching-premise and minor-premise-first conditions. It is also larger in the
+mismatching conditions than in the matching conditions. First,
+we analyzed the three different stages of the argument. We computed a three-way ANOVA with repeated measures on the position
+of the mismatching verb (mismatching-verb-in-premise-1 vs. mismatching-verb-in-premise-2 vs. mismatching-verb-in-conclusion),
+laterality and anterior-posterior location for the mean value of the
+amplitude of this component (time-window: 330-630 ms). This
+analysis showed a main effect of anterior-posterior location
+(F(2.2, 34.25) = 29.8, p < .001) and a significant interaction between
+anterior-posterior location and the position of the mismatching
+verb (F(3.15, 53.67) = 6.91, p < .01; MSE = 2.2). Post hoc tests revealed that the amplitude of late positive component (LPC) was
+
+larger over centroparietal and parietal sites than at central and
+frontal sites (p < .001 for all comparisons) and was larger in the
+mismatching-conclusion condition than in the mismatching-premise and the minor-premise-first conditions over centroparietal
+and parietal sites (p < .01). The post hoc test also revealed that this
+component was larger in the mismatching-premise than in the
+minor-premise-first condition at these sites (p < .05).
+Second, we analyzed matching vs. mismatching information at
+the second-premise and conclusion level. A four-way ANOVA with
+repeated measures on the type of verb (matching-verbs vs. mismatching-verbs), the verb position (verbs-in-premise-1 vs. verbsin-conclusion), laterality and anterior-posterior location was
+computed for the value of the LPC component in the same time
+window. We observed main effects of anterior-posterior location
+(F(1.25, 21.25) = 52.47,
+p < .001)
+and
+verb
+position
+(F(1, 17) = 26.58, p < .001), as well as interactions between the verb
+position and anterior-posterior position (F(1.54, 26.2) = 4.14,
+p < .05, MSE = 1.94) and between the type of verb and anterior-
+posterior position (F(1.5, 25.6) = 6.66, p < .01, MSE = 2.82). Finally,
+we found a significant interaction between anterior-posterior
+location, the matching level and the position of the verbs
+(F(1.38, 23.43) = 7.56, p < .01; MSE = 1). Post hoc tests reveal that
+the LPC component was larger in the mismatching-conclusion condition than in the matching-conclusion condition at all sites
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+251
+
+Fig. 4. Stimulus-locked grand-average waveforms evoked by the appearance of the verb in the minor-premise-first condition (red line), the mismatching-premise condition
+(dashed black line) and the mismatching-conclusion condition (dashed green line) across the 12 sites of interest. Left electrodes are shown in the left column, midline
+electrodes in the middle column, and right electrodes in the right column. The components of interest are shown by an arrow; these components are indicated only on
+electrodes showing statistically significant effects. The rebound observed after 600 ms is related to the offset of the verb.
+
+(p < .05 in the frontal site and p < .01 in the other sites). This component was also larger in the mismatching-premise condition
+compared to the matching-premise condition in the central, parietal and centroparietal sites (p < .05).
+Finally, to further ensure that this late component was specific
+to the mismatching condition, we analyzed the three different
+types of conclusions that the subjects had to address: the matching-conclusion condition, the mismatching-conclusion condition
+and what we called the non-relevant-conclusion condition that is
+the conclusion that follows a mismatching premise (If P then Q;
+S; therefore, T). We computed a three-way ANOVA with repeated
+measures on the type of conclusion, laterality and anterior-posterior location for the value of the LPC. This analysis showed a main
+effect of anterior-posterior location (F(1.15, 19.5) = 38.4, p < .001)
+and a significant interaction between anterior-posterior location
+and the type of conclusion (F(3.05, 52.1) = 3.5, p < .05; MSE = 2.3).
+Post hoc tests revealed that the amplitude of the LPC was larger
+over all sites in the mismatching-conclusion condition than in
+the matching-conclusion and non-relevant-conclusion conditions
+(p < .01 except for the frontal site where p < .05) but not significantly different between the matching-conclusion and non-relevant-conclusion conditions.
+
+3.3. An additional effect: the P2 component
+In addition to the expected effects presented above, visual
+inspection of Figs. 3-5 shows a P2 component (150-250 ms) that
+is larger for the conclusions, regardless of the matching level, than
+in other conditions over the fronto-central electrodes. For this
+component, we disregarded the matching level and ran a threeway ANOVA with repeated measures on the position of the verbs
+(verbs-in-premise-1 vs. verbs-in-premise-2 vs. verbs-in-conclusion), laterality and anterior-posterior location for the value of
+the P2 amplitude in the 150-250 ms time window. The ANOVA revealed
+a
+main
+effect
+of
+anterior-posterior
+location
+(F(1.06, 18.10) = 11.09, p < .01), a main effect of laterality
+(F(1.67, 28.41) = 16.17, p < .001) and a main effect of the position
+of the verbs (F(1.81, 30.83) = 15, p < .001; MSE = 2.59). We also
+found significant interactions between anterior-posterior location
+and laterality (F(2.93, 49.93) = 7.35, p < .001) and between anterior-posterior location and the position of the verbs
+(F(2.306, 39.16) = 7.97, p < .001; MSE = 0.26). Post hoc tests showed
+that the P2 component was larger in the conclusion conditions
+than in the premise conditions in frontal, central and centroparietal sites (p < .001).
+
+252
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+Fig. 5. Stimulus-locked grand-average waveforms evoked by the appearance of the verb in the matching-premise condition (black line), the mismatching-premise condition
+(dashed black line), the matching-conclusion condition (green line) and the Mismatching conclusion condition (dashed green line) across the 12 sites of interest. Left
+electrodes are shown in the left column, midline electrodes in the middle column, and right electrodes in the right column. The components of interest are shown by an
+arrow; these components are indicated only on electrodes showing statistically significant effects. The rebound observed after 600 ms is related to the offset of the verb.
+
+4. Discussion
+The purpose of this study was to investigate the ERP components elicited by the processing of words (verbs) in a deductive
+context. On the one hand, we explored the inference-generation
+phase when a verb terminates a premise that allows or does not allow a conclusion to be drawn. On the other hand, we studied the
+processing of verbs that terminate an argument when they are
+either logically or non-logically compatible with the premise. This
+led us to compare three moments of Modus Ponens arguments -
+the minor premise in the first position, the minor premise in the
+second position and the conclusion - and analyze the processing
+of two types of verbs - matching and mismatching verbs. Our
+study revealed several ERP components related to deductive inferences. Although it is generally difficult to provide a firm interpretation regarding the exact cognitive steps reflected by ERPs, the
+components reported here share similarities with some components reported in a substantial number of studies. Thus, we can exploit the existing literature to suggest tentative interpretations.
+A first striking result was that matching verbs elicited a component peaking at 310 ms that was largest in central and parietal
+sites. An interesting pattern emerges for this component: matching
+verbs from the second premise and the conclusion elicited a great-
+
+er amplitude than the verbs from the first premise; moreover, the
+amplitude was greater at the conclusion level than at the second
+premise level. In other words, the more participants advance in
+the argument, the greater the amplitude of this component. The
+parietal topography of this component suggests that it looks more
+like a P3b component than a P3a, which shows a frontal topography (Polich & Comerchero, 2003). Moreover, given that the parietal
+P300 has often been associated with the detection of relevant stimuli as well as with the extent to which expectations are satisfied
+(see Verleger, 1988 for a review), the present results make sense.
+Here, stimulus expectancy does not refer to the participants' predictions regarding upcoming stimuli, but rather to the degree to
+which a stimulus is awaited with respect to the purpose of the task.
+If a task requires the detection of a letter within a set of numbers, a
+letter will be more expected than a number, even though letters
+occur much less frequently than numbers (see Verleger, 1988,
+pp. 349-350, for a discussion of this issue). Expected stimuli, such
+as target stimuli, typically elicit a parietal P300, known as a P3b,
+while unexpected stimuli, such as rare non-target stimuli, elicit a
+frontal P300, known as a P3a. There have been many proposals
+and debates about the interpretation of P300 components, but
+we think that our data are easier to understand within the framework of the context closure hypothesis proposed by Verleger
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+(1988), who stated that the P300 is evoked by stimuli which close
+meaningful contexts: ``Besides perceiving each single stimulus and
+responding to it, subjects maintain an internal template of the context, which includes maintaining an expectancy of the event that
+will close the context. Thus, when the stimulus is the expected
+one, stimulus evaluation leads to response selection on the one
+hand and to closure of the present context on the other'' (Verleger,
+1988, p. 350).
+Allow us to consider the three segments of the argument and
+how their processing fits with this hypothesis. When the minor
+premise is presented first, it cannot be integrated into any framework in order to draw a conclusion, and it is therefore weakly expected. When presented second, the matching verb allows one to
+derive a conclusion; it thus represents a significant step towards
+achieving the task. Moreover, the matching premise arrives in a
+context where the conditional statement emphasizes the antecedent; it thus satisfies the expectations raised by the conditional
+statement. Finally, the matching conclusion is of high relevance,
+as it allows the task to be completed and it satisfies the expectations that participants should have regarding the conclusion to
+be evaluated. It is important to note that this pattern is in perfect
+agreement with Bonnefond and Van der Henst (2009), who reported that the amplitude of a P300 component increased with
+the position of the matching letter in deductive conditional
+arguments.
+Although the P300 is one of the most frequently explored components in the cognitive literature, it is not often reported or discussed in studies on language, which focus more on components
+elicited in violation and linguistic complexity paradigms. However,
+some studies did report this component and their findings are consistent with the ones presented here. For instance, a study by Kutas
+and Hillyard (1984), which manipulated semantic word expectancy, showed that highly expected words appearing as final words
+(for example ``stamp'' in the sentence ``He mailed the letter without a stamp'') yield a late positivity, peaking at approximately
+350 ms after stimulus onset (see also Besson & Macar, 1987; Polich,
+1985). More generally, Kutas and Hillyard (1980b) observed that
+the last word of a sentence was associated with a positivity starting
+at approximately 300 ms (see also Friedman, Simson, Ritter, & Rapin, 1975). These studies echo our result showing that the last
+word of valid matching arguments yielded the largest P300
+amplitude.
+In addition to word position, the amount and the type of information a word delivers also contributes to the modulation of parietal P300 characteristics. Berlad and Pratt (1995; see also Gray,
+Ambady, Lowenthal, & Deldin, 2004) showed that the P300 amplitude was larger when a participant had to process her/his own
+name, a word that is arguably relevant for her/him. Furthermore,
+Friedman et al. (1975), who also reported a P300 for final words,
+observed that the amplitude and the latency of this component differ according to the information a word carries in a sentence. They
+presented eight participants with sentences in two conditions. In
+the first condition, the meaning of a key word could not be identified at the time it was presented because of a missing grapheme:
+The _eel is on the shoe. Its informational impact was thus low and
+it was only when the last word was presented that participants
+could determine what the truncated word meant. In contrast, the
+second condition provided the second word entirely: The heel is
+on the shoe. This word is obviously endowed with a higher informational status than the truncated word. If the second word has a
+greater cognitive impact in condition 2 than in condition 1, the reverse is true for the last word, because in condition 1 this word allows one to fully disambiguate the sentence. Interestingly, the
+second word elicited a longer P300 in condition 2 (where it delivers more information), while the last word elicited a longer and a
+larger P300 in condition 1 (where it delivers more information).
+
+253
+
+Overall, the data obtained in the present study are in line with this
+literature as they show that the P300 component we observe is
+modulated by the impact that words have with respect to the completion of the task.
+Soon after the P300 component, an additional processing stage
+seems to be elicited by the matching premise. We observed that
+the negative going phase of the P300 component was less steep
+than for the first premise and the conclusion in parietal and centroparietal sites. This pattern is relatively typical of tasks that require further processing after target detection (Garcia-Larrea &
+Cezanne-Bert, 1998). The component that arises after the P300
+has been labeled as the positive slow wave. The results from the
+literature indicate that it is a non-specific component because it
+arises in tasks that require various types of processing such as active attention (Squires, Squires, & Hillyard, 1975), the utilization of
+a piece of information in order to revise an estimate (Johnson &
+Donchin, 1985), the response selection stage (Falkenstein, Hohnsbein, & Hoormann, 1993, 1994; Hohnsbein, Falkenstein, & Hoormann, 1995; Hohnsbein, Falkenstein, Hoormann, & Blanke, 1991),
+the integration of a stimulus in a learned association (Honda
+et al., 1996) and the manipulation of information in working memory (Garcia-Larrea & Cezanne-Bert, 1998). The P300-PSW complex
+has sometimes been considered the reflection of two general
+mechanisms, with the P300 corresponding to the evaluation of a
+piece of information and its relevance to the task, and the PSW corresponding to the utilization of that information in a non-specific
+way (Garcia-Larrea & Cezanne-Bert, 1998; Johnson & Donchin,
+1985). In the present study, the P300 component may signal the
+relevance of the word for completing the deductive task and the
+PSW may indicate that this word is subsequently manipulated to
+draw an inference. Again, this result is line with Bonnefond and
+Van der Henst's (2009) study, which also reported a positive component soon after the P3b. However, in this study, the PSW was
+associated with a second peak, while in the present study it was
+associated with a less steeply negative-going phase of the P3b.
+We now turn to the results obtained in the conditions using
+mismatching conclusions and highlight three observations. First,
+we did not observe any evidence that mismatching conclusions
+prompted a centro-parietal N400. Although mismatching conclusions convey a meaning that contrasts with valid and expected
+conclusions, it seems that these inconsistencies did not elicit the
+same type of semantic violation described by the literature on
+semantic integration. This could suggest that the logical violation
+does not operate at a semantic level.
+Second, both mismatching premises and mismatching conclusions elicited a sustained LPC in the 330-630 ms time-window.
+This component was also larger following a mismatching conclusion than a mismatching premise. The characteristics of the LPC
+show some similarities with those of the P600 component reported
+in the literature with respect to syntactic and rule-governed sequence processing. Indeed, late positive components, often labeled
+P600, were elicited by violations in various types of formal structures such as harmonic structures of music (Besson & Faita,
+1995; Patel et al., 1998), arithmetic progressions (Nunez-Pena &
+Honrubia-Serrano, 2004) or abstract sequences (Lelekov, Dominey,
+& Garcia-Larrea, 2000). In the present experiment, this component
+is maximally recorded from the parietal scalp, shows a sustained
+latency and is elicited in a violation paradigm. Along with the absence of an N400, this result seems to suggest that a non-logical
+conclusion violates a rule-governed sequence and that participants
+represent formal features of the arguments rules (Braine et al.,
+1984; Rips, 1994).
+However, the latency of the LPC reported here is earlier than
+that of the syntactic P600. While for the former, the positive shift
+typically arises at 500 ms after stimulus onset (see for instance
+Friederici, Hahne, & Saddy, 2002; Hagoort et al., 1993; Kaan & Swa-
+
+254
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+ab, 2003), the late positivity we have observed arises 170 ms earlier. It might therefore be premature to equate this component
+with the syntactic P600. However, this latency difference may stem
+from the difference between the time needed to address a logical
+error in the present task and the time needed to address syntactic
+mistakes in language studies. Given that Modus Ponens is made
+online (Reverberi et al., 2012), participants have inferred their
+own conclusion before receiving the conclusion to be evaluated.
+This implies that subjects should know exactly what verb is expected in the conclusion. Consequently, if a verb other than the
+one inferred for the conclusion is presented, they can immediately
+detect it. This contrasts with syntactic violation paradigms in
+which participants' anticipations are not so specific. For instance,
+the phrase ``she persuaded'' can be followed by words from different grammatical categories (i.e., pronouns, articles, proper nouns,
+etc.), each of which can be expressed by different instances (i.e.,
+his/him, the/a, Bob/Debra, etc.). When the word ``to'' arises right
+after ``she persuaded'', it does not violate an expectation as specific
+as with the invalid conclusion presented here. Therefore, the time
+needed to process the violation may be delayed. Interestingly, an
+early start of the LPC has been reported when stimuli violate specific expectations related to rule applications. For instance, NunezPena and Honrubia-Serrano (2004) observed that when a number
+violates an arithmetic rule (such as increasing or decreasing by a
+constant value), it elicits a late and sustained positive component
+(dubbed P600 by the authors), which starts approximately
+350 ms after stimulus onset. In such a task, participants know precisely which number should follow the arithmetic rule, as do our
+participants, who know which verb should be in the conclusion.
+However, to more directly ascertain that the LPC related to nonlogical conclusions is analogous to the P600, it would be worthwhile to devise a task where both syntactic and logical violations
+would be provided to the same participants under similar
+conditions.
+Finally, it is interesting to note that mismatching conclusions
+also elicited a frontal negative wave, which, given its topography,
+might be associated with the N2 component (see also Bonnefond
+& Van der Henst, 2009; Prado, Kaliuzhna, Cheylus, & Noveck,
+2008). As the N2 is often associated with conflict detection (Folstein & Van Petten, 2008; Folstein, Van Petten, & Rose, 2007), one
+might interpret the negative component we observe as the detection of some logical conflict, which would be solved later by a repair process. The N2 could also indicate that inhibitory control is
+particularly active in the mismatching-conclusion condition. Indeed, the processing of the conditional statement could generate
+a strategy in which the participant focuses only on the items mentioned in such a way that when they process the mismatching
+information, they have to provide extra effort in order to determine
+how to address this stimulus, and they have to inhibit their earlier
+strategy (see Daurignac, Houde, & Jouvent, 2006; Joliot et al., 2009).
+Regarding the mismatching premise, the profile of the N2-like
+component is less clear than in our previous study (Bonnefond &
+Van der Henst, 2009). Although the amplitude of this component
+was greater for the mismatching premise than for the matching
+premise, there was no difference between in amplitude the mismatching premise and the first premise. It is possible that the level
+of expectation in the minor-premise-first condition differs between the two studies. While in the previous study, participants
+could anticipate a letter (among 24), those in the present study
+could not anticipate the verb used in the minor-premise-first condition because the set of possibilities is simply too large. This may
+result in an N2 component that is larger in the present study compared to the previous one.
+Finally, we observed a stronger P2 component at the conclusion
+level. This component has previously been associated with selective attention (Hackley, Woldorff, & Hillyard, 1990). Because the
+
+conclusion is the stage where participants can make their decision
+and ultimately achieve the task, they are likely to pay more attention to it. One could thus interpret the enhanced P2 as a mark of
+greater attention to the conclusion.
+The current study is only a first step in the characterization of
+the ERP components elicited by the processing of deductive arguments. Although the results extend those reported with abstract
+conditional arguments (i.e., If P then Q; P; therefore, Q, see Bonnefond & Van der Henst, 2009) a number of issues remain. For, instance it would be worth investigating whether the processing of
+non-conditional arguments, such as disjunctive arguments, shows
+a similar pattern. This would allow one to describe, in more general
+terms, the online cognitive processes associated with deduction.
+Moreover, the way Modus Ponens is drawn is likely to differ
+according to the strength of association between the antecedent
+and the consequent of the conditional premise (Cummins, Lubart,
+Alksnis, & Rist, 1991; De Neys, Schaeken, & d'Ydewalle, 2002; see
+Evans & Over, 2004 for a review). In the present experiment, we
+did not manipulate this factor, and the association strength of
+the conditionals we used might be strong or weak. However, the
+reasoning literature reveals that when the consequent is strongly
+associated with the antecedent (e.g., If my finger is cut then it
+bleeds), participants more willingly accept the Modus Ponens conclusion than when it is weakly associated (e.g., If I eat candies then I
+will have cavities; Cummins, 1995; Cummins et al., 1991; De Neys,
+Schaeken, & d'Ydewalle, 2002). One could thus investigate whether
+the link between the antecedent and the consequent modulates
+the level of expectations reasoners have regarding the conclusion,
+as revealed by the P3b amplitude.
+
+5. Conclusion
+The present study aimed to describe the ERP components elicited by the processing of words in the context of deductive conditional arguments. Our data suggest that the processing of a
+conditional statement yields specific expectations regarding the
+upcoming premise and conclusion. They also suggest that participants consider logical arguments as a rule-governed sequence.
+However, given that the investigation of deduction through ERPs
+is still at an early stage, further cross-domain experiments are
+needed to assess the extent to which the ERPs we observe here
+and those commonly reported in the cognitive literature are
+similar.
+
+Appendix A. Supplementary material
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.bandl.2012.12.
+011.
+References
+Berlad, I., & Pratt, H. (1995). P300 in response to the subject's own name.
+Electroencephalography and Clinical Neurophysiology, 96(5), 472-474.
+Besson, M., & Faita, F. (1995). Event-related potential (Erp) study of musical
+expectancy - Comparison of musicians with nonmusicians. Journal of
+Experimental Psychology - Human Perception and Performance, 21(6), 1278-1296.
+Besson, M., & Macar, F. (1987). An event-related potential analysis of incongruity in
+music and other non-linguistic contexts. Psychophysiology, 24(1), 14-25.
+Bonnefond, M., Noveck, I., Baillet, S., Cheylus, A., Delpuech, C., Bertrand, O., et al.
+(2012). What MEG can reveal about inference making: The case of if...then
+sentences. Human Brain Mapping, n/a-n/a.
+Bonnefond, M., & Van der Henst, J. B. (2009). What's behind an inference? An EEG
+study with conditional arguments. Neuropsychologia, 47(14), 3125-3133.
+Bonnefond, M., Van der Henst, J.-B., Gougain, M., Robic, S., Olsen, M. D., Weiss, O.,
+et al. (2012). How pragmatic interpretations arise from conditionals: Profiling
+the Affirmation of the Consequent argument with reaction time and EEG
+measures. Journal of Memory and Language, 67(4), 468-485.
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+Braine, M. (1990). The ``natural logic'' approach to reasoning. Reasoning, Necessity,
+and Logic: Developmental Perspectives, 133-157.
+Braine, M., Reiser, B., & Rumain, B. (1984). Some empirical justification for a theory
+of natural propositional logic. The Psychology of Learning and Motivation, 18,
+313-371.
+Burkhardt, P. (2006). Inferential bridging relations reveal distinct neural
+mechanisms: Evidence from event-related brain potentials. Brain and
+Language, 98(2), 159-168.
+Burkhardt, P., & Roehm, D. (2007). Differential effects of saliency: An event-related
+brain potential study. Neuroscience Letters, 413(2), 115-120.
+Cummins, D. D. (1995). Naive theories and causal deduction. Memory & Cognition,
+23(5), 646-658.
+Cummins, D. D., Lubart, T., Alksnis, O., & Rist, R. (1991). Conditional reasoning and
+causation. Memory & Cognition, 19(3), 274-282.
+Daurignac, E., Houde, O., & Jouvent, R. (2006). Negative priming in a numerical
+Piaget-like task as evidenced by ERP. Journal of Cognitive Neuroscience, 18(5),
+730-736.
+De Neys, W., Schaeken, W., & d'Ydewalle, G. (2002). Causal conditional reasoning
+and semantic memory retrieval: A test of the semantic memory framework.
+Memory & Cognition, 30(6), 908-920.
+Evans, J. S., & Over, D. E. (2004). If: OUP. Oxford.
+Falkenstein, M., Hohnsbein, J., & Hoormann, J. (1993). Late visual and auditory ERP
+components and choice reaction time. Biological Psychology, 35(3), 201-224.
+Falkenstein, M., Hohnsbein, J., & Hoormann, J. (1994). Effects of choice complexity
+on different subcomponents of the late positive complex of the event-related
+potential. Electroencephalography and Clinical Neurophysiology, 92(2), 148-160.
+Folstein, J. R., & Van Petten, C. (2008). Influence of cognitive control and mismatch
+on the N2 component of the ERP: A review. Psychophysiology, 45(1), 152-170.
+Folstein, J. R., Van Petten, C., & Rose, S. A. (2007). Novelty and conflict in the
+categorization of complex stimuli. Psychophysiology.
+Friederici, A. D., Hahne, A., & Saddy, D. (2002). Distinct neurophysiological patterns
+reflecting aspects of syntactic complexity and syntactic repair. Journal of
+Psycholinguistic Research, 31(1), 45-63.
+Friedman, D., Simson, R., Ritter, W., & Rapin, I. (1975). The late positive component
+(P300) and information processing in sentences. Electroencephalography and
+Clinical Neurophysiology, 38(3), 255-262.
+Garcia-Larrea, L., & Cezanne-Bert, G. (1998). P3, positive slow wave and working
+memory load: A study on the functional correlates of slow wave activity.
+Electroencephalography and Clinical Neurophysiology, 108(3), 260-273.
+Goel, V. (2007). Anatomy of deductive reasoning. Trends in Cognitive Sciences, 11(10),
+435-441.
+Goel, V. (2009). Fractionating the system of deductive reasoning. In B. G. E. Kraft & E.
+Poppel (Eds.), Neural correlates of thinking. Springer Press.
+Gray, H. M., Ambady, N., Lowenthal, W. T., & Deldin, P. (2004). P300 as an index of
+attention to self-relevant stimuli. Journal of Experimental Social Psychology,
+40(2), 216-224.
+Hackley, S. A., Woldorff, M., & Hillyard, S. A. (1990). Cross-modal selective attention
+effects on retinal, myogenic, brainstem, and cerebral evoked potentials.
+Psychophysiology, 27(2), 195-208.
+Hagoort, P., Brown, C., & Groothusen, J. (1993). The syntactic positive shift (Sps) as
+an Erp measure of syntactic processing. Language and Cognitive Processes, 8(4),
+439-483.
+Hagoort, P., Brown, C. M., & Osterhout, L. (1999). The neurocognition of syntactic
+processing. In C. B. P. Hagoort (Ed.), Neurocognition of language. Oxford: Oxford
+University Press.
+Hawkins, J., Pea, R. D., Glick, J., & Scribner, S. (1984). Merds that laugh don't like
+mushrooms - Evidence for deductive reasoning by preschoolers. Developmental
+Psychology, 20(4), 584-594.
+Hohnsbein, J., Falkenstein, M., & Hoormann, J. (1995). Effects of attention and timepressure on P300 subcomponents and implications for mental workload
+research. Biological Psychology, 40(1-2), 73-81.
+Hohnsbein, J., Falkenstein, M., Hoormann, J., & Blanke, L. (1991). Effects of
+crossmodal divided attention on late ERP components. I. Simple and choice
+reaction tasks. Electroencephalography and Clinical Neurophysiology, 78(6),
+438-446.
+Honda, M., Barrett, G., Yoshimura, N., Ikeda, A., Nagamine, T., & Shibasaki, H. (1996).
+Event-related potentials during paired associate memory paradigm.
+Electroencephalography and Clinical Neurophysiology, 100(5), 407-421.
+Houde, O. (2007). First insights on ``neuropedagogy of reasoning''. Thinking &
+Reasoning, 13(2), 81-89.
+Houde, O., & Tzourio-Mazoyer, N. (2003). Neural foundations of logical and
+mathematical cognition. Nature Reviews Neuroscience, 4(6), 507-514.
+Johnson, R., Jr., & Donchin, E. (1985). Second thoughts: Multiple P300s elicited by a
+single stimulus. Psychophysiology, 22(2), 182-194.
+Johnson-Laird, P. N. (1983). Mental models. Cambridge: Cambridge University Press.
+Johnson-Laird, P. N., & Byrne, R. M. J. (1991). Deduction. Hillsdale, NJ: Laurence
+Erlbaum Assoc. ed.
+Joliot, M., Leroux, G., Dubal, S., Tzourio-Mazoyer, N., Houde, O., Mazoyer, B., et al.
+(2009). Cognitive inhibition of number/length interference in a Piaget-like task:
+Evidence by combining ERP and MEG. Clinical Neurophysiology, 120(8),
+1501-1513.
+Kaan, E., & Swaab, T. Y. (2003). Repair, revision, and complexity in syntactic
+analysis: An electrophysiological differentiation. Journal of Cognitive
+Neuroscience, 15(1), 98-110.
+Kuhn, D. (1977). Conditional reasoning in children. Developmental Psychology, 13(4),
+342-353.
+
+255
+
+Kuperberg, G. R., Kreher, D. A., & Ditman, T. (2010). What can event-related
+potentials tell us about language, and perhaps even thought, in schizophrenia?
+International Journal of Psychophysiology, 75(2), 66-76.
+Kuperberg, G. R., Paczynski, M., & Ditman, T. (2011). Establishing causal coherence
+across sentences: An ERP study. Journal of Cognitive Neuroscience, 23(5),
+1230-1246.
+Kutas, M., & Federmeier, K. D. (2011). Thirty years and counting: Finding meaning in
+the N400 component of the event-related brain potential (ERP). Annual Review
+of Psychology, 62(62), 621-647.
+Kutas, M., & Hillyard, S. A. (1980a). Reading senseless sentences - Brain potentials
+reflect semantic incongruity. Science, 207(4427), 203-205.
+Kutas, M., & Hillyard, S. A. (1980b). Reading between the lines: Event-related brain
+potentials during natural sentence processing. Brain and Language, 11(2),
+354-373.
+Kutas, M., & Hillyard, S. A. (1984). Brain potentials during reading reflect word
+expectancy and semantic association. Nature, 307(5947), 161-163.
+Kutas, M., & Van Petten, C. (1994). Psycholinguistics electrified. Event-related brain
+potential investigations. In M. A. Gernsbacher (Ed.), Handbook of
+psycholinguistics (pp. 83-143). San Diego, CA: Academic Press.
+Lea, R. B. (1995). On-line evidence for elaborative logical inferences in text.
+Journal of Experimental Psychology Learning Memory and Cognition, 21,
+1469-1482.
+Lea, R. B., Obrien, D. P., Fisch, S. M., Noveck, I. A., & Braine, M. D. S. (1990). Predicting
+propositional logic inferences in text comprehension. Journal of Memory and
+Language, 29(3), 361-387.
+Lelekov, T., Dominey, P. F., & Garcia-Larrea, L. (2000). Dissociable ERP profiles for
+processing rules vs instances in a cognitive sequencing task. NeuroReport, 11(5),
+1129-1132.
+Manktelow, K. I. (2012). Thinking and reasoning: Psychological perspectives on reason,
+judgment and decision making. Hove: Psychology Press.
+Neville, H., Nicol, J. L., Barss, A., Forster, K. I., & Garrett, M. F. (1991). Syntactically
+based sentence processing classes - Evidence from event-related brain
+potentials. Journal of Cognitive Neuroscience, 3(2), 151-165.
+Nunez-Pena, M. I., & Honrubia-Serrano, M. L. (2004). P600 related to rule
+violation in an arithmetic task. Brain Research. Cognitive Brain Research, 18(2),
+130-141.
+Osterhout, L., & Holcomb, P. J. (1992). Event-related brain potentials elicited by
+syntactic anomaly. Journal of Memory and Language, 31(6), 785-806.
+Otten, M., Nieuwland, M. S., & van Berkum, J. J. A. (2007). Great expectations:
+Specific lexical anticipation influences the processing of spoken language. BMC
+Neuroscience, 8.
+Patel, A. D., Gibson, E., Ratner, J., Besson, M., & Holcomb, P. J. (1998). Processing
+syntactic relations in language and music: An event-related potential study.
+Journal of Cognitive Neuroscience, 10(6), 717-733.
+Polich, J. (1985). Semantic categorization and event-related potentials. Brain and
+Language, 26(2), 304-321.
+Polich, J., & Comerchero, M. D. (2003). P3a from visual stimuli: Typicality, task, and
+topography. Brain Topography, 15(3), 141-152.
+Prado, J., Chadha, A., & Booth, J. R. (2011). The brain network for deductive
+reasoning: A quantitative meta-analysis of 28 neuroimaging studies. Journal of
+Cognitive Neuroscience, 23(11), 3483-3497.
+Prado, J., Kaliuzhna, M., Cheylus, A., & Noveck, I. A. (2008). Overcoming perceptual
+features in logical reasoning: An event-related potentials study.
+Neuropsychologia, 46(11), 2629-2637.
+Pynte, J., Besson, M., Robichon, F. H., & Poli, J. (1996). The time-course of metaphor
+comprehension: An event-related potential study. Brain and Language, 55(3),
+293-316.
+Qiu, J., Li, H., Huang, X., Zhang, F., Chen, A., Luo, Y., et al. (2007). The neural basis of
+conditional reasoning: An event-related potential study. Neuropsychologia,
+45(7), 1533-1539.
+Regel, S., Coulson, S., & Gunter, T. C. (2010). The communicative style of a speaker
+can affect language comprehension? ERP evidence from the comprehension of
+irony. Brain Research, 1311, 121-135.
+Regel, S., Gunter, T. C., & Friederici, A. D. (2011). Isn't it ironic? An
+electrophysiological exploration of figurative language processing. Journal of
+Cognitive Neuroscience, 23(2), 277-293.
+Reverberi, C., Cherubini, P., Rapisarda, A., Rigamonti, E., Caltagirone, C., Frackowiak,
+R. S., et al. (2007). Neural basis of generation of conclusions in elementary
+deduction. Neuroimage, 38(4), 752-762.
+Reverberi, C., Pischedda, D., Burigo, M., & Cherubini, P. (2012). Deduction without
+awareness. Acta Psychologica, 139(1), 244-253.
+Rips, L. J. (1994). The psychology of proof: Deductive reasoning in human thinking.
+Cambridge, MA: The MIT Press, ed.
+Rumain, B., Connell, J., & Braine, M. D. S. (1983). Conversational comprehension
+processes are responsible for reasoning fallacies in children as well as
+adults - If is not the biconditional. Developmental Psychology, 19(4),
+471-481.
+Sperber, D., & Wilson, D. (1995). Relevance. Communication and cognition. Blackwell
+Pub.
+Squires, K. C., Squires, N. K., & Hillyard, S. A. (1975). Decision-related cortical
+potentials during an auditory signal detection task with cued observation
+intervals. Journal of Experimental Psychology: Human Perception and Performance,
+1(3), 268-279.
+St. George, M., Mannes, S., & Hoffman, J. E. (1994). Global semantic expectancy
+and language comprehension. Journal of Cognitive Neuroscience, 6(1),
+70-83.
+
+256
+
+M. Bonnefond, J.-B. Van der Henst / Brain & Language 124 (2013) 244-256
+
+St. George, M., Mannes, S., & Hoffman, J. E. (1997). Individual differences in
+inference generation: An ERP analysis. Journal of Cognitive Neuroscience, 9(6),
+776-787.
+van Berkum, J. J., Brown, C. M., Hagoort, P., & Zwitserlood, P. (2003). Event-related
+brain potentials reflect discourse-referential ambiguity in spoken language
+comprehension. Psychophysiology, 40(2), 235-248.
+van Berkum, J. J., Hagoort, P., & Brown, C. M. (1999). Semantic integration in
+sentences and discourse: Evidence from the N400. Journal of Cognitive
+Neuroscience, 11(6), 657-671.
+van Berkum, J. J. (2009). The neuropragmatics of ``simple'' utterance
+comprehension: An ERP review. In U. Sauerland & K. Yatsushiro (Eds.),
+Semantics and pragmatics: From experiment to theory (pp. 276-316).
+Basingstoke, UK: Palgrave Macmillan.
+
+van Berkum, J. J., Zwitserlood, P., Hagoort, P., & Brown, C. M. (2003). When and how
+do listeners relate a sentence to the wider discourse? Evidence from the N400
+effect. Brain Research. Cognitive Brain Research, 17(3), 701-718.
+Verleger, R. (1988). Event-related potentials and memory - A critique of the context
+updating hypothesis and an alternative interpretation of P3. Behavioral and
+Brain Sciences, 11(3), 343-356.
+Von Fintel, K., & Matthewson, L. (2008). Universals in semantics. The Linguistic
+Review, 25(1-2), 139-201.
+Yang, C. L., Perfetti, C. A., & Schmalhofer, F. (2007). Event-related potential
+indicators of text integration across sentence boundaries. Journal of
+Experimental Psychology - Learning Memory and Cognition, 33(1), 55-89.
+
+

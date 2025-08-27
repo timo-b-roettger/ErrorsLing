@@ -1,0 +1,1262 @@
+i An update to this article is included at the end
+
+Brain & Language 127 (2013) 484-496
+
+Contents lists available at ScienceDirect
+
+Brain & Language
+journal homepage: www.elsevier.com/locate/b&l
+
+ERP evidence for conceptual mappings and comparison processes
+during the comprehension of conventional and novel metaphors
+Vicky Tzuyin Lai a,b,, Tim Curran c
+a
+
+Neurobiology of Language Department, Max Planck Institute for Psycholinguistics, Nijmegen
+Department of Psychology, University of South Carolina, Columbia
+c
+Department of Psychology and Neuroscience, University of Colorado, Boulder
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 30 September 2013
+Available online 29 October 2013
+Keywords:
+Metaphor
+Priming
+N400
+ERP
+Conventionality
+Comparison
+Categorization
+Analogy
+Simile
+Sentence processing
+
+a b s t r a c t
+Cognitive linguists suggest that understanding metaphors requires activation of conceptual mappings
+between the involved concepts. We tested whether mappings are indeed in use during metaphor comprehension, and what mapping means as a cognitive process with Event-Related Potentials. Participants
+read literal, conventional metaphorical, novel metaphorical, and anomalous target sentences preceded by
+primes with related or unrelated mappings. Experiment 1 used sentence-primes to activate related mappings, and Experiment 2 used simile-primes to induce comparison thinking. In the unprimed conditions
+of both experiments, metaphors elicited N400s more negative than the literals. In Experiment 1, related
+sentence-primes reduced the metaphor-literal N400 difference in conventional, but not in novel metaphors. In Experiment 2, related simile-primes reduced the metaphor-literal N400 difference in novel,
+but not clearly in conventional metaphors. We suggest that mapping as a process occurs in metaphors,
+and the ways in which it can be facilitated by comparison differ between conventional and novel
+metaphors.
+O 2013 Elsevier Inc. All rights reserved.
+
+1. Introduction
+The cognitive linguistic view of metaphor (Gibbs, 1994; Lakoff,
+1993, 2009) suggests that common expressions such as ``As we travel down life's path. . .'' are metaphorical, and that understanding
+them requires knowledge about the source concept of LIFE, the target concept of JOURNEY, and a set of ontological correspondences
+between LIFE and JOURNEY. According to this view, the ontological
+correspondences, i.e., conceptual mappings, are productive and
+systematic. For example, when the person leading a life is understood as a traveler, difficulties are understood as impediments to
+travel (e.g., He has a rocky road ahead of him), and major choices,
+crossroads (e.g., He's at a crossroads in his life). The Neural Theory
+of Metaphor (Lakoff, 2009) further suggests that mappings, at least
+the conventionalized ones, are stored representations as fixed neural circuits in the brain. Thus, just as an activated circuit can activate other related circuits, an activated mapping can activate
+other related mappings. Novel metaphors, however, do not have
+mapping representations. Deriving interpretations for a novel met-
+
+ Corresponding author. Address: Department of Psychology, University of South
+Carolina, 1512 Pendleton Street, Columbia, SC 29208, USA. Tel.: 803-777-4137.
+E-mail addresses: vicky.tzuyin.lai@gmail.com (V. Tzuyin Lai), Tim.Curran@
+colorado.edu (T. Curran).
+0093-934X/$ - see front matter O 2013 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.bandl.2013.09.010
+
+aphor involves new binding and other connecting circuitries over
+prior knowledge.
+The first goal of the present paper is to investigate whether mappings are indeed in use during the comprehension of conventional
+and novel metaphorical expressions. Many researchers are skeptical
+about the necessity of mappings in conventional metaphors. Keysar,
+Shen, Glucksberg, and Horton (2000) proposed that conventional
+expressions (e.g., he is depressed) can be understood directly without
+recourse to underlying mappings such as SAD IS DOWN. Mappings
+may be useful, though, when it comes to interpreting novel expressions (e.g., I'm feeling lower than a piece of gum stuck on the bottom of
+your boots). Many behavioral studies have tested this proposal (Allbritton, McKoon, & Gerrig, 1995; Gentner & Boronat, 1992; Glucksberg, Brown, & McGlone, 1993; Keysar et al., 2000; Thibodeau &
+Durgin, 2008). The majority of these studies employed a paradigm
+in which an ambiguous target sentence, ambiguous between metaphorical and literal readings (e.g., Tina is currently weaning her latest
+child), was preceded by contexts with conventional/novel/literal
+mappings (e.g., She is a prolific/fertile/dedicated researcher, conceiving/giving birth to/initiating an enormous number of new findings). In
+general all studies found that the target sentences were facilitated
+when preceded by novel mappings relative to controls, but not all
+studies found that the target sentences were facilitated when preceded by conventional mappings. These results are hard to interpret,
+because although these studies aimed at showing whether
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+mappings are (or are not) used for interpreting metaphorical expressions, they showed that mappings are (or are not) used for facilitating the reading times of the ambiguous target sentences.
+Support for the use of mappings in conventional metaphors primarily comes from studies examining specific metaphor content.
+Using the conventionalized TIME IS MOTION metaphor, Gentner,
+Imai, and Boroditsky (2002) found that switching from one subtype of time metaphor to another results in longer reaction times
+as compared to keeping the same subtype. This so-called cost of
+re-mapping indirectly supports the online use of mapping. Using
+action-related metaphors (e.g., grasping ideas), several imaging
+studies found activation in the motor and premotor cortices (Boulenger, Hauk, & Pulvermuller, 2009; Saygin, McCullough, Alac, &
+Emmorey, 2010; Cacciari et al., 2011; Desai, Binder, Conant, Mano,
+& Seidenberg, 2011; Desai, Conant, Binder, Park, & Seidenberg,
+2013). Likewise, textual metaphors (e.g., a rough day) showed enhanced activation in the texture-selective somatosensory cortex
+in the parietal operculum (Lacey, Stilla, & Sathian, 2012). These
+data indicate that the theorized source concepts (MOTION, ACTION, TACTILE) may be indeed used to reason about the abstract
+target concepts online, indirectly supporting mapping. While
+examining specific metaphor content allows a clear prediction of
+a localized brain region, it is unclear if this generalizes to metaphors in general. The present study expanded the scope and tested
+a variety of metaphor examples.
+The second goal of the research is to investigate the possibility
+that conventional and novel metaphors utilize distinct mapping
+processes. This question calls for further clarification of what mapping means as a cognitive process. In the metaphor literature, the
+Career of Metaphor model (Bowdle & Gentner, 2005; Gentner &
+Wolff, 1997) views mapping not as a representation, but as a process of comparison. This process entails at least a first stage of aligning the representations of the source and the target concepts and a
+second stage of projecting inferences from the source to the target.
+According to this model, all metaphors started out novel. During
+novel metaphor comprehension, people compared the literal readings of the source and the target concepts. Through repeated comparison, a metaphorical reading of the source concept becomes
+conventionalized as an extended meaning of the source concept.
+Thus, during conventional metaphor comprehension, people may
+be comparing the target concept with (a) the literal reading of the
+source concept, (b) the metaphorical reading of the source concept,
+or (c) both. The comparison-based theories have been severely criticized by categorization-based metaphor theorists. The Attributive
+Categorization model (Glucksberg & Haught, 2006; Glucksberg &
+Keysar, 1990; Glucksberg, McGlone, & Manfredi, 1997) suggests
+that the notion of mapping is unnecessary and ``the comparison
+theories of metaphor are fundamentally flawed'' (Glucksberg &
+Haught, 2006, p. 360). Metaphors do not need to be understood
+via comparison, but are understood directly via ``categorization'',
+i.e., categorizing the target concept (e.g., lawyer) under an ad hoc
+category derived from the source concept on the spot (e.g., shark
+as the category name for tenacious and vicious human beings). In
+response to the criticisms, Gentner and colleagues suggested that
+comparison and categorization are not far different from each
+other, both requiring the basic mechanisms of structural alignment
+and inference importation. The two processes do differ, though, in
+terms of the kind of structural alignment and the extent of inference projection. During comparison, the literal reading of the
+source concept is aligned with the target concept, and not all that
+is true of the source is true in the target. During categorization
+(for metaphors), the metaphorical source concept is aligned with
+the target, and all that is true of the source is true in the target.
+To test this, Bowdle and Gentner (2005) carried out a study where
+subjects were presented with figurative statements in an X-is-Y categorization (e.g., A mind is a kitchen) or in an X-is-like-Y comparison
+
+485
+
+form (A mind is like a kitchen). In a preference rating task, subjects
+indicated which form they felt was more natural/sensible for a given
+statement. It was found that the preference for the figurative statements in a comparison form was higher for the novel than for the
+conventional ones, providing evidence for more comparison-oriented processing for novel than for conventional metaphors. In their
+subsequent experiment, a mini-conventionalization procedure was
+employed. Subjects were exposed to multiple, related novel figurative statements prior to the target novel figurative statement. They
+found that once the subjects were familiarized with the related mappings, the preference for the novel statements in a comparison form
+was reduced. These findings support the theorized, functional shift
+from comparison to categorization during metaphor conventionalization. In contrast, Glucksberg and Haught (2006) argued that not all
+novel metaphors benefit from comparison processing induced by
+similes (X-is-like-Y). The claim was supported in one of their studies
+where novel metaphors were read faster when stated in X-is-Y than
+in X-is-like-Y. Moving away from behavioral data, some suggested
+that the differences between the processes of comparison and categorization for novel and conventional metaphors, if true, should be
+observable in the brain. Because laterality studies have demonstrated the importance of right hemisphere for novel, figurative language (Mashal & Faust, 2009; Mashal, Faust, Hendler, & JungBeeman, 2007, but see Kacinik & Chiarello, 2007; Rapp, Mutschler,
+& Erb, 2012), some suggested that figurative comparison and figurative categorization may also be lateralized in the same way (Chettih,
+Durgin, & Grodner, 2012; Cardillo, Watson, Schmidt, Kranjec, &
+Chatterjee, 2012). Using a divided visual field paradigm, Chettih
+et al. (2012) did not find strong support for lateralized processes of
+comparison and categorization. Using an imaging technique, Cardillo et al. (2012) related prefrontal and left posterior temporal areas to
+higher cognitive processes of comparison and categorization,
+respectively.
+The present paper examines whether mapping is in use and explores what mapping means as a cognitive process during comprehension, with a relational priming paradigm in combination with
+the Event-Related Potential (ERP) method. Relational priming refers to the phenomenon that an activated link/relation between a
+pair of nodes/words on a semantic network can facilitate similar
+relations held by other nodes/words. For example, a word pair
+(e.g. bear-cave) can facilitate another word pair (e.g., bird-nest) that
+denotes the same relation (live in) (Spellman, Holyoak, & Morrison,
+2001). Relational priming is robust even when the prime and the
+target share the same lexical items (Estes & Jones, 2006). We used
+ERP as our primary dependent measure. In typical ERP studies of
+language, subjects are presented with language materials while
+their scalp electroencephalogram (EEG) is recorded. The EEG is
+then processed, time-locked to the critical words, and averaged
+over trials for each condition. The resulting averaged waveforms
+display distinct ERP components at various time points, among
+which lies the N400 component, a negative deflection starting at
+around 250 ms and peaking at around 400 ms. The N400 is a
+well-established component, reliably elicited when the critical
+words are semantically incongruent with their preceding context
+(Kutas & Hillyard, 1980). It is generally agreed that the N400 component indexes semantic processing (Kutas & Federmeier, 2011),
+although exactly which aspect of semantics is still debated (Baggio
+& Hagoort, 2011; Lau, Phillips, & Poeppel, 2008). We will return to
+this debate in Section 4.
+Most ERP studies found more negative N400s for metaphors
+relative to literals, with details of the findings differing in the
+amplitudes and the peak latencies (Arzouan, Goldstein, & Faust,
+2007; Coulson & Van Petten, 2002, 2007; De Grauwe, Swain,
+Holcomb, Ditman, & Kuperberg, 2010; Lai, Curran, & Menn, 2009;
+Lu & Zhang, 2012). For example, Lai et al. (2009) examined conventional metaphors (e.g., Their theories have collapsed) and novel ones
+
+486
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+(e.g., Their compromises have collapsed), along with the controls of
+literal sentences (e.g., The buildings have collapsed) and anomalous
+sentences (e.g., The apples have collapsed). The conventional and novel metaphors elicited N400s as negative as the anomalous sentences and more negative than the literals, initially (320-440 ms).
+Shortly after (440-560 ms), the conventional metaphors converged
+with the literals whereas the novel metaphors remained as negative
+as the anomalous. Such early N400 is also observed in other studies,
+e.g., De Grauwe et al., 2010. Lai et al. (2009) suggested that the initial time window is likely where the ``real'' N400 occurs, which may
+reflect the cognitive cost of the mapping process. The effects in the
+later time window may not be N400, and may be reflecting the
+activity of a distinct, later occurring process. This interpretation is
+compatible with models assuming mapping as a domain-general
+process for both metaphorical and complex literal language
+(Coulson, 2001; Coulson & Davenport, 2012; Coulson & Van Petten,
+2007).
+Experiment 1 tested whether mappings are in use for understanding conventional and novel metaphors. We used the materials from Lai et al. (2009) as our target sentences because those
+materials were designed with conceptual mappings based on the
+cognitive linguistic theory of metaphor (Lakoff, Espenson, & Goldberg, 1992), validated with pretests, and have elicited N400s more
+negative than their literal counterparts. Subjects read target sentences preceded by related and unrelated sentence-primes. In the
+primed conditions, a conventional metaphorical sentence (e.g., Life
+can sometimes be bumpy, from LIFE IS A ROAD metaphor) was preceded by a related sentence-prime (e.g., I can see the path of his life,
+also from LIFE IS A ROAD metaphor). A novel metaphorical sentence (e.g., Ideas can sometimes be bumpy, from a made-up new
+metaphor IDEA IS A ROAD) was preceded by a related sentenceprime (e.g., I can see the path of his ideas, also from IDEA IS A ROAD).
+These new metaphors were not anomalous because people were
+able to write down interpretations for these new metaphors but
+not for the anomalous sentences (Lai et al., 2009). Control conditions consist of literal and anomalous target sentences and their related/unrelated primes. In the unprimed conditions, the target
+sentences were preceded by unrelated sentence-primes (e.g., She
+borrowed some books from the library). Based on the Neural Theory
+of Metaphor, related sentence-primes should facilitate conventional metaphor target sentences, but not the novel ones. Based
+on Gentner and colleagues, mapping is a process and therefore
+an initiated process should influence similar process(es) in both
+types of metaphors. Based on Keysar et al. (2000), related mappings should only be useful for novel metaphors and therefore
+should only prime novel metaphors.
+2. Experiment 1
+2.1. Methods
+2.1.1. Participants
+Twenty-eight right-handed, native English-speaking students at
+the University of Colorado Boulder participated in the EEG experiment for course credits (16 males, mean age 20.6 years). All had
+normal or corrected to-normal vision. None had neurological disorder or major head injury. Data were discarded from four subjects
+due to excessive blinking (92.7% of the trials), coughing (45.3%),
+and computer breakdowns.
+2.1.2. Materials and design
+384 prime and target sentence pairs (96 quadruplets with 4
+sentence types in each) were used for the related conditions
+(Table 1 and Table S1 in Supplementary materials). The 384 target
+sentences were from Lai et al. (2009). Their mean familiarity, inter-
+
+pretability, cloze probability ratings are listed in Table 1A. Conventional metaphorical sentences were as familiar and interpretable as
+the literal ones, and the two differed from each of the other conditions. The averaged cloze probabilities for the four conditions did
+not differ from one another. In addition, additional crowdsourcing
+studies indicated that the target word sets in Lai et al. (2009) had a
+mean ``metaphorical sense frequency'' (i.e., how often a word is
+used metaphorically in naturally occurring text) of 53% (range 8-
+91%) with a normal distribution (Munro et al., 2010; see also Bethard, Lai, & Martin, 2009). The inclusion of an anomalous condition
+is not necessary for the primary purpose of the current study,
+examining priming effects. However, we included the anomalous
+sentences so that direct comparison with Lai et al. (2009) can be
+made (see analyses for the unprimed targets).
+For each of the target sentences, a related for the primed and an
+unrelated sentence-prime for the unprimed conditions were created. The related sentence-primes were created with the same
+source and target concepts (e.g., LIFE, ROAD) as in their paired target sentences (Table 1B). To control for potential lexical and structural priming, the sentence-primes and target sentences were
+lexically and structurally matched in the literal control, conventional metaphor, and novel metaphor conditions. The sentenceprimes and target sentences in the anomalous condition were only
+lexically matched, not structurally matched, because structurally
+matched sentences (e.g., I can see the path of his tastes) would have
+looked anomalous and would allow subjects to form predictions
+about the anomaly of the following targets. The unrelated sentence-primes consist of 192 filler, literal sentences that contained
+no content words that appeared in any of the 384 target sentences.
+For example, ``They eat bacon and eggs for breakfast everyday'', ``I put
+my arm carefully around the cat'', ``Eddie leaned forward against the
+desk'', etc. Two native English speakers proofread all materials.
+The 384 sentence-targets were divided into 4 blocks via Latin
+Square rotation, so that each critical word appeared only once in
+one of its target sentence frames in each block. As a result, each
+block contained 24 conventional, 24 novel, 24 anomalous, and 24
+literal targets. The orders in which the critical word appeared in
+its literal, conventional, novel, and anomalous sentence frames
+were counterbalanced between subjects, to control for potential
+order effects. For the sentence-primes, there were two layers of
+randomization, implemented separately for each subject, to avoid
+potential idiosyncratic priming between primes and targets. In a
+given block, half of the targets were randomly selected to be preceded by their paired related primes. The remaining half of the targets were preceded by unrelated primes. The unrelated primes
+were randomly selected from the pool of the 192 fillers.
+
+2.1.3. Procedure
+Participants first completed a consent form, followed by 20-
+30 min Sensor Net setup, and a brief practice session. The experiment took place in a quiet, dimly-lit room with white noise in
+the background. Each trial consisted of a pair of a sentence-prime
+and a sentence-target, presented word-by-word. Each sentence began with a fixation sign. Each word in each sentence was presented
+for 200 ms with a length-dependent interword interval: 100 ms
+plus an additional 37 ms for each character in the word. The final
+critical word was presented together with a period until the subject responded. The subjects were instructed to determine how
+much sense each sentence made by pressing either one of the four
+keys (perfect sense = 3, some sense = 2, little sense = 1, and no
+sense = 0) as quickly as possible. The order of the key assignments
+(left to right, right to left) was counterbalanced between subjects.
+Once a response was made, the program moved onto the next sentence. Subjects were not informed about whether a given sentence
+was a prime or a target.
+
+487
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+Table 1
+Example materials. (A) The target sentences for the literal, conventional metaphorical, novel metaphorical, and anomalous conditions, adopted from Lai et al. (2009), along with
+their mean familiarity ratings, interpretability ratings, and cloze probabilities. (B) The related sentence-primes preceding the literal, conventional metaphorical, novel
+metaphorical, and anomalous targets in Experiment 1. (C) The related simile-primes and literal-comparison-statement-primes preceding the literal, conventional metaphorical,
+novel metaphorical, and anomalous conditions in Experiment 2.
+(A) Exps. 1 and 2: Targets
+
+Target sentences
+
+Familiarity 0-3 scale
+
+Interpretability 0-3 scale
+
+Cloze probabilities
+
+Literal
+Conventional
+Novel
+Anomalous
+
+Roads can sometimes be bumpy
+Life can sometimes be bumpy
+Ideas can sometimes be bumpy
+Taste can sometimes be bumpy
+
+2.4
+2.3
+1.2
+0.6
+
+2.7
+2.7
+1.8
+1.2
+
+0.05
+0.03
+0.01
+0.00
+
+(B) Exp 1: Primes
+Literal
+Conventional
+Novel
+For anomalous
+
+Sentence-primes
+I can see the path of this road.
+I can see the path of his life.
+I can see the path of his ideas.
+I was tasting the gum as I walked down the path.
+
+(C) Exp 2: Primes
+Literal
+Conventional
+Novel
+For anomalous
+
+Simile-primes/literal-comparison-primes
+A boulevard is like a road
+Life is like a road
+Ideas are like roads
+A street is like a road
+
+2.1.4. Electrophysiological recording
+Scalp voltages were collected with a 128-channel HydroCel
+Geodesic Sensor NetTM connected to an AC coupled, 128-channel,
+high-input impedance amplifier (200 MX, Net AmpsTM, Electrical
+Geodesics Inc., Eugene, OR). Amplified analog voltages (0.1-100 Hz
+bandpass) were digitized at 250 Hz. Individual sensors were adjusted until impedances were less than 40 kX. The EEG was digitally low-pass filtered at 40 Hz. Trials were discarded from
+analyses if more than 20% of channels were bad (average amplitude over 100 lV or transit amplitude over 50 lV). Trials with
+blinks were removed from analysis. Individual bad channels were
+replaced on a trial-by-trial basis with a spherical spline algorithm
+(Srinivasan, Nunez, Tucker, Silberstein, & Cadusch, 1996). EEG was
+measured with respect to a vertex reference (Cz), but transformed
+to a linked mastoids reference later during analysis. Event-related
+potentials (ERP) were obtained by stimulus-locked averaging of the
+EEG recorded in each condition. ERPs were baseline-corrected with
+a 200-ms pre-stimulus interval.
+2.1.5. Overview of analyses
+We first examined the priming effects by comparing the ERPs
+for the primed and the unprimed targets. Then we analyzed the
+priming effects in the sensicality ratings and reaction times. Lastly,
+due to our a priori interest in comparing the current unprimed targets with Lai et al. (2009), we examined the unprimed targets
+alone. Two corrections were applied (in this order): The Greenhouse-Geisser sphericity correction (Greenhouse & Geisser,
+1959) was applied to reported p values when df > 1. In cases where
+multiple comparisons were carried out, the p-values were further
+corrected based on the False Discovery Rate (FDR) procedure (Benjamini & Hochberg, 1995).
+2.2. Results and discussion
+2.2.1. Experiment 1: Primed vs. Unprimed Targets
+The ERP waveforms for the unprimed and primed targets from
+the representative (midline central) location are displayed in
+Fig. 1A (See more electrodes in Supplementary materials, Figure S1). The ERPs appeared to be more negative for the unprimed
+than for the primed in the typical N400 time window (300-
+500 ms) for the metaphorical conditions, but not for the literal control, as expected. However, priming occurred in the anomalous
+condition, unexpectedly. The scalp distributions of the priming effects for each condition in the 300-500 ms time window, obtained
+
+by subtracting the primed from the unprimed, are displayed in
+Fig. 1B.
+Mean amplitudes for the unprimed and the primed targets were
+extracted from the 300-500 ms time window over 63 electrode
+sites, grouped into 9 locations (left anterior, middle anterior, right
+anterior, left central, middle central, right central, left posterior,
+middle posterior, right posterior), and entered into a repeatedmeasures ANOVA of 2 prime (primed, unprimed)  4 condition
+(anomalous, novel, conventional, literal)  3 left/mid/right location  3 anterior/central/posterior location. The electrode locations
+were selected to match the previous study (Lai et al., 2009). There
+was no prime  condition interaction [F(3, 69) = 1.54, p = .22)]. Nor
+did either of the location factors interact with prime and/or
+condition.
+The lack of interaction might be due to the unexpected priming
+in the anomalous condition. To better understand the unexpected
+effects, we examined the priming in the anomalous condition at
+an individual subject level, in the 300-500 ms window, over all
+63 electrodes included in the analysis. We found that the effects
+varied between subjects. Specifically, 6 out of our 24 subjects
+showed large priming effects (mean = 2.99 lV), whereas the
+remaining 18 showed little priming (mean = 0.17 lV) in the
+anomalous condition. Thus we excluded these 6 subjects based
+on the reasoning that they might have developed some strategy:
+e.g., when seeing a long sentence-prime, the following target sentence must be anomalous. The ERP waveforms based on the
+remaining 18 subjects are displayed in Fig. 2A, and the effect scalp
+distributions in the 300-500 ms time window, Fig. 2B (see more
+electrodes in Supplementary materials, Figure S2).
+Mean amplitudes from these 18 subjects were entered in a repeated-measures ANOVA of 2 prime  3 condition (literal, conventional, novel)  3 left/mid/right location  3 anterior/central/
+posterior location. Note that only 3 conditions without the anomalous condition were used in this analysis, to avoid double dipping
+the anomalous condition (because the anomalous condition now
+served as the selection criterion). We found a prime  3-condition
+interaction [F(2, 34) = 3.22, p < .05]. Pairwise comparisons showed
+that priming effects were significant in conventional metaphors
+[F(1, 17) = 13.16, p = .006, FDR], non-significant in novel metaphors
+[F(1, 17) = 3.92, p = .12, FDR] and literal control (F < 1).
+In addition, we reasoned that significant priming effects in the
+metaphor conditions alone could reflect priming of mappings or/
+and lexical priming, but priming effects in anomalous and literal,
+although non-significant, can reflect potential lexical priming, so
+
+488
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+Fig. 1. (A) Experiment 1, N = 24, Grand Average ERP waveforms for the literal (orange), conventional (red), novel (green), and anomalous (blue) targets in the unprimed (dark
+lines) and primed (light lines) conditions at the mid-central sites. (B) Scalp distributions of the priming effects, subtracting the primed from the unprimed, in the 300-500 ms
+time window in each condition.
+
+Fig. 2. (A) Experiment 1, N = 18, Grand Average ERP waveforms for the literal (orange), conventional (red), novel (green), and anomalous (blue) targets in the unprimed (dark
+lines) and primed (light lines) conditions at the mid-central sites. (B) Scalp distribution of the priming effects, subtracting the primed from the unprimed, in the 300-500 ms
+time window in each condition.
+
+larger priming effects for metaphor than for literals would provide
+evidence for priming of conventional mappings with lexical priming controlled. Indeed, a post hoc comparison on the magnitudes of
+the priming effects showed that the priming effects were greater in
+conventional metaphors than in the literals [F(1, 17) = 6.44, p < .05,
+FDR].
+Next, we examined the RT priming effects (Supplementary
+materials, Figure S3). RTs for the unprimed and primed targets
+were entered in a repeated-measures ANOVA of 2 prime  4 condition  4 block. Significant prime  condition interactions were
+
+found, both in the N = 18 analysis [F(3, 69) = 4.81, p < .05] and in
+the N = 24 analysis [F(3, 69) = 3.52, p < .05], with no prime  condition  block interaction (F < 1). Within each condition, the RT
+priming effects were significant for the conventional [N = 18:
+73 ms, F(1,23) = 18.22, p < .005; N = 24: 39 ms, F(1, 23) = 5.23,
+p = .08, FDR (p = .03 without FDR)], but not for the novel [N = 18:
+34 ms, F(1, 23) = 3.27, p = .0.17; N = 24: -37 ms, F(1, 23) = 4.58,
+p = .08, FDR]. The RT priming were non-significant for the
+anomalous [N = 18: 25 ms, F < 1; N = 24: 8 ms, F < 1] and for the
+literal [N = 18: 20 ms, F(1, 23) = 2.58, p = .13; N = 24: 19 ms,
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+F(1, 23) = 1.30, p = .26, FDR], as expected. Comparing the magnitudes of RT priming effects, the RT priming effects were greater
+in conventional metaphors than in the literals [N = 18:
+F(1, 17) = 8.68, p < .005; N = 24: F(1, 23) = 12.68, p < .005, FDR].
+Sensicality ratings for the unprimed and primed targets were
+entered into a repeated-measures ANOVA of 2 prime (primed, unprimed)  4 condition  4 block. There was no prime  condition
+or prime  condition  block interaction [N = 18: F(3, 51) = 1.89,
+p = .15; N = 24: F < 1]. There were main effects of condition
+[N = 18: F(3, 51) = 181.99, p < 0.0001, N = 24: F(3, 69) = 332.75,
+p < 0.001] and of priming [N = 18: F(1, 17) = 7.24, p < 0.05, N = 24:
+F(1, 23) = 3.58, p = 0.07].
+2.2.2. Experiment 1: Unprimed targets
+Next, we examined the unprimed targets, for our a priori interest comparing the current data with Lai et al. (2009). The representative ERP waveforms from the midline central location are
+displayed in Fig. 3, both for data based on N = 24 (Fig. 3, left)
+and for data based on N = 18 (Fig. 3, right) (See more electrodes
+in Supplementary materials, Figure S4). Visual inspection indicates that both the metaphorical and anomalous conditions diverged from the literal control a little before 300 ms, peaked at
+
+489
+
+400 ms, and converged back together before 500 ms. These patterns seem different from those in Lai et al. (2009), where there
+was a distinction between an early (320-440 ms) and a late
+(440-560 ms) time frames. Preliminary analyses of the present
+data did not show a clear differentiation between early and late
+effects. Because Lai et al. (2009) suggested that in their data the
+actual N400 effects were revealed in their early time window,
+here we assumed that there was really only one window as the
+representative N400 time window, which is manifested in the
+300-500 ms in the current case. This selection is also consistent
+with the past N400 literature. The scalp distributions of the
+N400 effects, obtained by subtracting the literal control from each
+other condition, are displayed in Fig. 3.
+Mean amplitudes for the unprimed targets were extracted from
+the 300-500 ms time windows over 63 electrodes grouped into 9
+locations. A repeated-measures ANOVA of 4 condition  3 left/
+mid/right location  3 anterior/central/posterior location showed
+a main effect of condition [N = 18: F(3, 51) = 3.91, p < .05; N = 24:
+F(3, 69) = 3.35, p < .05]. N400s for the anomalous and metaphorical
+conditions were more negative than the literals, both for the N = 18
+analysis [anomalous vs. literal: F(1, 17) = 4.10, p < .05, FDR; novel
+vs. literal: F(1, 17) = 7.06, p < .05, FDR; conventional vs. literal:
+
+Fig. 3. Experiment 1, Grand Average ERP waveforms for the literal (orange), conventional (red), novel (green), and anomalous (blue) targets in the unprimed conditions at the
+mid-central sites, for N = 24 (left) and for N = 18 (right). The scalp distributions of the effects, subtracting the literal control from each other condition, in the 300-500 ms time
+window, are displayed at the bottom.
+
+490
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+F(1, 17) = 5.91, p < .05, FDR] and for the N = 24 analysis [anomalous
+vs. literal: F(1, 23) = 7.63, p < .05, FDR; novel vs. literal: F(1, 23) =
+5.38, p < .05, FDR; conventional vs. literal: F(1, 23) = 4.69, p < .05,
+FDR]. These patterns of results were consistent with those in Lai
+et al. (2009) who also found that the anomalous and metaphorical
+conditions were more negative than the literals in their (early)
+N400 window.
+The RTs for the unprimed targets were entered in a repeatedmeasures ANOVA of 4 condition  4 block. There was a main effect
+of condition, both in the N = 18 analysis [F(3, 51) = 14.55, p < .0001]
+and in the N = 24 one [F(3, 69) = 23.99, p < .0001]. No block  condition interaction (F < 1). Pairwise comparisons showed that the
+literal was faster than the conventional [N = 18: F(1, 17) = 15.29,
+p < .005; N = 24: F(1, 23) = 34.16, p < .0001, FDR], the novel
+[N = 18: F(1, 17) = 33.31, p < .0001; N = 24: F(1, 23) = 57.55,
+p < .0001, FDR], and the anomalous [N = 18: F(1, 17) = 12.76,
+p < .01; N = 24: F(1, 23) = 19.05, p < .0001, FDR]. The conventional
+were faster than the novel [N = 18: F(1, 17) = 12.76, p < .005;
+N = 24: F(1, 23) = 14.92, p < .005, FDR].
+The sensicality ratings for the unprimed target sentences were
+also entered in a repeated-measures ANOVA of 4 condition  4
+block. There was a main effect of condition, both when N = 18
+[F(3, 51) = 163.41, p < .0001] and when N = 24 [F(3, 69) = 214.09,
+p < .0001]. No block  condition interaction (F < 1). Pairwise comparisons showed that the literal made more sense than the conventional [N = 18: F(1, 17) = 16.79, p < .001; N = 24: F(1, 23) = 27.32,
+p < .0001, FDR], the novel [N = 18: F(1, 17) = 114.38, p < .0001;
+N = 24: F(1, 23) = 202.79, p < .0001, FDR], and the anomalous
+[N = 18: F(1, 17) = 237.43, p < .0001; N = 24: F(1, 23) = 363.12,
+p < .0001, FDR]. The conventional made more sense than the novel
+[N = 18: F(1, 17) = 105.10, p < .0001; N = 24: F(1, 23) = 119.4,
+p < .0001, FDR] and the anomalous [N = 18: F(1, 17) = 187.19,
+p < .0001; N = 24: F(1, 23) = 250.77, p < .0001, FDR]. The novel made
+more sense than the anomalous [N = 18: F(1, 17) = 99.56, p < .0001;
+N = 24: F(1, 23) = 159.42, p < .0001, FDR].
+
+There are a couple of potential caveats in Experiment 1, which
+suggest cautious interpretation. First, we observed relatively large
+priming effects in the anomalous condition in the N = 24 analysis,
+which we considered was introduced by a subset of the subjects
+(N = 6). We suggested that these subjects might have noticed that
+the sentence-primes preceding the anomalous targets were odd
+and long (e.g., ``I was tasting the gum as I walked down the path''),
+and were able to form prediction about the sensicality of the following target sentences. We therefore carried out the analyses based on
+the remaining eighteen subjects who showed no or little priming effects in the anomalous condition, using the other three non-anomalous conditions. Our interpretations are based on these results.
+Another point for consideration is that we used the time window 300-500 ms for the N400 analyses here, which is consistent
+with the N400 literature, but is inconsistent with Lai et al. (2009)
+where two distinct windows (320-440 ms and 440-560 ms) were
+reported. We suspect that this discrepancy is due to a procedural
+difference between the present and the past studies. In the present
+study, we instructed our subjects to make immediate responses
+because we were interested in potential RT priming. Lai et al.
+(2009) delayed subjects' responses to avoid hand/motor movement
+during the time region of interest. With immediate responses, subjects may have responded immediately without contemplating further in the late window. With delayed responses, subjects may
+have continued to try and make sense of the novel metaphors, giving rise to some additional effects in the late window. This is consistent with the suggestion in Lai et al. (2009) that their early
+window is likely the real N400 and the later window may reflect
+the activity of a later occurring process.
+Overall, Experiment 1 yielded positive yet preliminary evidence
+supporting the use of mapping in comprehending conventional
+metaphors, but not the novel ones. In Experiment 2, we investigated whether the cognitive processes required for mapping differ
+in conventional and novel metaphors. We also further addressed
+the caveats in Experiment 1.
+
+2.2.3. Experiment 1: Discussion
+Conventional metaphorical expressions designed with conceptual mappings, when unprimed, elicited N400s more negative than
+the literals. When primed with related conventional metaphorical
+expressions, they elicited N400s less negative than they did when
+they were unprimed. This priming holds when taking into consideration potential lexical priming obtained based on the literal condition. This suggests that the N400 effect for the conventional
+relative to the literals in the unprimed condition may reflect a cognitive cost as a result of the semantic operation of mapping. In
+addition, it took less time to make sense of the conventional metaphors in the primed than the unprimed, suggesting that activated
+mappings may have facilitated the decision making to some extent.
+Novel metaphorical expressions designed with novel mappings,
+when unprimed, also elicited N400s more negative than the literals. However, when primed by related novel metaphorical expressions, they still elicited N400s as negative as they did when they
+were unprimed. One interpretation is that there is simply no mapping for novel metaphors, at least not for the kind of novel metaphor examples examined here. Alternatively, a mapping process
+was initiated by the sentence-prime, but was slow-going and
+spilled over to the processing of the following target sentence.
+The latter interpretation is supported by an examination of the
+RTs of all the sentence-primes, which showed that the RTs were
+longer for the novel sentence-primes than for all the other sentence-primes (each p < .05). Perhaps the system, although slowed,
+processed the novel sentence-primes, but needed more time to select and re-select appropriate inferences when it came to the novel
+target sentences.
+
+3. Experiment 2
+To test whether metaphors are processed via comparison, we
+followed Bowdle and Gentner (2005) and Glucksberg and Haught
+(2006) in using figurative statements in a comparison form X-islike-Y (i.e., simile) to induce comparison thinking. We primed the
+metaphor target sentences with their related similes. In the primed
+conditions, a conventional metaphorical sentence (e.g., Life can
+sometimes be bumpy) was preceded by a related simile-prime
+(e.g., Life is like a road). A novel metaphorical target sentence
+(e.g., Ideas can sometimes be bumpy) was preceded by a related simile-prime (e.g., Ideas are like roads). Control conditions with literal
+and anomalous target sentences and their related/unrelated
+primes, length-matched between primes, were also included. We
+specifically matched the lengths between all the primes in Experiment 2, to avoid unexpected priming in the anomalous condition
+observed in Experiment 1. In the unprimed conditions, the target
+sentences were preceded by unrelated literal comparison statements (e.g., A mallet is like a hammer). We used literal comparison
+statements because while their visual form looks like a simile, they
+function differently from similes and metaphors. The two concepts
+used in a literal comparison statement are much more alike than
+the two concepts used in a simile (and metaphor), which are from
+dissimilar semantic fields. In addition, reversing literal comparison
+statements results in meaningful reading (``A hammer is like a mallet'') whereas reversing similes (and metaphors) yields anomalies
+(Ortony, Schallert, Reynolds, & Antos, 1978). Thus we assumed that
+literal comparison statements are less comparison inducing than
+similes.
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+There are three foreseeable outcomes: First, similes would facilitate novel metaphors only, supporting mapping as a comparison
+process in novel metaphors and no comparison in conventional
+metaphors. Second, similes would facilitate both types of metaphors. This would mean the same cognitive process, very likely
+comparison, for both metaphor types. In this scenario, conventionality might modulate how comparison impacts metaphor processing, which could be revealed in the timing, the magnitudes, or/and
+the scalp distributions of the priming effects (cf. Cardillo et al.,
+2012; Desai et al., 2011). Third, similes would facilitate neither
+type of metaphors and comparison is irrelevant.
+In Experiment 2 we also cleaned up the design issues in Experiment 1. In terms of the procedure, we instructed the participants
+to respond immediately as in Experiment 1, not as in Lai et al.
+(2009). Therefore we expected the unprimed conditions to replicate Experiment 1, not Lai et al. (2009). We also matched the
+primes for the anomalous condition with other conditions better
+to avoid unwanted priming in the anomalous condition.
+3.1. Methods
+3.1.1. Participants
+Twenty-nine right-handed, native English-speaking students at
+the University of Colorado Boulder participated in this experiment
+for course credits (19 men, mean age 21.5). None had any neurological disorder or major head injury. All had normal or corrected
+to-normal vision. Data were discarded from five subjects: one
+had attention deficit disorder, one had excessive movements, one
+had diagnosed depression, and two had excessive blinking (>50%
+of trials).
+3.1.2. Materials and design
+All materials and design were the same as Experiment 1, except
+for the primes. For the related conditions, similes were used as the
+primes for the metaphor conditions (Table 1C and Table S2 in Supplementary materials). The primes in the literal and anomalous
+conditions were created by pairing the concept in the target sentence (ROAD) with a near synonym of that concept (e.g., street, boulevard). The primes for the anomalous targets in Experiment 2 were
+length- and structure- matched with the primes for the other three
+conditions, so that no prediction can be made about the sensicality
+for the upcoming anomalous targets prior to encountering the targets. Two native English speakers reviewed these primes to ensure
+that there were no category statements (e.g., A dog is like an animal), non-simile usage of ``like'' (e.g., discourse marker), or anomalous A is like a B phrases (e.g., Canines are like dogs is considered
+anomalous because canines are dogs).
+For the unrelated conditions, 192 literal comparison statements
+(e.g., A mallet is like a hammer) were used as the primes. Literal
+comparison statements were created by searching on Google and
+selecting among ``synsets'' (i.e., groups of words that are roughly
+synonymous in a given context) on WordNet (Fellbaum, 1998).
+Two native speakers of English reviewed these literal comparison
+statements and excluded items that had the same content words
+as in the targets, items such as ``Comestibles are like food'' because
+comestibles are food, and items that may be perceived as similes
+due to the dissimilarity of the stated concepts.
+3.1.3. Procedure and electrophysiological recording
+All procedures and electrophysiological recording were the
+same as Experiment 1.
+3.1.4. Overview of analyses
+Same as Experiment 1.
+
+491
+
+3.2. Results and discussion
+3.2.1. Experiment 2: Primed vs. Unprimed targets
+The ERP waveforms for the unprimed and the primed targets,
+averaged over the representative (mid-central) electrodes surrounding CZ, are displayed in Fig. 4A (see more electrodes in Supplementary materials, Figure S5). The ERPs were more negative for
+the unprimed than for the primed in the typical N400 time window
+(300-500 ms) for the metaphorical conditions, but not for the literal control or the anomalous, as expected. The scalp distributions
+of the effects from 300-500 ms time window are displayed in
+Fig. 4B.
+Mean amplitudes were extracted from the 300-500 ms time
+window over the 63 electrodes and entered into a repeated-measures ANOVA of 2 prime  4 condition  3 left/mid/right  3 anterior/central/posterior. There was no prime  condition interaction
+[F(3, 69) = 2.13, p = .11] but a prime  condition  left/middle/right
+interaction [F(6, 138) = 2.44, p < .05]. Therefore separate ANOVAs
+were carried out for examining the interaction effects at the left,
+the midline, and the right. A prime  condition interaction was
+found along the midline sites [F(3, 69) = 3.73, p < .05, FDR], not on
+the left (F < 1) or the right sites [F(3, 69) = 1.77, p = .17, FDR]. Within
+the midline sites, pairwise comparisons showed significant priming
+effects for the conventional [F(1, 23) = 11.12, p < .005, FDR] and the
+novel [F(1, 23) = 22.89, p < .0001, FDR]. No priming was found for
+the anomalous [F < 1] or the literal [F(1, 23) = 2.03, p = .17, FDR], as
+expected. In addition, comparing the magnitudes of the priming effects, the priming effects for novel metaphors were greater than the
+non-significant priming effects in the literal condition
+[F(1, 23) = 3.20, p < .05, FDR]. However, the priming effects for conventional metaphors were only marginally greater than the effects
+in the literal controls [F(1, 23) = 2.86, p < .10 and p = .07, FDR ].
+RTs (Supplementary materials, Figure S7) for the unprimed and
+primed targets were also entered into a repeated-measures ANOVA
+of 2 prime  4 condition  4 block. There was a prime  condition
+interaction [F(3, 69) = 4.431, p < .05]. Block did not interact with
+prime and/or condition (F < 1). The RT priming effects were significant for the conventional (80 ms, F(1, 23) = 23.10, p < .0001, FDR)
+and the novel (37 ms, F(1, 23) = 4.88, p < .05, FDR); non-significant
+for the anomalous (1 ms, F < 1) and the literal (24 ms,
+F(1, 23) = 1.95, p = .17, FDR), as expected. Next, comparing the magnitudes of the priming effects, the RT priming effects were greater
+in conventional metaphors than in the literals [F(1, 23) = 12.68,
+p < .005, FDR]. The RT priming effects were not greater in novel
+metaphors than in the literal (F < 1).
+Sensicality ratings for the unprimed and primed targets were
+entered into a repeated-measures ANOVA of 2 prime  4 condition  4 block. There was a marginal prime  condition interaction
+[F(3, 69) = 2.46, p = .06]. Block did not interact with prime and/or
+condition (F < 1). There were main effects of condition
+[F(3, 69) = 248.43, p < 0.001] and of priming [F(1, 23) = 12.84,
+p < 0.005].
+3.2.2. Experiment 2: Unprimed targets
+Next, we examined the unprimed targets, for comparing the
+current data with Experiment 1 and Lai et al. (2009). The representative ERP waveforms from the midline central location are displayed in Fig. 5 (see more electrodes in Supplementary materials,
+Figure S6). Visual inspection suggests that the ERP patterns seem
+similar to Experiment 1 but different from Lai et al. (2009). Thus
+as Experiment 1, we also used 300-500 ms as our N400 analysis
+window. The scalp distributions of the N400 effects, obtained by
+subtracting the literal controls from each other condition, are displayed in Fig. 5.
+Mean amplitudes for the unprimed targets were extracted from
+the 300-500 ms time windows over 63 electrodes, grouped into 9
+
+492
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+Fig. 4. (A) Experiment 2, Grand Average ERP waveforms for the literal (orange), conventional (red), novel (green), and anomalous (blue) targets in the unprimed (dark lines)
+and primed (light lines) conditions at the mid-central sites. B. Scalp distribution of the priming effects, subtracting the primed from the unprimed, in the 300-500 ms time
+window in each condition.
+
+locations. A repeated-measures ANOVA of 4 condition  3 left/mid/
+right location  3 anterior/central/posterior location showed a
+main effect of condition [F(3, 69) = 4.03, p < .05]. N400s for the
+anomalous and the metaphorical conditions were more negative
+than the literals [anomalous vs. literal: F(1, 23) = 5.09, p < .05,
+FDR; novel vs. literal: F(1, 23) = 11.77, p < .01, FDR; conventional
+vs. literal: F(1, 23) = 3.72, p = .05, FDR].
+The RTs for the unprimed targets were analyzed with a repeated-measures ANOVA of 4 condition  4 block. There was a
+main effect of condition [F(3, 69) = 23.99, p < .0001]. Block did not
+interact with condition (F < 1). Pairwise comparisons showed that
+the literal was faster than the conventional [F(1,23) = 34.16,
+p < .0001, FDR], the novel [F(1, 23) = 57.55, p < .0001, FDR], and
+the anomalous [F(1, 23) = 34.95, p < .0001, FDR]. The conventional
+were faster than the novel [F(1, 23) = 14.92, p < .0001, FDR], and
+the novel were faster than the anomalous [F(1, 23) = 14.48,
+p < .001, FDR].
+The sensicality ratings for the unprimed targets were analyzed
+with a repeated-measures ANOVA of 4 condition  4 block. There
+was a main effect of condition [F(3, 69) = 209.20, p < .0001]. Block
+did not interact with condition [F(9, 207) = 1.16, p = .32]. Pairwise
+comparisons showed the literal made more sense than the conventional [F(1, 23) = 27.64, p < .0001, FDR], the novel [F(1,23) = 199.43,
+p < .0001, FDR], and the anomalous [F(1, 23) = 362.34, p < .0001,
+FDR]. The conventional made more sense than the novel
+[F(1, 23) = 120.22,
+p < .0001,
+FDR]
+and
+the
+anomalous
+[F(1, 23) = 269.67, p < .0001, FDR]. The novel made more sense than
+the anomalous [F(1, 23) = 172.08, p < .0001, FDR].
+3.2.3. Experiment 2: Discussion
+Both conventional and novel metaphorical expressions, when
+unprimed, elicited N400s more negative than literal sentences in
+the 300-500 ms time window, as in Experiment 1 and Lai et al.
+(2009). When primed with related similes, both types of metaphorical expressions elicited less negative N400s than they did when
+they were unprimed. When potential lexical priming effects obtained from the literal condition, although non-significant, were
+subtracted from the priming effects in the metaphorical conditions,
+
+the N400 priming effects became marginally significant in conventional metaphors, but remained significant in novel metaphors.
+The RT priming effects occurring later (1300-1400 ms) were significant for both conventional and novel metaphors. After subtraction
+of literal priming, the RT priming effects remained significant in
+conventional metaphors, but became non-significant in novel
+metaphors.
+We suggest two possible interpretations for the differences between the ERP and RT patterns for conventional and novel priming
+effects. One is that comparison induced by similes impacts conventional and novel metaphors at different time points: Comparison
+facilitated novel metaphors at an initial stage of mapping, such as
+the structural alignment of the involved concepts, as reflected by
+the ERP priming. However, the initial facilitation trailed off, as reflected by the lack of greater RT priming for novel metaphors than
+for literals, perhaps because putting two concepts together side by
+side does not always mean that it makes perfect sense to do so. That
+is, when it came to the inference importation stage downstream of
+processing, the novel inferences were no longer deemed appropriate
+for importation. In the case of conventional metaphors, at the initial
+structural alignment stage, comparison facilitated conventional
+metaphors, but not much more effective than its facilitatory effect
+for literals, as reflected by the marginally greater ERP priming for
+conventional metaphors than for literals. This may be because conventional metaphors only required a short burst of effort, and so the
+extent to which it can be facilitated was limited. But at a later stage,
+comparison could be of great help in expanding selection of inferences in these conventional metaphors, as reflected by the greater
+RT priming for conventional metaphors than for literals. This interpretation suggests that both conventional and novel metaphors benefit from comparison induced by similes, but the timing at which the
+facilitation occurs depends on conventionality.
+Another possible interpretation is that comparison is not the
+first processing route when it comes to interpreting conventionalized metaphors. Adding an additional way of thinking might require more cognitive effort, enhancing the N400 in the primed.
+However, readers can certainly be led to process conventional
+metaphors in a comparison way, eventually. So despite the initial
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+493
+
+Fig. 5. Experiment 2, Grand Average ERP waveforms for the literal (orange), conventional (red), novel (green), and anomalous (blue) targets in the unprimed conditions at the
+mid-central sites. The scalp distributions of the effects, subtracting the literal control from each other condition, in the 300-500 ms time window, are displayed at the bottom.
+
+lack of greater ERP priming for the conventional metaphor than for
+literals, comparison ultimately encouraged mapping at a later time
+point, accepting more inferences not typically accepted, hence the
+significant RT priming greater for conventional metaphors than for
+literals. In the case of novel metaphors, comparison is perhaps indeed the default processing route for making sense of novel metaphors. Thus related similes naturally facilitated the process, as
+reflected by the ERP priming. However, because the novel metaphor examples tested here were too new and unfamiliar, the initial
+boost might not be sustainable downstream of processing, as reflected by the lack of greater RT priming for novel metaphors than
+for literals. This interpretation suggests that while both conventional and novel metaphors benefit from comparison induced by
+similes, comparison is necessary for novel metaphors, and is useful
+but may not be necessary for conventional metaphors.
+Experiment 2 also clarified the issue of the unexpected priming
+observed in the anomalous targets in Experiment 1. We suggested
+the unexpected priming in Experiment 1 was due to the non-matching sentence lengths and structures of the sentence-primes. In
+Experiment 2, we matched all of these stimulus properties between
+the primes, and successfully eliminated the unexpected priming in
+the anomalous condition.
+
+4. General discussion
+The present study used ERP to investigate (1) whether conceptual mappings are in use during the comprehension of conventional and novel metaphorical expressions, and (2) what
+mapping means as a process for the two types of metaphors. We
+used metaphorical sentences designed with conventional and novel mapping relations based on cognitive linguistic theories, validated in a previous study (Lai et al., 2009) as our target
+sentences, and we primed these sentences with related and unrelated primes. In Experiment 1, we used sentence-primes to expose
+subjects to relevant mappings. We found that the sentence-primes
+were effective in priming the related conventional metaphorical
+expressions, but not the novel ones. Priming effects for the conventional metaphors held even when potential lexical priming obtained via literal sentences was subtracted, in both the ERP and
+RT measures. In Experiment 2, we used simile-primes to initiate
+a comparison process. We found that simile-primes were effective
+in priming both related conventional and novel metaphorical
+expressions. However after subtraction of literal priming, the ERP
+priming effects remained significant in novel metaphors, but became marginal in conventional metaphors. The RT priming effects
+
+494
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+remained significant in conventional metaphors, but not in novel
+metaphors.
+These findings can be best accounted for by the Career of Metaphor Theory (Bowdle & Gentner, 2005). The theory posits that
+mapping as a process consists of the alignment of the involved concepts first and then the importation of the appropriate inferences,
+and that there are multi-routes for mappings for conventional metaphors and a single route for novel metaphors (Bowdle & Gentner,
+2005, Fig. 4). In the case of conventional metaphors, even though
+the involved concepts have pre-experimentally been frequently
+paired, and inferences, frequently drawn, the conventional metaphors still needed to go through the mapping process, as reflected
+by their more negative N400s compared to the literals when unprimed (Experiments 1 and 2). When primed, the sentence-primes
+in Experiment 1 cued the relevant concepts and frequently mapped
+inferences. Therefore when the target sentences appeared, the system only needed to make use of the activated concepts and inferences for outputting interpretations, hence the N400 and RT
+priming effects. In Experiment 2, comparison induced by similes
+might have carried out mappings from both the original literal
+reading of the source concept and its conventionalized metaphoric
+reading (e.g., shark as an animal, shark as a tenacious human being)
+to the target concept (lawyer). Activations of multiple meanings of
+the source concept and the multi-routes of mapping presumably
+increased the amount of resources needed for aligning the predicates between the concepts, hence although the significant ERP
+priming effects for conventional metaphors, the effects were only
+marginally larger than the literals. However similes facilitated
+the later stage of the mapping process eventually, regardless of
+which route the mappings underwent, therefore in the RT time
+window we still observed larger RT priming effects for the conventional than for the literals. Overall these findings provide support
+for the use of mapping in conventional metaphors, consistent with
+past studies that examined conventional metaphors with specific
+content (e.g., Gentner et al., 2002; Saygin et al., 2010; Desai
+et al., 2011). These findings also provide some evidence for the
+multi-route possibilities at the early stage of mapping during the
+comprehension of conventional metaphors. It appears that while
+the preferred route for conventional metaphors may not always
+be a comparison process, comparison can eventually facilitate the
+interpretation of conventional metaphors.
+In the case of novel metaphors, because the novel metaphor
+examples tested here were created by pairing concepts that were
+never or infrequently paired pre-experimentally, only mappings
+from the original literal reading of the source concept to the target
+concept was possible. Going through the structural alignment and
+inference importation, novel metaphors elicited more negative
+N400s than the literals when unprimed (Experiments 1 and 2).
+When primed, the sentence-primes in Experiment 1 were supposed to activate the relevant concepts and inferences. But the null
+ERP and RT priming indicate that activations might not have been
+successful. The system might be uncertain about which concepts
+and inferences were supposed to be conjured based on the lexical
+cues in the sentence-primes. The finding that the sentence-primes
+did not facilitate mappings in novel metaphors seems inconsistent
+with several past studies (Gentner & Boronat, 1992; Keysar et al.,
+2000; Thibodeau & Durgin, 2008). This is likely because the novel
+metaphor examples in the present study were created via novel
+pairing of concepts, whereas most examples in the past studies
+used the unused aspects of a conventional metaphor. For example,
+``His criticism was a guided cruise missile'' (Keysar et al., 2000) is a
+novel extension of the conventional ARGUMENT IS WAR metaphor,
+which might have made the structural alignment and inference
+importation accessible. The simile-primes in Experiment 2 were
+effective in facilitating novel metaphors, to the extent that the
+ERP priming effects in novel were greater than those in the literals,
+
+suggesting that similes invited construction of new inferences.
+Simile-primes also facilitated the RTs for novel metaphors, but
+not more so than the literals, probably because the initially probable inferences were later judged to be not as appropriate as they
+first seemed due to the novelty of the examples. We interpreted
+these findings as being supportive of the use of mapping in interpreting novel metaphors, and such mapping is essentially a comparison process similarly to that used in interpreting similes.
+Are metaphors processed via comparison and comparison
+alone? Based on the ERP and RT priming effects within each condition, comparison induced by similes facilitated both conventional and novel metaphors, suggesting that metaphors are
+processed via comparison. However, based on the more stringent
+analysis subtracting the priming effects in the literals from each
+of the metaphor conditions, comparison facilitated novel metaphors initially, and comparison facilitated conventional metaphors
+downstream of processing. The stringent analysis suggests that
+the ways in which comparison impacts conventional and novel
+metaphors are different. In Experiment 2 discussion we laid out
+2 possible differences: (1) Comparison impacts conventional and
+novel metaphors at different times/stages; (2) Comparison is necessary for interpreting novel metaphors; it is not necessarily initially but can be useful for interpreting conventional metaphors.
+These two are not mutually exclusive, as earliness in the time
+course oftentimes implies necessity. Both possibilities support
+the importance of comparison in metaphor mappings, which challenge theories that suggest comparison as being peripheral during
+metaphor comprehension (Glucksberg & Haught, 2006). Some
+have also suggested that the distinction between categorization
+and comparison may be manifested as hemispheric or frontal-posterior differences (Cardillo et al., 2012; Mashal & Faust, 2009). The
+scalp distributions of the priming effects in the current study do
+not support a locational difference. Based on our findings we suggest that categorization and comparison, just like conventional
+and novel metaphors, may have a shared mapping process and differ only in terms of the extent of inferences that can be projected
+from one concept to the other (cf. Bowdle & Gentner, 2005). The
+more conventional a metaphor example is, the more the inferences there are available to be imported, and therefore the greater
+the facilitation.
+Our findings provide partial support for the Neural Theory of
+Metaphor (Lakoff, 2009). One of the central tenants of this theory
+suggests that conventional mappings are fixed representations
+stored in the long-term memory, whereas novel mappings are
+not represented. Experiment 1 showed that an activated conventional mapping could prime examples with similar mappings, supporting the theory. However, in Experiment 2, similes primed
+related metaphorical expressions, even when the expression was
+novel, which is inconsistent with the theory. A more productive
+way to move forward is to consider mapping as a process, not as
+a fixed representation. While a conventional mapping may be a frequent pattern of activation, it is not permanently fixed or stored.
+The pattern of activation should be flexible depending on the context, which is consistent with recent finding showing that conventional metaphors can be de-conventionalized (Goldstein, Arzouan,
+& Faust, 2012). In a comparison context, people are more likely to
+exploit new readings of old mappings as well as create new mappings between concepts.
+One issue that has been heavily researched in the past behavioral studies of metaphor is whether metaphorical and literal sentences are processed differently. Based on reaction times, most
+found that metaphorical and literal meanings are understood at
+the same time, but some studies found that metaphors are understood more slowly than literals (Gerrig & Healy, 1983). In our unprimed conditions, although the N400s for the metaphors and
+the literals fell within the same time frame (300-500 ms), the
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+N400 amplitudes for metaphors were significantly more negative
+than the literals. This is consistent with studies using speed-accuracy-tradeoff asymptote as a dependent measure for revealing the
+differences between metaphorical and literal meanings. McElree
+and Nordlie (1999) found that while the temporal dynamics for figurative and literal statements are the same, the asymptotic accuracy was lower in figurative than in literal statements, suggesting
+that figurative interpretations are less constrained than the literal.
+We have attributed the N400 amplitude difference between our
+metaphors and our literals to the amount of difficulty triggered
+by the mapping process. That is, mapping the dissimilar concepts
+in metaphors may be more resource intensive than mapping the
+similar concepts in literals, and a resource intensive process does
+not have to take longer than a less intensive process - different amounts
+of effort can be completed within the same time (cf. Coulson & Van
+Petten, 2002). In terms of theoretical interpretation, the amount of
+predicates/inferences available for mapping can be another way
+of viewing how constraining figurative meaning is, but more
+evidence is needed for validating this theory.
+The current finding also has implications for the functional
+interpretations of N400. In the language N400 literature, there
+has been an ongoing debate on whether literal-anomalous N400
+effect reflects ``an ease of lexical retrieval'' (Kutas & Federmeier,
+2000) or ``post-lexical integration'' (Brown & Hagoort, 1993;
+Hagoort, Hald, Bastiaansen, & Petersson, 2004). The lexical account
+suggests that N400 reflects the ease of lexical retrieval of the target
+word, with the degree of easiness modulated by sentential context
+pre-lexically. The integration account suggests that N400 reflects
+how difficult it is for the retrieved target word to integrate with
+its preceding context, post-lexically. Recent development of this
+debate has primarily gone two directions, among others. The first
+direction accentuates the differences between the two accounts.
+In a review paper, Lau et al. (2008) showed that one of the important neurogenerators of N400 lies within the posterior middle temporal cortex, which according to imaging data on single words
+serves lexical-semantic processing. This provides support for the
+lexical account and rules out a pure integration based account
+for N400. In another review paper, Brouwer, Fitz, and Hoeks
+(2012) showed that the type of stimuli giving rise to N400s always
+pre-activates lexical targets, and that the type of stimuli that requires reanalysis or post-lexical integration elicit a late positive
+component. Their proposal restricted N400 to strictly lexical and
+argued that any post-lexcial integration is indexed in the late positive component (see also Kuperberg, 2007). Instead of accentuating
+the differences, the second direction focuses on the commonality
+of the two accounts. Coulson and Federmeier (2002) suggested that
+the lexical vs. post-lexical processes may be highly interactive and
+interdependent. Federmeier (2007) and Hagoort, Baggio, and Willems (2009) suggested that lexical and post-lexical processes
+may be occurring in the left and right hemispheres concurrently.
+Baggio and Hagoort (2011) further suggested that both the lexical,
+non-combinatorial processes in the middle temporal cortex and
+the post-lexical, combinatorial processes in the inferior frontal cortex may be happening at the same time.
+The current metaphor-literal N400 effect very likely reflects
+both lexical and post-lexical processes. Lai et al. (2009) proposed
+that the N400s for metaphors relative to literal sentences in their
+early window may be the N400 and that the ERPs observed in their
+late window may be reflecting continuation of the processes
+underlying the early N400. The current study verified this proposal.
+But this still leaves us with the questions which aspect of the mapping process is reflected by the N400 specifically and how N400 in
+metaphor processing relates to the neurobiology of language in
+general. As we now have proposed to view mapping as a process,
+not as a representation, we suggest that any ease of processing
+during this mapping operation should lead to a reduction of
+
+495
+
+N400, be it retrieval of concepts, or integration between the retrieved concepts. Perhaps the sentence-primes (Experiment 1)
+aid more on the concept retrieval of the mapping process whereas
+the simile-primes (Experiment 2) aid more on the inference integration of the process. Thus both the retrieval of concepts and
+the integration of inferences may underlie the observed N400s.
+Our findings are consistent with neurobiological models of language in which N400 reflects joint lexical and post-lexical effects
+(Baggio & Hagoort, 2011; Coulson & Federmeier, 2002) and are
+inconsistent with accounts in which N400 must be strictly lexical
+(Brouwer et al., 2012) or pure post-lexical (Brown & Hagoort,
+1993).
+Finally, there are a couple of caveats in the current study. First,
+the sensicality rating task with a four-point scale (perfect sense = 3,
+some sense = 2, little sense = 1, and no sense = 0) seemed complicated. We intended to use this rating scheme to encourage our participants to think more about meaning, but the combination of the
+4-point scale and the requirement of an immediate response might
+have affected the results. For example, the participants might decide that they could make some sense of some of the anomalous
+sentences, which would lead to a less negative N400. Future studies are needed for examining task effects on the processing of literal and non-literal language. The second caveat is the concern of
+lexical priming. Although we meticulously controlled for lexical
+priming by controlling for the basic properties of the stimuli and
+by subtracting priming effects obtained in the literal control from
+the effects obtained in the metaphorical conditions, it is possible
+that the degrees of lexical priming in literal and metaphorical conditions might not be equal. If lexical priming was larger in literal
+than in metaphorical conditions, then we have subtracted more
+than needed, which would still support our current conclusion. If,
+however, lexical priming was larger in metaphorical than in literal
+conditions, then some lexical priming could confound the priming
+of mappings. Future studies are needed to elucidate the latter
+scenario.
+In conclusion, the point of departure of this study is to examine
+whether mappings are in use in metaphorical language, and what
+mapping means as a process. We found that sentence-primes with
+mappings were effective for facilitating conventional metaphors,
+and simile-primes with mappings were effective for facilitating novel metaphors initially and for facilitating conventional metaphors
+at a later stage of processing. We conclude that mapping is better
+characterized as a process in which comparison plays a critical role,
+and that conventionality modulates the ease of this processing.
+Appendix A. Supplementary material
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.bandl.2013.09.
+010.
+References
+Allbritton, D. W., McKoon, G., & Gerrig, R. J. (1995). Metaphor-based schemas and
+text representations: Making connections through conceptual metaphors.
+Journal of Experimental Psychology: Learning, Memory, and Cognition, 21,
+612-625.
+Arzouan, Y., Goldstein, A., & Faust, M. (2007). Brainwaves are stethoscopes: ERP
+correlates of novel metaphor comprehension. Brain Research, 1160, 69-81.
+Baggio, G., & Hagoort, P. (2011). The balance between memory and unification in
+semantics: A dynamic account of the N400. Language and Cognitive Processes, 26,
+1338-1367.
+Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: A practical
+and powerful approach to multiple testing. Journal of the Royal Statistical Society.
+Series B (Methodological), 57(1), 289-300.
+Bethard, S., Lai, V. T., & Martin, J. (2009). Topic model analysis of metaphor
+frequency for psycholinguistic stimuli. In Proceedings of the NAACL HLT workshop
+on computational approaches to linguistic creativity 2009 (pp. 9-16). Stroudsburg,
+PA: Association for Computational Linguistics.
+
+496
+
+V. Tzuyin Lai, T. Curran / Brain & Language 127 (2013) 484-496
+
+Boulenger, V., Hauk, O., & Pulvermuller, F. (2009). Grasping ideas with the motor
+system: Semantic somatotopy in idiom comprehension. Cerebral Cortex, 19(8),
+1905-1914.
+Bowdle, B., & Gentner, D. (2005). The career of metaphor. Psychological Review,
+112(1), 193-216.
+Brouwer, H., Fitz, H., & Hoeks, J. (2012). Getting real about semantic illusions:
+Rethinking the functional role of the P600 in language comprehension. Brain
+Research, 1446, 127-143.
+Brown, C., & Hagoort, P. (1993). The processing nature of the N400: Evidence from
+masked priming. Journal of Cognitive Neuroscience, 5, 34-44.
+Cacciari, C., Bolognini, N., Senna, I., Pellicciari, M. C., Miniussi, C., & Papagno, C.
+(2011). Literal, fictive and metaphorical motion sentences preserve the motion
+component of the verb: A TMS study. Brain and Language, 119(3), 149-157.
+Cardillo, E. R., Watson, C. E., Schmidt, G. L., Kranjec, A., & Chatterjee, A. (2012). From
+novel to familiar: Tuning the brain for metaphors. NeuroImage, 59, 3212-3221.
+Chettih, S., Durgin, F. H., & Grodner, D. J. (2012). Mixing metaphors in the cerebral
+hemispheres: What happens when careers collide? Journal of Experimental
+Psychology. Learning Memory and Cognition, 38(2), 295-311.
+Coulson, S. (2001). Semantic leaps: Frame-shifting and conceptual blending in meaning
+construction. Cambridge University Press.
+Coulson, S., & Davenport, T. (2012). Cognitive neuroscience of creative language:
+The poetic and the prosaic. In M. Faust (Ed.), The handbook of the
+neuropsychology of language (pp. 386-406). John Wiley & Sons.
+Coulson, S., & Federmeier, K. D. (2002). Words in context: ERPs and the lexical/ 1156
+postlexical distinction. Unpublished manuscript, UC San Diego.
+Coulson, S., & Van Petten, C. (2002). Conceptual integration and metaphor: An ERP
+study. Memory & Cognition, 30, 958-968.
+Coulson, S., & Van Petten, C. (2007). A special role for the right hemisphere in
+metaphor comprehension?: ERP evidence from hemifield presentation. Brain
+Research, 1146, 128-145.
+De Grauwe, S., Swain, A., Holcomb, P. J., Ditman, T., & Kuperberg, G. R. (2010).
+Electrophysiological insights into the processing of nominal metaphors.
+Neuropsychologia, 48(7), 1965-1984.
+Desai, R. H., Binder, J. R., Conant, L. L., Mano, Q. R., & Seidenberg, M. S. (2011). The
+neural career of sensory-motor metaphors. Journal of Cognitive Neuroscience,
+23(9), 2376-2386.
+Desai, R. H., Conant, L. L., Binder, J. R., Park, H., & Seidenberg, M. S. (2013). A piece of
+the action: Modulation of sensory-motor regions by action idioms and
+metaphors. NeuroImage, 83, 862-869.
+Estes, Z., & Jones, L. L. (2006). Priming via relational similarity: A copper horse is
+faster when seen through a glass eye. Journal of Memory and Language, 55(1),
+89-101.
+Federmeier, K. D. (2007). Thinking ahead: The role and roots of prediction in
+language comprehension. Psychophysiology, 44, 491-505.
+Fellbaum, C. (1998). WordNet: An electronic lexical database. The MIT Press.
+Gentner, D., & Boronat, C. (1992). Metaphor as mapping. Paper presented at the
+Workshop on Metaphor, Tel Aviv.
+Gentner, D., Imai, M., & Boroditsky, L. (2002). As time goes by: Evidence for two
+systems in processing space ? time metaphors. Language and Cognitive
+Processes, 17(5), 537-565.
+Gentner, D., & Wolff, P. (1997). Alignment in the processing of metaphor. Journal of
+Memory and Language, 37(3), 331-355.
+Gerrig, R. J., & Healy, A. F. (1983). Dual processes in metaphor understanding:
+Comprehension and appreciation. Journal of Experimental Psychology: Memory &
+Cognition, 9, 667-675.
+Gibbs, R. W. (1994). The poetics of mind: Figurative thought, language and
+understanding. New York: Cambridge University Press.
+Glucksberg, S., Brown, M., & McGlone, M. (1993). Conceptual metaphors are not
+automatically accessed during idiom comprehension. Memory & Cognition, 21,
+711-719.
+Glucksberg, S., & Haught, C. (2006). On the relation between metaphor and simile:
+When comparison fails. Mind and Language, 21(3), 360-378.
+Glucksberg, S., & Keysar, B. (1990). Understanding metaphorical comparisons:
+Beyond similarity. Psychological Review, 97(1), 3-18.
+Glucksberg, S., McGlone, M. S., & Manfredi, D. (1997). Property attribution in
+metaphor comprehension. Journal of Memory and Language, 36(1), 50-67.
+Goldstein, A., Arzouan, Y., & Faust, M. (2012). Killing a novel metaphor and reviving
+a dead one: ERP correlates of metaphor conventionalization. Brain and
+Language, 123(2), 137-142.
+
+Greenhouse, S. W., & Geisser, S. (1959). On methods in the analysis of profile data.
+Psychometrika, 24, 95-112.
+Hagoort, P., Baggio, G., & Willems, R. M. (2009). Semantic unification. In M. S.
+Gazzaniga (Ed.), The cognitive neurosciences (4th ed., pp. 819-836). Cambridge,
+MA: MIT Press.
+Hagoort, P., Hald, L., Bastiaansen, M., & Petersson, K.-M. (2004). Integration of word
+meaning and world knowledge in language comprehension. Science, 304.
+Kacinik, N. A., & Chiarello, C. (2007). Understanding metaphors: Is the right
+hemisphere uniquely involved? Brain and Language, 100(2), 188-207.
+Keysar, B., Shen, Y., Glucksberg, S., & Horton, W. S. (2000). Conventional language:
+How metaphorical is it? Journal of Memory and Language, 43(4), 576-593.
+Kuperberg, G. R. (2007). Neural mechanisms of language comprehension:
+Challenges to syntax. Brain Research, 1146, 23-49.
+Kutas, M., & Federmeier, K. D. (2000). Electrophysiology reveals semantic memory
+use in language comprehension. Trends in Cognitive Science, 4, 463-470.
+Kutas, M., & Federmeier, K. D. (2011). Thirty years and counting: Finding meaning in
+the N400 component of the event related brain potential (ERP). Annual Review of
+Psychology, 62, 621-647.
+Kutas, M., & Hillyard, S. A. (1980). Reading senseless sentences: Brain potentials
+reflect semantic incongruity. Science, 207(4427), 203-205.
+Lacey, S., Stilla, R., & Sathian, K. (2012). Metaphorically feeling: Comprehending
+textural metaphors activates somatosensory cortex. Brain and Language, 120(3),
+416-421.
+Lai, V. T., Curran, T., & Menn, L. (2009). Comprehending conventional and novel
+metaphors: An ERP study. Brain Research, 1284, 145-155.
+Lakoff, G. (1993). The contemporary theory of metaphor. In Metaphor and thought.
+Cambridge: Cambridge University Press.
+Lakoff, G. (2009). The neural theory of metaphor. In The metaphor handbook.
+Cambridge: Cambridge University Press.
+Lakoff, G., Espenson, J., & Goldberg, A. (1992) Master metaphor list. Unpublished
+Manuscript. University of California Berkeley, CA.
+Lau, E. F., Phillips, C., & Poeppel, D. (2008). A cortical network for semantics:
+(De)constructing the N400. Nature Reviews Neuroscience, 9(12), 920-933.
+Lu, A., & Zhang, J. X. (2012). Event-related potential evidence for the early activation
+of literal meaning during comprehension of conventional lexical metaphors.
+Neuropsychologia, 50(8), 1730-1738.
+Mashal, N., & Faust, M. (2009). Conventionalisation of novel metaphors: A shift in
+hemispheric asymmetry. Laterality: Asymmetries of Body, Brain and Cognition,
+14(6), 573-589.
+Mashal, N., Faust, M., Hendler, T., & Jung-Beeman, M. (2007). An fMRI investigation
+of the neural correlates underlying the processing of novel metaphoric
+expressions. Brain and Language, 100, 115-126.
+McElree, B., & Nordlie, J. (1999). Literal and figurative interpretations are computed
+in equal time. Psychonomic Bulletin & Review, 6(3), 486-494.
+Munro, R., Bethard, S., Kuperman, V., Lai, V. T., Melnick, R., Potts, C., et al. (2010).
+Crowdsourcing and language studies: The new generation of linguistic data.
+Proceedings of workshop on creating speech and language data with Amazon's
+mechanical turk. Stroudsburg, PA: Association for Computational Linguistics
+(pp. 122-130). Stroudsburg, PA: Association for Computational Linguistics.
+Ortony, A., Schallert, D. L., Reynolds, R. E., & Antos, S. J. (1978). Interpreting
+metaphors and idioms: Some effects of context on comprehension. Journal of
+Verbal Learning and Verbal Behavior, 17, 465-477.
+Rapp, A. M., Mutschler, D. E., & Erb, M. (2012). Where in the brain is nonliteral
+language? A coordinate-based meta-analysis of functional magnetic resonance
+imaging studies. NeuroImage, 63(1), 600-610.
+Saygin, A. P., McCullough, S., Alac, M., & Emmorey, K. (2010). Modulation of BOLD
+response in motion-sensitive lateral temporal cortex by real and fictive motion
+sentences. Journal of Cognitive Neuroscience, 22(11), 2480-2490.
+Spellman, B. A., Holyoak, K. J., & Morrison, R. G. (2001). Analogical priming via
+semantic relations. Memory & Cognition, 29, 383-393.
+Srinivasan, R., Nunez, P. L., Tucker, D. M., Silberstein, R. B., & Cadusch, P. J. (1996).
+Spatial sampling and filtering of EEG with spline Laplacians to estimate cortical
+potentials. Brain Topography, 8, 355-366.
+Thibodeau, P., & Durgin, F. H. (2008). Productive figurative communication:
+Conventional metaphors facilitate the comprehension of related novel
+metaphors. Journal of Memory and Language, 58(2), 521-540.
+
+Update
+Brain and Language
+Volume 149, Issue , October 2015, Page 148-150
+DOI: https://doi.org/10.1016/j.bandl.2014.11.001
+
+Brain & Language 149 (2015) 148-150
+
+Contents lists available at ScienceDirect
+
+Brain & Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Erratum
+
+Erratum to ``ERP evidence for conceptual mappings and comparison
+processes during the comprehension of conventional and novel
+metaphors'' [Brain Lang. 127 (3) (2013) 484-496]
+Vicky Tzuyin Lai a,b,, Tim Curran c
+a
+b
+c
+
+Neurobiology of Language Department, Max Planck Institute for Psycholinguistics, Nijmegen
+Department of Psychology, University of South Carolina, Columbia
+Department of Psychology and Neuroscience, University of Colorado, Boulder
+
+The publisher regrets the errors in Figs. 1-4 where a vertical line appeared at the top left corner of the figures in the published article. In
+addition, in Fig. 4A, the Y axis of the red (dark red and light red) waveforms was repeated.
+The correct images for Figs. 1-4 can be found here.
+
+Fig. 1. (A) Experiment 1, N = 24, Grand Average ERP waveforms for the literal (orange), conventional (red), novel (green), and anomalous (blue) targets in the unprimed (dark
+lines) and primed (light lines) conditions at the mid-central sites. (B) Scalp distributions of the priming effects, subtracting the primed from the unprimed, in the 300-500 ms
+time window in each condition.
+
+DOI of original article: http://dx.doi.org/10.1016/j.bandl.2013.09.010
+
+ Corresponding author. Address: Department of Psychology, University of South Carolina, 1512 Pendleton Street, Columbia, SC 29208, USA. Tel.: 803-777-4137.
+E-mail addresses: vicky.tzuyin.lai@gmail.com (V.T. Lai), Tim.Curran@colorado.edu (T. Curran).
+http://dx.doi.org/10.1016/j.bandl.2014.11.001
+0093-934X/O 2014 Elsevier Inc. All rights reserved.
+
+V.T. Lai, T. Curran / Brain & Language 149 (2015) 148-150
+
+149
+
+Fig. 2. (A) Experiment 1, N = 18, Grand Average ERP waveforms for the literal (orange), conventional (red), novel (green), and anomalous (blue) targets in the unprimed (dark
+lines) and primed (light lines) conditions at the mid-central sites. (B) Scalp distribution of the priming effects, subtracting the primed from the unprimed, in the 300-500 ms
+time window in each condition.
+
+Fig. 3. Experiment 1, Grand Average ERP waveforms for the literal (orange), conventional (red), novel (green), and anomalous (blue) targets in the unprimed conditions at the
+mid-central sites, for N = 24 (left) and for N = 18 (right). The scalp distributions of the effects, subtracting the literal control from each other condition, in the 300-500 ms time
+window, are displayed at the bottom.
+
+150
+
+V.T. Lai, T. Curran / Brain & Language 149 (2015) 148-150
+
+Fig. 4. (A) Experiment 2, Grand Average ERP waveforms for the literal (orange), conventional (red), novel (green), and anomalous (blue) targets in the unprimed (dark lines)
+and primed (light lines) conditions at the mid-central sites. (B) Scalp distribution of the priming effects, subtracting the primed from the unprimed, in the 300-500 ms time
+window in each condition.
+
+

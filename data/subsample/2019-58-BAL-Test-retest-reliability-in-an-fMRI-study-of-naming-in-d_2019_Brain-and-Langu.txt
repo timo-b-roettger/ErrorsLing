@@ -1,0 +1,2396 @@
+Brain and Language 191 (2019) 31-45
+
+Contents lists available at ScienceDirect
+
+Brain and Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Test-retest reliability in an fMRI study of naming in dementia
+a,
+
+b
+
+c
+
+T
+
+c
+
+Eun Jin Paek , Laura L. Murray , Sharlene D. Newman , Dae-Jin Kim
+a
+b
+c
+
+Department of Audiology and Speech Pathology, University of Tennessee Health Science Center, Knoxville, TN 37996, United States
+School of Communication Sciences and Disorders, Western University, London, Ontario N6G 1H1, Canada
+Department of Psychological and Brain Sciences, Indiana University, Bloomington, IN 47401, United States
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+fMRI
+Dementia
+Aging
+Word retrieval
+Confrontation naming
+Noun naming
+Verb naming
+Reliability
+
+fMRI has been used as an outcome measure in dementia treatment studies, with many previous studies comparing only single pre- and post-treatment fMRI scans to determine treatment-induced neural changes, while
+utilizing single subject experimental designs. The purpose of the current study was to evaluate fMRI test-retest
+reliability in dementia patients and typical older adults using noun and verb confrontation naming to evaluate
+the validity of using a single pre/post-treatment scan comparison. Seven individuals with dementia and 9 control
+participants were tested three times over two months using the same fMRI procedures. Differences in individual
+and group level activation patterns were observed that varied across time. Additionally, the extent of variability
+fluctuated across individuals, groups, and the grammatical category of target words. Our findings suggested that
+one time fMRI scanning may inadequately represent an individual's typical brain activation pattern, particularly
+an individual with dementia. Thus, multiple imaging baselines are recommended.
+
+1. Introduction
+Word retrieval problems are prominent and pervasive even in the
+early stages of dementia (Alzheimer's Association, 2017; Cappa et al.,
+1998; Jokel, Graham, Rochon, & Leonard, 2014; Murray & Clark,
+2015). Naming difficulties are found not only in individuals with Alzheimer's Disease (AD), but also other types of dementing diseases such
+as frontotemporal lobar degeneration (FTLD; Antonucci & Reilly, 2008;
+Cappa et al., 1998; Hodges, Patterson, Oxbury, & Funnell, 1992), and
+vascular dementia (VD; Bentham, Jones, & Hodges, 1997; Graham,
+Emery, & Hodges, 2004). Accumulating evidence suggests individuals
+with dementia demonstrate positive responses to behavioral naming
+treatments despite the progressive nature of dementing diseases
+(Beeson et al., 2011; Dressel et al., 2010; Henry et al., 2013; Jokel et al.,
+2014, 2016; Meyer, Snider, Eckmann, & Friedman, 2015; Reilly, 2016).
+Furthermore, emerging evidence suggests that generalization and
+maintenance of cognitive and linguistic gains are possible in dementia
+(Beeson et al., 2011; Croot et al., 2015; Henry et al., 2013; Jokel et al.,
+2014; Paek, Murray, & Newman, 2015).
+Despite the improved naming performance that has been reported
+when individuals with dementia are provided language treatment, relatively little is known about what neurophysiological mechanisms
+support or are a product of these positive changes. To delineate the
+
+underlying neural substrate, researchers have begun to utilize fMRI
+techniques as a dependent measure for treatment outcomes, thus far
+finding all participants with dementia have demonstrated treatmentinduced changes in their neural activation patterns (Beeson et al., 2011;
+Dressel et al., 2010; Jokel et al., 2016; Marcotte & Ansaldo, 2010; Paek
+et al., 2015). Single subject designs (SSD) have been commonly used to
+assess language treatment effects in neurogenic populations including
+dementia (Byiers, Reichle, & Symons, 2012; Howard, Best, & Nickels,
+2015; Tate et al., 2008). In this design, investigators closely observe
+participants' performance over time, and report improvements based on
+the comparison between post-treatment performance and baseline
+performance, which is repeatedly observed at least three times before
+treatment to establish internal validity and to rule out potential extraneous confounds such as intra-individual variability (Thompson, 2015).
+However, fMRI studies of treatment effects rarely collect more than one
+pre- or post-treatment scan when using SSD in studies of dementia or
+aphasia. Given that SSDs are often advocated as the preferred research
+design, the mere comparison of pre- versus post-treatment imaging
+results, each of which is collected only once, gives rise to a fundamental
+question about whether these neuroimaging results truly represent the
+participant's brain activation patterns at each time point and whether
+any changes can be attributed to treatment.
+For reliable fMRI results, any possible errors that arise from
+
+
+Corresponding author at: 578 South Stadium Hall, Audiology and Speech Pathology, University of Tennessee Health Science Center, Knoxville, TN 37996, United
+States.
+E-mail addresses: epaek@uthsc.edu (E.J. Paek), lmurra57@uwo.ca (L.L. Murray), sdnewman@indiana.edu (S.D. Newman), daejkim@indiana.edu (D.-J. Kim).
+
+https://doi.org/10.1016/j.bandl.2019.02.002
+Received 5 March 2018; Received in revised form 18 December 2018; Accepted 12 February 2019
+Available online 23 February 2019
+0093-934X/ Published by Elsevier Inc.
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+for LH hippocampus).
+Nonetheless, there remain several gaps in the literature regarding
+fMRI reliability in dementia. First, language paradigms have not yet
+been used; instead, most investigations have focused on memory
+functions (e.g., encoding and retrieval; Atri et al., 2011; Clement &
+Belleville, 2009; Putcha et al., 2011; Zanto et al., 2014). Furthermore,
+regions of interest investigated in prior reliability studies for MCI or
+dementia focused on areas associated with memory symptoms and
+abilities, such as the hippocampus (Atri et al., 2011; Putcha et al., 2011;
+Wagner et al., 2005; Zanto et al., 2014). Therefore, the current literature yields no information about the reliability of language-related
+brain areas. Accordingly, further documentation of the reliability of
+fMRI for individuals with dementia, particularly when language scanning tasks are used, is needed to monitor treatment-induced longitudinal changes or declines associated with disease progress.
+Other shortcomings of the current fMRI reliability studies involving
+language paradigms include that some studies did not report in-scanner
+behavioral performance (e.g., Brandt et al., 2013; Caceres et al., 2009;
+Harrington et al., 2006; Mahowald & Fedorenko, 2016; Rau et al., 2007;
+Rutten et al., 2002; Specht, Willmes, Shah, & Jancke, 2003), or utilized
+covert tasks (e.g., Harrington et al., 2006), which hinder observation of
+behavioral performance directly related to the neural activation. In
+turn, it becomes difficult to evaluate whether any observed activation
+changes were associated with behavioral changes. Additionally, none of
+the language tasks previously investigated for test-retest reliability required overt speech, except for the task used by Rau et al. (2007). In
+contrast, anomia treatment fMRI studies often employ overt speech
+tasks to monitor participants' in-scanner task performance (e.g., Beeson
+et al., 2011; Marcotte & Ansaldo, 2010; Paek et al., 2015). Therefore,
+further investigation of test-retest reliability is warranted to determine
+the reliability of such fMRI language measures in the dementia population.
+The current study evaluated fMRI test-retest reliability among individuals with dementia utilizing language (i.e., word retrieval) tasks.
+To obtain brain activation patterns while naming, participants were
+asked to name pictures over three time points in a 3T MRI machine. In
+the absence of cognitive or language treatment, we examined whether
+the brain activation patterns and word retrieval scores in each individual remain unchanged across repeated measures. The research
+questions were as follows:
+
+collecting data from two or more different time points should be ruled
+out as well as intra-person variability across scanning sessions (Bennett
+& Miller, 2010). For example, head motion, task performance, physiological noise (e.g., influence of caffeine, number of hours of sleep), and
+the cognitive strategy of a participant might change from one to another scanning session (Chen & Small, 2007; Fournier, Chase, Almeida,
+& Phillips, 2014; Gonzalez-Castillo & Talavage, 2011; Kurland et al.,
+2004). fMRI reliability also depends on environmental or physiological
+fluctuations and the inter-scan interval (Bennett & Miller, 2013; Liou
+et al., 2003). Therefore, the underlying assumption that repeating fMRI
+measures yields reliable results needs to be documented, to validate the
+practice of a single pre- versus post-treatment scan comparison commonly adopted in prior language intervention studies in dementia patients. Thus far, however, SSD research of dementia treatment has not
+considered this variability.
+One time baseline scanning can be problematic especially for dementia research given that dementia is most frequently caused by
+progressive, not static, disease (Alzheimer's Association, 2017). As individuals with dementia experience the neurodegenerative process,
+which includes atrophy and other neuropathology over time (Brambati
+et al., 2015; Rogalski et al., 2011; Staffaroni et al., 2017; Whitwell
+et al., 2015), it is possible that they would show dissimilar brain activation patterns at two different points, even without intervention. For
+instance, a longitudinal study investigated functional brain changes in
+four logopenic variant primary progressive aphasia (lvPPA) participants
+over the course of 1 year, repeating fMRI measures every 6 months in
+the absence of any intervention (Heim et al., 2014). The participants
+performed a visual lexical decision task in the scanner. The researchers
+used a flexible factorial design for repeated measures with the obtained
+activation statistics and found increased activation amplitude in left
+hemisphere (LH) posterior middle temporal gyrus (MTG), superior
+frontal gyrus (SFG), anterior cingulate cortex (ACC), superior parietal
+lobe (SPL), inferior parietal lobe (IPL), and right hemisphere (RH)
+precuneus; despite such activation changes, the participants' behavioral
+lexical decision performances remained unchanged over time due to
+ceiling effects. Given this increased brain activation observed without
+any intervention or changes on the behavioral task, the interpretation
+of treatment-induced neural changes becomes more complicated.
+Nevertheless, no previous dementia treatment study has included a
+control participant who is going through the same neurodegenerative
+disease and scanned at different time points.
+Current literature regarding test-retest fMRI reliability for cognitive
+and language paradigms with varying populations suggests that the
+reliability depends on, at least in part, the nature of the fMRI paradigm,
+participant characteristics (e.g., age, presence of disease, disease
+etiology and severity), inter-scan interval, and region of interest (Aron,
+Gluck, & Poldrack, 2006; Atri et al., 2011; Brandt et al., 2013; Caceres,
+Hall, Zelaya, Williams, & Mehta, 2009; Chen & Small, 2007; Clement &
+Belleville, 2009; Fournier et al., 2014; Gonzalez-Castillo & Talavage,
+2011; Harrington, Buonocore, & Farias, 2006; Kurland et al., 2004;
+Mahowald & Fedorenko, 2016; Putcha et al., 2011; Rau et al., 2007;
+Rutten, Ramsey, Van Rijen, & Van Veelen, 2002; Wagner et al., 2005;
+Wei et al., 2004; Zanto, Pa, & Gazzaley, 2014). In general, findings from
+studies with participants with mild AD or mild cognitive impairment
+(MCI) utilizing memory tasks in the scanner have provided support for
+using fMRI to investigate the efficacy of therapeutic agents for memory
+or cognitive decline at the group level (Atri et al., 2011; Clement &
+Belleville, 2009; Putcha et al., 2011; Zanto et al., 2014). For example,
+Atri et al. (2011) examined fMRI reliability in 12 participants with mild
+AD (Mini Mental State Exam score 16-26). Participants were scanned
+during baseline, 6-week, and 12-week follow-up sessions while enrolled
+in a placebo-arm of a pharmacological treatment study. Face-name
+encoding tasks were used in the scanner, and the reliability was determined by intraclass correlation coefficients (ICCs) in bilateral hippocampal regions. Results indicated moderate to substantial reliability
+of fMRI measures (i.e., ICC 0.59-0.87 for RH hippocampus, 0.67-0.74
+
+(a) In the absence of intervention, will the fMRI measured activation
+remain statistically unchanged across repeated fMRI measures in
+individuals with dementia?
+(b) In the absence of intervention, will the word retrieval task scores
+remain statistically unchanged across repeated measures in individuals with dementia?
+(c) Does the magnitude of reliability differ between individuals with
+dementia and age- and education-matched typical-aging adults?
+For research questions (a) and (b), we hypothesized that brain activation patterns and word retrieval scores would demonstrate modest
+changes across sessions given the cognitive and linguistic deterioration
+that individuals with dementia exhibit over time, particularly in the
+absence of cognitive-linguistic intervention (Blair, Marczinski, DavisFaroque, & Kertesz, 2007; Kemper, Thompson, & Marquis, 2001;
+Maguire, Kumaran, Hassabis, & Kopelman, 2010). With respect to research question c), we hypothesized that the degree of reliability would
+differ between groups as prior research has documented different
+magnitudes of reliability across different groups (Fournier et al., 2014;
+Putcha et al., 2011). Compared to typical-aging adults, individuals with
+dementia show greater declines in the cognitive components required
+for word retrieval processes (Belleville, Chertkow, & Gauthier, 2007;
+Kensinger, Shearer, Locascio, Growdon, & Corkin, 2003; Stopford,
+Thompson, Neary, Richardson, & Snowden, 2012), and thus may show
+less stable performance and activation patterns across different time
+32
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+verbal and non-verbal memory skills, the Test of Memory and Learning -
+Senior Edition (TOMAL-SE; Reynolds & Voress, 2012) was administered.
+To test visual and verbal short-term and working memory abilities, the
+Visual Memory and Digit Span subtests (forward and backward), respectively, from the Wechsler Memory Scale-Revised (WMS-R; Wechsler,
+1987) were given. Executive function measures included the Comprehensive Test of Nonverbal Intelligence-2 (CTONI-2; Hammill, Pearson, &
+Weiderholt, 2009) to determine nonverbal reasoning and problem solving skills and the Calibrated Ideational Fluency Assessment (CIFA;
+Schretlen & Vannorsdall, 2010), a nonverbal analogue of verbal fluency
+tasks, to assess ideational fluency, the ability to rapidly generate or
+retrieve ideas (Vannorsdall, Maroof, Gordon, & Schretlen, 2012). This
+test battery was given to both groups before the first and third fMRI
+scans, which were separated by a two-month interval. Additionally,
+family members currently living with the participants with dementia
+completed the Dementia Severity Rating Scale (DSRS; Clark & Ewbank,
+1996) to document dementia participants' functional impairments. All
+tests were administered within one session that lasted about 2.5 h. The
+order of tests was randomized within and across participants. All participants completed all tests, and all test scores were calculated based
+on each test's scoring manual.
+
+points.
+2. Methods
+2.1. Participants
+The study protocol was reviewed and approved by the Indiana
+University Institutional Review Board. The inclusionary criteria included that each participant be: (a) right-handed, (b) a native speaker
+of English, and (c) able to participate in the current longitudinal study
+over a two-month span. Participants with dementia were given the
+diagnosis of dementia by their neurologists prior to their participation
+in the study. Individuals with any type of cortical dementia, including
+Alzheimer's dementia, vascular dementia, or frontotemporal lobar degeneration, from mild to moderate severity were included in the current
+study. If a participant was taking cognitive enhancement medication
+(e.g., cholinesterase inhibitors such as donepezil), the participant and
+caregiver were asked to track and record their dosage throughout the
+study and report it to the investigator at study completion. Dementia
+severity was determined using the standard version of Mini Mental State
+Exam-2 (i.e., moderate = 10-18 points, and mild = 19-24 points;
+MMSE-2; Folstein, Folstein, McHugh, & Fanjiang, 2010). Control participants had to achieve MMSE-2 scores higher than the cut-off score to
+participate in the study. Cut-off scores for control participants were
+retrieved from the population-based norms of Crum, Anthony, Bassett,
+and Folstein (1993), with age- and education-level specific norms used
+for each participant (e.g., 25 for individuals 80-84 years of age with
+9-12 years of education).
+The exclusionary criteria were: (a) a history of epilepsy, mental
+disorders, or neurological disorders other than dementia, (b) claustrophobia, (c) metal implants that have not been MR-safety approved
+by a doctor, (d) severe hearing or vision deficits that precluded completing tests and tasks, or (e) a significant level of depressive symptoms
+on the Geriatric Depression Scale (i.e., score  10; Faher, Larrabee, &
+Crook, 1992; Yesavage et al., 1983). Vision was screened through a
+picture-matching task, in which participants were required to match
+correctly a stimulus line drawing picture with an identical picture
+mixed with one foil picture. For the hearing-screening test, the Speech
+Discrimination Screening subtest from Arizona Battery for Communication Disorders of Dementia (ABCD; Bayles & Tomoeda, 1993) was given.
+For the vision and hearing screening tests, at least 70% accuracy was
+required to participate in the current study.
+Seven participants with dementia and nine age- and educationmatched healthy participants completed all study procedures (see
+Table 1 for demographic information). All participants with dementia,
+except participant D2, were taking donepezil or memantine. Based on
+caregiver and participant report, no one had dose or frequency of
+medication changes during the study, and no one participated in any
+behavioral language or cognitive therapy. The two participant groups
+did not significantly differ in age, t(14) = -0.74, p = .47, level of
+education t(14) = -0.15, p = .88, or sex 2 (1, N = 16) = 0.04,
+p = .84. MMSE-2 scores were significantly higher for the control group
+versus the dementia group, t(14) = 0.36, p < .01.
+
+2.2.2. fMRI procedures
+Each participant completed three separate MRI scanning sessions.
+The first two sessions (i.e., T1 and T2) were separated by one week, and
+the third session (i.e., T3) was performed two months after the first
+session. The purpose of the first two sessions was to examine the reliability of fMRI language measures administered during a relatively
+short period of time, and the purpose of T3 was to determine longitudinal neural changes related to language in individuals with dementia without any behavioral therapeutic intervention over the twomonth window. To minimize intra-subject physiological variability,
+participants completed a questionnaire regarding factors (e.g., smoking,
+alcohol, caffeine, sleep habits; see Appendix A) that might influence
+their physiological day-to-day variability prior to each scanning session. Participants were scheduled to come in at the same time of the day
+for all three scans, if possible. All participants practiced the scanning
+tasks in a mock scanner room before each scanning session to get familiarized with the tasks and the scanning environment, and to minimize practice and learning effects. During the practice, they were required to name random pictures different from the experimental
+stimuli.
+As the current study was part of a larger investigation, scanning
+tasks included two confrontation naming (i.e., noun naming and verb
+naming) and three verbal fluency tasks (i.e., semantic fluency, letter
+fluency, and action fluency); however, this study focuses on only the
+confrontation naming tasks and outcomes, and thus, there is no further
+mention of the verbal fluency tasks or findings. Each imaging session
+was comprised of five functional runs and one anatomical run. The
+order of functional runs was randomized across and within individuals.
+It is well established that confrontation naming tasks are sensitive to
+dementia (e.g., Balthazar, Cendes, & Damasceno, 2008; Domoto-Reilly,
+Sapolsky, Brickhouse, Dickerson, & Initiative, 2012; Garrard, Lambon
+Ralph, Patterson, Pratt, & Hodges, 2005; Ostberg, Fernaeus, Hellstrom,
+Bogdanovi, & Wahlund, 2005), and previous studies have shown that
+fMRI of word production is feasible and can yield good results (e.g.,
+Birn, Cox, & Bandettini, 2004; Munhall, 2001). For the confrontation
+naming tasks, two sets of 60 black and white line drawing pictures were
+used, one for noun naming and one for verb naming. These two stimulus sets were used for all participants and all scanning sessions (see
+Appendix B for a complete list). For noun naming, pictures from the
+Boston Naming Test (Kaplan, Goodglass, & Weintraub, 2001) were used,
+and for verb naming, pictures were chosen from the International Picture Naming Project (Szekely et al., 2004). Word frequency of items was
+balanced across noun naming and verb naming based on information in
+the SUBTLEXUS corpus (Brysbaert & New, 2009); there was no
+
+2.2. Procedure
+2.2.1. Cognitive-linguistic test battery
+The Scales of Cognitive and Communicative Ability for
+Neurorehabilitation (SCCAN; Milman & Holland, 2003) was administered to measure general cognitive and linguistic abilities in 8 different
+areas including reading, writing, verbal comprehension, oral expression, orientation, attention, memory and problem solving. The Vocabulary Assessment Scales (Gerhardstein-Nader, 2013), both the Expressive and Receptive subtests, were given to assess expressive naming
+skills and receptive vocabulary abilities, respectively, for different parts
+of speech, including verbs and nouns. To assess immediate and delayed
+33
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+Table 1
+Demographic information of each participant.
+Participant
+
+Diagnosis
+
+Age
+
+Education
+
+Sex
+
+MMSE-2 raw score (max. = 30)
+
+GDS raw score (max. = 15)
+
+C1
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+C9
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+64
+64
+83
+66
+67
+67
+68
+68
+66
+
+12
+14
+17
+16
+18
+18
+16
+18
+16
+
+M
+F
+M
+M
+F
+F
+F
+F
+F
+
+28
+30
+29
+28
+30
+30
+28
+30
+27
+
+0
+0
+0
+0
+0
+0
+1
+0
+0
+
+70.57 (7.55)
+
+16.11 (2.69)
+
+3 male, 6 female
+
+28.89 (1.09)
+
+0.11 (0.33)
+
+77
+67
+65
+69
+74
+82
+60
+
+18
+16
+14
+16
+18
+20
+12
+
+F
+F
+F
+F
+M
+M
+F
+
+29
+22
+24
+28
+23
+23
+16
+
+2
+3
+6
+0
+2
+3
+4
+
+68.11 (5.78)
+
+16.29 (2.03)
+
+2 male, 5 female
+
+23.57 (4.28)
+
+2.85 (1.86)
+
+Control group
+mean (SD)
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+Dementia group
+mean (SD)
+
+AD
+nfvPPA
+AD
+AD
+VD
+AD
+AD
+
+Note. AD = Alzheimer's disease, GDS = Geriatric Depression Scale, MMSE-2 = Mini Mental Statue Exam-2, nfvPPA = non-fluent variant primary progressive aphasia,
+SD = standard deviation, VD = vascular dementia.
+
+2.3.1. Single subject analysis
+To detect brain areas activated by the confrontation naming tasks,
+multiple regression and general linear tests were performed on each
+subject's data, with motion parameters used as additional regressors.
+All SPM(t) maps were thresholded at the voxelwise level of p < .001,
+uncorrected, unless otherwise noted. To quantify the amount of variability across sessions within each individual, a measure of cluster
+overlap ratio, Dice coefficients (Dice, 1945; Gorgolewski, Storkey,
+Bastin, & Pernet, 2012; Rombouts et al., 1997), was computed for each
+naming condition contrast (i.e., T1 vs. T2; T1 vs. T3; T2 vs. T3 for noun
+naming and verb naming, respectively). Suprathreshold activation
+maps (p < .001, uncorrected) were used to calculate the Dice coefficients for all participants. Additionally, Pearson correlation coefficients
+were calculated for pairs of time points - [T1 and T2], [T1 and T3], and
+[T2 and T3] - for each participant per naming task, using: (a) the
+weighted sum of beta values (i.e., effect sizes) obtained from contrast
+images, and (b) the t-statistics obtained from SPM(t) maps. The purpose
+of these calculations was to delineate whether using effect sizes, as
+opposed to using t-statistics yielded substantial differences in quantifying the reliability of brain activation (Gorgolewski, Storkey, Bastin,
+Whittle, & Pernet, 2013; Miller et al., 2002, 2009; Wagner et al., 2005).
+The result of this comparison should inform us about (a) how reliable
+the observed effect sizes remained over time, and (b) how reliable the tstatistics remained over time based on the contrasts of interests (i.e.,
+[noun naming > rest] and [verb naming > rest] at T1, T2, and T3).
+
+significant difference between the lists (p > .05), with average word
+frequency below 30 for each list.
+At the very beginning and end of the confrontation naming paradigms, participants were shown a fixation cross in the middle of the
+screen for 30 s, respectively. After the 30-second period at the beginning, each stimulus was shown for 5 s alternating with the resting
+condition. Viewing a fixation cross served as the resting condition for
+statistical analyses (Binder, 2012). Participants were instructed to name
+each target picture within 5 s and rest when the target picture disappeared. The order of stimulus presentation was randomized across
+sessions and participants. The inter-stimulus interval (i.e., resting condition) was randomly jittered from 5 to 15 s, the average being 10 s to
+optimally detect BOLD signal changes (Birn et al., 2004).
+
+2.3. fMRI data acquisition and analysis
+fMRI scanning was conducted on a Siemens 3 T TIM Trio scanner
+with a 32-channel radio frequency head coil located in the Imaging
+Research Facility (IRF) at Indiana University. In each session, functional
+images were obtained in 38 oblique axial slices with 3 mm thickness
+(TR = 2,500 ms
+and
+TE = 27 ms,
+flip
+angle = 70,
+matrix
+size = 64 x 64, FOV = 240 mm) using a gradient echo planar imaging
+(EPI) sequence in an interleaved manner. All functional images were
+preprocessed using SPM12 (Wellcome Department of Imaging
+Neuroscience), including steps of slice timing correction, motion correction (realignment), spatial normalization, coregistration using the
+MNI template, and smoothing (FWHM = 6 mm). The processed images
+were entered into the statistical analysis based on the general linear
+model and the Gaussian random field theory, which are implemented in
+the SPM package. A regressor was built for the noun naming, verb
+naming, and resting conditions. A 3D structural image was also taken in
+the middle of the functional runs using a sagittal T1-weighted sequence
+with an MPRAGE sequence (TR = 1,800 ms, TE = 2. 7 ms, flip
+angle = 9, matrix size = 256 x 256, FOV = 256 mm, 192 sagittal
+slices, slice thickness 1 mm). Near the end of the data collection, the
+MRI scanner went through an upgrade from Tim Trio to Magnetom
+Prisma, and two participants with dementia were scanned with the
+upgraded scanner for all of their three MRI sessions. The magnet and
+the scan parameters for these two participants, however, were the same
+as those for all of the other participants.
+
+2.3.2. Random effects analysis
+One sample t-tests were performed to obtain whole brain activation
+patterns for each group per each session, using the single subject contrast images as input data. The thresholded maps (p < 0.001) for each
+of the two confrontation naming paradigms were overlaid onto a template brain for each group. Also the activation maps from three time
+points were overlaid together per task for visual comparison. Different
+colors were used to note different activation patterns per session: red
+for session 1, green for session 2, and blue for session 3. In addition,
+paired t-tests were calculated for each group between T1 and T2, and
+between T1 and T3 to determine changes in the activation patterns over
+time for each noun and verb naming paradigm, with the voxels thresholded at p < .001, uncorrected. Lastly, a 2 by 2 by 2 repeated
+measures ANOVA was conducted feeding the [T2-T1] and [T3-T1]
+34
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+(MMSE-2, SCCAN total), and most language, memory, and executive
+function measures (see Supplementary Table 1 in Appendix C). To determine whether there was any difference in the test scores obtained at
+T1 versus T3 in each group, paired t-tests were administered. The
+control group presented with a significant increase on one verbal
+memory measure (i.e., TOMAL-SE Memory for Stories subtest) between
+T1 (M = 23.11, SD = 8.49) and T3 (M = 26.33, SD = 8.59), and this
+difference exceeded the standard error of measurement (SEM) for that
+subtest (SEM = 1). The dementia group showed a significant decrease
+on the SCCAN Writing subtest (M = 6.29, SD = 0.95 at T1; M = 5.43,
+SD = 1.39 at T3; SEM = 0.5), and a significant increase on the SCCAN
+Problem Solving subtest (M = 17, SD = 4.03 at T1; M = 20, SD = 1.92
+at T3; SEM = 1.66), TOMAL-SE Memory For Stories (M = 9.14,
+SD = 7.58 at T1; M = 12.14, SD = 8.53 at T3; SEM = 1) and Memory
+For Stories Delayed subtests (M = 7.71, SD = 7.65 at T1; M = 11.14,
+SD = 8.86 at T3; SEM = 1), and the CTONI-2 Pictorial Analogies
+(M = 11.86, SD = 4.18 at T1; M = 8.14, SD = 4.53 at T3; SEM = 1).
+All these observed differences over time in the dementia group exceeded the SEM of each test.
+
+contrasts for the noun and verb naming paradigms from each participant in the two groups into the model. This analysis allowed examining
+whether the amount of activation variability or changes was significantly different between: (a) the two groups (dementia and
+healthy), (b) inter-scan intervals (within-subject factor; [T2-T1] = one
+week; and [T3-T1] = about two months), and (c) the two naming
+paradigms (noun naming and verb naming). All maps were uploaded to
+Neurovault.org (https://neurovault.org/collections/4669/).
+2.3.3. ICC using ROIs
+The SPM(t) contrasts of interest were compared for all of the three
+sessions. Thus, average beta values were extracted from regions of interests (ROIs) using the MarsBar toolbox for each group and each
+condition during the three sessions. A Shrout-Fleiss two-way single
+measure absolute agreement random ICC model (2,1) was also performed as the measure of test-retest comparison (Clement & Belleville,
+2009). The average beta values of each ROI were used for each subject
+and for each session with the unit of observation being the subject. Six
+ROIs were a priori defined anatomically using the AAL ROI library
+(Tzourio-Mazoyer et al., 2002) through MarsBar. These ROIs included
+the following areas: (a) LH anterior cingulate cortex, (b) LH pars triangularis, (c) LH pars opercularis, (d) LH precentral gyrus, (e) LH
+postcentral gyrus, and (f) LH superior temporal gyrus. The entire portion of each of these regions was included to calculate the average beta
+values as these regions have been previously associated with naming
+performance or treatment-induced activation changes in the dementia
+population (Beeson et al., 2011; Dressel et al., 2010; Jokel et al., 2016;
+Marcotte & Ansaldo, 2010).
+
+3.1.2. In-scanner naming tasks
+Repeated measures, two-way ANOVAs were conducted to assess the
+main effects of group (between-subject factor), time (within-subject
+factor), and the interaction between group and time; group included
+two levels (dementia and control) and time included three levels (T1,
+T2, and T3). For each of the confrontation naming paradigms, naming
+accuracy scores (i.e., percent correct responses) and reaction times (i.e.,
+seconds) were entered as dependent variables (see Table 2 and
+Supplementary Figs. 1 and 2). In terms of accuracy, there were statistically significant effects of time on noun naming, F(2, 28) = 11.84,
+p < .001, with higher accuracy at T2 than T1 and at T3 than T1, and
+on verb naming, F(2, 28) = 5.3, p = .011, with higher accuracy at T2
+than T1. Group effects were statistically significant for both noun
+naming, F(1, 14) = 6.24, p = .026, and verb naming, F(1, 14) = 13.95,
+p = .002, with higher naming accuracy for the control versus dementia
+group.
+There was a statistically significant effect of time on verb naming
+reaction time, F(2, 28) = 3.74, p = .036, with faster reaction times at
+T2 than T1, but no effect of time on noun naming reaction times, F(2,
+28) = 1.11, p = .343. The group effect was significant for noun naming
+reaction times, F(1,14) = 5.49, p = .034, and verb naming reaction
+times, F(1,14) = 15.24, p = .002, with faster reaction times for the
+control group than the dementia group for both confrontation naming
+tasks. The interaction between time and group was not statistically
+significant for any confrontation naming dependent variable.
+To determine if the naming score differences between two time
+points (i.e., T2-T1 and T3-T1) fell within an acceptable range, equivalence tests were conducted for each group and naming task. The TOST
+results (see Table 3) indicated that the differences in naming scores
+were within the acceptable range (i.e., significantly within the
+
+2.4. In-scanner behavioral data collection and analysis
+Participants' overt responses were recorded in the scanner using an
+in-house MR-compatible microphone system while they were performing the confrontation naming tasks. The verbatim naming response, percent correct responses (i.e., number of correct responses
+divided by 60), and reaction time to each picture stimulus were transcribed and recorded. Repeated measures ANOVAs were used to compare the groups over the three sessions. In addition, to determine
+whether the observed differences in the naming scores were large enough to be considered significant differences or whether the differences
+were within an acceptable range of variation, equivalence tests (Lakens,
+2017; Lakens, Scheel, & Isager, 2018; Pernet, 2017), namely two onesided tests (TOST) for dependent samples, were conducted for each
+time pair per group per naming category (i.e., T1-T2 noun, T1-T3 noun,
+T2-T3 noun, T1-T2 verb, T1-T3 verb, T2-T3 verb). If the null hypotheses
+for the TOSTs are rejected in the equivalence tests, one can conclude
+that the differences are within the acceptable variation (i.e., equivalence bounds). The standard error of measurement (SEM) from Vocabulary Assessment Scales (VAS; Gerhardstein-Nader, 2013) and from the
+Test of Adolescent and Adult Word Finding - Second Edition (TAAWF-2;
+German, 2016) were used to set the equivalence boundaries (i.e., lower
+and upper bounds) given that these word retrieval measures retain similar constructs (e.g., assess confrontation naming of both nouns and
+verbs) and exhibit relatively strong psychometric reliability and validity as word retrieval measures. The SEM for the VAS and TAWWF-2
+were 4.2 (for adults aged 61-70) and 5 (for older adults aged 60-80),
+respectively; thus, the average between the two SEMs (i.e., raw score of
+4.6) was used for each bound (i.e., -4.6 and 4.6).
+
+Table 2
+Accuracy and reaction time for confrontation naming tasks.
+
+3. Results
+
+Reaction time (seconds)
+
+Control
+
+Dementia
+
+Control
+
+Dementia
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Noun naming
+
+T1
+T2
+T3
+
+88.89
+90.89
+93.33
+
+5.37
+6.09
+2.06
+
+58.29
+66.71
+61.71
+
+22.30
+21.76
+26.20
+
+1.69
+1.59
+1.64
+
+0.24
+0.19
+0.20
+
+2.09
+2.08
+2.04
+
+0.42
+0.53
+0.60
+
+Verb naming
+
+T1
+T2
+T3
+
+87.00
+91.22
+93.78
+
+8.59
+8.53
+6.32
+
+64.14
+69.00
+68.71
+
+28.72
+25.52
+28.01
+
+1.80
+1.68
+1.73
+
+0.17
+0.14
+0.20
+
+2.27
+2.20
+2.28
+
+0.35
+0.31
+0.43
+
+3.1. Behavioral results
+3.1.1. Cognitive and language assessments
+The dementia group scored significantly (i.e., p < .05) more poorly
+than the control group at T1 on general cognitive-linguistic measures
+
+Accuracy (% correct)
+
+Note. T1 = Time 1, T2 = Time 2, T3 = Time 3, SD = standard deviation.
+35
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+Table 3
+Equivalence test results.
+Group
+
+Control (df = 8)
+
+Statistics
+
+TOST1
+TOST2
+
+Noun naming
+T1-T2
+
+T2-T3
+
+T1-T3
+
+T1-T2
+
+T2-T3
+
+T1-T3
+
+t
+p
+t
+p
+
+-3.554
+0.004
+8.511
+0.000
+Yes
+
+-3.166
+0.007
+8.532
+0.000
+Yes
+
+-0.750
+0.237
+10.747
+0.000
+No
+
+-7.503
+0
+11.671
+0
+Yes
+
+-5.668
+0.000
+8.387
+0.000
+Yes
+
+-3.846
+0.002
+9.212
+0.000
+Yes
+
+t
+p
+t
+p
+
+-0.468
+0.328
+2.792
+0.016
+No
+
+-1.642
+0.076
+1.642
+0.076
+No
+
+-0.457
+0.332
+2.731
+0.017
+No
+
+0.622
+0.722
+4.710
+0.002
+No
+
+-2.761
+0.016
+0.521
+0.311
+No
+
+-0.625
+0.278
+2.678
+0.018
+No
+
+Within equivalent bounds?
+Dementia (df = 6)
+
+TOST1
+TOST2
+
+Verb naming
+
+Within equivalent bounds?
+
+Note. df = degrees of freedom, TOST = two one-sided test.
+
+significant difference among the observed overlap ratios in the context
+of group, grammatical category, and time interval. The result revealed
+that there were no significant effects or interactions of these variables
+(at p < .05). Thus the pathological process of dementia did not seem to
+necessarily alter the level of reproducibility of brain activation patterns
+for the current word retrieval paradigms, especially when it was
+concerned with the spatial distribution patterns as opposed to the
+strength of signals.
+
+equivalent bounds) in all comparisons for the control participants except for the T1-T3 noun naming difference. In contrast, the TOSTs for
+the dementia group indicated that the effect sizes for all comparisons
+were not significantly within the equivalent bounds; that is, for the
+dementia group, the naming score differences between two time points
+may not be within the acceptable range, showing a clinically significant
+magnitude of change.
+3.2. fMRI results
+
+3.2.1.3. Pearson correlation coefficients. The effect sizes obtained from
+contrast images of each time point were compared against each other
+(T1 vs. T2, T1 vs. T3, and T2 vs. T3) per participant for each naming
+paradigm to compute Pearson correlation coefficients. The same
+computation procedure was also performed on the t-statistics values
+obtained from SPM(t) images. Means and standard deviations of the
+Pearson correlation coefficients for each group per naming paradigm
+averaged across time comparisons are presented in Table 5; the
+coefficients for individual participants are presented in Table 2 of the
+supplementary material. Pearson correlation coefficients for all
+comparisons were statistically significant at p < .001. The mean
+correlation coefficients for contrast maps with respect to noun
+naming was 0.558 (SD = 0.310) in the control group, and 0.471
+(SD = 0.258) in the dementia group. On the other hand, the mean
+correlation coefficients for SPM(t) maps were 0.559 (SD = 0.305) for
+the control group and 0.452 (SD = 0.285) for the dementia group,
+suggesting that there was only a marginal difference between the
+coefficients computed using contrast images as opposed to those
+computed using SPM(t) maps. Consistent with these findings in the
+noun naming paradigm, the same pattern of results was observed in the
+verb naming paradigm as well (see Table 5). That is, the conversion of
+the sum of the weighted beta values to t-statistics had nominal effects
+on measuring reliability.
+
+3.2.1. Single subject analysis
+3.2.1.1. Visual inspection. For visual inspection of variability,
+individual whole brain activation patterns were displayed using
+maximum intensity projections (MIPs) for each naming task (i.e.,
+noun and verb naming) and session (i.e., T1, T2, T3; see
+Supplementary Figs. 3 and 4 for examples). Confrontation naming
+paradigms were thresholded at p < .05, corrected for family-wise error
+(FWE). There were no voxels that survived significance testing in a few
+occasions (e.g., the verb naming task at T2 for participants C1 and C3;
+p < .05, FWE corrected). Visual observation of these activation maps
+suggested that the activation patterns were not necessarily the same
+within individuals across repeated sessions for each paradigm; there
+was also variation in the spatial distribution patterns across individuals.
+Generally, control participants compared to those with dementia
+showed more robust and widely distributed bilateral activations for
+both naming paradigms. The MIPs of some control and dementia
+participants indicated substantial variability across sessions (e.g., D5's
+noun naming at T1 versus T2; C2's noun naming at T1 versus T2; C5's
+verb naming at T1 versus T2).
+3.2.1.2. Dice coefficients. The Dice overlap ratios are presented in
+Table 4 for each participant along with group means and standard
+deviations. These ratios reveal the extent of overlapping areas for the
+suprathresholded voxels (p < .001, uncorrected). When averaged
+across the three time comparisons (i.e., T1 vs T2, T1 vs. T3, and T2
+vs. T3), the mean overlap ratio for noun naming was higher for the
+control group (M = 0.623, SD = 0.154, ranging from 0.286 to 0.832)
+than the dementia group (M = 0.433, SD = 0.17, ranging from 0.136 to
+0.679). Similarly, the average overlap ratio for verb naming was higher
+for the control group (M = 0.493, SD = 0.244, ranging from 0.024 to
+0.818) than the dementia group (M = 0.463, SD = 0.206, ranging from
+0.140 to 0.719). The observed group-level overlap ratios
+(approximately 40-60% agreement between sessions) seem
+acceptable, but at the individual level, the results suggested that
+performing the same word retrieval procedures in scanner does not
+necessarily yield the same spatial distribution of brain activation
+patterns in some individual cases (e.g., C1 and C3's verb naming),
+converging with the evidence from above visual inspection. A repeated
+measures ANOVA was further conducted to determine if there was a
+
+3.2.2. Random effects analysis
+3.2.2.1. Overlay of activation maps across sessions per group. Activation
+maps from T1, T2, and T3 were overlaid on a template brain per group
+to compare activation patterns for each naming task across the three
+sessions. Visual inspection of the images for both confrontation naming
+paradigms (Fig. 1; left panel for noun naming and right panel for verb
+naming) indicated that for the control group there were more common
+(i.e., white) areas across sessions than for the dementia group; this
+finding suggested that the control group exhibited more consistent
+spatial distribution of activation patterns during confrontation naming
+across sessions than the dementia group.
+3.2.2.2. Direct comparison of naming responses at T1 and T3. As previous
+longitudinal treatment studies compared activation patterns at pretreatment and post-treatment for noun naming (e.g., Dressel et al.,
+2010), activation patterns for our word retrieval paradigms at T1 and
+36
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+Table 4
+Dice overlap ratios for each participant.
+Noun naming
+
+Verb naming
+
+T1 vs. T2
+
+T1 vs. T3
+
+T2 vs. T3
+
+T1 vs. T2
+
+T1 vs. T3
+
+T2 vs. T3
+
+C1
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+C9
+
+0.717
+0.357
+0.733
+0.345
+0.558
+0.540
+0.757
+0.721
+0.631
+
+0.716
+0.360
+0.624
+0.427
+0.808
+0.730
+0.673
+0.728
+0.651
+
+0.747
+0.832
+0.689
+0.286
+0.589
+0.488
+0.712
+0.788
+0.602
+
+0.043
+0.516
+0.028
+0.735
+0.335
+0.352
+0.614
+0.424
+0.589
+
+0.579
+0.623
+0.792
+0.623
+0.384
+0.673
+0.619
+0.567
+0.560
+
+0.024
+0.818
+0.031
+0.586
+0.793
+0.298
+0.762
+0.310
+0.628
+
+Control M
+
+0.596
+
+0.635
+
+0.637
+
+0.404
+
+0.602
+
+0.472
+
+Control SD
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+
+0.160
+0.676
+0.136
+0.390
+0.314
+0.301
+0.397
+0.604
+
+0.150
+0.635
+0.471
+0.314
+0.499
+0.510
+0.494
+0.515
+
+0.170
+0.655
+0.156
+0.181
+0.235
+0.439
+0.491
+0.679
+
+0.240
+0.390
+0.143
+0.652
+0.661
+0.256
+0.508
+0.604
+
+0.110
+0.664
+0.667
+0.140
+0.560
+0.381
+0.471
+0.572
+
+0.320
+0.414
+0.191
+0.151
+0.711
+0.232
+0.641
+0.719
+
+Dementia M
+
+0.400
+
+0.490
+
+0.410
+
+0.460
+
+0.490
+
+0.440
+
+Dementia SD
+
+0.180
+
+0.090
+
+0.220
+
+0.200
+
+0.190
+
+0.250
+
+Note. M = mean, SD = standard deviation.
+
+Noun naming. Noun naming at T1 minus T3 resulted in several small
+activation clusters including the RH MFG and IFG areas in the control
+group, and RH superior temporal gyrus and cingulate gyrus in the dementia group; there was greater activation in these regions at T1
+compared to T3. Noun naming at T3 minus T1 also produced small
+activation clusters in the RH putamen and RH insula areas for both the
+control and dementia groups. These findings indicated that for both
+groups, there were changes in the brain activation patterns over two
+months without any intervention or medication changes.
+Verb naming. For T1 minus T3, neither group showed significant
+activation changes. In contrast, both groups did exhibit more activation
+at T3 versus T1 in a number of brain regions including LH postcentral
+gyrus, bilateral IPL, bilateral supramarginal gyrus, RH STG, RH MCC,
+and RH insula. Compared to T1, control participants at T3 demonstrated more activation in LH insula and bilateral globus pallidus, putamen, and lentiform nucleus. The dementia group showed more activation at T3 versus T1 in the following areas: RH MFG, RH SFG, RH IFG,
+
+Table 5
+Pearson correlation coefficients averaged for each group and naming task to
+compare the reliability of contras images (Con) and SPM(t) maps.
+Noun naming
+
+Control (M, SD)
+Dementia (M, SD)
+
+Verb naming
+
+Con
+
+SPM(t)
+
+Con
+
+SPM(t)
+
+0.558
+(0.310)
+0.471
+(0.258)
+
+0.559
+(0.305)
+0.452
+(0.285)
+
+0.590
+(0.274)
+0.490
+(0.304)
+
+0.587 (0.288)
+0.456 (0.328)
+
+T3 were first compared for control participants and dementia
+participants using paired t-tests, given the similarity of our time
+interval (i.e., approximately 2 months) with that of previous
+longitudinal studies. The comparisons were thresholded at p < .001,
+uncorrected.
+
+Fig. 1. Overlaid images for noun naming (left panel) and verb naming (right panel) at T1, T2, and T3 for the control (top) and dementia (bottom) group. Additive
+color mixing was employed to the overlay mechanism such that: (a) yellow was presented if red (T1) and green (T2) were overlaid together, (b) magenta represented
+the combination of blue (T3) and red (T1), (c) cyan represented the combination of green (T2) and blue (T3), and (d) white represented the combination of all three
+primary colors (which again represented T1, T2, and T3). Therefore, red = activation for T1, green = activation for T2, blue = activation for T3, yellow = common
+activation for T1 and T2, magenta = common activation for T1 and T3, cyan = common activation for T2 and T3, white = common activation for T1, T2, and T3.
+(For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+37
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+analysis indicated that these areas showed more variability in the
+shorter inter-scan interval (i.e., T2-T1 = 1 week) than in the longer
+inter-scan interval (i.e., T3-T1 = 2 months). The main effect of
+grammatical category was observed in both hemispheres as well,
+including LH superior medial frontal gyrus, insula, IFG, SPL, IPL,
+ACC, PCC, and precuneus, and RH superior medial frontal gyrus, SFG,
+ACC, MCC, and supplementary motor area. Post-hoc analyses revealed
+that of these areas, noun naming exhibited more neural variability over
+time in LH precuneus, PCC, insula, IFG, IPL, SPL, and RH MCC. The
+other areas showed more variability over time during verb naming than
+noun naming. There was a significant interaction between group and
+grammatical category in the LH insula, superior medial frontal gyrus,
+ACC, MFG, and RH precentral and postcentral gyrus, Rolandic
+operculum, IFG, MCC, ACC, precuneus, and calcarine, indicating that
+category-related activation variability differed between groups. Posthoc analysis suggested that all of these areas showed more variability in
+the control participants' noun naming compared to their verb naming as
+opposed to the variability for noun naming and verb naming in the
+dementia
+group
+(i.e.,
+[Control
+noun
+variability > verb
+variability] > [Dementia noun variability > verb variability]).
+
+bilateral supplementary motor area (SMA), bilateral precentral gyrus,
+RH Rolandic operculum, RH postcentral gyrus, LH SPL, bilateral IPL,
+bilateral angular, bilateral precuneus, bilateral STG, bilateral MTG, RH
+Heschl's gyrus, bilateral cuneus, RH SOG, bilateral MOG, RH calcarine,
+RH insula, bilateral ACC, and bilateral PCC.
+3.2.2.3. Direct comparison of naming responses at T1 and T2. Activation
+patterns for our word retrieval paradigms at T1 and T2 were also
+compared for both groups using paired t-tests. The comparisons were
+thresholded at p < .001, uncorrected. Consistent with the behavioral
+changes in the naming accuracy and reaction times discussed above,
+there were significant differences observed in the brain activation
+patterns of both groups.
+Noun naming. Noun naming at T1 minus T2 resulted in multiple
+small activation clusters in the control group, including LH insula, LH
+thalamus, RH IFG, RH STG, RH ACC, and RH MCC. For the dementia
+group, T2 compared to T1 showed small activation clusters in the LH
+supplementary motor and RH postcentral areas. Noun naming at T2
+minus T1 yielded small activation clusters in bilateral STG and RH insula areas in the control group, and bilateral Rolandic operculum, LH
+supramarginal gyrus, and RH ACC in the dementia group.
+Verb naming. Verb naming at T1 minus T2 indicated that there were
+no suprathreshold voxels in the control group, whereas the dementia
+group exhibited small activations in the RH IFG and LH supplementary
+motor area. Verb naming at T2 minus T1 revealed that the control
+group showed many small activation clusters in: LH PCC, LH precuneus,
+bilateral angular gyrus, and bilateral MCG. In contrast, there were no
+suprathreshold voxels in the dementia group.
+
+3.2.3. Test-retest reliability of fMRI activation examined by ICCs
+Given that thresholded activation maps can exaggerate small differences between maps because of the nonlinearity of the thresholding
+operation (Aron et al., 2006; Clement & Belleville, 2009), a series of
+two-way, random-effect models was used to yield ICCs (2,1) on an ROI
+basis to compare test-retest reliability across regions and tasks (see
+Table 7). Both groups exhibited significant ICCs for verb naming in the
+following areas: (a) LH pars opercularis, (b) LH postcentral gyrus, (c)
+LH precentral gyrus, and (d) LH STG. Only the control group showed
+significant ICCs in the pars triangularis for verb naming. On the contrary, there was no single region that demonstrated significant ICCs for
+noun naming in either group.
+To ensure that differences observed between sessions were not due
+to changes in the amount of head motion across sessions, further analysis was conducted using six motion parameters obtained from the
+preprocessing step for head motion correction. Repeated measures
+ANOVAs were computed with time (T1, T2, and T3) as the withinsubject factor and group (dementia and control) as the between-subject
+factor for each of the six dependent variables for head motion (i.e.,
+translational displacements x, y, and z; rotational displacements pitch,
+roll, and yaw). Results indicated that there were no effects of group F(1,
+14) = 0.042, p = .84, time F(2, 28) = 0.22, p = .80, or interaction of
+
+3.2.2.4. Comparison of variability across groups, inter-scan intervals, and
+naming paradigms. Repeated measures ANOVA results (p < 0.005,
+k = 20) revealed main effects of group, inter-scan interval, and
+grammatical category, suggesting that all of these three independent
+variables contributed to the amount of observed neural variability (see
+Fig. 2 and Table 6). Therefore, we further conducted post-hoc t-tests to
+delineate the directionality of these observed effects. The spatial
+distribution of the activation signals related to the group effects
+involved both RH and LH regions, including bilateral IFG, insula,
+supramarginal gyrus, post- and precentral gyrus, Rolandic operculum,
+MCC, and LH STG, calcarine, and precuneus. Post-hoc analyses
+indicated that healthy older adults activated all these regions more
+strongly over time than the dementia group. The main effect of interscan interval was found in the RH ACC and SFG areas, and the post-hoc
+
+(a) Main effects of group
+
+(c) Main effects of category
+
+(b) Main effects of inter-scan interval
+
+F-value
+
+(d) Interaction between group and category
+
+F-value
+
+F-value
+
+F-value
+
+Fig. 2. SPM full factorial ANOVA results. Activation patterns are overlaid on a template brain and all maps were thresholded at p = .005, k = 20. The planes in (b),
+(c), and (d) were chosen to exhibit the activated regions with global maximum.
+38
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+Table 6
+Full factorial ANOVA results (group by inter-scan interval by grammatical category).
+Cluster Size
+
+Overlap of cluster with anatomical region(s)
+
+Peak MNI coordinate
+
+Fmax
+
+x
+
+y
+
+z
+
+Main effect of group
+362
+Rolandic_Oper_R, SupraMarginal_R, Insula_R, Frontal_Inf_Oper_R, Postcentral_R
+76
+Rolandic_Oper_R, Precentral_R, Postcentral_R, Frontal_Inf_Oper_R
+66
+Temporal_Sup_L, Postcentral_L, SupraMarginal_L, Rolandic_Oper_L
+58
+Frontal_Inf_Oper_L, Insula_L, Rolandic_Oper_L
+50
+Calcarine_L,
+49
+Cingulum_Mid_L
+42
+Calcarine_L, Precuneus_L
+33
+Cingulum_Mid_R
+20
+Precentral_L, Postcentral_L, Rolandic_Oper_L
+
+48
+60
+-58
+-42
+-22
+-6
+-30
+8
+-56
+
+-8
+-2
+-22
+14
+-76
+-12
+-66
+-16
+0
+
+14
+22
+14
+2
+6
+32
+6
+30
+18
+
+21.847
+16.121
+16.851
+15.654
+13.462
+14.966
+12.468
+23.899
+13.502
+
+Main effect of inter-scan interval
+27
+Cingulum_Ant_R, Frontal_Sup_R
+
+10
+
+40
+
+26
+
+13.213
+
+Main effect of category
+53
+Frontal_Sup_Medial_R, Cingulum_Mid_R, Frontal_Sup_R, Supp_Motor_Area_R, Frontal_Sup_Medial_L
+45
+Precuneus_L, Cingulum_Post_L
+28
+Cingulum_Mid_R, Frontal_Sup_Medial_L, Cingulum_Ant_L, Cingulum_Ant_R
+26
+Insula_L, Frontal_Inf_Oper_L
+25
+Parietal_Sup_L, Parietal_Inf_L
+22
+Cingulum_Mid_R
+
+6
+-16
+4
+-40
+-22
+14
+
+24
+-46
+32
+12
+-52
+14
+
+42
+14
+30
+8
+50
+36
+
+19.277
+15.155
+14.701
+13.943
+14.502
+16.575
+
+Interaction of group and category
+131
+Precentral_R, Postcentral_R, Frontal_Inf_Oper_R
+38
+Cingulum_Mid_R, Cingulum_Ant_R
+27
+Precuneus_R, Calcarine_R
+25
+Insula_L
+24
+Frontal_Sup_Medial_L, Cingulum_Ant_L
+23
+Frontal_Mid_L
+21
+Rolandic_Oper_R
+20
+Cingulum_Ant_R
+
+56
+12
+10
+-28
+-14
+-28
+46
+10
+
+4
+34
+-56
+18
+42
+18
+-20
+32
+
+22
+28
+14
+12
+18
+30
+18
+16
+
+35.424
+18.971
+11.05
+11.990
+15.775
+14.197
+12.608
+11.414
+
+Note. The table provides the anatomical localization of each cluster and lists the overlap with cytoarchitectonically defined areas. References to cytoarchitectonic
+maps are based on AAL. Fmax = F value at local maximum.
+
+over a two-month period in the absence of cognitive-linguistic intervention, participants with and without dementia presented different
+activation patterns at the individual and group levels, albeit the extent
+of variability was different across individuals, groups, and word retrieval paradigms. Also, based on a quantitative measure of test-retest
+reliability (i.e., ICCs), noun and verb word retrieval paradigms showed
+different degrees of reliability; reliability measured by ICCs additionally
+varied across groups and different brain regions.
+
+Table 7
+ICC results for six ROIs across naming tasks.
+Control group
+
+Dementia group
+
+Region
+
+Noun naming
+
+Verb naming
+
+Noun naming
+
+Verb naming
+
+ACC
+ParsOp
+ParsTri
+Postcent
+Precent
+STG
+
+-0.244
+0.198
+0.402*
+0.301
+0.227
+0.303
+
+0.269
+0.514**
+0.571**
+0.575**
+0.444*
+0.468*
+
+-0.151
+-0.088
+0.212
+0.499*
+0.046
+0.465*
+
+0.348
+0.443*
+0.328
+0.632**
+0.542*
+0.752***
+
+4.1. Variability observed in the brain activation patterns
+
+Note. ACC = anterior cingulate cortex, ParsOp = pars opercularis,
+ParsTri = pars triangularis, Postcent = postcentral gyrus, Precent = precentral
+gyrus, STG = superior temporal gyrus.
+* p < .05.
+** p < .01.
+*** p < .001.
+
+Visual inspection and use of Dice overlap ratios for brain activation
+maps from multiple time points (i.e., T1, T2, and T3) suggested that the
+activation patterns in terms of intensity and spatial distribution were
+not necessarily the same within individuals throughout repeated sessions for each word retrieval paradigm; variation in spatial distribution
+was also demonstrated across individuals. Whereas there were increasingly more activated areas observed in some participants (e.g.,
+C1's noun naming at T1 and T2; D3's noun naming at T1 and T2), other
+participants showed fewer or smaller activation regions (e.g., C4's noun
+naming at T1 and T2; D5's noun naming at T1 and T2) over time, although the general activation patterns looked grossly similar within
+individuals in both groups. Such variability within and across individuals and scanning sessions are consistent with preceding investigations that included visual observation of individual participants'
+activation maps to examine variability of fMRI signals for cognitive or
+language paradigms in the healthy young adult population (Chen &
+Small, 2007; Mahowald & Fedorenko, 2016; McGonigle et al., 2000;
+Rutten et al., 2002; Wei et al., 2004). As we are not aware of prior
+research including visual inspection of activation maps for healthy
+older adults or individuals with dementia, the current findings uniquely
+extend this literature. Moreover, the test-retest reliability quantified by
+
+time and group F(2, 28) = 0.40, p = .67 for motion dependent variables. Therefore, the amount of head motion did not significantly vary
+across sessions, and the fMRI activation variability observed in the
+current study did not stem from head motion artifacts.
+4. Discussion
+The purpose of this study was to examine the test-retest reliability of
+confrontation naming paradigms (i.e., noun and verb naming) used in
+fMRI for individuals with dementia and typical-aging adults. Generally,
+the findings suggested that one-time fMRI scanning might inadequately
+represent an individual's typical brain activation patterns to monitor
+longitudinal changes in dementia or in typical aging. That is, when the
+same fMRI naming measures were repeatedly administered three times
+39
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+STG) were affected in our study by repeated fMRI measurements in
+both dementia and healthy aging participants.
+The practice effects documented thus far in the literature have also
+been found to persist for a relatively long time in healthy populations.
+For example, Kurland et al. (2018) examined practice effects for word
+retrieval processes in 10 healthy, older adults. These researchers had
+their participants practice naming a part of a set of action and object
+word stimuli several times before they were scanned, and repeated the
+tasks and stimulus items twice within an MRI session; they also iterated
+these same MRI procedures after a month. Item-specific practice effects
+(practiced > unpracticed items) were seen mainly in the bilateral
+precuneus and LH IPL, and the participants showed greater activation
+in the RH parahippocampal gyrus during session 1 compared to session
+2 when naming practiced versus unpracticed items. With a sample of 10
+healthy young adults, Meister et al. (2005) similarly reported that decreased brain activation in LH IFG and ITG was seen by the effect of
+naming repetition over a long-term period (i.e., 6 weeks). It should be
+noted that the current study extended these previous findings regarding
+long-term maintenance of practice effects and demonstrated that even
+individuals with neurodegenerative diseases and persistent cognitive
+deterioration showed significant, long-lasting (2 months) practice effects in terms of word retrieval processing.
+There were multiple brain regions in both hemispheres that exhibited increased activation as the MRI sessions were iterated in the
+current study. This increased activation was seen more in the RH brain
+areas, and more so in the dementia group than the control group, which
+is most prominently seen in the T3-T1 comparison (i.e., paired t-tests).
+That is, the behavioral changes in individuals with dementia were observed in light of increased RH activations. Such concomitant behavioral and activation changes might be seen as a compensatory mechanism of the brain to upkeep these participants' cognitive
+performance in the midst of continued neurophysiological deterioration. The HAROLD (Hemispheric Asymmetry Reduction in Older Adult;
+Cabeza, 2002) model proposes that the brain reorganizes to adapt to
+age-related changes in terms of anatomy and physiology. The current
+results suggest an extension to the model. The deterioration of brain
+efficiency observed in those with dementia may result in greater recruitment of RH regions as a compensatory mechanism. Additionally, as
+Kurland et al. (2018) recently noted, emerging evidence coming from
+multiple investigations regarding the consistent recruitment of RH
+areas during repeated word retrieval processes will help researchers
+explicate the role of RH on treatment-induced recovery processes for
+those with language impairments. Recruitment of RH regions observed
+after language treatment may not reflect the effects of treatment per se
+or reorganization of language network due to treatment, but might
+instead indicate, at least in part, effects of repeated language tasks.
+Procedures for data collection or analysis may contribute to the
+variability of activation patterns as well, including physiological artifacts such as cardiac and respiratory-related signal changes, and head
+motion (Chen & Small, 2007; Fournier et al., 2014; Gorgolewski et al.,
+2013; Lund, Norgaard, Rostrup, Rowe, & Paulson, 2005). Hence it is
+critical to design an experiment without these confounding factors.
+Bennett and Miller (2010) have suggested several practical ways to
+improve fMRI reliability, such as: (a) increasing signal to noise ratio, (b)
+increasing the number of experimental runs, (c) training participants on
+the task in advance to actual scans so that there are no wasted scans,
+and (d) scanning participants at the same time of the day for stable
+circadian rhythm. Per the fMRI analysis pipeline, the artifacts that
+could be caused by excessive head motion were corrected and temporal
+noise due to physiological cycles (i.e., cardiac or respiratory cycles) was
+filtered. Also we included as many runs and trials as possible into our
+experimental design. To minimize practice effects, our participants
+practiced word retrieval tasks out loud immediately before going into
+the scanner every session, using practice stimuli that were different
+from the experimental stimuli. There were also attempts to scan participants the same time of day; however, given limited scanning time
+
+Dice coefficients revealed that the observed levels of agreement between the two suprathreshold activation maps for word retrieval
+paradigms were moderate according to Kappa Statistic Strength of
+Agreement (Landis & Koch, 1977). The two word retrieval paradigms
+(noun vs. verb) yielded comparable reliability indices. Their study in
+particular highlighted that eliciting a motor response (i.e., speech
+output) in the scanner yields relatively higher reliability compared to
+covert tasks that do not elicit motor responses. Indeed, a previous reliability study examining a covert confrontation naming paradigm in
+ten healthy adults (Harrington et al., 2006) reported that between
+sessions, there was only about 30% activation overlap in the inferior
+frontal lobe region, suggesting relatively lower overlap ratios compared
+to those observed in our healthy controls (approximately 50% spatial
+overlap). In the current study there were, however, some individual
+cases that exhibited only slight to fair (Landis & Koch, 1977) overlap
+between sessions. In the clinical standpoint of single subject experimental designs, this calls for further caution in terms of interpreting
+brain imaging results: Changes that are seen on two different activation
+maps (pre vs. post-treatment) may not represent direct effects of
+treatment.
+In addition, direct statistical comparisons of brain activation patterns indicated that at least some areas demonstrated increased or decreased signal intensities over time, resulting in different activation
+areas surviving the statistical thresholds for both groups. These areas
+included, for example, RH putamen and insula for both individuals with
+dementia and healthy older adults, across the two time points separated
+by two months (i.e., T1 and T3) when using the noun naming paradigm.
+Direct comparison of verb naming also yielded similar results, revealing
+increased or decreased recruitment of certain brain areas at two different time points for the same task at the group level, again without
+any cognitive-linguistic intervention. Furthermore, the level of these
+changes differed across groups, categories, and inter-scan intervals. For
+example, some group effects were demonstrated in various bilateral
+regions including the IFG, insula, supramarginal gyrus, and pre- and
+postcentral gyri. These findings of activation variability draw additional
+attention to the current research practice of using single pre-treatment
+and post-treatment fMRI scans as a biomarker to track treatment-induced changes (e.g., Beeson et al., 2011; Martin et al., 2009), presumably because researchers completing these longitudinal dementia
+treatment studies have assumed reliability in their fMRI results. The
+current study found, however, that differences in the intensity and
+spatial distribution of activation can be observed even without any
+intervention, both in individuals with dementia and healthy older
+adults.
+Although the possible causes of differences in fMRI results have
+rarely been examined in dementia, there are studies involving healthy
+young or older adults that have attributed variability in brain activity to
+practice (or priming), changes in cognitive strategy, compliance to the
+task, and habituation effects (Basso et al., 2013; Bennett & Miller, 2010;
+Gorgolewski et al., 2013; Kurland, Liu, & Stokes, 2018; Meister et al.,
+2005; Meltzer, Postman-Caucheteux, McArdle, & Braun, 2009; van
+Turennout et al., 2000, 2003; Wagner et al., 2005). Especially when
+using word retrieval tasks, familiarity with the experimental task and
+exposure to the same stimulus items have been found to cause variability in the brain activity of healthy adults (Basso et al., 2013; Kurland
+et al., 2018; Meister et al., 2005; Meltzer et al., 2009; Petersen, Van
+Mier, Fiez, & Raichle, 1998; van Turennout et al., 2000, 2003). For
+example, both increased and decreased brain activation occurred when
+a picture naming task was administered repeatedly to 10 healthy young
+adults (Basso et al., 2013). When these 10 participants were shown the
+same stimulus items repeatedly in two scanning sessions separated by
+10 days, decreased signals were observed in bilateral precentral gyrus
+and STG, LH MOG, and cerebellum, whereas hyperactivation was observed in the PCC. Basso et al. concluded that exposure and familiarity
+to the task and stimulus items had a significant impact on distinct areas
+of brain activation at two time points. Some similar regions (e.g., LH
+40
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+term period in individuals with dementia; instead, dementia researchers have focused on more long-term repeated measures to evaluate annual or other longitudinal declines (e.g., Zehnder et al., 2007).
+Therefore, similar to typical aging adults, our data suggest that individuals with dementia do demonstrate significant practice effects for
+confrontation naming tasks over two months. We further investigated if
+the amount of change observed was within clinically acceptable ranges
+using equivalence tests. Whereas the differences observed in the control
+group were mostly within the acceptable range of changes, the amount
+of change in the naming scores of participants with dementia were
+found to be significantly outside the acceptable range, confirming
+progressive word retrieval difficulties in individuals with dementia.
+The observed activation differences make it difficult to assume that
+participants put the same amount of effort into each session (Belleville
+et al., 2011). For example, it is possible that participants had to exert
+more effort when completing the tasks during the first session than the
+second session, to achieve the same level of performance; such different
+effort levels might offer an explanation for the activation differences
+between sessions. Indeed, changes in brain activation have been observed in the absence of behavioral changes due to practice effects and
+decreased effort in healthy young adults when using a working memory
+task (Landau, Schumacher, Garavan, Druzgal, & D'esposito, 2004), and
+this might be accountable for the current phenomenon as well.
+
+availability within the MRI facility and subsequent scheduling conflicts,
+our participants could not always be scanned at the same time of the
+day. No participant reported substantial changes in their drinking,
+sleeping, or smoking habits over the course of two months, as measured
+by our physiological variability questionnaire. Therefore, it is unlikely
+that the variability related to data collection procedures compromised
+the test-retest reliability of the fMRI word retrieval paradigms used in
+the current study.
+4.2. Behavioral changes
+When assessed with the same cognitive and language measures over
+two months, participants with dementia and without dementia demonstrated significant performance changes without any intervention
+between the two measurements. Specifically, control participants presented with a significant increase on one verbal memory measure. This
+difference was statistically significant and additionally fell outside the
+standard error of measurement for that test (Reynolds & Voress, 2012).
+This finding concurs with prior research as increased scores on verbal
+memory tasks attributed to practice effects are well documented in
+typically aging, older adults (Ball et al., 2002; Belleville et al., 2006;
+Benedict & Zgaljardic, 1998; Dodge, Wang, Chang, & Ganguli, 2011;
+Duff et al., 2008; Lamar, Resnick, & Zonderman, 2003; Rabbitt, Diggle,
+Holland, & McInnes, 2004; Zehnder, Blasi, Berres, Spiegel, & Monsch,
+2007).
+On the other hand, participants with dementia exhibited decreased
+performance on a writing test at the later time point, while showing
+increased scores on certain problem solving, nonverbal intelligence test,
+and verbal memory measures. All of these changes were statistically
+significant and exceeded the standard error of measurement for each
+measure. Previous studies regarding practice effects in individuals with
+dementia have shown mixed findings, in that some practice effects are
+reported in the memory domain (Duff, Chelune, & Dennett, 2012;
+Hammers et al., 2011; Machulda et al., 2013) whereas other studies
+found no practice effects for memory or word retrieval tasks
+(Hassenstab et al., 2015; Mathews et al., 2014). For instance, Machulda
+et al. (2013) found that individuals with dementia or MCI exhibited
+practice effects in the memory domain while concomitantly showing
+consistent decline in other cognitive domains such as attention, visuospatial, as well as language skills. Findings from the current study
+add to prior dementia research documenting improved performance on
+memory and cognitive measures across repeated measurements. In
+contrast to Mahulda et al.'s findings, in our dataset broader decline
+across the language measures were not observed; such conflicting
+findings may possibly be due to different time intervals between measurements (i.e., 15-month interval in Machulda et al. vs. 2-month interval in the current study) and the current study's small sample size
+and subsequently limited statistical power (i.e., 443 individuals with
+MCI or dementia in Machulda et al., vs. 7 individuals with dementia).
+In-scanner task performance of the confrontation naming paradigms
+also exhibited changes across different time points. The naming accuracy scores as well as reaction times were significantly different across
+the three time points. In particular, both groups showed slight but
+significant improvements in their noun and verb naming accuracy at T2
+compared to T1. Verb naming reaction times were also significantly
+faster at T2 than T1, although no significant reaction time changes were
+found for noun naming. The word retrieval performance changes observed in our control participants were not surprising given that practice effects or priming effects on word retrieval tasks are well documented in healthy, young and older adults (Cooper, Lacritz, Weiner,
+Rosenberg, & Cullum, 2004; Goldberg, Harvey, Wesnes, Snyder, &
+Schneider, 2015; Kurland et al., 2018; Meister et al., 2005; Sachs et al.,
+2012; van Turennout et al., 2000, 2003; Wilson, Watson, Baddeley,
+Emslie, & Evans, 2000; Zec, Markwell, Burkett, & Larsen, 2005). There
+has been, however, a paucity of research examining the impact of repeated administration of word retrieval tasks over a relatively short-
+
+4.3. Comparison of reliability between groups, regions, and different naming
+measures
+The magnitude of test-retest reliability was also assessed by calculating single measure ICCs in six pre-defined ROIs related to word retrieval processing (i.e., pars opercularis, pars triangularis, precentral
+gyrus, postcentral gyrus, STG, and ACC). Most of those brain regions
+and both noun and verb naming tasks that demonstrated statistically
+significant ICCs showed a fair to good magnitude of reliability
+(poor < 0.4, 0.4 < fair to good < 0.75, excellent > 0.75; Fleiss,
+2011; Plichta et al., 2012). Nonetheless, ICCs varied across groups,
+brain regions, and tasks. For example, in the pars triangularis, neither
+naming task exhibited significant correlation coefficients in the dementia group, whereas both tasks showed fair to good reliability in the
+control group. Previous reliability investigations have demonstrated
+mixed findings when comparing groups of older adults and those with
+MCI: Higher ICCs in the healthy group have been reported (Putcha
+et al., 2011) but no differences between these groups have been found
+(Clement & Belleville, 2009). The variable ICCs identified in the current
+study add to prior findings and underscore that fMRI reliability substantially depends on the nature of the experimental paradigm, participant characteristics, and the regions of interest.
+It is noteworthy that the verb naming paradigm yielded significant,
+fair to excellent ICCs in most of the ROIs for both groups. In contrast,
+and unexpectedly, the noun naming paradigm, which was very similar
+to the verb naming paradigm in terms of experimental design (i.e.,
+number of trials, structure of stimulus presentation, inter-stimulus interval, and mode of response), analysis pipelines, and participants'
+percent accuracy and reaction time, did not show similar levels of reliability. This consistency observed across regions and groups for the
+verb naming paradigm may indicate the potential utility and robustness
+of this paradigm when used with clinical populations as well as healthy
+older adults. Indeed, ample evidence suggests that individuals with
+dementia show more impairment in action naming than object naming
+(Almor et al., 2009; Cappa et al., 1998; Cotelli et al., 2006; Druks et al.,
+2006; Hillis et al., 2006; Masterson et al., 2007). Thus, the addition of
+verb naming to fMRI paradigms would aid in monitoring longitudinal
+changes in dementia given its higher test-retest reliability compared to
+the noun paradigms and high sensitivity to detect word retrieval deficits.
+Regarding brain regions, ACC showed no reliable activation patterns in terms of the ICCs, whereas other regions had significant ICCs
+41
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+5. Conclusion and future directions
+
+for at least one task in at least one participant group. One plausible
+reason for this lack of reliability and stability in the activation of ACC
+might be that the effort of monitoring varies more rapidly across sessions than other language and cognitive processes invoked by the word
+retrieval tasks. ACC has been established to be involved in verbal fluency paradigms in healthy young adults (Fu et al., 2006; Fu et al., 2002;
+Weiss et al., 2003) as well as in the phonological and semantic processing of words in healthy older adults and individuals with dementia
+(Dressel et al., 2010; Jokel et al., 2016). However, ACC has also been
+found to play a critical role in error detection, inhibition, response
+suppression, and monitoring processes (see Cabeza & Nyberg, 2000;
+Price, 2012 for review) rather than linguistic (phonological, semantic,
+or lexical) processes. In fact, Milham, Banich, Claus, and Cohen (2003)
+found that compared to other brain regions such as LH MFG or IFG,
+activity within ACC dropped off quickly with repeated fMRI measures
+during a variant of the Stroop task in healthy young adults. In addition,
+regions that are relatively less related to the task under investigation
+have been shown to have lower reliability estimates in amnestic MCI
+(Zanto et al., 2014). Accordingly, in the current study, ACC might have
+shown a smaller magnitude of reliability given that it is relatively less
+tied to the core language processes supporting noun and verb word
+retrieval compared to other ROIs.
+
+The current study extended the extant dementia literature by delineating test-retest reliability for overt fMRI word retrieval measures in
+dementia. Our findings reinforce the recommendation for the introduction of multiple baseline fMRI measures, as used in Fridriksson
+et al. (2007), and also suggest that multiple post-treatment scans may
+be needed to yield a reliable "picture" of fMRI treatment effects. Ways
+to improve fMRI reliability will need to be explored, including assurance of enough practice before participants go into the MRI scanner, or
+combining imaging results from multiple scan tasks or multiple scan
+sessions (e.g., is combining two sessions more or less reliable than
+combining three sessions) to establish reliable baseline activation in
+both healthy and patient populations. A small number of researchers
+have conducted multiple baseline scanning sessions before training,
+albeit not necessarily with individuals with dementia (Belleville et al.,
+2011; Fridriksson et al., 2007; Fridriksson, Morrow-Odom, Moser,
+Fridriksson, & Baylis, 2006). For example, Fridriksson et al. (2006)
+executed three pre-treatment scans in which their three participants
+with aphasia completed an overt object naming task. The three baseline
+fMRI scans were separated by 2-3 days. The authors used a local analysis of mixed effects to calculate mean brain activation patterns across
+the three baseline scans, and accordingly, established a reliable baseline
+to which to compare post-treatment changes in their participants with
+aphasia. Given the importance of fMRI utilization in clinical populations for patient selection, and monitoring treatment effects and disease
+progression (Kurland et al., 2004, 2018), it is vital to establish valid
+experimental designs and begin with correct assumptions about the
+reliability of fMRI language measures for dementia.
+
+4.4. Limitations
+The current study includes some limitations that call for careful
+interpretation of the findings. First, the participant sample size was
+small, with only 7 participants with dementia and 9 control participants. Most prior fMRI test-retest reliability studies, however, similarly
+included less than 10 participants, and many studies recruited only a
+restricted range of subjects such as university undergraduate students
+or healthy young adults (e.g., Aron et al., 2006; Brandt et al., 2013;
+Gonzalez-Castillo & Talavage, 2011; Harrington et al., 2006; Wei et al.,
+2004). In this sense, for the SPM full factorial ANOVA, relatively liberal
+statistical thresholds were employed, and it should be kept in mind that
+the current investigation is an exploratory study; thus, the results
+should be interpreted cautiously. Additionally, because only individuals
+who could tolerate the scanner and the duration of scan time (i.e.,
+approximately an hour per session) were recruited and participated in
+the study, our sample might be biased toward those who have more
+tolerance. Also the scanner was upgraded near the end of the data
+collection (i.e., from Siemens Tim Trio to Mangetom Prisma). Therefore, two individuals with dementia had to be scanned with the new
+scanner, although the magnet was not replaced.
+Another limitation pertains to the level of difficulty of the word
+retrieval tasks. Because both groups were given the same stimulus items
+and went through the same procedures, participants with dementia
+might have perceived more task difficulty, and thus experienced increased effort, inattention to the task, or negative emotional responses
+such as frustration or anxiety in the scanner compared to the typical
+aging participants (Rapp, Caplan, Edwards, Visch-Brink, & Thompson,
+2013). These extralinguistic components could have contributed to
+more variability in the dementia versus control group, obscuring
+identifying activations related solely to word retrieval processes. Indeed, some previous research suggests that reliability is higher when
+there are decreased demands on attention or working memory, or if the
+task is ecological and thus can invoke well-exercised mechanisms across
+individuals (Chen & Small, 2007; Specht et al., 2003). What should also
+be noted here, however, is that if we had used only easy tasks or items
+to match the level of perceived difficulty for both groups, it would have
+been more difficult to find answers to our research questions given that
+investigators are interested in determining neural changes related to
+treatment-induced improvements. That is, we should be able to observe
+patients' neural responses to relatively difficult items that are difficult
+enough to incorrectly respond to pre-treatment and correctly respond to
+post-treatment to demonstrate improvement and intervention effects.
+
+6. Statement of significance
+The current study investigated the replicability of fMRI measured
+brain activation in people with dementia and healthy older adults. The
+results shed light on how neural responses change over time using
+confrontation naming tasks and this work aligns well with the goals of
+Brain and Language by presenting an interdisciplinary approach to help
+understand neural mechanisms of language..
+Declaration of interest
+None
+Funding
+This work was in part supported by the Brain Scan Credit Program
+at Indiana University Imaging Research Facility and Dissertation
+Research Fellowship at Indiana University College of Arts and Sciences.
+Acknowledgements
+This work was supported in part by the Brain Scan Credit Program
+from the Imaging Research Facility at Indiana University and the Early
+Investigator Scholarship from the Greater Indiana Chapter of
+Alzheimer's Association awarded to E.J.P. We thank all our participants
+for their participation and Leyla Rashid who assisted with data collection and analysis.
+Appendix A. Supplementary material
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.bandl.2019.02.002.
+References
+Almor, A., Aronoff, J. M., MacDonald, M. C., Gonnerman, L. M., Kempler, D., Hintiryan,
+
+42
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+paradigms in healthy older adults and in persons with mild cognitive impairment.
+Human Brain Mapping, 30(12), 4033-4047.
+Cooper, D. B., Lacritz, L. H., Weiner, M. F., Rosenberg, R. N., & Cullum, C. M. (2004).
+Category fluency in mild cognitive impairment: Reduced effect of practice in testretest conditions. Alzheimer Disease & Associated Disorders, 18(3), 120-122.
+Cotelli, M., Borroni, B., Manenti, R., Alberici, A., Calabria, M., Agosti, C., ... Zanetti, O.
+(2006). Action and object naming in frontotemporal dementia, progressive supranuclear palsy, and corticobasal degeneration. Neuropsychology, 20(5), 558.
+Croot, K., Taylor, C., Abel, S., Jones, K., Krein, L., Hameister, I., ... Nickels, L. (2015).
+Measuring gains in connected speech following treatment for word retrieval: A study
+with two participants with primary progressive aphasia. Aphasiology, 29(11),
+1265-1288.
+Crum, R. M., Anthony, J. C., Bassett, S. S., & Folstein, M. F. (1993). Population-based
+norms for the Mini-Mental State Examination by age and educational level. The
+Journal of the American Medical Association, 269(18), 2386-2391.
+Dice, L. R. (1945). Measures of the amount of ecologic association between species.
+Ecology, 26(3), 297-302.
+Dodge, H. H., Wang, C. N., Chang, C. C. H., & Ganguli, M. (2011). Terminal decline and
+practice effects in older adults without dementia The MoVIES project. Neurology,
+77(8), 722-730.
+Domoto-Reilly, K., Sapolsky, D., Brickhouse, M., Dickerson, B. C., & Initiative, Alzheimer's
+Disease Neuroimaging (2012). Naming impairment in Alzheimer's disease is associated with left anterior temporal lobe atrophy. Neuroimage, 63(1), 348-355.
+Dressel, K., Huber, W., Frings, L., Kummerer, D., Saur, D., Mader, I., ... Abel, S. (2010).
+Model-oriented naming therapy in semantic dementia: A single-case fMRI study.
+Aphasiology, 24(12), 1537-1558.
+Druks, J., Masterson, J., Kopelman, M., Clare, L., Rose, A., & Rai, G. (2006). Is action
+naming better preserved (than object naming) in Alzheimer's disease and why should
+we ask? Brain and Language, 98(3), 332-340.
+Duff, K., Beglinger, L. J., Van Der Heiden, S., Moser, D. J., Arndt, S., Schultz, S. K., &
+Paulsen, J. S. (2008). Short-term practice effects in amnestic mild cognitive impairment: Implications for diagnosis and treatment. International Psychogeriatrics, 20(5),
+986-999.
+Duff, K., Chelune, G., & Dennett, K. (2012). Within-session practice effects in patients
+referred for suspected dementia. Dementia and Geriatric Cognitive Disorders, 33(4),
+245-249.
+Faher, E. P., Larrabee, G. J., & Crook, T. H. (1992). Factors attenuating the validity of the
+Geriatric Depression Scale in a dementia population. Journal of the American Geriatrics
+Society, 40(9), 906-909.
+Fleiss, J. L. (2011). Design and analysis of clinical experiments. John Wiley & Sons.
+Folstein, M. F., Folstein, S. E., McHugh, P. R., & Fanjiang, G. (2010). Mini-Mental State
+Examination: MMSE-2. Psychological Assessment Resources.
+Fournier, J. C., Chase, H. W., Almeida, J., & Phillips, M. L. (2014). Model specification
+and the reliability of fMRI results: Implications for longitudinal neuroimaging studies
+in psychiatry. PloS One, 9(8), e105169.
+Fridriksson, J., Morrow-Odom, L., Moser, D., Fridriksson, A., & Baylis, G. (2006). Neural
+recruitment associated with anomia treatment in aphasia. Neuroimage, 32(3),
+1403-1412.
+Fridriksson, J., Moser, D., Bonilha, L., Morrow-Odom, K. L., Shaw, H., Fridriksson, A., ...
+Rorden, C. (2007). Neural correlates of phonological and semantic-based anomia
+treatment in aphasia. Neuropsychologia, 45(8), 1812-1822.
+Fu, C. H., McIntosh, A. R., Kim, J., Chau, W., Bullmore, E. T., Williams, S. C., ... McGuire,
+P. K. (2006). Modulation of effective connectivity by cognitive demand in phonological verbal fluency. Neuroimage, 30(1), 266-271.
+Fu, C. H., Morgan, K., Suckling, J., Williams, S. C., Andrew, C., Vythelingum, G. N., &
+McGuire, P. K. (2002). A functional magnetic resonance imaging study of overt letter
+verbal fluency using a clustered acquisition sequence: Greater anterior cingulate
+activation with increased task demand. Neuroimage, 17(2), 871-879.
+Garrard, P., Lambon Ralph, M. A., Patterson, K., Pratt, K. H., & Hodges, J. R. (2005).
+Semantic feature knowledge and picture naming in dementia of Alzheimer's type: A
+new approach. Brain and Language, 93(1), 79-94.
+Gerhardstein-Nader, R. (2013). Vocabulary Assessment Scales. Lutz, FL: PAR.
+German, D. (2016). Test of adolescent/adult word finding (second ed.). Austin, TX: Pro-Ed.
+Goldberg, T. E., Harvey, P. D., Wesnes, K. A., Snyder, P. J., & Schneider, L. S. (2015).
+Practice effects due to serial cognitive assessment: Implications for preclinical
+Alzheimer's disease randomized controlled trials. Alzheimer's & Dementia: Diagnosis,
+Assessment & Disease Monitoring, 1(1), 103-111.
+Gonzalez-Castillo, J., & Talavage, T. M. (2011). Reproducibility of fMRI activations associated with auditory sentence comprehension. Neuroimage, 54(3), 2138-2155.
+Gorgolewski, K., Storkey, A. J., Bastin, M. E., & Pernet, C. R. (2012). Adaptive thresholding for reliable topological inference in single subject fMRI analysis. Frontiers in
+Human Neuroscience, 6, 245.
+Gorgolewski, K. J., Storkey, A. J., Bastin, M. E., Whittle, I., & Pernet, C. (2013). Single
+subject fMRI test-retest reliability metrics and confounding factors. Neuroimage, 69,
+231-243.
+Graham, N. L., Emery, T., & Hodges, J. R. (2004). Distinctive cognitive profiles in
+Alzheimer's disease and subcortical vascular dementia. Journal of Neurology,
+Neurosurgery & Psychiatry, 75(1), 61-71.
+Hammers, D., Spurgeon, E., Ryan, K., Persad, C., Heidebrink, J., Barbas, N., ... Giordani,
+B. (2011). Reliability of repeated cognitive assessment of dementia using a brief
+computerized battery. American Journal of Alzheimer's Disease and Other Dementias,
+26(4), 326-333.
+Hammill, D. D., Pearson, N. A., & Weiderholt, J. L. (2009). Comprehensive test of nonverbal
+intelligence (2nd ed.). Austin: PRO-ED.
+Harrington, G. S., Buonocore, M. H., & Farias, S. T. (2006). Intrasubject reproducibility of
+functional MR imaging activation in language tasks. American Journal of
+
+H., ... Andersen, E. S. (2009). A common mechanism in verb and noun naming deficits in Alzheimer's patients. Brain and Language, 111(1), 8-19.
+Alzheimer's Association (2017). Alzheimer's disease facts and figures. Alzheimer's &
+Dementia, 13, 325-373.
+Antonucci, S. M., & Reilly, J. (2008). Semantic memory and language processing: A
+primer. Seminars in Speech and Language, 29, 5-17.
+Aron, A. R., Gluck, M. A., & Poldrack, R. A. (2006). Long-term test-retest reliability of
+functional MRI in a classification learning task. Neuroimage, 29(3), 1000-1006.
+Atri, A., O'Brien, J. L., Sreenivasan, A., Rastegar, S., Salisbury, S., DeLuca, A. N., ...
+Sperling, R. A. (2011). Test-retest reliability of memory task functional magnetic
+resonance imaging in Alzheimer disease clinical trials. Archives of Neurology, 68(5),
+599-606.
+Ball, K., Berch, D. B., Helmers, K. F., Jobe, J. B., Leveck, M. D., Marsiske, M., ... Unverzagt,
+F. W. (2002). Effects of cognitive training interventions with older adults: A randomized controlled trial. Journal of the American Medical Association, 288(18),
+2271-2281.
+Balthazar, M. L. F., Cendes, F., & Damasceno, B. P. (2008). Semantic error patterns on the
+Boston Naming Test in normal aging, amnestic mild cognitive impairment, and mild
+Alzheimer's disease: Is there semantic disruption? Neuropsychology, 22, 703-709.
+Basso, G., Magon, S., Reggiani, F., Capasso, R., Monittola, G., Yang, F. J., & Miceli, G.
+(2013). Distinguishable neurofunctional effects of task practice and item practice in
+picture naming: A BOLD fMRI study in healthy subjects. Brain and Language, 126(3),
+302-313.
+Bayles, K. A., & Tomoeda, C. K. (1993). Arizona battery for communication disorders of
+dementia. Tucson, AZ: Canyonlands Publishing.
+Beeson, P. M., King, R. M., Bonakdarpour, B., Henry, M. L., Cho, H., & Rapcsak, S. Z.
+(2011). Positive effects of language treatment for the logopenic variant of primary
+progressive aphasia. Journal of Molecular Neuroscience, 45(3), 724-736.
+Belleville, S., Chertkow, H., & Gauthier, S. (2007). Working memory and control of attention in persons with Alzheimer's disease and mild cognitive impairment.
+Neuropsychology, 21(4), 458.
+Belleville, S., Clement, F., Mellah, S., Gilbert, B., Fontaine, F., & Gauthier, S. (2011).
+Training-related brain plasticity in subjects at risk of developing Alzheimer's disease.
+Brain, 134(6), 1623-1634.
+Belleville, S., Gilbert, B., Fontaine, F., Gagnon, L., Menard, E., & Gauthier, S. (2006).
+Improvement of episodic memory in persons with mild cognitive impairment and
+healthy older adults: Evidence from a cognitive intervention program. Dementia and
+Geriatric Cognitive Disorders, 22(5-6), 486-499.
+Benedict, R. H., & Zgaljardic, D. J. (1998). Practice effects during repeated administrations of memory tests with and without alternate forms. Journal of Clinical and
+Experimental Neuropsychology, 20(3), 339-352.
+Bennett, C. M., & Miller, M. B. (2010). How reliable are the results from functional
+magnetic resonance imaging? Annals of the New York Academy of Sciences, 1191(1),
+133-155.
+Bennett, C. M., & Miller, M. B. (2013). fMRI reliability: Influences of task and experimental design. Cognitive, Affective, & Behavioral Neuroscience, 13(4), 690-702.
+Bentham, P. W., Jones, S., & Hodges, J. R. (1997). A comparison of semantic memory in
+vascular dementia and dementia of Alzheimer's type. International Journal of Geriatric
+Psychiatry, 12(5), 575-580.
+Binder, J. R. (2012). fMRI of language systems: Methods and applications. In S. H. Faro, F.
+B. Mohamed, M. Law, & J. T. Ulmer (Eds.). Functional Neuroradiology (pp. 393-417).
+New York, NY: Springer.
+Birn, R. M., Cox, R. W., & Bandettini, P. A. (2004). Experimental designs and processing
+strategies for fMRI studies involving overt verbal responses. NeuroImage, 23,
+1046-1058.
+Blair, M., Marczinski, C. A., Davis-Faroque, N., & Kertesz, A. (2007). A longitudinal study
+of language decline in Alzheimer's disease and frontotemporal dementia. Journal of
+the International Neuropsychological Society, 13(2), 237-245.
+Brambati, S. M., Amici, S., Racine, C. A., Neuhaus, J., Miller, Z., Ogar, J., ... GornoTempini, M. L. (2015). Longitudinal gray matter contraction in three variants of
+primary progressive aphasia: A tenser-based morphometry study. NeuroImage, 8,
+345-355.
+Brandt, D. J., Sommer, J., Krach, S., Bedenbender, J., Kircher, T., Paulus, F. M., & Jansen,
+A. (2013). Test-retest reliability of fMRI brain activity during memory encoding.
+Frontiers in Psychiatry, 4, 1-9.
+Brysbaert, M., & New, B. (2009). Moving beyond Kuera and Francis: A critical evaluation
+of current word frequency norms and the introduction of a new and improved word
+frequency measure for American English. Behavior Research Methods, 41(4), 977-990.
+Byiers, B. J., Reichle, J., & Symons, F. J. (2012). Single-subject experimental design for
+evidence-based practice. American Journal of Speech-Language Pathology, 21(4),
+397-414.
+Cabeza, R. (2002). Hemispheric asymmetry reduction in older adults: The HAROLD
+model. Psychology and Aging, 17(1), 85-100.
+Cabeza, R., & Nyberg, L. (2000). Imaging cognition II: An empirical review of 275 PET
+and fMRI studies. Journal of Cognitive Neuroscience, 12(1), 1-47.
+Caceres, A., Hall, D. L., Zelaya, F. O., Williams, S. C. R., & Mehta, M. A. (2009). Measuring
+fMRI reliability with the intraclass correlation coefficient. Neuroimage, 45, 758-768.
+Cappa, S. F., Binetti, G., Pezzini, A., Padovani, A., Rozzini, L., & Trabucchi, M. (1998).
+Object and action naming in Alzheimer's disease and frontotemporal dementia.
+Neurology, 50(2), 351-355.
+Chen, E. E., & Small, S. L. (2007). Test-retest reliability in fMRI of language: Group and
+task effects. Brain and Language, 102(2), 176-185.
+Clark, C. M., & Ewbank, D. C. (1996). Performance of the dementia severity rating scale: A
+caregiver questionnaire for rating severity in Alzheimer disease. Alzheimer Disease &
+Associated Disorders, 10(1), 31-39.
+Clement, F., & Belleville, S. (2009). Test-retest reliability of fMRI verbal episodic memory
+
+43
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+Neuroimage, 47(2), 745-755.
+Meyer, A. M., Snider, S. F., Eckmann, C. B., & Friedman, R. B. (2015). Prophylactic
+treatments for anomia in the logopenic variant of primary progressive aphasia: Crosslanguage transfer. Aphasiology, 29(9), 1062-1081.
+Milham, M. P., Banich, M. T., Claus, E. D., & Cohen, N. J. (2003). Practice-related effects
+demonstrate complementary roles of anterior cingulate and prefrontal cortices in
+attentional control. Neuroimage, 18(2), 483-493.
+Miller, M. B., Donovan, C. L., Van Horn, J. D., German, E., Sokol-Hessner, P., & Wolford,
+G. L. (2009). Unique and persistent individual patterns of brain activity across different memory retrieval tasks. Neuroimage, 48(3), 625-635.
+Miller, M. B., Van Horn, J. D., Wolford, G. L., Handy, T. C., Valsangkar-Smyth, M., Inati,
+S., ... Gazzaniga, M. S. (2002). Extensive individual differences in brain activations
+associated with episodic retrieval are reliable over time. Journal of Cognitive
+Neuroscience, 14(8), 1200-1214.
+Milman, L., & Holland, A. (2003). The scales of cognitive and communicative ability for
+neurorehabilitation. Tucson, USA: The University of Arizona.
+Munhall, K. G. (2001). Functional imaging during speech production. Acta Psychologica,
+107(1), 95-117.
+Murray, L. L., & Clark, H. M. (2015). Neurogenic disorders of language: evidence-based
+clinical practice. Austin, TX: Pro-Ed.
+Ostberg, P., Fernaeus, S. E., Hellstrom, A., Bogdanovi, N., & Wahlund, L. O. (2005).
+Impaired verb fluency: A sign of mild cognitive impairment. Brain and Language,
+95(2), 273-279.
+Paek, E. J., Murray, L. L., & Newman, S. (2015). Neural correlates of response to language
+treatment in dementia: A multiple single subject study. MayPoster session presented at the
+2015 Clinical Aphasiology Conference, Monterey, CA.
+Pernet, C. (2017). Null hypothesis significance testing: A guide to commonly misunderstood concepts and recommendations for good practice. F1000. Research, 4(621),
+https://doi.org/10.12688/f1000research.6963.5.
+Petersen, S. E., Van Mier, H., Fiez, J. A., & Raichle, M. E. (1998). The effects of practice on
+the functional anatomy of task performance. Proceedings of the National Academy of
+Sciences, 95(3), 853-860.
+Plichta, M. M., Schwarz, A. J., Grimm, O., Morgen, K., Mier, D., Haddad, L., ... Colman, P.
+(2012). Test-retest reliability of evoked BOLD signals from a cognitive-emotive fMRI
+test battery. Neuroimage, 60(3), 1746-1758.
+Price, C. J. (2012). A review and synthesis of the first 20years of PET and fMRI studies of
+heard speech, spoken language and reading. Neuroimage, 62(2), 816-847.
+Putcha, D., O'Keefe, K., LaViolette, P., O'Brien, J., Greve, D., Rentz, D. M., ... Sperling, R.
+(2011). Reliability of functional magnetic resonance imaging associative encoding
+memory paradigms in non-demented elderly adults. Human Brain Mapping, 32(12),
+2027-2044.
+Rabbitt, P., Diggle, P., Holland, F., & McInnes, L. (2004). Practice and drop-out effects
+during a 17-year longitudinal study of cognitive aging. The Journals of Gerontology
+Series B: Psychological Sciences and Social Sciences, 59(2), P84-P97.
+Rapp, B., Caplan, D., Edwards, S., Visch-Brink, E., & Thompson, C. K. (2013).
+Neuroimaging in aphasia treatment research: Issues of experimental design for relating cognitive to neural changes. Neuroimage, 73, 200-207.
+Rau, S., Fesl, G., Bruhns, P., Havel, P., Braun, B., Tonn, J. C., & Ilmberger, J. (2007).
+Reproducibility of activations in Broca area with two language tasks: A functional MR
+imaging study. American Journal of Neuroradiology, 28(7), 1346-1353.
+Reilly, J. (2016). How to constrain and maintain a lexicon for the treatment of progressive
+semantic naming deficits: Principles of item selection for formal semantic therapy.
+Neuropsychological Rehabilitation, 26(1), 126-156.
+Reynolds, C. R., & Voress, J. K. (2012). Test of memory and learning - senior edition examiner's manual. Austin, TX: PRO-ED Inc.
+Rogalski, E., Cobia, D., Harrison, T. M., Wieneke, C., Weintraub, S., & Mesulam, M. M.
+(2011). Progression of language decline and cortical atrophy in subtypes of primary
+progressive aphasia. Neurology, 76(21), 1804-1810.
+Rombouts, S. A., Barkhof, F., Hoogenraad, F. G., Sprenger, M., Valk, J., & Scheltens, P.
+(1997). Test-retest analysis with functional MR of the activated area in the human
+visual cortex. American Journal of Neuroradiology, 18(7), 1317-1322.
+Rutten, G. J. M., Ramsey, N. F., Van Rijen, P. C., & Van Veelen, C. W. M. (2002).
+Reproducibility of fMRI-determined language lateralization in individual subjects.
+Brain and Language, 80(3), 421-437.
+Sachs, B. C., Lucas, J. A., Smith, G. E., Ivnik, R. J., Petersen, R. C., Graff-Radford, N. R., &
+Pedraza, O. (2012). Reliable change on the Boston naming test. Journal of the
+International Neuropsychological Society, 18(2), 375-378.
+Schretlen, D. J., & Vannorsdall, T. D. (2010). Calibrated ideational fluency assessment
+(CIFA) professional manual. Psychological Assessment Resources Inc.
+Specht, K., Willmes, K., Shah, N. J., & Jancke, L. (2003). Assessment of reliability in
+functional imaging studies. Journal of Magnetic Resonance Imaging, 17(4), 463-471.
+Staffaroni, A. M., Elahi, F. M., McDermott, D., Marton, K., Karageorgiou, E., Sacco, S., ...
+Geschwind, M. D. (2017). Neuroimaging in Dementia. Seminars in Neurology, 37,
+510-537.
+Stopford, C. L., Thompson, J. C., Neary, D., Richardson, A. M., & Snowden, J. S. (2012).
+Working memory, attention, and executive function in Alzheimer's disease and
+frontotemporal dementia. Cortex, 48(4), 429-446.
+Szekely, A., Jacobsen, T., D'Amico, S., Devescovi, A., Andonova, E., Herron, D., ...
+Federmeier, K. (2004). A new on-line resource for psycholinguistic studies. Journal of
+Memory and Language, 51(2), 247-250.
+Tate, R. L., Mcdonald, S., Perdices, M., Togher, L., Schultz, R., & Savage, S. (2008). Rating
+the methodological quality of single-subject designs and n-of-1 trials: Introducing the
+Single-Case Experimental Design (SCED) Scale. Neuropsychological Rehabilitation,
+18(4), 385-401.
+Thompson, C. K. (2015). Establishing the effects of treatment for aphasia using singlesubject-controlled experimental designs. Aphasiology, 29(5), 588-597.
+
+Neuroradiology, 27(4), 938-944.
+Hassenstab, J., Ruvolo, D., Jasielec, M., Xiong, C., Grant, E., & Morris, J. C. (2015).
+Absence of practice effects in preclinical Alzheimer's disease. Neuropsychology, 29(6),
+940-948.
+Heim, S., Pieperhoff, P., Grande, M., Kuijsten, W., Wellner, B., Saez, L. E., ... Amunts, K.
+(2014). Longitudinal changes in brains of patients with fluent primary progressive
+aphasia. Brain and Language, 131, 11-19.
+Henry, M. L., Rising, K., DeMarco, A. T., Miller, B. L., Gorno-Tempini, M. L., & Beeson, P.
+M. (2013). Examining the value of lexical retrieval treatment in primary progressive
+aphasia: Two positive cases. Brain and Language, 127(2), 145-156.
+Hillis, A. E., Heidler-Gary, J., Newhart, M., Chang, S., Ken, L., & Bak, T. H. (2006).
+Naming and comprehension in primary progressive aphasia: The influence of grammatical word class. Aphasiology, 20(2-4), 246-256.
+Hodges, J. R., Patterson, K., Oxbury, S., & Funnell, E. (1992). Semantic dementia:
+Progressive fluent aphasia with temporal lobe atrophy. Brain, 115(6), 1783-1806.
+Howard, D., Best, W., & Nickels, L. (2015). Optimising the design of intervention studies:
+Critiques and ways forward. Aphasiology, 29(5), 526-562.
+Jokel, R., Graham, N. L., Rochon, E., & Leonard, C. (2014). Word retrieval therapies in
+primary progressive aphasia. Aphasiology, 28, 1038-1068.
+Jokel, R., Kielar, A., Anderson, N. D., Black, S. E., Rochon, E., Graham, S., ... Tang-Wai, D.
+F. (2016). Behavioural and neuroimaging changes after naming therapy for semantic
+variant primary progressive aphasia. Neuropsychologia, 89, 191-216.
+Kaplan, E., Goodglass, H., & Weintraub, S. (2001). Boston Naming Test. Pro-ed.
+Kemper, S., Thompson, M., & Marquis, J. (2001). Longitudinal change in language production: Effects of aging and dementia on grammatical complexity and propositional
+content. Psychology and Aging, 16, 600-614.
+Kensinger, E. A., Shearer, D. K., Locascio, J. J., Growdon, J. H., & Corkin, S. (2003).
+Working memory in mild Alzheimer's disease and early Parkinson's disease.
+Neuropsychology, 17(2), 230-239.
+Kurland, J., Liu, A., & Stokes, P. (2018). Practice effects in healthy older adults:
+Implications for treatment-induced neuroplasticity in aphasia. Neuropsychologia, 109,
+116-125.
+Kurland, J., Naeser, M. A., Baker, E. H., Doron, K., Martin, P. I., Seekins, H. E., ...
+Yurgelun-Todd, D. (2004). Test-retest reliability of fMRI during nonverbal semantic
+decisions in moderate-severe nonfluent aphasia patients. Behavioural Neurology,
+15(3-4), 87-97.
+Lakens, D. (2017). Equivalence tests: A practical primer for t tests, correlations, and metaanalyses. Social Psychological and Personality Science, 8(4), 355-362.
+Lakens, D., Scheel, A. M., & Isager, P. M. (2018). Equivalence testing for psychological
+research: A tutorial. Advances in Methods and Practices in Psychological Science, 1(2),
+259-269.
+Lamar, M., Resnick, S. M., & Zonderman, A. B. (2003). Longitudinal changes in verbal
+memory in older adults: Distinguishing the effects of age from repeat testing.
+Neurology, 60(1), 82-86.
+Landau, S. M., Schumacher, E. H., Garavan, H., Druzgal, T. J., & D'esposito, M. (2004). A
+functional MRI study of the influence of practice on component processes of working
+memory. Neuroimage, 22(1), 211-221.
+Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. Biometrics, 33, 159-174.
+Liou, M., Su, H. R., Lee, J. D., Cheng, P. E., Huang, C. C., & Tsai, C. H. (2003). Bridging
+functional MR images and scientific inference: Reproducibility maps. Journal of
+Cognitive Neuroscience, 15(7), 935-945.
+Lund, T. E., Norgaard, M. D., Rostrup, E., Rowe, J. B., & Paulson, O. B. (2005). Motion or
+activity: Their role in intra- and inter-subject variation in fMRI. NeuroImage, 26,
+960-964.
+Machulda, M. M., Pankratz, V. S., Christianson, T. J., Ivnik, R. J., Mielke, M. M., Roberts,
+R. O., ... Petersen, R. C. (2013). Practice effects and longitudinal cognitive change in
+normal aging vs. incident mild cognitive impairment and dementia in the Mayo Clinic
+Study of Aging. The Clinical Neuropsychologist, 27(8), 1247-1264.
+Maguire, E. A., Kumaran, D., Hassabis, D., & Kopelman, M. D. (2010). Autobiographical
+memory in semantic dementia: A longitudinal fMRI study. Neuropsychologia, 48(1),
+123-136.
+Mahowald, K., & Fedorenko, E. (2016). Reliable individual-level neural markers of highlevel language processing: A necessary precursor for relating neural variability to
+behavioral and genetic variability. Neuroimage, 139, 74-93.
+Marcotte, M. O. A., & Ansaldo, A. I. (2010). The neural correlates of semantic feature
+analysis in chronic aphasia: Discordant patterns according to the etiology. Seminars in
+Speech and Language, 31, 52-63.
+Martin, P. I., Naeser, M. A., Ho, M., Doron, K. W., Kurland, J., Kaplan, J., ... PascualLeone, A. (2009). Overt naming fMRI pre-and post-TMS: Two nonfluent aphasia
+patients, with and without improved naming post-TMS. Brain and Language, 111(1),
+20-35.
+Masterson, J., Druks, J., Kopelman, M., Clare, L., Garley, C., & Hayes, M. (2007). Selective
+naming (and comprehension) deficits in Alzheimer's disease? Cortex, 43(7), 921-934.
+Mathews, M., Abner, E., Kryscio, R., Jicha, G., Cooper, G., Smith, C., ... Schmitt, F. A.
+(2014). Diagnostic accuracy and practice effects in the national Alzheimer's coordinating center uniform data set neuropsychological battery. Alzheimer's &
+Dementia: The Journal of the Alzheimer's Association, 10(6), 675-683.
+McGonigle, D. J., Howseman, A. M., Athwal, B. S., Friston, K. J., Frackowiak, R. S. J., &
+Holmes, A. P. (2000). Variability in fMRI: An examination of intersession differences.
+Neuroimage, 11, 708-734.
+Meister, I. G., Weidemann, J., Foltys, H., Brand, H., Willmes, K., Krings, T., ... Boroojerdi,
+B. (2005). The neural correlate of very-long-term picture priming. European Journal of
+Neuroscience, 21(4), 1101-1106.
+Meltzer, J. A., Postman-Caucheteux, W. A., McArdle, J. J., & Braun, A. R. (2009).
+Strategies for longitudinal neuroimaging studies of overt language production.
+
+44
+
+Brain and Language 191 (2019) 31-45
+
+E.J. Paek, et al.
+
+Whitwell, J. L., Boeve, B. F., Weigand, S. D., Senjem, M. L., Gunter, J. L., Baker, M. C., ...
+Rademakers, R. (2015). Brain atrophy over time in genetic and sporadic frontotemporal dementia: A study of 198 serial magnetic resonance images. European
+Journal of Neurology, 22(5), 745-752.
+Wilson, B. A., Watson, P. C., Baddeley, A. D., Emslie, H., & Evans, J. J. (2000).
+Improvement or simply practice? The effects of twenty repeated assessments on
+people with and without brain injury. Journal of the International Neuropsychological
+Society, 6(4), 469-479.
+Yesavage, J. A., Brink, T. L., Rose, T. L., Lum, O., Huang, V., Adey, M., & Leirer, V. O.
+(1983). Devel- opment and validation of a geriatric depression screening scale: A
+preliminary report. Journal of Psychiatric Research, 17, 37-49.
+Zanto, T. P., Pa, J., & Gazzaley, A. (2014). Reliability measures of functional magnetic
+resonance imaging in a longitudinal evaluation of mild cognitive impairment.
+Neuroimage, 84, 443-452.
+Zec, R. F., Markwell, S. J., Burkett, N. R., & Larsen, D. L. (2005). A longitudinal study of
+confrontation naming in the "normal" elderly. Journal of the International
+Neuropsychological Society, 11(06), 716-726.
+Zehnder, A. E., Blasi, S., Berres, M., Spiegel, R., & Monsch, A. U. (2007). Lack of practice
+effects on neuropsychological tests as early cognitive markers of Alzheimer disease?
+American Journal of Alzheimer's Disease & Other Dementias, 22(5), 416-426.
+
+Tzourio-Mazoyer, N., Landeau, B., Papathanassiou, D., Crivello, F., Etard, O., Delcroix, N.,
+... Joliot, M. (2002). Automated anatomical labeling of activations in SPM using a
+macroscopic anatomical parcellation of the MNI MRI single-subject brain.
+Neuroimage, 15, 273-289.
+van Turennout, M., Bielamowicz, L., & Martin, A. (2003). Modulation of neural activity
+during object naming: Effects of time and practice. Cerebral Cortex, 13(4), 381-391.
+van Turennout, M., Ellmore, T., & Martin, A. (2000). Long-lasting cortical plasticity in the
+object naming system. Nature Neuroscience, 3(12), 1329.
+Vannorsdall, T. D., Maroof, D. A., Gordon, B., & Schretlen, D. J. (2012). Ideational fluency
+as a domain of human cognition. Neuropsychology, 26(3), 400-405.
+Wagner, K., Frings, L., Quiske, A., Unterrainer, J., Schwarzwald, R., Spreer, J., ... SchulzeBonhage, A. (2005). The reliability of fMRI activations in the medial temporal lobes
+in a verbal episodic memory task. Neuroimage, 28(1), 122-131.
+Wechsler, D. (1987). Wechsler memory scale-revised (WMS-R). Psychological Corporation.
+Wei, X., Yoo, S. S., Dickey, C. C., Zou, K. H., Guttmann, C. R., & Panych, L. P. (2004).
+Functional MRI of auditory verbal working memory: Long-term reproducibility
+analysis. Neuroimage, 21(3), 1000-1008.
+Weiss, E. M., Siedentopf, C., Hofer, A., Deisenhammer, E. A., Hoptman, M. J., Kremser, C.,
+... Delazer, M. (2003). Brain activation pattern during a verbal fluency test in healthy
+male and female volunteers: A functional magnetic resonance imaging study.
+Neuroscience Letters, 352(3), 191-194.
+
+45
+
+

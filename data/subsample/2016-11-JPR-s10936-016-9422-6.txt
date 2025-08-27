@@ -1,0 +1,1037 @@
+J Psycholinguist Res (2017) 46:107-124
+DOI 10.1007/s10936-016-9422-6
+
+Effects of Phonetic Similarity in the Identification of
+Mandarin Tones
+Bin Li1 * Jing Shao1,2 * Mingzhen Bao3
+
+Published online: 26 March 2016
+(c) Springer Science+Business Media New York 2016
+
+Abstract Tonal languages differ in how they use phonetic correlates e.g. average pitch
+height and pitch direction, for tonal contrasts. Thus, native speakers of a tonal language
+may need to adjust their attention to familiar or unfamiliar phonetic cues when perceiving
+non-native tones. On the other hand, speakers of a non-tonal language may need to develop
+sensitivity to tonal correlates absent from their native system. The current study examines
+and compares five language groups' perception of two synthesized Mandarin tones: the high
+level tone and the high falling tone. It aims to examine how listeners from tonal and nontonal backgrounds identify and categorize acoustically equidistant pitches varying along two
+phonetic dimensions: pitch onset and slope. Results reveal "universal" perceptual patterns
+across groups and also tendencies caused by native tonal systems. Our findings confirm that
+L1 tonal and prosodic systems affect speakers' sensitivity to novel perceptual cues and their
+abilities to discern relevant phonetic differences.
+
+Introduction
+Native linguistic experience (L1) shapes our perception of sounds in other languages (L2)
+(Best 1995; Flege 1995; Iverson and Kuhl 1995). Extensive research effort has been devoted
+to studying how L1 affects learning of consonants and vowels in an L2 (for example: Bohn
+and Flege 1990; Best et al. 2001; Aoyama et al. 2004; Best and Tyler 2007; Iverson and Evans
+2007; Bohn and Best 2012). Recent research also sees a growing interest in L1 perception
+and L2 learning of suprasegmentals such as lexical tones (for example: Wang et al. 2003;
+
+B
+
+Bin Li
+binli2@cityu.edu.hk
+
+1
+
+Department of Linguistics and Translation, City University of Hong Kong,
+83 Tat Chee Ave., Kowloon Tong, Hong Kong S.A.R., China
+
+2
+
+Department of Chinese and Bilingual Studies, The Hong Kong Polytechnic University, Hung Hom,
+Hong Kong S.A.R., China
+
+3
+
+Program of Applied Linguistics, College of Liberal Arts, Ashford University, San Diego, CA, USA
+
+123
+
+108
+
+J Psycholinguist Res (2017) 46:107-124
+
+Halle et al. 2004; Wayland and Guion 2004; Khouw and Ciocca 2007; Guion and Pederson
+2007; Wayland and Li 2008; So and Best 2010; Peng et al. 2010; Sun and Huang 2012).
+Various models have been proposed from phonological and phonetic perspectives to
+account for L1's effects on L2 speech perception, e.g., the Perceptual Assimilation Model
+(Best 1995), the Native Language Magnet Model (Iverson and Kuhl 1995), the Attend to
+Dimension Model (Francis and Nusbaum 2002; Francis et al. 2008; Goldstone 1994, 1998),
+and the Automatic Selective Perception Model (Strange 2011). A brief review regarding their
+implications for cross-language tone perception is relevant here.
+First, focusing on phonological aspects, the Perceptual Assimilation Model (PAM) proposes that L2 sounds are assimilated into the L1 system based on a comparison of L2 phones
+with L1 sounds. Learning tones in an L2 by adult tonal language speakers would require a
+comparison of two inventories of tones, but PAM's predictions may suffer from a lack of
+comparison of phonetic granularities of L1 and L2 tones. For adult speakers of non-tonal
+languages, learning tones in an L2 would involve additional difficulty as their L1s uses
+a different, though arguably comparable, mechanism for phonological processing of pitch
+variations. PAM is faced with a bigger problem in its explanation of tone acquisition by
+non-tonal language speakers, due to the lack of corresponding systems in the two languages
+to compare. As suggested in Bohn and Best (2012), these problems can be addressed by
+looking into the detailed phonetic parameters across languages.
+Second, the Native Language Magnet model (NLM) proposes that L1 phoneme categories
+are formed in early ages based on good exemplars, and will act as "magnets" to attract any
+similar L2 phonemes. In this sense, the presence of a tonal system in L1 greatly affects how
+an L2 tone will be grouped according to the L1 tonal categories. But NLM does not address
+what directs L2 tones in the magnetizing process if an L1 does not contain tonal categories.
+Problems may arise as tones contrast with each other in more than one dimension. Tonal
+correlates such as pitch onset, pitch direction, or voice quality, may function as primary or
+secondary cues in different tonal languages.
+Thirdly, the Attention-to-Dimension Model (A2D) proposes that L2 perceptual learning
+changes learners' auditory space represented in terms of a spatial multidimensional model
+where distances along phonetic dimensions indicate perceptual features of categorization.
+L2 learners thus achieve perceptual learning by redirecting attention or assigning different
+weightings to perceptual cues, which results in the restructuring of the auditory space along
+relevant dimensions. A2D examines selective attention at multiple phonetic dimensions, and
+may account for the learning of L2 tones by tonal language speakers who need to learn to
+re-direct their attention to fine phonetic details that may be crucial in their L1 and L2 but to
+various extents. Non-tonal language speakers, however, have no similar native phonological
+categories that can provide phonetic dimensions along which attention could be readjusted.
+Last, the Automatic Selective Perception model (ASP) proposes that native speakers have
+established the Selective Perception Routines (SPRs) to automatically detect the most reliable
+cues in speech perception. Highly over-learned L1 SPRs may cause problems in L2 speech
+processing when learners use their native SPRs to seek the wrong or less reliable information
+in L2 input. L2 learning in this sense would require re-attuning learner's attention to the
+acoustic-phonetic information that is most crucial in L2 contrasts. Therefore, ASP would
+predict that L2 tone perception is influenced by existence and function of the established L1
+SPRs that are used for distinguishing native tones. However, similar to the previous models,
+ASP does not account for how the lack of SPRs for tone contrasts by non-tonal language
+speakers would affect their perception of tones.
+Overall speaking, these major models have taken an acoustic-phonetic, a phonological, or
+a cognitive ground in explaining and predicting cross-language speech acquisition. However,
+
+123
+
+J Psycholinguist Res (2017) 46:107-124
+
+109
+
+as reviewed, L2 tone acquisition poses challenges to them all as direct comparison or feature
+weighting may not be very applicable. What's more, recent studies, especially those under
+the frameworks of PAM and A2D, show more advancement in considering the interactive
+functioning of phonetic and phonological factors for a more comprehensive understanding
+of the learning process. For example, So and Best (2010) studied discrimination of Mandarin
+tone pairs by naive listeners of Mandarin whose L1s were Hong Kong Cantonese, Japanese,
+and Canadian English. Pairs of high-level versus low-rising, high-level versus high-falling,
+and low-rising versus low-falling-rising tones were found to be difficult for all groups but to
+various extents. The general perceptual difficulty was attributed to phonetic characteristics of
+tones in each pair, whereas the various degrees of difficulty were attributed to the influence of
+L1 phonological systems. What was left unaccounted for in the study is what phonetic cues are
+crucial and how they function for different L1 groups. Francis et al. (2008) examined perceptual learning of Cantonese tones by Mandarin and English speakers after a training comprising
+naturalistic stimuli. It was noted that Mandarin speakers assimilated Cantonese tones to their
+L1 tone categories whereas English speakers to falling/rising intonation of English. Improvement in tone identification by both groups was interpreted as they had learned to reassign
+weighting and redirect attention to pitch dimensions relevant to Cantonese tonal contrasts.
+In sum, the mechanism underlying tone perception in L1 and L2 has been capturing extensive research effort. It is generally agreed that cross-language tone perception is influenced
+by whether certain tonal types present themselves in one's L1. If both L1 and L2 are tonal,
+then perceptual accuracy depends on how phonetic correlates of tones vary, probably along
+a single dimension or multiple ones in each system. However, such questions still remain
+unanswered as how tonal language speakers assign weights to cues along phonetic dimensions in their L1s, and how attention to the cues influences their ability to discern phonetic
+differences in L2 perceptual dimensions. Acknowledging the crucial roles of perceptual cues
+at both phonetic and phonological levels, we are interested in how they function interactively
+in L1 and influence L2 tone perception.
+
+Focus of the Study
+As reviewed in previous sections, a satisfactory and comprehensive account of L2 tone
+perception must take into consideration not only phonetic and phonological information but
+also speakers' attention to fine details of such information in various dimensions. Studies
+on perception of tonal contrasts are hence needed to further address how listeners rely on
+perceptual cues in various dimensions to distinguish novel tones. As a first step following this
+line of research, we investigate how perceptual cues are processed in judging pitch contours
+by speakers from various language backgrounds. We focus on Mandarin tonal features in
+two dimensions, i.e. pitch height and pitch slope. More specifically, we aim to investigate
+and compare non-native listeners' ability to attend to novel cues and to phonetic differences
+along novel dimensions in perceiving Mandarin tones.
+Mandarin tones are distinctive in tonal features such as pitch onset and shape. They
+are, however, found to be perceptually indistinguishable by not only speakers of non-tonal
+languages but also by those whose L1s are tonal. For example, the high-level (T1) and highfalling (T4) tones have been reported to cause difficult for Cantonese, Japanese, and English
+speakers (Li and Zhang 2010; So and Best 2010; Xi et al. 2010; Hao 2012). Similarly,
+Northern Vietnamese speakers found the same pair most difficult in both perception (Wu
+and Hu 2004) and production (Yang and Dushi 2008). Well documented yet not thoroughly
+examined, the confusion caused by these two acoustically distinctive tones merits research
+efforts in an investigation into the perceptual processes involved. Therefore, the contrast of
+
+123
+
+110
+
+J Psycholinguist Res (2017) 46:107-124
+
+Table 1 Background information of all participants
+L1
+
+No. of
+subjects
+
+Average Gender
+Experience in Mandarin
+age
+M/F Average years in Estimated onset Estimated years living
+Mandarin learning age
+in the Mainland
+
+Mandarin
+
+29
+
+24.7
+
+13/16
+
+N/A
+
+N/A
+
+Cantonese
+
+28
+
+21.6
+
+15/13
+
+9.2
+
+13
+
+0
+
+9
+
+23.2
+
+5/4
+
+2.9
+
+20
+
+0.8
+
+Thai
+
+All their life
+
+N. Vietnamese
+
+13
+
+26.0
+
+6/7
+
+4.4
+
+21
+
+0.8
+
+Indo-European
+
+21
+
+23.1
+
+12/9
+
+1.2
+
+22
+
+0
+
+T1 and T4 in Mandarin is chosen as the focus of our research. A perception experiment is
+designed to employ manipulation of two phonetic dimensions of Mandarin tones, so as to
+examine how listeners from different tonal and non-tonal backgrounds identify and judge a
+continuum of equidistant phonetic changes along the two dimensions.
+
+Study Design
+Our study compares perceptual patterns of Mandarin T1 and T4 contrasts by listeners who
+are non-native speakers of Mandarin, in order to find out what perceptual correlates they
+mainly rely on. Interactions and effects of equidistant changes along two pitch dimensions,
+F0 onset and slope, are assessed in tone identification and goodness-fit.
+
+Participants
+One hundred university students from a variety of language backgrounds took part in the
+experiment. Their L1s included tonal languages such as Mandarin, Cantonese, Thai, and
+Vietnamese, and also non-tonal languages such as English, German, Spanish and Hindi.
+None of our participants reported having hearing problems. They all filled out a language
+background questionnaire before testing. Their prior experience in Mandarin is summarized
+in Table 1.
+As shown in the table, our Cantonese listeners learned Mandarin for an average of 9 years,
+which was the longest among the non-Mandarin groups. Thai and Northern Vietnamese
+listeners all took Mandarin courses for about 8 months in China, so did the Indo-European
+speakers who took intensive Mandarin courses for 4 months in Hong Kong. A brief interview
+on learners' Mandarin experience and background was carried out at recruitment. Learners'
+self-reports revealed that Cantonese listeners' formal training in spoken Mandarin at school
+did not differ significantly from that of other groups. All Cantonese listeners lived in Hong
+Kong all their life, where Cantonese is the major spoken language in daily use. Although
+they had taken Mandarin courses for one or two hours each week in primary schools, they
+had few opportunities to speak Mandarin off campus. Therefore, the experience in spoken
+Mandarin of the four groups did not differ significantly considering the amount of formal
+training and off-campus practice.
+However, it is reasonable to doubt whether the longer exposure, even only incidental,
+would lend benefit to Cantonese speakers. One would expect that the more-than-9-year formal
+
+123
+
+J Psycholinguist Res (2017) 46:107-124
+
+111
+
+experience by the Cantonese participants would enable them to achieve a more native-like
+performance when perceiving the synthesized Mandarin tones than the groups with much less
+experience in Mandarin. Such difference if found should be interpreted as a result of combined
+effects of L1 and language proficiency. Meanwhile, we recruited 29 native Mandarin speakers
+as the control group. Testing five groups of listeners with various L1s and experiences in
+Mandarin, our research expects to find out and compare perceptual patterns by and across
+listener groups as a function of phonetic dimensions and L1s.
+
+Stimuli
+Our stimuli include two Mandarin tonal prototypes and 36 pitches synthesized from the
+prototypes. The two prototypes are carried in two meaningful monosyllabic Mandarin words
+b
+"eight" (T1) and b
+"a bully" (T4), and were recorded from a male native speaker of
+Mandarin who was in his late 20s at the time of recording. The base syllable /ba/ was selected
+for the following reasons: its combinations with all four tones are meaningful and common
+Mandarin characters, and the characters out of the combinations are all of high frequency. Our
+choice ensures naturalness of recording and minimum bias from word meaning in perception.
+Each syllable was repeated 9 times. One clear utterance of T1 and one clear utterance of
+T4 were chosen as the exemplars of the prototypes and the bases for stimuli preparation. The
+average pitch value of our talker's T1 was 115 Hz, and the pitch range of his T4 was from
+135 to 75 Hz. The bases were modified in 2 steps: duration modification and pitch synthesis
+using Praat (Boersma and Weenink 2011). First, the duration of the two chosen syllables was
+adjusted to 500 ms, and the duration-adjusted syllables were used as the prototypical T1 and
+T4. Secondly, the pitch value of the prototypical T1 was modified along two dimensions, pitch
+height (F0) and pitch slope (F0), at three points, i.e., onset (0 ms), 100 ms from onset, and
+offset (500 ms). F0 refers to the average pitch of the first 100 ms from onset. F0 stands for
+pitch difference between 101 ms and 500 ms. Thirdly, a 500-Hz low-pass filter was applied
+to minimize influences of segmental information from the two prototypical syllables as well
+as all the synthesized pitches. In this way, the stimuli were no longer words but more like
+humming sounds to the ear.
+Thirty six stimuli were then synthesized in 6 steps, 6 Hz apart from each step, along the
+dimensions of pitch height (F0) and pitch slope (F0). Figure 1 below presents an illustration
+of pitch manipulation and the outcomes. For example, as illustrated in the leftmost panel in
+Fig. 1, the onset of F0 is set at 130 Hz and maintained for 100 ms. The onset-offset F0
+difference is set to start from 0 to 30 Hz. With a 6-Hz step, 6 values of F0 is yielded: 0, 6,
+12, 18, 24, and 30 Hz. In this way, 6 synthesized pitches with the same F0 onset but different
+slopes (F0) are generated. They include a perfect level pitch at 130 Hz, and five contour
+pitches with varying falling slopes (130-124, 130-118, 130-112, 130-106, and 130-100
+Hz).
+If the equal-distance manipulation in Hz is converted to semitone or log measurement,
+differences between adjacent levels of pitches at lower frequency range are greater than those
+at higher range, hence should be more detectable in perception. In other words, this validates
+that the linearity of stimuli should not affect the perceptual non-linearity.
+
+Procedure
+Stimuli were presented in an ABX paradigm with A and B as two references (prototypical
+T1 and T4) and X as the target. The X sound was chosen randomly from the 36 synthesized
+stimuli.
+
+123
+
+112
+
+J Psycholinguist Res (2017) 46:107-124
+
+Fig. 1 Illustration of tone synthesis along dimensions of F0 and F0
+
+Fig. 2 Screenshot of the experiment interface
+
+Participants listened through headphones to stimuli played by computers in a speech lab
+or a quiet classroom. They could adjust the sound volume to a clear and comfortable level.
+In each trial, they heard a trio of sounds with 500-ms inter-stimulus-intervals. They were
+instructed to identify whether X is similar to A or B, by clicking the corresponding button,
+as shown in Fig. 2. They then were asked to click the button with the corresponding digit
+to rate the degree of similarity between X and the A/B they just selected. The rating was on
+a 5-point scale with 1 being "very similar" and 5 being "not very similar". The scale was
+placed below the buttons of A and B on the computer screen.
+The experiment was self-paced, and participants were allowed to listen to each trial as
+many times as they wanted to. Once they made a decision, however, they could not replay
+again. They were required to make a goodness-of-fit judgment before proceeding to the next
+trial. After 10 practice trials at the beginning of the test, each participant completed two
+complete test sessions. Each session contained 36 trials. All 36 synthesized stimuli were
+presented once in one session, and the sequence was randomized. The T1/T4 presentation
+order was consistent within one session, but reversed in the other session. The sequence of
+the T1/T4 or T4/T1 order was counterbalanced across participants.
+
+Prediction of Perceptual Outcomes
+The tonal languages involved in the study are Mandarin, Cantonese, Thai, and Northern
+Vietnamese. Mandarin contains 4 phonemic tones: T1 (high level), T2 (high rising), T3
+(low falling-rising), and T4 (high falling), of which T1 and T4 are the focus of the study.
+Figure 3a shows the pitch contours of Mandarin tones (redrawn by referring to Lee et al.
+2008). Cantonese contains 6 phonemic tones: high level, mid level, low level, high rising,
+
+123
+
+J Psycholinguist Res (2017) 46:107-124
+
+113
+
+Fig. 3 a f0 contours of Mandarin tones; b f0 contours of Cantonese tones; c f0 contours of Thai tones; and
+d f0 contours of Northern Vietnamese tones
+
+low rising, and extra low (Yip 2002). Pitch contours of the six Cantonese tones are shown
+in Fig. 3b (redrawn by referring to Ma et al. 2006). Thai has 5 phonemic tones: high (high
+rising), mid (mid falling), low (low falling), rising (low falling-rising), and falling (high
+falling). Pitch contours Thai tones are shown in Fig. 3c (redrawn by referring to Wayland
+1997; Yip 2002). Northern Vietnamese has 6 phonemic tones that differ in pitch contour
+ tone), low falling (huyen tone),
+and voice quality: high level (ngang tone), high rising (sac
+glottalized low falling (na.ng tone), glottalized falling rising (nga tone), and laryngealized
+falling rising (hoi tone). Tones in syllables with voiceless onset have higher pitch values
+compared to tones with a voiced onset (Brunelle 2009). Pitch contours of Vietnamese tones
+are shown in Fig. 3d (redrawn by referring to Brunelle 2009). The two short tones marked
+ and na.ng tones with stops at syllable-final positions.
+with "s" in Fig. 3d are variants of the Sac
+The non-tonal languages involved are Indo-European language. They are English, French,
+Spanish, Russian, and Hindi, which all use pitch variations only at the sentential level for
+contrasting at least the falling and rising intonation contours.
+As reviewed in earlier sections, both phonetic and phonological features of a tonal and
+prosodic system, as well as listeners' attention to fine details in various dimensions, must be
+considered in order to account for L2 tone perception more satisfactorily. Predictions for perceptual outcomes are thus proposed as follows. First, tonal speakers should be different from
+non-tonal speakers in their perceptual patterns of the synthesized pitches varied along the
+two dimensions. The former groups should show a more confident classification of synthesized tones (indexed by a stronger preference in tone identification) and possibly categorical
+perception of tonal stimuli. The non-tonal speakers, on the other hand, are expected to be less
+certain in classifying stimuli containing modifications along the two phonetic dimensions.
+Second, tonal speakers' results should show a clear perceptual boundary between T1/T4 categories, and the boundary may shift across L1 groups due to their distinctive ways in using the
+relevant pitch dimensions to contrast their L1 tones. Furthermore, similar perceptual patterns
+
+123
+
+114
+
+J Psycholinguist Res (2017) 46:107-124
+
+are expected if a tonal speaker's L1 shares similar tonal features as contained in Mandarin
+T1 and T4.
+But since the Mandarin T1 and T4 differ in at least two acoustic dimensions--average
+pitch and pitch slope, it is possible that speakers of different tonal L1s vary in whether and
+how closely they pay attention to relevant cues. It is predicted that Mandarin speakers should
+find it easy to identify those that phonetically resemble their native T1 or T4. The more similar
+a stimulus is to the prototype, the higher the identification percentage should be. Moreover,
+Mandarin speakers should be more sensitive to changes in the dimension of pitch slope than
+to those of pitch height, because the former is reported as the primary cue to tonal contrasts
+in Mandarin (Li and Shuai 2011).
+For Thai speakers, they should find it easier to identify pitches that are phonetically similar
+as their native level and falling tones. However, as noted above since the two level tones in
+Thai are slightly falling (Gandour et al. 1988; Gandour and Ponglorpisit 1990), the stimuli
+with mild falling slopes may be assimilated as their level tones. Thai speakers should also be
+sensitive to changes in the pitch height dimension, as there are three level tones at high, mid
+and low-levels in Thai.
+For Cantonese speakers, as their L1 does not use high-falling contours for tonal contrast as
+our Mandarin prototypes, they may get confused by our stimuli. Similar to the Thai speakers,
+Cantonese speakers should be more sensitive to changes in the pitch height dimension as
+Cantonese contain 3 phonemic level tones. Moreover, the high level tone is said to have a
+high falling variant (So 1996), which may complicate the identification of pitch contours.
+Cantonese speakers may be able to detect the subtle allophonic difference, but it may also be
+possible that they tend to ignore such difference in tone categorization.
+For Northern Vietnamese speakers, because their L1 has one high level tone, they should
+find most level pitches similar to this native tone. But since there are no typical high falling
+tones in Northern Vietnamese, it may be difficult for these speakers to detect the falling
+contour. Additionally, because multiple tone pairs in Vietnamese are mainly differentiated
+by pitch height, Vietnamese speakers should be very sensitive to the pitch height dimension
+as well.
+For our Indo-European language speakers, because their L1s do not use pitch variations
+to contrast lexical meanings but to signal intonation classes, they would find the distinction
+between level and falling pitches comparable as that between rising and falling intonation
+(such as that between a yes-no question and a general declarative in English). In this sense,
+it is reasonable to assume that they should find it easier to distinguish between level pitches
+and contour ones. However, as such distinction in their L1s is not phonemic, they may be
+more likely to ignore pitch variations within the rising/falling intonation classes. Therefore, they should find it difficult to distinguish between falling pitch contours. Moreover,
+as noted in previous studies, Indo-European speakers seem sensitive to changes in the pitch
+height dimension. Therefore, they would perform better with the distinction between level
+pitches.
+
+Results
+Percentages of T1 responses in T1/T4 classification and similarity ratings in each tone categories were tallied for each of the 36 stimulus. Mean values were then calculated for each
+listener group for further analysis with L1 as the between-subject factor, and F0 onset and
+F0 as the within-subject factors. Post-hoc analysis using the Bonferroni correction was
+carried out in each L1 group for detailed effects of F0 onset and F0.
+
+123
+
+J Psycholinguist Res (2017) 46:107-124
+
+115
+
+Tone Classification
+Main effect of L1 is found on the percentage of T1 responses (F(4, 95) = 5.51, p <
+.001, 2p = .188). Main effects are also found for both F0(F(2.42, 229.93) = 17.10, p <
+.001, 2p = .153) and F0 (F(2.37, 225.29) = 95.42, p < .001, 2p = .498). To compare
+the difference between language groups, a post-hoc comparison of the T1 response is conducted which reveals a significant difference between Indo-European and Mandarin speakers
+( p < .01), and between Indo-European and Thai language speakers ( p < .01). There is also
+significant difference between Cantonese and Thai speakers ( p < .05). Secondly, L1 is also
+found to interact significantly with other factors. There are significant interactions between
+L1 and F0 (F(9.68, 229.93) = 2.35, p < .05, 2p = .090), and between L1 and F0
+(F(9.48, 225.29) = 2.57, p < .01, 2p = .098) in T1/T4 classification. A significant interaction between F0 and F0 (F(18.54, 1761.22) = 3.43, p < .001, 2p = .035) is found as well.
+
+Similarity Scaling
+Scores in similarity scaling were first grouped in two categories based on the results of tone
+classification and then analyzed separately by category. For T1, a three-way ANOVA with
+L1, F0 onset, and F0 as between-subject factors finds a main effect of L1 on the similarity
+scaling of tokens judged as belonging to the T1 category (F(4, 15.8) = 3.28, p < .05).
+The post hoc analysis reveals significant difference between Cantonese and Thai speakers
+( p < .01), and also between Cantonese and Mandarin speakers ( p < .05). F0 onset and
+F0 also influenced the similarity scaling significantly (F0 onset : F(5, 385.8) = 64.1, p <
+.001, F0 : F(5, 146) = 24.3, p < .001). There were significant interactions between L1
+and F0 onset (F(20, 39.3) = 1.66, p < .05), between L1 and F0 (F(20, 41.4) = 1.72, p <
+.01), and also between F0 and F0 (F(25, 67.6) = 2.25, p < .001).
+For T4, a three-way ANOVA with L1, F0 onset, and F0 as between-subject factors finds
+main effects of all three on the similarity scaling of tokens judged as belonging to T4: L1,
+F(4, 25.6) = 4.78, p < .001; F0 onset, F(5, 59.4) = 8.89, p < .001; and F0, F(5, 40.1) =
+5.9, p < .001. Post-hoc analysis reveals significant differences between Cantonese and
+Mandarin speakers ( p < .05), and between Cantonese and Vietnamese speakers ( p < .05).
+No significant interactions were found between the three factors ( p > .05 for all).
+For a detailed comparison of the effects of the two dimensions across L1s, 2-way repeatedmeasures ANOVA in each L1 groups is carried out with F0 and F0 as between-subject
+factors. Table 2(a-c) summarizes the statistical results in tone classification, and similarity
+scaling for both T1 and T4. Figure 4 is a schematic representation of T1/T4 identification
+and similarity scaling as a function of F0 and F0.
+As listed in Table 2, the effect of pitch slope (F0) is significant independent of L1 backgrounds, while the effect of pitch onset (F0) varies across L1 groups. Of all groups, Mandarin
+speakers ranked the highest in their responses to variations of F0 in tone identification and
+goodness-fit. Their performance also suggests a significant interaction between F0 and F0
+in T4 goodness-fit.
+As discussed earlier, the two pitch dimensions examined are used in different ways to
+contrast tones in Cantonese, Thai, and Vietnamese. Native speakers of these tonal languages
+should be more sensitive than non-tonal language speakers to changes along the two pitch
+dimensions, but to different extents. Of the five groups, Cantonese speakers came as the
+second in the degree of sensitivity to F0 in tone identification, to F0 in T1 goodness-fit, and
+to F0 in T4 goodness-fit. Their performance suggests the strongest influence by F0 onset
+in T4 goodness-fit.
+
+123
+
+116
+
+J Psycholinguist Res (2017) 46:107-124
+
+Table 2 Main effects of phonetic dimensions on perceptual outcome by L1 groups
+Language group
+
+F0
+
+F0
+
+F0 x F0
+
+a. % of T1 responses in T1/T4 classification (F value and significance level)
+Mandarin
+
+4.573**
+
+69.490***
+
+-
+
+Cantonese
+
+3.313*
+
+19.182***
+
+-
+
+Thai
+
+-
+
+13.835***
+
+-
+
+N. Vietnamese
+
+13.983***
+
+18.180***
+
+3.021**
+
+Indo-European
+
+4.229*
+
+16.038***
+
+-
+
+b. Similarity Scaling _T1
+Mandarin
+
+13.7***
+
+13.7***
+
+-
+
+Cantonese
+
+17.9***
+
+3.1**
+
+-
+
+Thai
+
+17.2***
+
+12.5***
+
+-
+
+N. Vietnamese
+
+8.8***
+
+5.58***
+
+1.9*
+
+Indo-European
+
+30.2***
+
+3.4*
+
+-
+
+c. Similarity Scaling _T4
+Mandarin
+
+5.8***
+
+6.4***
+
+2.03**
+
+Cantonese
+
+7.9***
+
+3.1*
+
+0.79**
+
+Thai
+
+-
+
+1.9*
+
+-
+
+N. Vietnamese
+
+-
+
+2.3*
+
+-
+
+Indo-European
+
+3.2**
+
+1.7*
+
+-
+
+* p < 0.05; ** p < 0.01; *** p < 0.001
+- No significance
+
+Thai speakers' tone identification was the least influenced by either F0 onset or F0 in
+all groups. In T1 similarity scaling, they appeared more sensitive to F0 than to F0 onset,
+the former of which ranked the second and the latter the third of all groups. They seemed
+less sensitive to F0 and not at all to F0 onset in T4 similarity scaling.
+Northern Vietnamese speakers showed the greatest sensitivity to F0 onset but much less
+so to F0 in tone identification. In similarity scaling of both T1 and T4, the influence from
+F0 and F0 was intermediate on the performance of Vietnamese speakers, and ranked at the
+last and the third respectively among the five groups.
+Indo-European speakers appeared sensitive to both F0 and F0 at an intermediate level
+compared with other groups. They were, however, the most sensitive group to F0 onset in
+T1 similarity scaling but much less so to F0. Their sensitivity to F0 onset and F0 in T4
+similarity scaling, however, was ranked the third and the last of all groups.
+Summing up the statistical analysis of the three variables: L1, F0, and F0, the following general results are found: main effects of all three on both tone identification and
+goodness-fit. Significant interaction between the three variables is also noted. Comparison
+across L1 groups confirms the main effect of F0 on tone perception irrespective of L1. The
+main effect of F0 onset and the interaction between F0 and F0, however, vary significantly
+across language groups.
+
+Discussion
+First of all, results further confirm that our stimuli manipulated on a linear scale did not interfere with the nonlinear nature of our perceptual space. As mentioned in stimulus preparation,
+
+123
+
+J Psycholinguist Res (2017) 46:107-124
+
+117
+
+Fig. 4 Percentage of T1/T4 identification (ID%) and similarity scaling (SS) as a function of F0 and F0.
+Unfilled circles stand for T1, filled ones for T4; and upside-down triangles stand for uncertainty. The size of
+circles indicates the degree of preference to one of the two tone categories
+
+if our equidistant (in Hz) stimuli are converted to semitone or log measurement, distances
+between adjacent steps in lower frequency ranges become greater than those in higher ranges.
+Then differences between adjacent levels in higher ranges should be more conspicuous and
+perceptually detectable. However, many of our participants could distinguish between adjacent pitch heights above 112 Hz, but seemed unable to detect the difference between 100
+and 106 Hz. This confirms that the linearity in our stimulus matrix did not affect the actual
+perception.
+Secondly, the main effect of L1 on tone identification and goodness-fit suggests that the
+tendency to identify a pitch as belonging to the level or falling tone category is significantly
+
+123
+
+118
+
+J Psycholinguist Res (2017) 46:107-124
+
+different across listener groups. Listeners' L1s affect the overall tone perception, and also
+determine the relative weighting assigned to different phonetic dimensions. L1's influence
+on cue (re)weighting finds evidence in the various interactions between L1 and F0, and also
+between L1 and F0. These joint-effects indicate that listeners of different L1s give different
+weights to F0 and F0 when they distinguish between level and falling pitch contours.
+There are cross-language effects of F0 and F0 in addition to the influence of L1's
+phonological system. Influences of the native prosodic system are reflected in L1's main
+effect, the interaction between L1 and F0, and the interaction between L1 and F0. F0
+is not the only primary cue in distinguishing level and falling pitch contours, but F0 also
+interferes with the judgment of the pitch contour.
+In the detailed analysis of F0 and F0 within each language group, the percentage of
+T1 response was interpreted as an index of L1 influence, while the similarity scaling an
+indication of phonetic distances discernible to listeners. For example, Mandarin speakers
+found both F0 and F0 (though no significant interaction between the two) an important cue
+to the classification of level and falling contours, which is a reflection of the status of these
+cues in their native tonal inventory.
+
+L1 Influence
+Five groups of listeners were recruited including native Mandarin, Cantonese, Thai, Vietnamese, and Indo-European speakers. They were comparable regarding the formal training in
+spoken Mandarin and off-campus opportunities to practice Mandarin. Therefore, we hypothesized that difference in their perceptual performance if confirmed, may be results of L1
+influences.
+
+Mandarin
+Recall that Mandarin has three contour tones (high rising, low falling-rising, and high falling)
+and one level tone (high level), which contrast with each other mainly in pitch slope and
+direction. These two cues have been proved the most robust in perceptual distinction of
+Mandarin tones. Hence, Mandarin listeners should be sensitive to the F0 (pitch slope)
+changes. This prediction is confirmed in our data. Mandarin listeners did show the sharpest
+sensitivity to the dimension of F0 in both tone identification and goodness-fit, suggesting
+that they relied on pitch direction as one of the major perceptual cues to distinguish tones.
+Strong influence of F0 onset is found in tone identification and goodness-fit of T4 exemplars,
+but not in goodness-fit of T1 exemplars. As shown in Fig. 4, stimuli with a F0 smaller
+than 12 Hz were predominantly identified as T1 irrespective of their F0 onsets. Such result
+seems to suggest a categorical boundary at around 12 Hz between the level and falling tonal
+contours. Boundaries at similar ranges were reported in neurolinguistic research on Mandarin
+tone perception (Xi et al. 2010). Secondly, similarity scaling scores of both T1 and T4 relied
+strongly on F0, but slightly less dependent on F0 onset in T4 and much less so in T1. The
+strong but varied roles of F0 onset and F0 can be explained by the allophonic variations of T3
+in Mandarin. T3 is a contour tone with mid-falling-rising pitch change, and has been argued
+to be the only one that is phonologically low but realized as low/mid-rising or low/mid-falling
+in phonetic contexts (Lin and Wang 1984; Cao 2002; Wang et al. 2012). These allophonic
+variations of T3 may overlap with our falling pitches at lower F0 frequency ranges, and
+confused our Mandarin speakers in goodness-fit of T4 tokens. In sum, F0 is the primary
+perceptual cue that Mandarin speakers relied on in tone identification and goodness-fit. In
+
+123
+
+J Psycholinguist Res (2017) 46:107-124
+
+119
+
+judging the fine details contained in equidistant exemplars of T4, phonological and phonetic
+features of another tone seem influential in the process.
+
+Cantonese
+As reviewed earlier and generally agreed upon, of the 6 tones in Cantonese, 3 are level: high,
+mid, low, and 2 are contour tones with low F0 onset: high-rising (low-mid), and extra-low
+(low-falling). Cantonese speakers were predicted to be sensitive to pitch onsets and average
+F0. In our results, however, Cantonese speakers seemed to find F0 much more influential
+than F0 onset in tone identification. Only in goodness-fit of T1/T4 exemplars, did F0 onset
+prove itself a more important cue than F0. Cantonese speakers have been reported unable
+to distinguish various level tones in isolation, but the presence of three level tones may have
+sharpened their sensitivity to the overall distinction between level tones and rising/low-falling
+tones in Cantonese. In this sense, they may have grown more tolerant to phonetic variations
+along the dimension of F0 onset at least in isolated contexts. Moreover, F0 onset and F0 only
+interacted with each other significantly in T4 but not in T1 similarity rating. In addition to the
+three level tones, Cantonese contains only a phonologically low tone (T21) with a phonetic
+realization of a slight falling pitch contour. The association of a falling pitch with a certain F0
+onset and the lack of steep pitch slopes, may together contribute to the interaction of F0 onset
+and F0 in the similarity of T4 tokens and also to a somewhat stronger reliance on F0 onset.
+So in our study, Cantonese speakers used general pitch direction as the main cue to
+distinguish level tones from falling ones, whereas in fine differentiation of level tones they
+resorted to F0 onset.
+
+Thai
+Thai listeners in this study labeled the majority of the stimuli as level tones, ranked the highest
+of all five groups. They were, however, not sensitive to F0 onset in either tone categorization
+or in similarity scaling of T4 exemplars. Only when judging T1 goodness-fit, were Thai
+speakers affected by the two factors. Our results show that all pitches higher than 106 Hz and
+with a slight falling (smaller than 24 Hz) were identified as belonging to the T1 category.
+Only when the falling is steep (greater than 24 Hz), did Thai speakers considered the pitch
+as high-falling as T4.
+Recall that Thai has 5 phonemic tones: high (high rising), mid (mid-falling), low (low
+falling), rising (low falling-rising), and falling (high falling). As Mandarin, Thai uses both
+pitch slope and shape to contrast tones, e.g. as in the high falling tone. So, Thai speakers
+should be sensitive to changes along the pitch slope dimension. But, their high and mid tones
+are usually described as level tones with slight falling (Gandour et al. 1988; Gandour and
+Ponglorpisit 1990). This means that phonetic falling at certain onset would not trigger the
+recognition of a falling tone in Thai. The high-falling must be associated with higher onset
+and steeper falling. Together this explains Thai speakers' tendency in classifying only stimuli
+with higher than 112 Hz-onset and 30 Hz-F0 for a true falling tone.
+
+Northern Vietnamese
+The Northern Vietnamese speakers were greatly influenced by F0 onset and F0 in tone
+identification, and also in similarity scaling of T1 exemplars. Their performance in tone
+identification was the only group that showed a significant interaction between the two factors.
+
+123
+
+120
+
+J Psycholinguist Res (2017) 46:107-124
+
+They were, however, only sensitive to F0, but not to F0 onset in similarity scaling of T4
+exemplars.
+Northern Vietnamese speakers relied on both F0 onset and F0 in categorizing tones: the
+higher the F0 onset is, the greater the F0 must be (the steeper the pitch slope) so that a
+stimulus may sound like a high-falling tone. The joint effect may be accounted for by the
+Northern Vietnamese tonal system. Recall that the tone inventory of Northern Vietnamese
+contains 6 tones contrasting in both pitch contours and voice quality: high level, high rising,
+low falling, glottalized low falling, glottalized falling rising, and laryngealized falling rising.
+As tones in syllables with voiceless onset have higher pitch values compared to tones with
+a voiced onset, pitch height may be another cue to distinguish tones, though this cue may
+not be as robust as the others. So, Vietnamese speakers should be sensitive to both F0 and
+F0 in tone classification. Our results confirm this hypothesis. More interestingly, Northern
+Vietnamese speakers showed a stronger preference to T4 than other groups. This may be
+explained by the fact that there are more falling tones in Vietnamese, which provides its
+speakers a greater tolerance to variations to the falling tone category. In similarity scaling,
+F0 onset did not play a significant role, as F0 did, in goodness-fit of T4 exemplars. This
+suggests that Vietnamese speakers may have relied on the fine phonetic details of L1 tone
+prototypes in similarity scaling of non-native stimuli. So, though they perceived stimuli as
+belonging to the T4 category, they detected the phonetic differences between a stimulus and
+the prototypical falling tones.
+
+Indo-European Languages
+None of the Indo-European languages in our study uses pitch variations in differentiating
+lexical meanings, but all languages involved have the distinction between general falling and
+rising contours for pragmatic purposes. As expected, Indo-European speakers were sensitive
+to F0 in tone categorization. This is in accord with the finding from other research (So and
+Best 2010). Interestingly, our Indo-European speakers showed a very sharp sensitivity to F0
+onset in T1 goodness-fit (even higher than all tonal language groups), in addition to their
+sensitivity to F0. This suggests that these speakers' sensitivity should be mainly based on
+physical acoustic features rather than on phonological or phonetic characteristics of tones.
+Though on average, our Indo-European speakers had learned Mandarin for over a year, they
+were not able to make usage of their limited knowledge in Mandarin tones.
+To summarize, the five groups of listeners showed distinctive patterns in their perceptual
+judgments of the synthesized tones. In T1/T4 identification, all groups except for Thai showed
+strong sensitivity to variations of F0 onset, but only Mandarin and Thai listeners were sensitive
+to F0. Results of similarity rating of T1 samples showed that all groups were significantly
+influenced by variations of both F0 onset and F0. Results of similarity rating of T4 samples
+showed that all groups were significantly influenced by F0, but only Mandarin, Cantonese
+and Indo-European listeners were affected by changes to F0 onset. These preferences/ biases
+towards changes along the two phonetic dimensions indicate clear and strong effects from
+the listeners' native prosodic systems that use these dimensions for lexical or pragmatic
+contrasts.
+Recall that our Cantonese listeners learned Mandarin for a much longer time than other
+groups. So, we hypothesized that their more-than-9-year Mandarin experience would enable
+them to achieve a more native-like performance compared with those with much less experience in Mandarin. Our results show that the Cantonese group's performance was not more
+similar, than those of non-native groups, as that of the native Mandarin speakers. Instead,
+their perceptual patterns resembled more of those by the Indo-European group, who only
+
+123
+
+J Psycholinguist Res (2017) 46:107-124
+
+121
+
+learned Mandarin for fewer than two years on average. Our previous studies as cited earlier
+had shown that even very advanced Hong Kong Cantonese learners of Mandarin had difficulties in perceiving Mandarin high-level and high-falling tones. Our Cantonese participants
+in this study had learned to speak the Standard Mandarin in primary schools, but did not
+have many opportunities to practice it or to talk with native speakers. Cantonese group's formal Mandarin experience lent them little advantage in perceiving the synthesized Mandarin
+tones. On the other hand, with a shorter period of Mandarin learning, N. Vietnamese and
+Thai groups' performances were both much closer to that of the Mandarin speakers.
+This pattern of results suggests that the listeners' L1 tonal systems assert a much stronger
+effect on their perception than their formal experience in Mandarin does. This is further
+confirmed by a lack of a significant correlation between duration of Mandarin leaning and
+listeners' identification scores (Pearson correlation, r = -0.088, p = 0.293.). So, it is safe
+and appropriate to conclude that the difference between the listener groups is not due to their
+varying amount of Mandarin formal learning experience, but the different L1 tonal systems.
+
+Influence of Other Factors
+In addition to native linguistic experience, effects of other factors are also identified. Mandarin
+has four phonemic tones: high-level, low-rising, mid-rising-falling, and high-falling. Pitch
+direction should serve as the primary cue in tone discrimination whereas pitch height at onset
+should play a less robust role than pitch slope. Therefore the unexpected significant role of
+F0 in the Mandarin group should be a result of the factors other than their L1. This may be
+due to the nature of the stimuli used in the study. Our T1 prototype is at around 110 Hz, so
+stimuli with an F0 onset at around 110 Hz with minor acoustic variations should be more
+likely to be perceived as a fair exemplar of T1. Other stimuli that are acoustically distant
+from the prototype may be less likely to be perceived as T1. This is confirmed by the highest
+percentage of T1 responses to stimuli with F0 onset at 112 and 118 Hz.
+Indo-European listeners' performance also shows a significant role of F0. Their sensitivity
+to the F0 dimension is interpreted as an outcome of their psychophysical ability in distinguishing between pitch differences (Wang 1976; Peng et al. 2010). Peng et al. (2010) studied
+the categorical perception of Mandarin lexical tones, and reported that non-tone language
+speakers performed the best in discriminating between the pure level and slightly falling pitch
+contours. In our study, F0 of 0 Hz and F0 of 6 Hz did not trigger T4 identification. This
+may be attributed to the experience in Mandarin our Indo-European listeners had gained.
+Though limited, such experience may have lent them an advantage than naive speakers in
+making general judgment on the level-falling distinction. But of course, our Indo-European
+speakers' experience in Mandarin was still not sufficient to help direct their attention to
+phonological features rather than phonetic details in tone categorization.
+Cantonese listeners showed weaker sensitivity to the F0 dimension, compared with
+Mandarin listeners. However, they were found sensitive to the difference in F0 between
+12 and 18 Hz. This is in conformity with previous studies such as Peng et al. (2010), which
+proposed that these values of F0 may fall into the range where native Cantonese listeners
+would draw the boundary between Mandarin T1 and T4 categories.
+
+Conclusion
+Our study examined the perception of synthesized Mandarin tones by speakers from 5 L1
+groups. In addition to roles of the L1, we also assessed effects of F0 onset and F0 in
+
+123
+
+122
+
+J Psycholinguist Res (2017) 46:107-124
+
+categorizing pitch contours, by varying our stimuli in equidistant acoustic steps along these
+two dimensions. Results reveal the main effect of L1 on perception of the level versus falling
+tonal contrast. Speakers' sensitivity to the two phonetic dimensions of F0 and F0 also varies
+across L1 groups.
+We confirmed that L1 tonal/prosodic system affects the identification of the level and
+falling pitch contours. For example, mid and low level tones in Thai are slightly falling,
+which prompts the Thai participants to classify a majority of the stimuli to the T1 category.
+Secondly, in both the pitch height and pitch slope dimensions, the status of pitch correlates
+in the native tonal system greatly affects the perception of relevant cues in specific ways. For
+example, Mandarin listeners showed greatest sensitivity to changes of pitch slope among all
+listener groups, because pitch slope is the primary perceptual cue in contrasting Mandarin
+tones.
+As discussed previously, current L2 learning or perception models predict that the L1
+phoneme categories alter the perceptual space in the perceptual learning of L2 sounds in
+various ways, and L1 Selective Perception Routines as proposed by the ASP Model affect
+the attention to the cues in the L2 input. Our research confirms that phonological features and
+phonetic characteristics of both L1 and L2 jointly influence how L2 sounds are perceived. As
+tonal contrasts may occur in various dimensions, a satisfactory account of L2 tone perception
+should also take into consideration listeners' various degrees of attention to fine phonetic
+details in a multidimensional way.
+Finally, our study used synthesized pitches modified along specific phonetic dimensions.
+These systematic continua enable an examination on not only how important a specific
+phonetic cue is to our perception of certain sounds, but also how well we can distinguish
+along the continuous changes of a specific phonetic cue. Future studies may use continua of
+semitones that match more with the human perceptual scale. Production of tones could be
+examined and correlated with analysis on tone perception, so as to discuss how L1 affects L2
+production as well as to examine the relationship between tone perception and production.
+Acknowledgements This study is supported by the City University of Hong Kong CTL Small-Scale Research
+Grant and CLASS Grant (#9610158) to the first author. We thank the anonymous reviewers who kindly offered
+meticulous and insightful comments in each round of revision. Responsibilities of all errors and omissions
+remain mine. We also thank Zhang Caicai, Liang Lei, Pham Thu Ha, for their help with recruiting participants
+and collecting data. Special thanks go to our former research associate, Dr. Shuai Lan, for her assistance in
+data collection, preliminary statistics analysis, and her input to an earlier draft of the paper.
+
+References
+Aoyama, K., Flege, J. E., Guion, S. G., Akahane-Yamada, R., & Yamada, T. (2004). Perceived phonetic
+dissimilarity and L2 speech learning: the case of Japanese /r/ and English /l/ and /r/. Journal of Phonetics,
+32(2), 233-250.
+Best, C. T. (1995). A direct realist view of cross-language speech perception. In W. Strange (Ed.), Speech
+perception and linguistic experience: Issues in cross-language research (pp. 171-204). Timonium: York
+Press.
+Best, C. T., McRoberts, G. W., & Goodell, E. (2001). Discrimination of non-native consonant contrasts varying
+in perceptual assimilation to the listener's native phonological system. Journal of the Acoustical Society
+of America, 109(2), 775-794.
+Best, C. T., & Tyler, M. (2007). Nonnative and second-language speech perception: Commonalities and
+complementarities. In O. S. Bohn & M. Munro (Eds.), Language experience in second language speech
+learning: In honor of James E. Flege (pp. 13-34). Amsterdam: Benjamins.
+Boersma, P., & Weenink, D. (2011). Praat: Doing phonetics by computer [Computer program], version 5.2.16.
+http://www.praat.org.
+
+123
+
+J Psycholinguist Res (2017) 46:107-124
+
+123
+
+Bohn, O.-S., & Flege, J. E. (1990). Interlingual identification and the role of foreign language experience in
+L2 vowel perception. Applied Psycholinguistics, 11, 303-328.
+Bohn, O.-S., & Best, C. T. (2012). Native-language phonetic and phonological influences on perception of
+American English approximants by Danish and German listeners. Journal of Phonetics, 40(1), 109-128.
+Brunelle, M. (2009). Tone perception in Northern and Southern Vietnamese. Journal of Phonetics, 37(1),
+79-96.
+Cao, J. F. (2002). The relationship between tone and intonation. Zhongguo Yuwen, 3, 195-202. (In Chinese).
+Flege, J. E. (1995). Second language speech learning: Theory, findings, and problems. In W. Strange (Ed.),
+Speech perception and linguistic experience: Issues in cross-language research (pp. 233-277). Timonium: York Press.
+Francis, A. L., & Nusbaum, H. C. (2002). Selective attention and the acquisition of new phonetic categories.
+Journal of Experimental Psychology: Human Perception and Performance, 28(2), 349-366.
+Francis, A. L., Ciocca, V., Ma, L., & Fenn, K. (2008). Perceptual learning of Cantonese lexical tones by tone
+and non-tone language speakers. Journal of Phonetics, 36(2), 268-294.
+Gandour, J., Weinberg, B., Petty, S. H., & Dardarananda, R. (1988). Tone in Thai alaryngeal speech. Journal
+of Speech and Hearing Disorders, 53, 23-29.
+Gandour, J., & Ponglorpisit, S. (1990). Disruption of tone space in a Thai-speaking patient with subcortical
+aphasia. Journal of Neurolinguistics, 5(2-3), 333-351.
+Goldstone, R. (1994). Influences of categorization on perceptual discrimination. Journal of Experimental
+Psychology: General, 123(2), 178-200.
+Goldstone, R. (1998). Perceptual learning. Annual Psychological Review, 49, 585-612.
+Guion, S., & Pederson, E. (2007). Investigating the role of attention in phonetic learning. In O. S. Bohn & M.
+Munro (Eds.), Language experience in second language speech learning: In honor of James E. Flege
+(pp. 57-78). Amsterdam: Benjamins.
+Halle, P. A., Chang, Y.-C., & Best, C. T. (2004). Identification and discrimination of Mandarin Chinese tones
+by Mandarin Chinese vs. French listeners. Journal of Phonetics, 32(3), 395-421.
+Hao, Y. C. (2012). Second language acquisition Mandarin tones by tonal and non-tonal language speakers.
+Journal of Phonetics, 40(2), 269-279.
+Iverson, P., & Kuhl, P. K. (1995). Mapping the perceptual magnet effect for speech using signal detection
+theory and multidimensional scaling. Journal of the Acoustical Society of America, 97, 553-562.
+Iverson, P., & Evans, B. G. (2007). Learning English vowels with different first-language vowel systems:
+Perception of formant targets, formant movement, and duration. Journal of the Acoustical Society of
+America, 122(5), 2842-2854.
+Khouw, E., & Ciocca, V. (2007). Perceptual correlates of Cantonese tones. Journal of Phonetics, 35(1), 104-
+117.
+Lee, C. Y., Tao, L., & Bond, Z. S. (2008). Identification of acousctically modified Mandarin tones by native
+speakers. Journal of Phonetics, 36, 537-563.
+Li, B., & Shuai, L. (2011). Effects of native language on perception of level and falling tones. In Proceeding
+of 17th international congress of phonetic sciences (pp. 1202-1205), Hong Kong.
+Li, B., & Zhang, C. (2010). Effects of F0 dimensions in perception of Mandarin tones. In Proceeding of the
+international symposium on Chinese spoken language processing (pp. 322-325), Tainan.
+Lin, T., & Wang, S. Y. (1984). Shengdiao ganzhi wenti (Tone perception). Zhongguo Yuyan Xuebao, 2, 59-69.
+(In Chinese).
+Ma, J. K., Ciocca, V., & Whitehill, T. L. (2006). Effect of intonation on Cantonese lexical tones. Journal of
+Acoustic Society of America, 120, 3978-3987.
+Peng, G., Zheng, H.-Y., Gong, T., Yang, R.-X., Kong, J.-P., & Wang, W. S.-Y. (2010). The influence of language
+experience on categorical perception of pitch contours. Journal of Phonetics, 38(4), 616-624.
+So, C. K., & Best, C. T. (2010). Cross-language perception of non-native tonal contrasts: Effects of native
+phonological and phonetic influences. Language and Speech, 53, 273-293.
+So, L. K. (1996). Tonal changes in Hong Kong Cantonese. Current Issues in Language & Society, 3(2),
+186-189.
+Strange, W. (2011). Automatic selective perception (ASP) of first and second language speech: A working
+model. Journal of Phonetics., 39, 456-466.
+Sun, K. C., & Huang, Ts. (2012). A cross-linguistic study of Taiwanese tone perception by Taiwanese and
+English listeners. Journal of East Asian Linguistics, 21(3), 305-327.
+Wang, P., Shi, F., Rong, R., Chen, X. D., Li, S., & Wang, X. X. (2012). Hanyu putonghua shangsheng de
+tinggan fanchou. Paper presented at the 20th annual conference of the IACL, Hong Kong. (In Chinese)
+Wang, W. S.-Y. (1976). Language change. Annals of the New York Academy of Sciences, 208, 61-72.
+
+123
+
+124
+
+J Psycholinguist Res (2017) 46:107-124
+
+Wang, Y., Jongman, A., & Sereno, J. A. (2003). Acoustic and perceptual evaluation of Mandarin tone productions before and after perceptual training. Journal of the Acoustical Society of America, 113(2),
+1033-1043.
+Wayland, R. P. (1997). Non-native production of Thai: Acoustic analysis and accentedness rating. Applied
+Linguistics, 18, 345-373.
+Wayland, R. P., & Guion, S. G. (2004). Training English and Chinese listeners to perceive Thai tones: A
+preliminary report. Language Learning, 54(4), 681-712.
+Wayland, R. P., & Li, B. (2008). Effects of two training procedures in cross-language perception of tones.
+Journal of Phonetics, 36(2), 250-267.
+Wu, M.-J., & Hu, M.-G. (2004). An analysis of Vietnamese students' error in Chinese Tones. [Shi Jie Han Yu
+Jiao Xue], 68(2), 81-87. (In Chinese).
+Xi, J., Zhang, L., Shu, H., Zhang, Y., & Li, P. (2010). Categorical perception of lexical tones in Chinese
+revealed by mismatch negativity. Neuroscience, 170(1), 223-231.
+Yang, J.-C., & Dushi, Q.-H. (2008). Interference of Vietnamese level tone in learning yinping and falling tones
+of Mandarin by Vietnamese students. Journal of Research on Education for Ethnic Minorities, Vol. 19,
+87(4), 83-88. (In Chinese).
+Yip, Moira. (2002). Tone (pp. 171-208). Cambridge: Cambridge University Press.
+
+123
+
+

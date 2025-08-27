@@ -1,0 +1,903 @@
+JSLHR
+
+Article
+
+Reducing the Effects of Background Noise
+During Auditory Functional Magnetic Resonance
+Imaging of Speech Processing: Qualitative and
+Quantitative Comparisons Between Two Image
+Acquisition Schemes and Noise Cancellation
+Graham A. Blackmana and Deborah A. Hall a,b
+
+Purpose: The intense sound generated during functional
+magnetic resonance imaging (fMRI) complicates studies of
+speech and hearing. This experiment evaluated the benefits
+of using active noise cancellation (ANC), which attenuates the
+level of the scanner sound at the participant's ear by up to
+35 dB around the peak at 600 Hz.
+Method: Speech and narrowband noise were presented at a low
+sound level to 8 listeners during fMRI using 2 common scanning
+protocols: short ("continuous") and long ("sparse") temporal
+schemes. Three outcome measures were acquired simultaneously
+during fMRI: ratings of listening quality, discrimination performance,
+and brain activity.
+Results: Subjective ratings and discrimination performance were
+significantly improved by ANC and sparse acquisition. Sparse
+
+D
+
+espite its widespread use in studies of speech and
+hearing, functional magnetic resonance imaging
+(f MRI) is still hampered by the intense acoustic
+sound produced during the operation of the magnetic resonance (MR) scanner (Foster, Hall, Summerfield, Palmer,
+& Bowtell, 2000; Hedeen & Edelstein 1997; Shellock,
+a
+
+MRC Institute of Hearing Research, Nottingham,
+United Kingdom
+b
+NIHR National Biomedical Research Unit in Hearing,
+Nottingham, United Kingdom
+Correspondence to Deborah A. Hall:
+deb.hall@nottingham.ac.uk
+Editor: Robert Schlauch
+Associate Editor: Jennifer Melcher
+Received May 28, 2010
+Accepted September 9, 2010
+DOI: 10.1044/1092-4388(2010/10-0143)
+
+acquisition was the more robust method for detecting auditory
+cortical activity. ANC reduced some of the "extra-auditory"
+activity that might be associated with the effort required for
+perceptual discrimination in a noisy environment and also offered
+small improvements for detecting activity within Heschl's gyrus
+and planum polare.
+Conclusions: For the scanning protocols evaluated here, the
+sparse temporal scheme was the more preferable for detecting
+sound-evoked activity. In addition, ANC ensures that listening
+difficulty is determined more by the chosen stimulus parameters
+and less by the adverse testing environment.
+Key Words: neuroimaging, active noise cancellation, audibility,
+intelligibility, frequency discrimination
+
+Ziarati, Atkinson, & Chen, 1998). The echo-planar imaging (EPI) sequences used for f MRI generate a particularly
+loud scanner sound and, although passive attenuation
+is provided to participants by way of circumaural ear
+defenders, this method alone is insufficient for quiet listening conditions. As an example, measurements at the
+center of the bore during the current experiment showed
+that the peak level of the scanner sound was 99 dB SPL,
+with the ear defenders providing 25 dB of attenuation at
+600 Hz, rising to 40 dB at 4 kHz. The spectral characteristics of the scanner sound are primarily determined
+by the rapidly switching gradient during readout of the
+brain image. For EPI, the readout gradient switches at
+a rate that is typically below 1 kHz, generating a series
+of low-frequency, harmonically related peaks that rise
+from a background of broadband noise. In contrast, the
+temporal characteristics of the scanner sound are under
+experimenter control. Many auditory f MRI studies favor
+
+Journal of Speech, Language, and Hearing Research * Vol. 54 * 693-704 * April 2011 * D American Speech-Language-Hearing Association
+
+693
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+a clustered-acquisition protocol in which all slices are acquired in rapid succession at the end of the scan period,
+rather than at equal intervals within it, because the
+former protocol provides a period of quiet for stimulus
+presentation (Edmister, Talavage, Ledden, & Weisskoff,
+1999). Because the loudest portion of the scanner sound
+corresponds to the "ping" of an individual slice acquisition, the envelope of the scanner sound is highly modulated over time.
+At the physiological level, the scanner sound generates responses in the central auditory pathway, reducing
+the dynamic range of the additional response to experimental sounds presented through headphones. This is
+particularly noticeable in primary auditory cortex (e.g.,
+Bandettini, Jesmanowicz, Van Kylen, Birn, & Hyde, 1998;
+Talavage, Edmister, Ledden, & Weisskoff, 1999), but it has
+also been measured in surrounding nonprimary regions
+(Hall et al., 2000; Hu et al., 2010). Quantitative assessment indicates that it should be possible to exploit the
+latency of the Blood-Oxygen-Level-Dependent (BOLD)
+response and to use a clustered train of EPI "pings" of up
+to 2-s duration to prevent an auditory response from being induced by the scan acquisition itself (Edmister et al.,
+1999). This assumption that short acquisition times reduce intrascan interference is the principle underlying the
+use of clustered acquisition. Additionally, scans acquired
+using a long interscan interval (at least 9 s) limit the integration of auditory cortical responses across successive
+scan acquisitions (i.e., reduce interscan interference; Hall
+et al., 2000). The use of clustered acquisition combined
+with a long interscan interval is the basis of "sparse" temporal acquisition (Hall et al., 1999), which is commonly
+used for the spatiotopic mapping of auditory cortical responses (e.g., Paltoglou, Sumner, & Hall, 2009).
+The detrimental effect of the intense background
+scanner sound on auditory perception is widely appreciated. For EPI, the greatest amount of masking occurs
+when the stimulus is presented at the same time as the
+slice acquisition and when the spectrum of the stimulus
+falls mostly below 1 kHz. Systematic reductions of the
+ratio of the stimulus to the background noise have been
+shown to reliably impair listening performance for simple sounds (fundamental frequency discrimination) as
+well as for speech sounds (minimal-pair syllable discrimination, lexical decision, and judgments about sentence
+plausibility; Healy, Moser, Morrow, Hall, & Fridriksson,
+2007). The most straightforward way to reduce the effect
+of energetic masking is to present stimuli at moderate to
+high sound levels (e.g., 98 dB SPL [Hall et al., 2000] and
+92 dB SPL [Paltoglou et al., 2009]). However, the tuning
+of many auditory cortical neurons is known to broaden
+as a function of sound level (Phillips, Semple, Calford, &
+Kitzes, 1994), and so this is likely to reduce the spatial
+specificity of the resulting stimulus-related activity.
+
+694
+
+A number of neuroimaging studies have investigated
+the brain regions involved in segregating a speech signal from background noise. Several studies used positron emission tomography for quiet scanning conditions
+(Salvi et al., 2002; Scott, Rosen, Wickham, & Wise, 2004),
+whereas another implemented a sparse temporal scheme
+in f MRI (Wong, Uppunda, Parrish, & Dhar, 2008). Detrimental signal-to-noise ratios increase the demands on
+selective attention and working memory as listeners
+segregate the signal from the noise, relying more on the
+temporal and spectral dips in the noise or top-down
+knowledge about sentential context to "fill in the gaps."
+Results have generally revealed extra-auditory activity
+associated with the demands for acoustic segregation. For
+example, as the ratio of the speech signal to the steadystate noise decreased, and hence the listening task became
+progressively harder, activity in left inferior prefrontal
+cortex increased (Scott et al., 2004). At the time, Scott
+et al. speculated that this reflected a top-down effort to
+support speech comprehension, and this suggestion was
+later confirmed in an f MRI study that demonstrated the
+involvement of left prefrontal cortex in effortful yet successful speech comprehension for spectrally degraded
+sentences with a high semantic predictability (Obleser,
+Wise, Dresner, & Scott, 2007). In contrast to the unmodulated background noise used by Scott et al. (2004),
+the other studies (Salvi et al., 2002; Wong et al., 2008)
+evaluated the effect of a modulated noise (multitalker
+babble) masker on spoken-word identification. Both of
+these studies reported activations in prefrontal cortex
+for speech in noise compared with speech in quiet. However the precise localization of extra-auditory responses
+differed somewhat: right medial frontal gyrus, near the
+anterior cingulate, and right cerebellum (Salvi et al.,
+2002) versus bilateral inferior and middle frontal gyri
+and left inferior parietal cortex (Wong et al., 2008), a difference that may be attributed to the requirement to listen to sentences or single words, respectively.
+One of the main limitations of the sparse temporal
+acquisition scheme for avoiding acoustic contamination
+is that it dramatically increases the scanning time required to obtain the same number of scans that could be
+acquired using a short interscan interval (henceforth referred to as "continuous" temporal acquisition). A hybrid
+temporal scheme has been recently described in which a
+set of three to five scans are acquired in rapid succession
+(i.e., every 1 s) after each sound stimulus presentation
+(Schmidt et al., 2008), but this requires specialized pulse
+programming, especially if the longitudinal magnetization
+is to be maintained at a steady state (see Schwarzbauer,
+Davis, Rodd, & Johnsrude, 2006). The hybrid scheme also
+introduces some acoustic contamination as the later scans
+in the sequence are likely to detect auditory responses to
+the background sound generated during the first scan. The
+sparse temporal scheme therefore remains ubiquitous in
+
+Journal of Speech, Language, and Hearing Research * Vol. 54 * 693-704 * April 2011
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+auditory f MRI. In our laboratory, we have been examining a different approach that does not require the modification of any pulse sequence. Instead, the new approach
+acoustically reduces the level of the background sound
+reaching the participant's ears using active noise cancellation (ANC; Chambers, Akeroyd, Summerfield, & Palmer,
+2001; Hall et al., 2009). The ANC system reduces the level
+of the background noise by producing an output ("cancellation") signal that destructively interferes with the
+scanner sound (i.e., the incident sound wave) at each ear.
+Precise control over the frequency and phase of acoustic
+signals presented to participants is achieved through a
+digital-signal processing system that delivers sound stimuli via a high-fidelity electrostatic headset. The electrostatic transducer performs an experimental and a noise
+cancellation role by delivering the sound stimuli and the
+cancellation signal. For passive attenuation, the transducers are incorporated into circumaural ear defenders.
+A recent acoustical evaluation of the ANC system using
+microphone measurements at the ear demonstrated that
+at the 600-Hz peak in the spectrum of the scanner "ping,"
+cancellation attenuated the background sound by up to
+35 dB (from 93 to 58 dB SPL; Hall et al., 2009).
+The present study used a novel repeated-measures
+factorial design to assess the effects of the temporal acquisition scheme and ANC on listening to simple sounds
+(narrowband noise [NBN]) and complex sounds (speech).
+Moreover, by obtaining subjective ratings, discrimination performance, and brain activity measures simultaneously in the MR scanner, this study was able to link
+patterns of neural activity directly to listening performance. On the basis of previous literature, a number of
+effects were expected. The most obvious prediction was
+that the sound would be more audible if steps were taken
+to reduce the level of the background scanner sound.
+Hence, both sparse acquisition and cancellation should
+significantly improve listening performance, as well as
+the amount of sound-evoked activity in the auditory cortex. Because these noise-reduction methods largely increase the audibility of sounds, sparse acquisition and
+cancellation were expected to provide substantial benefit for sound-related activity in primary auditory cortex
+(cf. Bandettini et al., 1998; Talavage et al., 1999). Noisereduction methods also enhance the intelligibility of
+speech, and so particular benefit in this condition might
+involve nonprimary auditory regions (Davis & Johnsrude,
+2003; Scott, Blank, Rosen, & Wise, 2000). According to the
+previous neuroimaging studies of speech perception under adverse listening conditions, both continuous acquisition and lack of cancellation might be expected to increase
+activity in fronto-parietal regions associated with the increased demands on selective attention and sound-source
+segregation and a greater reliance on semantic context
+(Obleser et al., 2007; Salvi et al., 2002; Scott et al., 2004;
+Wong et al., 2008).
+
+Implementation of Active Noise
+Cancellation (ANC)
+More detailed reports of the technical specifications
+of ANC can be found in Chambers et al. (2001) and Hall
+et al. (2009). A summary is provided in Figure 1. The
+ANC system uses a recording of the scanner sound as
+the starting estimate for the cancellation signal. This
+recording is taken during one of the initialization scans,
+before cancellation is started, from a microphone positioned inside the ear defender. The recording cannot be
+used directly as the cancellation signal because it is affected by the transfer function of the ANC system. This
+transfer function is compensated for by a digital filter,
+which is again calculated before the start of cancellation
+by presenting a maximum-length sequence (MLS) through
+the system and receiving it on the microphone. The residual sound is monitored by the microphone during ANC
+operation and is used to continually fine-tune the coefficients of the digital filter, thus maximizing the acoustic
+noise reduction. During the first four scans, the rate of
+adaptation is fast in order to rapidly train the system.
+Thereafter, the rate of adaptation is slower in order to
+track the slow changes in the characteristics of the scanner sound and in the phase of the incident noise caused
+by head movements of the participant. This two-step process improves the immunity of the adaptive filter from
+the acoustic stimuli being presented and hence helps to
+maximize the acoustic noise reduction during MR scanning. Previously, we have demonstrated that continually updating the filter coefficients for the cancellation
+signal provides reasonably stable amounts of cancellation over time (typically in the order of 5 dB; Hall et al.,
+2009).
+The ANC system is fully integrated with a PC-based
+system that presents sound stimuli in synchrony with
+scanning, thus making it easy to operate. The digitalsignal processing system and the ANC processing steps,
+such as determining the transfer function for the participant, recording the scanner sound, and optimizing the adaptive filter coefficients, are all automatically
+controlled within the PC software. The software is such
+that any experiment can be specified by a few parameters. Stimulus presentation is delayed until the training scans are completed. Another parameter controls
+whether the ANC system is either operative ("cancelled") or not ("noncancelled"). This feature was crucial in the present experiment because it enabled direct
+comparison of sound conditions during cancelled and
+noncancelled states. To ensure that the ANC was always operating optimally, new recordings of the scanner sound, transfer functions, and training scans were
+obtained at the start of each scanning run for each
+participant.
+
+Blackman & Hall: Acquisition Scheme and Noise Cancellation for Auditory fMRI
+
+695
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+Figure 1. Diagram showing the key components of the active noise cancellation (ANC) system during two stages of its operation: the acquisition of
+the transfer function (panel A) and cancellation (panel B). The ANC system comprises three main sections (the headset, the plant, and the digitalsignal processing [DSP] system), and these are each highlighted by separate gray-shaded boxes. Within each section, the various hardware
+and software components are defined, and the arrows between them represent the directional flow of information. Note that the components of the
+DSP system differ between panels A and B because each panel defines only what is pertinent to that particular stage of processing. Some of
+the functional labels also differ across panels because they refer to different functions achieved by the same hardware at different points in time.
+EPI = echo-planar imaging; MLS = maximum-length sequence; MR = magnetic resonance.
+
+Pilot Study to Determine the Choice
+of Sound Level for the Spoken Sentences
+The f MRI experiment required spoken sentences to
+be largely unintelligible during the noncancelled scanning condition yet reasonably intelligible during cancellation. To choose an appropriate sound level that met
+this criterion, a pilot study first measured speech intelligibility for sets of sentences presented at four sound
+levels (51, 54, 57, and 60 dB SPL) during continuous
+temporal acquisition in the noncancelled state. Level was
+controlled by applying digital attenuation before the acoustic signal was converted to an analog signal. The pilot session lasted about 40 min, including four scanning runs of
+just under 6 min each. Six native English-speaking participants took part. Because speech intelligibility scores
+were remarkably consistent, only one participant completed a second session in which speech intelligibility was
+measured for sentences presented at one sound level while
+the ANC system was operative (cancelled condition).
+A total of 160 sentences were selected from the
+ABC Sentence Lists (Boyle, Nunn, Vickers, Foster, &
+Fitzgerald O'Connor, 2006). Sentences contained six to
+10 words, each with five key words (e.g., A large size in
+shoes is hard to sell.). Each sentence was spoken by a
+male talker and a female talker and was sampled at
+44100 Hz. The root-mean-square (RMS) A-weighted sound
+level was equated for each sentence for both talkers.
+Each of the four conditions contained 40 sentences, half
+spoken by the male talker and half by the female talker.
+Conditions were counterbalanced for sound presentation level across participants. Scanning was conducted
+using a Philips 3 Tesla Intera MR scanner, equipped
+
+696
+
+with an 8-channel receiver head coil. In the present experiment, the chosen scanning protocol was one that has
+been used in several recent auditory f MRI studies by the
+second author (e.g., Hall et al., 2009; Hall & Plack, 2009).
+The scanner sound was exploited as a noise masker. The
+parameters of the sequence were as follows: flip angle =
+90 degrees, matrix = 64 x 64, voxel size = 3 x 3 x 3 mm,
+32 oblique axial slices, Sof Tone = factor 2, SENSE =
+factor 2, TE = 36 ms. The spectral peak of the resulting
+scanner noise is equal to the inverse of the period of the
+strong, trapezoidal read-out gradient. Here, both Sof Tone
+and SENSE parallel imaging determined the amplitude
+and spectrum of the scanner noise because they affect
+the gradient switching (see Figure 2).
+Within each scan, the 32 slices were acquired in rapid
+succession lasting 1,971 ms. The interval between scans
+was 2,700 ms, and so this gave brief, regular periods of
+quiet after each set of 32 "pings." The noise source during the quiet interval was primarily the low-frequency
+(< 100 Hz) hum of the air-conditioning system. Measurements made under the earcup demonstrated it to be very
+low level (51 dB SPL, 28 dB A-weighted) and not affected
+by cancellation. The onset of each sentence was synchronized to the beginning of a scan. The scanner sound
+masked slightly more than the first half of each sentence because the mean duration of the sentences was
+2,388 ms (SD = 340 ms). Participants were instructed to
+report back each sentence by speaking clearly into a freefield microphone held close to their mouths, and verbal
+responses were digitally recorded for offline analysis.
+Participants were encouraged to guess when they were
+uncertain. A sentence was presented every third scan (i.e.,
+8,100 ms), enabling sufficient response time prior to the
+
+Journal of Speech, Language, and Hearing Research * Vol. 54 * 693-704 * April 2011
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+Figure 2. Spectral characteristics of the background scanner noise in the present fMRI study, plotted from 0 to
+3500 Hz on a logarithmic scale. The black line (noncancelled) indicates the spectrum of the background noise
+recorded under normal scanning conditions, with a peak at 600 Hz and two other prominent peaks, 5-10 dB lower in
+level, at 150 and 300 Hz. The dotted line (cancelled) shows the effect of ANC on the scanner sound at the listener's
+ear, with the greatest attenuation at 600 Hz. The inset (bottom left) shows the temporal characteristics of the noise
+generated during one scan.
+
+next sentence. An automated post hoc noise cancellation
+algorithm was applied to the digital recording so that
+the verbal response could be separated from the scanner
+sound (Cusack, Cumming, Bor, Norris, & Lyzenga, 2005).
+The measure of intelligibility was the proportion of key
+words correctly reported. Although brain images were
+collected in the pilot, the image data sets were not analyzed, as large head movements associated with making
+overt verbal responses during scanning were expected.
+Figure 3 (left panel) shows the proportion of key
+words correctly recalled as a function of stimulus level. A
+Friedman's analysis of variance (ANOVA) demonstrated
+a significant effect of sound level, c2(3) = 8.6, p < .05.
+Speech intelligibility steadily increased from 17% to 44%
+as the spoken sentences were amplified.
+Performance was reconsidered according to whether
+each of the key words was masked or not by the scanner
+sound (see Figure 3, right panel). A Friedman's ANOVA
+revealed speech intelligibility was marginally impaired
+for words that were masked by the scanner sound level
+compared to those that were not masked, c2(3) = 7.4,
+p = .056. In contrast, the report of key words that were
+not masked by the scanner noise was not influenced by
+sound level, c2(3) = 2.2, p = .57.
+
+Next, 80 sentences were presented to one of the participants at 57 dB SPL, with the ANC system operating.
+The participant's performance improved from 36% to
+69% (i.e., 33%), indicating a substantial benefit of ANC
+on speech intelligibility for sentences presented at this
+sound level (see Figure 3, left panel).
+
+Method
+Participants
+Eight right-handed participants aged 20 to 37 took
+part in the f MRI experiment, including two participants
+from the pilot. All participants had normal hearing as assessed using standard pure-tone audiometry (< 20 dB HL
+over octave frequencies between 250 and 8000 Hz). Participants gave informed written consent, and the study
+was approved by the Nottingham University Medical
+School Ethical Committee.
+
+Stimuli
+Three stimulus conditions (speech, NBN, and silence)
+were created. The silent condition served as a baseline.
+
+Blackman & Hall: Acquisition Scheme and Noise Cancellation for Auditory fMRI
+
+697
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+Figure 3. Pilot data showing speech intelligibility as a function of stimulus level. In the left panel, data show the key word report accuracy.
+The solid line denoted by the filled marker shows performance without the ANC operating. In the right panel, the same scores are shown split
+according to whether or not the words were masked by the scanner sound. The unfilled marker in the left panel illustrates, for one participant,
+the improvement in performance with the ANC operating. All error bars indicate the standard error of the mean.
+
+Speech materials were 240 sentences, each less than
+2,700 ms duration, taken from the ABC Sentence Lists.
+This stimulus set was composed of 160 items used in the
+pilot, plus an additional 80 sentences (120 sentences
+were spoken by the male talker and 120 by the female
+talker). The NBN stimuli corresponded in frequency
+to the prominent peak in the spectrum of the scanner
+sound (i.e., around 600 Hz). These NBN signals were
+centered on 570, 600, or 630 Hz, with a bandwidth of
+50 Hz, 450 ms duration (including 50-ms raised-cosine
+gates at the onset and offset), and a sampling rate of
+44100 Hz. Stimulus pairs consisted of 60 same-frequency
+pairs (20 of each combination of 570/570 Hz, 600/600 Hz,
+and 630/630 Hz) and 60 different-frequency pairs (15 of
+each combination of 570/600 Hz, 600/570 Hz, 600/630 Hz,
+and 630/600 Hz). The two sounds in each pair were separated by a 50-ms silent gap. The total RMS power was
+equated across stimulus pairs, and the order of the two
+stimuli in the different-frequency pairs was counterbalanced across participants. The speech condition contained six sentences occurring at 3-s intervals, and the
+NBN condition contained six NBN pairs, again occurring at 3-s intervals. Each stimulus condition was 18 s
+in duration.
+Listening performance for the speech and NBN conditions was dependent on the ANC state and the temporal
+acquisition scheme. Spoken sentences were presented at
+57 dB SPL, according to the pilot results. NBN were presented at 71 dB SPL, which corresponds to 3 dB below
+the average detection threshold when masked by the noncancelled scanner sound, according to our previous study
+(Hall et al., 2009).
+
+698
+
+Procedure
+A 2 x 2 x 3 factorial design was used in which the
+temporal acquisition scheme (sparse and continuous)
+was crossed with the operation of the ANC system (cancelled and noncancelled) and the sound stimulus (speech,
+NBN, and silence). The experiment contained 10 presentations of each experimental condition. Presentation
+order was carefully arranged to ensure a balanced distribution both within and across participants. Sparse
+and continuous scanning was carried out in separate
+runs in an ABBA design. Within each run, the operation
+of the ANC system cycled after every triplet of stimulus
+conditions, whereas the order of the stimulus conditions
+themselves was pseudorandomized. The experiment used
+the same MR scanner and scanning sequence as reported
+in the pilot study. Scans were positioned to cover most of
+the brain except the top and bottom of the brain, including the brainstem. The interscan interval for continuous
+acquisition was 3,000 ms, and for sparse acquisition it
+was 9,000 ms. Again, the scanner sound coincided with
+the start of a sound stimulus. This meant that for continuous scanning, the onset of every sentence or NBN
+pair was synchronized to the beginning of a scan and, for
+sparse scanning, every third stimulus was synchronized to
+the beginning of a scan. In total, 190 functional scans were
+acquired in a continuous acquisition run and 68 functional scans in a sparse acquisition run, each lasting
+about 10 min.
+Three subjective ratings were obtained to tell us
+about the clarity of the sound stimulus, the intrusiveness
+of the background scanner noise, and listening effort. We
+
+Journal of Speech, Language, and Hearing Research * Vol. 54 * 693-704 * April 2011
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+followed a methodology recommended by the International Telecommunications Union (ITU-T Recommendation P.835, 2003) for evaluating noise suppression
+algorithms, which uses three separate five-point rating
+scales. The scale for stimulus clarity ranged from 1 (very
+unclear) to 5 (very clear), for noise intrusiveness from 1
+(very quiet) to 5 (very loud), and for listening effort from 1
+(no effort) to 5 (very effortful). During the experiment,
+visual prompts were presented on a screen positioned at
+the end of the scanner bed to remind participants about
+the listening instruction for each condition. For the sentence condition, the prompt was "Clarity? Effort? Background?" and for the silent baseline, it was a fixation cross.
+To avoid undue head motion, participants did not respond
+during the condition, but at the end of each scanning run,
+participants were asked to give a verbal rating (1-5) for
+each scale. Separate ratings were obtained for four listening conditions (speech and NBN split by cancelled and
+noncancelled).
+The participants' ability to hear the NBN pairs was
+also measured by instructing participants to discriminate between same and different frequency pairs using
+the visual prompt "Same or Different?" Responses were
+made by pressing one of two buttons with the index finger of their left or right hand, respectively. Participants
+were encouraged to guess when they were uncertain, and
+responses were logged by a computer for offline analysis.
+At the end of the functional scanning, a highresolution (1 x 1 x 1 mm) T1-weighted anatomical scan
+was acquired in 4.5 min using a Magnetization-Prepared
+Rapid Gradient Echo (MPRAGE) sequence. The full
+scanning session lasted about 70 min.
+
+Image Analysis
+Image analysis was conducted separately for each
+participant using Statistical Parametric Mapping (SPM5)
+software (www.fil.ion.ucl.ac.uk/spm) running on MATLAB
+Version 6.5.0. First, the images were spatially transformed
+using a number of standard procedures. To minimize minor head movements, the ABBA time series was realigned
+by applying rigid-body transformations and using the first
+scan of the third run as the reference scan. Within runs,
+the amount of movement was shifted by less than 3 mm
+and rotated by less than 3 degrees, suggesting participants succeeded in lying as still as possible. To enable
+group analyses and to facilitate the localization of functional activity, functional scans were normalized to a standard brain space. This was achieved by computing the
+most appropriate linear and nonlinear transformation parameters to match the anatomical scan to a T1-weighted
+template using a least-squares algorithm. These parameters were then applied to the functional scans, upsampling the transformed images to a voxel resolution
+of 2 x 2 x 2 mm. To improve the signal-to-noise ratio of
+
+the data, functional time series was smoothed using a
+Gaussian kernel of 8 mm full width at half maximum.
+First-level analyses estimated how well the time
+course of an individual's BOLD response could be described by the experimental paradigm. At the first level,
+the sparse and continuous runs were analyzed separately using a general linear model that specified each
+stimulus condition as a vector of numbers (one value
+corresponding to the estimated contribution of that condition to the signal measured in each scan). For the sparse
+temporal acquisition scheme, each condition was specified as a vector of zeroes and ones. For the continuous
+temporal acquisition scheme, each condition was specified as a vector of onsets that were subsequently convolved
+with the canonical haemodynamic response function. Once
+the two models had been estimated, t contrasts were specified for speech versus silence and for NBN versus silence
+for both cancelled and noncancelled conditions. To determine the statistical reliability of these effects separately for NBN and speech, the relevant contrasts were
+input to a 2 x 2 (Temporal Acquisition Scheme x ANC)
+repeated-measures ANOVA (Friston, Stephan, Lund,
+Morcom, & Kiebel, 2005). Statistical sensitivity was maximized by using cluster-level statistical inference ( p < .05;
+Friston, Holmes, Poline, Price, & Frith, 1996), corrected
+for multiple comparisons.
+
+Results
+Subjective Ratings
+Preliminary analyses showed no significant difference between NBN and speech in terms of their subjective ratings, and so further analyses collapsed the data
+across stimulus type. For each rating scale, a 2 x 2 (Temporal Acquisition Scheme x ANC) repeated-measures
+ANOVA was performed (see Figure 4). Sparse acquisition was judged beneficial for listening effort, F(1, 7) =
+13.81, p < .01, and background noise intrusion, F(1, 7) =
+6.73, p < .05, but surprisingly not for stimulus clarity,
+F(1, 7) = 3.61, p > .05. Cancellation was judged to be
+preferable for listening effort, F(1, 7) = 51.21, p < .001;
+background noise intrusion, F(1, 7) = 110.28, p < .001;
+and stimulus clarity, F(1, 7) = 354.15, p < .001. Generally, the effect of ANC on listening quality was more
+sizeable than the acquisition scheme, with no interactions between the two.
+
+Frequency Discrimination Performance
+Frequency discrimination also appeared more accurate with cancellation (81%) than without (56%), but to
+avoid response bias, d measures of discrimination sensitivity were computed (see Figure 5). A two-way repeatedmeasures ANOVA confirmed a significant benefit of
+
+Blackman & Hall: Acquisition Scheme and Noise Cancellation for Auditory fMRI
+
+699
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+Figure 4. The effects of the temporal acquisition scheme and the operation of the ANC system on the subjective ratings for
+the clarity of the stimulus presentation (left panel), the amount of listening effort (center panel), and the loudness of the
+background noise (right panel) in the present study. Data are averaged across NBN and speech stimuli. Error bars depict
+the standard error of the mean. Significant main effects are denoted by asterisks: *p < .05. **p < .01. ***p < .001.
+
+ANC, F(1, 7) = 21.42, p < .01, and a significant benefit of
+sparse temporal acquisition, F(1, 7) = 29.16, p < .001.
+The interaction between ANC and temporal acquisition scheme was marginally significant, F(1, 7) = 5.45,
+p = .054, indicating a tendency for cancellation to be
+most beneficial for frequency discrimination during the
+continuous scanning protocol.
+In summary, subjective ratings and discrimination
+performance demonstrated that sparse acquisition and
+ANC significantly improved listening ability.
+Figure 5. The effects of the temporal acquisition scheme and the
+operation of the ANC system on frequency discrimination performance
+in Experiment 1. Error bars depict the standard error of the mean.
+Significant main effects are denoted by asterisks: **p < .01. ***p < .001.
+
+Auditory Cortical Activity
+Analysis of the f MRI data tested the prediction that
+improved ratings of listening quality and more accurate
+frequency discrimination would provide significant gains
+for detecting sound-evoked activity. In support of this expectation, sparse acquisition provided a substantial benefit for detecting stimulus-related activity in superior
+temporal gyrus when compared to continuous acquisition. For both NBN and speech, activity was greatest in
+primary auditory cortex (the central portion of Heschl's
+gyrus) but also extended beyond Heschl's gyrus, anteriorly into planum polare and posteriorly into planum
+temporale. The extent of this stimulus-related benefit
+is displayed in the upper row of Figure 6 (green clusters
+of activity). Contrary to our expectation, cancellation
+appeared to offer no significant advantage for detecting
+clusters of sound-related activity because auditory cortical activity for cancelled and noncancelled conditions
+was equivalent. This null result is evidenced by the absence of any green clusters of activity in the lower row of
+Figure 6.
+Statistical inferences about brain activity at the cluster level trades increased sensitivity for reduced localizing power across small spatial scales (Friston et al., 1996).
+We therefore reasoned that combining voxel-level thresholding ( p < .001) with a region-of-interest analysis might
+more appropriately differentiate responses across different subdivisions within auditory cortex. Three planned
+comparisons examined the regionally specific predictions
+concerning the benefits of noise reduction for speech- and
+NBN-related activity in nonprimary and primary auditory regions, respectively. Specifically, we computed the
+percentage of suprathreshold voxels for the t contrasts
+speech versus silence and NBN versus silence within
+three major auditory cortical subdivisions: (a) primary
+
+700
+
+Journal of Speech, Language, and Hearing Research * Vol. 54 * 693-704 * April 2011
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+Figure 6. Right- and left-hemisphere views of the group-averaged patterns of cortical activation showing the differential effects of the temporal
+acquisition scheme and the operation of the ANC system on the response to the narrowband noise (NBN) and speech stimuli. Activity exceeded the
+cluster-level statistical threshold (p < .05, corrected for multiple comparisons). All voxels within those clusters also exceeded p < .005, uncorrected.
+
+region (Heschl's gyrus), (b) anterior nonprimary region
+(planum polare), and (c) posterior nonprimary region
+(planum temporale). Regions were based on anatomical
+criteria, without overlap, and were defined in the same
+brain space as the functional data. The primary region
+was defined by a combination of three auditory fields
+(Morosan et al., 2001). The border of planum polare was
+drawn manually using a canonical anatomical scan.
+Planum temporale was defined by those boundaries
+measured by Westbury, Zatorre, and Evans (1999). A
+total of 48 measures of percentage extent were computed
+for each participant (two stimuli, two temporal acquisition schemes, two ANC states, three regions, and two
+hemispheres). Data were analyzed using repeatedmeasures ANOVAs.
+
+The proportion of sound-related activity in Heschl's
+gyrus was significantly greater for sparse acquisition
+(33%) than for continuous acquisition (6%), F(1, 7) =
+42.33, p < .001 (see Figure 7). The cancelled condition
+was also more beneficial for detecting sound-related activation (21%) than the noncancelled condition (18%),
+F(1, 7) = 3.69, p < .05, one-tailed. Similar main effects
+were obtained in the anterior nonprimary auditory region,
+albeit the proportion of planum polare activated by the
+sound stimuli was much reduced (see Figure 7). Again,
+using sparse acquisition, there was greater sound-related
+activity (9%) than continuous acquisition (5%), F(1, 7) =
+67.48, p < .001. In the cancelled condition, 9% of planum
+polare was activated compared with only 5% during the
+noncancelled condition, F(1, 7) = 12.42, p < .01. Although
+
+Figure 7. The effect of temporal acquisition scheme, ANC, and stimulus on the extent of auditory cortical activity in three regions. Errors bars
+represent the standard error of the mean. Regions vary in size from 1,086 voxels in Heschl's gyrus to 3,991 voxels in planum temporale and
+1,889 voxels in planum polare, but these differences are normalized by computing the extent of activity as a percentage. Refer to the text
+for a detailed description of the significant differences between conditions. contin = continuous.
+
+Blackman & Hall: Acquisition Scheme and Noise Cancellation for Auditory fMRI
+
+701
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+ANC was rated as most advantageous for general stimulus clarity, a significant two-way interaction between
+stimulus and temporal acquisition scheme highlighted
+that the most widespread activity occurred for speech
+presented during sparse scanning. This pattern was
+true in Heschl's gyrus (49%), F(1, 7) = 31.68, p < .001, and
+in planum polare (12%), F(1, 7) = 3.87, p < .05, one-tailed.
+In planum temporale, sparse acquisition was significantly better for detecting sound-related activity than
+continuous acquisition (25% vs. 11%), F(1, 7) = 41.88,
+p < .001. ANC exerted no significant effect in this brain
+region.
+
+Extra-Auditory Cortical Activity
+Compared to sparse acquisition, continuous acquisition was associated with significant activity in a number
+of extra-auditory regions (see Figure 6, red clusters of activity). In this noisier environment, frequency discrimination and speech listening engaged medial portions of
+the middle and superior frontal gyri (henceforth denoted
+as prefrontal cortex), postcentral gyrus, superior parietal region, and posterior middle temporal gyrus on the
+right side. Left prefrontal cortex was also involved during frequency discrimination. The absence of ANC also
+represents a relatively noisy environment, and it is interesting to note that the noncancelled condition was
+again associated with greater activity in right prefrontal
+cortex, for both NBN and speech contrasts.
+If these extra-auditory regions play a key role in performance, then we might predict a significant relationship between cortical activity and ratings of the listening
+experience. Such relationships were confirmed using
+(Pearson) correlation analyses of the individual subjective ratings and measures of standardized activity for
+three of the right-hemisphere regions described above
+(prefrontal cortex, superior parietal cortex, and middle
+temporal gyrus, all coactivated by NBN and speech).
+Brain activity in prefrontal cortex and superior parietal
+lobe significantly increased with listening effort, r = .39,
+p < .01, and r = -.37, p < .01, respectively, and background
+noise intrusion, r = .36, p < .01, and r = -.43, p < .01,
+respectively. Conversely, brain activity in these regions
+decreased with stimulus clarity, r = -.28, p < .05, and
+r = -.27, p < .05, respectively.
+For those specifically interested in the effect of ANC
+during sparse acquisition, we looked at a subset of the
+f MRI data to address this issue. From two null findings,
+we are unable to infer any differential effect of ANC across
+the sparse and continuous acquisition schemes. First, no
+cluster anywhere in the brain showed a significant interaction between temporal acquisition scheme and ANC.
+Second, the region-of-interest approach failed to reveal
+any systematic of difference in the pattern of correlations
+
+702
+
+between activity and subjective ratings (in part due to
+reduced statistical power).
+
+Discussion
+For the scanning protocols evaluated here, listeners
+reported considerable additive benefits of ANC and sparse
+temporal acquisition for the overall quality of their listening experience during f MRI. ANC was rated higher
+in terms of stimulus clarity (and presumably better for
+speech intelligibility; see Figure 3). ANC and sparse
+temporal acquisition were also associated with improved
+frequency-discrimination performance. Thus, our findings demonstrate the advantages of ANC for listening
+comfort and discrimination performance.
+In terms of the effects on the patterns of brain activity, sparse acquisition provided a substantial and reliable improvement in detecting sound-evoked activity in
+auditory cortex. Hence, sparse temporal sampling remains
+optimal for mapping the functional anatomy of auditory
+cortex. ANC and sparse acquisition both influenced the
+pattern of (task-related) activity in prefrontal cortex. We
+therefore infer that the two noise reduction methods
+succeeded in reducing the effort required for frequency
+discrimination, sound source segregation, and speech
+perception. The general pattern of association between
+subjective ratings and the magnitude of activity within
+prefrontal and superior parietal cortices support the
+role of a right-hemisphere fronto-parietal network in the
+listening task. This network differs from the left lateralization established during certain higher-order speech
+perception tasks under degraded listening conditions and
+is more likely associated with the involvement of general
+attentional processing than with word-based cognitivesupporting mechanisms, such as verbal working memory
+(e.g., Obleser et al., 2007). Although the exact nature of
+such a strongly right-lateralized attentional process is
+uncertain, one option is that these regions play a role in
+monitoring performance to effectively maintain a vigilant
+state and to sustain vigilant responding (Robertson &
+Garavan, 2004). We also note that engaging supplementary attentional resources for listening is likely to exert
+subtle effects on the neural coding of the sound stimuli
+within auditory cortex, mediated via known reciprocal
+interactions between higher-level cognitive and lowerlevel acoustic centers. For example, electrophysiological
+recordings in awake-behaving animals demonstrate that
+attention can shift or expand the shape of the tuning
+curve for primary-like neurons with sharp frequency tuning, resulting in the recruitment of neurons not previously responsive to the target (e.g., Fritz, Elhilali, David,
+& Shamma, 2007).
+A final issue for discussion concerns the apparent
+discrepancy between the benefits of noise reduction for
+
+Journal of Speech, Language, and Hearing Research * Vol. 54 * 693-704 * April 2011
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+perception and for measuring the extent of stimulusrelated activity in auditory cortex. First, sparse and continuous acquisition protocols were judged to be equivalent
+in determining stimulus clarity, and yet sparse scanning
+provided the most effective method for measuring soundevoked activity in auditory cortex. One contributing factor to this result could be the degree to which listeners
+were able to separate clarity from other qualitative aspects of the listening experience. For example, individual ratings of clarity could have been weighted toward
+the periods when the scanner was operating. This could
+(relatively speaking) deflate ratings for sparse acquisition, despite scans occurring one-third less often than
+during continuous acquisition. Indeed, consistent with
+the f MRI results, the objective measure of frequency discrimination confirmed that sparse scanning was more
+beneficial for listening. Second, although cancellation
+was judged to improve stimulus clarity, it proffered no
+specific advantage for detecting sound-evoked activity.
+There is no doubt that ANC provides worthwhile benefits for listening during f MRI. Our results showed that
+ANC improved speech intelligibility by about 40% and
+provided a gain in d of at least 1 for frequency discrimination. However, such behavioral gains were not translated so straightforwardly into activity as measured by
+f MRI. It is well known that the f MRI response to stimulus energy does not behave according to predictions
+based on a linear system. If there are any nonlinearities
+in the relationship between f MRI activity and sound
+level, then the absolute levels of the background noise
+become more important for determining the overall
+stimulus-related activity than the relative size of the
+noise reduction. If we consider the linearity of the response to sound level in different subdivisions of human
+auditory cortex, then there is tentative evidence that
+anterior and posterior nonprimary areas can show a
+flatter increase in f MRI activity from 72 to 96 dB SPL
+than from 48 to 72 dB SPL (see Figure 3 in Brechmann,
+Baumgart, & Scheich, 2001). From previous microphone
+measurements at the ear of the listener, we estimate
+that the level of background scanner noise is about
+58 dB SPL with ANC and about 93 dB SPL without
+ANC (Hall et al., 2009), at least around 600 Hz, which
+corresponds to the reference frequency of the NBN pairs.
+Thus, for the NBN condition, it is reasonable to speculate that the perceptual gains from cancellation of the
+background noise just so happen to fall within the lesssensitive part of the input-output response curve in the
+600-Hz frequency region. It is not easy to test this prediction empirically because it may not be possible to reduce the perceived level of the scanner noise below
+58 dB SPL. Even if further reductions of the airborne
+sound energy reaching the tympanic membrane were
+achieved (e.g., by using an earplug), the perceptual
+benefits from cancellation are probably limited by bone
+
+conduction (Hall et al., 2009). Of course, the wideband
+reduction in sound level due to ANC is much less than
+35 dB, and so this might also account for the small effects
+of ANC seen in auditory cortical activity, especially in response to the speech stimulus.
+In final conclusion, in the present study, sparse acquisition significantly improved the detection of auditory
+cortical activity, whereas both sparse acquisition and
+ANC improved subjective ratings of listening quality and
+performance on frequency discrimination. We suggest that
+the most tangible benefit of ANC for auditory f MRI concerns the confidence that listening difficulty is determined
+more by the chosen stimulus parameters and less by the
+adverse ambient testing environment.
+
+References
+Bandettini, P. A., Jesmanowicz, A., Van Kylen, J., Birn,
+R. M., & Hyde, J. S. (1998). Functional MRI of brain activation induced by scanner acoustic noise. Magnetic Resonance
+in Medicine, 39, 410-416.
+Boyle, P., Nunn, T., Vickers, D., Foster, J., & Fitzgerald
+O'Connor, A. (2006, September). The ABC Sentence Test:
+Evaluating real-life performance. Paper presented at the
+Proceedings of the XXVIIIth International Congress of
+Audiology, Innsbruck, Austria.
+Brechmann, A., Baumgart, F., & Scheich, H. (2001).
+Sound-level-dependent representation of frequency modulations in human auditory cortex: A low-noise f MRI study.
+Journal of Neurophysiology, 87, 423-433.
+Chambers, J., Akeroyd, M. A., Summerfield, A. Q., &
+Palmer, A. R. (2001). Active control of the volume acquisition noise in functional magnetic resonance imaging:
+Method and psychoacoustical evaluation. The Journal of
+the Acoustical Society of America, 110, 3041-3054.
+Cusack, R., Cumming, N., Bor, D., Norris, D., & Lyzenga,
+J. (2005). An automated post-hoc noise cancellation tool
+for audio recordings acquired in an MRI scanner. Human
+Brain Mapping, 24, 299-304.
+Davis, M. H., & Johnsrude, I. S. (2003). Hierarchical processing in spoken language comprehension. The Journal
+of Neuroscience, 23(8), 3423-3431.
+Edmister, W. B., Talavage, T. M., Ledden, P. J., & Weisskoff,
+R. M. (1999). Improved auditory cortex imaging using
+clustered volume acquisitions. Human Brain Mapping,
+7, 89-97.
+Foster, J. R., Hall, D. A., Summerfield, A. Q., Palmer,
+A. R., & Bowtell, R. W. (2000). Sound-level measurements
+and calculations of safe noise dosage during EPI at 3T.
+Journal of Magnetic Resonance Imaging, 12, 157-163.
+Friston, K. J., Holmes, A., Poline, J.-B., Price, C. J., &
+Frith, C. D. (1996). Detecting activations in PET and f MRI:
+Levels of inference and power. NeuroImage, 40, 223-235.
+Friston, K. J., Stephan, K. E., Lund, T. E., Morcom, A., &
+Kiebel, S. (2005). Mixed-effects and f MRI studies. NeuroImage, 24, 244-252.
+Fritz, J. B., Elhilali, M., David, S. V., & Shamma, S. A.
+(2007). Does attention play a role in dynamic receptive field
+
+Blackman & Hall: Acquisition Scheme and Noise Cancellation for Auditory fMRI
+
+703
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+adaptation to changing acoustic salience in A1? Hearing
+Research, 229, 186-203.
+Hall, D. A., Chambers, J., Akeroyd, M. A., Foster, J. R.,
+Coxon, R., & Palmer, A. R. (2009). Acoustic, psychophysical and neuroimaging measurements of the effectiveness of
+active cancellation during auditory functional magnetic
+resonance imaging. The Journal of the Acoustical Society of
+America, 125, 347-359.
+Hall, D. A., Haggard, M. P., Akeroyd, M. A., Palmer, A. R.,
+Summerfield, A. Q., Elliott, M. R., . . . Bowtell, R. W.
+(1999). Sparse temporal sampling in auditory f MRI. Human
+Brain Mapping, 7, 213-223.
+Hall, D. A., & Plack, C. J. (2009). Pitch processing sites in
+human auditory cortex. Cerebral Cortex, 19(3), 543-553.
+Hall, D. A., Summerfield, A. Q., Goncalves, M. S., Foster,
+J. R., Palmer, A. R., & Bowtell, R. W. (2000). Time-course
+of the auditory BOLD response to scanner noise. Magnetic
+Resonance in Medicine, 43, 601-606.
+Healy, E. W., Moser, D. C., Morrow, L., Hall, D. A., &
+Fridriksson, J. (2007). Speech perception in MRI scanner
+noise by persons with aphasia. Journal of Speech, Language,
+and Hearing Research, 50, 323-334.
+Hedeen, R. A., & Edelstein, W. A. (1997). Characteristics
+and prediction of gradient acoustic noise in MR imagers.
+Magnetic Resonance in Medicine, 37, 7-10.
+Hu, S., Olulade, O., Gonzales Castillo, J., Santos, J., Kim,
+S., Tamer, G. G., . . . Talavage, T. M. (2010). Modeling
+hemodynamic responses in auditory cortex at 1.5T using
+variable duration imaging acoustic noise. NeuroImage,
+49, 3027-3038.
+
+Phillips, D. P., Semple, M. N., Calford, M. B., & Kitzes,
+L. M. (1994). Level-dependent representation of stimulus
+frequency in cat primary auditory cortex. Experimental
+Brain Research, 102, 210-226.
+Robertson, I. H., & Garavan, H. (2004). Vigilant attention.
+In M. S. Gazzaniga & E. Bizzi (Eds.), The cognitive neurosciences (pp. 631-640). Cambridge, MA: MIT Press.
+Salvi, R. J., Lockwood, A. H., Frisina, R. D., Coad, M. L.,
+Wack, D. S., & Frisina, D. R. (2002). PET imaging of the
+normal human auditory system: Responses to speech in
+quiet and in background noise. Hearing Research, 170(1-2),
+96-106.
+Schmidt, C. F., Zaehle, T., Meyer, M., Geiser, E., Boesiger,
+P., & Jancke, L. (2008). Silent and continuous f MRI
+scanning differentially modulate activation in an auditory
+language comprehension task. Human Brain Mapping,
+29, 46-56.
+Schwarzbauer, C., Davis, M. H., Rodd, J. M., & Johnsrude, I.
+(2006). Interleaved silent steady state (ISSS) imaging: A
+new sparse imaging method applied to auditory f MRI.
+NeuroImage, 29, 774-782.
+Scott, S. K., Blank, S. C., Rosen, S., & Wise, R. J. S. (2000).
+Identification of a pathway for intelligible speech in the left
+temporal lobe. Brain, 123, 2400-2406.
+Scott, S. K., Rosen, S., Wickham, L., & Wise, R. J. S. (2004).
+A positron emission tomography study of the neural basis
+of informational and energetic masking effects in speech
+perception. The Journal of the Acoustical Society of America,
+115, 813-821.
+
+International Telecommunications Union. (2003). Telephone installations, local line networks. Methods for objective
+and subjective assessment of quality [ITU-T Recommendation P.835]. Geneva, Switzerland: Author.
+
+Shellock, F. G., Ziarati, M., Atkinson, D., & Chen, D.-Y.
+(1998). Determination of gradient magnetic field-induced
+acoustic noise associated with the use of echo planar and
+three-dimensional fast spin echo techniques. Journal of
+Magnetic Resonance Imaging, 8, 1154-1157.
+
+Morosan, P., Rademacher, J., Schleicher, A., Amunts, K.,
+Schormann, T., & Zilles, K. (2001). Human primary auditory cortex: Cytoarchitectonic subdivisions and mapping
+into a spatial reference system. NeuroImage, 13, 684-701.
+
+Talavage, T. M., Edmister, W. B., Ledden, P. J., & Weisskoff,
+R. M. (1999). Quantitative assessment of auditory cortex
+responses induced by imager acoustic noise. Human Brain
+Mapping, 7, 79-88.
+
+Obleser, J., Wise, R. J. S., Dresner, M. A., & Scott, S. K.
+(2007). Functional integration across brain regions improves
+speech perception under adverse listening conditions.
+Journal of Neuroscience, 27(9), 2283-2289.
+
+Westbury, C. F., Zatorre, R. J., & Evans, A. C. (1999). Quantifying variability in the planum temporale: A probability
+map. Cerebral Cortex, 9, 392-405.
+
+Paltoglou, A., Sumner, C. J., & Hall, D. A. (2009). Examining the role of frequency specificity in the enhancement
+and suppression of human auditory cortical activity by auditory selective attention. Hearing Research, 257, 106-118.
+
+704
+
+Wong, P. C. M., Uppunda, A. K., Parrish, T. B., & Dhar, S.
+(2008). Cortical mechanisms of speech perception in noise.
+Journal of Speech, Language, and Hearing Research, 51,
+1026-1041.
+
+Journal of Speech, Language, and Hearing Research * Vol. 54 * 693-704 * April 2011
+
+Downloaded from: https://pubs.asha.org Bibliotheek Der Rijksuniversiteit on 04/17/2025, Terms of Use: https://pubs.asha.org/pubs/rights_and_permissions
+
+

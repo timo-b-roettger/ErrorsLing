@@ -1,0 +1,1033 @@
+Brain & Language 145-146 (2015) 23-33
+
+Contents lists available at ScienceDirect
+
+Brain & Language
+journal homepage: www.elsevier.com/locate/b&l
+
+Hemispheric specialization for visual words is shaped by attention
+to sublexical units during initial learning
+Yuliya N. Yoncheva a, Jessica Wise b, Bruce McCandliss c,
+a
+
+Department of Child and Adolescent Psychiatry, Child Study Center, New York University Langone Medical Center, New York, NY, United States
+Department of Communication Sciences and Disorders, The University of Texas at Austin, Austin, TX, United States
+c
+Graduate School of Education, Stanford University, Stanford, CA, United States
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 8 September 2014
+Accepted 4 April 2015
+Available online 16 May 2015
+Keywords:
+Reading expertise
+Decoding
+Artificial orthography
+Attention
+Phonology
+Grapheme-phoneme
+N170
+Visual word form
+
+a b s t r a c t
+Selective attention to grapheme-phoneme mappings during learning can impact the circuitry subsequently recruited during reading. Here we trained literate adults to read two novel scripts of glyph words
+containing embedded letters under different instructions. For one script, learners linked each embedded
+letter to its corresponding sound within the word (grapheme-phoneme focus); for the other, decoding
+was prevented so entire words had to be memorized. Post-training, ERPs were recorded during a reading
+task on the trained words within each condition and on untrained but decodable (transfer) words. Within
+this condition, reaction-time patterns suggested both trained and transfer words were accessed via sublexical units, yet a left-lateralized, late ERP response showed an enhanced left lateralization for transfer
+words relative to trained words, potentially reflecting effortful decoding. Collectively, these findings
+show that selective attention to grapheme-phoneme mappings during learning drives the lateralization
+of circuitry that supports later word recognition. This study thus provides a model example of how
+different instructional approaches to the same material may impact changes in brain circuitry.
+O 2015 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+1. Introduction
+Success in early reading acquisition depends on a learner's
+ability to master the association between spoken words and their
+corresponding visual word forms. When learning these mappings,
+a student may attend to individual letters and link them to sounds
+within a word, thus focusing on sublexical grapheme-phoneme
+mappings. Alternatively, the budding reader might attend to larger
+grain sizes, such as letter clusters, onsets, rimes, or even whole
+words (Ziegler & Goswami, 2005). Reading development theories
+concur that gaining robust grapheme-phoneme connections is vital
+for achieving reading proficiency (Ehri, 1991; Frith, 1985; Gough &
+Juel, 1991). In addition to promoting the refinement of known word
+representations (Perfetti, 1991), proficiency in manipulating
+attained grapheme-phoneme associations serves as a crucial selfteaching device, which enables beginning readers to decode novel
+words that they have not encountered previously (Share &
+Stanovich, 1995). Overall, relative to approaches that promote
+memorization of the spelling patterns of entire words, sublexical
+phonics-based strategies yield superior reading acquisition outcomes according to behavioral cognitive psychology meta-analyses
+ Corresponding author at: Graduate School of Education, 485 Lasuen Mall,
+Cubberley 228, Stanford, CA 94305-3096, United States.
+E-mail address: brucemc@stanford.edu (B. McCandliss).
+
+(e.g., Rayner, Foorman, Perfetti, Pesetsky, & Seidenberg, 2001) and
+systematic investigations of curriculum effects (e.g., Ehri, Nunes,
+Stahl, & Willows, 2001).
+Reading instruction has valuable potential for directing a
+student's attention to representations at grain sizes that bolster
+the acquisition of reliable alphabetic and word knowledge
+(McCandliss, Beck, Sandak, & Perfetti, 2003). The need for specific
+attentional guidance during learning is highlighted by the fact that,
+upon viewing a word, this gamut of grain sizes is available - all at
+once - to a beginning reader. Additionally, although grapheme-phoneme decoding is typically advantageous, skilled reading of exception words, which cannot be decoded, requires fluent switching
+between grain sizes. Given the central role of grapheme-phoneme
+conversion for masterful reading, intentionally directing attention
+to sublexical specifically subsyllabic mappings might be an essential
+component of a learner's emerging decoding skills (McCandliss &
+Yoncheva, 2011). The brain mechanisms of this process remain largely unexplored yet are pivotal to understanding how instructional
+strategies can best be harnessed to support the development of the
+perceptual expertise for reading (McCandliss, 2010).
+Skilled reading engages specialized brain processes allowing
+rapid categorization of orthographic input as language. One of
+the earliest print-sensitive responses indexed in the event-related
+potential (ERP) is the N170 visual word effect, typically characterized as greater occipito-temporal negativity within 200 ms of
+
+http://dx.doi.org/10.1016/j.bandl.2015.04.001
+0093-934X/O 2015 The Authors. Published by Elsevier Inc.
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+24
+
+Y.N. Yoncheva et al. / Brain & Language 145-146 (2015) 23-33
+
+viewing a word relative to a visually matched control stimulus.
+This N170 response temporally coincides with the time-window
+that reflects initial word recognition in eye movement studies
+(for review, see Posner & McCandliss, 1993). The educational
+experience of learning to read one's own language is crucial for
+the tuning of the N170 effect to the specific properties of one's
+native script. Language-specific effects in the perceptual expertise
+for visual words have been reported in literate adults when reading
+a known, relative to an unfamiliar, script in another language
+(Wong, Gauthier, Woroch, DeBuse, & Curran, 2005). Similarly,
+specific educational impact is evident in pre-literate children
+who progress through their literacy training to eventually exhibit
+native script sensitivity, characteristically left-lateralized as in
+skilled adult readers (Brem et al., 2009). Studies examining the
+visual word N170 response throughout reading skill accruement
+often report accompanying modulations of later ERP components
+(Brem et al., 2006; Brem et al., 2009; Maurer, Blau, Yoncheva, &
+McCandliss, 2010). These include the N400 component, thought
+to reflect deeper semantic processing as commonly revealed by
+comparing expected with unexpected sentence endings (Kutas &
+Federmeier, 2011), and the Late Positivity Complex (LPC) family
+of components often attributed to domain-general engagement
+of learning, attention, and memory functions (Polich, 2007). In
+the context of reading, LPC effects can be sensitive to old/new word
+recognition (Friedman, 1990) and explicit/implicit memorization
+effects frequently observed under repeated word presentation
+(Rugg et al., 1998). Either or both phenomena might be relevant
+to emergent decoding skills.
+Orthographic (e.g., Dehaene & Cohen, 2011) as well as phonological processes (e.g., Vigneau et al., 2006) are predominantly left-lateralized in fluent readers (for review, see Schlaggar & McCandliss,
+2007). Moreover, across individuals the left lateralization of reading-related activations is tightly coupled with the left lateralization
+of activations linked to speech perception (Pinel & Dehaene, 2010).
+Visual and spoken word lateralization are also systematically influenced by both genetic and environmental factors (Pinel et al., 2014).
+Importantly, selective attention to language can engage this left-lateralized integrated network in a purely top-down fashion in skilled
+readers: in the absence of visual input, phonological computations
+recruit the visual word form area yet acoustic non-linguistic judgments on this same word pair do not (Yoncheva, Zevin, Maurer, &
+McCandliss, 2010). Furthermore, selective attention to phonology
+can shape perception by modulating processes as early as online
+stimulus encoding via transient, temporally specific engagement
+of orthographic and phonological regions within the left hemisphere (Yoncheva, Maurer, Zevin, & McCandliss, 2014). Such attentional processes may influence neural circuitry during initial
+learning and thus impact later word recognition. Thus the exact
+relation between such modulations and learning beckons direct
+investigation within an approach that combines educational manipulations, learning, and functional brain imaging.
+1.1. The current study: approach, questions, and hypotheses
+Motivated by accumulating evidence that selective attention to
+grapheme-phoneme mappings dynamically recruits left-lateralized linguistic processes, the present ERP study addressed questions
+central to a beginner's grapheme-phoneme (GP) decoding during
+reading. Early reading acquisition was modeled in a well-controlled
+paradigm training literate, adult English speakers to read artificial
+scripts. This manipulation allowed us to investigate - in relative isolation from other, typically confounded factors (e.g., ongoing print
+exposure, stimulus properties, training time, and a learner's preexisting attentional biases) - how attentional focus shapes subsequent reading responses. Two artificial scripts were created: a GP
+script, in which each grapheme mapped consistently onto a single
+
+phoneme, and another, whole-word (WW) script, in which the pairing between individual graphemes and corresponding phonemes
+was arbitrary across training trials. Any putative incidentally
+acquired knowledge of particular letter-sound associations in the
+WW script was therefore not generalizable to decoding transfer
+(not previously trained) words, forcing learners to further attend
+to WW-level mappings. Training was implemented by concurrent
+presentation of frequent, single-syllable spoken English words and
+their corresponding artificial script representations. Following
+training, each learner completed a reading verification task while
+we recorded their behavioral and ERP responses.
+First, we tested the hypothesis that GP decoding engages left-lateralized processes and examined the time-course of this visual word
+ERP modulation. The theoretical focus of this paper, the left-lateralized N170 effect, is linked more closely to overall script familiarity
+rather than knowledge of particular visual word forms (Yoncheva,
+Blau, Maurer, & McCandliss, 2010); therefore we anticipated decoding-related ERP modulations to manifest after the initial perceptual
+categorization indexed by the N170 component, while active decoding processes were at play, e.g., during the N400 or the LPC ERP components. Second, we examined how attending to GP mappings
+during learning biases a learner's subsequent reading. Response
+latencies were studied first focusing on trials where a visual word
+did not match the concurrent single-syllable auditory word.
+Contrasting latencies during verification of syllable onsets (i.e., initial consonant) relative to syllable rimes (i.e., central vowel and final
+consonant) provided a behavioral assay likely reflective of decoding
+processes. To more directly link observed effects to the impact of
+attentional focus on GP grain sizes, behavioral and visual ERP
+responses to words trained under GP focus were contrasted with
+responses to words trained under WW focus, since the two training
+conditions were equated for total exposure and learning time. We
+expected to find reading expertise effects, indexed by a left-lateralized N170 response, only when the same student read the script
+learned under selective focus to GP mappings and not under WW
+focus. Capitalizing on high-density recordings to capture ERP topographic differences and on Bayesian statistics to temporally localize
+attentional effects, we carried out data-driven analyses unconstrained by a priori assumptions and examined the duration and persistence of effects throughout and following the N170 component.
+2. Materials and methods
+2.1. Participants
+Native English-speaking, right-handed (Oldfield, 1971) volunteers
+were recruited for the study. Each participant was neurologically
+healthy with normal hearing and normal, or corrected-to-normal,
+vision, and was screened for reading disability and prior knowledge
+of logographic scripts, such as Chinese. To ensure that every subject
+attended to the training and showed learning progress, accuracy
+greater than 85% on the average of the two training conditions in
+the final test of trained words on day 1 was required to invite participants for the second day session, which included the EEG recording
+(two subjects did not reach criterion). Further, two additional subjects
+did not meet the ERP data quality criterion detailed in 3.2. ERP preprocessing. Data from 16 participants (mean age: 21.7 years, range:
+18-31; 8 women) are reported here. Ethical approval was granted
+by the Institutional Review Board of Vanderbilt University. All
+subjects were fully briefed and provided written informed consent.
+2.2. Training in artificial orthography
+2.2.1. Procedure
+Each participant learned to associate sets of auditory words
+with corresponding visual characters under two training
+
+Y.N. Yoncheva et al. / Brain & Language 145-146 (2015) 23-33
+
+conditions: grapheme-phoneme (GP) and whole-word (WW). The
+training in both conditions was identical except for the different
+instruction slide in the beginning of the training phase prescribing
+the use of one of the two strategies: GP (focus on the embedded
+letter-figures and associate each of the three sounds of the word
+to a given letter-figure within the glyph) and WW (focus on the
+whole glyph and link it to the spoken word) (Fig. 1).
+Training took place over two consecutive days, 24 h apart. On
+each day, participants were trained on one word list per condition.
+Training was broken into three alternating training blocks per condition. Each block contained seven repetitions of a word. After
+every training block, participants were tested in a two-alternative
+forced choice whether the visual word character matched with an
+auditory word. If the training was in the GP condition, the participant was additionally tested on a transfer list that assessed the
+accrual of alphabetic knowledge, as indexed by ability to decode
+transfer words composed of known letter-figures within a character. At the end of the second day, after the six sessions, all participants completed the EEG reading verification task experiment.
+After the EEG experiment, participants answered a series of
+questions probing adoption of a GP or WW strategy throughout
+learning. For the WW (control) condition, subjects also elaborated
+on their personal approach to memorizing the entire characters
+(e.g., imagining how the shape of the visual character might
+remind them of the spoken word's meaning). None of these
+whole-word memorization strategies involved alphabetic knowledge. All subjects reported compliance with the prescribed
+strategy.
+2.2.2. Stimuli
+Single-syllable, consonant-vowel-consonant English words
+were created using six consonants (b, d, k, n, s, t) and four vowels
+(a, u, e, i). The embedded letter-like figures were novel black line
+drawings on white background, and each character subtended
+2.4 horizontal by 2.6 vertical visual angle. The spoken words
+(average duration = 600 ms; SD = 55 ms) were recorded by a
+female native English speaker.
+2.2.3. Word list selection
+Each student was trained on 4 lists of English words associated
+with glyphs. The 4 lists of spoken English words were used to algorithmically generate WW and GP glyph stimuli by converting the
+initial consonant, vowel, and final consonant into individual glyph
+segments. This allowed us to counterbalance the four word lists
+across training condition (GP, WW). At the orthographic level of
+analysis, the letter position distribution and combination of units
+were equivalent between the GP and WW sets of glyphs.
+However, at the level of mapping of orthographic units to phonological representations, the sets differed to preclude possible learning of grapheme-phoneme mappings during the WW training
+condition. Unlike the GP glyphs, the mapping between WW glyphs
+and spoken English words was arbitrary, i.e., each ``letter'' was
+paired with different sounds during training. For each letter in
+the GP glyph set, an analogous letter existed in the WW glyph
+
+25
+
+set, and it appeared with equal frequency in each position and
+within each bigram across the two sets, thereby preserving the statistical letter probabilities at the orthographic level across the two
+training scripts.
+On each of the two training days, a student was trained on two
+lists that were unique to that training day: one presented within
+the GP condition and another presented within the WW condition.
+This also enabled counterbalancing the 4 lists across assignment to
+training session (first day, second day) and assignment of list to
+position within training session (first, second).
+Each word list consisted of 12 unique words. Every list contained six consonants (appearing in the first and last positions
+twice in each list) and four vowels (each appearing three times
+in a list). Two additional six-word transfer lists (each with equated
+letter frequency in each position) were used to monitor progress
+on use of the GP rules acquired during training to decode untrained
+words. Transfer lists were counterbalanced across the 16 participants. To create mismatch trials, each word in the list was paired
+with a corresponding foil from the same list, designed to differ at
+one of two levels of orthographic/phonological position within
+the syllable: the onset unit (i.e., first consonant) or the rime unit
+(i.e., the central vowel and final consonant). Thus, mismatch trials
+either shared onset and differed in rime, or conversely, differed in
+onset and shared sounds in rime.
+2.3. EEG
+2.3.1. EEG Reading verification task
+The reading verification task was a two-alternative forced
+choice task. Participants rapidly decided whether the presented
+visual word character matched with the auditory word (Fig. 2). A
+trial commenced with fixation (mean duration 750 ms) followed
+by the presentation of a visual character (mean duration
+2000 ms). Next, an auditory word (mean duration 600 ms) was
+presented at a normally distributed jitter ranging from 667 to
+1000 ms after the onset of the visual character. After an average
+of 3000 ms (2500-3500 ms), during which participants could
+respond, the next trial began. Three types of visual characters were
+presented in mini-blocks: GP-trained, WW-trained, and GP-transfer (unfamiliar but decodable) words. Each training day contributed an equal number of trained words, resulting in miniblocks composed of twelve unique words repeated twice, once as
+a target and once as a foil. Conditions were presented with equal
+probability in each position over five consecutive mini-blocks.
+Participants could take breaks between the mini-blocks. Overall,
+the task lasted approximately 60 min. EEG was recorded and
+ERPs time-locked to onset of the visual character are reported.
+2.3.2. EEG recording and preprocessing
+The 128-channel EEG was acquired using a Hydrocel Geodesic
+Sensor Net (Electrical Geodesics Inc., Eugene, Oregon) referenced
+to the vertex electrode. Data were sampled at 1000 Hz/channel
+with calibrated technical zero baselines and a low-pass filter set
+at 0.1 Hz. Electrode impedances were maintained below 50 kO.
+
+Fig. 1. Manipulating attentional focus during training. Each student learned a set of English words focusing on grapheme-phoneme (GP) mappings, and another, in a different
+script, focusing on whole-word (WW) mappings. Learning conditions and duration were identical for the training conditions apart from the instruction slide at the onset of
+training.
+
+26
+
+Y.N. Yoncheva et al. / Brain & Language 145-146 (2015) 23-33
+
+Fig. 2. EEG reading verification task. On each trial learners indicated whether or not
+the written glyph and the spoken word matched. Short blocks of words trained
+under GP and WW focus were presented. Alphabetic transfer words, i.e., unfamiliar
+but decodable based on learned GP mappings, were tested in separate blocks. ERPs
+time-locked to the onset of the visual word were analyzed.
+
+Spline interpolation was applied to channels with excessive artifacts (on average 11.6 channels per subject), followed by eye blink
+correction in BESA 5.3 Research software (Berg & Scherg, 1994).
+EEG data were then digitally band-pass filtered (0.1-30 Hz,
+24 dB/oct), epoched from 200 ms pre-stimulus (visual character)
+to 800 ms post-stimulus. Artifacts exceeding  100 lV in any channel were automatically rejected. Single-subject averaging was done
+separately for each condition on correct trials only. In Brain Vision
+Analyzer 2.0, ERPs were transformed to the average reference
+(Lehmann & Skrandies, 1980), and grand averages and Global
+Field Power (GFP) were computed separately for each condition
+and - for the purposes of adaptive segmentation and quantitative
+ERP quality control - collapsed across all conditions. Any individual that had did not produce a GFP peak N1 response that was
+equal to or greater than nine times the baseline GFP response
+was excluded from further analysis.
+2.3.3. ERP analyses
+The analysis strategy involved a data-driven approach sensitive
+to topographic differences, including lateralization (Yoncheva,
+Blau, et al., 2010; Yoncheva et al., 2014). First, we identified
+time-intervals where significant differences between conditions
+of interest occurred, indicating differential perceptual and/or cognitive processing (i.e., segmentation). Then, ERPs were averaged
+across these time-intervals, and the resulting segments were
+directly contrasted between conditions with respect to map
+strength, topography, and latency.
+2.3.3.1. Segmentation. Topographic bootstrapping tests (topographic analysis of variance, TANOVA (Strik, Fallgatter, Brandeis,
+& Pascual-Marqui, 1998)) on raw ERP maps were conducted
+because TANOVA detects systematic topographic differences and
+overall amplitude variations between the contrasted conditions.
+To this end, global dissimilarity for each time-point was computed
+
+(Lehmann & Skrandies, 1980; Strik et al., 1998), and subsequently a
+probability distribution was created (randomization test with 5000
+re-samplings (Manly, 1991)). Finally, a z-score of the original dissimilarity in relation to its respective distribution was calculated.
+The multiple comparisons problem was addressed by an unified
+algorithm, which first fitted an empirical null model and then estimated tail, area-based and local, density-based false discovery
+rates (fdr) based on a modified Grenander-density estimator
+(Strimmer, 2008a). This approach was chosen for several reasons.
+First, the empirical model fitting deals with the time-sample correlations inherent to the time domain (Efron, 2007). Additionally, the
+truncation point for model fitting is selected to minimize false nondiscovery rate, i.e., type II error, increasing leverage in interpreting
+both significant and non-significant findings (Efron, 2004). Finally,
+the estimated local false discovery rate represents the empirical
+Bayesian posterior probability of the null hypothesis, which is
+readily interpretable unlike some variants of corrected
+p-values. The fdrtool algorithm, strimmerlab.org/software/fdrtool
+(Strimmer, 2008b), as part of the R package archive from CRAN
+(R Development Core Team., 2007) was used for this analysis with
+input z-scores for each time-point, separately for each condition of
+interest. Statistical significance was set at local fdr p < 0.05. This
+procedure was previously applied to other independent ERP data
+sets (Yoncheva, Maurer, Zevin, & McCandliss, 2013; Yoncheva
+et al., 2014). Finally, to address which robust ERP components were
+modulated by experimental manipulation as revealed by TANOVA
+differences, an adaptive segmentation based on GFP minima was
+also performed (Lehmann & Skrandies, 1980) indicating that 72-
+144 ms corresponded to the P1; 144-306 ms corresponded to the
+N1, while late positivity complex (LPC) components spanned
+306-375 and 375-581 ms.
+Given our two central questions, separate segmentation was
+carried out for each condition of interest.
+2.3.3.1.1. Effects of alphabetic decoding. To isolate when reading
+novel decodable words modulated the ERP response, a raw-map
+TANOVA contrasting GP-transfer with GP-trained words was
+adopted in the 0-500 ms range. Significant differences were found
+in three time-intervals: 324-336 ms; 363-387 ms and 399-
+453 ms (local fdr p < 0.05, fitting parameters: g0 = 0.179 with
+SD = 0.32). These intervals were used as time-windows for LPC segmentation. Due to our a priori interest in lateralization, for these
+LPC modulations we focus on positive centroid positions on the
+x-axis.
+2.3.3.1.2. Effects of attentional training focus. To isolate when words
+trained under GP focus were differentially processed from ones
+trained under WW focus, a direct raw-map TANOVA contrasting
+GP-trained with WW-trained words was performed for each
+time-point in the 0-500 ms range. Significant differences were
+found only from 197 to 222 ms (local fdr p < 0.05, fitting parameters: g0 = 0.946 with SD = 1.28). This time-interval was characterized by an N170 topography and concurrent with the N1
+component, and thus was selected as the N170 segmentation
+interval.
+2.3.3.2. Map strength, topography, and latency summary
+measures. Within each TANOVA-selected time-segment individual's potentials were averaged to produce a mean map for each
+condition. The topography of each mean map was reduced to six
+descriptors using 3D centroids (averaged, voltage-weighted electrode positions of positive and negative map areas (Brandeis,
+Vitacco, & Steinhausen, 1994) in Talairach space). Between-condition position differences of the negative centroids specifically on
+the x-axis (left-right) were reported to test the hypothesis that
+attentional focus modulates N170 lateralization. Map strength
+was indexed by its GFP (i.e., the spatial standard deviations of
+the voltages in that map) (Lehmann & Skrandies, 1980). In line
+
+27
+
+Y.N. Yoncheva et al. / Brain & Language 145-146 (2015) 23-33
+
+with our whole-map analysis approach, latencies were determined
+via topographical component recognition (TCR) (Brandeis, Naylor,
+Halliday, Callaway, & Yano, 1992; methodological strengths discussed on page 273 in Luck, 2014). The TCR approach has been successfully used across different investigations of N170 lateralization
+(Brem et al., 2006; Maurer, Zevin, & McCandliss, 2008). First, a template map was created by computing the grand-averaged map
+within TANOVA-selected segments, averaged across conditions
+from potentials that have been GFP-normalized in order to prevent
+bias by stronger maps. Then, within the boundaries of the relevant
+ERP component, the topographically most similar time-point in
+individual's ERP (as determined by maximal correlation) was
+selected as the latency for that condition.
+2.3.3.3. Statistical analyses. Analyses of GFP, centroid locations, and
+latencies were conducted in SPSS v18. Multivariate analyses of
+variance (MANOVA) for repeated measures with within-subject
+factor learning condition (WW-, GP-trained characters) were performed, as well as planned comparisons separately of GP-trained
+with GP-transfer words. The centroid analyses included polarity
+(positive, negative centroid) as an additional factor, and the three
+location dimensions of the centroids (x-, y-, and z-axes) were treated as multivariate dependent measures. Polarity is only reported
+when it interacts with other factors. Effects on the x-axis indicate
+lateralization effects: negative x-values correspond to left
+lateralization.
+Finally, to facilitate comparison with conventional ERP analyses,
+the grand-average waveforms time-locked to visual word onset,
+shown separately for GP-trained, GP-transfer, and WW-trained
+words, are presented. Nine non-overlapping channel clusters are
+created by selecting the approximate 10-10 equivalents of hallmark channels (Luu & Ferree, 2000), finding their immediate
+neighbors, and averaging ERP potentials within the cluster. The
+resulting clusters are: ``FC5'' (E28 and E20, E24, E27, E29, E34,
+E35); ``FCz'' (E6 and E5, E7, E12, E13, E106, E112); ``FC6'' (E117
+and E110, E111, E116, E118, E123, E124); ``CP5'' (E47 and E41,
+E42, E46, E51, E52); ``CPz'' (E55 and Cz, E31, E54, E79, E80);
+``CP6'' (E98 and E92, E93, E97, E102, E103); ``PO7'' (E65 and E58,
+E59, E64, E66, E69, E70); ``POz'' (E72 and E62, E67, E71, E76, E7);
+``PO8'' (E90 and E83, E84, E89, E91, E95, E96).''
+3. Behavioral data analyses
+To assess overall processing difficulty across tasks, accuracy and
+reaction times (RT; 5% trimmed mean RTs on correct trials reported
+in ms from spoken word onset) were computed for each condition.
+First, echoing the ERP analyses, planned comparisons were performed contrasting GP-trained with GP-transfer words (alphabetic
+decoding effect) and contrasting GP-trained with WW-trained
+words (attentional training focus effect). Additionally, to directly
+assess the potential contribution of task difficulty (average of zscored RTs and error rates) as a mediator of the differential N170
+lateralization for GP relative to WW training, a bootstrap Sobel test
+followed the main analysis (Sobel, 1982).
+Secondly, to assess issues regarding the grain size accessed during word recognition under the different training conditions, reaction times were investigated to directly examine the impact of
+sublexical overlap between the visual and the auditory word
+within a trial. This analysis capitalized on the trial design, which
+manipulated the position of the initial disambiguating information
+for deciding whether or not the visual word corresponded to the
+single-syllable spoken word. Initial mismatch could occur at the
+onset unit of the syllable (e.g., /t-I-n/ vs. /k-I-d/) or at the rime unit
+(i.e., /k-ae-t/ vs. /k-I-d/). Trial types based on whether the onset
+within a `no' trial was the same or different were collapsed and
+
+contrasted directly within each condition (GP-trained, GP-transfer,
+WW-trained). Our trial types could not be segregated to uniquely
+inform second relative to third letter mismatches within the rime
+unit of the syllable due to practical constraints. Namely, foils were
+engineered to be English words that were being taught in the same
+training session and the number of combinations of six consonants
+(first and third position) and four vowels (always second position),
+which create frequent English words, is inherently limited.
+Additionally, within each of the 3 training conditions, we contrasted `yes' with `no' trials. Within `no' trials, higher RTs for shared
+onset than for different onset would indicate an impact of alphabetic grain sizes on RTs and plausibly implicate underlying alphabetic decoding. Such an onset verification effect is expected most
+notably for GP-transfer words, but also for GP-trained words, if
+participants still focus on the GP mappings acquired throughout
+learning. WW-trained words should produce equivalent RTs
+regardless of sublexical overlap position. Directly contrasting
+`yes' with `no' trials for the GP-trained and WW-trained words
+would help inform whether differential facilitation for trained
+exemplars is produced by the two attentional focus training conditions. For WW trained words, endorsements of familiar words are
+expected to be faster than rejections.
+
+4. Results
+4.1. Behavioral results
+Performance in the reading verification task for words trained
+under WW focus was more accurate (t(15) = 8.58, p < 0.001) and
+faster (t(15) = 5.54, p < 0.001) than for words trained under GP
+focus as shown in Table 1, in line with previous short-term training
+results (Yoncheva, Blau, et al., 2010).
+Importantly, accuracy for transfer words was much greater than
+chance (t(15) = 15.37, p < 0.001). Further, despite slower reaction
+times (t(15) = 4.9, p < 0.001), the equivalent error rate for GP-transfer relative to GP-trained words (t(15) = 0.32, p = 0.76) suggested
+that participants were sensitive to sublexical unit organization
+when reading GP trained words as well as GP transfer words
+(Table 1).
+A finer-grain analysis directly assessing how the position of letter-sound mismatch impacts response latencies revealed modulation patterns that notably differed between the two scripts while
+remaining broadly consistent within the GP script. When decoding
+GP-transfer words, participants were faster to reject foils where
+the mismatch was at syllable onset rather than syllable rime
+(t(15) = 2.29, p < 0.05). An analogous trend was detected when
+decoding GP-trained words (t(15) = 1.31, p = 0.1). It was confirmed
+that for the WW script, a mismatch at onset relative to rime did not
+affect response latencies (t(15) = 0.06, p = 0.5). Notably, for the
+WW script, `yes' trials were faster than `no' trials (t(15) = 4.57,
+p < 0.0005), as expected for over-trained exemplars. In contrast,
+latencies to reject GP-transfer foils showed the opposite pattern
+and were greater than these to endorse a match, t(15) = 2.30,
+p < 0.05. GP-trained words showed no difference between `yes'
+and `no' trials, t(15) = 0.75, p = 0.5 (Fig. 3).
+
+Table 1
+Behavioral performance (RTs and error rates) on the reading verification task based on
+training condition.
+
+Reaction times (ms)
+Errors (%)
+
+GP-trained
+
+WW-trained
+
+GP-transfer
+
+Mean
+
+SEM
+
+Mean
+
+SEM
+
+Mean
+
+SEM
+
+1288.7
+12.4
+
+67.0
+1.5
+
+1022.5
+5.1
+
+59.9
+1.3
+
+1372.1
+12.8
+
+64.3
+2.4
+
+28
+
+Y.N. Yoncheva et al. / Brain & Language 145-146 (2015) 23-33
+
+4.2.1.3. Latency. No differences were found between GP-trained
+and GP-transfer word latencies (LPC1: t(15) = 0.64, p = 0.53;
+LPC2: t(15) = 1.26, p = 0.23; LPC3: t(15) = 0.43, p = 0.97).
+
+Fig. 3. Behavioral performance in the reading verification task based on visual/
+auditory stimulus pairing within a trial, separately for each attentional condition.
+Reaction times reported from the onset of the spoken word. On mismatch trials, we
+manipulated whether the onset syllable unit was shared (and the rime unit
+differed) or whether the onset syllable unit differed between the visual and the
+spoken word. Match trials presented familiar words. Onset verification was
+significantly faster relative to rime verification for GP-transfer words, as well as
+for GP-trained words. WW-trained words show an RT advantage of word
+familiarity.
+
+4.2. ERP results
+4.2.1. Differences between GP-trained and GP-transfer words in
+consecutive ERP maps
+Differential ERP responses over time based on visual word
+familiarity were evaluated using a topographic analysis of variance
+(TANOVA). Significant differences based on TANOVA were
+observed at 324-336 ms (termed here LPC1); 363-387 ms (LPC2)
+and 399-453 ms (LPC3). All three segments were characterized
+by the same consistent LPC topography.
+4.2.1.1. Topographic centroid effects. Left-lateralization of the positive centroid in the GP-transfer condition was tested in each of
+the three LPC segments (LPC1: t(15) = 0.92, p = 0.19; LPC2:
+t(15) = 0.11, p = 0.46; LPC3: t(15) = 1.63, p = 0.06). Further
+investigation of the LPC3, the component showing the strongest
+left lateralization for GP-transfer words, demonstrated that relative to WW-trained words, GP-transfer topographies were significantly more left-lateralized (t(15) = 2.44, p < 0.05) (Fig. 4). This
+held also for GP-trained words relative to WW-trained words during the LPC3 (t(15) = 1.91, p < 0.05). For the other two components
+(LPC1 and LPC2), there was no difference between GP-transfer and
+WW-trained (tmax = 0.94, pmin > 0.4) and no difference between GPtrained and WW-trained (tmax = 1.54, pmin > 0.15).
+4.2.1.2. GFP. GFP for GP-trained and GP-transfer words were generally comparable (LPC1: t(15) = 1.92, p = 0.074; LPC2: t(15) = 0.39,
+p = 0.70; LPC3: t(15) = 1.13, p = 0.28).
+
+4.2.2. Differences between GP and WW-trained words in consecutive
+ERP maps
+Differential ERP responses over time based on training focus
+were evaluated using a TANOVA. Processing visual words trained
+under GP as opposed to WW focus differed (fdr p < 0.05) in the
+197-222 ms time-range, which was characterized by an N170
+topography. Further, an adaptive segmentation approach (collapsed over training strategy, thus reflecting the robust N1 ERP
+response associated with visual word processing) corroborated
+that the 197-222 ms segment fell within the boundaries of the
+N1 component. Hence, this N170 segment was selected for further
+investigation.
+4.2.2.1. Topographic centroid effects. Centroid distribution differed
+between WW-trained and GP-trained words (multivariate
+MANOVA: polarity by training F(3, 13) = 6.098, p < 0.01; x-axis univariate: polarity by training F(3, 13) = 4.707, p < 0.05) with the negative centroid along the x-axis (i.e., left-right) being more negative
+for GP-trained than for WW-trained words, indicating a more leftlateralized N170 negativity for GP-trained words (Fig. 5). The Sobel
+test indicated that task difficulty was not a significant mediator of
+the differential - by training condition - N170 lateralization
+(z = 0.16, p = 0.85).
+4.2.2.2. GFP. Reading GP-trained words evoked smaller GFP than
+reading WW-trained words (1.55 lV  0.2 vs. 1.81  0.2 lV:
+t(15) = 2.92 p < 0.05).
+4.2.2.3. Latency. No significant differences were found between GPand WW-trained word latencies (t(15) = 1.08, p = 0.30).
+4.2.3. Planned comparison: N170 of GP-trained and GP-transfer words
+No significant whole-map differences between GP-trained and
+GP-transfer words were present in the N170 interval.
+Nevertheless, since a robust N170 response was notable in both
+conditions, the positions of the negative centroids on the x-axis
+were directly compared between the two conditions. N170 lateralization was equivalent for complete overlap between the GPtrained and GP-transfer words (t(15) = 1.22, p = 0.24). No N170
+latency differences were detected (t(15) = 0.73, p = 0.48). GFP when
+reading GP-trained and GP-transfer words was also comparable
+(t(15) = 0.43 p = 0.67).
+Fig. 6 illustrates nearly complete overlap between the GPtrained and GP-transfer conditions during the N170 interval at
+
+Fig. 4. Decoding effects in visual word ERPs. Decoding visual words that have not been explicitly trained (GP alphabetic transfer words) elicits a more left-lateralized ERP
+response during the late positivity complex (399-453 ms) relative to reading trained words written in the same GP script as seen in grand-average voltage maps.
+
+Y.N. Yoncheva et al. / Brain & Language 145-146 (2015) 23-33
+
+29
+
+Fig. 5. Training focus modulates N170 lateralization during subsequent reading. Reading words trained under GP focus elicits a significantly more left-lateralized N170
+topography relative to words trained under WW focus as evident over the 197 - 222 ms N170 interval in the grand-average voltage maps for each training condition.
+
+the waveform level, particularly at left relative to right posterior
+sites (PO7 and PO8 respectively) as well as divergence between
+these conditions in left posterior regions during the late positivity
+complex.
+5. Discussion
+Selective attention to grapheme-phoneme (GP) mappings
+throughout training in an artificial script drastically biased behavioral and ERP responses in later tests. Specifically, reaction time
+patterns showed evidence of differential onset relative to rime verification when reading GP words suggesting that alphabetic decoding was readily engaged upon subsequent encounters of the GP
+script. Notably, decoding visual words that were not previously
+trained, as opposed to familiar words in the same GP script, produced a left-lateralized ERP modulation of the late positivity complex (LPC) response. Finally, despite identical stimulus exposure
+and training times for the two scripts, the left-lateralized N170
+perceptual expertise for visual words was only observed when
+reading words that had been trained under GP attentional focus
+and not under WW focus.
+5.1. Decoding familiar visual word forms
+Greater left lateralization was evident for words in the GP script
+that were not previously trained relative to words in that script
+that were specifically trained, potentially indicating effortful
+decoding processes in a time-window approximately 400 to
+450 ms, as characterized by whole-map divergence (fdr p < 0.05).
+The LPC topography characterizing this segment would be broadly
+consistent with domain-general modulations of post-perceptual
+processes (Polich, 2007). For instance, differential LPC engagement
+might be associated with differential memory strength for
+entire words relative to constituent letters (Friedman, 1990).
+Furthermore, decoding transfer words might engage explicit recall
+of grapheme-phoneme mappings to a greater extent than decoding trained words. In the context of reading expertise development,
+recent studies seem to show additional later ERP modulations of
+visual word processing at least under implicit reading conditions
+(Brem et al., 2006; Brem et al., 2009). Such observations might
+speculatively be related to differential automaticity of the
+emergent decoding skills that are not specifically needed for task
+performance. This interpretation dovetails with our previous findings of training-induced ERP changes that showed an LPC-like modulation in addition to the N170 learning effect, when probed in a
+phonologically shallow, implicit reading task (Maurer et al., 2010).
+Interestingly, the modulated time-window showed a significantly right-lateralized topography in the WW script suggesting
+lack of engagement of left-lateralized linguistic processes to any
+recently trained, control script. Notably, the decoding ERP effect
+
+was not merely a sustained modulation of lateralization carried
+over from the N170 effect but seemed to reflect a distinct engagement of decoding processes. Not inconsistent with a growing body
+of studies mapping phonological to orthographic influences
+(Pattamadilok, Knierim, Kawabata Duncan, & Devlin, 2010; Pinel
+et al., 2014), we recently suggested that attentional influences
+may act on the early integration of grapheme and phoneme representations. Specifically, an fMRI study revealed that a left-lateralized network, including the visual word form area, was
+differentially engaged when focusing attention on phonological as
+opposed to general acoustic features (Yoncheva, Zevin, et al.,
+2010). This was the case when contrasting two equally difficult
+tasks performed on identical auditory stimuli (combining speech
+and tones), thus isolating the impact of attentional focus on phonology, and demonstrating how such focus impacts regions associated
+with orthography, even in the absence of any visual stimulation. In
+a parallel paradigm, ERP responses during stimulus encoding were
+shown to be modulated by intentionally focusing on phonological
+distinctions within spoken words (Yoncheva et al., 2014). In both
+the fMRI and the ERP studies, these top-down attentional effects
+were observed without visual word presentation. In light of these
+convergent findings, the current left-lateralized engagement may
+reflect aspects of acquired print-to-speech associations, rather than
+mere attentional biases on phonological processing.
+Behavioral response latency analyses at a finer grain size scale
+(Ziegler & Goswami, 2005) provided a more direct link to decoding
+processes, inaccessible in aggregate RTs. The central question of
+the current experiment involved isolating selective attention,
+which required task demands, i.e., reading verification, to be kept
+identical across all attentional focus conditions. However, we
+manipulated, within the constraints of a limited set of frequent
+English words, the visual-auditory stimulus pairing in `no' trials
+to allow examining the effect of onset relative to rime verification
+on behavioral performance. When rejecting mismatching pairs in
+the GP script, faster RTs were observed when the first sound was
+the different from, rather than the same as, the first letter.
+Importantly, this onset/rime verification auditory RT effect was
+present for both transfer and trained words, albeit as a non-significant trend for trained items. In contrast, the manipulation of grain
+size in stimulus pairing produced no effect on behavioral performance for the WW script. The finding that onset match/mismatch
+biased responses within the GP script, but elicited no differences
+when reading the WW script suggests involvement of active GP
+decoding when processing the GP script. Secondly, in the WW
+script, latencies to endorse `yes' trials were found to be much faster
+than ones to reject mismatching `no' trials. Despite identical training times for the two scripts, no such RT advantage was found for
+processing the well-rehearsed, over-learned GP stimulus exemplars. Thus, the overall behavioral pattern of GP trained items
+echoed more closely that of GP transfer words, rather than WW
+
+30
+
+Y.N. Yoncheva et al. / Brain & Language 145-146 (2015) 23-33
+
+Fig. 6. Grand-average waveforms time-locked to the onset of the visual word within the reading verification task at nine channel clusters. Three conditions are shown
+separately: words that have been previously trained in the GP script (GP-trained, solid dark green), words that have not been previously trained in the GP script but are
+decodable based on GP-mappings (GP-transfer, dotted green), and words that have been trained in the WW script (WW-trained, solid gold). The 9 sites cover approximately
+the 10-10 equivalents of fronto-central (top row), centro-parietal (middle row), and occipito-parietal (bottom row) in the left hemisphere (odd numbered channels, leftmost
+column), midline, and the right hemisphere (even numbered channels, rightmost column). Gray vertical rectangles illustrate significant intervals (fdr p < 0.05) based on the
+whole-map TANOVA analyses. Highlighted are the two sites - PO7 and PO8 - in which the whole-map effect of attentional focus during learning (contrasting GP-trained with
+WW-trained words in the N170 segment) and the effect of decoding (contrasting GP-trained with GP-transfer words in the LPC segment) are most prominent. Notable also is
+the lack of differences between GP-trained and GP-transfer word processing during the N170 interval.
+
+trained words. This provides complementary evidence that even
+after extensive training, reading trained words in the GP script
+can evoke active decoding processes. The present GP visual ERP
+effects also likely reflect these trained patterns of selective attention to GP mappings.
+Single-letter processing seems to elicit differential responses
+relative to letter strings in skilled readers (Coch, Hart, & Mitra,
+
+2008; James, James, Jobard, Wong, & Gauthier, 2005; Stevens,
+McIlraith, Rusk, Niermeyer, & Waller, 2013). Intriguingly, it is the
+relative pattern of lateralization of the N170 effect that differs
+between single letter and letter string viewing (Stevens et al.,
+2013). Moreover, elegant developmental work suggests that the
+type of experience through which reading knowledge is accrued
+(e.g., writing or viewing) can powerfully modulate the circuitry
+
+Y.N. Yoncheva et al. / Brain & Language 145-146 (2015) 23-33
+
+subsequently engaged in reading (Butler, James, & James, 2011;
+James, 2010). Finally, far from being static, along its protracted
+development a learner's performance typically shows differential
+characteristics, proposed to reflect distinct reading phases relevant
+to the degree to which alphabetic processing has been consolidated (e.g., amalgamation theory Ehri, 1991), which naturally
+interacts with propensity to focus on different grain sizes. Our current visual ERP and behavioral findings further highlight the
+importance of delineating the factors relevant to decoding as
+opposed to whole word familiarity in order to ensure that the budding reader's attention is focused on the appropriate grain sizes.
+5.2. Training focus impacts subsequent reading expertise recruitment
+Under identical task demands - reading verification - and following identical training time, whole-map topographic ERP differences (fdr p < 0.05) between WW and GP training conditions were
+observed only during the time interval coinciding with the typical
+engagement of the N170 perceptual expertise for reading. The only
+difference between the two conditions was that the same learner
+was prevented from using a GP strategy when training on the
+WW script. Notably, the current within-subjects design controls
+for relevant differences among learners, which might generate
+biases in the degree of a student's engagement in one strategy
+(e.g., GP) relative to another (e.g., WW) during learning (for an
+example of such effects in extreme preference readers, see Wise,
+Yoncheva, & McCandliss, 2011). Additionally, the subjects we
+report on had no prior knowledge of logographic scripts, which
+minimized potential meaningful inter-individual learning differences due to propensity or skill to focus on WW as opposed to
+GP strategy.
+The functional asymmetry of visual word processing in skilled
+readers holds interest from different theoretical perspectives.
+After assessing genetic and environmental factors, Pinel and colleagues have argued that an individual's lateralization of spoken
+language shapes the extent to which their responses to visual
+words are more strongly left-lateralized (Pinel et al., 2014).
+Further, Seghier and Price have used fMRI to delineate sub-regions
+of left ventral occipito-temporal cortex, demonstrating spatial segregation of sub-regions predominantly activated by semantic as
+opposed to visual properties of written words (Seghier & Price,
+2011). We have theorized that selective attention to phonology
+drives the development of the left-lateralized reading expertise
+effect (McCandliss & Yoncheva, 2011) and have supported this idea
+with empirical demonstrations that attentional focus on language
+can co-activate phonological and left-lateralized orthographic circuits (Yoncheva, Zevin, et al., 2010; Yoncheva et al., 2014). Most
+theories concur that examining the relative strength of hemispheric contributions to reading-relevant brain responses is more
+fruitful than merely ascribing processes to each hemisphere in isolation from the other (McCandliss & Yoncheva, 2011; Pinel &
+Dehaene, 2010; Seghier & Price, 2011). Indeed, relative lateralization assays have provided valid correlates of reading processing
+(Brem et al., 2009; Maurer et al., 2008; Maurer et al., 2010;
+Yoncheva, Blau, et al., 2010) and have collectively suggested that
+the degree of N170 lateralization may be influenced by training
+focus, task demands, and familiarity with script. Against this backdrop, our investigation highlights the unique contribution of a
+specific process - selective attention to GP mappings - as key to
+the recruitment of the predominantly left-lateralized language
+network.
+Short-term training lasting only two days was sufficient to produce robust ERP differences when learners read a novel script. An
+analogous pattern of ERP and behavioral results has been shown
+even following a twenty-minute learning session (Yoncheva,
+Blau, et al., 2010). Such findings are consistent with recent
+
+31
+
+demonstrations of lateralization effects in the fusiform gyrus elicited by differential alphabetic as opposed to logographic training
+over eight consecutive days (Mei et al., 2013). Likewise, modulations in activity of the visual word form area were evident after a
+three-day language training (Song, Bu, Hu, Luo, & Liu, 2010).
+Undoubtedly, perceptual expertise for reading develops progressively over years of exercising and honing one's decoding skills
+(Brem et al., 2006). Gaining perceptual expertise for laboratorytrained objects, e.g., Greebles, also requires multiple hours of practice (reviewed in Bukach, Gauthier, & Tarr, 2006). Therefore, the
+short time-scale of such adult training study findings on the order
+of minutes or days might appear puzzling. The current fast emerging left-lateralized N170 effects are explained well by an assimilation learning account (Nelson, Liu, Fiez, & Perfetti, 2009), which
+would suggest that skilled readers recruit their specialized network mediating perceptual expertise for visual linguistic information during novel learning and subsequent reading activities that
+notably pose the same demands as reading in the native language.
+The finding that only GP focus training produced novel script
+assimilation into literate adult's reading expertise lends further
+support to the idea that selective attention to GP mappings in particular is central in biasing which brain networks get trained, and
+consequently honed, as a student progresses with training.
+The ERP modulation we found based on prior attentional carryover notably manifested as a greater left-lateralization of the N170
+topography to the alphabetic GP script in contrast with the more
+right-lateralized N170 to the WW trained script. To further refine
+the interpretation of the current ERP findings as reflecting attentional focus on grapheme-phoneme mappings, below we differentiate this construct from more general, perceptually driven forms
+of attention known to bias early ERPs. First, visuo-spatial attention
+are commonly characterized by retinotopic organization and a
+latency corresponding to the P100 component of the visual ERP
+(Woldorff et al., 1997). All current effects took place after this
+time-window, and this was the case irrespective of whether attention was putatively directed left-to-right (current findings) or topto-bottom (Yoncheva, Blau, et al., 2010). Secondly, hierarchically
+organized figures might engage focus on local as opposed to global
+stimulus features. However, specific predictions regarding the timing and direction of ERP lateralization differences remain complex
+given its sensitivity to experimental context (Beaucousin et al.,
+2011; Hubner, 2014). Finally, the current ERP findings could be
+potentially considered along the learning trajectory from controlled, attention-demanding processing to automatized processing (Schneider & Shiffrin, 1977). After only two days of training
+with room left to improve performance, and given that acquisition
+of perceptual expertise takes many hours over multiple sessions of
+training (reviewed in Bukach et al., 2006), it is reasonable to
+assume that across all conditions subjects were still in the early
+stages of learning well before automatic, attention-free processing.
+Together, these considerations support the notion that the current
+findings tap into a distinct, domain-specific type of selective attention to linguistic information.
+A left-lateralized N170 response during reading verification of
+GP words was observed relative to the more right-lateralized
+N170 response for the WW script despite superior behavioral performance when reading the WW script. This opposing pattern of
+ERP and behavioral results mirrors directly our previous findings
+(Yoncheva, Blau, et al., 2010). Such correspondence might raise
+the question of whether the lateralization of the ERP effect reflects
+mere domain-general task difficulty differences in processing the
+two scripts. A direct test demonstrated that task difficulty (reaction times or error rates) was not a significant mediator of the
+effect of training condition on lateralization. Collectively, these
+findings indicate that the left lateralization of the N170 response
+robustly evoked by the GP script cannot be reduced to task
+
+32
+
+Y.N. Yoncheva et al. / Brain & Language 145-146 (2015) 23-33
+
+difficulty differences and instead indexes the GP focus exercised
+during learning.
+6. Conclusion
+Collectively, the current results demonstrate how the left-lateralized networks that sub-serve phonological processing get
+engaged under different training focus conditions and differential
+need for active decoding during reading. Since the whole gamut
+of grain sizes - from graphemes to entire words - is typically present during exposure to print, focusing beginning learners' attention is invaluable to ensure that their emerging decoding skills
+are best supported and that perceptual expertise for visual words
+is fluently integrated with left-lateralized phonological regions.
+Notably, we show that the footprints of instruction are evident
+well beyond training. The present findings underscore the role of
+selective attention to grapheme-phoneme mappings during training in reading expertise acquisition with implications not only for
+recognizing trained visual words but also for self-teaching of unfamiliar but decodable words.
+Acknowledgments
+This research was partially supported by grant support from
+R01 DC007694, R01 HD065794-01, NSF REC-0337715, and
+T32MH067763. We thank the anonymous reviewers for constructive feedback on a previous version of the manuscript.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.bandl.2015.04.001.
+References
+Beaucousin, V., Cassotti, M., Simon, G., Pineau, A., Kostova, M., Houde, O., et al. (2011).
+ERP evidence of a meaningfulness impact on visual global/local processing: When
+meaning captures attention. Neuropsychologia, 49(5), 1258-1266.
+Berg, P., & Scherg, M. (1994). A multiple source approach to the correction of eye
+artifacts. Electroencephalography and Clinical Neurophysiology, 90(3), 229-241.
+Brandeis, D., Naylor, H., Halliday, R., Callaway, E., & Yano, L. (1992). Scopolamine
+effects on visual information processing, attention, and event-related potential
+map latencies. Psychophysiology, 29, 315-336.
+Brandeis, D., Vitacco, D., & Steinhausen, H. C. (1994). Mapping brain electric microstates in dyslexic children during reading. Acta Paedopsychiatrica, 56, 239-247.
+Brem, S., Bucher, K., Halder, P., Summers, P., Dietrich, T., Martin, E., et al. (2006).
+Evidence for developmental changes in the visual word processing network
+beyond adolescence. NeuroImage, 29, 822-837.
+Brem, S., Halder, P., Bucher, K., Summers, P., Martin, E., & Brandeis, D. (2009). Tuning
+of the visual word processing system: Distinct developmental ERP and fMRI
+effects. Human Brain Mapping, 30(6), 1833-1844.
+Bukach, C. M., Gauthier, I., & Tarr, M. J. (2006). Beyond faces and modularity: The
+power of an expertise framework. Trends in Cognitive Sciences, 10, 159-166.
+Butler, A. J., James, T. W., & James, K. H. (2011). Enhanced multisensory integration
+and motor reactivation after active motor learning of audiovisual associations.
+Journal of Cognitive Neuroscience, 23(11), 3515-3528.
+Coch, D., Hart, T., & Mitra, P. (2008). Three kinds of rhymes: An ERP study. Brain and
+Language, 104(3), 230-243.
+Dehaene, S., & Cohen, L. (2011). The unique role of the visual word form area in
+reading. Trends in Cognitive Sciences, 15(6), 254-262.
+Efron, B. (2004). Large-scale simultaneous hypothesis testing: The choice of a null
+hypothesis. Journal of the American Statistical Association, 99, 96-104.
+Efron, B. (2007). Correlation and large-scale simultaneous significance testing.
+Journal of the American Statistical Association, 102, 93-103.
+Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics
+instruction helps students learn to read: Evidence from the national reading
+panel's meta-analysis. Review of Educational Research, 71, 393-447.
+Ehri, L. C. (1991). Learning to read and spell words. In L. Rieben & C. A. Perfetti (Eds.),
+Learning to read: Basic research and its implications (pp. 57-73). Hillsdale, NJ: L.
+Erlbaum Associates.
+Friedman, D. (1990). ERPs during continuous recognition memory for words.
+Biological Psychology, 30(1), 61-87.
+Frith, U. (1985). Beneath the surface of developmental dyslexia. In K. Patterson, J.
+Marshall, & M. Coltheart (Eds.), Surface dyslexia: Neuropsychological and cognitive
+studies of phonological reading (pp. 301-330). London: Erlbaum.
+
+Gough, P., & Juel, C. (1991). The first stages of word recognition. In L. Rieben & C. A.
+Perfetti (Eds.), Learning to read: Basic research and its implications (pp. 47-56).
+Hillsdale, NJ: L. Erlbaum Associates.
+Hubner, R. (2014). Does attentional selectivity in global/local processing improve
+discretely or gradually? Frontiers in Psychology, 5, 61.
+James, K. H. (2010). Sensori-motor experience leads to changes in visual processing
+in the developing brain. Developmental Science, 13(2), 279-288.
+James, K. H., James, T. W., Jobard, G., Wong, A. C. N., & Gauthier, I. (2005). Letter
+processing in the visual system: Different activation patterns for single letters
+and strings. Cognitive, Affective & Behavioral Neuroscience, 5, 452-466.
+Kutas, M., & Federmeier, K. D. (2011). Thirty years and counting: Finding meaning in
+the N400 component of the event-related brain potential (ERP). Annual Review
+of Psychology, 62, 621-647.
+Lehmann, D., & Skrandies, W. (1980). Reference-free identification of components of
+checkerboard-evoked multichannel potential fields. Electroencephalography and
+Clinical Neurophysiology, 48, 609-621.
+Luck, S. J. (2014). An introduction to the event-related potential technique (2nd ed.).
+MIT Press.
+Luu, P., & Ferree, T. (2000). Determination of the Geodesic Sensor Nets' average
+electrode positions and their 10-10 international equivalents. Eugene, OR:
+Electrical Geodesics Inc..
+Manly, B. F. J. (1991). Randomization and Monte Carlo methods in biology. Chapman
+and Hall.
+Maurer, U., Blau, V., Yoncheva, Y., & McCandliss, B. D. (2010). Development of visual
+expertise for reading: Rapid emergence of visual familiarity for an artificial
+script. Developmental Neuropsychology, 35(4).
+Maurer, U., Zevin, J. D., & McCandliss, B. D. (2008). Left-lateralized N170 effects of
+visual expertise in reading: Evidence from Japanese syllabic and logographic
+scripts. Journal of Cognitive Neuroscience, 20, 1878-1891.
+McCandliss, B. D. (2010). Educational neuroscience: The early years. Proceedings of
+the National Academy of Sciences, 107, 8049-8050.
+McCandliss, B. D., Beck, I. L., Sandak, R., & Perfetti, C. A. (2003). Focusing attention on
+decoding for children with poor reading skills: Design and preliminary tests of
+the word building intervention. Scientific Studies of Reading, 7, 75-104.
+McCandliss, B. D., & Yoncheva, Y. (2011). Integration of left-lateralized neural
+systems supporting skilled reading. In A. A. Benasich & R. A. Fitch (Eds.),
+Developmental dyslexia: Early precursors, neurobehavioral markers and biological
+substrates (the extraordinary brain series) (pp. 325-339). Baltimore, MD: Brookes
+Publishing Co..
+Mei, L., Xue, G., Lu, Z. L., He, Q., Zhang, M., Xue, F., et al. (2013). Orthographic
+transparency modulates the functional asymmetry in the fusiform cortex: An
+artificial language training study. Brain and Language, 125, 165-172.
+Nelson, J. R., Liu, Y., Fiez, J., & Perfetti, C. A. (2009). Assimilation and accommodation
+patterns in ventral occipitotemporal cortex in learning a second writing system.
+Human Brain Mapping, 30(3), 810-820.
+Oldfield, R. C. (1971). The assessment and analysis of handedness: The Edinburgh
+inventory. Neuropsychologia, 9(1), 97-113.
+Pattamadilok, C., Knierim, I. N., Kawabata Duncan, K. J., & Devlin, J. T. (2010). How
+does learning to read affect speech perception? Journal of Neuroscience, 30(25),
+8435-8444.
+Perfetti, C. A. (1991). Representations and awareness in the acquisiton of reading
+competence. In L. Rieben & C. A. Perfetti (Eds.), Learning to read: basic research
+and its implications (pp. 33-44). Hillsdale, NJ: L. Erlbaum Associates.
+Pinel, P., & Dehaene, S. (2010). Beyond hemispheric dominance: brain regions
+underlying the joint lateralization of language and arithmetic to the left
+hemisphere. Journal of Cognitive Neuroscience, 22(1), 48-66.
+Pinel, P., Lalanne, C., Bourgeron, T., Fauchereau, F., Poupon, C., Artiges, E., et al.
+(2014). Genetic and Environmental Influences on the Visual Word Form and
+Fusiform Face Areas. Cerebral Cortex (New York, N.Y.:1991, 1-16.
+Polich, J. (2007). Updating P300: an integrative theory of P3a and P3b. Clinical
+Neurophysiology: Official Journal of the International Federation of Clinical
+Neurophysiology, 118(10), 2128-2148.
+Posner, M. I., & McCandliss, B. D. (1993). Converging methods for investigating
+lexical access. Psychological Science, 4(5), 305-309.
+R Development Core Team. (2007). R: A language and environment for statistical
+computing. R Foundation for Statistical Computing, Vienna, Austria. Retrieved
+from http://www.r-project.org.
+Rayner, K., Foorman, B. R., Perfetti, C. A., Pesetsky, D., & Seidenberg, M. S. (2001).
+How psychological science informs the teaching of reading. Psychological
+Science, 2(2), 31-74.
+Rugg, M. D., Mark, R. E., Walla, P., Schloerscheidt, A. M., Birch, C. S., & Allan, K.
+(1998). Dissociation of the neural correlates of implicit and explicit memory.
+Nature, 392(6676), 595-598.
+Schlaggar, B., & McCandliss, B. D. (2007). Development of neural systems for
+reading. Annual Review of Neuroscience, 30, 475-503.
+Schneider, W., & Shiffrin, R. M. (1977). Controlled and automatic human
+information processing: I. Detection, search, and attention. Psychological
+Review, 84, 1-66.
+Seghier, M. L., & Price, C. J. (2011). Explaining left lateralization for words in the
+ventral occipitotemporal cortex. Journal of Neuroscience, 31(41), 14745-14753.
+Share, D. L., & Stanovich, K. E. (1995). Cognitive processes in early reading
+development: accommodating individual differences into a model of
+acquisition. Issues in Education, 1, 1-57.
+Sobel, M. (1982). Asymptotic intervals for indirect effects in structural equations
+models. In S. Leinhart (Ed.), Sociological methodology (pp. 290-312). San
+Francisco, CA: Jossey-Bass.
+
+Y.N. Yoncheva et al. / Brain & Language 145-146 (2015) 23-33
+Song, Y., Bu, Y., Hu, S., Luo, Y., & Liu, J. (2010). Short-term language experience
+shapes the plasticity of the visual word form area. Brain Research, 1316,
+83-91.
+Stevens, C., McIlraith, A., Rusk, N., Niermeyer, M., & Waller, H. (2013). Relative
+laterality of the N170 to single letter stimuli is predicted by a concurrent
+neural index of implicit processing of letter names. Neuropsychologia, 51(4),
+667-674.
+Strik, W. K., Fallgatter, A. J., Brandeis, D., & Pascual-Marqui, R. D. (1998). Threedimensional tomography of event-related potentials during response
+inhibition: evidence for phasic frontal lobe activation. Electroencephalography
+and Clinical Neurophysiology, 108, 406-413.
+Strimmer, K. (2008a). A unified approach to false discovery rate estimation. BMC
+Bioinformatics, 9, 303.
+Strimmer, K. (2008b). Fdrtool: a versatile R package for estimating local and tail
+area-based false discovery rates. Bioinformatics, 24(12), 1461-1462.
+Vigneau, M., Beaucousin, V., Herve, P. Y., Duffau, H., Crivello, F., Houde, O., et al.
+(2006). Meta-analyzing left hemisphere language areas: phonology, semantics,
+and sentence processing. NeuroImage, 30, 1414-1432.
+Wise, J., Yoncheva, Y., & McCandliss, B. D. (2011). Effects of preference and strategy
+on learning to read an artificial script. Indiana University Undergraduate Journal
+of Cognitive Science, 6, 38-47.
+
+33
+
+Woldorff, M. G., Fox, P. T., Matzke, M., Lancaster, J. L., Veeraswamy, S., Zamarripa, F.,
+et al. (1997). Retinotopic organization of early visual spatial attention effects as
+revealed by PET and ERPs. Human Brain Mapping, 5, 280-286.
+Wong, A. C. N., Gauthier, I., Woroch, B., DeBuse, C., & Curran, T. (2005). An early
+electrophysiological response associated with expertise in letter perception.
+Cognitive, Affective & Behavioral Neuroscience, 5(3), 306-318.
+Yoncheva, Y., Blau, V., Maurer, U., & McCandliss, B. D. (2010). Attentional focus
+during learning impacts N170 responses to an artificial script. Developmental
+Neuropsychology, 35(4), 423-445.
+Yoncheva, Y., Maurer, U., Zevin, J. D., & McCandliss, B. D. (2013). Effects of rhyme
+and spelling patterns on auditory word ERPs depend on selective attention to
+phonology. Brain and Language, 124(3), 238-243.
+Yoncheva, Y., Maurer, U., Zevin, J., & McCandliss, B. (2014). Selective attention to
+phonology dynamically modulates initial encoding of auditory words within
+the left hemisphere. NeuroImage, 97, 262-270.
+Yoncheva, Y., Zevin, J. D., Maurer, U., & McCandliss, B. D. (2010). Auditory selective
+attention to speech modulates activity in the visual word form area. Cerebral
+Cortex, 20(3), 622-632.
+Ziegler, J. C., & Goswami, U. (2005). Reading acquisition, developmental dyslexia
+and skilled reading across languages: a psycholinguistic grain size theory.
+Psychological Bulletin, 131, 3-29.
+
+

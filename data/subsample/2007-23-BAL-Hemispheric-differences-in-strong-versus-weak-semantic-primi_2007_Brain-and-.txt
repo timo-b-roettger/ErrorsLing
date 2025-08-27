@@ -1,0 +1,1830 @@
+Brain and Language 100 (2007) 23-43
+www.elsevier.com/locate/b&l
+
+Hemispheric differences in strong versus weak semantic
+priming: Evidence from event-related brain potentials
+Gwen A. Frishkoff
+
+*
+
+Learning Research and Development Center, University of Pittsburgh, Pittsburgh, PA 15260, USA
+Accepted 24 June 2006
+Available online 5 September 2006
+
+Abstract
+Goals: Research with lateralized word presentation has suggested that strong (``close'') and weak (``remote'') semantic associates are
+processed differently in the left and right cerebral hemispheres [e.g., Beeman, M. j., & Chiarello, C. (1998). Complementary right- and
+left-hemisphere language comprehension. Current Directions in Psychological Science, 7(1), 2-8]. Recently, this hypothesis has been challenged [Coney, J. (2002). The effect of associative strength on priming in the cerebral hemispheres. Brain and Cognition, 50(2), 234-241].
+We predicted that foveal presentation of strong and weak associates would elicit different patterns of hemispheric activity, as indexed by
+high-density event-related brain potentials (ERPs), and that source localization of the scalp potentials would help clarify the nature of
+hemispheric contributions to semantic organization.
+Methods: 128-channel ERPs were recorded in two experiments as subjects performed a lexical decision task. Word trials were equally
+divided into strongly related, weakly related, and unrelated word pairs. All words were foveally presented. SOA was 800ms in Experiment 1, and 200ms in Experiment 2.
+Results: Topographic analyses revealed medial frontal (MFN) and parietal (N400/LPC) effects for both strong and weak associates.
+Between 450 and 550 ms, the magnitude of the N400/LPC effect indicated priming for both strong and weak associates over left parietal
+sites, while priming over right parietal sites was restricted to strongly related word pairs. During this interval, spatiotemporal source
+modeling showed that these scalp effects were best accounted for by ipsilateral sources in the medial temporal lobe. The observed pattern
+of asymmetries for strong versus weak associates is not consistent with certain proposals regarding the complementarity of right- and
+left-hemisphere contributions to semantics. It is, however, consistent with findings from visual half-field studies (Hasbrooke and Chiarello, 1998). We discuss the relevance of these results for theories of hemispheric asymmetry and meta-control in lexical semantic access.
+ 2006 Elsevier Inc. All rights reserved.
+Keywords: Event-related potentials; Semantic priming; Associative strength; Hemispheric asymmetry
+
+1. Introduction
+When two word meanings are related in memory, activation of one meaning in response to a visually presented
+prime word facilitates subsequent access to a related (target) word meaning. This facilitation or priming manifests
+as improved speed or accuracy in response to related targets, as compared with an unrelated or ``neutral'' baseline
+condition (Neely, 1991). The semantic priming effect has
+
+*
+
+Fax: +1 412 624 9149.
+E-mail address: sasha@cs.uoregon.edu
+
+0093-934X/$ - see front matter  2006 Elsevier Inc. All rights reserved.
+doi:10.1016/j.bandl.2006.06.117
+
+been observed across a range of tasks (e.g., lexical decision,
+pronunciation, semantic categorization) and has proven to
+be an important tool for probing the nature of language
+and cognition, resulting in a large corpus of semantic priming data in psychology of language and related fields
+(Hutchison, 2003; Neely, 1991).
+Despite the widespread interest in semantic priming,
+some basic questions remain unresolved. One key question
+is how strength of association (or semantic distance)
+between concepts affects the nature of semantic priming
+within and across the two hemispheres. Are strongly and
+weakly related word pairs processed similarly in the left
+and right cerebral cortex, or are there qualitative differences
+
+24
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+in how the two hemispheres process strong (``close'') versus
+weak (``distant'') semantic relationships?
+Two prevailing responses to this question have emerged.
+According to one view--referred to here as the Complementarity Hypothesis--strong and weak associates should
+evoke different patterns of activity over the left and right
+hemispheres, reflecting qualitative differences in left and
+right hemisphere processing of semantic information. For
+example, Chiarello, Beeman, and associates have argued
+that weakly (or ``remotely'') related word meanings are
+processed more easily in the right hemisphere, which functions to maintain a wide range of meanings, while the left
+hemisphere can support priming of both strong and weak
+associates at short SOAs, but mainly supports strong
+semantic priming due to meaning selection (focused attention) at later time points (see Beeman & Chiarello, 1998 for
+a review).
+An alternative view is that strong and weak associates
+engage the very same cognitive and neural processes, and
+any differences in strong and weak priming are strictly
+quantitative, rather than qualitative, in nature (Coney,
+2002). Thus, according to this position, which is referred
+to here as the Equivalence Hypothesis, strong and weak
+associates should be processed similarly by the two
+hemispheres.
+To address this issue, the present study measured highdensity event-related potentials (ERPs) to semantic associates that varied in strength of association (i.e., strong,
+weak, and unrelated word pairs). Two experiments were
+performed, using a lexical priming paradigm and two
+prime-target SOAs to examine time course of hemispheric
+priming effects. The basic logic was that if strong and weak
+associates elicited different patterns of lateralized brain
+activity, this would support the Complementarity Hypothesis. On the other hand, if the same spatiotemporal patterns of brain activity were observed, this result would be
+more consistent with the Equivalence Hypothesis. Because
+the topography of scalp ERPs does not point directly to
+underlying patterns of brain activity, a spatiotemporal
+dipole method was used to generate a neural source model
+of left and right hemisphere activity in strong versus weak
+semantic priming.
+1.1. Mechanisms of semantic priming
+Studies of semantic priming have revealed multiple
+mechanisms that may influence activation and retrieval of
+word meanings in different contexts (Hutchison, 2003;
+Neely, 1991). According to one influential theory of semantics, semantic priming can arise through automatic spreading activation (ASA), a process by which activation of one
+concept automatically spreads to related (``linked'') concepts. On this view, word meanings are conceptualized as
+nodes within a Hebbian network: related concepts are connected via links, and the strength of a particular semantic
+relationship is represented by the ``distance'' between nodes
+(Collins & Loftus, 1975; Meyer & Schvaneveldt, 1971).
+
+Activation of one semantic node will therefore spread to,
+or activate, related nodes in memory. This process is ``automatic'' in the sense that it can occur in the absence of
+executive control processes that require effort and awareness (Posner & Snyder, 1975). In addition to ASA,
+researchers have identified several types of non-automatic
+or controlled semantic processing (Neely, 1976, 1977,
+1991; Posner & Snyder, 1975; Shiffrin and Schneider,
+1977), including postlexical ``matching'' and verification
+strategies (Becker, 1980), and semantic integration (e.g.,
+Brown & Hagoort, 1993).
+Given that multiple mechanisms have been implicated in
+semantic processing, it is not surprising that research is
+uncovering a widespread network of areas that are active
+during meaning comprehension and that vary as a function
+of task parameters, such as degree of associative strength
+or SOA (Braeutigam, Bailey, & Swithenby, 2001; Frishkoff,
+Tucker, Davey, & Scherg, 2004; Rossell, Price, & Nobre,
+2003). A current challenge is to parcellate these areas according to function, and to clarify when and how these different
+mechanisms operate to give rise to semantic priming.
+1.2. Hemispheric asymmetries in semantic processing
+Some prior research has reported differential patterns of
+hemispheric asymmetry in response to strong and weak
+semantic relationships, in support of the Complementarity
+Hypothesis (e.g., Beeman & Chiarello, 1998). According to
+Beeman and Chiarello, weakly (remotely) related word
+meanings appear to be preferentially processed by the
+right, as opposed to the left, hemisphere, while the left
+hemisphere appears to support priming of either strong
+or weak associates, depending on the time course (but cf.
+Koivisto, 1997).
+A now-classic study by Burgess and Simpson (1988) provided evidence for hemispheric differences in time course,
+as well as distance or strength, of semantic processing. In
+this experiment, Burgess and Simpson examined semantic
+distance effects in the two hemispheres using ambiguous
+primes (e.g., ``bank'') that were followed by words encoding either the dominant or the subordinate meaning of
+the prime word (e.g., MONEY versus RIVER). To examine hemispheric contributions, target words were presented
+to either the left or right visual field, and SOA was varied
+to map the time course of hemispheric differences in priming. At a short (35 ms) SOA, the two meanings showed
+similar facilitation in the RVF/LH, but only the dominant
+meaning was activated in the LVF/RH. Conversely, at a
+long (750 ms) SOA, the subordinate meaning was suppressed in the RVF/LH, but showed equivalent or greater
+facilitation than the dominant meaning in the LVF/RH.
+These results are consistent with the idea that the LH
+may initially activate both meanings, but that the subordinate meaning is later suppressed. By contrast, dominant
+meanings appear to be primed in the RH at short SOAs,
+but then decay at longer SOAs, just as the subordinate
+meaning is becoming more activated over the RH.
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+On the other hand, data from Coney (2002) has suggested that strong and weak associates evoke similar patterns
+of priming in the two hemispheres. Coney examined priming of words that were strongly, moderately, or weakly
+associated; word pairs were presented to the right or left
+visual field, and SOA was varied (250 versus 1000 ms).
+As expected, he observed a linear decrease in reaction time
+with increases in associative strength. Moreover, responses
+to related words were faster over the RVF/LH, and priming effects were somewhat stronger at the long SOA.
+Importantly, however, there was no interaction between
+associative strength and visual hemifield, and no interaction between hemifield and SOA. These results cast some
+doubt on the existence of qualitative differences in priming
+of strong and weak associates as a function of time course
+and hemispheric asymmetry.
+1.3. Measures of semantic association: Strength, relatedness
+and ``distance''
+The hypothesis that strong and weak associations
+should evoke qualitative differences in brain activation
+rests on the idea that different cognitive processes support
+activation of close (or strong, focal) versus remote (or
+broad, diffuse) semantic relationships. The very concept
+of semantic ``distance'' between concepts is implicit in
+models of spreading activation. Indeed, in their original
+formulation of the spreading activation model, Collins
+and Loftus (1975) suggested that related concepts are
+``stored close together'' in psychological and neuronal
+space. This metaphorical description in turn raises important questions about how to operationalize the notion of
+semantic ``distance'' and about the theoretical assumptions
+implicit in the use of different measures.
+One common measure of distance considers the number
+of intervening concepts between prime and target (so-called
+direct versus indirect associative ``links''). The use of direct
+and indirect associates assumes a model of spreading activation in which activation of concept A results in automatic spreading of activation (ASA) to related concepts.
+Assuming that activation is allowed to spread across multiple related concepts (``nodes''), this implies that activation
+of A can lead to activation of concepts that are not directly
+associated with A: i.e., A ) B ) C, Thus, A primes C, even
+though A and C are not directly associated. An example of
+an indirect association is `lemon'-`sweet,' where the intermediate link is the word `sour' (Kiefer, Weisbrod, Kern,
+Maier, & Spitzer, 1998; Weisbrod, Maier, Harig, Himmelsbach, & Spitzer, 1998, 1999). The strength of this indirect
+priming will depend on a decay function: how quickly activation decreases over time and ``distance.''
+Work by McNamara (1992) and by Spitzer and associates (Kischka et al., 1996; Moritz et al., 2001; Spitzer,
+Braun, Maier, Hermle, & Maher, 1993; Weisbrod et al.,
+1998, 1999) has demonstrated qualitative, as well as quantitative, differences in the processing of direct and indirect
+associates. Most important for the present discussion, Kie-
+
+25
+
+fer et al. (1998) observed differences in lateralization of
+ERP priming effects for direct versus indirect semantic
+associates: Whereas direct associates elicited a negativity
+over bilateral inferior prefrontal sites, indirect associates
+elicited only a right hemisphere negativity over lateral inferior prefrontal sites. These results are consistent with the
+hypothesis that ``close'' (direct) and ``remote'' (indirect)
+semantic associations engage the two hemispheres in qualitatively different ways. Thus, studies using direct and indirect priming suggest possible differences in the distance or
+scope of semantic priming between the two hemispheres.
+An alternative is to characterize semantic distance in
+terms of associative strength, where strongly related concepts are considered to be closer in conceptual-semantic
+space (e.g., de Groot, Thomassen, & Hudson, 1982; Rodel,
+Cook, Regard, & Landis, 1992). Strength of association
+can be quantified through empirical measures, such as discrete free association (Nelson, McEvoy, & Schreiber, 1998)
+and relatedness ratings. In comparison with direct/indirect
+associates, the use of strong and weak associates has several advantages. First, associative strength has intrinsically
+more gradations: whereas direct/indirect priming extends
+to two or three levels at most, strength of association can
+be defined on a continuous scale. Through the use of parametic (item) analyses, this approach can in turn provide a
+more powerful test of hypotheses regarding semantic distance (cf. Dien, Frishkoff, Cerbone, & Tucker, 2003). Second, associative strength is a more transparent measure. As
+underscored by the work of McKoon and Ratcliff (1992), it
+is not obvious how indirect associates can be distinguished
+from weak associates: words such as `lemon' and `sweet'
+may be assumed (on intuition) to have no direct association, but this can be difficult to verify empirically. On the
+other hand, strength of association can be measured in several ways, but the notion that some words are more strongly associated than others rests on solid footing: studies of
+learning and memory over the past several decades have
+shown many effects of varying the strength of association
+between words and concepts (Coney, 2002; Deese, 1965;
+de Groot et al., 1982; Rodel et al., 1992).
+Finally, the construct of associative strength may be
+more theoretically neutral. It is not necessary to maintain
+that associative strength is isomorphic with ``distance in
+semantic space''; effects of associative strength may be
+equally compatible with other theories of semantic priming, such as those based on distributed semantic architectures (McRae, Cree, Westmacott, & de Sa, 1999; McRae,
+de Sa, & Seidenberg, 1997).
+1.4. Goals of the present research
+Given the hemispheric asymmetries observed for direct
+and indirect priming in previous research an important
+question is whether strong and weak associates show a similar pattern that would point to qualitative, as well as quantitative, differences for strong and weak semantic priming.
+To examine this question, two experiments were conducted,
+
+26
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+in which high density (128-channel) ERPs and behavioral
+measures were recorded as subjects read words (targets) presented on a computer screen. Targets were preceded by single
+words (primes) that were either semantically related or unrelated to the target words, where degree of relatedness was
+varied parametrically. Experiment 1 used a relatively long
+SOA (800; 200 ms interword interval). The long interword
+interval (IWI) was selected to minimize overlap of the ERPs
+to the prime and target stimuli, permitting easy identification
+of the major spatiotemporal components of the response to
+the target. At the same time, the 800 ms SOA allowed for
+multiple influences on semantic priming, including forward-acting expectancy for the target (Neely, 1991). Experiment 2 used a comparatively short SOA (200; 50 ms IWI) in
+order to minimize the role of expectancy (cf. Hill, Strube,
+Roesch-Ely, & Weisbrod, 2002; Rossell et al., 2003).
+Although the short IWI resulted in overlap of the ERPs to
+the prime and target, the prediction was that ERP results
+from Experiment 1 would provide a blueprint for interpreting condition differences in Experiment 2. In addition, the
+use of long and short SOAs would permit us to examine
+the time course of priming for strong and weak associates,
+as measured by different ERP components.
+One advantage of ERP measures is that hemispheric differences can be detected even with centrally presented stimuli. An important limitation of visual half-field studies is
+that they separate hemispheric differences in semantic processing under the unusual conditions of initial input being
+isolated to one hemisphere's visual cortex. By contrast, the
+present study employed used foveal, i.e., bilateral visual
+field, presentation of words, with the rationale that words
+are typically foveated during normal reading processes
+(Reichle & Perfetti, 2003), and that hemispheric asymmetries in processing would be observable in asymmetric patterns of electrophysiological activity. An important caveat
+is that the lateral distribution of scalp-recorded ERPs does
+not point unequivocally to neural generators in a particular
+region: a right-lateralized distribution can be due to either
+a left or right hemisphere generator. For this reason, in the
+present study traditional scalp ERP analyses are complemented by the use of spatiotemporal dipole modeling,
+using the methodology detailed in Frishkoff et al. (2004).
+This approach allows us to examine intensity of activation
+in right versus left cortical regions with millisecond time
+resolution and provides a way to parcellate the multiple
+stages and processes involved in lexical semantic priming.
+2. Experiment 1
+2.1. Methods
+2.1.1. Subjects
+Fifty participants were recruited from introductory
+courses in Psychology at the University of Oregon. Subjects were native English speakers who were right-handed,
+with normal or corrected-to-normal vision. Academic
+course credit was given in exchange for participation. Five
+
+subjects had two few good EEG trials after artifact rejection; three additional subjects had excessive alpha or frontal EMG. This left 42 subjects (20 male; mean age = 19.7,
+SD = 3.1; 24 with at least one left-handed relative) who
+generated sufficient quality EEG data for further analysis.
+2.1.2. Stimuli
+The same set of stimuli was used in Experiments 1 and 2
+(Table 1). Stimuli consisted of 400 prime-target pairs, presented one stimulus at a time. Letters were black, 26 dpi,
+presented foveally on a white screen; letter strings subtended a visual angle 2.44 and 4.57. Primes appeared in lower
+case, targets in upper case. Targets were either real words
+or pseudowords (i.e., pronounceable non-words), matched
+with real-word targets for length and orthographic set size.
+Primes were either real words or ``neutral'' strings of hash
+marks (######). See below for a discussion of issues
+regarding the use of the ``neutral'' prime condition.
+All real-word stimuli were nouns, chosen to be concrete,
+familiar, three to six letters in length (mean = 4.61), and
+medium-to-high frequency (mean log #occurrences per
+million words, from Kucera-Francis norms = 3.33). Stimuli were matched across the strong, weak, and unrelated
+conditions in mean word length. Strong associates (targets)
+had a slightly higher mean log frequency--strong
+ln (101) = 3.70 (SD = 1.46)--as compared with weakly
+associated and unrelated targets--weak ln (47) = 3.20
+(SD = 1.15), and Unrelated ln (53) = 3.10 (SD = 1.25).
+The difference in mean log frequency of strong versus weak
+just missed significance (p = .058). The difference between
+strong and unrelated was significant at p < .05.
+Although the `######' prime condition was included
+as a ``neutral'' baseline, to permit separation of facilitory
+and inhibitory effects, comparison of the ERP response in
+the ``neutral'' and word-prime conditions suggested differences in visual (P1 and N1) components, which are too early to show semantic effects (cf. Fig. 6). This result supports
+the arguments by de Groot (de Groot et al., 1982) and others that `######' is not valid as a semantically neutral
+prime. For this reason, the `######' prime condition
+was not included in analyses presented here.
+2.1.3. Measures of associative strength
+Real-word prime-target pairs were further divided into
+strong, weak, and semantically unrelated pairs (n = 50
+per condition). Associative strength was determined from
+two normative databases: the Nelson association norms
+(Wilson, 1988) and the Edinbourgh Associative Thesaurus
+(Kiss, Armstrong, Milroy, & Piper, 1973). The two measures were highly correlated (r = .86) for this stimulus set.
+Strong semantic associates were defined as word pairs that
+had a forward (prime-to-target) associative strength of .20
+or higher according to the Nelson norms (mean = .57) and
+.10 or higher according to the Edinbourgh norms
+(mean = .41). Weak associates had a mean forward
+strength of .03 (Nelson norms), or .04 (Edinburgh norms).
+Unrelated word pairs had zero associative strength. In
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+27
+
+Table 1
+Stimulus design for Experiments 1 and 2
+Trial type
+
+Subtype
+
+Prime
+
+Target
+
+N
+
+Example
+
+WORD
+
+Strong
+Weak
+Unrelated
+Neutral prime
+
+word
+word
+word
+xxxx
+
+WORD
+WORD
+WORD
+WORD
+
+50
+50
+50
+50
+
+nest-BIRD
+clay-DIRT
+Bbg-SEA
+XXXXX-TOOTH
+
+NONWORD
+
+Neutral prime
+Word prime (filler trials)
+
+xxxx
+word
+
+NONWORD
+NONWORD
+
+50
+150
+
+XXXXX-TOLF
+steam-NUFT
+
+choosing related word pairs, we excluded collocations and
+pseudo-compounds (e.g., peanut-BUTTER, text-BOOK)
+from the stimulus set. Analysis of variance for the associative strength norms revealed a strong difference in average
+associative strength between the three categories, F (2,
+149) = 482, p < .001. Planned comparisons showed that
+the strong and weak associates were significantly different
+(p < .001); the difference between the weak and unrelated
+categories approached significance (p = .069).
+Nelson et al. (1998) have acknowledged shortcomings of
+the free association procedure. Most important in the current context, free association norms tend to underestimate
+the strength of directly associated words that are not the
+dominant response (e.g., weak semantic associates),
+because subjects generate only one response to each prime
+word. To address these concerns, we also collected relatedness norms, using a Likert-type scale (e.g., Kutas and Hillyard, 1989; Thompson-Schill et al., 1998). The main
+advantage of rating procedures is that they appear less
+likely to underestimate the strength of weak associations.
+We therefore examined more closely the strength of association between words in the ``weak'' category, using relatedness ratings acquired from 44 subjects during a group
+``prescreening'' session for introductory courses in Psychology at the University of Oregon. Twenty-two subjects rated
+the strength of association between words for 75 (out of
+150) word pairs (there were roughly equal numbers of
+strong, weak, and unrelated word pairs); the remaining
+22 subjects rated the associative strength of the remaining
+75 words. For each word pair, subjects were instructed to
+``indicate the degree to which you think the words are related in meaning.'' We then computed the mean relatedness
+rating for each experimental category (strong, weak, unrelated). A repeated-measures analysis of variance showed
+that mean relatedness rating was significantly different
+across the three categories: F (2, 149) = 9.67, p < .001. As
+expected, differences between weak and unrelated word
+pairs were highly significant (p < .001), confirming that
+the associative strength norms do underestimate degree of
+relatedness for weakly related prime-target pairs.
+2.1.4. Experimental task
+Each session began with a block of 15 practice trials.
+The main task consisted of eight blocks of 100 trials each.
+A trial began with the presentation of a rectangular outline,
+which cued the subject to initiate the experimental sequence
+
+when ready by pressing both the right and left buttons
+simultaneously using their right and left index fingers. Subjects were informed that it was not important to press both
+buttons in synchrony, but that they should press both buttons to begin each trial. This procedure was designed to
+avoid differential priming (due to activation of motor and
+premotor cortex) of the left or the right hemisphere on
+the initiation of each trial.
+Once the subject initiated a trial, a central fixation (``+''
+symbol) appeared for 500 ms. Next, a word (the prime) was
+presented foveally, followed after a short interval (ISI) by a
+second word (the target). The stimulus-onset asynchrony
+(SOA) in Experiment 1 was 800 ms (prime duration
+600 ms, ISI 200 ms). During the intertrial interval, subjects
+were permitted to blink or move. If subjects were aware of
+moving their head or facial muscles between trials, they
+were asked to count slowly to 10 to allow the amplifier
+to recover before using the response keys to advance to
+the next trial.
+Trials were randomly presented (order determined separately for each subject). The subject's task was to respond
+``as quickly and as accurately as possible'' whether the target stimulus was a real English word or not. ``Yes'' and
+``no'' (right versus left) keys were counterbalanced across
+subjects. Response time and accuracy were recorded simultaneously with the EEG measures.
+2.1.5. ERP data acquisition and preprocessing
+ERPs were recorded using either a 128-channel electrode
+array, with vertex recording reference. Data were sampled
+at a rate of 250 per second and were amplified with a .01Hz highpass filter (time constant  10 s). Trials were edited
+offline for eye blinks and head movements. The remaining
+trials were segmented into 2500 ms epochs, starting
+1000 ms before onset of the target word. Segmented data
+were averaged across trials (within subjects and within condition) and digitally filtered with a 30-Hz lowpass filter.
+Channels were automatically marked bad for a given trial if blinks or eye movements were detected, if amplitudes
+>150 lV, if differential average amplitude (i.e., changes in
+slope) >75 lV, if the channel was flat (had zero variance),
+or if manual inspection suggested noise specific to that
+channel (i.e., not affecting surrounding channels). Any
+channel marked bad for more than 20% of the total trials
+was interpolated based on data measured at near-by electrodes. Subjects with more than 10 bad channels or with
+
+28
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+fewer than 15 clean EEG trials in any one of the experimental conditions were excluded from further analysis (five
+subjects met these criteria and were excluded).
+The cleaned data were re-referenced to the average of
+the recording sites, and were baseline corrected 200 ms prior the target word. Grand-averaged data were used for
+inspection of waveforms and topographic plots.
+Reaction times were measured from the onset of the target stimulus. Responses faster than 200 ms or slower than
+2000 ms were excluded. Only correct responses entered into
+the final analyses.
+2.1.6. Statistical analyses
+For statistical analyses of behavioral and ERP data, we
+performed a series of fully factorial ANOVAs, one for each
+dependent measure of interest (reaction time, accuracy,
+MFN amplitude, etc.). Each analysis included Relatedness
+(three levels: strong associates, weak associates, and unrelated word pairs) as an independent variable. Recall that
+the `######'--prime condition was excluded from this
+analysis, since preliminary analyses suggested that it was
+not a valid ``semantically neutral'' condition, suggesting
+that inclusion of this condition would complicate interpretation of semantic priming effects.
+For the ERP variables of interest (N3, MFN, N4, and
+LPC), we added spatial variables where appropriate (based
+on previous research). The channel sets that are used in
+these analyses are shown in Appendix A. To maximize
+the stability of the ERP measures, we averaged over the
+channels for each component (e.g., rather than selecting
+the minimum or maximum for further analysis). While this
+procedure can weaken effects due to the variability in distribution of effects across conditions and across subjects, it
+captures patterns that are more stable and more reliable
+in distribution across subjects and conditions, and there-
+
+fore avoids results due to spurious effects at a single
+channel.
+2.1.7. Source localization
+A spatiotemporal approach was used to fit symmetrical
+pairs of regional sources to the data over the 1000-ms poststimulus epoch by seeding the sources at random starting
+locations and allowing the sources to converge to the
+region of maximum goodness of fit in the time range when
+each pair has maximum activity, as determined from the
+power plot. Minimum distance criterion was set to
+8.7 mm, and the regularization constant was set to 2%.
+We specified an ellipsoidal head model with four homogeneous shells: brain, CSF, skull, and scalp (Berg & Scherg,
+1994). Conductivity ratios were 1 (CSF), 0.3300 (brain),
+0.0042 (skull), and 0.3300 (scalp). Thicknesses were 1 mm
+(CSF), 7 mm (skull), and 6 mm (scalp). Head radius was
+set to 92.5 mm.
+We used regional source analysis (implemented in
+BESA) to derive the source model for Experiment 1
+(Frishkoff et al., 2004; Scherg & Von Cramon, 1985),
+and then fit the same model to the data in Experiment
+2 to test for replicability. The model contained symmetric sources in occipital cortex (28, 76, 9), medial
+temporal cortex (16, 45, 15), inferior temporal cortex
+(30, 32, 20), inferior frontal gyri (20, 14, 17),
+and orbitrofrontal/rostral anterior cingulate (17, 41,
+6). An additional source was located in dorsal anterior
+cingulate (2, 13, and 24). Fig. 1 shows the source
+locations.
+The model accounted for better than 99% of the variance in both datasets. To check for model stability, each
+pair of sources was refitted within the interval of maximal
+power while the remaining sources were held constant (cf.
+Frishkoff et al., 2004).
+
+Fig. 1. (A) Regional sources superposed on BESA head model. (B) Grand-average source waveforms (unrelated condition, Experiment 1) from
+0-1000 ms, from the model for the grand averaged ERP data. MT, medial temporal lobe; OCC, occipital cortex; IT, inferior temporal cortex; ACC,
+anterior cingulate; IFG, (posterior) inferior frontal gyrus; and OFC, orbitofrontal cortex.
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+As shown in Fig. 1, the source waveforms show separable peaks, suggesting that there are no ``meaningless,'' or
+silent, sources. Ideally, there should further be little or no
+interference between separate sources. The distinct patterns
+in the source waveforms suggest that this is generally the
+case for the present model. One exception is that there is
+interference between medial temporal and occipital sources
+that is evident at around 100-180 ms (during the P1/N1
+interval). Critically, however, there is little or no change
+in source intensity of the MT source when the occipital
+source is turned off during the focus (300-600 ms) interval,
+and vice versa (not surprising, since the occipital sources
+show little activity during this interval).
+For statistical analysis of condition effects for each
+source, a series of repeated-measures ANOVAs was conducted separately on each of the sources. The dependent
+measure was the amount of regional activation for each
+source, computed as the root-mean-square (RMS) activation, averaged over 50-ms intervals. Based on the scalp
+topographic analyses, we restricted the analysis to 8 series
+of 50-ms intervals, from 200 to 600 ms (the N400 interval).
+Although there were later condition effects (>600 ms), we
+focus here on effects during the central, N400 time interval,
+when semantic priming has been shown to elicit ERP
+effects in many previous studies (Kutas & Federmeier,
+2000; for review).
+
+29
+
+2.2. Results
+2.2.1. Behavioral results
+Table 2 displays means and standard deviations for the
+behavioral responses (RT and accuracy) in each of the five
+experimental conditions for Experiment 1.
+2.2.2. Reaction time data
+There was a main effect of semantic priming, F (2,41) =
+25.01, p < .001. Paired contrasts indicated that responses to
+strongly related words were significantly faster than to
+weakly related words (p < .001). Responses to weakly related words were faster than to unrelated words, but the effect
+did not reach significance (p > .07). The mean difference in
+RT between strongly related and unrelated word pairs was
+61 ms (SD = 68 ms); the difference for weakly related versus unrelated word pairs was 17 ms (SD = 61 ms). Thus,
+priming for strongly related words was approximately
+three times the magnitude of the priming effect for weakly
+related pairs.
+2.2.3. Accuracy data
+In general, subjects were highly accurate on the lexical
+decision task (mean accuracy = 98%, SD = 2%). Priming
+effects on accuracy were small, but reliable, F (2,41) =
+33.27, p < .001. Subjects were least accurate on the unrelated
+
+Table 2
+ANOVA results for source waveforms corresponding to each neural source. RMS amplitude averaged over 450-550 ms interval
+p
+
+g2p
+
+c
+
+9.86
+8.22
+2.47
+
+<.001
+<.01
+=.09
+
+.102
+.086
+.028
+
+***
+**
+--
+
+Relatedness (2, 88)
+SOA (1, 88)
+Relatedness * Hemisphere (2, 88)
+Relatedness * SOA (2, 88)
+Relatedness * Hemisphere * SOA (2, 88)
+
+3.58
+--
+3.97
+3.97
+3.53
+
+<.05
+--
+<.05
+<.05
+<.05
+
+.040
+--
+.044
+.044
+.039
+
+*
+--
+*
+*
+*
+
+Inferior temporal
+
+Relatedness (2, 88)
+SOA (1, 88)
+Relatedness * Hemisphere (2, 88)
+Relatedness * SOA (2, 88)
+Relatedness * Hemisphere * SOA (2, 88)
+
+11.08
+3.632
+--
+--
+--
+
+<.001
+=.06
+--
+--
+--
+
+.113
+.040
+--
+--
+--
+
+***
+--
+--
+--
+--
+
+Orbital frontal/rostral anterior cingulate
+
+Relatedness (2, 88)
+SOA (1, 88)
+Relatedness * Hemisphere (2, 88)
+Relatedness * SOA (2, 88)
+Relatedness * Hemisphere * SOA (2, 88)
+
+--
+--
+2.51
+--
+--
+
+--
+--
+=.09
+--
+--
+
+--
+--
+.028
+--
+--
+
+--
+--
+--
+--
+--
+
+Occipital cortex
+
+Relatedness (2, 88)
+SOA (1, 88)
+Relatedness * Hemisphere (2, 88)
+Relatedness * SOA (2, 88)
+Relatedness * Hemisphere * SOA (2, 88)
+
+21.79
+--
+--
+2.82
+--
+
+<.001
+--
+--
+=.06
+--
+
+.200
+--
+--
+.031
+--
+
+***
+--
+--
+--
+--
+
+Medial temporal
+
+Relatedness (2, 88)
+SOA (1, 88)
+Relatedness * Hemisphere (2, 88)
+Relatedness * SOA (2, 88)
+Relatedness * Hemisphere * SOA (2, 88)
+
+48.33
+16.51
+4.47
+2.78
+--
+
+<.001
+<.001
+<.05
+=.07
+--
+
+.357
+.159
+.049
+.031
+--
+
+***
+***
+*
+--
+--
+
+Source
+
+Effect (df)
+
+Dorsal anterior cingulate
+
+Relatedness (2, 88)
+SOA (1, 88)
+Relatedness * SOA (2, 88)
+
+Inferior frontal gyrus
+
+F
+
+G  G values reported. F values < 2 not reported. Significant interactions between Relatedness and Hemisphere are highlighted in italics.
+
+30
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+trials, and most accurate in response to strongly related
+words. Paired t tests indicated that the differences in
+accuracy between strong and weak associates and between
+weak and unrelated associates were both significant
+(p < .001).
+2.3. ERP results
+We adopted the traditional procedure of first identifying
+multiple features of the ERP (''components''), and subsequently treating each component as a dependent variable
+in an analysis of variance. On the basis of previous research
+(e.g., Bentin, Mouchetant-Rostaing, Giard, Echallier, &
+Pernier, 1999; Frishkoff et al., 2004; Hill et al., 2002), we
+identified seven such components--that is, spatiotemporal
+features of the ERP that have consistently been observed
+in studies of word processing, and are thought to reflect
+distinct neural and functional (sensory-perceptual and/or
+cognitive) processes. These components included the P100
+(peak  120 ms), N100 (peak  195 ms), N3 (peak  250 ms),
+frontal P2 (peak  300 ms), MFN (peak  350 ms), N400
+and LPC responses (these last two are characterized below
+in greater detail). Peak latencies were measured across time
+windows based on previous ERP studies of visual word
+processing (e.g., Frishkoff et al., 2004).
+The waveforms in Fig. 2 illustrate several condition
+differences.
+First, an effect of Relatedness is observed between 300
+and 400 ms over fronto-central electrode Fcz (channel 6):
+The negative deflection (MFN) is largest to the unrelated
+targets, smallest to strongly related targets, and in between
+for weakly related word pairs. Second, over parietal electrode Pz, there is a condition difference between 350
+and 500 ms (the ``N400 effect''). This condition difference
+may be ascribed to two separate effects, as suggested in previous studies (Hill et al., 2002): (a) a negativity peaking at
+around 400 ms (the N400), which is stronger to unrelated
+words over parietal sites and shows inversion over frontal
+sites (the so-called P400); and (b) a positivity (LPC), which
+is delayed to the unrelated word (LPC latency shifting).
+The N400 amplitude effect is hard to disentangle from this
+latency difference, since the N400 and LPC components
+share a similar topography and time course. We have
+addressed this issue using a delayed-probe task in a separate experiment, reported elsewhere (Frank & Frishkoff,
+2006).
+2.3.1. Visual evoked potentials: 0-200 ms
+A typical P1-N1 complex was observed over occipital
+electrodes between 0 and 200 ms after target onset. The
+P1 peaked at 120 ms, and the N1 at 195 ms, consistent
+with previous studies of visual evoked potentials to word
+stimuli (Compton, Grossenbacher, Posner, & Tucker,
+1991).
+Inspection of both the waveforms and topographic plots
+suggested that the occipital P100 response was larger over
+the right hemisphere, as in prior studies of word processing
+
+(e.g., Compton et al., 1991; Frishkoff et al., 2004). Consistent with this observation, analyses of variance showed a
+reliable hemispheric effect, F (1, 41) = 17.81, p < .001. The
+N100 tended to be more pronounced over the left hemisphere, but this difference did not reach significance
+(p > .20).
+There were no significant differences in latency of the P1
+and N1 components as a function of hemisphere or semantic condition.
+2.3.2. Ventral temporal negativity (N3): 250-350 ms
+In previous ERP studies of visual word processing, we
+have described a sequence of negative deflections that
+begins with the late N1 (or ``N2'') over left temporal-occipital regions of the scalp (200 ms) and then becomes progressively more anterior, terminating in an anterotemporal negativity at around 300-350 ms, which is
+typically left-lateralized and more pronounced for words
+that are strongly expected or primed (Frishkoff et al.,
+2004; cf. Marinkovic et al., 2003 for similar results using
+MEG). We refer to this temporal negativity as the N3.
+Dien et al. (2003) tentatively localized the posterior N3 to
+left inferior temporal cortex (BA 20). In the present
+experiment, the first semantic effects were observed during
+the N3 interval (cf. Nobre & McCarthy, 1994).
+Analyses of variance confirmed that N3 amplitude was
+affected by semantic relatedness, F (2, 82) = 5.68, p < .001.
+As observed in previous studies (e.g., Dien et al., 2003;
+Nobre & McCarthy, 1994), amplitudes were more negative
+for related versus unrelated words. This effect was further
+clarified by an interaction of Relatedness and Caudality--F (2, 82) = 6.39, p = .003: Priming effects were seen
+only over posterior temporal regions. Interestingly, effects
+were seen over both the right and left hemispheres
+(no effect of Hemisphere), although the negativity appears
+left-lateralized in the topographic maps (not shown here).
+2.3.3. Medial frontal negativity: 300-400 ms
+A second priming effect was observed over medial frontal areas, peaking at around 330-350 ms (the MFN effect).
+In contrast with the N3 priming effect, MFN amplitudes
+were more negative for unrelated versus related targets:
+main effect of Relatedness, F (2, 82) = 16.57, p < .001.
+The topographic t maps in Fig. 3A illustrate the development of the MFN effect from 250 to 350 ms for strong
+and weak semantic priming. These ``t maps'' represent
+interpolated scalp maps of Student's t values, computed
+at each electrode site (n = 129) for each time point
+(n = 200). The color palette has been scaled to reflect only
+those effects that exceed an uncorrected threshold of
+p = .0000004, which corresponds to a Bonferroni-corrected
+threshold of p = .01. Note that this correction procedure is
+actually more conservative than needed, since the multiple
+comparisons are not truly independent (cf. Dien et al.,
+2003).
+The MFN effect begins as a focal negativity in the unrelated condition at 250 ms. At 275 ms, the effect spreads
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+31
+
+Fig. 2. A 15-channel (10-20) plot of the ERPs to target words that are either strongly (black) or weakly related (light gray), or unrelated (dark gray) to the
+prime word (Experiment 1). Interval from 0 to 700 ms, 4 lV. Positive amplitudes are plotted up. (See Online Supplementary data for 128-channel plot.)
+
+to more caudal medial frontal sites, and by 360 ms, the
+effect begins to encompass more posterior (parietal) sites,
+as the P300/LPC begins to develop in response to related
+
+words (the N400/LPC effect). Similar to the N3 priming
+effects, the MFN priming effect is larger for strong versus
+weak semantic associates. In addition, the priming effects
+
+32
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+particularly striking asymmetry (LH > RH) for priming
+of weakly related concepts.
+
+Fig. 3. (A) T-maps for strongly related and unrelated word pairs (top
+row) and for weakly related and unrelated word pairs (bottom row) at
+each electrode within the MFN time interval (250-400 ms; Experiment
+1). (B) T-maps for strongly related and unrelated word pairs (top row) and
+for weakly related and unrelated word pairs (bottom row) at each
+electrode within the N400 time interval (300-500 ms; Experiment 1).
+
+for weak associates appear to extend less rostrally than the
+effect for strong associates--although this may reflect a
+quantitative rather than a qualitative difference in frontal
+activation.
+2.3.4. Parietal N400/LPC effect: 350-550 ms
+About 50 ms after onset of the MFN effect (starting
+at  360 ms), the well-known parietal ``N400 effect'' emerges over centroparietal sites, and lasts until 500 ms
+(Fig. 3B).
+The N400 effect begins as a centromedial effect at
+350 ms, but is resolved as a more lateral effect over temporo-parietal sites by 500-520 ms. Interestingly, the priming effect for strong semantic associates terminates over left
+and right lateral regions; whereas weak semantic priming is
+only observed over left lateral sites during this later epoch.
+To capture this shift in topography over the N400 epoch,
+we divided the N400/LPC epoch into two early and late
+time windows. In the earlier (350-450 ms) window there
+was a main effect of Relatedness (p < .001), but no effect
+of Hemisphere (p > .6; Fig. 4A). The interaction between
+Relatedness and Hemisphere did not approach significance
+(p > .5). In the later (450-550 ms) N400/LPC interval, an
+interaction effect emerged between Relatedness and Hemisphere, F(2, 41) = 4.96, p = .009. As shown in Fig. 4(B),
+there was greater priming over the left hemisphere, with a
+
+2.3.5. Summary of results from Experiment 1
+In summary, results from Experiment 1 showed a difference in hemispheric distribution of the late N400 effect for
+strong versus weak associates, providing some support for
+our initial prediction. However, these effects were not consistent with a simple model of left hemisphere specialization for focused, and right hemisphere support for
+diffuse, meaning: the results showed weak associates were
+primed only over the left hemisphere, whereas strong associates were primed over both hemispheres (with stronger
+priming over the left side).
+This pattern of results is similar to those observed by
+Hasbrooke and Chiarello (1998) in a visual half-field
+study of semantic priming, in response to dominant
+and subordinate target meanings of an ambiguous prime
+word. They observed priming of both dominant and subordinate meanings in the left hemisphere (i.e., with right
+visual field presentation), but priming only of the dominant meaning in the right hemisphere (left field presentation). Hasbrooke and Chiarello proposed that this
+pattern of results may reflect hemispheric interaction.
+When the primes were presented bilaterally, the pattern
+of facilitation appeared similar to left hemisphere/right
+visual field presentation, suggesting that in normal (bilateral) reading, the left hemisphere exerts metacontrol over
+semantic processing.
+One question is whether the relatively long SOA of
+Experiment 1 allowed time for hemispheric interaction to
+influence the pattern of hemispheric activity in relation to
+semantic priming effects. To clarify these effects, Experiment 2 sought used a short (200 ms) SOA to determine
+whether this effect would still be observed under conditions
+that are likely to minimize effects of forward ``expectancy''
+for the target (de Groot et al., 1982; Neely, 1976, 1977,
+1991), and thus the exertion of metacontrol by the left
+hemisphere over the right.
+3. Experiment 2
+3.1. Methods
+Methods were identical to those in Experiment 1, except
+that the prime-target SOA was 200 rather than 800 ms
+(150 ms prime; 50 ms ISI). Sixty-two subjects were run in
+the experiment. One session was aborted due to equipment
+failure, six datasets had too few trials after rejection of artifacts (<20 per cell), and eight subjects had data that were
+otherwise noisy due to excessive alpha, EMG, or blink
+recovery artifacts. The 47 remaining subjects were all
+right-handed, average age 19.9 (SD = 2.9). Thirteen
+(28%) were male; 26 (55%) had at least one left-handed
+relative in their immediate family.
+Data were baseline-corrected to 200 ms before the prime
+word. Otherwise, the same preprocessing and analyses
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+33
+
+Fig. 4. (A and B) Magnitude of N400 priming (unrelated-related) in Experiment 1 as a function of Relatedness (strong, weak) and Hemisphere (LH, left;
+RH right). Note interaction between Relatedness (semantic distance) and Hemisphere in the later part of the epoch (right-most panel). (C and D)
+Magnitude of N400 priming (unrelated-related) in Experiment 2 as a function of Relatedness (strong, weak) and Hemisphere (LH, left; RH, right). Note
+interaction between Relatedness (semantic distance) and Hemisphere in the later part of the epoch (right-most panel).
+
+procedures that were used in Experiment 1 were also
+applied to the data from Experiment 2.
+3.2. Results
+3.2.1. Behavioral results
+Table 2 displays means and standard deviations for the
+behavioral responses (RT and accuracy) in each of the five
+experimental conditions for Experiment 2.
+3.2.2. Reaction time data
+There was a main effect of Relatedness, F (2,46) =
+209.30, p < .001. Paired contrasts indicated that responses
+to strongly related words were significantly faster than to
+weakly related words (p < .001), and responses to weakly
+related words were faster than to unrelated words
+(p < .001).
+In contrast with Experiment 1, priming of weak associates was highly significant (mean difference = 63 ms,
+p < .001).
+3.2.3. Accuracy data
+The accuracy results for Experiment 2 almost precisely
+replicated the effects in Experiment 1. Accuracy was very
+
+high (mean = 98%). Nonetheless, there was a significant
+effect of Relatedness, F (2, 46) = 23.33, p < .001. Responses
+was reliably more accurate for strongly versus weakly related targets (p < .001), and for weakly related versus unrelated targets (p < .001).
+3.3. ERP results
+With the temporal overlap of the ERPs to the prime and
+target stimuli, it is more difficult to isolate individual components in Experiment 2 versus Experiment 1. With this
+caveat in mind, we applied the same metrics that were used
+to define the components in Experiment 1.
+Comparison of the waveforms from Experiments 1 and
+2 (Figs. 2 and 5) reveals similar patterns overall, despite
+several differences in waveform morphology. An effect of
+semantic relatedness is visible in channel Fcz: The MFN
+is enhanced to the unrelated relative to the related words
+at 350 ms. Parietal electrodes show the N400/ LPC effects
+seen in Experiment 1, and the ``P400'' effect (greater positivity to unrelated words) is evident over frontal electrodes
+(cf. Johnson & Hamm, 2000; Frishkoff et al., 2004). Fig. 5
+shows ERP waveforms to the target word for a subset of
+channels.
+
+34
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+Fig. 5. A 15-channel (10-20) plot of the ERPs to target words that are either strongly (black) or weakly related (light gray), or unrelated (dark gray) to the
+prime word (Experiment 1). (See Online Supplementary data for 128-channel plot.)
+
+3.3.1. Visual evoked potentials: 0-200 ms
+Fig. 6 shows the P1-N1 complex (visual evoked potentials) to the prime and target stimuli in Experiments 1
+and 2. Note that the P1-N1 to the target in Experiment 2
+is attenuated in comparison with the evoked potentials to
+the prime word. This is consistent with prior evidence that
+sensory potentials are refractory: stimuli presented in rapid
+succession elicit smaller and smaller potentials, possibly
+because the neuronal response takes time to recover (e.g.,
+
+Boddy, 1986). In addition, the P1 and N1 to the target have
+less defined peaks in Experiment 2, suggesting latency jitter
+(increased variability from trial to trial), which can also
+lead to reduced amplitudes (e.g., Spencer, Vila Abad, &
+Donchin, 2000).
+Despite component overlap, the pattern of response for
+the P1 and N1 components in Experiment 2 largely replicated the results from Experiment 2. The topography of
+the P100 to the target (330 ms after onset of the prime
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+35
+
+differed in amplitude (p = .002 for weak versus unrelated,
+and p < .001 for strong versus weak).
+Fig. 7A shows the t maps of the strong and weak MFN
+priming effects. The strong semantic priming effect was
+more pronounced and somewhat more sustained; otherwise, MFN priming for strong versus weak associates
+was similar in timing and spatial distribution.
+
+Fig. 6. VEP over left occipital electrodes (O1/71) for Experiments 1 (top)
+and 2 (bottom). Black line, response to targets following word primes.
+Grey line, response following ``neutral'' primes.
+
+3.3.4. Parietal N400/LPC effect: 350-500 ms
+Between 350 and 400 ms, the t maps begin to show the
+well-known N400 effect over parietal sites (Fig. 7B). As in
+Experiment 2, the spatial distribution of this effect is similar for strong and weak associates in the early part of the
+epoch: it starts out bilateral, focused around Cz (380-
+400 ms), and then shifts to a left parietal focus by
+450 ms. By around 500 ms, however, priming of strong
+associates is still seen over right-hemisphere electrodes;
+whereas for the weak associates, the effect is only seen over
+the left hemisphere.
+To capture the shift in topography of the parietal
+``N400'' effect, analyses of variance were conducted separately for the early (350-450 ms) and later (450-550 ms)
+epochs, as in Experiment 1. As in Experiment 1, there
+was a strong Relatedness main effect (p < .001) in the earlier (350-450 ms) window; however, the effect of Hemisphere (p > .3), and there was no hint of an interaction
+
+word), shows a slight right lateralization, which fell short
+of significance (p = .15).
+By the time of the N1 to the target word, the P300/LPC
+to the prime began to develop over parietal sites, making it
+hard to discern the topography of the N1 response. A main
+effect of hemisphere was observed, F (1, 41) = 6.72, p = .01.
+According to this analysis, the N100 was larger (more negative over the right hemisphere) when defined with respect
+to the preceding positivity. However, given the asymmetry
+of the P1 (more positive/less negative over the right hemisphere), this may be artifactual.
+3.3.2. Ventral temporal negativity (N3): 250-350 ms
+The N3 semantic effect seen in Experiment 1 was replicated in Experiment 2: Main effect of Relatedness, F (1,
+92) = 3.81, p < .05. Related targets were more negative
+over this interval than unrelated words. The interaction
+Relatedness * Caudality approached significance: F (1,
+92) = 3.02, p = .08. As in Experiment 1, the semantic effect
+was seen mainly over posterior temporal regions.
+3.3.3. Medial frontal negativity: 300-400 ms
+The MFN peaked a little earlier in Experiment 2 (342 ms
+versus 357 ms at the 800 ms SOA). The priming effect
+observed in Experiment 1 (800 ms SOA) was replicated
+for the short (200 ms) SOA: F (1, 46) = 12.20, p < .001.
+Post hoc comparisons showed that all three conditions
+
+Fig. 7. (A) T-maps for strongly related and unrelated word pairs (top
+row) and for weakly related and unrelated word pairs (bottom row) at
+each electrode within the MFN time interval (250-400 ms; Experiment
+2). (B) T maps for strongly related versus unrelated words (top fow) and
+for weakly related versus unrelated words (bottom row) in the N400
+interval (Experiment 2).
+
+36
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+between Relatedness and Hemisphere (p > .7; Fig. 4C). In
+the later (450-550 ms) N400/LPC interval, an interaction
+effect emerged between Relatedness and Hemisphere, F (2,
+92) = 4.14, p = .019 (Fig. 4D). As in Experiment 1 the
+priming effect was strongest over the left hemisphere, and
+this asymmetry was especially pronounced for the weak
+associates.
+3.3.5. Summary of results from Experiment 2
+In summary, the progression of semantic relatedness
+effects--from the left-lateral N3 to the medial frontal
+MFN to the parietal N400/LPC--was replicated in Experiment 2 (200 ms SOA). Importantly, the same pattern of
+hemispheric asymmetry for strong versus weak associates
+was also seen in both experiments.
+4. Meta-analysis: Semantic relatedness * SOA
+To examine differences in time course of strong and
+weak semantic priming, we treated SOA as a between-subjects variable, and combined the data from Experiments 1
+and 2.
+4.1. Behavioral analyses: Relatedness * SOA
+Analyses of reaction time showed a main effect of Relatedness, F (2, 87) = 116.33, p < .001. There was no main
+effect of SOA (p > .2). However, the interaction between
+Relatedness and SOA was highly significant, F (2,
+87) = 11.34, p < .001. Strong associates were facilitated relative to weak associates at both SOAs (p < .001); however,
+weak associates were facilitated relative to unrelated words
+only at the short SOA.
+4.2. ERP analyses: Relatedness * SOA
+Analysis of N400 peak latency revealed main effects of
+Hemisphere--F (1, 87) = 31.91 p < .001--and SOA, F (1,
+87) = 11.50, p = .001. The N400 component emerged earlier over the left hemisphere and was also earlier at the
+longer (800 ms) SOA. The earlier N400 latency over
+the left hemisphere is consistent with previous N400
+source analyses (Frishkoff et al., 2004). The same SOA
+pattern (earlier N400s at the long versus short SOAs)
+has also been reported in previous studies (Hill et al.,
+2002; Rossell et al., 2003).
+Analysis of mean amplitude over the early (350-450 ms)
+and late (450-550 ms) windows revealed several important
+effects. As expected, there was a main effect of Relatedness
+in both epochs (p < .001). In the early epoch, there were no
+effects of either Hemisphere or SOA, and no interaction
+effects. In the later epoch, however, there was a main effect
+of Hemisphere, F (1, 87) = 4.63, p = .034: priming was
+greater over the left versus right hemisphere, and this effect
+was consistent across SOA (i.e., Experiments 1 and 2). In
+addition, the meta-analysis revealed an interaction between
+Relatedness and Hemisphere, F (2, 174) = 7.82, p = .001.
+
+Planned comparisons showed that the difference between
+strong and weak associates over right-hemisphere electrodes was significant, t (87) = 2.15, p = .034; by contrast,
+the difference over the left hemisphere was non-significant
+(p > .7). The ERP response to weak associates was more
+positive than the response to unrelated targets, and this
+effect was significant over both right- and left-hemisphere
+electrodes (p 6 .001), although the magnitude of this effect
+was much greater over the left hemisphere (D = .96) as
+compared with the right hemisphere (D = .41). Taken
+together, these results suggest that effects observed in the
+t-maps--bilateral effects for strong priming, and left-lateral
+priming for the weak associates between 450 and 550 ms--
+are indeed reliable. There was no three-way interaction: the
+same pattern held at the long and short SOAs. There was a
+modest two-way interaction, however, between Relatedness and SOA, F (2, 174) = 3.00, p = .052. Paralleling the
+reaction time analysis, N400 priming was somewhat larger
+in amplitude at the short SOA.
+4.3. Source localization results
+It is well-known that scalp topography is not transparent: a difference over the right lateral region of the scalp
+could plausibly be generated by a source in either right
+or left cortex. To address this ambiguity, we turned to spatiotemporal source analysis, focusing on differences in neural source activation for strong versus weak associates
+between 450 and 550 ms, the time when hemispheric differences for strong and weak semantic priming was observed
+in both experiments.
+For analysis of amplitude effects, the root mean square
+(RMS) was calculated over the key (450-550 ms) interval
+for each regional source. RMS values were then submitted
+to a 3 (Relatedness) * 2 (Hemisphere) * 2 (SOA) Analysis
+of Variance. As summarized in Table 3, there were two
+regional sources that showed significant interactions
+between semantic relatedness and hemisphere: one pair of
+sources was located in the posterior inferior frontal gyri
+(IFG), and the other pair was in medial temporal cortex
+(MT).
+Post hoc comparisons for the IFG sources showed a
+large difference in mean amplitude of strong and weak
+associates over the left but not the right hemisphere,
+accounting for the interaction effect. However, subsequent
+analysis showed this interaction was seen only at the shorter (200 ms) SOA (three-way interaction significant,
+p < .05). Furthermore, the scalp projections for these two
+sources consisted of focal anterolateral negativities, with
+peak latency 500 ms over the left hemisphere and
+515 ms over the right hemisphere (averaged across
+SOA). The topographic distribution of these components
+was therefore incompatible with the posterior distribution
+of the N400/LPC effect, although this pattern may be related to differences in activation of left IFG for strong and
+weak associates that have been reported in the imaging literature (e.g., Fletcher, Shallice, & Dolan, 2000).
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+37
+
+Table 3
+RT and accuracy data (means and standard deviations) for each condition in Experiments 1 and 2 (response data for Filler trials not shown)
+Experiment
+
+Condition
+
+RT (ms)
+l
+
+r
+
+l
+
+r
+
+800 ms SOA
+
+Strong associates
+Weak associates
+Unrelated word pairs
+Neutral prime (word target)
+Neutral prime (pseudoword target)
+
+629
+668
+712
+729
+817
+
+130
+127
+135
+168
+185
+
+1.00
+0.99
+0.95
+0.98
+0.94
+
+0.01
+0.02
+0.04
+0.02
+0.07
+
+200 ms SOA
+
+Strong associates
+Weak associates
+Unrelated word pairs
+Neutral prime (word target)
+Neutral prime (pseudoword target)
+
+683
+704
+767
+743
+849
+
+101
+101
+97
+104
+119
+
+0.99
+0.99
+0.95
+0.98
+0.96
+
+0.02
+0.02
+0.07
+0.03
+0.05
+
+Next we examined the MT activations. Paired comparisons revealed a difference in activation for strong and weak
+associates within right, but not left, temporal cortex
+(p = .002 for the right-hemisphere source, but p > .1 for
+the left-hemisphere source; Fig. 8A). This suggests that
+the right-hemisphere differences between strong and weak
+associates observed on the scalp could be linked to differences in activation within right temporal cortex. The difference in response to weakly related versus unrelated targets
+was significant in both the right and left hemispheres
+(p < .001).
+Although these results clarified the origin of the scalp
+effects, the overall pattern remained puzzling: why should
+strong associates elicit stronger right-hemisphere priming,
+when compared with weak associates? Given the relatively
+long latency of these effects (500 ms), we suspected that
+differences in time course, as well as amplitude, of neural
+activity might account for the differential responses to
+semantically related versus unrelated word pairs. As discussed previously, the lexical decision paradigm is known
+to elicit a strong decision-related LPC response that overlaps both spatially and temporally with the N400 (Curran,
+Tucker, Kutas, & Posner, 1993). Previous studies have
+shown that the LPC is delayed to words that are less
+expected or less primed. Perhaps the hemispheric differences for strong and weak priming were linked to contralateral
+
+ACC (#correct)
+
+differences in LPC latency, rather than N400 amplitude, for
+strong versus weak associates.
+To explore this possibility, we examined the peak
+latency of activity within right versus left MT for each
+semantic category (see Fig. 8B for average peak latencies
+right versus left MT activation for each lexical category).
+Consistent with our prediction, MT latency showed a
+main effect of Relatedness, F (2, 87) = 20.61, p < .001:
+post hoc comparisons showed that strong and weak
+latencies were both shorter than the latency to unrelated
+words (p < .001 for both). Further, although the omnibus
+test failed to show an interaction between Relatedness
+and Hemisphere (p > .3), the t-tests revealed an difference
+for strong versus weak associates: the MT response to
+weak associates in the left hemisphere peaked nearly
+30 ms later than to strong associates (p = .007), while
+the 9 ms difference for strong versus weak associates in
+the right hemisphere did not approach significance
+(p > .3).
+Model A (top panels in Fig. 9) illustrates the latency
+hypothesis. If activation is delayed over the left hemisphere, as an inverse function of relatedness (so that strong
+associates peak earliest, and unrelated words show the longest delay), at point * (marked by the arrow in Fig. 9, top
+two panels), strong priming will only be slightly greater
+than weak priming. By contrast, if there is little or no
+
+Fig. 8. (A) Strong and weak priming effects within right and left MT. (B) Peak latency within left and right MT.
+
+38
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+Fig. 9. Top, model that could explain how left-hemisphere differences in latency lead to right-hemisphere differences in strong versus weak semantic
+priming. Middle, actual (grand-average) source wave forms in left and right MT (200 ms SOA). Bottom, Actual (grand-average) source wave forms in left
+and right MT (800 ms SOA).
+
+latency shifting over the right temporal region, strong
+priming will remain significantly greater than weak priming
+at this same time point. The temporal patterns of activation
+in MT for the short SOA (middle panels, Fig. 9) and for
+the long SOA (bottom panels, Fig. 9) do show some hint
+of latency differences that are consistent with this hypothesis (cf. Fig. 8, right panel, for differences in peak
+activation).
+However, further analyses showed that the latency differences in left MTL were not correlated with the right-lateral priming effects for strong and weak associates (p > .9).
+Rather, it was the amplitude effects in right MTL (strong
+versus weak) that were associated with the right-lateral differences between strong and weak associates on the scalp
+(r = .33, p < .05). Thus, the scalp effects appear to stem
+from differences in magnitude of activation for ipsilateral
+sources in MTL, and not to the alternative model illustrated in Fig. 9.
+
+5. General discussion
+Since the inception of priming research, researchers have
+been curious about the time course and scope of semantic
+priming: how far and how fast does activation spread from
+one concept to another? The objective of the present
+research was to characterize behavioral and ERP effects
+of associative strength (or semantic ``distance''), and to
+examine hemispheric differences in strong and weak semantic priming as a function of SOA. In contrast with most
+research on hemispheric differences in semantics, words
+were presented foveally. While hemifield presentation has
+some analytical advantages (Federmeier & Kutas, 1999),
+foveation is characteristic of normal reading (Binder, Pollatsek, & Rayner, 1999). Therefore, it is of considerable
+interest to know whether hemispheric differences in activation can be seen in ERP measures of semantic priming to
+foveal stimuli. Moreover, we reasoned that if hemispheric
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+differences in processing of strong and weak associates are
+robust, they should be detectable using ERP measures of
+foveal words: while RT measures can confound multiple
+effects, these effects may be distinguishable in the form of
+latency or topographic differences in the ERP (i.e., as distinct ERP ``components'').
+5.1. Left-hemisphere and midline frontal activations
+Prior to the hemispheric effects observed over temporoparietal areas (laterality differences significant from 450 to
+550 ms), we observed two earlier frontal effects, a negativity over left anterior regions of the scalp (the N3,
+peak  250 ms) and a medial frontal negativity (the
+MFN, peak  350 ms). The N3 was found to be more negative to related word pairs, consistent with previous
+research (e.g., Frishkoff et al., 2004; Nobre & McCarthy,
+1994). The N3 topography is consistent with the scalp projection for the left inferior frontal (LIFG) source in our
+regional source model. Further, statistical analyses of the
+grand-averaged source waveforms for the LIFG source
+showed an interaction between target and laterality (Table
+2). Post hoc tests revealed stronger activity for strong targets compared with unrelated and weak targets, from
+400 to 500 ms, over the left hemisphere only. One puzzling aspect of this finding is that strong associates evoked
+more activity than weak associates over LIFG. This result
+is opposite from what is typically observed in fMRI studies
+of strong versus weak priming (e.g., Fletcher et al., 2000).
+Given the course spatial resolution of the EEG source
+localization, these disparate findings may simply represent
+different functional anatomical effects. Nonetheless, it will
+be important to reconcile these results in future studies.
+A subsequent medial frontal negativity (MFN) was
+observed at 350 ms: Like the better-known N400 effect,
+MFNs were more negative to unrelated versus related
+words, and MFN priming was greater for strongly versus
+weakly related word pairs (associative strength or ``distance'' effect). Interestingly, MFN amplitudes were more
+negative across all conditions at the long SOA. Given the
+timing and topography of the MFN response, it may be
+related to the feedback negativity observed in studies of
+performance monitoring (Luu, Flaisch, & Tucker, 2000)
+and to the medial frontal response observed to negatively
+valenced words that is seen in studies of self-evaluation
+(Tucker, Luu, Frishkoff, Quiring, & Poulsen, 2003). Both
+of these medial frontal negativities have been localized to
+the anterior cingulate, consistent with their focal distribution over medial frontal electrodes. In addition, we found
+increased medial frontal activation at the long SOA: this
+result is consistent with Rossell et al. (2003), who showed
+greater ACC activity in semantic priming at long versus
+short SOAs. They interpreted this as evidence for an
+increased role of attention and ``controlled processing'' at
+the long SOA, consistent with previous evidence for the
+role of ACC in executive control processes (Luu & Tucker,
+2003). Of course, direct manipulations of expectancy and
+
+39
+
+attention, such as the use of different relatedness ratios in
+addition to SOA, would provide stronger evidence on the
+effects of attention on amplitude of the MFN (cf. Neely,
+1991). As a tentative hypothesis, we interpret the MFN discrimination of strong, weak, and unrelated words to reflect
+an early semantic process organized within medial frontal
+regions that appears to influence the developing representation of meaning within posterior hemispheric networks (cf.
+Frishkoff et al., 2004).
+5.2. Left versus right posterior activations
+Inspection of the topographic ``N400 effect'' in the t-test
+animations suggested an early, medial parietal component
+that appears to reflect differential onset of the parietal
+(and possibly posterior cingulate) N400/LPC effect and a
+later, more lateral temporal component that was particularly sustained over left temporal regions. It is this later
+temporal component that appears to reflect priming for
+both strong and weak associates in the left hemisphere,
+but only for strong associates in the right hemisphere (Figs.
+3B and 7B). To separate these effects, we subjected the data
+to spatiotemporal source modeling, to examine both the
+timing and extent of activation in the two hemispheres,
+and to clarify the interaction between laterality and strong
+versus weak semantic priming that was observed on the
+scalp surface.
+Sources in right and left posterior medial temporal lobe
+(MTL) showed interactions between hemisphere and
+degree of associative strength. The MTL source projections
+were consistent with the N400/LPC scalp pattern of activity (cf. Frishkoff et al., 2004; Johnson & Hamm, 2000). Differences in both amplitude and peak latency of the source
+waveforms were observed, with an intriguing result: while
+activation peaked later for less related targets over the left
+hemisphere, there was no latency effect over the right
+hemisphere.
+Furthermore, subsequent analysis of the source waveform effects showed that scalp asymmetries for weak associates (i.e., LH > RH priming) were due to ipsilateral
+differences in magnitude of activation within the MTL. By
+contrast, there was no correlation between priming effects
+observed over posterior lateral scalp sites and latency differences between conditions for contralateral MTL sources.
+Thus, the scalp effects appear to reflect activity of ipsilateral
+temporal lobe networks, rather than a projection of source
+potential fields to the contralateral hemisphere.
+5.3. Implications for theories of hemispheric asymmetries
+and semantic distance effects
+The pattern of asymmetries observed here does not support the simple version of the Complementarity Hypothesis,
+which posits that the left hemisphere is specialized for processing of close associates (by means of focused attention),
+while the right hemisphere supports a broader range of
+semantic relationships (e.g., Burgess & Simpson, 1988; Chi-
+
+40
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+arello, Burgess, Richards, & Pollock, 1990). However, the
+pattern of results we observed is very similar to results
+obtained by Hasbrooke and Chiarello (1998). As in the
+present studies, Hasbrooke and Chiarello found priming
+of both dominant (strong) and subordinate (weak) concepts when targets were presented to the left hemisphere
+(right visual field), whereas right hemisphere (left visual
+field) priming was restricted to dominant (strong) meanings. They suggested a post hoc explanation of these
+results, to account for the discrepancies with the original
+data from Burgess and Simpson (1988). According to Hasbrooke and Chiarello, subjects in their study failed to
+resolve the ambiguity of the prime word. This would
+account for the equivalent priming of strong and weak
+associates over the left hemisphere. In addition, they propose that right-hemisphere maintenance of weak (or subordinate) meaning may depend on input from the left
+hemisphere (e.g., a signal that meaning selection has
+occurred, and the subordinate meaning should be kept
+around in case the initial semantic selection needs to be
+revised). If the absence of this input, activation of weak
+(subordinate) concepts may have decayed by 750 ms.
+On the one hand, the present paradigm does not lend
+itself easily to the Hasbrooke and Chiarello interpretation.
+In the present case, there was no lexical ambiguity to
+resolve: prime and target words were selected to represent
+unambiguous, but related meanings. Furthermore, the
+results from Experiment 2 in our study are difficult to
+square with the views of Hasbrooke and Chiarello and with
+the hypothesis that weak priming onsets later in the right
+hemisphere (e.g., Burgess & Simpson, 1988). If Hasbrooke's and Chiarello's interpretation of their data is correct, activation of weak associates should be observed early
+(perhaps < 300 ms) in the right hemisphere, and not at later
+SOAs. Data from Experiment 2 of the present study are
+not consistent with this prediction: the same pattern of
+asymmetric priming for strong versus weak associates
+was observed at the short (200 ms) and longer (800 ms)
+SOAs. One possibility is that activation of weak associates
+begins early and decays rapidly without input from the left
+hemisphere; however, this would run contrary to the idea
+that right-hemisphere priming of remote associates onsets
+later and is relatively sustained (e.g., Burgess & Simpson,
+1988).
+The similarity of the Hasbrooke and Chiarello visual
+half-field results with the present data are nonetheless
+intriguing. Whatever, the correct interpretation, the data
+suggest that strong and weak associates are not processed
+equivalently in the two hemispheres: two separate experiments revealed differences in hemispheric asymmetry, with
+right-hemisphere priming for strong associates only, and
+left-hemisphere activation of both strong and weak associates. Therefore, the Equivalence Hypothesis is clearly not
+supported by these results.
+Recent theories of hemispheric differences in semantic
+processing have considered other issues that may be related
+to the Complementary Hypothesis, such as local versus dis-
+
+tributed representations in single-word processing (Deacon
+et al., 2004), and differences in message-level processing of
+meaning, e.g., expectancy versus integration (Federmeier &
+Kutas, 1999). The exact nature of hemispheric differences
+in semantic processing is therefore still under investigation.
+5.4. Limitations and future directions
+The stimulus set used in these experiments was constrained in several ways: only medium-to-high frequency,
+concrete, familiar nouns were used. Target stimuli were
+matched in word length across the three categories (strong,
+weak, and unrelated). Unfortunately, as described in the
+Methods, there was a small but reliable difference in word
+frequency across the stimulus categories: strongly related
+targets were higher frequency, in general, than weakly related and unrelated targets. This confound limits the generality
+of the findings; it will be important to replicate the pattern of
+results with strictly matched stimulus pairs in future work.
+Another limitation of the current paradigm is the use of
+the lexical decision task. Paradigms that require an overt
+response have several advantages: they provide behavioral
+data that can help guide interpretation of ERP results and
+permit some experimental control over the subject's task
+set and strategies. On the other hand, it is well-known that
+any task that evokes decision-related processing of the target will result in a strong pattern of late positivity over
+centroparietal areas (the LPC). This pattern of activity is
+difficult to separate from the N400 negativity, which has
+a similar time course and topography. Future studies of
+ERP effects for strong versus weak priming should therefore consider how to obtain improved separation of
+N400 and LPC components (cf. Frank & Frishkoff, 2006).
+It is also important to acknowledge that the use of
+equivalent dipoles has both pros and cons relative to alternative methods, such as distributed source solutions. One
+issue concerns the indeterminacy in number of dipoles
+(see Michel et al., 2004 for discussion of this problem). Several solutions to this problem have been proposed, including the use of data reduction procedures, such as Principal
+Components Analysis (PCA) or Independent Components
+Analysis (ICA) (e.g., Wang, Berg, & Scherg, 1999). These
+methods are not without their own set of issues, however
+(Dien & Frishkoff, 2004; Frank & Frishkoff, 2006 to
+appear). Inverse source modeling procedures--such as
+minimum norm (MN) and low-resolution electromagnetic
+tomography (LAURA) algorithms--can be used to circumvent the problem of determining the number of dipoles
+that are needed to fit the data (Michel et al., 2004). However, these procedures lack the parsimony of equivalent
+dipole methods, which represent a complex set of spatiotemporal data in terms of a relatively small set of anatomical sources that are associated with distinct source
+waveforms (time course profiles). Recently, some hybrid
+procedures have been proposed, which combine the
+parsimony of equivalent dipole methods with the improved
+anatomical accuracy of distributed source models (e.g.,
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+Daunizeau et al., 2006). It will be important to consider the
+advantages and disadvantages of these recent techniques in
+future work.
+A further caution regarding the present source solution is
+that anatomical accuracy is limited by the use of a grand-average model, which has not been adjusted to reflect individual subject differences in anatomy (e.g., variations in
+cortical geometry, which affects the orientation) of dipoles.
+The use of RMS (root-mean-square) amplitude mitigates
+this problem to some extent, by collapsing across dipole orientation. Nonetheless, further work will be needed to detail
+individual differences that are not captured in a grand-average source model such as the one presented here.
+The present set of results suggests several possible directions for future research on hemispheric differences in
+semantic processing. One question is how earlier, frontal
+activity in semantic priming (N3/MFN scalp patterns;
+LIFG/ACC sources) may be related to later, temporo-lateral activity (the N400/LPC; medial temporal and temporoparietal sources). Indeed, hemispheric asymmetries in
+semantics have been explicitly linked to differences in
+employment of frontal attention networks (e.g., Nakagawa, 1991). Given the importance of attention in language
+and cognition, it will be critical to understanding the relationship between frontal and posterior cortical activity and
+the interaction between caudality and hemispheric asymmetries in semantics. Our working hypothesis is that the
+N3/LIFG indexes early semantic selection (cf. Dien et al.,
+2003), while the MFN/ACC is part of a domain-general
+process related to familiarity detection (cf. Curran, 2003).
+Inhibition is one important mechanism for exerting
+attentional control during meaning selection. In this
+regard, it may also be important to separate the contributions of facilitory and inhibitory mechanisms underlying
+the asymmetries in strong and weak semantic priming.
+Typically, a so-called ``neutral prime'' condition is included
+as a baseline for measuring facilitation (calculated as Related--Neutral) versus inhibition (calculated as Unrelated--
+Neutral). The present studies included a so-called
+``neutral'' (##### prime) condition. However, early differences in visual response for the and non-neutral conditions
+(Fig. 6) underscores why the so-called ``neutral'' condition
+(string of X's) is not an appropriate semantic baseline. Given that the P1 and N1 components are thought to reflect
+early, exogenous processes, we would not predict semantic
+effects during the P1-N1 interval. The larger P1-N1
+response to targets following neutral versus non-neutral
+primes is therefore suspect, pointing to differences between
+the neutral and non-neutral conditions that are likely to be
+non-semantic. Future studies should therefore include an
+alternative baseline, such as the word ``blank'' (cf. Dien,
+Franklin, & May, 2005).
+Finally, it will be important to replicate these results
+using hemifield methods, to permit integration of ERP
+results with the behavioral research on hemispheric asymmetries in semantic processing. Given the complexity of
+previous findings in this literature, and recent progress in
+
+41
+
+functional mapping of ERP components, the use of ERPs
+may help clarify the cognitive and neural bases of hemispheric contributions to semantic organization.
+Acknowledgments
+This research was supported by a research fellowship
+award from the U.S. National Institute of Mental Health,
+#MH66544. I wish to thank Don M. Tucker for helpful
+discussions and for his review of previous drafts, Tara Torrassa for assistance with data acquisition, and Karsten
+Hoechstetter for advice on the presentation of source localization data.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be
+found, in the online version, at doi:10.1016/j.bandl.2006.
+06.117.
+References
+Binder, K. S., Pollatsek, A., & Rayner, K. (1999). Extraction of
+information to the left of the fixated word in reading. Journal of
+Experimental Psychology: Human Perception and Performance, 25(4),
+1162-1172.
+Braeutigam, S., Bailey, A. J., & Swithenby, S. J. (2001). Phase-locked
+gamma band responses to semantic violation stimuli. Brain Research
+Cognitive Brain Research, 10(3), 365-377.
+Becker, C. A. (1980). Semantic context effects in visual word recognition:
+an analysis of semantic strategies. Memory & Cognition, 8(6), 493-512.
+Beeman, M. J., & Chiarello, C. (1998). Complementary right- and lefthemisphere language comprehension. Current Directions in Psychological Science, 7(1), 2-8.
+Bentin, S., Mouchetant-Rostaing, Y., Giard, M. H., Echallier, J. F., &
+Pernier, J. (1999). Erp manifestations of processing printed words at
+different psycholinguistic levels: Time course and scalp distribution.
+Journal of Cognitive Neuroscience, 11(3), 235-260.
+Berg, P., & Scherg, M. (1994). A fast method for forward computation of
+multiple-shell spherical head models. Electroencephalography and
+Clinical Neurophysiology, 90(1), 58-64.
+Boddy, J. (1986). Event-related potentials in chronometric analysis of
+primed word recognition with different stimulus onset asynchronies.
+Psychophysiology, 23(2), 232-245.
+Brown, C., & Hagoort, P. (1993). The processing nature of the n400:
+Evidence from masked priming. Journal of Cognitive Neuroscience, 5,
+34-44.
+Burgess, C., & Simpson, G. B. (1988). Cerebral hemispheric mechanisms
+in the retrieval of ambiguous word meanings. Brain and Language, 33,
+86-103.
+Chiarello, C., Burgess, C., Richards, L., & Pollock, A. (1990). Semantic
+and associative priming in the cerebral hemispheres: some words do,
+some words don't. . .sometimes, some places. Brain and Language,
+38(1), 75-104.
+Collins, A. M., & Loftus, E. F. (1975). A spreading-activation theory of
+semantic processing. Psychological Review, 82(6), 407-428.
+Compton, P., Grossenbacher, P., Posner, M. I., & Tucker, D. M. (1991).
+A cognitive-anatomical approach to attention in lexical access. Journal
+of Cognitive Neuroscience, 3, 304-312.
+Coney, J. (2002). The effect of associative strength on priming in the
+cerebral hemispheres. Brain and Cognition, 50(2), 234-241.
+Curran, T. (2003). ERP correlates of familiarity-based recognition. Society
+for psychophysiological research. Chicago, IL: Blackwell.
+
+42
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+
+Curran, T., Tucker, D. M., Kutas, M., & Posner, M. I. (1993).
+Topography of the N400: brain electrical activity reflecting semantic
+expectation. Electroencephalography and Clinical Neurophysiology,
+88(3), 188-209.
+Daunizeau, J., Mattout, J., Clonda, D., Goulard, B., Benali, H., & Lina, J.
+M. (2006). Bayesian spatio-temporal approach for eeg source reconstruction: conciliating ECD and distributed models. IEEE Transactions on Biomedical Enginnering, 53(3), 503-516.
+de Groot, A. M., Thomassen, A. J., & Hudson, P. T. (1982). Associative
+facilitation of word recognition as measured from a neutral prime.
+Memory & Cognition, 10(4), 358-370.
+Deacon, D., Grose-Fifer, J., Yang, C. M., Stanick, V., Hewitt, S., &
+Dynowska, A. (2004). Evidence for a new conceptualization of
+semantic representation in the left and right cerebral hemispheres.
+Cortex, 40(3), 467-478.
+Deese, J. (1965). The structure of associations in language and thought.
+Baltimorte, MD: John Hopkins Press.
+Dien, J., Franklin, M., & May, C. (2005). Is ``blank'' a suitable neutral
+prime for event-related potential experiments? Brain and Language.
+Dien, J., & Frishkoff, G. A. (2004). Introduction to principal components
+analysis of event-related potentials. In T. Handy (Ed.), Event-related
+potentials: A methods handbook (pp. 189-208). Cambridge, MA: MIT
+Press.
+Dien, J., Frishkoff, G. A., Cerbone, A., & Tucker, D. M. (2003).
+Parametric analysis of event-related potentials in semantic comprehension: evidence for parallel brain mechanisms. Cognitive Brain
+Research, 15(2), 137-153.
+Fletcher, P. C., Shallice, T., & Dolan, R. J. (2000). Sculpting the response
+space--an account of left prefrontal activation at encoding. Neuroimage, 12(4), 404-417.
+Federmeier, K. D., & Kutas, M. (1999). Right words and left
+words: rlectrophysiological evidence for hemispheric differences in
+meaning processing. Brain Research Cognitive Brain Research, 8(3),
+373-392.
+Frank, R., & Frishkoff, G. (2006). Automated protocol for
+evaluation of electromagnetic component separation (apecs):
+Application of a framework for evaluating methods of blink
+extraction from multichannel eeg. Clinical Neurophysiology: Official Journal of the International Federation of Clinical Neurophysiology, in press.
+Frishkoff, G. A., Tucker, D. M., Davey, C., & Scherg, M. (2004). Frontal
+and posterior sources of event-related potentials in semantic comprehension. Cognitive Brain Research, 20(3), 329-354.
+Hasbrooke, R. E., & Chiarello, C. (1998). Bihemispheric processing of
+redundant bilateral lexical information. Neuropsychology, 12(1),
+78-94.
+Hill, H., Strube, M., Roesch-Ely, D., & Weisbrod, M. (2002). Automatic
+vs. controlled processes in semantic priming--differentiation by eventrelated potentials. International Journal of Psychophysiology, 44(3),
+197-218.
+Johnson, B. W., & Hamm, J. P. (2000). High-density mapping in an N400
+paradigm: evidence for bilateral temporal lobe generators. Journal of
+Clinical Neurophysiology, 111(3), 532-545.
+Kiefer, M., Weisbrod, M., Kern, I., Maier, S., & Spitzer, M. (1998). Right
+hemisphere activation during indirect semantic priming: evidence from
+event-related potentials. Brain Language, 64(3), 377-408.
+Kischka, U., Kammer, T., Maier, S., Weisbrod, M., Thimm, M., &
+Spitzer, M. (1996). Dopaminergic modulation of semantic network
+activation. Neuropsychologia, 34(11), 1107-1113.
+Kiss, G. R., Armstrong, C., Milroy, R., & Piper, J. (1973). An associative
+thesaurus of English and its computer analysis. In A. J. Aitkin, R. W.
+Bailey, & N. Hamilton-Smith (Eds.), The computer and literary studies
+(pp. 153-165). Edinburgh: University Press.
+Koivisto, M. (1997). Time course of semantic activation in the cerebral
+hemispheres. Neuropsychologia, 35(4), 497-504.
+Kutas, M., & Federmeier, K. D. (2000). Electrophysiology reveals
+semantic memory use in language comprehension. Trends in Cognitive
+Science, 4(12), 463-470.
+
+Luu, P., Flaisch, T., & Tucker, D. M. (2000). Medial frontal cortex in action
+monitoring. Journal of Neuroscience, 20(1), 464-469.
+Luu, P., & Tucker, D. M. (2003). Self-regulation and the executive
+functions: Electrophysiological clues. In A. Zani & A. M. Preverbio
+(Eds.), The cognitive electrophysiology of mind and brain (pp. 199-223).
+San Diego: Academic Press.
+Marinkovic, K., Dhond, R. P., Dale, A. M., Glessner, M., Carr, V., &
+Halgren, E. (2003). Spatiotemporal dynamics of modality-specific and
+supramodal word processing. Neuron, 38(3), 487-497.
+McKoon, G., & Ratcliff, R. (1992). Spreading activation versus compound
+cue accounts of priming: mediated priming revisited. Journal of
+Experimental Psychology: Learning, Memory, and Cognition, 18(6),
+1155-1172.
+McNamara, T. P. (1992). Theories of priming: I. Associative distance and
+lag. Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 18(6), 1173-1190.
+McRae, K., Cree, G. S., Westmacott, R., & de Sa, V. R. (1999). Further
+evidence for feature correlations in semantic memory. Canadian
+Journal of Experimental Psychology, 53(4), 360-373.
+McRae, K., de Sa, V. R., & Seidenberg, M. S. (1997). On the nature and
+scope of featural representations of word meaning. Journal of
+Experimental Psychology: General, 126(2), 99-130.
+Meyer, D. E., & Schvaneveldt, R. W. (1971). Facilitation in recognizing
+pairs of words: evidence of a dependence between retrieval operations.
+Journal of Experimental Psychology, 90(2), 227-234.
+Michel, C. M., Murray, M. M., Lantz, G., Gonzalez, S., Spinelli, L., &
+Grave de Peralta, R. (2004). EEG source imaging. Journal of Clinical
+Neurophysiology, 115(10), 2195-2222.
+Moritz, S., Mersmann, K., Kloss, M., Jacobsen, D., Wikle, U., Andresen,
+B., et al. (2001). ``Hyper-priming'' in thought-disordered schizophrenic patients. Psychological Medicine, 31(2), 221-229.
+Nakagawa, A. (1991). Role of anterior and posterior attention networks in
+hemispheric asymmetries during lexical decisions. Journal of Cognitive
+Neuroscience, 3(4), 313-321.
+Neely, J. H. (1976). Semantic priming and retrieval from lexical memory:
+evidence for facilitatory and inhibitory processes. Memory & Cognition, 4, 648-654.
+Neely, J. H. (1977). Semantic priming and retrieval from lexical memory:
+roles of inhibitionless spreading activation and limited-capacity attention. Journal of Experimental Psychology: General, 106, 226-254.
+Neely, J. H. (1991). Semantic priming effects in visual word recognition: a
+selective review of current findings and theories. In D. Besner & G. W.
+Humphreys (Eds.), Basic processes in reading: Visual word recognition
+(pp. 264-336). Hillsdale, NJ: Erlbaum.
+Nelson, D. L., McEvoy, C. L., & Schreiber, T. A. (1998). The University
+of South Florida word association, rhyme, and word fragment norms.
+<http://w3.usf.edu/FreeAssociation/>.
+Nobre, A. C., & McCarthy, G. (1994). Language-related ERPs: scalp
+distributions and modulation of word type and semantic priming.
+Journal of Cognitive Neuroscience, 6(3), 233-255.
+Posner, M. I., & Snyder, C. R. R. (1975). Attention and cognitive control.
+In R. L. Solso (Ed.). Information processing and cognition: The Loyola
+Symposium (Vol. 5, pp. 55-85). Hillsdale: Erlbaum.
+Reichle, E. D., & Perfetti, C. A. (2003). Morphology in word identification: a word-experience model that accounts for morpheme frequency
+effects. Scientific Studies of Reading, 7(3), 219-237.
+Rodel, M., Cook, N. D., Regard, M., & Landis, T. (1992). Hemispheric
+dissociation in judging semantic relations: complementarity for close
+and distant associates. Brain Language, 43(3), 448-459.
+Rossell, S. L., Price, C. J., & Nobre, A. C. (2003). The anatomy and time
+course of semantic priming investigated by fMRI and ERPs. Neuropsychologia, 41(5), 550-564.
+Scherg, M., & Von Cramon, D. (1985). Two bilateral sources of the late
+AEP as identified by a spatio-temporal dipole model. Electroencephalography and Clinical Neurophysiology, 62(1), 32-44.
+Shiffrin, R. M., & Schneider, W. (1977). Controlled and automatic human
+information processing: Ii. Perceptual learning, automatic attending
+and a general theory. Psychological Review, 84(1), 127-190.
+
+G.A. Frishkoff / Brain and Language 100 (2007) 23-43
+Spencer, K. M., Vila Abad, E., & Donchin, E. (2000). On the search for
+the neurophysiological manifestation of recollective experience. Psychophysiology, 37(4), 494-506.
+Spitzer, M., Braun, U., Maier, S., Hermle, L., & Maher, B. A. (1993).
+Indirect semantic priming in schizophrenic patients. Schizophrenic
+Research, 11(1), 71-80.
+Tucker, D. M., Luu, P., Frishkoff, G., Quiring, J., & Poulsen,
+C. (2003). Frontolimbic response to negative feedback in
+clinical depression. Journal of Abnormal Psychology, 112(4),
+667-678.
+Weisbrod, M., Kiefer, M., Winkler, S., Maier, S., Hill, H., Roesch-Ely, D.,
+et al. (1999). Electrophysiological correlates of direct versus indirect
+
+43
+
+semantic priming in normal volunteers. Cognitive Brain Research, 8(3),
+289-298.
+Weisbrod, M., Maier, S., Harig, S., Himmelsbach, U., & Spitzer, M.
+(1998). Lateralised semantic and indirect semantic priming effects in
+people with schizophrenia. British Journal of Psychiatry, 172, 142-146.
+Wang, Y., Berg, P., & Scherg, M. (1999). Common spatial subspace
+decomposition applied to analysis of brain responses under multiple
+task conditions: a simulation study. Journal of Clinical Neurophysiology, 110(4), 604-614.
+Wilson, M. D. (1988). The MRC psycholinguistic database: machine
+readable dictionary. Behavioural Research Methods, Instruments and
+Computers, 20(1), 6-11.
+
+
