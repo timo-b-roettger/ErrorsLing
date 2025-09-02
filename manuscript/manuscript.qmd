@@ -190,7 +190,7 @@ knitr::kable(journal_summary_counts)
 
 ```
 
-## Inconsistencies are stable across journals and publication year {#sec-stable}
+## Inconsistencies are comparable across journals and publication year {#sec-stable}
 
 The proportion of inconsistencies ranged from `{r} round(min(journal_summary_prop[,2]),0)` to `{r} round(max(journal_summary_prop[,2]),0)`% across journals (`{r} round(min(journal_summary_prop[,3]),0)` to `{r} round(max(journal_summary_prop[,3]),0)`% for decision inconsistencies) (see @fig-stacked-bar).
 These rates appear to be stable across year of publication (see @fig-year-prop).

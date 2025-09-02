@@ -85,7 +85,6 @@ xdata <- xdata %>%
 xdata <- xdata |> 
   filter(! (journal == "LCN" & year < 2015))
 
-
 ## summary tables ##############################################################                       
 
 ## summary table counts (table 1)
