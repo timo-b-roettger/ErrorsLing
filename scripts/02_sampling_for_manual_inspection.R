@@ -133,8 +133,20 @@ rated = as.factor(c(rep("TR", manual_rate_n),rep("DE", manual_rate_n)))
 #   }
 # }
 
+# read manually annotated version
+annotated <- read_csv("../data/subsample/subsample_for_manual_annotation_merged.csv")
 
-
-
-
+# transform consistency of reported significance   
+annotated <- annotated |> 
+  mutate(computed_significance = case_when(
+                                          computed_p > 0.05 ~ "significant", 
+                                          computed_p < 0.05 ~ "not significant"),
+         match = case_when(
+           computed_significance ==  reported_as ~ "match", 
+           reported_as == "unclear" ~ "unclear",
+           .default = "mismatch"))
+# count
+matches <- table(annotated$match)[[1]]
+mismatches <- table(annotated$match)[[2]]
+unclear <- table(annotated$match)[[3]]
 

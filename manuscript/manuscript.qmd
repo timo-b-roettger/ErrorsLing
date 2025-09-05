@@ -241,24 +241,26 @@ knitr::include_graphics("../plots/figure3.png")
 
 The question arises as to whether the inconsistencies theoretically matter.
 This is a difficult question to empirically address because experimental behavioral research is often characterized by weak links between theory and predictions [@scheel2021hypothesis], making it difficult to even extract hypotheses and whether hypotheses have been corroborated or not from published articles [@scheel2022most].
-To gain some insight, we approximate an answer to this questions as follows: First, we extracted a random sub sample (15%, n = `{r} nrow(xdata_sample)`) of articles which contain at least one decision inconsistencies, as equally distributed across publication years as possible.
-We restricted the sub sample to only those decision inconsistencies that involve either a larger (\>) or small (\<) comparison of the p-value to allow unambiguous interpretation of the results.
+To gain some insight, we approximate an answer to this questions as follows: First, we extracted a random sub sample (15%, n = `{r} nrow(xdata_sample)`) of articles which contain at least one decision inconsistency, as equally distributed across publication years as possible.
+We restricted the sub sample to only those decision inconsistencies that involve either a larger than (\>) or smaller than (\<) comparison of the p-value to allow unambiguous interpretation of the results.
 We then manually extracted the relevant sentence which the test statistic is embedded in and assessed whether the authors interpreted the reported p-value correctly (a true decision inconsistency) or incorrectly (the decision inconsistency is likely a typo).
 This ratio will let us approximate the true decision inconsistency rate.
-We consider true decision inconsistencies theoretically relevant.
-E.g. if an author claims that two groups are different (or not) based on an erroneously reported significant test, we consider this claim to potentially have theoretical consequences.
-Out of the `{r} nrow(xdata_sample)` assessed cases, we coded \## (##%) as genuine typos, e.g. the authors interpreted the results in line with the computed p-value and not the erroneously reported p-value.
-We coded \## (##%) cases as unclear, i.e. even after assessing the manuscript in detail, we could not interpret how the p-value was interpreted.
-This leaves \## (##%) of tests being coded as true decision inconsistencies that potentially have theoretical consequences.
+We consider true decision inconsistencies theoretically relevant:
+For example, if an author claims that two groups are different (or not) based on an erroneously reported significant test, we consider this claim to potentially have theoretical consequences.
+Out of the `{r} nrow(xdata_sample)` assessed cases, most were straightforwardly interpretable `{r} matches+mismatches` (`{r} round((((matches+mismatches) / nrow(xdata_sample)) * 100),0)`%). We coded `{r} unclear` cases as unclear, i.e. even after assessing the manuscript in detail, it remained unclear to us how the p-value was interpreted.
+Unclear cases occurred mostly due to tables or footnotes with lists of test results without clear reference. 
+Of the interpretable test reports `{r} matches` matched the erroneously reported p-value (`{r} round(((matches / (matches+mismatches)) * 100),0)`%), representing true decision inconsistencies that potentially have theoretical consequences. 
+Inversely, `{r} mismatches` cases mismatched the erroneously reported p-value (`{r} round(((mismatches / (matches+mismatches)) * 100),0)`%), possibly representing genuine typos, e.g. the authors interpreted the results in line with the computed p-value and not the erroneously reported p-value.
 
 # Discussion and Recommendations
 
 ## Statistical reporting inconsistencies are prevalent
 
 The present study found a large amount of statistical reporting inconsistencies across a sample of `{r} journal_summary_counts[14,2][[1]]` experimental linguistic articles, containing `{r} journal_summary_counts[14,4][[1]]` assessable p-values.
-`{r} 100 * round(journal_summary_counts[14,5][[1]] / journal_summary_counts[14,4][[1]],3)`% of all p-values were flagged as inconsistent and `{r} 100 * round(journal_summary_counts[14,6][[1]] / journal_summary_counts[14,4][[1]],3)`% were flagged as decision inconsistencies, i.e. the reported p-value is on the opposite side of the alpha threshold than the recalculated p-value.
+`{r} 100 * round(journal_summary_counts[14,5][[1]] / journal_summary_counts[14,4][[1]],3)`% of all p-values were flagged as inconsistent and `{r} 100 * round(journal_summary_counts[14,6][[1]] / journal_summary_counts[14,4][[1]],3)`% were flagged as decision inconsistencies, i.e. the reported p-value is on the opposite side of the alpha threshold than the recalculated p-value. 
+A manual validation of a subset of decision inconsistencies revealed that `{r} round(((matches / (matches+mismatches)) * 100),0)`% of these decision inconsistencies are interpreted in line with the inconsistent p-value, i.e. a paper claims that e.g. two groups are different (or not) based on an erroneously reported significant test. 
 On average, `{r} 100*round(gross_per_article[[1]],2)`% of assessable articles contained at least one inconsistency and `{r} 100*round(gross_per_article[[2]],2)`% contained at least one decision inconsistency.
-The present examination did not indicate any noticeable trend for inconsistency rates across journals or publication year.
+The present examination did not indicate any noticeable differences in inconsistency rates across journals or publication years.
 
 The present study can be considered a conceptual replication of previous studies investigating statistical reporting inconsistency across different disciplines [@bakker2011mis; @bakker2014outlier; @caperos2013consistency; @veldkamp2014statistical; @wicherts2011willingness] and most recent assessments using the automatic tool Statcheck [@nuijten2016prevalence; @buckley2023estimating; @colombo2018statistical; @gross2021fidelity].
 The discovered inconsistency rates fall in line with these studies that report on rates between 4% and 14%, with between 10% and 63% of articles containing at least one inconsistency.
@@ -325,11 +327,11 @@ Recent evidence suggest experimental linguistics are still characterized by a pl
 Some of these approaches might be more appropriate than others [@sondereggera2024advancements; @vasishth2023some], so more thorough evaluations of how researchers arrive at their statistical conclusions might elevate their analytical robustness.
 Moreover, a turn towards inferential frameworks that do not focus on binary decision procedures such as the null hypothesis significance testing framework, might alleviate some of the biases we observed in the direction of inconsistencies [@vasishth2018statistical; @cumming2014new].
 
-Journal editors could explicitly recommend consistency checks with algorithms such as Statcheck during peer review, a practice that has been taken up on by several journals from neighboring disciplines (Psychological Science[^1], Advances in Methods and Practices in Psychological Science[^2], Stress & Health @barber2017meticulous). Editors could also demand, recommend or at least encourage data sharing for publication in their journal
-. Data sharing policies have been shown to substantially increase the reproducibility of analyses [e.g., @hardwicke2018data; @laurinavichyute2022share] and a number of linguistic journals have already implemented such policies, including journals within our sample
-. Having said that, open data policies which for example the Journal of Memory and Language introduced in 2018 did not seem to have affected the proportion of statistical inconsistencies after their introduction
-. The inconsistency rates for JML (and other journals) were rather stable across time, so open data alone might not resolve the issue without further changes to the research eco-system
-.
+Journal editors could explicitly recommend consistency checks with algorithms such as Statcheck during peer review, a practice that has been taken up on by several journals from neighboring disciplines (Psychological Science[^1], Advances in Methods and Practices in Psychological Science[^2], Stress & Health @barber2017meticulous). 
+Editors could also demand, recommend or at least encourage data sharing for publication in their journal. 
+Data sharing policies have been shown to substantially increase the reproducibility of analyses [e.g., @hardwicke2018data; @laurinavichyute2022share] and a number of linguistic journals have already implemented such policies, including journals within our sample. 
+Having said that, open data policies which for example the Journal of Memory and Language introduced in 2018 did not seem to have affected the proportion of statistical inconsistencies after their introduction. 
+The inconsistency rates for JML (and other journals) were rather stable across time, so open data alone might not resolve the issue without further changes to the research eco-system.
 
 [^1]: http://www.psychologicalscience.org/publications/psychological_science/ps-submissions; accessed on July 15, 2024.
 

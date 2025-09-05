@@ -177,9 +177,9 @@ reporting inconsistencies across articles in thirteen experimental
 linguistics journals published between 2000 and 2023. Using the R
 package ``Statcheck'', we retrieved 85,442 statistical test from 13,065
 articles and assessed whether p-values were consistent with their test
-statistic and degrees of freedom. Half of all articles (50\%) that used
-null hypothesis significance testing contained at least one inconsistent
-p-value. More than one in eight articles (13\%) contained an
+statistic and degrees of freedom. Almost half of all articles (49\%)
+that used null hypothesis significance testing contained at least one
+inconsistent p-value. Around one in eight articles (12\%) contained an
 inconsistency that may have affected the statistical conclusion. The
 inconsistency rates were comparable across journals and seem stable over
 publication years. We discuss possible reasons for this high rate and
@@ -584,8 +584,8 @@ Total & 13065 & 6268 & 82991 & 10421 & 1226 \\
 
 \end{table}
 
-\subsection{Inconsistencies are stable across journals and publication
-year}\label{sec-stable}
+\subsection{Inconsistencies are comparable across journals and
+publication year}\label{sec-stable}
 
 The proportion of inconsistencies ranged from 7 to 22\% across journals
 (1 to 7\% for decision inconsistencies) (see
@@ -685,35 +685,40 @@ plotted across publication years.}
 
 \subsection{Do decision inconsistencies matter?}\label{sec-matter}
 
-Now the question arises, do the inconsistencies theoretically matter.
-This is a difficult question to empirically address because experimental
-behavioral research is often characterized by weak links between theory
-and predictions (\citeproc{ref-scheel2021hypothesis}{Scheel et al.,
-2021}), making it difficult to even extract hypotheses and whether
-hypotheses have been corroborated or not from published articles
+The question arises as to whether the inconsistencies theoretically
+matter. This is a difficult question to empirically address because
+experimental behavioral research is often characterized by weak links
+between theory and predictions
+(\citeproc{ref-scheel2021hypothesis}{Scheel et al., 2021}), making it
+difficult to even extract hypotheses and whether hypotheses have been
+corroborated or not from published articles
 (\citeproc{ref-scheel2022most}{Scheel, 2022}). To gain some insight, we
 approximate an answer to this questions as follows: First, we extracted
-a random subsample (15\%, n = 164) of articles which contain at least
-one decision inconsistencies, equally distributed across publication
-years. We restricted the subsample to only those decision
-inconsistencies that involve either a larger (\textgreater) or small
-(\textless) comparison of the p-value to allow unambiguous
+a random sub sample (15\%, n = 164) of articles which contain at least
+one decision inconsistency, as equally distributed across publication
+years as possible. We restricted the sub sample to only those decision
+inconsistencies that involve either a larger than (\textgreater) or
+smaller than (\textless) comparison of the p-value to allow unambiguous
 interpretation of the results. We then manually extracted the relevant
 sentence which the test statistic is embedded in and assessed whether
 the authors interpreted the reported p-value correctly (a true decision
 inconsistency) or incorrectly (the decision inconsistency is likely a
 typo). This ratio will let us approximate the true decision
 inconsistency rate. We consider true decision inconsistencies
-theoretically relevant. E.g. if an author claims that two groups are
-different (or not) based on an erroneously reported significant test, we
-consider this claim to potentially have theoretical consequences. Out of
-the 164 assessed cases, we coded \#\# (\#\#\%) as genuine typos,
-e.g.~the authors interpreted the results in line with the computed
-p-value and not the erroneously reported p-value. We coded \#\# (\#\#\%)
-cases as unclear, i.e.~even after assessing the manuscript in detail, we
-could not interpret how the p-value was interpreted. This leaves \#\#
-(\#\#\%) of tests being coded as true decision inconsistencies that
-potentially have theoretical consequences.
+theoretically relevant: For example, if an author claims that two groups
+are different (or not) based on an erroneously reported significant
+test, we consider this claim to potentially have theoretical
+consequences. Out of the 164 assessed cases, most were straightforwardly
+interpretable 155 (95\%). We coded 9 cases as unclear, i.e.~even after
+assessing the manuscript in detail, it remained unclear to us how the
+p-value was interpreted. Unclear cases occurred mostly due to tables or
+footnotes with lists of test results without clear reference. Of the
+interpretable test reports 132 matched the erroneously reported p-value
+(85\%), representing true decision inconsistencies that potentially have
+theoretical consequences. Inversely, 23 cases mismatched the erroneously
+reported p-value (15\%), possibly representing genuine typos, e.g.~the
+authors interpreted the results in line with the computed p-value and
+not the erroneously reported p-value.
 
 \section{Discussion and
 Recommendations}\label{discussion-and-recommendations}
@@ -726,11 +731,15 @@ inconsistencies across a sample of 13065 experimental linguistic
 articles, containing 82991 assessable p-values. 12.6\% of all p-values
 were flagged as inconsistent and 1.5\% were flagged as decision
 inconsistencies, i.e.~the reported p-value is on the opposite side of
-the alpha threshold than the recalculated p-value. On average, 49\% of
+the alpha threshold than the recalculated p-value. A manual validation
+of a subset of decision inconsistencies revealed that 85\% of these
+decision inconsistencies are interpreted in line with the inconsistent
+p-value, i.e.~a paper claims that e.g.~two groups are different (or not)
+based on an erroneously reported significant test. On average, 49\% of
 assessable articles contained at least one inconsistency and 12\%
 contained at least one decision inconsistency. The present examination
-did not indicate any noticeable trend for inconsistency rates across
-journals or publication year.
+did not indicate any noticeable differences in inconsistency rates
+across journals or publication years.
 
 The present study can be considered a conceptual replication of previous
 studies investigating statistical reporting inconsistency across
@@ -926,18 +935,18 @@ Psychological Science\footnote{https://www.psychologicalscience.org/publications
   accessed on on July 15, 2024.}, Stress \& Health Barber
 (\citeproc{ref-barber2017meticulous}{2017})). Editors could also demand,
 recommend or at least encourage data sharing for publication in their
-journal . Data sharing policies have been shown to substantially
-increase the reproducibility of analyses (e.g.,
+journal. Data sharing policies have been shown to substantially increase
+the reproducibility of analyses (e.g.,
 \citeproc{ref-hardwicke2018data}{Hardwicke et al., 2018};
 \citeproc{ref-laurinavichyute2022share}{Laurinavichyute et al., 2022})
 and a number of linguistic journals have already implemented such
-policies, including journals within our sample . Having said that, open
+policies, including journals within our sample. Having said that, open
 data policies which for example the Journal of Memory and Language
 introduced in 2018 did not seem to have affected the proportion of
-statistical inconsistencies after their introduction . The inconsistency
+statistical inconsistencies after their introduction. The inconsistency
 rates for JML (and other journals) were rather stable across time, so
 open data alone might not resolve the issue without further changes to
-the research eco-system .
+the research eco-system.
 
 Researchers make errors. Researchers have biases. This is who we are as
 humans and there is not much we can do about our nature. Being aware of
