@@ -248,13 +248,13 @@ What we can assess is whether a given test result has the potential to be theore
 We approximated an answer to this question as follows: First, we extracted a random sub sample (15%, n = `{r} nrow(xdata_sample)`) of articles which contain at least one decision inconsistency, as equally distributed across publication years as possible.
 We restricted the sub sample to only those decision inconsistencies that involve either a larger than (\>) or smaller than (\<) comparison of the p-value to allow unambiguous interpretation of the results.
 We then manually extracted the relevant sentence which the test statistic is embedded in and assessed whether the authors interpreted the reported p-value correctly (a true decision inconsistency) or incorrectly (the decision inconsistency is likely a typo).
-This ratio will let us approximate the true decision inconsistency rate.
-We consider true decision inconsistencies theoretically relevant:
-For example, if an author claims that two groups are different (or not) based on an erroneously reported significant test, we consider this claim to potentially have theoretical consequences.
+This ratio let us approximate the true decision inconsistency rate.
+We considered true decision inconsistencies theoretically relevant:
+For example, if an article claimed that two groups are different (or not) based on an erroneously reported significant test, we considered this claim to potentially have theoretical consequences.
 Out of the `{r} nrow(xdata_sample)` assessed cases, most were straightforwardly interpretable `{r} matches+mismatches` (`{r} round((((matches+mismatches) / nrow(xdata_sample)) * 100),0)`%). The remaining `{r} unclear` cases were coded as unclear, i.e. even after assessing the manuscript in detail, it remained unclear to us how the p-value was interpreted.
 Unclear cases occurred mostly due to tables or footnotes with lists of test results without clear reference. 
-Of the interpretable test reports `{r} matches` matched the erroneously reported p-value (`{r} round(((matches / (matches+mismatches)) * 100),0)`%), representing true decision inconsistencies that potentially have theoretical consequences. 
-Inversely, `{r} mismatches` cases mismatched the erroneously reported p-value (`{r} round(((mismatches / (matches+mismatches)) * 100),0)`%), possibly representing genuine typos, e.g. the authors interpreted the results in line with the computed p-value and not the erroneously reported p-value.
+Of the interpretable test reports, `{r} matches` matched the erroneously reported p-value (`{r} round(((matches / (matches+mismatches)) * 100),0)`%), representing true decision inconsistencies that potentially have theoretical consequences. 
+Inversely, `{r} mismatches` cases mismatched the erroneously reported p-value (`{r} round(((mismatches / (matches+mismatches)) * 100),0)`%), possibly representing genuine typos, e.g. the article interpreted the results in line with the computed p-value and not the erroneously reported p-value.
 
 # Discussion and Recommendations
 
