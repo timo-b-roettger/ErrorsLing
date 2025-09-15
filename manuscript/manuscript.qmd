@@ -247,7 +247,7 @@ This is a difficult question to empirically address because experimental behavio
 What we can assess is whether a given test result has the potential to be theoretically relevant, i.e. whether theoretical claims can be made based on them. 
 We approximated an answer to this question as follows: First, we extracted a random sub sample (15%, n = `{r} nrow(xdata_sample)`) of articles which contain at least one decision inconsistency, as equally distributed across publication years as possible.
 We restricted the sub sample to only those decision inconsistencies that involve either a larger than (\>) or smaller than (\<) comparison of the p-value to allow unambiguous interpretation of the results.
-We then manually extracted the relevant sentence which the test statistic is embedded in and assessed whether the authors interpreted the reported p-value correctly (a true decision inconsistency) or incorrectly (the decision inconsistency is likely a typo).
+We then manually extracted the relevant sentence which the test statistic is embedded in and assessed whether there was a mismatch between the reported p-value significance and the authors' interpretation of the p-value significance such that cases that are likely typos (mismatch) and true decision consistencies (match) could be separated.
 This ratio let us approximate the true decision inconsistency rate.
 We considered true decision inconsistencies theoretically relevant:
 For example, if an article claimed that two groups are different (or not) based on an erroneously reported significant test, we considered this claim to potentially have theoretical consequences.
