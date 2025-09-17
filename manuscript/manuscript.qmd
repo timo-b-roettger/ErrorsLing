@@ -5,6 +5,7 @@ number-sections: true
 author:
   - name: Dara Leonard Jenssen Etemady
     corresponding: true
+    orcid: 0009-0006-0083-3944
     email: daraetemady@gmail.com
     affiliations:
       - name: University of Oslo
@@ -32,7 +33,7 @@ author-note:
     financial-support: null
     gratitude: null
     authorship-agreements: Conceptionalization, Methodology, Validation, Formal Analysis, Review & Editing of Manuscript, Data Curation - TBR. & DLJE; Software, Investigation - DLJE; Writing of Original Draft, Visualization, Supervision - TBR.
-abstract: "The present paper investigates the prevalence of statistical reporting inconsistencies across articles in thirteen experimental linguistics journals published between 2000 and 2023. Using the R package “Statcheck”, we retrieved 82,991 statistical test from 13,065 articles and assessed whether p-values were consistent with their test statistic and degrees of freedom. Almost half of all articles (49%) that used null hypothesis significance testing contained at least one inconsistent p-value. Around one in eight articles (12%) contained an inconsistency that may have affected the statistical conclusion. The inconsistency rates were comparable across journals and seem stable over publication years. We discuss possible reasons for this high rate and offer actionable steps for authors, reviewers, and editors to remedy this state-of-affairs."
+abstract: "The present paper investigates the prevalence of statistical reporting inconsistencies across articles in thirteen experimental linguistics journals published between 2000 and 2023. Using the R package “Statcheck”, we retrieved 82,991 statistical tests from 13,065 articles and assessed whether p-values were consistent with their test statistic and degrees of freedom. Almost half of all articles (49%) that used null hypothesis significance testing contained at least one inconsistent p-value. Around one in eight articles (12%) contained an inconsistency that may have affected the statistical conclusion. The inconsistency rates were comparable across journals and seem stable over publication years. We discuss possible reasons for this high rate and offer actionable steps for authors, reviewers, and editors to remedy this state-of-affairs."
 keywords: [statistics, Statcheck, reproducibility, null hypothesis significance testing]
 bibliography: bibliography.bib
 format:
@@ -64,9 +65,9 @@ In recent years, quantitative linguistics have seen repeated calls to become mor
 Despite these calls, sharing of statistical protocols is still rather rare across the language sciences [@bochynska2023reproducible].
 If statistical procedures cannot be critically evaluated, human errors might be left undetected and thus remain uncorrected in the publication record.
 And if undetected errors affect the decision procedure of the analysis, i.e. whether a hypothesis is rejected or accepted, these errors might lead to -at best- overconfident, -at worst- false theoretical conclusions.
-The present paper will present evidence that the published literature in experimental linguistics contains a concerning amount of such statistical inconsitencies, a state of affairs which warrants more rigorous data sharing practices.
+The present paper will present evidence that the published literature in experimental linguistics contains a concerning amount of such statistical inconsistencies, a state of affairs which warrants more rigorous data sharing practices.
 
-# Statistal reporting inconsistencies
+# Statistical reporting inconsistencies
 
 The null-hypothesis significance testing (NHST) framework is, to date, the most dominant statistical framework that researchers use to test hypotheses in the language sciences [@sondereggera2024advancements].
 NHST tests are commonly reported in specific formats which usually contain the name of the test (e.g. F, t, χ2), a test statistic, the degrees of freedom of that test (if applicable), and the p-value, representing the probability of observing the data (or more extreme data) given the null hypothesis (i.e. given that the test statistic is zero) (see example 1):  
@@ -94,13 +95,13 @@ Without access to data and scripts, it remains unclear to the reader what has ca
 Such inconsistencies can be particularly concerning if the calculated p-value (here 0.053) and the reported p-values (here \<0.05) are not on the same side of the alpha threshold.
 In NHST, p-values below a conventionalized alpha threshold, most commonly 0.05, are interpreted as evidence that the data are sufficiently inconsistent with the null hypothesis ("significant").
 P-values above that threshold are considered consistent with the null hypothesis and practically lead to rejecting the alternative hypothesis ("non-significant").
-In (1) above, the reported p-value suggest a significant result, the p-value derived from the degrees of freedom and the test statistic suggest a non-significant result.
+In (1) above, the reported p-value suggests a significant result, the p-value derived from the degrees of freedom and the test statistic suggest a non-significant result.
 In the following we refer to these inconsistencies as "decision inconsistencies".
 
 The consistency of these values can be automatically assessed if statistical tests are reported in an unambiguous format.
 Recently, a series of studies used such automatic assessments to evaluate the prevalence of inconsistent statistical reporting in psychology [@bakker2011mis; @bakker2014outlier; @caperos2013consistency; @veldkamp2014statistical; @wicherts2011willingness; @nuijten2016prevalence; @nuijten2020statcheck; @green2018statcheck; @claesen2023data], medical sciences [@garcia2004incongruence; @van2023comparing], psychiatry [@berle2007inconsistencies], cyber security studies [@gross2021fidelity], technological education research [@buckley2023estimating], and experimental philosophy [@colombo2018statistical].
 For example, looking at over 250,000 p-values published in major psychology journals, @nuijten2016prevalence found that around 50% of the articles with statistical results contained at least one inconsistency and around 13% contained at least one decision inconsistency.
-Other studies report on inconsistency rates between 4% and 14%, with between 10% and 63% of articles containing at least one inconsistency and between 3% and 21% contain at least one decision consistency.
+Other studies report inconsistency rates between 4% and 14%, with between 10% and 63% of articles containing at least one inconsistency and between 3% and 21% contain at least one decision consistency.
 These high inconsistency rates in other disciplines are concerning and have led to a constructive dialog, resulting in recommendations for best practice to either avoid inconsistencies or make them more detectable.
 
 To assess the prevalence of statistical reporting inconsistencies in experimental linguistics, the present paper conceptually replicates @nuijten2016prevalence and assesses p-values reported in thirteen experimental linguistic journals published between 2000 and 2023.
@@ -141,7 +142,7 @@ All derived data and corresponding R scripts are available [here](https://osf.io
 Focusing on experimental linguistic research, we used @kobrock2023assessing as a point of departure who list 100 linguistic journals that had at least a hundred articles published at the time of assessment (2021) and a high ratio of articles containing the search string "experiment\*" in title, abstract and/or keywords.
 Out of these 100 journals, we selected all journals with at least 10% of articles containing the search string "experiment\*".
 Out of the remaining 37 journals, we selected those journals that urged APA formatting either in the main body of the text or specifically regarding statistics in the author guidelines, resulting in nine remaining journals.
-Moreover, to access the articles in .pdf format, the articles had to be either accessible to us through our library license, or open access, resulting in a final list of eight journals: Applied Psycholinguistics (APS), Bilingualism: Language and Cognition (BLC), Linguistic Approaches to Bilingualism (LAB), Language and Speech (LaS), Language Learning and Techology (LLT), Journal of Language and Social Psychology (LSP), Journal of Child Language (JCL), and Studies in Second Language Acquisition (SLA).
+Moreover, to access the articles in .pdf format, the articles had to be either accessible to us through our library license, or open access, resulting in a final list of eight journals: Applied Psycholinguistics (APS), Bilingualism: Language and Cognition (BLC), Linguistic Approaches to Bilingualism (LAB), Language and Speech (LaS), Language Learning and Technology (LLT), Journal of Language and Social Psychology (LSP), Journal of Child Language (JCL), and Studies in Second Language Acquisition (SLA).
 An anonymous reviewer raised the justified concern that the resulting sample might not represent the vast majority of work in experimental linguistics.
 To address this concern, we additionally included those five journals that have published the highest absolute number of experimental articles [according to @kobrock2023assessing], regardless of the above mentioned constraints, resulting in the inclusion of the following psycholinguistic outlets: Journal of Memory and Language (JML), Language, Cognition and Neuroscience (LCN, former Language and Cognitive Processes), Journal of Psycholinguistic Research (JPR), Journal Of Speech Language And Hearing Research (SLH), and Brain and Language (BAL).
 
@@ -319,14 +320,14 @@ Several implementations of literate programming are freely available to research
 Literate programming can ensure that values derived from the statistical analysis are automatically integrated into the manuscript document, avoiding errors that might happen during a manual transfer from one program to the other.
 
 Authors should generally engage in transparent and reproducible practices that can reduce human error or at least make them detectable by sharing their derived data (i.e. the anonymized data table that was analyzed) as well as a detailed description of their statistical protocol, ideally in form of reproducible scripts.
-Sharing reproducible analyses with reviewers allows the reviewers the reproduce the authors' analyses, possibly detect errors or even inappropriate statistical choices before publication, thus improving the quality and robustness of the final product.
+Sharing reproducible analyses with reviewers allows the reviewers to reproduce the authors' analyses, possibly detect errors or even inappropriate statistical choices before publication, thus improving the quality and robustness of the final product.
 Moreover, publicly sharing their analyses has numerous benefits to the authors themselves beyond error detection: Open data and materials can facilitate collaboration [@boland2017ten], increase efficiency and sustainability [@lowndes2017our], and are cited more often [@colavizza2020citation].
 
 Reviewers can additionally check the statistical reporting consistency in the manuscript by using tools such as Statcheck [@nuijten2023statcheck, http://statcheck.io] or p-checker [@schonbrodt2015p, http://shinyapps.org/apps/p-checker/].
 Reviewers could consider requesting data and scripts during peer review.
 Such requests might be particularly justified when inconsistencies are apparent.
 Explicitly requesting to share data might already instill additional care and quality checks when authors prepare their materials, but also allows the reviewers to carefully reproduce the results, and critically evaluate all choices made in the statistical analysis [@sakaluk2014analytic].
-Recent evidence suggest experimental linguistics are still characterized by a pluralism of statistical approaches, even when trying to answer the same research question [@coretta_multidimensional_2023].
+Recent evidence suggests experimental linguistics are still characterized by a pluralism of statistical approaches, even when trying to answer the same research question [@coretta_multidimensional_2023].
 Some of these approaches might be more appropriate than others [@sondereggera2024advancements; @vasishth2023some], so more thorough evaluations of how researchers arrive at their statistical conclusions might elevate their analytical robustness.
 Moreover, a turn towards inferential frameworks that do not focus on binary decision procedures such as the null hypothesis significance testing framework, might alleviate some of the biases we observed in the direction of inconsistencies [@vasishth2018statistical; @cumming2014new].
 
@@ -338,7 +339,7 @@ The inconsistency rates for JML (and other journals) were rather stable across t
 
 [^1]: http://www.psychologicalscience.org/publications/psychological_science/ps-submissions; accessed on July 15, 2024.
 
-[^2]: https://www.psychologicalscience.org/publications/ampps/ampps-submission-guidelines; accessed on on July 15, 2024.
+[^2]: https://www.psychologicalscience.org/publications/ampps/ampps-submission-guidelines; accessed on July 15, 2024.
 
 Researchers make errors.
 Researchers have biases.
