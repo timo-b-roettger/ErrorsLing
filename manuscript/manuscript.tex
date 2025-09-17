@@ -175,7 +175,7 @@ Linguistics}
 \abstract{The present paper investigates the prevalence of statistical
 reporting inconsistencies across articles in thirteen experimental
 linguistics journals published between 2000 and 2023. Using the R
-package ``Statcheck'', we retrieved 82,991 statistical test from 13,065
+package ``Statcheck'', we retrieved 82,991 statistical tests from 13,065
 articles and assessed whether p-values were consistent with their test
 statistic and degrees of freedom. Almost half of all articles (49\%)
 that used null hypothesis significance testing contained at least one
@@ -189,16 +189,15 @@ this state-of-affairs.}
 \keywords{statistics, Statcheck, reproducibility, null hypothesis
 significance testing}
 
-\authornote{\par{\addORCIDlink{Timo B. Roettger}{0000-0003-1400-2739}} 
+\authornote{\par{\addORCIDlink{Dara Leonard Jenssen
+Etemady}{0009-0006-0083-3944}}\par{\addORCIDlink{Timo B.
+Roettger}{0000-0003-1400-2739}} 
 \par{ }
-\par{   The authors have no conflict of interest to declare.   We are
-thankful for comments and suggestions by two anonymous reviewers and
-Brian Dillon. We also greatly appreciated comments on an earlier draft
-by Thomas Schmidt. Authors contributed to the project as following.
-Conceptionalization, Methodology, Validation, Formal Analysis, Review \&
-Editing of Manuscript, Data Curation - TBR. \& DLJE; Software,
-Investigation - DLJE; Writing of Original Draft, Visualization,
-Supervision - TBR. }
+\par{   The authors have no conflict of interest to
+declare.   Conceptionalization, Methodology, Validation, Formal
+Analysis, Review \& Editing of Manuscript, Data Curation - TBR. \& DLJE;
+Software, Investigation - DLJE; Writing of Original Draft,
+Visualization, Supervision - TBR. }
 \par{Correspondence concerning this article should be addressed to Dara
 Leonard Jenssen Etemady, Email: daraetemady@gmail.com}
 }
@@ -307,11 +306,11 @@ procedure of the analysis, i.e.~whether a hypothesis is rejected or
 accepted, these errors might lead to -at best- overconfident, -at worst-
 false theoretical conclusions. The present paper will present evidence
 that the published literature in experimental linguistics contains a
-concerning amount of such statistical inconsitencies, a state of affairs
-which warrants more rigorous data sharing practices.
+concerning amount of such statistical inconsistencies, a state of
+affairs which warrants more rigorous data sharing practices.
 
-\section{Statistal reporting
-inconsistencies}\label{statistal-reporting-inconsistencies}
+\section{Statistical reporting
+inconsistencies}\label{statistical-reporting-inconsistencies}
 
 The null-hypothesis significance testing (NHST) framework is, to date,
 the most dominant statistical framework that researchers use to test
@@ -362,7 +361,7 @@ are interpreted as evidence that the data are sufficiently inconsistent
 with the null hypothesis (``significant''). P-values above that
 threshold are considered consistent with the null hypothesis and
 practically lead to rejecting the alternative hypothesis
-(``non-significant''). In (1) above, the reported p-value suggest a
+(``non-significant''). In (1) above, the reported p-value suggests a
 significant result, the p-value derived from the degrees of freedom and
 the test statistic suggest a non-significant result. In the following we
 refer to these inconsistencies as ``decision inconsistencies''.
@@ -392,8 +391,8 @@ in major psychology journals, Nuijten et al.
 (\citeproc{ref-nuijten2016prevalence}{2016}) found that around 50\% of
 the articles with statistical results contained at least one
 inconsistency and around 13\% contained at least one decision
-inconsistency. Other studies report on inconsistency rates between 4\%
-and 14\%, with between 10\% and 63\% of articles containing at least one
+inconsistency. Other studies report inconsistency rates between 4\% and
+14\%, with between 10\% and 63\% of articles containing at least one
 inconsistency and between 3\% and 21\% contain at least one decision
 consistency. These high inconsistency rates in other disciplines are
 concerning and have led to a constructive dialog, resulting in
@@ -438,7 +437,7 @@ format, the articles had to be either accessible to us through our
 library license, or open access, resulting in a final list of eight
 journals: Applied Psycholinguistics (APS), Bilingualism: Language and
 Cognition (BLC), Linguistic Approaches to Bilingualism (LAB), Language
-and Speech (LaS), Language Learning and Techology (LLT), Journal of
+and Speech (LaS), Language Learning and Technology (LLT), Journal of
 Language and Social Psychology (LSP), Journal of Child Language (JCL),
 and Studies in Second Language Acquisition (SLA). An anonymous reviewer
 raised the justified concern that the resulting sample might not
@@ -490,9 +489,8 @@ between manual coding and Statcheck is high, i.e.~0.76 for
 inconsistencies and 0.89 for decision inconsistencies
 (\citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}). The
 overall accuracy of Statcheck is estimated to be between 96.2\% to
-99.9\% (\citeproc{ref-nuijten2017validity}{Nuijten et al., 2017}; but
-see \citeproc{ref-schmidt2017statcheck}{Schmidt, 2017}). We thus
-consider Statcheck a valid proxy of the prevalence of statistical
+99.9\% (\citeproc{ref-nuijten2017validity}{Nuijten et al., 2017}). We
+thus consider Statcheck a valid proxy of the prevalence of statistical
 reporting inconsistencies.
 
 Articles from Linguistic Approaches to Bilingualism spanned 2011-2023;
@@ -509,12 +507,12 @@ The aims of this study were explicitly exploratory and hypothesis
 generating, thus analyses remain merely descriptive by reporting on the
 proportion of articles/tests that are statistically (in)consistent. Our
 investigation was set out to explore the following research questions:
-How prevalent are statistical inconsistencies (and decision
-inconsistencies) in our sample? (Section~\ref{sec-prevalent}) Do
+(1) How prevalent are statistical inconsistencies (and decision
+inconsistencies) in our sample? (Section~\ref{sec-prevalent}) (2) Do
 inconsistency rates vary across journals and/or their publication year?
-(Section~\ref{sec-stable}) Is there evidence for bias, i.e.~are
+(Section~\ref{sec-stable}) (3) is there evidence for bias, i.e.~are
 processes that result in inconsistencies more likely to produce lower
-p-values? (Section~\ref{sec-bias}) And do decision inconsistencies
+p-values? (Section~\ref{sec-bias}) And (4) do decision inconsistencies
 matter, i.e.~are they merely typos or do they have the potential to lead
 to erroneous theoretical interpretations? (Section~\ref{sec-matter})
 
@@ -540,7 +538,7 @@ Bilingualism: Language and Cognition (BLC), Journal of Memory and
 Language (JML), Journal of Psycholinguistic Research (JPR), Linguistic
 Approaches to Bilingualism (LAB), Language and Speech (LaS), Language
 Cognition and Neuroscience (LCN, former Language and Cognitive
-Processes), Language Learning and Techology (LLT), Journal of Language
+Processes), Language Learning and Technology (LLT), Journal of Language
 and Social Psychology (LSP), Journal of Child Language (JCL), and
 Studies in Second Language Acquisition (SLA), Journal Of Speech Language
 And Hearing Research (SLH))}{\label{tbl-summary}}}}
@@ -608,7 +606,7 @@ Language and Cognition (BLC), Journal of Memory and Language (JML),
 Journal of Psycholinguistic Research (JPR), Linguistic Approaches to
 Bilingualism (LAB), Language and Speech (LaS), Language Cognition and
 Neuroscience (LCN, former Language and Cognitive Processes), Language
-Learning and Techology (LLT), Journal of Language and Social Psychology
+Learning and Technology (LLT), Journal of Language and Social Psychology
 (LSP), Journal of Child Language (JCL), and Studies in Second Language
 Acquisition (SLA), Journal Of Speech Language And Hearing Research
 (SLH))}
@@ -630,7 +628,7 @@ inconsistencies across time overall (left panel) and split into journals
 Language (JML), Journal of Psycholinguistic Research (JPR), Linguistic
 Approaches to Bilingualism (LAB), Language and Speech (LaS), Language
 Cognition and Neuroscience (LCN, former Language and Cognitive
-Processes), Language Learning and Techology (LLT), Journal of Language
+Processes), Language Learning and Technology (LLT), Journal of Language
 and Social Psychology (LSP), Journal of Child Language (JCL), and
 Studies in Second Language Acquisition (SLA), Journal Of Speech Language
 And Hearing Research (SLH))}
@@ -852,8 +850,8 @@ results in APA format vs.~results that diverge from APA formatting
 (\citeproc{ref-bakker2011mis}{Bakker \& Wicherts, 2011};
 \citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}).
 
-Third, Statcheck overestimates inconsistency rates, because it might not
-accurately detect corrections for multiple comparisons
+Third, Statcheck slightly overestimates inconsistency rates, because it
+might not accurately detect corrections for multiple comparisons
 (\citeproc{ref-schmidt2017statcheck}{Schmidt, 2017}). Nuijten et al.
 (\citeproc{ref-nuijten2017validity}{2017}), however, show that not only
 were there only a small proportion of flagged inconsistencies related to
@@ -896,7 +894,7 @@ practices that can reduce human error or at least make them detectable
 by sharing their derived data (i.e.~the anonymized data table that was
 analyzed) as well as a detailed description of their statistical
 protocol, ideally in form of reproducible scripts. Sharing reproducible
-analyses with reviewers allows the reviewers the reproduce the authors'
+analyses with reviewers allows the reviewers to reproduce the authors'
 analyses, possibly detect errors or even inappropriate statistical
 choices before publication, thus improving the quality and robustness of
 the final product. Moreover, publicly sharing their analyses has
@@ -920,7 +918,7 @@ quality checks when authors prepare their materials, but also allows the
 reviewers to carefully reproduce the results, and critically evaluate
 all choices made in the statistical analysis
 (\citeproc{ref-sakaluk2014analytic}{Sakaluk et al., 2014}). Recent
-evidence suggest experimental linguistics are still characterized by a
+evidence suggests experimental linguistics are still characterized by a
 pluralism of statistical approaches, even when trying to answer the same
 research question (\citeproc{ref-coretta_multidimensional_2023}{Coretta
 et al., 2023}). Some of these approaches might be more appropriate than
@@ -940,7 +938,7 @@ been taken up on by several journals from neighboring disciplines
 (Psychological Science\footnote{http://www.psychologicalscience.org/publications/psychological\_science/ps-submissions;
   accessed on July 15, 2024.}, Advances in Methods and Practices in
 Psychological Science\footnote{https://www.psychologicalscience.org/publications/ampps/ampps-submission-guidelines;
-  accessed on on July 15, 2024.}, Stress \& Health Barber
+  accessed on July 15, 2024.}, Stress \& Health Barber
 (\citeproc{ref-barber2017meticulous}{2017})). Editors could also demand,
 recommend or at least encourage data sharing for publication in their
 journal. Data sharing policies have been shown to substantially increase
