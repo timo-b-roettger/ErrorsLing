@@ -175,7 +175,7 @@ Linguistics}
 \abstract{The present paper investigates the prevalence of statistical
 reporting inconsistencies across articles in thirteen experimental
 linguistics journals published between 2000 and 2023. Using the R
-package ``Statcheck'', we retrieved 85,442 statistical test from 13,065
+package ``Statcheck'', we retrieved 82,991 statistical test from 13,065
 articles and assessed whether p-values were consistent with their test
 statistic and degrees of freedom. Almost half of all articles (49\%)
 that used null hypothesis significance testing contained at least one
@@ -191,11 +191,14 @@ significance testing}
 
 \authornote{\par{\addORCIDlink{Timo B. Roettger}{0000-0003-1400-2739}} 
 \par{ }
-\par{   The authors have no conflict of interest to
-declare.   Conceptionalization, Methodology, Validation, Formal
-Analysis, Review \& Editing of Manuscript, Data Curation - TBR. \& DLJE;
-Software, Investigation - DLJE; Writing of Original Draft,
-Visualization, Supervision - TBR. }
+\par{   The authors have no conflict of interest to declare.   We are
+thankful for comments and suggestions by two anonymous reviewers and
+Brian Dillon. We also greatly appreciated comments on an earlier draft
+by Thomas Schmidt. Authors contributed to the project as following.
+Conceptionalization, Methodology, Validation, Formal Analysis, Review \&
+Editing of Manuscript, Data Curation - TBR. \& DLJE; Software,
+Investigation - DLJE; Writing of Original Draft, Visualization,
+Supervision - TBR. }
 \par{Correspondence concerning this article should be addressed to Dara
 Leonard Jenssen Etemady, Email: daraetemady@gmail.com}
 }
@@ -346,13 +349,13 @@ consistency. For example, an F test with the specified degrees of
 freedom and a test-statistic of 3.88 should result in a p-value of 0.053
 which is larger, not smaller, than 0.05. Possible reasons for this
 inconsistency are manifold: It could be a typo of the comparison sign,
-i.e.~the authors meant to use \texttt{=} or \texttt{\textless{}} rather
-than \texttt{\textgreater{}}. Additionally, any of the numbers could
+i.e.~the authors meant to use \texttt{=} or \texttt{\textgreater{}}
+rather than \texttt{\textless{}}. Additionally, any of the numbers could
 contain a typo and sometimes an error might indicate erroneous rounding
-(e.g.~0.057 being rounded down to 0.05). Without access to data and
+(e.g.~0.053 being rounded down to 0.05). Without access to data and
 scripts, it remains unclear to the reader what has caused this
 inconsistency. Such inconsistencies can be particularly concerning if
-the calculated p-value (here 0.057) and the reported p-values (here
+the calculated p-value (here 0.053) and the reported p-values (here
 \textless0.05) are not on the same side of the alpha threshold. In NHST,
 p-values below a conventionalized alpha threshold, most commonly 0.05,
 are interpreted as evidence that the data are sufficiently inconsistent
@@ -443,12 +446,12 @@ represent the vast majority of work in experimental linguistics. To
 address this concern, we additionally included those five journals that
 have published the highest absolute number of experimental articles
 (according to \citeproc{ref-kobrock2023assessing}{Kobrock \& Roettger,
-2023}), regardless of whether they explicitly urge APA formatting or
-not, resulting in the inclusion of the following psycholinguistic
-outlets: Journal of Memory and Language (JML), Language, Cognition and
-Neuroscience (LCN, former Language and Cognitive Processes), Journal of
-Psycholinguistic Research (JPR), Journal Of Speech Language And Hearing
-Research (SLH), and Brain and Language (BAL).
+2023}), regardless of the above mentioned constraints, resulting in the
+inclusion of the following psycholinguistic outlets: Journal of Memory
+and Language (JML), Language, Cognition and Neuroscience (LCN, former
+Language and Cognitive Processes), Journal of Psycholinguistic Research
+(JPR), Journal Of Speech Language And Hearing Research (SLH), and Brain
+and Language (BAL).
 
 We included only original research articles within the publication years
 of 2000-2023, excluding any book reviews, response articles,
@@ -487,8 +490,9 @@ between manual coding and Statcheck is high, i.e.~0.76 for
 inconsistencies and 0.89 for decision inconsistencies
 (\citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}). The
 overall accuracy of Statcheck is estimated to be between 96.2\% to
-99.9\% (\citeproc{ref-nuijten2017validity}{Nuijten et al., 2017}). We
-thus consider Statcheck a valid proxy of the prevalence of statistical
+99.9\% (\citeproc{ref-nuijten2017validity}{Nuijten et al., 2017}; but
+see \citeproc{ref-schmidt2017statcheck}{Schmidt, 2017}). We thus
+consider Statcheck a valid proxy of the prevalence of statistical
 reporting inconsistencies.
 
 Articles from Linguistic Approaches to Bilingualism spanned 2011-2023;
@@ -505,14 +509,14 @@ The aims of this study were explicitly exploratory and hypothesis
 generating, thus analyses remain merely descriptive by reporting on the
 proportion of articles/tests that are statistically (in)consistent. Our
 investigation was set out to explore the following research questions:
-(1) How prevalent are statistical inconsistencies (and decision
-inconsistencies) in our sample? (see Section~\ref{sec-prevalent}) (2) Do
+How prevalent are statistical inconsistencies (and decision
+inconsistencies) in our sample? (Section~\ref{sec-prevalent}) Do
 inconsistency rates vary across journals and/or their publication year?
-(see Section~\ref{sec-stable}) (3) is there evidence for bias, i.e.~are
+(Section~\ref{sec-stable}) Is there evidence for bias, i.e.~are
 processes that result in inconsistencies more likely to produce lower
-p-values? (see Section~\ref{sec-bias}) And (4) do decision
-inconsistencies matter, i.e.~are they merely typos or do they lead to
-erroneous theoretical interpretations? (see Section~\ref{sec-matter})
+p-values? (Section~\ref{sec-bias}) And do decision inconsistencies
+matter, i.e.~are they merely typos or do they have the potential to lead
+to erroneous theoretical interpretations? (Section~\ref{sec-matter})
 
 \section{Results}\label{results}
 
@@ -587,13 +591,13 @@ Total & 13065 & 6268 & 82991 & 10421 & 1226 \\
 \subsection{Inconsistencies are comparable across journals and
 publication year}\label{sec-stable}
 
-The proportion of inconsistencies ranged from 7 to 22\% across journals
-(1 to 7\% for decision inconsistencies) (see
-Figure~\ref{fig-stacked-bar}). These rates appear to be stable across
-year of publication (see Figure~\ref{fig-year-prop}). On average, 49\%
-of assessable articles contained one or more inconsistencies (journals
-range from 42 to 56\%) and 12\% contained one or more decision
-inconsistencies (journals range from 10 to 15\%).
+On average, 49\% of assessable articles contained one or more
+inconsistencies (journals range from 42 to 56\%) and 12\% contained one
+or more decision inconsistencies (journals range from 10 to 15\%) (see
+Figure~\ref{fig-stacked-bar}). The proportion of inconsistencies ranged
+from 7 to 22\% across journals (1 to 7\% for decision inconsistencies).
+These rates appear to be stable across year of publication (see
+Figure~\ref{fig-year-prop}).
 
 \begin{figure}[H]
 
@@ -639,7 +643,7 @@ And Hearing Research (SLH))}
 
 \end{figure}%
 
-\subsection{Inconsistencies appear biased but bias decreases over
+\subsection{Inconsistencies appear biased but bias has decreased over
 time}\label{sec-bias}
 
 If inconsistencies were bias-free, we would expect different types of
@@ -651,9 +655,7 @@ of inconsistent tests with p being reported as larger than a reference
 but 6.7\% of inconsistent tests with p being reported as smaller than a
 reference. So even if we assumed these inconsistencies were merely typos
 of the comparison sign (e.g.~\textless{} instead of \textgreater),
-inconsistencies that erroneously report the p-value to be smaller than a
-reference value are more frequent than inconsistencies that erroneously
-report the p-value to be larger than a reference value.
+inconsistencies are biased towards producing smaller p values.
 
 These biases are also reflected in decision inconsistencies. Of all
 decision inconsistencies (n = 1226), 68\% represent cases in which a
@@ -671,9 +673,9 @@ to have slightly increased over the years.
 
 \begin{figure}
 
-\caption{\label{fig-scatter}Percentage of decision inconsistencies
-falsely reporting significance (black) or non-significance (orange),
-plotted across publication years.}
+\caption{\label{fig-scatter}Percentage of tests flagged for decision
+inconsistencies falsely reporting significance (black) or
+non-significance (orange), plotted across publication years.}
 
 \centering{
 
@@ -683,17 +685,20 @@ plotted across publication years.}
 
 \end{figure}%
 
-\subsection{Do decision inconsistencies matter?}\label{sec-matter}
+\subsection{Do decision inconsistencies have the potential to
+matter?}\label{sec-matter}
 
-The question arises as to whether the inconsistencies theoretically
-matter. This is a difficult question to empirically address because
-experimental behavioral research is often characterized by weak links
-between theory and predictions
+The question arises as to whether the detected inconsistencies have the
+potential to theoretically matter. This is a difficult question to
+empirically address because experimental behavioral research is often
+characterized by weak links between theory and predictions
 (\citeproc{ref-scheel2021hypothesis}{Scheel et al., 2021}), making it
 difficult to even extract hypotheses and whether hypotheses have been
 corroborated or not from published articles
-(\citeproc{ref-scheel2022most}{Scheel, 2022}). To gain some insight, we
-approximate an answer to this questions as follows: First, we extracted
+(\citeproc{ref-scheel2022most}{Scheel, 2022}). What we can assess is
+whether a given test result has the potential to be theoretically
+relevant, i.e.~whether theoretical claims can be made based on them. We
+approximated an answer to this question as follows: First, we extracted
 a random sub sample (15\%, n = 164) of articles which contain at least
 one decision inconsistency, as equally distributed across publication
 years as possible. We restricted the sub sample to only those decision
@@ -701,24 +706,26 @@ inconsistencies that involve either a larger than (\textgreater) or
 smaller than (\textless) comparison of the p-value to allow unambiguous
 interpretation of the results. We then manually extracted the relevant
 sentence which the test statistic is embedded in and assessed whether
-the authors interpreted the reported p-value correctly (a true decision
-inconsistency) or incorrectly (the decision inconsistency is likely a
-typo). This ratio will let us approximate the true decision
-inconsistency rate. We consider true decision inconsistencies
-theoretically relevant: For example, if an author claims that two groups
-are different (or not) based on an erroneously reported significant
-test, we consider this claim to potentially have theoretical
-consequences. Out of the 164 assessed cases, most were straightforwardly
-interpretable 155 (95\%). We coded 9 cases as unclear, i.e.~even after
-assessing the manuscript in detail, it remained unclear to us how the
-p-value was interpreted. Unclear cases occurred mostly due to tables or
-footnotes with lists of test results without clear reference. Of the
-interpretable test reports 132 matched the erroneously reported p-value
-(85\%), representing true decision inconsistencies that potentially have
-theoretical consequences. Inversely, 23 cases mismatched the erroneously
-reported p-value (15\%), possibly representing genuine typos, e.g.~the
-authors interpreted the results in line with the computed p-value and
-not the erroneously reported p-value.
+there was a mismatch between the reported p-value significance and the
+authors' interpretation of the p-value significance such that cases that
+are likely typos (mismatch) and true decision consistencies (match)
+could be separated. This ratio let us approximate the true decision
+inconsistency rate. We considered true decision inconsistencies
+theoretically relevant: For example, if an article claimed that two
+groups are different (or not) based on an erroneously reported
+significant test, we considered this claim to potentially have
+theoretical consequences. Out of the 164 assessed cases, most were
+straightforwardly interpretable 155 (95\%). The remaining 9 cases were
+coded as unclear, i.e.~even after assessing the manuscript in detail, it
+remained unclear to us how the p-value was interpreted. Unclear cases
+occurred mostly due to tables or footnotes with lists of test results
+without clear reference. Of the interpretable test reports, 132 matched
+the erroneously reported p-value (85\%), representing true decision
+inconsistencies that potentially have theoretical consequences.
+Inversely, 23 cases mismatched the erroneously reported p-value (15\%),
+possibly representing genuine typos, e.g.~the article interpreted the
+results in line with the computed p-value and not the erroneously
+reported p-value.
 
 \section{Discussion and
 Recommendations}\label{discussion-and-recommendations}
@@ -735,11 +742,11 @@ the alpha threshold than the recalculated p-value. A manual validation
 of a subset of decision inconsistencies revealed that 85\% of these
 decision inconsistencies are interpreted in line with the inconsistent
 p-value, i.e.~a paper claims that e.g.~two groups are different (or not)
-based on an erroneously reported significant test. On average, 49\% of
-assessable articles contained at least one inconsistency and 12\%
+based on an inconsistently reported significant test. On average, 49\%
+of assessable articles contained at least one inconsistency and 12\%
 contained at least one decision inconsistency. The present examination
-did not indicate any noticeable differences in inconsistency rates
-across journals or publication years.
+did not indicate strong differences in inconsistency rates across
+journals or publication years.
 
 The present study can be considered a conceptual replication of previous
 studies investigating statistical reporting inconsistency across
@@ -754,10 +761,10 @@ recent assessments using the automatic tool Statcheck
 \citeproc{ref-gross2021fidelity}{Groß, 2021};
 \citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}). The
 discovered inconsistency rates fall in line with these studies that
-report on rates between 4\% and 14\%, with between 10\% and 63\% of
-articles containing at least one inconsistency. Moreover, the observed
-rates of inconsistencies and decision inconsistencies are virtually
-identical to rates reported on by Nuijten et al.
+report on inconsistency rates between 4\% and 14\%, with between 10\%
+and 63\% of articles containing at least one inconsistency. Moreover,
+the observed rates of inconsistencies and decision inconsistencies are
+virtually identical to rates reported on by Nuijten et al.
 (\citeproc{ref-nuijten2016prevalence}{2016}) on the psychological
 science literature.
 
@@ -771,15 +778,15 @@ during the data analysis itself remain undetected. We should ask
 ourselves, if the tip of the iceberg is already so large, what is the
 volume of the submerged iceberg?
 
-Our results suggest biases as well. The prevalence of decision
-inconsistencies was higher for p-values reported as significant than for
-those reported as non-significant. These biases have been reported on
-for other disciplines as well (\citeproc{ref-bakker2011mis}{Bakker \&
+Our results suggest biases as well. The rate of decision inconsistencies
+was twice as high for p-values reported as significant than for those
+reported as non-significant. These biases have been reported on for
+other disciplines as well (\citeproc{ref-bakker2011mis}{Bakker \&
 Wicherts, 2011}; \citeproc{ref-nuijten2016prevalence}{Nuijten et al.,
-2016}). These skewed patterns could indicate a systematic bias in favor
-of lower p-values in general and a bias towards significant results in
-particular. Our data do not speak to the causes of these biases, but
-possible reasons include the following:
+2016}) and could indicate a systematic bias in favor of lower p-values
+in general and a bias towards significant results in particular. Our
+data do not speak to the causes of these biases, but possible reasons
+include the following:
 
 First, researchers might intentionally round down p-values because they
 think lower p-values are more convincing to reviewers and readers. This
@@ -790,7 +797,8 @@ commit questionable research practices (and even fraud)
 (\citeproc{ref-isbell2022misconduct}{Isbell et al., 2022}), we cannot
 exclude the possibility that some of the inconsistencies in our sample
 were indeed intentional. It is our strong belief, however, that the
-majority of inconsistencies are unintentional.
+majority of inconsistencies are unintentional and caused by other
+mechanisms.
 
 Second, researchers might scrutinize non-significant results more than
 significant results or are less likely to double check significant
@@ -813,9 +821,9 @@ bias is a well established pattern in experimental linguistic research
 with many recent meta analyses discussing possible evidence for it
 (\citeproc{ref-isbilen2022statistical}{Isbilen \& Christiansen, 2022};
 \citeproc{ref-lehtonen2018bilingualism}{Lehtonen et al., 2018};
-\citeproc{ref-lu2024meta}{Lu et al., 2024}) For example, De Bruin et al.
-(\citeproc{ref-de2015cognitive}{2015}) showed that studies with results
-supporting the bilingual-advantage theory were most likely to be
+\citeproc{ref-lu2024meta}{Lu et al., 2024}). For example, De Bruin et
+al. (\citeproc{ref-de2015cognitive}{2015}) showed that studies with
+results supporting the bilingual-advantage theory were most likely to be
 published, while studies with results challenging the theory were
 significantly less likely to be published.
 
@@ -844,8 +852,8 @@ results in APA format vs.~results that diverge from APA formatting
 (\citeproc{ref-bakker2011mis}{Bakker \& Wicherts, 2011};
 \citeproc{ref-nuijten2016prevalence}{Nuijten et al., 2016}).
 
-Third, Statcheck slightly overestimates inconsistency rates, because it
-might not accurately detect corrections for multiple comparisons
+Third, Statcheck overestimates inconsistency rates, because it might not
+accurately detect corrections for multiple comparisons
 (\citeproc{ref-schmidt2017statcheck}{Schmidt, 2017}). Nuijten et al.
 (\citeproc{ref-nuijten2017validity}{2017}), however, show that not only
 were there only a small proportion of flagged inconsistencies related to

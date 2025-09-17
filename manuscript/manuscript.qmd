@@ -1,5 +1,5 @@
 ---
-title: "Statistical Reporting Inconsistencies in Experimental Linguistics"
+title: "Statistical reporting inconsistencies in experimental linguistics"
 shorttitle: "Statistical Inconsistencies"
 number-sections: true
 author:
@@ -31,7 +31,7 @@ author-note:
     conflict-of-interest: The authors have no conflict of interest to declare.
     financial-support: null
     gratitude: null
-    authorship-agreements: Conceptionalization, Methodology, Validation, Formal Analysis, Review & Editing of Manuscript, Data Curation - TBR. & DLJE; Software, Investigation - DLJE; Writing of Original Draft, Visualization, Supervision - TBR.
+    authorship-agreements: We are thankful for comments and suggestions by two anonymous reviewers and Brian Dillon. We also greatly appreciated comments on an earlier draft by Thomas Schmidt. Authors contributed to the project as following. Conceptioalization, Methodology, Validation, Formal Analysis, Review & Editing of Manuscript, Data Curation - TBR. & DLJE; Software, Investigation - DLJE; Writing of Original Draft, Visualization, Supervision - TBR.
 abstract: "The present paper investigates the prevalence of statistical reporting inconsistencies across articles in thirteen experimental linguistics journals published between 2000 and 2023. Using the R package “Statcheck”, we retrieved 82,991 statistical test from 13,065 articles and assessed whether p-values were consistent with their test statistic and degrees of freedom. Almost half of all articles (49%) that used null hypothesis significance testing contained at least one inconsistent p-value. Around one in eight articles (12%) contained an inconsistency that may have affected the statistical conclusion. The inconsistency rates were comparable across journals and seem stable over publication years. We discuss possible reasons for this high rate and offer actionable steps for authors, reviewers, and editors to remedy this state-of-affairs."
 keywords: [statistics, Statcheck, reproducibility, null hypothesis significance testing]
 bibliography: bibliography.bib
@@ -157,7 +157,7 @@ Given these constraints, Statcheck is estimated to detect roughly 60% of all rep
 Statcheck uses the reported test statistic and degrees of freedom to recalculate the p-value, compares the reported and recalculated p-value and, if there is a mismatch, flags the test as containing an “inconsistency.” The algorithm takes into account that tests might have been performed as one-tailed by identifying the search strings “one-tailed,” “one-sided,” or “directional” in the body of the text.
 Moreover, Statcheck considers p = .000 and p \< .000 as inconsistent because p-values of exactly zero are mathematically impossible and the APA manual [@APA2020] advises to report very small p-values as p \< .001.
 Validity checks of Statcheck suggest that inter-rater reliability between manual coding and Statcheck is high, i.e. 0.76 for inconsistencies and 0.89 for decision inconsistencies [@nuijten2016prevalence].
-The overall accuracy of Statcheck is estimated to be between 96.2% to 99.9% [@nuijten2017validity].
+The overall accuracy of Statcheck is estimated to be between 96.2% to 99.9% [@nuijten2017validity; but see @schmidt2017statcheck].
 We thus consider Statcheck a valid proxy of the prevalence of statistical reporting inconsistencies.
 
 Articles from Linguistic Approaches to Bilingualism spanned 2011-2023; articles from Language, Cognition and Neuroscience spanned 2015-2023.
@@ -167,12 +167,12 @@ This procedure resulted in `{r} length(files)` research articles which were subm
 ## Analysis and research questions
 
 The aims of this study were explicitly exploratory and hypothesis generating, thus analyses remain merely descriptive by reporting on the proportion of articles/tests that are statistically (in)consistent.
-Our investigation was set out to explore the following research questions: (1) How prevalent are statistical inconsistencies (and decision inconsistencies) in our sample?
+Our investigation was set out to explore the following research questions: How prevalent are statistical inconsistencies (and decision inconsistencies) in our sample?
 (@sec-prevalent) 
-(2) Do inconsistency rates vary across journals and/or their publication year?
+Do inconsistency rates vary across journals and/or their publication year?
 (@sec-stable) 
-(3) is there evidence for bias, i.e. are processes that result in inconsistencies more likely to produce lower p-values?
-(@sec-bias) And (4) do decision inconsistencies matter, i.e. are they merely typos or do they have the potential to lead to erroneous theoretical interpretations?
+Is there evidence for bias, i.e. are processes that result in inconsistencies more likely to produce lower p-values?
+(@sec-bias) And do decision inconsistencies matter, i.e. are they merely typos or do they have the potential to lead to erroneous theoretical interpretations?
 (@sec-matter)
 
 # Results
@@ -304,7 +304,7 @@ However, given the selection of journals and their standing in the field, and gi
 Second, given the constraints on automatically detecting test statistics, Statcheck misses reported values that either diverge from APA reporting standards or are reported in tables.
 However, inconsistency rates in our own sample have been shown to be similar for results in APA format vs. results that diverge from APA formatting [@bakker2011mis; @nuijten2016prevalence].
 
-Third, Statcheck slightly overestimates inconsistency rates, because it might not accurately detect corrections for multiple comparisons [@schmidt2017statcheck].
+Third, Statcheck overestimates inconsistency rates, because it might not accurately detect corrections for multiple comparisons [@schmidt2017statcheck].
 @nuijten2017validity, however, show that not only were there only a small proportion of flagged inconsistencies related to multiple comparisons, but also that these multiple comparisons themselves were often erroneously reported.
 They conclude that "\[a\]ny reporting inconsistencies associated with these tests and corrections could not explain the high prevalence of reporting inconsistencies" [@nuijten2017validity, p. 27].
 
